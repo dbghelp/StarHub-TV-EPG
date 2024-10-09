@@ -22,7 +22,7 @@ In your M3U8 playlist,
 
 2. Change your tvg-id to the following for the respective channels:
   
-| Channel ID |         Channel Name          |
+|   tvg-id   |         Channel Name          |
 |------------|-------------------------------|
 | 101        | Preview Channel               |
 | 102        | Channel 5 HD                  |
