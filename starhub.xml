@@ -4095,9 +4095,14 @@
 		<desc>A politician loves a younger woman and finds her childhood love's daughter. Release Year: 2014 Director: Jibu Jacob</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
-	<programme channel="140" start="20241009190000 +0000" stop="20241009220000 +0000">
+	<programme channel="140" start="20241009190000 +0000" stop="20241009193000 +0000">
+		<title>Filler:Play Back - EP 558</title>
+		<desc>Filler Segment</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=341%26h=192" />
+	</programme>
+	<programme channel="140" start="20241009193000 +0000" stop="20241009214000 +0000">
 		<title>Traffic</title>
-		<desc>Traffic is a 2016 Hindi thriller road movie, directed by Rajesh Pillai. It is a remake of the 2011 Malayalam film of same name.</desc>
+		<desc>Dying journalist's parents navigate busy road to expedite a heart transplant.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
 	<programme channel="140" start="20241009214000 +0000" stop="20241010003000 +0000">
@@ -12327,7 +12332,7 @@
 	</programme>
 	<programme channel="701" start="20241009213000 +0000" stop="20241009220000 +0000">
 		<title>HARDtalk</title>
-		<desc>In-depth interviews with the world's leading politicians, opinion-formers and key figures from culture, business and sport.</desc>
+		<desc>Stephen Sackur speaks to Tamir Pardo, former director of the Israeli intelligence agency Mossad. He was appointed by Benjamin Netanyahu but now he's a fierce critic of the Israeli prime minister.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch701_hardtalk.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="701" start="20241009220000 +0000" stop="20241009223000 +0000">
@@ -13745,11 +13750,6 @@
 		<desc>Jake Tapper covers all the day's top stories around the country and the globe, from politics to money, sports to popular culture.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch711_the_lead_with_jake_tapper.jpg?w=341%26h=192" />
 	</programme>
-	<programme channel="711" start="20241009213000 +0000" stop="20241009220000 +0000">
-		<title>World Sport</title>
-		<desc>Daily sports show features major stories and issues making news in the world of sports.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch711_world_sport.jpg?w=341%26h=192" />
-	</programme>
 	<programme channel="711" start="20241009220000 +0000" stop="20241009230000 +0000">
 		<title>First Move</title>
 		<desc>Julia Chatterley explains the latest on global markets and the biggest stories shaping the economic landscape.</desc>
@@ -13776,43 +13776,33 @@
 		<icon src="https://poster.starhubgo.com/poster/ch711_cnn_newsnight_with_abby_phillip.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="711" start="20241010030000 +0000" stop="20241010040000 +0000">
+		<title>CNN NewsNight</title>
+		<desc>Abby Phillip delivers a smart, sharp approach to the day's biggest stories.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch711_cnn_newsnight_with_abby_phillip.jpg?w=341%26h=192" />
+	</programme>
+	<programme channel="711" start="20241010040000 +0000" stop="20241010050000 +0000">
 		<title>Laura Coates Live</title>
 		<desc>Laura Coates goes inside the story with a relentless pursuit of the facts.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch711_laura_coates_live.jpg?w=341%26h=192" />
 	</programme>
-	<programme channel="711" start="20241010040000 +0000" stop="20241010044500 +0000">
-		<title>CNN Newsroom</title>
-		<desc>Live context and clarity to the day's top stories from around the world.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch711_cnn_newsroom.jpg?w=341%26h=192" />
-	</programme>
-	<programme channel="711" start="20241010044500 +0000" stop="20241010050000 +0000">
-		<title>World Sport</title>
-		<desc>Daily sports show features major stories and issues making news in the world of sports.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch711_world_sport.jpg?w=341%26h=192" />
-	</programme>
 	<programme channel="711" start="20241010050000 +0000" stop="20241010060000 +0000">
-		<title>CNN Newsroom</title>
-		<desc>Live context and clarity to the day's top stories from around the world.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch711_cnn_newsroom.jpg?w=341%26h=192" />
+		<title>Laura Coates Live</title>
+		<desc>Laura Coates goes inside the story with a relentless pursuit of the facts.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch711_laura_coates_live.jpg?w=341%26h=192" />
 	</programme>
-	<programme channel="711" start="20241010060000 +0000" stop="20241010064500 +0000">
-		<title>CNN Newsroom</title>
-		<desc>Live context and clarity to the day's top stories from around the world.</desc>
+	<programme channel="711" start="20241010060000 +0000" stop="20241010070000 +0000">
+		<title>CNN Newsroom (CNN/US)</title>
+		<desc>A comprehensive blend of global events, politics, and compelling human stories.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch711_cnn_newsroom.jpg?w=341%26h=192" />
-	</programme>
-	<programme channel="711" start="20241010064500 +0000" stop="20241010070000 +0000">
-		<title>World Sport</title>
-		<desc>Daily sports show features major stories and issues making news in the world of sports.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch711_world_sport.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="711" start="20241010070000 +0000" stop="20241010080000 +0000">
-		<title>CNN Newsroom</title>
-		<desc>Live context and clarity to the day's top stories from around the world.</desc>
+		<title>CNN Newsroom (CNN/US)</title>
+		<desc>A comprehensive blend of global events, politics, and compelling human stories.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch711_cnn_newsroom.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="711" start="20241010080000 +0000" stop="20241010090000 +0000">
-		<title>CNN Newsroom</title>
-		<desc>Live context and clarity to the day's top stories from around the world.</desc>
+		<title>CNN Newsroom (CNN/US)</title>
+		<desc>The latest news from around the world.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch711_cnn_newsroom.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="711" start="20241010090000 +0000" stop="20241010100000 +0000">
@@ -13825,30 +13815,20 @@
 		<desc>Start your day with Kasie Hunt bringing you the latest headlines and analysis.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch711_cnn_this_morning.jpg?w=341%26h=192" />
 	</programme>
-	<programme channel="711" start="20241010110000 +0000" stop="20241010113000 +0000">
+	<programme channel="711" start="20241010110000 +0000" stop="20241010120000 +0000">
 		<title>CNN News Central</title>
 		<desc>Stay up to date with John Berman, Kate Bolduan and Sara Sidner from CNN's immersive news hub.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch711_cnn_news_central.jpg?w=341%26h=192" />
-	</programme>
-	<programme channel="711" start="20241010113000 +0000" stop="20241010120000 +0000">
-		<title>World Sport</title>
-		<desc>Daily sports show features major stories and issues making news in the world of sports.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch711_world_sport.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="711" start="20241010120000 +0000" stop="20241010130000 +0000">
 		<title>CNN Newsroom</title>
 		<desc>Live context and clarity to the day's top stories from around the world.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch711_cnn_newsroom.jpg?w=341%26h=192" />
 	</programme>
-	<programme channel="711" start="20241010130000 +0000" stop="20241010134500 +0000">
+	<programme channel="711" start="20241010130000 +0000" stop="20241010140000 +0000">
 		<title>Connect the World</title>
 		<desc>Becky Anderson explores diverse perspectives and explains global issues of the day.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch711_connect_the_world.jpg?w=341%26h=192" />
-	</programme>
-	<programme channel="711" start="20241010134500 +0000" stop="20241010140000 +0000">
-		<title>World Sport</title>
-		<desc>Daily sports show features major stories and issues making news in the world of sports.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch711_world_sport.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="711" start="20241010140000 +0000" stop="20241010150000 +0000">
 		<title>Connect the World</title>
