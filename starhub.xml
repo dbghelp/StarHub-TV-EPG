@@ -10940,12 +10940,17 @@
 		<desc>The world's elite singles and doubles table tennis players battle for a share of the US$2 million prize pool as well as 2000 world ranking points in Montpellier,France.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_wtt.jpg?w=960%26h=540" />
 	</programme>
-	<programme channel="210" start="20241022200000 +0000" stop="20241022210000 +0000">
+	<programme channel="210" start="20241022200000 +0000" stop="20241022203000 +0000">
+		<title>MotoGP 2024 Grand Prix of Japan Recap</title>
+		<desc>Recap the action, behind-the-scenes and rider interviews at the MotoGP 2024 Grand Prix of Japan Recap.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch210_motogp.jpg?w=960%26h=540" />
+	</programme>
+	<programme channel="210" start="20241022203000 +0000" stop="20241022213000 +0000">
 		<title>2024 WorldSBK Round 12 Prometeon Spanish Round</title>
 		<desc>The FIM Superbike World Championship is the leading production motorcycle racing series in the world with over 100 riders from more than 20 countries competing in various classes over 12 rounds.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_sbk_motul.jpg?w=341%26h=192" />
 	</programme>
-	<programme channel="210" start="20241022210000 +0000" stop="20241023050000 +0000">
+	<programme channel="210" start="20241022213000 +0000" stop="20241023051000 +0000">
 		<title>HSBC BWF World Tour Super 750: VICTOR Denmark Open 2024</title>
 		<desc>The HSBC BWF World Tour attracts the world's elite badminton players in competing for prize money and world ranking points in 30 four-tiered tournaments, culminating in the World Tour Finals in December.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_bwf.jpg?w=341%26h=192" />
@@ -11191,69 +11196,64 @@
 		<icon src="https://poster.starhubgo.com/poster/ch213_formula1_highlights.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="213" start="20241022000500 +0000" stop="20241022010500 +0000">
-		<title>FIA World Rally Championship Highlights 2024</title>
-		<desc>Enjoy highlights from the 52nd season of the World Rally Championship</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch213_fia_wrc_highlights.jpg?w=960%26h=540" />
-	</programme>
-	<programme channel="213" start="20241022010500 +0000" stop="20241022020000 +0000">
 		<title>Ferrari Challenge Europe Race 2024: Coppa Shell AM World Final Race</title>
 		<desc>Grace, Power %26 Prestige.With over 30 years of history, the Ferrari Challenge captures the fascination of the brand from Maranello.The 2024 season will show off the latest generation of Ferrari Challenge supercars on seven of Europe's most evocative tracks, including Jerez, Nurburgring, Le Castellet and Mugello, culminating at the glittering World Finals!</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch213_ferrari_challenge_europe_race.jpg?w=960%26h=540" />
 	</programme>
-	<programme channel="213" start="20241022020000 +0000" stop="20241022040000 +0000">
+	<programme channel="213" start="20241022010500 +0000" stop="20241022045500 +0000">
 		<title>Formula 1 Main Race 2024: FORMULA 1 PIRELLI UNITED STATES GRAND PRIX 2024</title>
 		<desc>beIN Sports brings you live and exclusive coverage of the 2024 Formula 1 World Championship. Double F1 World Champion Max Verstappen and Red Bull Racing are the defending champions.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch213_formula1_main_race.jpg?w=960%26h=540" />
 	</programme>
-	<programme channel="213" start="20241022040000 +0000" stop="20241022060000 +0000">
+	<programme channel="213" start="20241022045500 +0000" stop="20241022052000 +0000">
 		<title>MUTV 2024/25: Man United vs Brentford</title>
 		<desc>Enjoy every Manchester United match from the Premier League, FA Cup and Carabao Cup and friendlies, from MUTV on beIN SPORTS</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch213_mutv.jpg?w=341%26h=192" />
 	</programme>
-	<programme channel="213" start="20241022060000 +0000" stop="20241022063000 +0000">
+	<programme channel="213" start="20241022052000 +0000" stop="20241022053000 +0000">
 		<title>MUTV: Match Day Review 2024/25 Man United vs Brentford</title>
 		<desc>Directly after the final whistle of every Manchester United Premier League game the MUTV team review the game and all the talking points.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch213_mutv_match_day_review.jpg?w=341%26h=192" />
 	</programme>
-	<programme channel="213" start="20241022063000 +0000" stop="20241022070000 +0000">
+	<programme channel="213" start="20241022053000 +0000" stop="20241022060000 +0000">
 		<title>MUTV Highlights 2024/25 Porto vs Man United - UEL</title>
 		<desc>Enjoy match highlights from Manchester United's Premier League, FA Cup, Carabao Cup and UEFA Europa League games from MUTV on beIN SPORTS</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch213_mutv_highlights.jpg?w=960%26h=540" />
 	</programme>
-	<programme channel="213" start="20241022070000 +0000" stop="20241022083000 +0000">
+	<programme channel="213" start="20241022060000 +0000" stop="20241022073000 +0000">
 		<title>Premier Padel 2024: Newgiza P2 Day 2 Match 1 (Live)</title>
 		<desc>The official global Padel tour. Catch world's top players battle it out across the globe.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch213_premier_padel.jpg?w=341%26h=192" />
 	</programme>
-	<programme channel="213" start="20241022083000 +0000" stop="20241022100000 +0000">
+	<programme channel="213" start="20241022073000 +0000" stop="20241022090000 +0000">
 		<title>Premier Padel 2024: Newgiza P2 Day 2 Match 2 (Live)</title>
 		<desc>The official global Padel tour. Catch world's top players battle it out across the globe.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch213_premier_padel.jpg?w=341%26h=192" />
 	</programme>
-	<programme channel="213" start="20241022100000 +0000" stop="20241022113000 +0000">
+	<programme channel="213" start="20241022090000 +0000" stop="20241022103000 +0000">
 		<title>Premier Padel 2024: Newgiza P2 Day 2 Match 3 (Live)</title>
 		<desc>The official global Padel tour. Catch world's top players battle it out across the globe.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch213_premier_padel.jpg?w=341%26h=192" />
 	</programme>
-	<programme channel="213" start="20241022113000 +0000" stop="20241022130000 +0000">
+	<programme channel="213" start="20241022103000 +0000" stop="20241022120000 +0000">
 		<title>Premier Padel 2024: Newgiza P2 Day 2 Match 4 (Live)</title>
 		<desc>The official global Padel tour. Catch world's top players battle it out across the globe.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch213_premier_padel.jpg?w=341%26h=192" />
 	</programme>
-	<programme channel="213" start="20241022130000 +0000" stop="20241022143000 +0000">
+	<programme channel="213" start="20241022120000 +0000" stop="20241022133000 +0000">
 		<title>Premier Padel 2024: Newgiza P2 Day 2 Match 5 (Live)</title>
 		<desc>The official global Padel tour. Catch world's top players battle it out across the globe.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch213_premier_padel.jpg?w=341%26h=192" />
 	</programme>
-	<programme channel="213" start="20241022143000 +0000" stop="20241022160000 +0000">
+	<programme channel="213" start="20241022133000 +0000" stop="20241022150000 +0000">
 		<title>Premier Padel 2024: Newgiza P2 Day 2 Match 6 (Live)</title>
 		<desc>The official global Padel tour. Catch world's top players battle it out across the globe.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch213_premier_padel.jpg?w=341%26h=192" />
 	</programme>
-	<programme channel="213" start="20241022160000 +0000" stop="20241022163000 +0000">
-		<title>Mini Match - Bundesliga 2024/25: Bayern vs Stuttgart</title>
-		<desc>Watch every game of the season live as the top German football clubs battle it out in the Bundesliga, Germany's top division of football.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch213_mini_match_bundesliga.jpg?w=960%26h=540" />
+	<programme channel="213" start="20241022150000 +0000" stop="20241022163000 +0000">
+		<title>Premier Padel 2024: Newgiza P2 Day 2 Match 7 (Live)</title>
+		<desc>The official global Padel tour. Catch world's top players battle it out across the globe.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch213_premier_padel.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="213" start="20241022163000 +0000" stop="20241022164000 +0000">
 		<title>Bundesliga Goals</title>
