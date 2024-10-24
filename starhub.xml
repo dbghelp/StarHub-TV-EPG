@@ -10710,12 +10710,12 @@
 		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_channels2/205_1920x1080_HTV.png?w=960%26h=540" />
 	</programme>
-	<programme channel="205" start="20241025033000 +0000" stop="20241025113000 +0000">
-		<title>South Africa Tour of Bangladesh 2024: 1st Test - Day 5</title>
-		<desc>South Africa Tour of Bangladesh 2024: 1st Test - Day 5</desc>
-		<icon src="https://poster.starhubgo.com/poster/SAvBAN2024_TEST.jpg?w=341%26h=192" />
+	<programme channel="205" start="20241025040000 +0000" stop="20241025100000 +0000">
+		<title>End of Transmission</title>
+		<desc />
+		<icon src="https://poster.starhubgo.com/Linear_channels2/205_1920x1080_HTV.png?w=960%26h=540" />
 	</programme>
-	<programme channel="205" start="20241025113000 +0000" stop="20241025160000 +0000">
+	<programme channel="205" start="20241025100000 +0000" stop="20241025160000 +0000">
 		<title>End of Transmission</title>
 		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_channels2/205_1920x1080_HTV.png?w=960%26h=540" />
@@ -25972,7 +25972,7 @@
 	</programme>
 	<programme channel="708" start="20241024110000 +0000" stop="20241024113000 +0000">
 		<title>The David Rubenstein Show</title>
-		<desc>Peter Orszag, Lazard CEO. Philanthropist and financier David Rubenstein uncovers inside stories from the most influential minds in business.</desc>
+		<desc>Peter Orszag, Lazard CEO. Peter Orszag speaks on his ambitious plans to grow Lazard's revenue and what it's like to be an economist running an investment bank.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/708_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
 	<programme channel="708" start="20241024113000 +0000" stop="20241024120000 +0000">
@@ -30710,6 +30710,11 @@
 		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
+	<programme channel="811" start="20241025005000 +0000" stop="20241025005400 +0000">
+		<title>Mini Program</title>
+		<desc />
+		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341%26h=192" />
+	</programme>
 	<programme channel="811" start="20241025005400 +0000" stop="20241025005500 +0000">
 		<title>World Weather</title>
 		<desc>Weather information of the different areas around the world.</desc>
@@ -30851,8 +30856,8 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
 	<programme channel="811" start="20241025085900 +0000" stop="20241025090000 +0000">
-		<title>1-Minute Anime: Songs for SDGs</title>
-		<desc>Let’s learn about SDGs while singing along! A selected goal out of 17 will be introduced in each one-minute song with animation.</desc>
+		<title>Mini Program</title>
+		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
 	<programme channel="811" start="20241025090000 +0000" stop="20241025091000 +0000">
