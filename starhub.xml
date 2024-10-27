@@ -9950,7 +9950,7 @@
 		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_Channels2/204_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
-	<programme channel="204" start="20241026220000 +0000" stop="20241026233000 +0000">
+	<programme channel="204" start="20241026220000 +0000" stop="20241026234500 +0000">
 		<title>End of Transmission</title>
 		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_Channels2/204_1920x1080_HTV.png?w=341%26h=192" />
@@ -9990,9 +9990,19 @@
 		<desc>The ICC Women's T20 World Cup 2024, hosted by the Bangladesh Cricket Board in the United Arab Emirates, is the 9th edition of ICC Women's T20 World Cup tournament. Australia are the defending champions, having defeated South Africa in the final of the previous edition.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ICCWT20WC2024.jpg?w=341%26h=192" />
 	</programme>
-	<programme channel="204" start="20241028035000 +0000" stop="20241028120000 +0000">
-		<title>New Zealand Tour of India 2024: 2nd Test - Day 5</title>
-		<desc>New Zealand Tour of India 2024: 2nd Test - Day 5</desc>
+	<programme channel="204" start="20241028000500 +0000" stop="20241028041000 +0000">
+		<title>ICC Women's T20 World Cup 2024: M07 - India vs Pakistan</title>
+		<desc>The ICC Women's T20 World Cup 2024, hosted by the Bangladesh Cricket Board in the United Arab Emirates, is the 9th edition of ICC Women's T20 World Cup tournament. Australia are the defending champions, having defeated South Africa in the final of the previous edition.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ICCWT20WC2024.jpg?w=341%26h=192" />
+	</programme>
+	<programme channel="204" start="20241028041000 +0000" stop="20241028110000 +0000">
+		<title>New Zealand Tour of India 2024: 2nd Test - Day 1</title>
+		<desc>New Zealand Tour of India 2024: 2nd Test - Day 1</desc>
+		<icon src="https://poster.starhubgo.com/poster/NZvIND2024_TEST.jpg?w=960%26h=540" />
+	</programme>
+	<programme channel="204" start="20241028110000 +0000" stop="20241028175500 +0000">
+		<title>New Zealand Tour of India 2024: 2nd Test - Day 2</title>
+		<desc>New Zealand Tour of India 2024: 2nd Test - Day 2</desc>
 		<icon src="https://poster.starhubgo.com/poster/NZvIND2024_TEST.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="205" start="20241026160000 +0000" stop="20241026220000 +0000">
