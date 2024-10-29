@@ -6302,7 +6302,7 @@
 	</programme>
 	<programme channel="135" start="20241029143000 +0000" stop="20241029150000 +0000">
 		<title>Bigg Boss Tamil S08 Plus - EP 16</title>
-		<desc>Bigg Boss Tamil S08 Plus</desc>
+		<desc>Bigg Boss Tamil Season 8 starts with 18 diverse contestants for thrilling entertainment!</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch135_bigg_boss_tamil_s8_plus.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="135" start="20241029150000 +0000" stop="20241029153000 +0000">
@@ -6337,7 +6337,7 @@
 	</programme>
 	<programme channel="135" start="20241029183000 +0000" stop="20241029190000 +0000">
 		<title>Bigg Boss Tamil S08 Plus - EP 16</title>
-		<desc>Bigg Boss Tamil S08 Plus</desc>
+		<desc>Bigg Boss Tamil Season 8 starts with 18 diverse contestants for thrilling entertainment!</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch135_bigg_boss_tamil_s8_plus.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="135" start="20241029190000 +0000" stop="20241029193000 +0000">
@@ -12120,7 +12120,27 @@
 		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_Channels2/224_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="224" start="20241029040000 +0000" stop="20241029100000 +0000">
+	<programme channel="224" start="20241029040000 +0000" stop="20241029085500 +0000">
+		<title>End of Transmission</title>
+		<desc />
+		<icon src="https://poster.starhubgo.com/Linear_Channels2/224_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="224" start="20241029085500 +0000" stop="20241029090000 +0000">
+		<title>End of Transmission</title>
+		<desc />
+		<icon src="https://poster.starhubgo.com/Linear_Channels2/224_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="224" start="20241029090000 +0000" stop="20241029090500 +0000">
+		<title>End of Transmission</title>
+		<desc />
+		<icon src="https://poster.starhubgo.com/Linear_Channels2/224_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="224" start="20241029090500 +0000" stop="20241029091000 +0000">
+		<title>End of Transmission</title>
+		<desc />
+		<icon src="https://poster.starhubgo.com/Linear_Channels2/224_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="224" start="20241029091000 +0000" stop="20241029100000 +0000">
 		<title>End of Transmission</title>
 		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_Channels2/224_1920x1080_HTV.png?w=341&amp;h=192" />
