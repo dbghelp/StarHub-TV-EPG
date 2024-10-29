@@ -10955,10 +10955,15 @@
 		<desc>Supercars delivers exhilarating and accessible motorsports-led entertainment to engaged and passionate fans.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_motorsports.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="210" start="20241029203000 +0000" stop="20241029223000 +0000">
+	<programme channel="210" start="20241029203000 +0000" stop="20241029220000 +0000">
 		<title>ISU World Figure Skating Grand Prix Halifax (CANADA)</title>
 		<desc>The ISU Grand Prix of Figure Skating Series consists of six international senior events in North America, Europe and Asia, culminating with the ISU Grand Prix of Figure Skating Final in Grenoble, France.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_spotv2_logo.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="210" start="20241029220000 +0000" stop="20241029223000 +0000">
+		<title>MotoGP 2024 Grand Prix of Australian Recap</title>
+		<desc>Recap the action, behind-the-scenes and rider interviews at the MotoGP 2024 Grand Prix of Japan Recap.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch210_motogp.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="210" start="20241029223000 +0000" stop="20241029230000 +0000">
 		<title>SailGP: Racing on the Edge</title>
@@ -10975,12 +10980,22 @@
 		<desc>12 of the best MLB teams of the Regular Season slug it out through the Wild Card, Division, League Championship and World Series to be crowned kings of the world's best professional baseball league.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_baseball.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="210" start="20241030030000 +0000" stop="20241030063000 +0000">
+	<programme channel="210" start="20241030030000 +0000" stop="20241030040000 +0000">
 		<title>MotoGP 2024 Round 17 - Qatar Airways Australian Motorcycle Grand Prix</title>
 		<desc>The MotoGP World Championship crowns one of 22 riders lining up on 1000cc prototype bikes capable of producing over 240 horsepower and getting up to speeds of 350kph over 21 Grand Prix races.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_motogp.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="210" start="20241030063000 +0000" stop="20241030080000 +0000">
+	<programme channel="210" start="20241030040000 +0000" stop="20241030043000 +0000">
+		<title>MotoGP 2024 Spotlight</title>
+		<desc>Takaaki Nakagami has officially announced his retirement from racing at the end of 2024 season. Nakagami is set to transition into a development role with Honda Racing Corporation starting in 2025</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch210_motogp.jpg?w=960&amp;h=540" />
+	</programme>
+	<programme channel="210" start="20241030043000 +0000" stop="20241030064500 +0000">
+		<title>ISU World Figure Skating Grand Prix Halifax (CANADA)</title>
+		<desc>The ISU Grand Prix of Figure Skating Series consists of six international senior events in North America, Europe and Asia, culminating with the ISU Grand Prix of Figure Skating Final in Grenoble, France.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch210_spotv2_logo.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="210" start="20241030064500 +0000" stop="20241030080000 +0000">
 		<title>ISU World Figure Skating Grand Prix Halifax (CANADA)</title>
 		<desc>The ISU Grand Prix of Figure Skating Series consists of six international senior events in North America, Europe and Asia, culminating with the ISU Grand Prix of Figure Skating Final in Grenoble, France.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_spotv2_logo.jpg?w=341&amp;h=192" />
@@ -11006,17 +11021,17 @@
 		<icon src="https://poster.starhubgo.com/poster/ch210_spotv2_logo.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="211" start="20241028160000 +0000" stop="20241028180000 +0000">
-		<title>ATP Tour 1000 2024: Paris Day 1 Match 4</title>
+		<title>ATP Tour 1000 2024 Paris Day 1 - Fognini v Bublik</title>
 		<desc>Exclusive coverage of the 2024 ATP Tour on beIN SPORTS as the world's best male players battle it out across the globe to be #1.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_atp_tour_1000.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="211" start="20241028180000 +0000" stop="20241028193000 +0000">
-		<title>ATP Tour 1000 2024: Paris Day 1 Match 5</title>
+		<title>ATP Tour 1000 2024 Paris Day 1 Tsitsipas v Carballes Baena</title>
 		<desc>Exclusive coverage of the 2024 ATP Tour on beIN SPORTS as the world's best male players battle it out across the globe to be #1.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_atp_tour_1000.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="211" start="20241028193000 +0000" stop="20241028220000 +0000">
-		<title>ATP Tour 1000 2024: Paris Day 1 Match 6</title>
+		<title>ATP Tour 1000 2024 Paris Day 1 Mannarino v Paul</title>
 		<desc>Exclusive coverage of the 2024 ATP Tour on beIN SPORTS as the world's best male players battle it out across the globe to be #1.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_atp_tour_1000.jpg?w=960&amp;h=540" />
 	</programme>
