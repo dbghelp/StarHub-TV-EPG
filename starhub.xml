@@ -10200,10 +10200,15 @@
 		<desc>The ICC Women’s T20 World Cup 2024, hosted by the Bangladesh Cricket Board in the United Arab Emirates, is the 9th edition of ICC Women's T20 World Cup tournament. Australia are the defending champions, having defeated South Africa in the final of the previous edition.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ICCWT20WC2024.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="204" start="20241031120500 +0000" stop="20241031160000 +0000">
+	<programme channel="204" start="20241031120500 +0000" stop="20241031152000 +0000">
 		<title>Weber Women's Big Bash League 2024: M05 - Sydney Sixers vs Adelaide Strikers</title>
 		<desc>The 2024-25 Women's Big Bash League season is the 10th season of the Women's Big Bash League (WBBL), the semi-professional women's Twenty20 domestic cricket competition in Australia, taking place from 27 October to 1 December 2024.</desc>
 		<icon src="https://poster.starhubgo.com/poster/WBBL2024_GENERIC.jpg?w=960&amp;h=540" />
+	</programme>
+	<programme channel="204" start="20241031152000 +0000" stop="20241031160000 +0000">
+		<title>End of Transmission</title>
+		<desc />
+		<icon src="https://poster.starhubgo.com/Linear_Channels2/204_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="205" start="20241029160000 +0000" stop="20241029220000 +0000">
 		<title>End of Transmission</title>
@@ -10281,7 +10286,7 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/206_1920x1080_HTV.png?w=960&amp;h=540" />
 	</programme>
 	<programme channel="206" start="20241031060000 +0000" stop="20241031100000 +0000">
-		<title>Asian Tour 2024</title>
+		<title>Asian Tour 2024 (Live)</title>
 		<desc>Watch the fun and excitement unfold as players battle it out for the overall purse of US$1.5 million at the Royale Jakarta Golf Club.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch201_asian_tour.jpg?w=960&amp;h=540" />
 	</programme>
@@ -10420,6 +10425,11 @@
 		<desc>The HSBC BWF World Tour attracts the world's elite badminton players in competing for prize money and world ranking points in 30 four-tiered tournaments, culminating in the World Tour Finals in December.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch209_bwf.jpg?w=341&amp;h=192" />
 	</programme>
+	<programme channel="209" start="20241031042000 +0000" stop="20241031045000 +0000">
+		<title>FIA Pure Motorsport 2024</title>
+		<desc>Motorsport is broader than you think - have a deeper look to some of the FIA’s most thrilling competitions.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch209_motorsports.jpg?w=960&amp;h=540" />
+	</programme>
 	<programme channel="209" start="20241031045000 +0000" stop="20241031100000 +0000">
 		<title>BDMNTN - XL 2024 (BXL)</title>
 		<desc>A groundbreaking Badminton event that breaks away from traditional conventions. A stage for fierce competition and showcasing the best of the best.</desc>
@@ -10482,7 +10492,7 @@
 	</programme>
 	<programme channel="210" start="20241030040000 +0000" stop="20241030043000 +0000">
 		<title>MotoGP 2024 Spotlight</title>
-		<desc>Takaaki Nakagami has officially announced his retirement from racing at the end of 2024 season. Nakagami is set to transition into a development role with Honda Racing Corporation starting in 2025</desc>
+		<desc>Jack Miller Special in Australia | Jack Miller Questions | In Conversation: Jorge Martin</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_motogp.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="210" start="20241030043000 +0000" stop="20241030064500 +0000">
@@ -10536,7 +10546,7 @@
 		<icon src="https://poster.starhubgo.com/poster/ch210_wtt.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="210" start="20241030233000 +0000" stop="20241031000800 +0000">
-		<title>Hyundai Archery World Cup Tlaxcala 2024 Recurved Final</title>
+		<title>Hyundai Archery World Cup Tlaxcala 2024 Recurve Final</title>
 		<desc>Consisting of three stages and a grand final, the annual Hyundai Archery World Cup features international elite compound and recurve archers shooting for the title of Hyundai Archery World Cup Champion.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_spotv2_logo.jpg?w=341&amp;h=192" />
 	</programme>
@@ -23132,7 +23142,7 @@
 	</programme>
 	<programme channel="701" start="20241029223000 +0000" stop="20241029230000 +0000">
 		<title>HARDtalk</title>
-		<desc>In-depth interviews with the world's leading politicians, opinion-formers and key figures from culture, business and sport.</desc>
+		<desc>Stephen Sackur is in Washington DC to speak to Democratic Party Senator Chris Murphy. How can Vice President Kamala Harris convince Americans that she stands for change rather than business as usual?</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch701_hardtalk.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="701" start="20241029230000 +0000" stop="20241029233000 +0000">
@@ -23427,7 +23437,7 @@
 	</programme>
 	<programme channel="701" start="20241031003000 +0000" stop="20241031010000 +0000">
 		<title>HARDtalk</title>
-		<desc>In-depth interviews with the world's leading politicians, opinion-formers and key figures from culture, business and sport.</desc>
+		<desc>Stephen Sackur talks to Diane Foley whose son James was kidnapped by the so-called Islamic state and murdered in 2014.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch701_hardtalk.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="701" start="20241031010000 +0000" stop="20241031013000 +0000">
@@ -23547,7 +23557,7 @@
 	</programme>
 	<programme channel="701" start="20241031103000 +0000" stop="20241031110000 +0000">
 		<title>HARDtalk</title>
-		<desc>In-depth interviews with the world's leading politicians, opinion-formers and key figures from culture, business and sport.</desc>
+		<desc>Stephen Sackur talks to Diane Foley whose son James was kidnapped by the so-called Islamic state and murdered in 2014.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch701_hardtalk.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="701" start="20241031110000 +0000" stop="20241031113000 +0000">
@@ -23595,12 +23605,7 @@
 		<desc>All the big stories, live as they happen, presented by Lucy Hockings.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch701_bbc_news_now.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="701" start="20241031143000 +0000" stop="20241031145500 +0000">
-		<title>BBC News Now</title>
-		<desc>All the big stories, live as they happen, presented by Lucy Hockings.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch701_bbc_news_now.jpg?w=341&amp;h=192" />
-	</programme>
-	<programme channel="701" start="20241031145500 +0000" stop="20241031150000 +0000">
+	<programme channel="701" start="20241031143000 +0000" stop="20241031150000 +0000">
 		<title>BBC News Now</title>
 		<desc>All the big stories, live as they happen, presented by Lucy Hockings.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch701_bbc_news_now.jpg?w=341&amp;h=192" />
