@@ -4,6 +4,8 @@
 
 This repository contains the XML EPG (Electronic Program Guide) for StarHub TV channels. The EPG provides a schedule of the current and upcoming TV programs, enabling users to easily see what's on and plan their viewing.
 
+Preview: https://dbghelp.github.io/epg.html?file=https://raw.githubusercontent.com/dbghelp/StarHub-TV-EPG/refs/heads/main/starhub.xml
+
 ## Features
 
 - XML formatted EPG for StarHub TV channels
