@@ -10500,22 +10500,12 @@
 		<desc>Takaaki Nakagami has officially announced his retirement from racing at the end of 2024 season. Nakagami is set to transition into a development role with Honda Racing Corporation starting in 2025</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_motogp.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="210" start="20241031120000 +0000" stop="20241031143000 +0000">
+	<programme channel="210" start="20241031120000 +0000" stop="20241031153500 +0000">
 		<title>2024 MLB World Series Game 5 Los Angeles Dodgers vs New York Yankees</title>
 		<desc>12 of the best MLB teams of the Regular Season slug it out through the Wild Card, Division, League Championship and World Series to be crowned kings of the world's best professional baseball league.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_baseball.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="210" start="20241031143000 +0000" stop="20241031150000 +0000">
-		<title>SailGP: Racing on the Edge</title>
-		<desc>Expect sheer emotion, state-of-the-art technology and incredible drama as elite athletes fly cutting-edge wingsailed catamarans in thrilling close-to-shore races in iconic venues across the globe.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch210_spotv2_logo.jpg?w=341&amp;h=192" />
-	</programme>
-	<programme channel="210" start="20241031150000 +0000" stop="20241031153000 +0000">
-		<title>Hyundai Archery World Cup Tlaxcala 2024 Recurve Final</title>
-		<desc>Consisting of three stages and a grand final, the annual Hyundai Archery World Cup features international elite compound and recurve archers shooting for the title of Hyundai Archery World Cup Champion.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch210_spotv2_logo.jpg?w=341&amp;h=192" />
-	</programme>
-	<programme channel="210" start="20241031153000 +0000" stop="20241031174500 +0000">
+	<programme channel="210" start="20241031153500 +0000" stop="20241031174500 +0000">
 		<title>2024 GTOUR Mixed Cup 2nd Tournament Oligio</title>
 		<desc>Launched in 2012, the Golfzon GTOUR is a series of professional men's and women's screen golf tournaments in South Korea.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_golf.jpg?w=960&amp;h=540" />
@@ -25395,9 +25385,14 @@
 		<desc>Bloomberg: Balance of Power focuses on the politics and policies being shaped by the agenda of President Biden's administration.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/708_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="708" start="20241031220000 +0000" stop="20241031230000 +0000">
-		<title>The Invisible Shield</title>
-		<desc>The New Playbook. With all the challenges the public health sector faces, how will a committed next generation of public health workers going overcome these obstacles?</desc>
+	<programme channel="708" start="20241031220000 +0000" stop="20241031223000 +0000">
+		<title>Bloomberg Technology</title>
+		<desc>The only daily news programme focused exclusively on technology, innovation and the future of business. Hosted by Ed Ludlow from San Francisco and Caroline Hyde in New York.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/708_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="708" start="20241031223000 +0000" stop="20241031230000 +0000">
+		<title>Bloomberg Screentime: Defining the Next Phase of Pop Culture</title>
+		<desc>Screentime gathers the moguls, celebrities, and entrepreneurs defining the next phase of pop culture, including Michael Rapino, Clara Wu Tsai, Brian Roberts, Bela Bajaria and Snoop Dogg.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/708_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="708" start="20241031230000 +0000" stop="20241101010000 +0000">
@@ -25448,11 +25443,6 @@
 	<programme channel="708" start="20241101130000 +0000" stop="20241101150000 +0000">
 		<title>Bloomberg Open Interest</title>
 		<desc>Matt Miller, Katie Greifeld and Sonali Basak deliver the market-moving news you need to know to get a jump start on the US trading day.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/708_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="708" start="20241101150000 +0000" stop="20241101160000 +0000">
-		<title>Bloomberg Technology</title>
-		<desc>The only daily news programme focused exclusively on technology, innovation and the future of business. Hosted by Ed Ludlow from San Francisco and Caroline Hyde in New York.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/708_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="709" start="20241030160000 +0000" stop="20241030163000 +0000">
