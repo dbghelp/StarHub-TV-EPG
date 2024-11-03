@@ -3735,12 +3735,12 @@
 		<desc>A romance revenge drama about Yong Su-jung, a successful home shopping host and Yeo Eui-joo, a hardworking and stingy man who bet his life on her.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch823_the_brave_yongsujung.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="124" start="20241103123000 +0000" stop="20241103134500 +0000">
+	<programme channel="124" start="20241103123000 +0000" stop="20241103135000 +0000">
 		<title>Doubt - EP 7</title>
 		<desc>Korea's best criminal profiler Jang Tae-soo faces a dilemma when he discovers that his daughter might be involved in a murder case he's investigating.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch823_doubt.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="124" start="20241103134500 +0000" stop="20241103150500 +0000">
+	<programme channel="124" start="20241103135000 +0000" stop="20241103150500 +0000">
 		<title>Now, We Are Breaking Up - EP 6</title>
 		<desc>Chi Hyung apologises to So Young for wrongly accusing her of stealing Young Eun's design. Young Eun's team produces for a live show on the internet.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch823_now_we_are_breaking_up.jpg?w=960&amp;h=540" />
@@ -9895,7 +9895,22 @@
 		<desc>Host Devan Bonebrake returns with more game-changing tips and strategies in the newest season of The Golf Fix! One of the best young teachers in the game, Devan will arm you with the practice drills, on-course strategies and even equipment tips you will need to play your best golf ever in 2024</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch203_golf_fix.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="203" start="20241103160000 +0000" stop="20241103220000 +0000">
+	<programme channel="203" start="20241103160000 +0000" stop="20241103170000 +0000">
+		<title>End of Transmission</title>
+		<desc>End of Transmission</desc>
+		<icon src="https://poster.starhubgo.com/Linear_Channels2/203_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="203" start="20241103170000 +0000" stop="20241103183000 +0000">
+		<title>Hologic WTA Tour 2024</title>
+		<desc>The Merida Open is an outdoor hardcourt tennis event held at the Yucatan Country Club in Merida, Mexico. This tournament was the first of its class in the city of Merida.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch203_hologic_WTA_tour.jpg?w=960&amp;h=540" />
+	</programme>
+	<programme channel="203" start="20241103183000 +0000" stop="20241103193000 +0000">
+		<title>Hologic WTA Tour 2024</title>
+		<desc>The Merida Open is an outdoor hardcourt tennis event held at the Yucatan Country Club in Merida, Mexico. This tournament was the first of its class in the city of Merida.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch203_hologic_WTA_tour.jpg?w=960&amp;h=540" />
+	</programme>
+	<programme channel="203" start="20241103193000 +0000" stop="20241103220000 +0000">
 		<title>End of Transmission</title>
 		<desc>End of Transmission</desc>
 		<icon src="https://poster.starhubgo.com/Linear_Channels2/203_1920x1080_HTV.png?w=341&amp;h=192" />
@@ -9960,7 +9975,7 @@
 		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_Channels2/204_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="204" start="20241103220000 +0000" stop="20241104001000 +0000">
+	<programme channel="204" start="20241103220000 +0000" stop="20241104014500 +0000">
 		<title>End of Transmission</title>
 		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_Channels2/204_1920x1080_HTV.png?w=341&amp;h=192" />
@@ -10705,45 +10720,35 @@
 		<desc>Extensive coverage from every round of the Spanish LaLiga, Spain's top division of football with the World's biggest teams</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch213_laliga.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="213" start="20241104004000 +0000" stop="20241104023000 +0000">
-		<title>LaLiga 2024/25: Athletic Bilbao vs Real Betis</title>
+	<programme channel="213" start="20241104014000 +0000" stop="20241104033000 +0000">
+		<title>LaLiga 2024/25: Sevilla vs Real Sociedad</title>
 		<desc>Extensive coverage from every round of the Spanish LaLiga, Spain's top division of football with the World's biggest teams</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch213_laliga.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="213" start="20241104023000 +0000" stop="20241104030000 +0000">
-		<title>LaLiga Talking Football 2024/25</title>
-		<desc>LaLiga Talking Football is an exclusive unique window into Spanish football and the people that have made it what it is. We talk to LaLiga legends in their environment about deep issues, their successes but also their weaknesses.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch213_laliga_talking_football.jpg?w=960&amp;h=540" />
-	</programme>
-	<programme channel="213" start="20241104030000 +0000" stop="20241104040000 +0000">
+	<programme channel="213" start="20241104033000 +0000" stop="20241104043000 +0000">
 		<title>Formula 1 Qualifying 2024: FORMULA 1 LENOVO GRANDE PREMIO DE SAO PAULO 2024</title>
 		<desc>beIN Sports brings you live and exclusive coverage of the 2024 Formula 1 World Championship. Double F1 World Champion Max Verstappen and Red Bull Racing are the defending champions.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch213_formula1_qualifying.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="213" start="20241104040000 +0000" stop="20241104060000 +0000">
+	<programme channel="213" start="20241104043000 +0000" stop="20241104063000 +0000">
 		<title>F1 Kids 2024</title>
 		<desc>A first of its kind in motorsport, watch the next generation of presenting talents bring you coverage of the 2024 Formula 1 World Championship.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch213_f1_kids.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="213" start="20241104060000 +0000" stop="20241104063000 +0000">
+	<programme channel="213" start="20241104063000 +0000" stop="20241104070000 +0000">
 		<title>MUTV Highlights 2024/25 Fenerbahce vs Man United - UEL</title>
 		<desc>Enjoy match highlights from Manchester United's Premier League, FA Cup, Carabao Cup and UEFA Europa League games from MUTV on beIN SPORTS</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch213_mutv_highlights.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="213" start="20241104063000 +0000" stop="20241104082500 +0000">
-		<title>MUTV 2024/25: Man United vs Chelsea</title>
+	<programme channel="213" start="20241104070000 +0000" stop="20241104085500 +0000">
+		<title>MUTV 2024/25 Man United vs Chelsea</title>
 		<desc>Enjoy every Manchester United match from the Premier League, FA Cup and Carabao Cup and friendlies, from MUTV on beIN SPORTS</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch213_mutv.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch213_mutv.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="213" start="20241104082500 +0000" stop="20241104085500 +0000">
+	<programme channel="213" start="20241104085500 +0000" stop="20241104092500 +0000">
 		<title>MUTV: Match Day Review 2024/25 Man United vs Chelsea</title>
 		<desc>Directly after the final whistle of every Manchester United Premier League game the MUTV team review the game and all the talking points.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch213_mutv_match_day_review.jpg?w=341&amp;h=192" />
-	</programme>
-	<programme channel="213" start="20241104085500 +0000" stop="20241104092500 +0000">
-		<title>Kite Masters 2024</title>
-		<desc>Kite Masters travels all around the world to give you a flavour of the best events and top riders in one of the fastest growing sports in the world: kite surfing.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch213_kite_masters.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="213" start="20241104092500 +0000" stop="20241104102500 +0000">
 		<title>Ferrari Challenge Europe Highlights 2024</title>
@@ -32295,12 +32300,12 @@
 		<desc>A romance revenge drama about Yong Su-jung, a successful home shopping host and Yeo Eui-joo, a hardworking and stingy man who bet his life on her.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch823_the_brave_yongsujung.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="823" start="20241103123000 +0000" stop="20241103134500 +0000">
+	<programme channel="823" start="20241103123000 +0000" stop="20241103135000 +0000">
 		<title>Doubt - EP 7</title>
 		<desc>Korea's best criminal profiler Jang Tae-soo faces a dilemma when he discovers that his daughter might be involved in a murder case he's investigating.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch823_doubt.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="823" start="20241103134500 +0000" stop="20241103150500 +0000">
+	<programme channel="823" start="20241103135000 +0000" stop="20241103150500 +0000">
 		<title>Now, We Are Breaking Up - EP 6</title>
 		<desc>Chi Hyung apologises to So Young for wrongly accusing her of stealing Young Eun's design. Young Eun's team produces for a live show on the internet.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch823_now_we_are_breaking_up.jpg?w=960&amp;h=540" />
