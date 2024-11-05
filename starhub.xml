@@ -10420,15 +10420,10 @@
 		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_Channels2/204_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="204" start="20241105220000 +0000" stop="20241106000000 +0000">
+	<programme channel="204" start="20241105220000 +0000" stop="20241106002000 +0000">
 		<title>End of Transmission</title>
 		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_Channels2/204_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="204" start="20241106000000 +0000" stop="20241106033000 +0000">
-		<title>Weber Women's Big Bash League 2024: M12 - Melbourne Stars vs Hobart Hurricanes</title>
-		<desc>The 2024-25 Women's Big Bash League season is the 10th season of the Women's Big Bash League (WBBL), the semi-professional women's Twenty20 domestic cricket competition in Australia, taking place from 27 October to 1 December 2024.</desc>
-		<icon src="https://poster.starhubgo.com/poster/WBBL2024_GENERIC.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="204" start="20241106033000 +0000" stop="20241106070000 +0000">
 		<title>Weber Women's Big Bash League 2024: M13 - Melbourne Renegades vs Adelaide Strike</title>
@@ -11045,47 +11040,42 @@
 		<desc>Watch every game of the season live as the top German football clubs battle it out in the Bundesliga, Germany's top division of football.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch213_mini_match_bundesliga.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="213" start="20241105063000 +0000" stop="20241105070000 +0000">
-		<title>Mini Match - Bundesliga 2024/25: Leverkusen vs Stuttgart</title>
-		<desc>Watch every game of the season live as the top German football clubs battle it out in the Bundesliga, Germany's top division of football.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch213_mini_match_bundesliga.jpg?w=960&amp;h=540" />
-	</programme>
-	<programme channel="213" start="20241105070000 +0000" stop="20241105080000 +0000">
+	<programme channel="213" start="20241105063000 +0000" stop="20241105073000 +0000">
 		<title>Bundesliga Highlights 2024/25</title>
 		<desc>All the action from the latest round of games in the German Bundesliga, Germany's top division of football.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch213_bundesliga_highlights.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="213" start="20241105080000 +0000" stop="20241105083000 +0000">
+	<programme channel="213" start="20241105073000 +0000" stop="20241105080000 +0000">
 		<title>MUTV Highlights 2024/25 Man United vs Brentford</title>
 		<desc>Enjoy match highlights from Manchester United's Premier League, FA Cup, Carabao Cup and UEFA Europa League games from MUTV on beIN SPORTS</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch213_mutv_highlights.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="213" start="20241105083000 +0000" stop="20241105103000 +0000">
+	<programme channel="213" start="20241105080000 +0000" stop="20241105100000 +0000">
 		<title>MUTV 2024/25: Man United vs Chelsea</title>
 		<desc>Enjoy every Manchester United match from the Premier League, FA Cup and Carabao Cup and friendlies, from MUTV on beIN SPORTS</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch213_mutv.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="213" start="20241105103000 +0000" stop="20241105110000 +0000">
+	<programme channel="213" start="20241105100000 +0000" stop="20241105103000 +0000">
 		<title>MUTV: Match Day Review 2024/25 Man United vs Chelsea</title>
 		<desc>Directly after the final whistle of every Manchester United Premier League game the MUTV team review the game and all the talking points.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch213_mutv_match_day_review.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="213" start="20241105110000 +0000" stop="20241105123000 +0000">
+	<programme channel="213" start="20241105103000 +0000" stop="20241105120000 +0000">
 		<title>Premier Padel 2024: Dubai P1 Day 1 Match 1 (Live)</title>
 		<desc>The official global Padel tour. Catch world's top players battle it out across the globe.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch213_premier_padel.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="213" start="20241105123000 +0000" stop="20241105140000 +0000">
+	<programme channel="213" start="20241105120000 +0000" stop="20241105133000 +0000">
 		<title>Premier Padel 2024: Dubai P1 Day 1 Match 2 (Live)</title>
 		<desc>The official global Padel tour. Catch world's top players battle it out across the globe.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch213_premier_padel.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="213" start="20241105140000 +0000" stop="20241105153000 +0000">
+	<programme channel="213" start="20241105133000 +0000" stop="20241105150000 +0000">
 		<title>Premier Padel 2024: Dubai P1 Day 1 Match 3 (Live)</title>
 		<desc>The official global Padel tour. Catch world's top players battle it out across the globe.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch213_premier_padel.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="213" start="20241105153000 +0000" stop="20241105170000 +0000">
+	<programme channel="213" start="20241105150000 +0000" stop="20241105170000 +0000">
 		<title>Premier Padel 2024: Dubai P1 Day 1 Match 4 (Live)</title>
 		<desc>The official global Padel tour. Catch world's top players battle it out across the globe.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch213_premier_padel.jpg?w=341&amp;h=192" />
@@ -19957,7 +19947,7 @@
 	</programme>
 	<programme channel="447" start="20241105050000 +0000" stop="20241105060000 +0000">
 		<title>Afternoon Briefing (2024) - EP 202</title>
-		<desc>Live from Parliament House in Canberra, Greg Jennett brings you everything you need to know about politics, national and global affairs today, speaking with the key decision makers and stakeholders on issues in the news.</desc>
+		<desc>Greg Jennett covers the latest on the US election, interest rates and student debt, speaking with George Brandis, Chris Richardson, Jonathan Weisman, Greens Leader Adam Bandt, plus a panel of Kristy McBain and Angie Bell.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="447" start="20241105060000 +0000" stop="20241105070000 +0000">
@@ -19971,8 +19961,8 @@
 		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="447" start="20241105072500 +0000" stop="20241105080000 +0000">
-		<title>Secret Science S1 - EP 3</title>
-		<desc>The only thing to fear, is fear itself, but is that true? And what is fear anyway? Myf Warhurst discovers that most of our fears are learned. So how do we beat them? And could they be useful?</desc>
+		<title>Secret Science S1 - EP 4</title>
+		<desc>Sammy J discovers how our senses shape reality and how, even when lost, they can transform, enhancing our connection to the world.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="447" start="20241105080000 +0000" stop="20241105083000 +0000">
@@ -19982,7 +19972,7 @@
 	</programme>
 	<programme channel="447" start="20241105083000 +0000" stop="20241105090000 +0000">
 		<title>7.30 (2024) - EP 174</title>
-		<desc>Sarah Ferguson presents Australia's premier daily current affairs program, delivering agenda-setting public affairs journalism and interviews that hold the powerful to account. Plus political analysis from Laura Tingle.</desc>
+		<desc>On the eve of the US Election, Sarah Ferguson is in the US with the final word on the presidential campaign, plus agenda-setting public affairs journalism and interviews that hold the powerful to account.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="447" start="20241105090000 +0000" stop="20241105094500 +0000">
@@ -20007,12 +19997,12 @@
 	</programme>
 	<programme channel="447" start="20241105114500 +0000" stop="20241105120000 +0000">
 		<title>Media Watch (2024) - EP 39</title>
-		<desc>Australia's leading forum for media analysis and comment, bringing you a brave and fearless critique of the week's journalism, issues and events in the news. Presented by Paul Barry.</desc>
+		<desc>A US election special. Will billionaire media moguls swing the US presidential election? Will a re-elected Trump punish the mainstream media? Should the media believe the opinion polls?</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="447" start="20241105120000 +0000" stop="20241105123000 +0000">
-		<title>Secret Science S1 - EP 3</title>
-		<desc>The only thing to fear, is fear itself, but is that true? And what is fear anyway? Myf Warhurst discovers that most of our fears are learned. So how do we beat them? And could they be useful?</desc>
+		<title>Secret Science S1 - EP 4</title>
+		<desc>Sammy J discovers how our senses shape reality and how, even when lost, they can transform, enhancing our connection to the world.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="447" start="20241105123000 +0000" stop="20241105133000 +0000">
@@ -20022,7 +20012,7 @@
 	</programme>
 	<programme channel="447" start="20241105133000 +0000" stop="20241105140000 +0000">
 		<title>7.30 (2024) - EP 174</title>
-		<desc>Sarah Ferguson presents Australia's premier daily current affairs program, delivering agenda-setting public affairs journalism and interviews that hold the powerful to account. Plus political analysis from Laura Tingle.</desc>
+		<desc>On the eve of the US Election, Sarah Ferguson is in the US with the final word on the presidential campaign, plus agenda-setting public affairs journalism and interviews that hold the powerful to account.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="447" start="20241105140000 +0000" stop="20241105141500 +0000">
@@ -20035,19 +20025,19 @@
 		<desc>It's the rates that stop the nation. On Melbourne Cup Day, the Reserve Bank meet to decide on interest rates. Central banks around the world have begun cutting rates, when will the RBA ease? Plus all eyes on the US election.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="447" start="20241105143000 +0000" stop="20241105153000 +0000">
+	<programme channel="447" start="20241105143000 +0000" stop="20241105152500 +0000">
 		<title>The World (2024) - EP 178</title>
 		<desc>There's never been a more important time to stay in touch with what's happening in our world. Weeknights at 9pm AEDT, Girish Sawlani presents the latest international news from correspondents and interviews with guests.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="447" start="20241105153000 +0000" stop="20241105161500 +0000">
+	<programme channel="447" start="20241105152500 +0000" stop="20241105161500 +0000">
 		<title>Four Corners (2024) - EP 27</title>
 		<desc>In the red soil of the Top End a new 'silver bullet' industry is emerging - cotton. Angus Grigg exposes a system riven by conflicts of interest that threatens to destroy some of the NT's most famous tourism destinations.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="447" start="20241105161500 +0000" stop="20241105163000 +0000">
 		<title>Media Watch (2024) - EP 39</title>
-		<desc>Australia's leading forum for media analysis and comment, bringing you a brave and fearless critique of the week's journalism, issues and events in the news. Presented by Paul Barry.</desc>
+		<desc>A US election special. Will billionaire media moguls swing the US presidential election? Will a re-elected Trump punish the mainstream media? Should the media believe the opinion polls?</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="447" start="20241105163000 +0000" stop="20241105173000 +0000">
@@ -20057,22 +20047,22 @@
 	</programme>
 	<programme channel="447" start="20241105173000 +0000" stop="20241105180000 +0000">
 		<title>7.30 (2024) - EP 174</title>
-		<desc>Sarah Ferguson presents Australia's premier daily current affairs program, delivering agenda-setting public affairs journalism and interviews that hold the powerful to account. Plus political analysis from Laura Tingle.</desc>
+		<desc>On the eve of the US Election, Sarah Ferguson is in the US with the final word on the presidential campaign, plus agenda-setting public affairs journalism and interviews that hold the powerful to account.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="447" start="20241105180000 +0000" stop="20241105190000 +0000">
-		<title>The World (2024) - EP 178</title>
-		<desc>There's never been a more important time to stay in touch with what's happening in our world. Weeknights at 9pm AEDT, Girish Sawlani presents the latest international news from correspondents and interviews with guests.</desc>
+		<title>News Breakfast: USA Votes (2024) - EP 223</title>
+		<desc>An extended 5 hour News Breakfast on US Election Day. James Glenday and Catherine Murphy are joined by Michael Rowland reporting live from Washington DC, plus Charles Brice, Stephanie Ferrier and ABC News reporters.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="447" start="20241105190000 +0000" stop="20241105220000 +0000">
 		<title>News Breakfast: USA Votes (2024) - EP 223</title>
-		<desc>A special extended 5 hour edition of News Breakfast on US Election Day. Michael Rowland is reporting live from Washington, joined by ABC News correspondents across the US and reporters back home with the news of the day.</desc>
+		<desc>An extended 5 hour News Breakfast on US Election Day. James Glenday and Catherine Murphy are joined by Michael Rowland reporting live from Washington DC, plus Charles Brice, Stephanie Ferrier and ABC News reporters.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="447" start="20241105220000 +0000" stop="20241105230000 +0000">
 		<title>News Breakfast: USA Votes (2024) - EP 19</title>
-		<desc>A special extended 5 hour edition of News Breakfast on US Election Day. Michael Rowland is reporting live from Washington, joined by ABC News correspondents across the US and reporters back home with the news of the day.</desc>
+		<desc>An extended 5 hour News Breakfast on US Election Day. James Glenday and Catherine Murphy are joined by Michael Rowland reporting live from Washington DC, plus Charles Brice, Stephanie Ferrier and ABC News reporters.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="447" start="20241105230000 +0000" stop="20241106010000 +0000">
@@ -29221,18 +29211,18 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/808_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="808" start="20241106010000 +0000" stop="20241106020000 +0000">
-		<title>0900 Morning News</title>
-		<desc>Catch the latest news update on TVBS-News.</desc>
+		<title>2024 U.S. Presidential Election</title>
+		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_channels2/808_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="808" start="20241106020000 +0000" stop="20241106030000 +0000">
-		<title>1000 Morning News</title>
-		<desc>Catch the latest news update on TVBS-News.</desc>
+		<title>2024 U.S. Presidential Election</title>
+		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_channels2/808_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="808" start="20241106030000 +0000" stop="20241106040000 +0000">
-		<title>1100 Morning News</title>
-		<desc>Catch the latest news update on TVBS-News.</desc>
+		<title>2024 U.S. Presidential Election</title>
+		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_channels2/808_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="808" start="20241106040000 +0000" stop="20241106050000 +0000">
