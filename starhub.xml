@@ -1467,7 +1467,7 @@
 	</programme>
 	<programme channel="104" start="20241106123000 +0000" stop="20241106130000 +0000">
 		<title>Detik Khas - EP 5</title>
-		<desc>A special episode of DETIK that deep dive into contemporary issues in Singapore and around the region.</desc>
+		<desc>Global Ikhsan Services and Business (GISB) Services Sdn Bhd scandal reveals tale of deviant teachings, child abuse and sexual exploition and organised crime._x000D_DETIK Khas travels across the causeway for an exclusive interview with former GISB members to find out the harrowing nightmare haunting members while living within the cult-linked group.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/104_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="104" start="20241106130000 +0000" stop="20241106133000 +0000">
@@ -10430,10 +10430,15 @@
 		<desc>The 2024-25 Women's Big Bash League season is the 10th season of the Women's Big Bash League (WBBL), the semi-professional women's Twenty20 domestic cricket competition in Australia, taking place from 27 October to 1 December 2024.</desc>
 		<icon src="https://poster.starhubgo.com/poster/WBBL2024_GENERIC.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="204" start="20241107130000 +0000" stop="20241107170500 +0000">
+	<programme channel="204" start="20241107130000 +0000" stop="20241107155500 +0000">
 		<title>Weber Women's Big Bash League 2024: M14 - Perth Scorchers vs Brisbane Heat</title>
 		<desc>The 2024-25 Women's Big Bash League season is the 10th season of the Women's Big Bash League (WBBL), the semi-professional women's Twenty20 domestic cricket competition in Australia, taking place from 27 October to 1 December 2024.</desc>
 		<icon src="https://poster.starhubgo.com/poster/WBBL2024_GENERIC.jpg?w=960&amp;h=540" />
+	</programme>
+	<programme channel="204" start="20241107155500 +0000" stop="20241107160000 +0000">
+		<title>End of Transmission</title>
+		<desc />
+		<icon src="https://poster.starhubgo.com/Linear_Channels2/204_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="205" start="20241105160000 +0000" stop="20241105220000 +0000">
 		<title>End of Transmission</title>
@@ -10620,7 +10625,7 @@
 		<desc>A groundbreaking Badminton event that breaks away from traditional conventions. A stage for fierce competition and showcasing the best of the best.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch209_badminton.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="209" start="20241107110000 +0000" stop="20241107164500 +0000">
+	<programme channel="209" start="20241107110000 +0000" stop="20241107161000 +0000">
 		<title>HSBC BWF WTS 300 HYLO Badminton Open 2024</title>
 		<desc>The HSBC BWF World Tour attracts the world's elite badminton players in competing for prize money and world ranking points in 30 four-tiered tournaments, culminating in the World Tour Finals in December.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch209_bwf.jpg?w=341&amp;h=192" />
@@ -10647,7 +10652,7 @@
 	</programme>
 	<programme channel="210" start="20241105220000 +0000" stop="20241105230000 +0000">
 		<title>2024 Asian Tour: BNI Indonesian Masters</title>
-		<desc>The 2024 BNI Indonesian Masters, part of the Asian Tour's International Series, with a prize fund of $2 million, marks the tournament's 12th edition and continues to be Indonesia's premier golf competition.</desc>
+		<desc>The 2024 BNI Indonesian Masters, part of the Asian Tour's International Series, with a prize fund of $2 million, marks the tournament’s 12th edition and continues to be Indonesia's premier golf competition.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_golf.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="210" start="20241105230000 +0000" stop="20241106011500 +0000">
@@ -10725,10 +10730,15 @@
 		<desc>The ISU Grand Prix of Figure Skating Series consists of six international senior events in North America, Europe and Asia, culminating with the ISU Grand Prix of Figure Skating Final in Grenoble, France.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_spotv2_logo.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="210" start="20241107020000 +0000" stop="20241107053000 +0000">
+	<programme channel="210" start="20241107020000 +0000" stop="20241107050000 +0000">
 		<title>WTT Champions Frankfurt 2024</title>
 		<desc>The world's elite singles and doubles table tennis players battle for a share of the US$2 million prize pool as well as 2000 world ranking points in Montpellier,France.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_wtt.jpg?w=960&amp;h=540" />
+	</programme>
+	<programme channel="210" start="20241107050000 +0000" stop="20241107053000 +0000">
+		<title>MotoGP 2024 Spotlight</title>
+		<desc>Jack Miller Special in Australia | Jack Miller Questions | In Conversation: Jorge Martin</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch210_motogp.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="210" start="20241107053000 +0000" stop="20241107060000 +0000">
 		<title>SailGP</title>
@@ -11030,30 +11040,30 @@
 		<desc>Enjoy match highlights from Liverpool's Premier League, FA Cup, Carabao Cup and UEFA Champions League games from LFCTV on beIN SPORTS</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch213_lfctv_highlights.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="213" start="20241106103000 +0000" stop="20241106120000 +0000">
-		<title>Premier Padel 2024: Dubai P1 Day 2 Match 3 (Live)</title>
-		<desc>The official global Padel tour. Catch world's top players battle it out across the globe.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch213_premier_padel.jpg?w=341&amp;h=192" />
-	</programme>
-	<programme channel="213" start="20241106120000 +0000" stop="20241106133000 +0000">
-		<title>Premier Padel 2024: Dubai P1 Day 2 Match 4 (Live)</title>
-		<desc>The official global Padel tour. Catch world's top players battle it out across the globe.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch213_premier_padel.jpg?w=341&amp;h=192" />
-	</programme>
-	<programme channel="213" start="20241106133000 +0000" stop="20241106140000 +0000">
+	<programme channel="213" start="20241106103000 +0000" stop="20241106110000 +0000">
 		<title>LaLiga World 2024/25</title>
 		<desc>Take a look with us at all things Spanish, from football to fiestas in the weekly LaLiga magazine show.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch213_laliga_world.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="213" start="20241106140000 +0000" stop="20241106142000 +0000">
-		<title>LaLiga Zap 2024/25</title>
-		<desc>LaLiga Zap is an entertainment show that provides a sideways look at the greatest league in the world. The most fun, curious moments of action, international footage of the most extravagant fans, dubbed conversations and recurring gags.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch213_laliga_zap.jpg?w=960&amp;h=540" />
-	</programme>
-	<programme channel="213" start="20241106142000 +0000" stop="20241106145500 +0000">
+	<programme channel="213" start="20241106110000 +0000" stop="20241106113000 +0000">
 		<title>Formula 1 Highlights 2024</title>
 		<desc>Catch up with all the best bits from the weekend's race, packed into this 30mins highlights show</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch213_formula1_highlights.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="213" start="20241106113000 +0000" stop="20241106130000 +0000">
+		<title>Premier Padel 2024: Dubai P1 Day 2 Match 3 (Live)</title>
+		<desc>The official global Padel tour. Catch world's top players battle it out across the globe.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch213_premier_padel.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="213" start="20241106130000 +0000" stop="20241106143000 +0000">
+		<title>Premier Padel 2024: Dubai P1 Day 2 Match 4 (Live)</title>
+		<desc>The official global Padel tour. Catch world's top players battle it out across the globe.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch213_premier_padel.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="213" start="20241106143000 +0000" stop="20241106145500 +0000">
+		<title>LaLiga Zap 2024/25</title>
+		<desc>LaLiga Zap is an entertainment show that provides a sideways look at the greatest league in the world. The most fun, curious moments of action, international footage of the most extravagant fans, dubbed conversations and recurring gags.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch213_laliga_zap.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="213" start="20241106145500 +0000" stop="20241106170000 +0000">
 		<title>UEFA Youth League 2024/25: PSG vs Atletico Madrid - MD4 (Live)</title>
@@ -33306,9 +33316,9 @@
 		<icon src="https://poster.starhubgo.com/poster/ch838_darkside_of_the_moon.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="838" start="20241106143000 +0000" stop="20241106150500 +0000">
-		<title>Planet Under Fire</title>
+		<title>2024 US Presidential Election Special</title>
 		<desc>TVB Jade brings you endless entertainment with concurrent dramas and sitcoms, as well as the latest news, variety and infotainment programmes from TVB.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch838_planet_under_fire.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch838_tvb_logo.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="838" start="20241106150500 +0000" stop="20241106151500 +0000">
 		<title>EXTRA</title>
@@ -33401,9 +33411,9 @@
 		<icon src="https://poster.starhubgo.com/poster/ch838_handsup.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="838" start="20241107020000 +0000" stop="20241107023000 +0000">
-		<title>Planet Under Fire</title>
+		<title>2024 US Presidential Election Special</title>
 		<desc>TVB Jade brings you endless entertainment with concurrent dramas and sitcoms, as well as the latest news, variety and infotainment programmes from TVB.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch838_planet_under_fire.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch838_tvb_logo.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="838" start="20241107023000 +0000" stop="20241107030000 +0000">
 		<title>Ring Ling Ling</title>
@@ -33436,9 +33446,9 @@
 		<icon src="https://poster.starhubgo.com/poster/ch838_darkside_of_the_moon.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="838" start="20241107070500 +0000" stop="20241107073000 +0000">
-		<title>Planet Under Fire</title>
+		<title>2024 US Presidential Election Special</title>
 		<desc>TVB Jade brings you endless entertainment with concurrent dramas and sitcoms, as well as the latest news, variety and infotainment programmes from TVB.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch838_planet_under_fire.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch838_tvb_logo.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="838" start="20241107073000 +0000" stop="20241107074500 +0000">
 		<title>EXTRA</title>
@@ -33501,9 +33511,9 @@
 		<icon src="https://poster.starhubgo.com/poster/ch838_darkside_of_the_moon.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="838" start="20241107143000 +0000" stop="20241107150000 +0000">
-		<title>Planet Under Fire</title>
+		<title>2024 US Presidential Election Special</title>
 		<desc>TVB Jade brings you endless entertainment with concurrent dramas and sitcoms, as well as the latest news, variety and infotainment programmes from TVB.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch838_planet_under_fire.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch838_tvb_logo.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="838" start="20241107150000 +0000" stop="20241107151500 +0000">
 		<title>Neigbuy Sale - Food and Beverage</title>
@@ -35141,9 +35151,9 @@
 		<icon src="https://poster.starhubgo.com/poster/ch838_darkside_of_the_moon.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="996" start="20241106143000 +0000" stop="20241106150500 +0000">
-		<title>Planet Under Fire</title>
+		<title>2024 US Presidential Election Special</title>
 		<desc>TVB Jade brings you endless entertainment with concurrent dramas and sitcoms, as well as the latest news, variety and infotainment programmes from TVB.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch838_planet_under_fire.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch838_tvb_logo.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="996" start="20241106150500 +0000" stop="20241106151500 +0000">
 		<title>EXTRA</title>
@@ -35236,9 +35246,9 @@
 		<icon src="https://poster.starhubgo.com/poster/ch838_handsup.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="996" start="20241107020000 +0000" stop="20241107023000 +0000">
-		<title>Planet Under Fire</title>
+		<title>2024 US Presidential Election Special</title>
 		<desc>TVB Jade brings you endless entertainment with concurrent dramas and sitcoms, as well as the latest news, variety and infotainment programmes from TVB.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch838_planet_under_fire.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch838_tvb_logo.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="996" start="20241107023000 +0000" stop="20241107030000 +0000">
 		<title>Ring Ling Ling</title>
@@ -35271,9 +35281,9 @@
 		<icon src="https://poster.starhubgo.com/poster/ch838_darkside_of_the_moon.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="996" start="20241107070500 +0000" stop="20241107073000 +0000">
-		<title>Planet Under Fire</title>
+		<title>2024 US Presidential Election Special</title>
 		<desc>TVB Jade brings you endless entertainment with concurrent dramas and sitcoms, as well as the latest news, variety and infotainment programmes from TVB.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch838_planet_under_fire.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch838_tvb_logo.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="996" start="20241107073000 +0000" stop="20241107074500 +0000">
 		<title>EXTRA</title>
@@ -35336,9 +35346,9 @@
 		<icon src="https://poster.starhubgo.com/poster/ch838_darkside_of_the_moon.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="996" start="20241107143000 +0000" stop="20241107150000 +0000">
-		<title>Planet Under Fire</title>
+		<title>2024 US Presidential Election Special</title>
 		<desc>TVB Jade brings you endless entertainment with concurrent dramas and sitcoms, as well as the latest news, variety and infotainment programmes from TVB.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch838_planet_under_fire.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch838_tvb_logo.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="996" start="20241107150000 +0000" stop="20241107151500 +0000">
 		<title>Neigbuy Sale - Food and Beverage</title>
