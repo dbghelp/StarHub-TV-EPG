@@ -7521,8 +7521,8 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=960&amp;h=540" />
 	</programme>
 	<programme channel="140" start="20241107103000 +0000" stop="20241107133000 +0000">
-		<title>KGF</title>
-		<desc>Rocky seeks power in Mumbai, facing the gold mafia to gain wealth.</desc>
+		<title>K.G.F: Chapter 1</title>
+		<desc>Rocky seeks to acquire power and wealth to fulfil a promise made to his mother.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=960&amp;h=540" />
 	</programme>
 	<programme channel="140" start="20241107133000 +0000" stop="20241107163000 +0000">
@@ -10352,13 +10352,13 @@
 	</programme>
 	<programme channel="202" start="20241107040000 +0000" stop="20241107043000 +0000">
 		<title>The Emirates FA Cup 2024/25 Highlights Show</title>
-		<desc>The FA Cup Highlights Show is a comprehensive look back at the weekend’s FA Cup action.</desc>
+		<desc>The FA Cup Highlights Show is a comprehensive look back at the weekend's FA Cup action.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch202_the_emirates_fa_cup_2425.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="202" start="20241107043000 +0000" stop="20241107063000 +0000">
 		<title>The Emirates FA Cup 2024/25 R1: Curzon Ashton vs Mansfield Town</title>
 		<desc>The 2024/25 FA Cup is the 144th season of the Football Association Challenge Cup, the original and oldest football tournament in the world. The FA Cup is the main domestic cup for men's football teams in England, with more than 700 clubs competing for the chance to lift one of the most prestigious trophies.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch202_the_emirates_fa_cup_2425.jpg?w=960&amp;h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch202_CURZONvMANSFIELD.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="202" start="20241107063000 +0000" stop="20241107083000 +0000">
 		<title>Isuzu UTE A-League 2024/25 R3: Wellington Phoenix vs Auckland FC</title>
@@ -10373,7 +10373,7 @@
 	<programme channel="202" start="20241107110000 +0000" stop="20241107130000 +0000">
 		<title>The Emirates FA Cup 2024/25 R1: Harrogate Town vs Wrexham</title>
 		<desc>The 2024/25 FA Cup is the 144th season of the Football Association Challenge Cup, the original and oldest football tournament in the world. The FA Cup is the main domestic cup for men's football teams in England, with more than 700 clubs competing for the chance to lift one of the most prestigious trophies.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch202_the_emirates_fa_cup_2425.jpg?w=960&amp;h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch202_HARROGATEvWREXHAM.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="202" start="20241107130000 +0000" stop="20241107133000 +0000">
 		<title>The Football Review 2024</title>
@@ -10382,7 +10382,7 @@
 	</programme>
 	<programme channel="202" start="20241107133000 +0000" stop="20241107140000 +0000">
 		<title>NFL GameDay 2024/25</title>
-		<desc>NFL GameDay is a recap of all the previous weekend’s NFL action and showcases the Emmyaward-winning cinematography and music composition of NFL Films.</desc>
+		<desc>NFL GameDay is a recap of all the previous weekend's NFL action and showcases the Emmyaward-winning cinematography and music composition of NFL Films.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch202_nfl_2024_25.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="202" start="20241107140000 +0000" stop="20241107150000 +0000">
@@ -10406,13 +10406,13 @@
 		<icon src="https://poster.starhubgo.com/poster/ch202_nfl_2024_25.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="202" start="20241107213000 +0000" stop="20241107233000 +0000">
-		<title>Singapore Premier League 2024/25 Geylang International FC vs Young Lions</title>
+		<title>Singapore Premier League 2024/25  Geylang International FC vs Young Lions</title>
 		<desc>The top-tiered division of the local professional football league is in its 29th season. In a revamped quadruple round-robin format, each of the 9 teams will play 32 matches in total.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch202_singapore_premier_league.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="202" start="20241107233000 +0000" stop="20241108000000 +0000">
 		<title>NFL GameDay 2024/25</title>
-		<desc>NFL GameDay is a recap of all the previous weekend’s NFL action and showcases the Emmyaward-winning cinematography and music composition of NFL Films.</desc>
+		<desc>NFL GameDay is a recap of all the previous weekend's NFL action and showcases the Emmyaward-winning cinematography and music composition of NFL Films.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch202_nfl_2024_25.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="202" start="20241108000000 +0000" stop="20241108010000 +0000">
@@ -10600,24 +10600,29 @@
 		<desc>The 2024-25 Women's Big Bash League season is the 10th season of the Women's Big Bash League (WBBL), the semi-professional women's Twenty20 domestic cricket competition in Australia, taking place from 27 October to 1 December 2024.</desc>
 		<icon src="https://poster.starhubgo.com/poster/WBBL2024_GENERIC.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="204" start="20241108033000 +0000" stop="20241108070000 +0000">
+	<programme channel="204" start="20241108033000 +0000" stop="20241108072000 +0000">
 		<title>Weber Women's Big Bash League 2024: M15 - Hobart Hurricanes vs Sydney Sixers</title>
 		<desc>The 2024-25 Women's Big Bash League season is the 10th season of the Women's Big Bash League (WBBL), the semi-professional women's Twenty20 domestic cricket competition in Australia, taking place from 27 October to 1 December 2024.</desc>
 		<icon src="https://poster.starhubgo.com/poster/WBBL2024_GENERIC.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="204" start="20241108070000 +0000" stop="20241108073000 +0000">
+	<programme channel="204" start="20241108072000 +0000" stop="20241108075000 +0000">
 		<title>ICC Women's T20 World Cup 2024: M03 - South Africa vs West Indies HLs</title>
-		<desc>The ICC Women’s T20 World Cup 2024, hosted by the Bangladesh Cricket Board in the United Arab Emirates, is the 9th edition of ICC Women's T20 World Cup tournament. Australia are the defending champions, having defeated South Africa in the final of the previous edition.</desc>
+		<desc>The ICC Women’s T20 World Cup 2024, hosted by the Bangladesh Cricket Board in the United Arab Emirates, is the 9th edition of ICC Women's T20 World Cup tournament. Australia are the defending champions, having defeated South Africa in the final of the pre</desc>
 		<icon src="https://poster.starhubgo.com/poster/ICCWT20WC2024.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="204" start="20241108073000 +0000" stop="20241108080000 +0000">
+	<programme channel="204" start="20241108075000 +0000" stop="20241108082000 +0000">
 		<title>ICC Women's T20 World Cup 2024: M04 - India vs New Zealand HLs</title>
-		<desc>The ICC Women’s T20 World Cup 2024, hosted by the Bangladesh Cricket Board in the United Arab Emirates, is the 9th edition of ICC Women's T20 World Cup tournament. Australia are the defending champions, having defeated South Africa in the final of the previous edition.</desc>
+		<desc>The ICC Women’s T20 World Cup 2024, hosted by the Bangladesh Cricket Board in the United Arab Emirates, is the 9th edition of ICC Women's T20 World Cup tournament. Australia are the defending champions, having defeated South Africa in the final of the pre</desc>
 		<icon src="https://poster.starhubgo.com/poster/ICCWT20WC2024.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="204" start="20241108080000 +0000" stop="20241108160000 +0000">
-		<title>South Africa Tour of Bangladesh 2024: 1st Test - Day 2</title>
-		<desc>South Africa Tour of Bangladesh 2024: 1st Test - Day 2</desc>
+	<programme channel="204" start="20241108082000 +0000" stop="20241108122000 +0000">
+		<title>Bangladesh Tour of India 2024: 2nd T20I</title>
+		<desc>Bangladesh Tour of India 2024: 2nd T20I</desc>
+		<icon src="https://poster.starhubgo.com/poster/BANvIND2024_T20I.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="204" start="20241108122000 +0000" stop="20241108164000 +0000">
+		<title>South Africa Tour of Bangladesh 2024: 1st Test - Day 3</title>
+		<desc>South Africa Tour of Bangladesh 2024: 1st Test - Day 3</desc>
 		<icon src="https://poster.starhubgo.com/poster/SAvBAN2024_TEST.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="205" start="20241106160000 +0000" stop="20241106220000 +0000">
@@ -11065,13 +11070,18 @@
 		<desc>Exclusive coverage of the 2024 ATP Tour on beIN SPORTS as the world's best male players battle it out across the globe to be #1.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_ATPMASTERS250.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="211" start="20241107160000 +0000" stop="20241107190000 +0000">
-		<title>ATP Tour 250 2024: Metz QF 3</title>
+	<programme channel="211" start="20241107160000 +0000" stop="20241107170000 +0000">
+		<title>ATP Tour Review Show 2024</title>
+		<desc>A look back at the best of the action from the tournament.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch211_atp_tour_review_show.jpg?w=960&amp;h=540" />
+	</programme>
+	<programme channel="211" start="20241107170000 +0000" stop="20241107190000 +0000">
+		<title>ATP Tour 250 2024: Metz QF 3 Halys v Bonzi</title>
 		<desc>Exclusive coverage of the 2024 ATP Tour on beIN SPORTS as the world's best male players battle it out across the globe to be #1.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_ATPMASTERS250.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="211" start="20241107190000 +0000" stop="20241107210000 +0000">
-		<title>ATP Tour 250 2024: Metz QF 4</title>
+		<title>ATP Tour 250 2024: Metz QF 4 Bu v Michelsen</title>
 		<desc>Exclusive coverage of the 2024 ATP Tour on beIN SPORTS as the world's best male players battle it out across the globe to be #1.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_ATPMASTERS250.jpg?w=960&amp;h=540" />
 	</programme>
@@ -11096,12 +11106,12 @@
 		<icon src="https://poster.starhubgo.com/poster/ch211_ATPMASTERS250.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="211" start="20241108003000 +0000" stop="20241108020000 +0000">
-		<title>ATP Tour 250 2024: Belgrade QF 1</title>
+		<title>ATP Tour 250 2024: Belgrade QF 1 Lehecka v Klein</title>
 		<desc>Exclusive coverage of the 2024 ATP Tour on beIN SPORTS as the world's best male players battle it out across the globe to be #1.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_ATPMASTERS250.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="211" start="20241108020000 +0000" stop="20241108033000 +0000">
-		<title>ATP Tour 250 2024: Belgrade QF 2</title>
+		<title>ATP Tour 250 2024: Belgrade QF 2 O'Connell v Shapovalov</title>
 		<desc>Exclusive coverage of the 2024 ATP Tour on beIN SPORTS as the world's best male players battle it out across the globe to be #1.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_ATPMASTERS250.jpg?w=960&amp;h=540" />
 	</programme>
@@ -11111,22 +11121,22 @@
 		<icon src="https://poster.starhubgo.com/poster/ch211_ATPTourThisWeek2024.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="211" start="20241108040000 +0000" stop="20241108053000 +0000">
-		<title>ATP Tour 250 2024: Belgrade QF 3</title>
+		<title>ATP Tour 250 2024: Belgrade QF 3 Marozsan v Djere</title>
 		<desc>Exclusive coverage of the 2024 ATP Tour on beIN SPORTS as the world's best male players battle it out across the globe to be #1.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_ATPMASTERS250.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="211" start="20241108053000 +0000" stop="20241108070000 +0000">
-		<title>ATP Tour 250 2024: Belgrade QF 4</title>
+		<title>ATP Tour 250 2024: Belgrade QF 4 Cerundolo v Medjedovic</title>
 		<desc>Exclusive coverage of the 2024 ATP Tour on beIN SPORTS as the world's best male players battle it out across the globe to be #1.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_ATPMASTERS250.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="211" start="20241108070000 +0000" stop="20241108083000 +0000">
-		<title>ATP Tour 250 2024: Metz QF 1</title>
+		<title>ATP Tour 250 2024: Metz QF 1 Norrie v Bergs</title>
 		<desc>Exclusive coverage of the 2024 ATP Tour on beIN SPORTS as the world's best male players battle it out across the globe to be #1.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_ATPMASTERS250.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="211" start="20241108083000 +0000" stop="20241108100000 +0000">
-		<title>ATP Tour 250 2024: Metz QF 2</title>
+		<title>ATP Tour 250 2024: Belgrade QF 1 Lehecka v Klein</title>
 		<desc>Exclusive coverage of the 2024 ATP Tour on beIN SPORTS as the world's best male players battle it out across the globe to be #1.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_ATPMASTERS250.jpg?w=960&amp;h=540" />
 	</programme>
@@ -11136,12 +11146,12 @@
 		<icon src="https://poster.starhubgo.com/poster/ch211_ATPTourThisWeek2024.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="211" start="20241108103000 +0000" stop="20241108120000 +0000">
-		<title>ATP Tour 250 2024: Metz QF 3</title>
+		<title>ATP Tour 250 2024: Metz QF 3 Halys v Bonzi</title>
 		<desc>Exclusive coverage of the 2024 ATP Tour on beIN SPORTS as the world's best male players battle it out across the globe to be #1.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_ATPMASTERS250.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="211" start="20241108120000 +0000" stop="20241108133000 +0000">
-		<title>ATP Tour 250 2024: Metz QF 4</title>
+		<title>ATP Tour 250 2024: Metz QF 4 Bu v Michelsen</title>
 		<desc>Exclusive coverage of the 2024 ATP Tour on beIN SPORTS as the world's best male players battle it out across the globe to be #1.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_ATPMASTERS250.jpg?w=960&amp;h=540" />
 	</programme>
@@ -29770,9 +29780,19 @@
 		<desc>English-speaking visitors travel the length of Japan, exploring the local culture, meeting the people and offering travel hints rarely found in guidebooks. Get to know useful travel tips!</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="811" start="20241106190300 +0000" stop="20241106193200 +0000">
-		<title>A Portrait of the Topic (R)</title>
-		<desc>Featuring distinguished programs ranging from entertainment shows to documentaries.</desc>
+	<programme channel="811" start="20241106190300 +0000" stop="20241106191800 +0000">
+		<title>Peek-a-boo</title>
+		<desc>Bringing out potential and capability of children aged 0 to 2 years by stimulating their feelings with pictures and sound.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="811" start="20241106191800 +0000" stop="20241106192800 +0000">
+		<title>Points at Issue</title>
+		<desc>Specialists from different fields will make commentaries on current event issues.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="811" start="20241106192800 +0000" stop="20241106193200 +0000">
+		<title>Mini Program</title>
+		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="811" start="20241106193200 +0000" stop="20241106193500 +0000">
@@ -29792,12 +29812,12 @@
 	</programme>
 	<programme channel="811" start="20241106200000 +0000" stop="20241106201500 +0000">
 		<title>Drama Serial "Carnation" Encore Eps. 39</title>
-		<desc>A heroine born into a kimono store family in Kishiwada, Osaka, holds admiration for clothing and discovers a sewing machine. Despite her father’s opposition, she is undeterred and pursues her passion for dressmaking. She opens a store at age 20 and gets married, but her husband dies in the war. The story depicts the life of a powerful woman who becomes a pioneer of Japan’s fashion design while overcoming many obstacles.</desc>
+		<desc>A heroine born into a kimono store family in Kishiwada, Osaka, holds admiration for clothing and discovers a sewing machine. Despite her father’s opposition, she is undeterred and pursues her passion for dressmaking. She opens a store at age 20 and gets m</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="811" start="20241106201500 +0000" stop="20241106210000 +0000">
 		<title>Delivering Thanks! (R)</title>
-		<desc>Do you usually tell thank you to others? It’s a documentary-style variety show that delivers heartfelt messages of appreciation that have yet to be conveyed. Hosted by actor Sato Ryuta and artist AI, it’s a series filled with heartwarming stories that might brigs you to tears!</desc>
+		<desc>Do you usually tell thank you to others? It’s a documentary-style variety show that delivers heartfelt messages of appreciation that have yet to be conveyed. Hosted by actor Sato Ryuta and artist AI, it’s a series filled with heartwarming stories that mig</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="811" start="20241106210000 +0000" stop="20241106220000 +0000">
@@ -29812,7 +29832,7 @@
 	</programme>
 	<programme channel="811" start="20241106230000 +0000" stop="20241106231500 +0000">
 		<title>Drama Serial "Omusubi" Eps. 29</title>
-		<desc>A Heisei youth graffiti drama, in which the heroine Yoneda Yui (Hashimoto Kanna), born in the first year of the Heisei era, connects people's hearts to the future as a nutritionist. Always cherishing her individuality, she sometimes struggles, but powerfully and joyfully pushes through the turbulent Heisei and Reiwa eras.</desc>
+		<desc>A Heisei youth graffiti drama, in which the heroine Yoneda Yui (Hashimoto Kanna), born in the first year of the Heisei era, connects people's hearts to the future as a nutritionist. Always cherishing her individuality, she sometimes struggles, but powerfu</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="811" start="20241106231500 +0000" stop="20241107005400 +0000">
@@ -29837,22 +29857,17 @@
 	</programme>
 	<programme channel="811" start="20241107010500 +0000" stop="20241107015000 +0000">
 		<title>Delivering Thanks! (R)</title>
-		<desc>Do you usually tell thank you to others? It’s a documentary-style variety show that delivers heartfelt messages of appreciation that have yet to be conveyed. Hosted by actor Sato Ryuta and artist AI, it’s a series filled with heartwarming stories that might brigs you to tears!</desc>
+		<desc>Do you usually tell thank you to others? It’s a documentary-style variety show that delivers heartfelt messages of appreciation that have yet to be conveyed. Hosted by actor Sato Ryuta and artist AI, it’s a series filled with heartwarming stories that mig</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="811" start="20241107015000 +0000" stop="20241107021800 +0000">
+	<programme channel="811" start="20241107015000 +0000" stop="20241107022000 +0000">
 		<title>Strolling with Tamori "A Route of 57 Stations in Tokaido Road" Day 2 (R)</title>
 		<desc>Comedian Tamori takes you on a tour across the country to offer a glimpse of history hidden in modern scenes.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="811" start="20241107021800 +0000" stop="20241107022000 +0000">
-		<title>Mini Program</title>
-		<desc />
-		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
 	<programme channel="811" start="20241107022000 +0000" stop="20241107025000 +0000">
 		<title>tiny desk concerts JAPAN (R)</title>
-		<desc>All you need is a small desk and musical instruments. NHK is launching a Japanese version of the worldwide phenomenon "tiny desk concerts," originally pioneered by American public broadcaster NPR. Set in the actual offices of NHK, the series will breathe new life into music as artists perform in a setting that is anything but ordinary.</desc>
+		<desc>All you need is a small desk and musical instruments. NHK is launching a Japanese version of the worldwide phenomenon "tiny desk concerts," originally pioneered by American public broadcaster NPR. Set in the actual offices of NHK, the series will breathe</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="811" start="20241107025000 +0000" stop="20241107025600 +0000">
@@ -29881,21 +29896,21 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="811" start="20241107033000 +0000" stop="20241107034500 +0000">
-		<title>Drama Serial "Churasan" Encore Eps. 154</title>
-		<desc>Eri (Kuninaka Ryoko), from Kohama island, Okinawa, moves to Tokyo to become a nurse while cherishing a childhood promise of marriage with Fumiya (Kohashi Kenji). After reuniting with Fumiya, who is now a doctor, they get married and return to their hometown to dedicate themselves to providing medical support for locals.</desc>
+		<title>Drama Serial "Churasan" Encore Eps. 153</title>
+		<desc>Eri (Kuninaka Ryoko), from Kohama island, Okinawa, moves to Tokyo to become a nurse while cherishing a childhood promise of marriage with Fumiya (Kohashi Kenji). After reuniting with Fumiya, who is now a doctor, they get married and return to their hometo</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="811" start="20241107034500 +0000" stop="20241107040000 +0000">
 		<title>Drama Serial "Omusubi" Eps. 29 (R)</title>
-		<desc>A Heisei youth graffiti drama, in which the heroine Yoneda Yui (Hashimoto Kanna), born in the first year of the Heisei era, connects people's hearts to the future as a nutritionist. Always cherishing her individuality, she sometimes struggles, but powerfully and joyfully pushes through the turbulent Heisei and Reiwa eras.</desc>
+		<desc>A Heisei youth graffiti drama, in which the heroine Yoneda Yui (Hashimoto Kanna), born in the first year of the Heisei era, connects people's hearts to the future as a nutritionist. Always cherishing her individuality, she sometimes struggles, but powerfu</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="811" start="20241107040000 +0000" stop="20241107040500 +0000">
+	<programme channel="811" start="20241107040000 +0000" stop="20241107040700 +0000">
 		<title>News</title>
 		<desc>The latest up-to-date news from Tokyo.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="811" start="20241107040500 +0000" stop="20241107055000 +0000">
+	<programme channel="811" start="20241107040700 +0000" stop="20241107055000 +0000">
 		<title>News Around Japan</title>
 		<desc>Program introduces the latest news from all over Japan.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
@@ -29991,8 +30006,8 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="811" start="20241107103000 +0000" stop="20241107111500 +0000">
-		<title>The "Instruction Manual" Show</title>
-		<desc>A unique theater show in which the showman chooses one item of the world and presents how to use or operate it with some surprising facts and useful tips that might 'update' your life.</desc>
+		<title>World Guide of Health Rumors</title>
+		<desc>Featuring distinguished programs ranging from entertainment shows to documentaries.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="811" start="20241107111500 +0000" stop="20241107114300 +0000">
@@ -30015,14 +30030,19 @@
 		<desc>NHK's mainstay evening news program.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="811" start="20241107130000 +0000" stop="20241107134500 +0000">
+	<programme channel="811" start="20241107130000 +0000" stop="20241107134200 +0000">
 		<title>Songs of Our Generation</title>
 		<desc>The music program, hosted by Oizumi Yo, presents the greatest hits of J-pop from the 1960s to the present with high-quality sound and footage.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
+	<programme channel="811" start="20241107134200 +0000" stop="20241107134500 +0000">
+		<title>Mini Program</title>
+		<desc />
+		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
 	<programme channel="811" start="20241107134500 +0000" stop="20241107140000 +0000">
 		<title>Night Drama Serial "Me and Future Me !?" Eps. 20</title>
-		<desc>Igarashi Raito (Tsuna Keito), a municipal worker for 10 years, has lived a stable life under constant pressure to avoid making mistakes in a society where a misstep could trigger a public backlash. One day, a man claiming to be Raito himself and saying he has come from the future, suddenly appears. The man predicts events in Raito’s future one after another―his dreams, work, friendships, relationships, marriage, and family.</desc>
+		<desc>Igarashi Raito (Tsuna Keito), a municipal worker for 10 years, has lived a stable life under constant pressure to avoid making mistakes in a society where a misstep could trigger a public backlash. One day, a man claiming to be Raito himself and saying he</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="811" start="20241107140000 +0000" stop="20241107143000 +0000">
@@ -30052,7 +30072,7 @@
 	</programme>
 	<programme channel="811" start="20241107153000 +0000" stop="20241107160000 +0000">
 		<title>Familiarization with Japanese Traditional Performing Arts</title>
-		<desc>The program introduces Japanese Traditional Performing Arts at a polite yet good pace to those who find them hard to approach. Familiarize yourself with the finest Japanese performing arts through talks from a beginner point of view while explaining a theme in an easy-to-understand way each time.</desc>
+		<desc>The program introduces Japanese Traditional Performing Arts at a polite yet good pace to those who find them hard to approach. Familiarize yourself with the finest Japanese performing arts through talks from a beginner point of view while explaining a the</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="811" start="20241107160000 +0000" stop="20241107160500 +0000">
@@ -30082,7 +30102,7 @@
 	</programme>
 	<programme channel="811" start="20241107171000 +0000" stop="20241107173000 +0000">
 		<title>Spanish in a Happy Mood</title>
-		<desc>Let’s learn simple and easy-to-remember phrases, looking at a modern Europe that cherishes its history and traditions while pursuing a lifestyle that fits its stature. Furthermore, we explore tips for "happiness" and various forms of "joy" through the unique European way of thinking and values behind their languages and lifestyles.</desc>
+		<desc>Let’s learn simple and easy-to-remember phrases, looking at a modern Europe that cherishes its history and traditions while pursuing a lifestyle that fits its stature. Furthermore, we explore tips for "happiness" and various forms of "joy" through the uni</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="811" start="20241107173000 +0000" stop="20241107173500 +0000">
@@ -30102,7 +30122,7 @@
 	</programme>
 	<programme channel="811" start="20241107174500 +0000" stop="20241107175500 +0000">
 		<title>Fun with Japanese (R)</title>
-		<desc>Each episode focuses on a word as a theme, exploring its meaning and history while discovering the charm of Japanese language. The program also features dance performances of quotes from the world’s great figures, visits schools to interact with children, and introduces classical performing arts and songs, making it enjoyable for both children and adults.</desc>
+		<desc>Each episode focuses on a word as a theme, exploring its meaning and history while discovering the charm of Japanese language. The program also features dance performances of quotes from the world’s great figures, visits schools to interact with children,</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="811" start="20241107175500 +0000" stop="20241107181000 +0000">
@@ -30116,8 +30136,8 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="811" start="20241107183500 +0000" stop="20241107192000 +0000">
-		<title>The "Instruction Manual" Show (R)</title>
-		<desc>A unique theater show in which the showman chooses one item of the world and presents how to use or operate it with some surprising facts and useful tips that might 'update' your life.</desc>
+		<title>World Guide of Health Rumors (R)</title>
+		<desc>Featuring distinguished programs ranging from entertainment shows to documentaries.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="811" start="20241107192000 +0000" stop="20241107192500 +0000">
@@ -30142,7 +30162,7 @@
 	</programme>
 	<programme channel="811" start="20241107200000 +0000" stop="20241107201500 +0000">
 		<title>Drama Serial "Carnation" Encore Eps. 40</title>
-		<desc>A heroine born into a kimono store family in Kishiwada, Osaka, holds admiration for clothing and discovers a sewing machine. Despite her father’s opposition, she is undeterred and pursues her passion for dressmaking. She opens a store at age 20 and gets married, but her husband dies in the war. The story depicts the life of a powerful woman who becomes a pioneer of Japan’s fashion design while overcoming many obstacles.</desc>
+		<desc>A heroine born into a kimono store family in Kishiwada, Osaka, holds admiration for clothing and discovers a sewing machine. Despite her father’s opposition, she is undeterred and pursues her passion for dressmaking. She opens a store at age 20 and gets m</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="811" start="20241107201500 +0000" stop="20241107210000 +0000">
@@ -30162,7 +30182,7 @@
 	</programme>
 	<programme channel="811" start="20241107230000 +0000" stop="20241107231500 +0000">
 		<title>Drama Serial "Omusubi" Eps. 30</title>
-		<desc>A Heisei youth graffiti drama, in which the heroine Yoneda Yui (Hashimoto Kanna), born in the first year of the Heisei era, connects people's hearts to the future as a nutritionist. Always cherishing her individuality, she sometimes struggles, but powerfully and joyfully pushes through the turbulent Heisei and Reiwa eras.</desc>
+		<desc>A Heisei youth graffiti drama, in which the heroine Yoneda Yui (Hashimoto Kanna), born in the first year of the Heisei era, connects people's hearts to the future as a nutritionist. Always cherishing her individuality, she sometimes struggles, but powerfu</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="811" start="20241107231500 +0000" stop="20241108005400 +0000">
@@ -30187,7 +30207,7 @@
 	</programme>
 	<programme channel="811" start="20241108010500 +0000" stop="20241108015500 +0000">
 		<title>Saturday Drama "30 million" Eps. 5 (R)</title>
-		<desc>Sasaki Yuko (Adachi Yumi) works as a temporary employee at a call center, struggling with her mortgage and child-rearing. Despite her overbearing boss and uncertain future, she tries to make ends meet. Her husband Yoshimitsu (Aoki Munetaka) is optimistic but doesn’t earn much, which frustrates Yuko and her only joy is her son. One day, a misfortune strikes the Sasaki family, and a momentary lapse in judgment drastically changes their lives.</desc>
+		<desc>Sasaki Yuko (Adachi Yumi) works as a temporary employee at a call center, struggling with her mortgage and child-rearing. Despite her overbearing boss and uncertain future, she tries to make ends meet. Her husband Yoshimitsu (Aoki Munetaka) is optimistic</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="811" start="20241108015500 +0000" stop="20241108022300 +0000">
@@ -30226,13 +30246,13 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="811" start="20241108033000 +0000" stop="20241108034500 +0000">
-		<title>Drama Serial "Churasan" Encore Eps. 155</title>
-		<desc>Eri (Kuninaka Ryoko), from Kohama island, Okinawa, moves to Tokyo to become a nurse while cherishing a childhood promise of marriage with Fumiya (Kohashi Kenji). After reuniting with Fumiya, who is now a doctor, they get married and return to their hometown to dedicate themselves to providing medical support for locals.</desc>
+		<title>Drama Serial "Churasan" Encore Eps. 154</title>
+		<desc>Eri (Kuninaka Ryoko), from Kohama island, Okinawa, moves to Tokyo to become a nurse while cherishing a childhood promise of marriage with Fumiya (Kohashi Kenji). After reuniting with Fumiya, who is now a doctor, they get married and return to their hometo</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="811" start="20241108034500 +0000" stop="20241108040000 +0000">
 		<title>Drama Serial "Omusubi" Eps. 30 (R)</title>
-		<desc>A Heisei youth graffiti drama, in which the heroine Yoneda Yui (Hashimoto Kanna), born in the first year of the Heisei era, connects people's hearts to the future as a nutritionist. Always cherishing her individuality, she sometimes struggles, but powerfully and joyfully pushes through the turbulent Heisei and Reiwa eras.</desc>
+		<desc>A Heisei youth graffiti drama, in which the heroine Yoneda Yui (Hashimoto Kanna), born in the first year of the Heisei era, connects people's hearts to the future as a nutritionist. Always cherishing her individuality, she sometimes struggles, but powerfu</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="811" start="20241108040000 +0000" stop="20241108040500 +0000">
@@ -35251,7 +35271,7 @@
 		<icon src="https://poster.starhubgo.com/poster/ch202_nfl_2024_25.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="995" start="20241106213000 +0000" stop="20241106233000 +0000">
-		<title>Singapore Premier League 2024/25 Albirex Niigata FC (S) vs Brunei DPMM FC</title>
+		<title>Singapore Premier League 2024/25  Albirex Niigata FC (S) vs Brunei DPMM FC</title>
 		<desc>The top-tiered division of the local professional football league is in its 29th season. In a revamped quadruple round-robin format, each of the 9 teams will play 32 matches in total.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch202_singapore_premier_league.jpg?w=341&amp;h=192" />
 	</programme>
@@ -35277,13 +35297,13 @@
 	</programme>
 	<programme channel="995" start="20241107040000 +0000" stop="20241107043000 +0000">
 		<title>The Emirates FA Cup 2024/25 Highlights Show</title>
-		<desc>The FA Cup Highlights Show is a comprehensive look back at the weekend’s FA Cup action.</desc>
+		<desc>The FA Cup Highlights Show is a comprehensive look back at the weekend's FA Cup action.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch202_the_emirates_fa_cup_2425.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="995" start="20241107043000 +0000" stop="20241107063000 +0000">
 		<title>The Emirates FA Cup 2024/25 R1: Curzon Ashton vs Mansfield Town</title>
 		<desc>The 2024/25 FA Cup is the 144th season of the Football Association Challenge Cup, the original and oldest football tournament in the world. The FA Cup is the main domestic cup for men's football teams in England, with more than 700 clubs competing for the chance to lift one of the most prestigious trophies.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch202_the_emirates_fa_cup_2425.jpg?w=960&amp;h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch202_CURZONvMANSFIELD.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="995" start="20241107063000 +0000" stop="20241107083000 +0000">
 		<title>Isuzu UTE A-League 2024/25 R3: Wellington Phoenix vs Auckland FC</title>
@@ -35298,7 +35318,7 @@
 	<programme channel="995" start="20241107110000 +0000" stop="20241107130000 +0000">
 		<title>The Emirates FA Cup 2024/25 R1: Harrogate Town vs Wrexham</title>
 		<desc>The 2024/25 FA Cup is the 144th season of the Football Association Challenge Cup, the original and oldest football tournament in the world. The FA Cup is the main domestic cup for men's football teams in England, with more than 700 clubs competing for the chance to lift one of the most prestigious trophies.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch202_the_emirates_fa_cup_2425.jpg?w=960&amp;h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch202_HARROGATEvWREXHAM.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="995" start="20241107130000 +0000" stop="20241107133000 +0000">
 		<title>The Football Review 2024</title>
@@ -35307,7 +35327,7 @@
 	</programme>
 	<programme channel="995" start="20241107133000 +0000" stop="20241107140000 +0000">
 		<title>NFL GameDay 2024/25</title>
-		<desc>NFL GameDay is a recap of all the previous weekend’s NFL action and showcases the Emmyaward-winning cinematography and music composition of NFL Films.</desc>
+		<desc>NFL GameDay is a recap of all the previous weekend's NFL action and showcases the Emmyaward-winning cinematography and music composition of NFL Films.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch202_nfl_2024_25.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="995" start="20241107140000 +0000" stop="20241107150000 +0000">
@@ -35331,13 +35351,13 @@
 		<icon src="https://poster.starhubgo.com/poster/ch202_nfl_2024_25.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="995" start="20241107213000 +0000" stop="20241107233000 +0000">
-		<title>Singapore Premier League 2024/25 Geylang International FC vs Young Lions</title>
+		<title>Singapore Premier League 2024/25  Geylang International FC vs Young Lions</title>
 		<desc>The top-tiered division of the local professional football league is in its 29th season. In a revamped quadruple round-robin format, each of the 9 teams will play 32 matches in total.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch202_singapore_premier_league.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="995" start="20241107233000 +0000" stop="20241108000000 +0000">
 		<title>NFL GameDay 2024/25</title>
-		<desc>NFL GameDay is a recap of all the previous weekend’s NFL action and showcases the Emmyaward-winning cinematography and music composition of NFL Films.</desc>
+		<desc>NFL GameDay is a recap of all the previous weekend's NFL action and showcases the Emmyaward-winning cinematography and music composition of NFL Films.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch202_nfl_2024_25.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="995" start="20241108000000 +0000" stop="20241108010000 +0000">
@@ -35347,7 +35367,7 @@
 	</programme>
 	<programme channel="995" start="20241108010000 +0000" stop="20241108011500 +0000">
 		<title>NFL GameDay 2024/25</title>
-		<desc>NFL GameDay is a recap of all the previous weekend’s NFL action and showcases the Emmyaward-winning cinematography and music composition of NFL Films.</desc>
+		<desc>NFL GameDay is a recap of all the previous weekend's NFL action and showcases the Emmyaward-winning cinematography and music composition of NFL Films.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch202_nfl_2024_25.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="995" start="20241108011500 +0000" stop="20241108043000 +0000">
@@ -35358,7 +35378,7 @@
 	<programme channel="995" start="20241108043000 +0000" stop="20241108063000 +0000">
 		<title>The Emirates FA Cup 2024/25 R1: Sutton United vs Birmingham City</title>
 		<desc>The 2024/25 FA Cup is the 144th season of the Football Association Challenge Cup, the original and oldest football tournament in the world. The FA Cup is the main domestic cup for men's football teams in England, with more than 700 clubs competing for the chance to lift one of the most prestigious trophies.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch202_the_emirates_fa_cup_2425.jpg?w=960&amp;h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch202_SUTTONvBIRMINGHAM.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="995" start="20241108063000 +0000" stop="20241108073000 +0000">
 		<title>The Emirates FA Cup 2024/25 Review Show</title>
@@ -35397,7 +35417,7 @@
 	</programme>
 	<programme channel="995" start="20241108153000 +0000" stop="20241108160000 +0000">
 		<title>The Emirates FA Cup 2024/25 Highlights Show</title>
-		<desc>The FA Cup Highlights Show is a comprehensive look back at the weekend’s FA Cup action.</desc>
+		<desc>The FA Cup Highlights Show is a comprehensive look back at the weekend's FA Cup action.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch202_the_emirates_fa_cup_2425.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="996" start="20241106160000 +0000" stop="20241106163000 +0000">
