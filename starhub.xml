@@ -10130,10 +10130,15 @@
 		<desc>Catch the ROSHN Saudi League weekly magazine show, bringing together prominent professional players from the Kingdom and all around the world.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/209_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="209" start="20241109180000 +0000" stop="20241110020000 +0000">
+	<programme channel="209" start="20241109180000 +0000" stop="20241110013000 +0000">
 		<title>HSBC BWF WTS 300 Korea Masters 2024</title>
 		<desc>The HSBC BWF World Tour attracts the world's elite badminton players in competing for prize money and world ranking points in 30 four-tiered tournaments, culminating in the World Tour Finals in December.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch209_bwf.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="209" start="20241110013000 +0000" stop="20241110020000 +0000">
+		<title>FIA Pure Motorsport 2024</title>
+		<desc>Motorsport is broader than you think - have a deeper look to some of the FIA’s most thrilling competitions.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch209_motorsports.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="209" start="20241110020000 +0000" stop="20241110070000 +0000">
 		<title>HSBC BWF WTS 300 Korea Masters 2024</title>
@@ -10151,8 +10156,8 @@
 		<icon src="https://poster.starhubgo.com/poster/ch209_motorsports.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="209" start="20241110090000 +0000" stop="20241110100000 +0000">
-		<title>Countdown to 2024 DUBAI T100</title>
-		<desc>40 of the world’s best female and male professional triathletes battle over 8 breakneck 100km races in iconic locations around the globe in a bid to be crowned the first-ever T100 World Champions.</desc>
+		<title>Roshn Saudi League Recap 2024/25</title>
+		<desc>Catch the ROSHN Saudi League weekly magazine show, bringing together prominent professional players from the Kingdom and all around the world.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/209_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="209" start="20241110100000 +0000" stop="20241110103000 +0000">
@@ -10184,11 +10189,6 @@
 		<title>BDMNTN - XL 2024 (BXL)</title>
 		<desc>A groundbreaking Badminton event that breaks away from traditional conventions. A stage for fierce competition and showcasing the best of the best.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch209_badminton.jpg?w=960&amp;h=540" />
-	</programme>
-	<programme channel="209" start="20241111010000 +0000" stop="20241111020000 +0000">
-		<title>Roshn Saudi League Recap 2024/25</title>
-		<desc>Catch the ROSHN Saudi League weekly magazine show, bringing together prominent professional players from the Kingdom and all around the world.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/209_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="209" start="20241111020000 +0000" stop="20241111030000 +0000">
 		<title>All About Motorsports (TCR)</title>
