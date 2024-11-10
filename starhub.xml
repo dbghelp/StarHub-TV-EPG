@@ -5828,7 +5828,7 @@
 	<programme channel="135" start="20241109160000 +0000" stop="20241109163000 +0000">
 		<title>Pandian Stores Thanthai Sol Mikka Mandhi - EP 322</title>
 		<desc>Pandian Stores Thanthai Sol Mikka Mandhi</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch135_pandian_stores_baagyalatchumi_maga_sangamam.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch135_pandian_stores_thanthai_sol_mikka_mandhi.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="135" start="20241109163000 +0000" stop="20241109170000 +0000">
 		<title>Baagyalatchumi Illatharisiyin Kadhai S01 - EP 1259</title>
@@ -6023,7 +6023,7 @@
 	<programme channel="135" start="20241111053000 +0000" stop="20241111060000 +0000">
 		<title>Pandian Stores Thanthai Sol Mikka Mandhi - EP 322</title>
 		<desc>Pandian Stores Thanthai Sol Mikka Mandhi</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch135_pandian_stores_baagyalatchumi_maga_sangamam.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch135_pandian_stores_thanthai_sol_mikka_mandhi.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="135" start="20241111060000 +0000" stop="20241111063000 +0000">
 		<title>Baagyalatchumi Illatharisiyin Kadhai S01 - EP 1259</title>
@@ -6088,7 +6088,7 @@
 	<programme channel="135" start="20241111120000 +0000" stop="20241111123000 +0000">
 		<title>Pandian Stores Thanthai Sol Mikka Mandhi - EP 323</title>
 		<desc>Pandian Stores Thanthai Sol Mikka Mandhi</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch135_pandian_stores_baagyalatchumi_maga_sangamam.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch135_pandian_stores_thanthai_sol_mikka_mandhi.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="135" start="20241111123000 +0000" stop="20241111130000 +0000">
 		<title>Baagyalatchumi Illatharisiyin Kadhai S01 - EP 1260</title>
@@ -7026,8 +7026,8 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=960&amp;h=540" />
 	</programme>
 	<programme channel="140" start="20241111103000 +0000" stop="20241111133000 +0000">
-		<title>RRR</title>
-		<desc>The two men are one a revolutionary and the other a British officer.</desc>
+		<title>RRR - Rudhiram Ranam Roudram</title>
+		<desc>Revolutionary and British officer unite against despotic rulers.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=960&amp;h=540" />
 	</programme>
 	<programme channel="140" start="20241111133000 +0000" stop="20241111163000 +0000">
@@ -9950,12 +9950,12 @@
 		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_Channels2/204_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="204" start="20241110220000 +0000" stop="20241110233000 +0000">
+	<programme channel="204" start="20241110220000 +0000" stop="20241110232000 +0000">
 		<title>End of Transmission</title>
 		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_Channels2/204_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="204" start="20241110233000 +0000" stop="20241111033000 +0000">
+	<programme channel="204" start="20241110232000 +0000" stop="20241111032000 +0000">
 		<title>Bangladesh Tour of India 2024: 2nd T20I</title>
 		<desc>Bangladesh Tour of India 2024: 2nd T20I</desc>
 		<icon src="https://poster.starhubgo.com/poster/BANvIND2024_T20I.jpg?w=341&amp;h=192" />
@@ -10189,6 +10189,11 @@
 		<title>BDMNTN - XL 2024 (BXL)</title>
 		<desc>A groundbreaking Badminton event that breaks away from traditional conventions. A stage for fierce competition and showcasing the best of the best.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch209_badminton.jpg?w=960&amp;h=540" />
+	</programme>
+	<programme channel="209" start="20241111010000 +0000" stop="20241111020000 +0000">
+		<title>Countdown to 2024 DUBAI T100</title>
+		<desc>40 of the world’s best female and male professional triathletes battle over 8 breakneck 100km races in iconic locations around the globe in a bid to be crowned the first-ever T100 World Champions.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/209_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="209" start="20241111020000 +0000" stop="20241111030000 +0000">
 		<title>All About Motorsports (TCR)</title>
