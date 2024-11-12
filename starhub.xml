@@ -2406,7 +2406,7 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/107_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="107" start="20241113150000 +0000" stop="20241113153000 +0000">
-		<title>News Tonight - EP 227</title>
+		<title>News Tonight</title>
 		<desc>A comprehensive half-hour news programme, NEWS TONIGHT provides viewers with important local, international and financial developments for the day.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/107_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
@@ -10230,10 +10230,15 @@
 		<desc>Eight winning nations from this year's Qualifiers will advance to the 2024 Billie Jean King Cup by Gainbridge Finals and join 2023 world champions Canada, 2023 runners-up Italy, hosts Spain and wild card Czechia at the 2024 Finals in November.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch201_billie_jean_king_cup.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="201" start="20241113080000 +0000" stop="20241113110000 +0000">
+	<programme channel="201" start="20241113080000 +0000" stop="20241113103000 +0000">
 		<title>Billie Jean King Cup Qualifiers 2024 Ukraine vs Romania Day 2 Session 2</title>
 		<desc>Eight winning nations from this year's Qualifiers will advance to the 2024 Billie Jean King Cup by Gainbridge Finals and join 2023 world champions Canada, 2023 runners-up Italy, hosts Spain and wild card Czechia at the 2024 Finals in November.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch201_billie_jean_king_cup.jpg?w=960&amp;h=540" />
+	</programme>
+	<programme channel="201" start="20241113103000 +0000" stop="20241113110000 +0000">
+		<title>DP World Tour 2024 Highlights</title>
+		<desc>The best actions of the 2024 DP World Tour, the 53rd season of the European Tour - the main professional golf tour in Europe since its inaugural season in 1972.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch201_dp_world_tour.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="201" start="20241113110000 +0000" stop="20241113120000 +0000">
 		<title>Golf Central 2024</title>
@@ -10241,7 +10246,7 @@
 		<icon src="https://poster.starhubgo.com/poster/ch201_golf_central.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="201" start="20241113120000 +0000" stop="20241113140000 +0000">
-		<title>East Asia Super League 2024/25</title>
+		<title>East Asia Super League 2024/25 Meralco Bolts vs Busan KCC Egis</title>
 		<desc>The 2024/25 East Asia Super League (EASL) is the third season of the league, an international basketball club competition which involves teams from Hong Kong, Japan, Macau, South Korea, Philippines and Taiwan.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch201_easl.jpg?w=960&amp;h=540" />
 	</programme>
@@ -10251,12 +10256,12 @@
 		<icon src="https://poster.starhubgo.com/poster/ch201_dp_world_tour.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="201" start="20241113143000 +0000" stop="20241113150000 +0000">
-		<title>DP World Tour 2024 Highlights</title>
-		<desc>The best actions of the 2024 DP World Tour, the 53rd season of the European Tour - the main professional golf tour in Europe since its inaugural season in 1972.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch201_dp_world_tour.jpg?w=341&amp;h=192" />
+		<title>Hologic WTA Tour 2024 Highlights</title>
+		<desc>Relive all the best moments from the most significant tennis event in the women's annual calendar at the King Saud University Indoor Arena.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch201_wta_tour.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="201" start="20241113150000 +0000" stop="20241113160000 +0000">
-		<title>Billie Jean King Cup Qualifiers 2024 Highlights Show</title>
+		<title>Billie Jean King Cup Qualifiers 2024</title>
 		<desc>Catch all the best moments from the qualifying stages as 18 nations go head-to-head for a place in Finals.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch201_billie_jean_king_cup.jpg?w=960&amp;h=540" />
 	</programme>
@@ -10447,7 +10452,7 @@
 	</programme>
 	<programme channel="203" start="20241113100000 +0000" stop="20241113160000 +0000">
 		<title>DP World Tour 2024</title>
-		<desc>The Abu Dhabi HSBC Championship is a European Tour golf tournament held in Abu Dhabi, United Arab Emirates. It takes place at the Yas Links Golf Club, Yas Island with some of the world’s famous players participating. It has become a favourite event for pl</desc>
+		<desc>The Abu Dhabi HSBC Championship is a European Tour golf tournament held in Abu Dhabi, United Arab Emirates. It takes place at the Yas Links Golf Club, Yas Island with some of the world’s famous players participating. It has become a favourite event for players and spectators alike since teeing off in 2006.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch203_dp_world_tour.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="204" start="20241111160000 +0000" stop="20241111220000 +0000">
@@ -10495,7 +10500,7 @@
 		<desc>The ICC Women’s T20 World Cup 2024, hosted by the Bangladesh Cricket Board in the United Arab Emirates, is the 9th edition of ICC Women's T20 World Cup tournament. Australia are the defending champions, having defeated South Africa in the final of the previous edition.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ICCWT20WC2024.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="204" start="20241113033000 +0000" stop="20241113065500 +0000">
+	<programme channel="204" start="20241113032000 +0000" stop="20241113065500 +0000">
 		<title>Weber Women's Big Bash League 2024: M22 - Sydney Sixers vs Sydney Thunder</title>
 		<desc>The 2024-25 Women's Big Bash League season is the 10th season of the Women's Big Bash League (WBBL), the semi-professional women's Twenty20 domestic cricket competition in Australia, taking place from 27 October to 1 December 2024.</desc>
 		<icon src="https://poster.starhubgo.com/poster/WBBL2024_GENERIC.jpg?w=960&amp;h=540" />
@@ -10520,12 +10525,12 @@
 		<desc>The ICC Women’s T20 World Cup 2024, hosted by the Bangladesh Cricket Board in the United Arab Emirates, is the 9th edition of ICC Women's T20 World Cup tournament. Australia are the defending champions, having defeated South Africa in the final of the previous edition.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ICCWT20WC2024.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="204" start="20241113121500 +0000" stop="20241113154500 +0000">
+	<programme channel="204" start="20241113121500 +0000" stop="20241113152500 +0000">
 		<title>Weber Women's Big Bash League 2024: M23 - Adelaide Strikers vs Melbourne Renegad</title>
 		<desc>The 2024-25 Women's Big Bash League season is the 10th season of the Women's Big Bash League (WBBL), the semi-professional women's Twenty20 domestic cricket competition in Australia, taking place from 27 October to 1 December 2024.</desc>
 		<icon src="https://poster.starhubgo.com/poster/WBBL2024_GENERIC.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="204" start="20241113154500 +0000" stop="20241113160000 +0000">
+	<programme channel="204" start="20241113152500 +0000" stop="20241113160000 +0000">
 		<title>End of Transmission</title>
 		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_Channels2/204_1920x1080_HTV.png?w=341&amp;h=192" />
@@ -19867,22 +19872,22 @@
 	</programme>
 	<programme channel="447" start="20241111170000 +0000" stop="20241111171500 +0000">
 		<title>ABC Late News (2024) - EP 226</title>
-		<desc>Follow the story with the latest on today's news, explaining what's happening and why it matters. ABC News has reporters across Australia and around the globe covering what you need to know. Presented by Jade Barker in Perth.</desc>
+		<desc>Follow the story with the latest on the day's events, explaining what's happening and why it matters. ABC News has reporters across Australia and around the globe uncovering what you need to know. Presented by Jade Barker.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="447" start="20241111171500 +0000" stop="20241111173000 +0000">
 		<title>The Business (2024) - EP 165</title>
-		<desc>Australia's leading daily business and finance show, bringing you up to date on market moves, economic trends and the forces affecting consumers, employees and business owners big and small. Presented by Kirsten Aiken.</desc>
+		<desc>Artificial intelligence is extending workplace surveillance into homes and cars as governments try to determine what employers can monitor. Plus how a Trump presidency will change the economic landscape.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="447" start="20241111173000 +0000" stop="20241111180000 +0000">
 		<title>7.30 (2024) - EP 177</title>
-		<desc>Sarah Ferguson presents Australia's premier daily current affairs program, delivering agenda-setting public affairs journalism and interviews that hold the powerful to account. Plus political analysis from Laura Tingle.</desc>
+		<desc>Treasurer Jim Chalmers says Australia is ready to deal with a second Trump presidency. A new push to end logging of native trees in publicly owned forests sparks industry concern.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="447" start="20241111180000 +0000" stop="20241111190000 +0000">
 		<title>The World (2024) - EP 181</title>
-		<desc>There's never been a more important time to stay in touch with what's happening in our world. Weeknights at 9pm AEDT, Girish Sawlani presents the latest international news from correspondents and interviews with guests.</desc>
+		<desc>Girish Sawlani brings you the latest news from around the globe. Tonight: Donald Trump asks Vladimir Putin not to escalate conflict in Ukraine, and evacuations continue around an erupting volcano in Indonesia.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="447" start="20241111190000 +0000" stop="20241111220000 +0000">
@@ -20122,7 +20127,7 @@
 	</programme>
 	<programme channel="447" start="20241113073000 +0000" stop="20241113080000 +0000">
 		<title>That Pacific Sports Show S4 - EP 38</title>
-		<desc>Join Tiana Penitani and Sam Wykes for your weekly hit of Pacific joy, as they share inspiring stories and incredible sporting prowess of athletes with Pacific Island heritage, from Australia and around the world.</desc>
+		<desc>Tiana Penitani returns to the hosting seat with Sam Wykes and Sera Naiqama after taking out the Pacific Cup final with the Jillaroos. Sia Soliola also joins us to discuss Keli Leaupepe's rise in basketball and the Hottest 7s.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="447" start="20241113080000 +0000" stop="20241113083000 +0000">
@@ -20162,12 +20167,12 @@
 	</programme>
 	<programme channel="447" start="20241113123000 +0000" stop="20241113130000 +0000">
 		<title>Planet America (2024) - EP 38</title>
-		<desc>One week after the US Election, John Barron and Chas Licciardello bring you up to speed on the latest from America as President Biden prepares to hand over power to the 47th President of United States in January.</desc>
+		<desc>Donald Trump wins Arizona, giving him a clean sweep of all seven battleground states. Joe Biden to meet with Trump at the White House. Trump names Tom Homan his 'border czar' and Elise Stefanik as United Nations Ambassador.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="447" start="20241113130000 +0000" stop="20241113133000 +0000">
 		<title>That Pacific Sports Show S4 - EP 38</title>
-		<desc>Join Tiana Penitani and Sam Wykes for your weekly hit of Pacific joy, as they share inspiring stories and incredible sporting prowess of athletes with Pacific Island heritage, from Australia and around the world.</desc>
+		<desc>Tiana Penitani returns to the hosting seat with Sam Wykes and Sera Naiqama after taking out the Pacific Cup final with the Jillaroos. Sia Soliola also joins us to discuss Keli Leaupepe's rise in basketball and the Hottest 7s.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="447" start="20241113133000 +0000" stop="20241113140000 +0000">
