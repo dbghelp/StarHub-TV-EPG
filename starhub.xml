@@ -10176,27 +10176,32 @@
 		<icon src="https://poster.starhubgo.com/poster/ch201_dp_world_tour.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="201" start="20241114040000 +0000" stop="20241114090000 +0000">
-		<title>Billie Jean King Cup Qualifiers by Gainbridge 2024 Ukraine vs Romania Day 2 Sess</title>
+		<title>Billie Jean King Cup Qualifiers by Gainbridge 2024</title>
 		<desc>Eight winning nations from this year's Qualifiers will advance to the 2024 Billie Jean King Cup by Gainbridge Finals and join 2023 world champions Canada, 2023 runners-up Italy, hosts Spain and wild card Czechia at the 2024 Finals in November.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch201_billie_jean_king_cup.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="201" start="20241114090000 +0000" stop="20241114150000 +0000">
-		<title>Billie Jean King Cup Finals by Gainbridge 2024 Round 1: Japan vs Romania</title>
-		<desc>12 nations will compete to win the historic Billie Jean King Cup trophy 2024 held at the Palacio de Deportes Jose Maria Martin Carpena Arena in Malaga, Spain.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch201_billie_jean_king_cup.jpg?w=960&amp;h=540" />
+	<programme channel="201" start="20241114090000 +0000" stop="20241114093000 +0000">
+		<title>Hologic WTA Tour 2024 Highlights</title>
+		<desc>Relive all the best moments from the most significant tennis event in the women's annual calendar at the King Saud University Indoor Arena.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch201_wta_tour.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="201" start="20241114150000 +0000" stop="20241114153000 +0000">
+	<programme channel="201" start="20241114093000 +0000" stop="20241114103000 +0000">
+		<title>Davis Cup Finals 2024</title>
+		<desc>Catch all the thrills and spills from the group stage as nations battle it out for the knock out phase in Malaga.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch201_DAVISCup2024.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="201" start="20241114103000 +0000" stop="20241114110000 +0000">
 		<title>Hologic WTA Tour 2024 Highlights</title>
 		<desc>Catch all the action from the National Tennis Centre in Beijing, China.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch201_wta_tour.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="201" start="20241114153000 +0000" stop="20241114160000 +0000">
-		<title>DP World Tour 2024 Highlights</title>
-		<desc>Catch all the highlights and actions from the Estrella Damm N.A. Andalucía Masters.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch201_dp_world_tour.jpg?w=341&amp;h=192" />
+	<programme channel="201" start="20241114110000 +0000" stop="20241114160000 +0000">
+		<title>Billie Jean King Cup Finals by Gainbridge 2024</title>
+		<desc>12 nations will compete to win the historic Billie Jean King Cup trophy 2024 held at the Palacio de Deportes Jose Maria Martin Carpena Arena in Malaga, Spain.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch201_billie_jean_king_cup.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="201" start="20241114160000 +0000" stop="20241114220000 +0000">
-		<title>Billie Jean King Cup Finals by Gainbridge 2024 Round 1: Slovakia vs USA</title>
+		<title>Billie Jean King Cup Finals by Gainbridge 2024</title>
 		<desc>12 nations will compete to win the historic Billie Jean King Cup trophy 2024 held at the Palacio de Deportes Jose Maria Martin Carpena Arena in Malaga, Spain.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch201_billie_jean_king_cup.jpg?w=960&amp;h=540" />
 	</programme>
@@ -10240,20 +10245,10 @@
 		<desc>Mass participation sports events are commonly associated with large participation numbers, usually in the tens of thousands. From traditional events such as marathons, triathlons and cycling events to the newer formats of obstacle races such as Spartan Race and themed events like Hello Kitty Run and The Color Run, these races are regularly attracting participants en masse.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch201_MassParticipation.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="201" start="20241115083000 +0000" stop="20241115090000 +0000">
-		<title>Hologic WTA Tour 2024 Highlights</title>
-		<desc>Catch all the best action and moments from the Khalifa International Tennis &amp; Squash Complex in Doha.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch201_wta_tour.jpg?w=341&amp;h=192" />
-	</programme>
 	<programme channel="201" start="20241115090000 +0000" stop="20241115150000 +0000">
 		<title>Billie Jean King Cup Finals by Gainbridge 2024 Round 1: Spain vs Poland</title>
 		<desc>12 nations will compete to win the historic Billie Jean King Cup trophy 2024 held at the Palacio de Deportes Jose Maria Martin Carpena Arena in Malaga, Spain.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch201_billie_jean_king_cup.jpg?w=960&amp;h=540" />
-	</programme>
-	<programme channel="201" start="20241115150000 +0000" stop="20241115160000 +0000">
-		<title>Davis Cup Finals 2024</title>
-		<desc>Catch all the thrills and spills from the group stage as nations battle it out for the knock out phase in Malaga.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch201_DAVISCup2024.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="202" start="20241113124500 +0000" stop="20241113174500 +0000">
 		<title>Champion of Champions Snooker 2024 (Live)</title>
@@ -10870,7 +10865,7 @@
 		<desc>The MotoGP World Championship crowns one of 22 riders lining up on 1000cc prototype bikes capable of producing over 240 horsepower and getting up to speeds of 350kph over 21 Grand Prix races.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_motogp.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="210" start="20241114233000 +0000" stop="20241115020000 +0000">
+	<programme channel="210" start="20241114233000 +0000" stop="20241115020200 +0000">
 		<title>MotoGP 2024 Round 19 - PETRONAS Grand Prix of Malaysia</title>
 		<desc>The MotoGP World Championship crowns one of 22 riders lining up on 1000cc prototype bikes capable of producing over 240 horsepower and getting up to speeds of 350kph over 21 Grand Prix races.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_motogp.jpg?w=960&amp;h=540" />
