@@ -1167,7 +1167,7 @@
 	</programme>
 	<programme channel="103" start="20241114143000 +0000" stop="20241114150000 +0000">
 		<title>Focus - EP 29</title>
-		<desc>Focus provides timely reports and analyses on international news and current affairs from Singapore's perspective.</desc>
+		<desc>What economic and foreign policy changes would US President-elect Donald Trump bring to the world when he assumes his leadership role in January next year? What nostalgic food did Taiwanese writer Liu Ka-shiang discover in our local hawker centres?</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/103_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="103" start="20241114150000 +0000" stop="20241114160000 +0000">
@@ -10146,7 +10146,7 @@
 		<icon src="https://poster.starhubgo.com/poster/ch159_ktv_hd_logo.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="201" start="20241113160000 +0000" stop="20241113210000 +0000">
-		<title>Billie Jean King Cup Qualifiers by Gainbridge 2024 Switzerland vs Poland Day 1</title>
+		<title>Billie Jean King Cup Qualifiers by Gainbridge 2024</title>
 		<desc>Eight winning nations from this year's Qualifiers will advance to the 2024 Billie Jean King Cup by Gainbridge Finals and join 2023 world champions Canada, 2023 runners-up Italy, hosts Spain and wild card Czechia at the 2024 Finals in November.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch201_billie_jean_king_cup.jpg?w=960&amp;h=540" />
 	</programme>
@@ -10236,7 +10236,7 @@
 		<icon src="https://poster.starhubgo.com/poster/ch201_wta_tour.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="201" start="20241115033000 +0000" stop="20241115080000 +0000">
-		<title>Billie Jean King Cup Finals by Gainbridge 2024 Round 1: Japan vs Romania</title>
+		<title>Billie Jean King Cup Finals by Gainbridge 2024</title>
 		<desc>12 nations will compete to win the historic Billie Jean King Cup trophy 2024 held at the Palacio de Deportes Jose Maria Martin Carpena Arena in Malaga, Spain.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch201_billie_jean_king_cup.jpg?w=960&amp;h=540" />
 	</programme>
@@ -10245,10 +10245,20 @@
 		<desc>Mass participation sports events are commonly associated with large participation numbers, usually in the tens of thousands. From traditional events such as marathons, triathlons and cycling events to the newer formats of obstacle races such as Spartan Race and themed events like Hello Kitty Run and The Color Run, these races are regularly attracting participants en masse.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch201_MassParticipation.jpg?w=341&amp;h=192" />
 	</programme>
+	<programme channel="201" start="20241115083000 +0000" stop="20241115090000 +0000">
+		<title>Hologic WTA Tour 2024 Highlights</title>
+		<desc>Catch all the best action and moments from the Khalifa International Tennis &amp; Squash Complex in Doha.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch201_wta_tour.jpg?w=341&amp;h=192" />
+	</programme>
 	<programme channel="201" start="20241115090000 +0000" stop="20241115150000 +0000">
-		<title>Billie Jean King Cup Finals by Gainbridge 2024 Round 1: Spain vs Poland</title>
+		<title>Billie Jean King Cup Finals by Gainbridge 2024</title>
 		<desc>12 nations will compete to win the historic Billie Jean King Cup trophy 2024 held at the Palacio de Deportes Jose Maria Martin Carpena Arena in Malaga, Spain.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch201_billie_jean_king_cup.jpg?w=960&amp;h=540" />
+	</programme>
+	<programme channel="201" start="20241115150000 +0000" stop="20241115160000 +0000">
+		<title>Davis Cup Finals 2024</title>
+		<desc>Catch all the thrills and spills from the group stage as nations battle it out for the knock out phase in Malaga.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch201_DAVISCup2024.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="202" start="20241113124500 +0000" stop="20241113174500 +0000">
 		<title>Champion of Champions Snooker 2024 (Live)</title>
@@ -10565,27 +10575,27 @@
 		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_Channels2/204_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="204" start="20241114220000 +0000" stop="20241115011500 +0000">
+	<programme channel="204" start="20241114220000 +0000" stop="20241115013500 +0000">
 		<title>End of Transmission</title>
 		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_Channels2/204_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="204" start="20241115011500 +0000" stop="20241115043000 +0000">
+	<programme channel="204" start="20241115013500 +0000" stop="20241115043000 +0000">
 		<title>Weber Women's Big Bash League 2024: M25 - Hobart Hurricanes vs Adelaide Strikers</title>
 		<desc>The 2024-25 Women's Big Bash League season is the 10th season of the Women's Big Bash League (WBBL), the semi-professional women's Twenty20 domestic cricket competition in Australia, taking place from 27 October to 1 December 2024.</desc>
 		<icon src="https://poster.starhubgo.com/poster/WBBL2024_GENERIC.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="204" start="20241115043000 +0000" stop="20241115081500 +0000">
+	<programme channel="204" start="20241115043000 +0000" stop="20241115080000 +0000">
 		<title>Weber Women's Big Bash League 2024: M27 - Perth Scorchers vs Sudney Thunder</title>
 		<desc>The 2024-25 Women's Big Bash League season is the 10th season of the Women's Big Bash League (WBBL), the semi-professional women's Twenty20 domestic cricket competition in Australia, taking place from 27 October to 1 December 2024.</desc>
 		<icon src="https://poster.starhubgo.com/poster/WBBL2024_GENERIC.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="204" start="20241115081500 +0000" stop="20241115114500 +0000">
+	<programme channel="204" start="20241115080000 +0000" stop="20241115114500 +0000">
 		<title>Weber Women's Big Bash League 2024: M28 - Melbourne Stars vs Melbourne Renegades</title>
 		<desc>The 2024-25 Women's Big Bash League season is the 10th season of the Women's Big Bash League (WBBL), the semi-professional women's Twenty20 domestic cricket competition in Australia, taking place from 27 October to 1 December 2024.</desc>
 		<icon src="https://poster.starhubgo.com/poster/WBBL2024_GENERIC.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="204" start="20241115114500 +0000" stop="20241115194500 +0000">
+	<programme channel="204" start="20241115114500 +0000" stop="20241115184500 +0000">
 		<title>South Africa Tour of Bangladesh 2024: 2nd Test - Day 1</title>
 		<desc>South Africa Tour of Bangladesh 2024: 2nd Test - Day 1</desc>
 		<icon src="https://poster.starhubgo.com/poster/SAvBAN2024_TEST.jpg?w=341&amp;h=192" />
@@ -10870,7 +10880,7 @@
 		<desc>The MotoGP World Championship crowns one of 22 riders lining up on 1000cc prototype bikes capable of producing over 240 horsepower and getting up to speeds of 350kph over 21 Grand Prix races.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_motogp.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="210" start="20241115020000 +0000" stop="20241115045000 +0000">
+	<programme channel="210" start="20241115020200 +0000" stop="20241115045000 +0000">
 		<title>WTT Champions Frankfurt 2024</title>
 		<desc>The world's elite singles and doubles table tennis players battle for a share of the US$2 million prize pool as well as 2000 world ranking points in Montpellier,France.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_wtt.jpg?w=960&amp;h=540" />
@@ -23237,7 +23247,7 @@
 	</programme>
 	<programme channel="701" start="20241113223000 +0000" stop="20241113230000 +0000">
 		<title>HARDtalk</title>
-		<desc>In-depth interviews with the world's leading politicians, opinion-formers and key figures from culture, business and sport.</desc>
+		<desc>Stephen Sackur speaks to British-Palestinian film-maker Farah Nabulsi. Her film, The Teacher, is set in the West Bank and invites audiences to see and feel the Palestinian experience.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch701_hardtalk.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="701" start="20241113230000 +0000" stop="20241113233000 +0000">
