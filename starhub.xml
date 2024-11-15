@@ -11522,7 +11522,7 @@
 	</programme>
 	<programme channel="221" start="20241115170000 +0000" stop="20241115180000 +0000">
 		<title>THE ART OF... - EP 3</title>
-		<desc>Expect high-level insight and revealing anecdotes as some of the finest players in PL history explain the techniques and temperaments that took them to the top.</desc>
+		<desc>PGMOL Chief Refereeing Officer Howard Webb and current Premier League official Craig Pawson provide a unique insight into the skills required to referee at the top level.</desc>
 		<icon src="https://poster.starhubgo.com/poster/the_art_of_V2.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="221" start="20241115180000 +0000" stop="20241115183000 +0000">
@@ -11532,7 +11532,7 @@
 	</programme>
 	<programme channel="221" start="20241115183000 +0000" stop="20241115190000 +0000">
 		<title>THE BIG INTERVIEW - EP 14</title>
-		<desc>Extended sit-downs and more informal 'out and about' interviews with the Premier League's biggest stars, providing players with a platform to tell their story in their own words.</desc>
+		<desc>Growing up playing football on the streets of Paris, Alphonse Areola ended up living his dream of playing for PSG. In this week's Big Interview, Areola discusses competing with Gianluigi Buffon for the number 1 shirt in the French capital, the importance of his Filipino heritage and how he hopes West Ham can turn their fortunes around this season.</desc>
 		<icon src="https://poster.starhubgo.com/poster/the_big_interview_V2.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="221" start="20241115190000 +0000" stop="20241115210000 +0000">
@@ -12470,19 +12470,24 @@
 		<desc>Watch all the action in the Autumn Nation Series, as the Southern Hempisphere teams make the long journey north to take on the best that Europe has to offer.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch207_premier_sports.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="247" start="20241116061000 +0000" stop="20241116071000 +0000">
-		<title>Gallagher Premiership</title>
-		<desc>The best of the latest action from the Gallagher Premiership.</desc>
+	<programme channel="247" start="20241116061000 +0000" stop="20241116064000 +0000">
+		<title>5 &amp; 6 Nations Classics 2003 - Italy v France</title>
+		<desc>A look at some of the best matches in the history of rugby's Six Nations.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch207_premier_sports.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="247" start="20241116071000 +0000" stop="20241116090000 +0000">
+	<programme channel="247" start="20241116064000 +0000" stop="20241116082500 +0000">
 		<title>Autumn Nations Series Italy v Argentina</title>
 		<desc>Watch all the action in the Autumn Nation Series, as the Southern Hempisphere teams make the long journey north to take on the best that Europe has to offer.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch207_premier_sports.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="247" start="20241116090000 +0000" stop="20241116105000 +0000">
-		<title>Autumn Nations Series France v Japan</title>
-		<desc>Watch all the action in the Autumn Nation Series, as the Southern Hempisphere teams make the long journey north to take on the best that Europe has to offer.</desc>
+	<programme channel="247" start="20241116082500 +0000" stop="20241116104000 +0000">
+		<title>LIVE AFLW LIVE Hawthorn v Port Adelaide</title>
+		<desc>Week 2 of the AFLW finals sees Hawthorn and Port Adelaide clash at IKON Park.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch207_premier_sports.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="247" start="20241116104000 +0000" stop="20241116105000 +0000">
+		<title>URC Match Highlights Sharks v Munster</title>
+		<desc>Catch up on all the match highlights from the most recent round of United Rugby Championship.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch207_premier_sports.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="247" start="20241116105000 +0000" stop="20241116112000 +0000">
