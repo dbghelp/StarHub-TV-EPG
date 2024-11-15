@@ -10970,18 +10970,18 @@
 		<desc>Weekly preview show with all relevant information on upcoming matches and the latest news from the Bundesliga</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch213_bundesliga_weekly.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="213" start="20241115090000 +0000" stop="20241115103000 +0000">
+	<programme channel="213" start="20241115090000 +0000" stop="20241115100000 +0000">
+		<title>LaLiga 2 Highlights 2024/25</title>
+		<desc>Catch all the highlights from the latest round of games in LaLiga 2, Spain's second divison of football.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch213_laliga_2_highlights.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="213" start="20241115100000 +0000" stop="20241115113000 +0000">
 		<title>Premier Padel 2024: Kuwait P1 Day 5 QF Match 1 - Women (Live)</title>
 		<desc>The official global Padel tour. Catch world's top players battle it out across the globe.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch213_premier_padel.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="213" start="20241115103000 +0000" stop="20241115120000 +0000">
+	<programme channel="213" start="20241115113000 +0000" stop="20241115124500 +0000">
 		<title>Premier Padel 2024: Kuwait P1 Day 5 QF Match 2 - Men (Live)</title>
-		<desc>The official global Padel tour. Catch world's top players battle it out across the globe.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch213_premier_padel.jpg?w=341&amp;h=192" />
-	</programme>
-	<programme channel="213" start="20241115120000 +0000" stop="20241115124500 +0000">
-		<title>Premier Padel 2024: Kuwait P1 Day 5 QF Match 3 - Women (Live)</title>
 		<desc>The official global Padel tour. Catch world's top players battle it out across the globe.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch213_premier_padel.jpg?w=341&amp;h=192" />
 	</programme>
