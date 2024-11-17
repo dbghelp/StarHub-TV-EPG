@@ -9880,7 +9880,7 @@
 		<desc>The 2024-25 Women's Big Bash League season is the 10th season of the Women's Big Bash League (WBBL), the semi-professional women's Twenty20 domestic cricket competition in Australia, taking place from 27 October to 1 December 2024.</desc>
 		<icon src="https://poster.starhubgo.com/poster/WBBL2024_GENERIC.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="204" start="20241118040000 +0000" stop="20241118075000 +0000">
+	<programme channel="204" start="20241118033000 +0000" stop="20241118075000 +0000">
 		<title>Pakistan Tour of Australia 2024: 2nd T20I</title>
 		<desc>Pakistan Tour of Australia 2024: 2nd T20I</desc>
 		<icon src="https://poster.starhubgo.com/poster/CA_GENERIC.jpg?w=960&amp;h=540" />
@@ -9892,13 +9892,18 @@
 	</programme>
 	<programme channel="204" start="20241118120000 +0000" stop="20241118123000 +0000">
 		<title>ICC Women's T20 World Cup 2024: M12 - India vs Sri Lanka HLs</title>
-		<desc>The ICC Women’s T20 World Cup 2024, hosted by the Bangladesh Cricket Board in the United Arab Emirates, is the 9th edition of ICC Women's T20 World Cup tournament. Australia are the defending champions, having defeated South Africa in the final of the pre</desc>
+		<desc>The ICC Women’s T20 World Cup 2024, hosted by the Bangladesh Cricket Board in the United Arab Emirates, is the 9th edition of ICC Women's T20 World Cup tournament. Australia are the defending champions, having defeated South Africa in the final of the previous edition.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ICCWT20WC2024.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="204" start="20241118123000 +0000" stop="20241118160000 +0000">
+	<programme channel="204" start="20241118123000 +0000" stop="20241118153000 +0000">
 		<title>Weber Women's Big Bash League 2024: M29 - Adelaide Strikers vs Hobart Hurricanes</title>
 		<desc>The 2024-25 Women's Big Bash League season is the 10th season of the Women's Big Bash League (WBBL), the semi-professional women's Twenty20 domestic cricket competition in Australia, taking place from 27 October to 1 December 2024.</desc>
 		<icon src="https://poster.starhubgo.com/poster/WBBL2024_GENERIC.jpg?w=960&amp;h=540" />
+	</programme>
+	<programme channel="204" start="20241118153000 +0000" stop="20241118160000 +0000">
+		<title>End of Transmission</title>
+		<desc />
+		<icon src="https://poster.starhubgo.com/Linear_Channels2/204_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="205" start="20241116160000 +0000" stop="20241116220000 +0000">
 		<title>End of Transmission</title>
