@@ -232,14 +232,6 @@
 		<display-name>Hub Premier 2 (4K)</display-name>
 		<icon src="https://poster.starhubgo.com/Linear_Channels2/222_1920x1080_HTV.png?w=272" />
 	</channel>
-	<channel id="235">
-		<display-name>MOLA Sport</display-name>
-		<icon src="https://poster.starhubgo.com/Linear_Channels2/235_1920x1080_HTV.png?w=272" />
-	</channel>
-	<channel id="236">
-		<display-name>MOLA Golf</display-name>
-		<icon src="https://poster.starhubgo.com/Linear_Channels2/236_1920x1080_HTV.png?w=272" />
-	</channel>
 	<channel id="241">
 		<display-name>FIGHT SPORTS HD</display-name>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/241_1920x1080_HTV.png?w=272" />
@@ -12269,46 +12261,6 @@
 		<title>End of Transmission</title>
 		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_Channels2/222_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="235" start="20241118160000 +0000" stop="20241118220000 +0000">
-		<title>No Transmission</title>
-		<desc />
-		<icon src="https://poster.starhubgo.com/Linear_Channels2/235_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="235" start="20241118220000 +0000" stop="20241119040000 +0000">
-		<title>No Transmission</title>
-		<desc />
-		<icon src="https://poster.starhubgo.com/Linear_Channels2/235_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="235" start="20241119040000 +0000" stop="20241119100000 +0000">
-		<title>No Transmission</title>
-		<desc />
-		<icon src="https://poster.starhubgo.com/Linear_Channels2/235_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="235" start="20241119100000 +0000" stop="20241119160000 +0000">
-		<title>No Transmission</title>
-		<desc />
-		<icon src="https://poster.starhubgo.com/Linear_Channels2/235_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="235" start="20241119160000 +0000" stop="20241119220000 +0000">
-		<title>No Transmission</title>
-		<desc />
-		<icon src="https://poster.starhubgo.com/Linear_Channels2/235_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="235" start="20241119220000 +0000" stop="20241120040000 +0000">
-		<title>No Transmission</title>
-		<desc />
-		<icon src="https://poster.starhubgo.com/Linear_Channels2/235_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="235" start="20241120040000 +0000" stop="20241120100000 +0000">
-		<title>No Transmission</title>
-		<desc />
-		<icon src="https://poster.starhubgo.com/Linear_Channels2/235_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="235" start="20241120100000 +0000" stop="20241120160000 +0000">
-		<title>No Transmission</title>
-		<desc />
-		<icon src="https://poster.starhubgo.com/Linear_Channels2/235_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="241" start="20241118160000 +0000" stop="20241118170000 +0000">
 		<title>FIGHT SPORTS MMA Garreth McLellan vs. Brendan Lesar</title>
