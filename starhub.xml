@@ -10708,7 +10708,7 @@
 		<icon src="https://poster.starhubgo.com/poster/ch210_bwf.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="210" start="20241123020000 +0000" stop="20241123023000 +0000">
-		<title>2024 Kumho FIA TCR World Tour</title>
+		<title>2024 FIA TCR World Tour ZHUZHOU</title>
 		<desc>The world's premier touring car racing competition gains FIA recognition from 2024 and consists of seven events across Europe, Africa, North America, South America and Asia.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_motorsports.jpg?w=341&amp;h=192" />
 	</programme>
@@ -29792,19 +29792,14 @@
 		<desc>A Heisei youth graffiti drama, in which the heroine Yoneda Yui (Hashimoto Kanna), born in the first year of the Heisei era, connects people's hearts to the future as a nutritionist. Always cherishing her individuality, she sometimes struggles, but powerfully and joyfully pushes through the turbulent Heisei and Reiwa eras.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="811" start="20241121231500 +0000" stop="20241122005400 +0000">
+	<programme channel="811" start="20241121235100 +0000" stop="20241122000000 +0000">
+		<title>News</title>
+		<desc>The latest up-to-date news from Tokyo.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="811" start="20241122000000 +0000" stop="20241122010000 +0000">
 		<title>asaichi</title>
 		<desc>Looking into topical information ranging from social issues to entertainment news through the eyes of the general public.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="811" start="20241122005400 +0000" stop="20241122005500 +0000">
-		<title>World Weather</title>
-		<desc>Weather information of the different areas around the world.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="811" start="20241122005500 +0000" stop="20241122010000 +0000">
-		<title>Exercise for Everyone</title>
-		<desc>An easy-to-do exercise program for everyone from children to the elderly.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="811" start="20241122010000 +0000" stop="20241122010500 +0000">
@@ -30180,11 +30175,6 @@
 	<programme channel="811" start="20241123025600 +0000" stop="20241123030000 +0000">
 		<title>World Weather</title>
 		<desc>Weather information of the different areas around the world.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="811" start="20241123030000 +0000" stop="20241123031500 +0000">
-		<title>News</title>
-		<desc>The latest up-to-date news from Tokyo.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="811" start="20241123031500 +0000" stop="20241123034000 +0000">
