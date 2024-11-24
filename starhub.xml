@@ -10047,27 +10047,37 @@
 		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_Channels2/204_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="204" start="20241124220000 +0000" stop="20241124233000 +0000">
+	<programme channel="204" start="20241124220000 +0000" stop="20241125012500 +0000">
 		<title>End of Transmission</title>
 		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_Channels2/204_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="204" start="20241124233000 +0000" stop="20241125030000 +0000">
+	<programme channel="204" start="20241125012500 +0000" stop="20241125015500 +0000">
+		<title>ICC Men's T20 World Cup 2024: M53 - SF1 - Afghanistan vs South Africa HLs</title>
+		<desc>The 9th edition of the T20 World Cup will be co-hosted by West Indies &amp; USA for the first time, with a record of 20 teams vying for the title!</desc>
+		<icon src="https://poster.starhubgo.com/poster/T20WC2024_M53.jpg?w=960&amp;h=540" />
+	</programme>
+	<programme channel="204" start="20241125015500 +0000" stop="20241125022500 +0000">
+		<title>ICC Men's T20 World Cup 2024: M54 - SF2 - England vs India HLs</title>
+		<desc>The 9th edition of the T20 World Cup will be co-hosted by West Indies &amp; USA for the first time, with a record of 20 teams vying for the title!</desc>
+		<icon src="https://poster.starhubgo.com/poster/T20WC2024_M54.jpg?w=960&amp;h=540" />
+	</programme>
+	<programme channel="204" start="20241125022500 +0000" stop="20241125041000 +0000">
 		<title>Weber Women's Big Bash League 2024: M36 - Brisbane Heat vs Melbourne Stars</title>
 		<desc>The 2024-25 Women's Big Bash League season is the 10th season of the Women's Big Bash League (WBBL), the semi-professional women's Twenty20 domestic cricket competition in Australia, taking place from 27 October to 1 December 2024.</desc>
 		<icon src="https://poster.starhubgo.com/poster/WBBL2024_GENERIC.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="204" start="20241125030000 +0000" stop="20241125063000 +0000">
+	<programme channel="204" start="20241125041000 +0000" stop="20241125064500 +0000">
 		<title>Weber Women's Big Bash League 2024: M37 - Melbourne Renegades vs Sydney Thunder</title>
 		<desc>The 2024-25 Women's Big Bash League season is the 10th season of the Women's Big Bash League (WBBL), the semi-professional women's Twenty20 domestic cricket competition in Australia, taking place from 27 October to 1 December 2024.</desc>
 		<icon src="https://poster.starhubgo.com/poster/WBBL2024_GENERIC.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="204" start="20241125063000 +0000" stop="20241125103000 +0000">
+	<programme channel="204" start="20241125064500 +0000" stop="20241125100000 +0000">
 		<title>Weber Women's Big Bash League 2024: M38 - Perth Scorchers vs Hobart Hurricanes</title>
 		<desc>The 2024-25 Women's Big Bash League season is the 10th season of the Women's Big Bash League (WBBL), the semi-professional women's Twenty20 domestic cricket competition in Australia, taking place from 27 October to 1 December 2024.</desc>
 		<icon src="https://poster.starhubgo.com/poster/WBBL2024_GENERIC.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="204" start="20241125103000 +0000" stop="20241125170000 +0000">
+	<programme channel="204" start="20241125100000 +0000" stop="20241125170000 +0000">
 		<title>TATA Indian Premier League 2025: Player Auction - Day 2</title>
 		<desc>The IPL 2025 auction will take place on November 24 and 25, in Jeddah, Saudi Arabia. The auction will include 318 Indian uncapped players and 12 uncapped overseas players. A total of 574 cricketers, including 366 Indians, will be in the fray for a maximum of 204 slots available at this year's Player Auction.</desc>
 		<icon src="https://poster.starhubgo.com/poster/IPL2025_AUCTION.jpg?w=960&amp;h=540" />
