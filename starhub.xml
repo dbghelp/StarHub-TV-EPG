@@ -10482,17 +10482,22 @@
 		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_Channels2/204_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="204" start="20241126012500 +0000" stop="20241126043000 +0000">
+	<programme channel="204" start="20241126004500 +0000" stop="20241126040000 +0000">
 		<title>Weber Women's Big Bash League 2024: M01 - Adelaide Strikers vs Brisbane Heat</title>
 		<desc>The 2024-25 Women's Big Bash League season is the 10th season of the Women's Big Bash League (WBBL), the semi-professional women's Twenty20 domestic cricket competition in Australia, taking place from 27 October to 1 December 2024.</desc>
 		<icon src="https://poster.starhubgo.com/poster/WBBL2024_GENERIC.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="204" start="20241126043000 +0000" stop="20241126080000 +0000">
-		<title>Weber Women's Big Bash League 2024: M39 - Melbourne Stars vs Adelaide Strikers</title>
-		<desc>The 2024-25 Women's Big Bash League season is the 10th season of the Women's Big Bash League (WBBL), the semi-professional women's Twenty20 domestic cricket competition in Australia, taking place from 27 October to 1 December 2024.</desc>
-		<icon src="https://poster.starhubgo.com/poster/WBBL2024_GENERIC.jpg?w=960&amp;h=540" />
+	<programme channel="204" start="20241126040000 +0000" stop="20241126054000 +0000">
+		<title>Pakistan Tour of Australia 2024: 1st T20I</title>
+		<desc>Pakistan Tour of Australia 2024: 1st T20I</desc>
+		<icon src="https://poster.starhubgo.com/poster/CA_GENERIC.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="204" start="20241126080000 +0000" stop="20241126160000 +0000">
+	<programme channel="204" start="20241126054000 +0000" stop="20241126100000 +0000">
+		<title>Pakistan Tour of Australia 2024: 2nd T20I</title>
+		<desc>Pakistan Tour of Australia 2024: 2nd T20I</desc>
+		<icon src="https://poster.starhubgo.com/poster/CA_GENERIC.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="204" start="20241126100000 +0000" stop="20241126160500 +0000">
 		<title>India Tour of Australia 2024: 1st Test - Day 2</title>
 		<desc>India Tour of Australia 2024: 1st Test - Day 2</desc>
 		<icon src="https://poster.starhubgo.com/poster/INDvAUS202425_TEST.jpg?w=341&amp;h=192" />
@@ -10507,12 +10512,12 @@
 		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_channels2/205_1920x1080_HTV.png?w=960&amp;h=540" />
 	</programme>
-	<programme channel="205" start="20241124220000 +0000" stop="20241125021000 +0000">
+	<programme channel="205" start="20241124220000 +0000" stop="20241125022000 +0000">
 		<title>End of Transmission</title>
 		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_channels2/205_1920x1080_HTV.png?w=960&amp;h=540" />
 	</programme>
-	<programme channel="205" start="20241125021000 +0000" stop="20241125103000 +0000">
+	<programme channel="205" start="20241125022000 +0000" stop="20241125103000 +0000">
 		<title>India Tour of Australia 2024: 1st Test - Day 4</title>
 		<desc>India Tour of Australia 2024: 1st Test - Day 4</desc>
 		<icon src="https://poster.starhubgo.com/poster/INDvAUS202425_TEST.jpg?w=341&amp;h=192" />
@@ -10527,7 +10532,7 @@
 		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_channels2/205_1920x1080_HTV.png?w=960&amp;h=540" />
 	</programme>
-	<programme channel="205" start="20241125220000 +0000" stop="20241126021000 +0000">
+	<programme channel="205" start="20241125220000 +0000" stop="20241126040000 +0000">
 		<title>End of Transmission</title>
 		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_channels2/205_1920x1080_HTV.png?w=960&amp;h=540" />
@@ -10867,19 +10872,14 @@
 		<desc>The MotoGP World Championship crowns one of 22 riders lining up on 1000cc prototype bikes capable of producing over 240 horsepower and getting up to speeds of 350kph over 21 Grand Prix races.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_motogp.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="210" start="20241126063000 +0000" stop="20241126083000 +0000">
+	<programme channel="210" start="20241126063000 +0000" stop="20241126092000 +0000">
 		<title>WTT Finals Fukuoka 2024</title>
 		<desc>The world's elite singles and doubles table tennis players battle for a share of the US$2 million prize pool as well as 2000 world ranking points in Montpellier,France.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_wtt.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="210" start="20241126083000 +0000" stop="20241126101000 +0000">
+	<programme channel="210" start="20241126092000 +0000" stop="20241126110000 +0000">
 		<title>MotoGP Awards 2024</title>
 		<desc>The top riders of the year will be celebrated in style at the highly anticipated annual red carpet ceremony, where a fresh new identity for the sport will also be unveiled</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch210_motogp.jpg?w=960&amp;h=540" />
-	</programme>
-	<programme channel="210" start="20241126103000 +0000" stop="20241126110000 +0000">
-		<title>MotoGP 2024 Spotlight</title>
-		<desc>Recap the action and behind-the-scenes with MotoGP riders.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_motogp.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="210" start="20241126110000 +0000" stop="20241126150000 +0000">
@@ -11163,7 +11163,7 @@
 		<icon src="https://poster.starhubgo.com/poster/ch213_bundesliga_highlights.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="213" start="20241125170000 +0000" stop="20241125173000 +0000">
-		<title>Mini Match - LaLiga 2023/24: Atletico vs Villarreal</title>
+		<title>Mini Match - LaLiga 2024/25: Atletico Madrid vs Alaves</title>
 		<desc>Exclusive coverage from the Spanish LaLiga, Spain's top division of football, with the world's biggest teams and best players.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch213_mini_match_laliga.jpg?w=960&amp;h=540" />
 	</programme>
@@ -22132,32 +22132,32 @@
 		<desc>Issa and Lawrence catch up and talk life, careers, past mistakes, and what makes each of them happy.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch633_insecure_s1.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="603" start="20241126020000 +0000" stop="20241126030000 +0000">
+	<programme channel="603" start="20241126020000 +0000" stop="20241126025500 +0000">
 		<title>Get Millie Black S1 - EP 1</title>
 		<desc>After returning home to Jamaica, ex-Scotland Yard detective Millie Black works a missing persons case that threatens to blow up her world.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch633_GetMillieBlack.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="603" start="20241126030000 +0000" stop="20241126044000 +0000">
+	<programme channel="603" start="20241126025500 +0000" stop="20241126043500 +0000">
 		<title>When Harry Met Sally...</title>
 		<desc>Harry and Sally have known each other for years, and are very good friends, but they fear sex would ruin the friendship.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch633_when_harry_met_sally.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="603" start="20241126044000 +0000" stop="20241126060500 +0000">
+	<programme channel="603" start="20241126043500 +0000" stop="20241126060000 +0000">
 		<title>Taking Chance</title>
 		<desc>Kevin Bacon stars in this profoundly moving HBO Original Movie that looks at the military rituals for honoring its war dead.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch633_taking_chance.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="603" start="20241126060500 +0000" stop="20241126081000 +0000">
+	<programme channel="603" start="20241126060000 +0000" stop="20241126080500 +0000">
 		<title>Crazy, Stupid, Love</title>
 		<desc>A straight-laced man tries to play the field, but discovers that his heart will always be with his wife.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch633_CRAZYSTUPIDLOVE?w=341&amp;h=192" />
 	</programme>
-	<programme channel="603" start="20241126081000 +0000" stop="20241126100500 +0000">
+	<programme channel="603" start="20241126080500 +0000" stop="20241126100000 +0000">
 		<title>Mann V. Ford</title>
 		<desc>This HBO documentary follows the Ramapough Indians as they take on Ford and the Environmental Protection Agency to secure a healthy future for their children.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch633_mann_v_ford.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="603" start="20241126100500 +0000" stop="20241126103000 +0000">
+	<programme channel="603" start="20241126100000 +0000" stop="20241126103000 +0000">
 		<title>Hollywood On Set S1 - EP 1092</title>
 		<desc>Each week Hollywood On Set goes behind-the-scenes on three major movies in production, featuring action footage and interviews with filmmakers.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch633_hollywood_on_set_s1.jpg?w=341&amp;h=192" />
@@ -22172,15 +22172,20 @@
 		<desc>The story of one of the world’s greatest living minds, Stephen Hawking, and the arts student he fell in love with whilst studying at Cambridge.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch633_theory_Of_everything.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="603" start="20241126140000 +0000" stop="20241126150000 +0000">
+	<programme channel="603" start="20241126140000 +0000" stop="20241126145000 +0000">
 		<title>Get Millie Black S1 - EP 1</title>
 		<desc>After returning home to Jamaica, ex-Scotland Yard detective Millie Black works a missing persons case that threatens to blow up her world.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch633_GetMillieBlack.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="603" start="20241126150000 +0000" stop="20241126160000 +0000">
+	<programme channel="603" start="20241126145000 +0000" stop="20241126155500 +0000">
 		<title>Dune: Prophecy S1 - EP 2</title>
-		<desc>Before they would become known as the fabled Bene Gesserit, a powerful Sisterhood works in the shadows to guide the universe.</desc>
+		<desc>While Valya recruits Theodosia to help manage the situation on Salusa Secundus, a reluctant Tula enlists Lila for a vital mission.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch633_DuneProphecyS1.jpg?w=960&amp;h=540" />
+	</programme>
+	<programme channel="603" start="20241126155500 +0000" stop="20241126163000 +0000">
+		<title>The Franchise S1 - EP 8</title>
+		<desc>A shocking revelation spurs Anita, Dan, and Dag to take action, while a strange incident on set overshadows Peter’s final day.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch633_TheFranchiseS1.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="604" start="20241124155500 +0000" stop="20241124160500 +0000">
 		<title>Apple &amp; Onion S2 - EP 29</title>
