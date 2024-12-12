@@ -1209,7 +1209,7 @@
 	</programme>
 	<programme channel="103" start="20241212143000 +0000" stop="20241212150000 +0000">
 		<title>Focus - EP 33</title>
-		<desc>Focus provides timely reports and analyses on international news and current affairs from Singapore's perspective.</desc>
+		<desc>Following the collapse of Bashar al-Assad's regime, what kind of future awaits Syria? Can the ruling party in South Korea prevent the impeachment of President Yoon Suk Yeol by the opposition?</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/103_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="103" start="20241212150000 +0000" stop="20241212160000 +0000">
@@ -6190,7 +6190,7 @@
 	<programme channel="135" start="20241212010000 +0000" stop="20241212013000 +0000">
 		<title>Pandian Stores Thanthai Sol Mikka Mandhi - EP 349</title>
 		<desc>Muthuvel's food refusal leads to stubborn Vadivu's insistence on eating.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch135_pandian_stores_thanthai_sol_mikka_mandhiram_illai.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch135_pandian_stores_thanthai_sol_mikka_mandhi.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="135" start="20241212013000 +0000" stop="20241212020000 +0000">
 		<title>Baagyalatchumi Illatharisiyin Kadhai S01 - EP 1286</title>
@@ -6215,7 +6215,7 @@
 	<programme channel="135" start="20241212053000 +0000" stop="20241212060000 +0000">
 		<title>Pandian Stores Thanthai Sol Mikka Mandhi - EP 349</title>
 		<desc>Muthuvel's food refusal leads to stubborn Vadivu's insistence on eating.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch135_pandian_stores_thanthai_sol_mikka_mandhiram_illai.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch135_pandian_stores_thanthai_sol_mikka_mandhi.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="135" start="20241212060000 +0000" stop="20241212063000 +0000">
 		<title>Baagyalatchumi Illatharisiyin Kadhai S01 - EP 1286</title>
@@ -6280,7 +6280,7 @@
 	<programme channel="135" start="20241212120000 +0000" stop="20241212123000 +0000">
 		<title>Pandian Stores Thanthai Sol Mikka Mandhi - EP 350</title>
 		<desc>Muthuvel's food refusal leads to stubborn Vadivu's insistence on eating.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch135_pandian_stores_thanthai_sol_mikka_mandhiram_illai.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch135_pandian_stores_thanthai_sol_mikka_mandhi.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="135" start="20241212123000 +0000" stop="20241212130000 +0000">
 		<title>Baagyalatchumi Illatharisiyin Kadhai S01 - EP 1287</title>
@@ -6310,7 +6310,7 @@
 	<programme channel="135" start="20241212160000 +0000" stop="20241212163000 +0000">
 		<title>Pandian Stores Thanthai Sol Mikka Mandhi - EP 350</title>
 		<desc>Muthuvel's food refusal leads to stubborn Vadivu's insistence on eating.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch135_pandian_stores_thanthai_sol_mikka_mandhiram_illai.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch135_pandian_stores_thanthai_sol_mikka_mandhi.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="135" start="20241212163000 +0000" stop="20241212170000 +0000">
 		<title>Baagyalatchumi Illatharisiyin Kadhai S01 - EP 1287</title>
@@ -6538,12 +6538,12 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/136_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="136" start="20241212050000 +0000" stop="20241212080000 +0000">
-		<title>Vikram</title>
+		<title>Thee</title>
 		<desc>Enjoy your day by tuning in to Vannathirai. We bring you a wide variety of Tamil movies for the whole family to watch.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/136_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="136" start="20241212080000 +0000" stop="20241212110000 +0000">
-		<title>ManuNeethi</title>
+		<title>Kai Kodukkum Kai</title>
 		<desc>Enjoy your day by tuning in to Vannathirai. We bring you a wide variety of Tamil movies for the whole family to watch.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/136_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
@@ -6563,7 +6563,7 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/136_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="136" start="20241212130000 +0000" stop="20241212160000 +0000">
-		<title>Hit Thirai - Aatukkara Alamelu</title>
+		<title>Hit Thirai - Adutha Vaarisu</title>
 		<desc>Enjoy your day by tuning in to Vannathirai. We bring you a wide variety of Tamil movies for the whole family to watch.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/136_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
@@ -6743,364 +6743,409 @@
 		<icon src="https://poster.starhubgo.com/poster/ch656_SandhyaRagam.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="138" start="20241211183000 +0000" stop="20241211190000 +0000">
-		<title>Idhayam - EP 497</title>
-		<desc>Shankar's discovery of his friend being a womanizer comes to light when his wife is accused of murdering him, revealing another suspect.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch656_Idhayam.jpg?w=341&amp;h=192" />
+		<title>Karthigai Deepam - EP 685</title>
+		<desc>A gifted dark-skinned woman, a remarkable singer, marries a supportive man, defies beauty norms, and achieves music stardom with her talent.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch656_KarthigaiDeepam.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="138" start="20241211190000 +0000" stop="20241211193000 +0000">
-		<title>Idhayam - EP 498</title>
-		<desc>Shankar's discovery of his friend being a womanizer comes to light when his wife is accused of murdering him, revealing another suspect.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch656_Idhayam.jpg?w=341&amp;h=192" />
-	</programme>
-	<programme channel="138" start="20241211193000 +0000" stop="20241211200000 +0000">
-		<title>KCKC - Bhaagamathie - EP 131</title>
-		<desc>Konjam Coffee Konjam Cinema - Comedy and action scenes from your favourite stars' movies.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch656_zee_tamil_exclusive.jpg?w=341&amp;h=192" />
-	</programme>
-	<programme channel="138" start="20241211200000 +0000" stop="20241211203000 +0000">
-		<title>Mounam Pesiyathey - EP 32</title>
-		<desc>Thulasi, married to the thug Sethu, meets Siva, who loses his memory.Mistaken for his wife, she pretends to be, but as Sethu searches for her, she falls in love with Siva.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch656_MounamPesiyathey.jpg?w=341&amp;h=192" />
-	</programme>
-	<programme channel="138" start="20241211203000 +0000" stop="20241211210000 +0000">
-		<title>Naane Varuvean - EP 197</title>
-		<desc>Radha, a cheerful girl, is head over heels for Mohan, a cynical businessman, despite being aware of the fact that he has a daughter. However, she believes that she can turn him into a good man.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch656_NaaneVaruvean.jpg?w=341&amp;h=192" />
-	</programme>
-	<programme channel="138" start="20241211210000 +0000" stop="20241211213000 +0000">
-		<title>Zee Flix - EP 654</title>
-		<desc>Tune in for best movie scenes.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch656_ZeeFlix.jpg?w=341&amp;h=192" />
-	</programme>
-	<programme channel="138" start="20241211213000 +0000" stop="20241211220000 +0000">
-		<title>Nee Pathi Naan Paathi - EP 90</title>
-		<desc>Shakti's unwavering love aims to heal Shiv's broken soul, while Shiv strives to transform Shakti into a great doctor. Their journey is filled with hope and dedication.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch656_NeePathiNaanPaathi.jpg?w=341&amp;h=192" />
-	</programme>
-	<programme channel="138" start="20241211220000 +0000" stop="20241211223000 +0000">
-		<title>Ninaithale Inikkum - EP 1114</title>
-		<desc>Meet a determined girl with big dreams of becoming a successful businesswoman. Follow her journey as she navigates challenges, pursues her passions, and learns what it takes to succeed.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch656_ninaithale_inikkum.jpg?w=341&amp;h=192" />
-	</programme>
-	<programme channel="138" start="20241211223000 +0000" stop="20241211230000 +0000">
-		<title>Anna - EP 543</title>
-		<desc>When a caring brother discovers the evil guy tormenting his estranged sister, he springs into action to confront the villain and help turn her life around for the better.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch656_Anna.jpg?w=341&amp;h=192" />
-	</programme>
-	<programme channel="138" start="20241211230000 +0000" stop="20241212000000 +0000">
-		<title>Valliyin Velan - EP 75</title>
-		<desc>It is the story of Valli, who is rejected by her father Rathinavel because of her mother's deceit. Determined to prove her mother's innocence, she seeks help from Kadhirvelan to win his love.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch656_ValliyinVelan.jpg?w=960&amp;h=540" />
-	</programme>
-	<programme channel="138" start="20241212000000 +0000" stop="20241212003000 +0000">
 		<title>Nenjathai Killadhe - EP 121</title>
 		<desc>Story of Goutham, an overweight businessman, who marries Mathumitha, an educated woman from a middle-class background. Though older, will their arranged marriage lead to love?</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch656_NenjathaiKilladhe.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="138" start="20241212003000 +0000" stop="20241212010000 +0000">
+	<programme channel="138" start="20241211193000 +0000" stop="20241211200000 +0000">
 		<title>Veera - EP 215</title>
 		<desc>Rannvijay raises his half-sister Veera as his own child, while their mother Ratan, though showing contempt towards Veera, secretly supports her son in raising her.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch656_Veera.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="138" start="20241212010000 +0000" stop="20241212013000 +0000">
+	<programme channel="138" start="20241211200000 +0000" stop="20241211203000 +0000">
 		<title>Naane Varuvean - EP 197</title>
 		<desc>Radha, a cheerful girl, is head over heels for Mohan, a cynical businessman, despite being aware of the fact that he has a daughter. However, she believes that she can turn him into a good man.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch656_NaaneVaruvean.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="138" start="20241212013000 +0000" stop="20241212020000 +0000">
+	<programme channel="138" start="20241211203000 +0000" stop="20241211210000 +0000">
 		<title>Mounam Pesiyathey - EP 32</title>
 		<desc>Thulasi, married to the thug Sethu, meets Siva, who loses his memory.Mistaken for his wife, she pretends to be, but as Sethu searches for her, she falls in love with Siva.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch656_MounamPesiyathey.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="138" start="20241212020000 +0000" stop="20241212023000 +0000">
+	<programme channel="138" start="20241211210000 +0000" stop="20241211213000 +0000">
 		<title>Ninaithale Inikkum - EP 1114</title>
 		<desc>Meet a determined girl with big dreams of becoming a successful businesswoman. Follow her journey as she navigates challenges, pursues her passions, and learns what it takes to succeed.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch656_ninaithale_inikkum.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="138" start="20241212023000 +0000" stop="20241212033000 +0000">
+	<programme channel="138" start="20241211213000 +0000" stop="20241211220000 +0000">
 		<title>Sandhya Raagam - EP 395</title>
 		<desc>Aadhya, after losing her mother, is cared for by her aunt Janaki, who must balance Aadhya's urban lifestyle with her family's disapproval. Can Janaki provide the life Aadhya deserves?</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch656_SandhyaRagam.jpg?w=960&amp;h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch656_SandhyaRagam.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="138" start="20241212033000 +0000" stop="20241212040000 +0000">
+	<programme channel="138" start="20241211220000 +0000" stop="20241211223000 +0000">
+		<title>Karthigai Deepam - EP 685</title>
+		<desc>A gifted dark-skinned woman, a remarkable singer, marries a supportive man, defies beauty norms, and achieves music stardom with her talent.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch656_KarthigaiDeepam.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="138" start="20241211223000 +0000" stop="20241211230000 +0000">
 		<title>Mounam Pesiyathey - EP 32</title>
 		<desc>Thulasi, married to the thug Sethu, meets Siva, who loses his memory.Mistaken for his wife, she pretends to be, but as Sethu searches for her, she falls in love with Siva.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch656_MounamPesiyathey.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="138" start="20241212040000 +0000" stop="20241212050000 +0000">
+	<programme channel="138" start="20241211230000 +0000" stop="20241211233000 +0000">
 		<title>Veera - EP 215</title>
 		<desc>Rannvijay raises his half-sister Veera as his own child, while their mother Ratan, though showing contempt towards Veera, secretly supports her son in raising her.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch656_Veera.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="138" start="20241212050000 +0000" stop="20241212053000 +0000">
+	<programme channel="138" start="20241211233000 +0000" stop="20241212000000 +0000">
+		<title>Oru Oorula Oru Raja Kumari - EP 94</title>
+		<desc>Tells the story of Rasathi, a spunky, overweight girl who faces body shaming. She is married to a celebrated Kabbadi player, leading to a journey of self-acceptance and love.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch656_oru_oorula_oru_rajakumari.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="138" start="20241212000000 +0000" stop="20241212003000 +0000">
 		<title>Sembaruthi - EP 182</title>
 		<desc>The show will explore mindset and class conflict of two different personalities 'Akhilandeshwari ' and 'Parvathi'. Office Karthik and DJD Kathir are playing the lead roles in this Fiction</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch656_sembaruthi.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="138" start="20241212053000 +0000" stop="20241212060000 +0000">
+	<programme channel="138" start="20241212003000 +0000" stop="20241212010000 +0000">
 		<title>Sembaruthi - EP 183</title>
 		<desc>The show will explore mindset and class conflict of two different personalities 'Akhilandeshwari ' and 'Parvathi'. Office Karthik and DJD Kathir are playing the lead roles in this Fiction</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch656_sembaruthi.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="138" start="20241212060000 +0000" stop="20241212063000 +0000">
+	<programme channel="138" start="20241212010000 +0000" stop="20241212013000 +0000">
 		<title>Thirumathi Hitler - EP 158</title>
 		<desc>It's a drama-comedy series about AJ, a perfectionist, and Hasini, a challenge-loving woman. The plot revolves around their marriage, with the help of AJ's three daughters-in-law.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch656_thirumathi_hitler.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="138" start="20241212063000 +0000" stop="20241212073000 +0000">
+	<programme channel="138" start="20241212013000 +0000" stop="20241212023000 +0000">
 		<title>Genes S02 - EP 36</title>
 		<desc>'Genes' is a fun show where celebrities dive into their genetic roots, connecting with real families by uncovering their surprising genetic similarities. It's all about discovering your hidden connections!</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch656_GenesS02.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="138" start="20241212073000 +0000" stop="20241212080000 +0000">
+	<programme channel="138" start="20241212023000 +0000" stop="20241212030000 +0000">
 		<title>Nenjathai Killadhe - EP 121</title>
 		<desc>Story of Goutham, an overweight businessman, who marries Mathumitha, an educated woman from a middle-class background. Though older, will their arranged marriage lead to love?</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch656_NenjathaiKilladhe.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="138" start="20241212080000 +0000" stop="20241212103000 +0000">
+	<programme channel="138" start="20241212030000 +0000" stop="20241212053000 +0000">
 		<title>Dora - EP 1</title>
 		<desc>Tamil Horror Thriller Film, Starring, Nayantara, Thambi Ramaiah, Harish Uthaman, Sulile Kumar, Shan and Others Release Year: 2017 Director: DoSS Ramasamy</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch656_zee_tamil_exclusive.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="138" start="20241212103000 +0000" stop="20241212110000 +0000">
+	<programme channel="138" start="20241212053000 +0000" stop="20241212060000 +0000">
 		<title>KCKC - God Father - EP 38</title>
 		<desc>Konjam Coffee Konjam Cinema - Comedy and action scenes from your favourite stars' movies.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch656_zee_tamil_exclusive.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="138" start="20241212110000 +0000" stop="20241212113000 +0000">
+	<programme channel="138" start="20241212060000 +0000" stop="20241212063000 +0000">
 		<title>KCKC - Billa Pandi - EP 132</title>
 		<desc>Konjam Coffee Konjam Cinema - Comedy and action scenes from your favourite stars' movies.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch656_zee_tamil_exclusive.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="138" start="20241212113000 +0000" stop="20241212120000 +0000">
+	<programme channel="138" start="20241212063000 +0000" stop="20241212070000 +0000">
 		<title>Naane Varuvean - EP 198</title>
 		<desc>Radha, a cheerful girl, is head over heels for Mohan, a cynical businessman, despite being aware of the fact that he has a daughter. However, she believes that she can turn him into a good man.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch656_NaaneVaruvean.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="138" start="20241212120000 +0000" stop="20241212123000 +0000">
+	<programme channel="138" start="20241212070000 +0000" stop="20241212073000 +0000">
 		<title>Nee Pathi Naan Paathi - EP 91</title>
 		<desc>Shakti's unwavering love aims to heal Shiv's broken soul, while Shiv strives to transform Shakti into a great doctor. Their journey is filled with hope and dedication.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch656_NeePathiNaanPaathi.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="138" start="20241212123000 +0000" stop="20241212130000 +0000">
+	<programme channel="138" start="20241212073000 +0000" stop="20241212080000 +0000">
 		<title>Mounam Pesiyathey - EP 33</title>
 		<desc>Thulasi, married to the thug Sethu, meets Siva, who loses his memory.Mistaken for his wife, she pretends to be, but as Sethu searches for her, she falls in love with Siva.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch656_MounamPesiyathey.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="138" start="20241212130000 +0000" stop="20241212133000 +0000">
+	<programme channel="138" start="20241212080000 +0000" stop="20241212083000 +0000">
 		<title>Valliyin Velan - EP 75</title>
 		<desc>It is the story of Valli, who is rejected by her father Rathinavel because of her mother's deceit. Determined to prove her mother's innocence, she seeks help from Kadhirvelan to win his love.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch656_ValliyinVelan.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="138" start="20241212133000 +0000" stop="20241212140000 +0000">
+	<programme channel="138" start="20241212083000 +0000" stop="20241212090000 +0000">
 		<title>Ninaithale Inikkum - EP 1115</title>
 		<desc>Meet a determined girl with big dreams of becoming a successful businesswoman. Follow her journey as she navigates challenges, pursues her passions, and learns what it takes to succeed.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch656_ninaithale_inikkum.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="138" start="20241212140000 +0000" stop="20241212143000 +0000">
+	<programme channel="138" start="20241212090000 +0000" stop="20241212093000 +0000">
 		<title>Lakshmi Kalyanam - EP 166</title>
 		<desc>Lakshmi's life takes an unexpected turn when her family gets her married to a rich businessman, Rishi. However, she is feeling betrayed when she learns the truth about her marriage</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch656_zee_tamil_exclusive.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch656_LakshiKalyanam.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="138" start="20241212143000 +0000" stop="20241212150000 +0000">
+	<programme channel="138" start="20241212093000 +0000" stop="20241212100000 +0000">
 		<title>Veera - EP 216</title>
 		<desc>Rannvijay raises his half-sister Veera as his own child, while their mother Ratan, though showing contempt towards Veera, secretly supports her son in raising her.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch656_Veera.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="138" start="20241212150000 +0000" stop="20241212160000 +0000">
+	<programme channel="138" start="20241212100000 +0000" stop="20241212103000 +0000">
 		<title>Maari - EP 782</title>
 		<desc>Maari' is about a gifted village girl facing victimization for her premonition powers. Unexpectedly marrying Surya, she becomes his savior.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch656_Maari.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="138" start="20241212160000 +0000" stop="20241212163000 +0000">
+	<programme channel="138" start="20241212103000 +0000" stop="20241212110000 +0000">
+		<title>Ninaithaen Vanthai - EP 250</title>
+		<desc>Devastated by his wife Indhumathi's death, Ezhil finds solace when Sudarvizhi, a simple village girl, steps in to care for his children.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch656_NinaitheanVandhai.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="138" start="20241212110000 +0000" stop="20241212113000 +0000">
 		<title>Nenjathai Killadhe - EP 122</title>
 		<desc>Story of Goutham, an overweight businessman, who marries Mathumitha, an educated woman from a middle-class background. Though older, will their arranged marriage lead to love?</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch656_NenjathaiKilladhe.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="138" start="20241212163000 +0000" stop="20241212173000 +0000">
+	<programme channel="138" start="20241212113000 +0000" stop="20241212120000 +0000">
 		<title>Anna - EP 544</title>
 		<desc>When a caring brother discovers the evil guy tormenting his estranged sister, he springs into action to confront the villain and help turn her life around for the better.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch656_Anna.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="138" start="20241212173000 +0000" stop="20241212180000 +0000">
+	<programme channel="138" start="20241212120000 +0000" stop="20241212123000 +0000">
+		<title>Karthigai Deepam - EP 686</title>
+		<desc>A gifted dark-skinned woman, a remarkable singer, marries a supportive man, defies beauty norms, and achieves music stardom with her talent.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch656_KarthigaiDeepam.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="138" start="20241212123000 +0000" stop="20241212130000 +0000">
 		<title>Valliyin Velan - EP 76</title>
 		<desc>It is the story of Valli, who is rejected by her father Rathinavel because of her mother's deceit. Determined to prove her mother's innocence, she seeks help from Kadhirvelan to win his love.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch656_ValliyinVelan.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="138" start="20241212180000 +0000" stop="20241212183000 +0000">
+	<programme channel="138" start="20241212130000 +0000" stop="20241212133000 +0000">
 		<title>Sandhya Raagam - EP 396</title>
 		<desc>Aadhya, after losing her mother, is cared for by her aunt Janaki, who must balance Aadhya's urban lifestyle with her family's disapproval. Can Janaki provide the life Aadhya deserves?</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch656_SandhyaRagam.jpg?w=960&amp;h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch656_SandhyaRagam.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="138" start="20241212183000 +0000" stop="20241212190000 +0000">
+	<programme channel="138" start="20241212133000 +0000" stop="20241212140000 +0000">
 		<title>Idhayam - EP 499</title>
 		<desc>Shankar's discovery of his friend being a womanizer comes to light when his wife is accused of murdering him, revealing another suspect.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch656_Idhayam.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="138" start="20241212190000 +0000" stop="20241212193000 +0000">
+	<programme channel="138" start="20241212140000 +0000" stop="20241212143000 +0000">
 		<title>Idhayam - EP 500</title>
 		<desc>Shankar's discovery of his friend being a womanizer comes to light when his wife is accused of murdering him, revealing another suspect.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch656_Idhayam.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="138" start="20241212193000 +0000" stop="20241212200000 +0000">
+	<programme channel="138" start="20241212143000 +0000" stop="20241212150000 +0000">
 		<title>KCKC - Billa Pandi - EP 132</title>
 		<desc>Konjam Coffee Konjam Cinema - Comedy and action scenes from your favourite stars' movies.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch656_zee_tamil_exclusive.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="138" start="20241212200000 +0000" stop="20241212203000 +0000">
+	<programme channel="138" start="20241212150000 +0000" stop="20241212153000 +0000">
 		<title>Mounam Pesiyathey - EP 33</title>
 		<desc>Thulasi, married to the thug Sethu, meets Siva, who loses his memory.Mistaken for his wife, she pretends to be, but as Sethu searches for her, she falls in love with Siva.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch656_MounamPesiyathey.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="138" start="20241212203000 +0000" stop="20241212210000 +0000">
+	<programme channel="138" start="20241212153000 +0000" stop="20241212160000 +0000">
 		<title>Naane Varuvean - EP 198</title>
 		<desc>Radha, a cheerful girl, is head over heels for Mohan, a cynical businessman, despite being aware of the fact that he has a daughter. However, she believes that she can turn him into a good man.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch656_NaaneVaruvean.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="138" start="20241212210000 +0000" stop="20241212213000 +0000">
+	<programme channel="138" start="20241212160000 +0000" stop="20241212163000 +0000">
 		<title>Zee Flix - EP 655</title>
 		<desc>Tune in for best movie scenes.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch656_ZeeFlix.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="138" start="20241212213000 +0000" stop="20241212220000 +0000">
+	<programme channel="138" start="20241212163000 +0000" stop="20241212170000 +0000">
 		<title>Nee Pathi Naan Paathi - EP 91</title>
 		<desc>Shakti's unwavering love aims to heal Shiv's broken soul, while Shiv strives to transform Shakti into a great doctor. Their journey is filled with hope and dedication.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch656_NeePathiNaanPaathi.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="138" start="20241212220000 +0000" stop="20241212223000 +0000">
+	<programme channel="138" start="20241212170000 +0000" stop="20241212173000 +0000">
 		<title>Ninaithale Inikkum - EP 1115</title>
 		<desc>Meet a determined girl with big dreams of becoming a successful businesswoman. Follow her journey as she navigates challenges, pursues her passions, and learns what it takes to succeed.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch656_ninaithale_inikkum.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="138" start="20241212223000 +0000" stop="20241212230000 +0000">
+	<programme channel="138" start="20241212173000 +0000" stop="20241212180000 +0000">
 		<title>Anna - EP 544</title>
 		<desc>When a caring brother discovers the evil guy tormenting his estranged sister, he springs into action to confront the villain and help turn her life around for the better.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch656_Anna.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="138" start="20241212230000 +0000" stop="20241213000000 +0000">
+	<programme channel="138" start="20241212180000 +0000" stop="20241212183000 +0000">
 		<title>Valliyin Velan - EP 76</title>
 		<desc>It is the story of Valli, who is rejected by her father Rathinavel because of her mother's deceit. Determined to prove her mother's innocence, she seeks help from Kadhirvelan to win his love.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch656_ValliyinVelan.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="138" start="20241213000000 +0000" stop="20241213003000 +0000">
+	<programme channel="138" start="20241212183000 +0000" stop="20241212190000 +0000">
+		<title>Karthigai Deepam - EP 686</title>
+		<desc>A gifted dark-skinned woman, a remarkable singer, marries a supportive man, defies beauty norms, and achieves music stardom with her talent.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch656_KarthigaiDeepam.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="138" start="20241212190000 +0000" stop="20241212193000 +0000">
 		<title>Nenjathai Killadhe - EP 122</title>
 		<desc>Story of Goutham, an overweight businessman, who marries Mathumitha, an educated woman from a middle-class background. Though older, will their arranged marriage lead to love?</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch656_NenjathaiKilladhe.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="138" start="20241213003000 +0000" stop="20241213010000 +0000">
+	<programme channel="138" start="20241212193000 +0000" stop="20241212200000 +0000">
 		<title>Veera - EP 216</title>
 		<desc>Rannvijay raises his half-sister Veera as his own child, while their mother Ratan, though showing contempt towards Veera, secretly supports her son in raising her.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch656_Veera.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="138" start="20241213010000 +0000" stop="20241213013000 +0000">
+	<programme channel="138" start="20241212200000 +0000" stop="20241212203000 +0000">
 		<title>Naane Varuvean - EP 198</title>
 		<desc>Radha, a cheerful girl, is head over heels for Mohan, a cynical businessman, despite being aware of the fact that he has a daughter. However, she believes that she can turn him into a good man.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch656_NaaneVaruvean.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="138" start="20241213013000 +0000" stop="20241213020000 +0000">
+	<programme channel="138" start="20241212203000 +0000" stop="20241212210000 +0000">
 		<title>Mounam Pesiyathey - EP 33</title>
 		<desc>Thulasi, married to the thug Sethu, meets Siva, who loses his memory.Mistaken for his wife, she pretends to be, but as Sethu searches for her, she falls in love with Siva.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch656_MounamPesiyathey.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="138" start="20241213020000 +0000" stop="20241213023000 +0000">
+	<programme channel="138" start="20241212210000 +0000" stop="20241212213000 +0000">
 		<title>Ninaithale Inikkum - EP 1115</title>
 		<desc>Meet a determined girl with big dreams of becoming a successful businesswoman. Follow her journey as she navigates challenges, pursues her passions, and learns what it takes to succeed.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch656_ninaithale_inikkum.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="138" start="20241213023000 +0000" stop="20241213033000 +0000">
+	<programme channel="138" start="20241212213000 +0000" stop="20241212220000 +0000">
 		<title>Sandhya Raagam - EP 396</title>
 		<desc>Aadhya, after losing her mother, is cared for by her aunt Janaki, who must balance Aadhya's urban lifestyle with her family's disapproval. Can Janaki provide the life Aadhya deserves?</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch656_SandhyaRagam.jpg?w=960&amp;h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch656_SandhyaRagam.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="138" start="20241213033000 +0000" stop="20241213040000 +0000">
+	<programme channel="138" start="20241212220000 +0000" stop="20241212223000 +0000">
+		<title>Karthigai Deepam - EP 686</title>
+		<desc>A gifted dark-skinned woman, a remarkable singer, marries a supportive man, defies beauty norms, and achieves music stardom with her talent.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch656_KarthigaiDeepam.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="138" start="20241212223000 +0000" stop="20241212230000 +0000">
 		<title>Mounam Pesiyathey - EP 33</title>
 		<desc>Thulasi, married to the thug Sethu, meets Siva, who loses his memory.Mistaken for his wife, she pretends to be, but as Sethu searches for her, she falls in love with Siva.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch656_MounamPesiyathey.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="138" start="20241213040000 +0000" stop="20241213050000 +0000">
+	<programme channel="138" start="20241212230000 +0000" stop="20241212233000 +0000">
 		<title>Veera - EP 216</title>
 		<desc>Rannvijay raises his half-sister Veera as his own child, while their mother Ratan, though showing contempt towards Veera, secretly supports her son in raising her.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch656_Veera.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="138" start="20241213050000 +0000" stop="20241213053000 +0000">
+	<programme channel="138" start="20241212233000 +0000" stop="20241213000000 +0000">
+		<title>Oru Oorula Oru Raja Kumari - EP 95</title>
+		<desc>Tells the story of Rasathi, a spunky, overweight girl who faces body shaming. She is married to a celebrated Kabbadi player, leading to a journey of self-acceptance and love.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch656_oru_oorula_oru_rajakumari.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="138" start="20241213000000 +0000" stop="20241213003000 +0000">
 		<title>Sembaruthi - EP 184</title>
 		<desc>The show will explore mindset and class conflict of two different personalities 'Akhilandeshwari ' and 'Parvathi'. Office Karthik and DJD Kathir are playing the lead roles in this Fiction</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch656_sembaruthi.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="138" start="20241213053000 +0000" stop="20241213060000 +0000">
+	<programme channel="138" start="20241213003000 +0000" stop="20241213010000 +0000">
 		<title>Sembaruthi - EP 185</title>
 		<desc>The show will explore mindset and class conflict of two different personalities 'Akhilandeshwari ' and 'Parvathi'. Office Karthik and DJD Kathir are playing the lead roles in this Fiction</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch656_sembaruthi.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="138" start="20241213060000 +0000" stop="20241213063000 +0000">
+	<programme channel="138" start="20241213010000 +0000" stop="20241213013000 +0000">
 		<title>Thirumathi Hitler - EP 159</title>
 		<desc>It's a drama-comedy series about AJ, a perfectionist, and Hasini, a challenge-loving woman. The plot revolves around their marriage, with the help of AJ's three daughters-in-law.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch656_thirumathi_hitler.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="138" start="20241213063000 +0000" stop="20241213073000 +0000">
+	<programme channel="138" start="20241213013000 +0000" stop="20241213023000 +0000">
 		<title>Genes S02 - EP 37</title>
 		<desc>'Genes' is a fun show where celebrities dive into their genetic roots, connecting with real families by uncovering their surprising genetic similarities. It's all about discovering your hidden connections!</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch656_GenesS02.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="138" start="20241213073000 +0000" stop="20241213080000 +0000">
+	<programme channel="138" start="20241213023000 +0000" stop="20241213030000 +0000">
 		<title>Nenjathai Killadhe - EP 122</title>
 		<desc>Story of Goutham, an overweight businessman, who marries Mathumitha, an educated woman from a middle-class background. Though older, will their arranged marriage lead to love?</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch656_NenjathaiKilladhe.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="138" start="20241213080000 +0000" stop="20241213103000 +0000">
+	<programme channel="138" start="20241213030000 +0000" stop="20241213053000 +0000">
 		<title>Dhilluku Dhuddu 2 - EP 1</title>
 		<desc>Tamil Horror Comedy Film, Starring, Santhanam, Shritha Sivadas, Rajendran, T.M. Karthik Srinivasan, Kavitha Ranjini Release Year: 2019 Director: Rambhala</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch656_zee_tamil_exclusive.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="138" start="20241213103000 +0000" stop="20241213110000 +0000">
+	<programme channel="138" start="20241213053000 +0000" stop="20241213060000 +0000">
 		<title>KCKC - Vanamagan - EP 39</title>
 		<desc>Konjam Coffee Konjam Cinema - Comedy and action scenes from your favourite stars' movies.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch656_zee_tamil_exclusive.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="138" start="20241213110000 +0000" stop="20241213113000 +0000">
+	<programme channel="138" start="20241213060000 +0000" stop="20241213063000 +0000">
 		<title>KCKC - Balloon - EP 133</title>
 		<desc>Konjam Coffee Konjam Cinema - Comedy and action scenes from your favourite stars' movies.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch656_zee_tamil_exclusive.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="138" start="20241213113000 +0000" stop="20241213120000 +0000">
+	<programme channel="138" start="20241213063000 +0000" stop="20241213070000 +0000">
 		<title>Naane Varuvean - EP 199</title>
 		<desc>Radha, a cheerful girl, is head over heels for Mohan, a cynical businessman, despite being aware of the fact that he has a daughter. However, she believes that she can turn him into a good man.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch656_NaaneVaruvean.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="138" start="20241213120000 +0000" stop="20241213123000 +0000">
+	<programme channel="138" start="20241213070000 +0000" stop="20241213073000 +0000">
 		<title>Nee Pathi Naan Paathi - EP 92</title>
 		<desc>Shakti's unwavering love aims to heal Shiv's broken soul, while Shiv strives to transform Shakti into a great doctor. Their journey is filled with hope and dedication.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch656_NeePathiNaanPaathi.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="138" start="20241213123000 +0000" stop="20241213130000 +0000">
+	<programme channel="138" start="20241213073000 +0000" stop="20241213080000 +0000">
 		<title>Mounam Pesiyathey - EP 34</title>
 		<desc>Thulasi, married to the thug Sethu, meets Siva, who loses his memory.Mistaken for his wife, she pretends to be, but as Sethu searches for her, she falls in love with Siva.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch656_MounamPesiyathey.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="138" start="20241213130000 +0000" stop="20241213133000 +0000">
+	<programme channel="138" start="20241213080000 +0000" stop="20241213083000 +0000">
 		<title>Valliyin Velan - EP 76</title>
 		<desc>It is the story of Valli, who is rejected by her father Rathinavel because of her mother's deceit. Determined to prove her mother's innocence, she seeks help from Kadhirvelan to win his love.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch656_ValliyinVelan.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="138" start="20241213133000 +0000" stop="20241213140000 +0000">
+	<programme channel="138" start="20241213083000 +0000" stop="20241213090000 +0000">
 		<title>Ninaithale Inikkum - EP 1116</title>
 		<desc>Meet a determined girl with big dreams of becoming a successful businesswoman. Follow her journey as she navigates challenges, pursues her passions, and learns what it takes to succeed.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch656_ninaithale_inikkum.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="138" start="20241213140000 +0000" stop="20241213143000 +0000">
+	<programme channel="138" start="20241213090000 +0000" stop="20241213093000 +0000">
 		<title>Lakshmi Kalyanam - EP 167</title>
 		<desc>Lakshmi's life takes an unexpected turn when her family gets her married to a rich businessman, Rishi. However, she is feeling betrayed when she learns the truth about her marriage</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch656_zee_tamil_exclusive.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch656_LakshiKalyanam.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="138" start="20241213143000 +0000" stop="20241213150000 +0000">
+	<programme channel="138" start="20241213093000 +0000" stop="20241213100000 +0000">
 		<title>Veera - EP 217</title>
 		<desc>Rannvijay raises his half-sister Veera as his own child, while their mother Ratan, though showing contempt towards Veera, secretly supports her son in raising her.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch656_Veera.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="138" start="20241213150000 +0000" stop="20241213160000 +0000">
+	<programme channel="138" start="20241213100000 +0000" stop="20241213103000 +0000">
 		<title>Maari - EP 783</title>
 		<desc>Maari' is about a gifted village girl facing victimization for her premonition powers. Unexpectedly marrying Surya, she becomes his savior.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch656_Maari.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="138" start="20241213103000 +0000" stop="20241213110000 +0000">
+		<title>Ninaithaen Vanthai - EP 251</title>
+		<desc>Devastated by his wife Indhumathi's death, Ezhil finds solace when Sudarvizhi, a simple village girl, steps in to care for his children.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch656_NinaitheanVandhai.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="138" start="20241213110000 +0000" stop="20241213113000 +0000">
+		<title>Nenjathai Killadhe - EP 123</title>
+		<desc>Story of Goutham, an overweight businessman, who marries Mathumitha, an educated woman from a middle-class background. Though older, will their arranged marriage lead to love?</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch656_NenjathaiKilladhe.jpg?w=960&amp;h=540" />
+	</programme>
+	<programme channel="138" start="20241213113000 +0000" stop="20241213120000 +0000">
+		<title>Anna - EP 545</title>
+		<desc>When a caring brother discovers the evil guy tormenting his estranged sister, he springs into action to confront the villain and help turn her life around for the better.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch656_Anna.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="138" start="20241213120000 +0000" stop="20241213123000 +0000">
+		<title>Karthigai Deepam - EP 687</title>
+		<desc>A gifted dark-skinned woman, a remarkable singer, marries a supportive man, defies beauty norms, and achieves music stardom with her talent.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch656_KarthigaiDeepam.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="138" start="20241213123000 +0000" stop="20241213130000 +0000">
+		<title>Valliyin Velan - EP 77</title>
+		<desc>It is the story of Valli, who is rejected by her father Rathinavel because of her mother's deceit. Determined to prove her mother's innocence, she seeks help from Kadhirvelan to win his love.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch656_ValliyinVelan.jpg?w=960&amp;h=540" />
+	</programme>
+	<programme channel="138" start="20241213130000 +0000" stop="20241213133000 +0000">
+		<title>Sandhya Raagam - EP 397</title>
+		<desc>Aadhya, after losing her mother, is cared for by her aunt Janaki, who must balance Aadhya's urban lifestyle with her family's disapproval. Can Janaki provide the life Aadhya deserves?</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch656_SandhyaRagam.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="138" start="20241213133000 +0000" stop="20241213140000 +0000">
+		<title>Idhayam - EP 501</title>
+		<desc>Shankar's discovery of his friend being a womanizer comes to light when his wife is accused of murdering him, revealing another suspect.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch656_Idhayam.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="138" start="20241213140000 +0000" stop="20241213143000 +0000">
+		<title>Idhayam - EP 502</title>
+		<desc>Shankar's discovery of his friend being a womanizer comes to light when his wife is accused of murdering him, revealing another suspect.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch656_Idhayam.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="138" start="20241213143000 +0000" stop="20241213150000 +0000">
+		<title>KCKC - Balloon - EP 133</title>
+		<desc>Konjam Coffee Konjam Cinema - Comedy and action scenes from your favourite stars' movies.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch656_zee_tamil_exclusive.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="138" start="20241213150000 +0000" stop="20241213153000 +0000">
+		<title>Mounam Pesiyathey - EP 34</title>
+		<desc>Thulasi, married to the thug Sethu, meets Siva, who loses his memory.Mistaken for his wife, she pretends to be, but as Sethu searches for her, she falls in love with Siva.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch656_MounamPesiyathey.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="138" start="20241213153000 +0000" stop="20241213160000 +0000">
+		<title>Naane Varuvean - EP 199</title>
+		<desc>Radha, a cheerful girl, is head over heels for Mohan, a cynical businessman, despite being aware of the fact that he has a daughter. However, she believes that she can turn him into a good man.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch656_NaaneVaruvean.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="139" start="20241211160000 +0000" stop="20241211163000 +0000">
 		<title>Ishttam Mathram</title>
@@ -7409,7 +7454,7 @@
 	</programme>
 	<programme channel="140" start="20241211163000 +0000" stop="20241211190000 +0000">
 		<title>Forensic</title>
-		<desc>Samuel, legal advisor, unravels psychotic killer's spree with forensic skills.</desc>
+		<desc>Samuel, legal advisor, unravels psychotic killer's spree with forensic skills. Release Year: 2020 Director: Akhil Paul, Anas Khan</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=960&amp;h=540" />
 	</programme>
 	<programme channel="140" start="20241211190000 +0000" stop="20241211220000 +0000">
@@ -7472,34 +7517,39 @@
 		<desc>Gautam and Irene and rival college leaders find love? Release Year: 2018 Director: Abrid Shine</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=960&amp;h=540" />
 	</programme>
-	<programme channel="140" start="20241213003000 +0000" stop="20241213033000 +0000">
-		<title>Movie</title>
-		<desc>Movie name is still to be announced by this channel.</desc>
+	<programme channel="140" start="20241213003000 +0000" stop="20241213010000 +0000">
+		<title>Play Back - EP 563</title>
+		<desc>Crime reporter Karthik from 2019 alters the past for Sujatha in 1993.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=960&amp;h=540" />
 	</programme>
-	<programme channel="140" start="20241213033000 +0000" stop="20241213063000 +0000">
-		<title>Movie</title>
-		<desc>Movie name is still to be announced by this channel.</desc>
+	<programme channel="140" start="20241213010000 +0000" stop="20241213013000 +0000">
+		<title>Play Back - EP 553</title>
+		<desc>Crime reporter Karthik from 2019 alters the past for Sujatha in 1993.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=960&amp;h=540" />
 	</programme>
-	<programme channel="140" start="20241213063000 +0000" stop="20241213093000 +0000">
-		<title>Movie</title>
-		<desc>Movie name is still to be announced by this channel.</desc>
+	<programme channel="140" start="20241213013000 +0000" stop="20241213043000 +0000">
+		<title>Oppam</title>
+		<desc>A retired judge struggles to keep his daughter safe from a convict. Release Year: 2016 Director: Priyadarshan Awards: Kerala State Film Award for Best Dubbing Artist,Asianet Film Award,Kerala State Film Award for Best Lyricist,Asianet Film Awards for Best Music Director,Asianet Film Award for Best Actor</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=960&amp;h=540" />
 	</programme>
-	<programme channel="140" start="20241213093000 +0000" stop="20241213123000 +0000">
-		<title>Movie</title>
-		<desc>Movie name is still to be announced by this channel.</desc>
+	<programme channel="140" start="20241213043000 +0000" stop="20241213073000 +0000">
+		<title>Keshu Ee Veedinte Nadhan</title>
+		<desc>The life of an ordinary driver Keshu turns upside down when he wins a lottery worth 12 crores but his morality gets tested. Release Year: 2021 Director: Nadirshah</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=960&amp;h=540" />
 	</programme>
-	<programme channel="140" start="20241213123000 +0000" stop="20241213153000 +0000">
-		<title>Movie</title>
-		<desc>Movie name is still to be announced by this channel.</desc>
+	<programme channel="140" start="20241213073000 +0000" stop="20241213103000 +0000">
+		<title>Hridayam</title>
+		<desc>Arun's journey: troubled student to responsible adult, showcasing growth. Release Year: 2022 Director: Vineeth Sreenivasan</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=960&amp;h=540" />
 	</programme>
-	<programme channel="140" start="20241213153000 +0000" stop="20241213163000 +0000">
-		<title>Movie</title>
-		<desc>Movie name is still to be announced by this channel.</desc>
+	<programme channel="140" start="20241213103000 +0000" stop="20241213133000 +0000">
+		<title>Salaar</title>
+		<desc>In a realm torn apart by war, two former friends become bitter enemies. Their fierce rivalry could destroy the kingdom, but fate and their unbreakable bond may be stronger than any conflict.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=960&amp;h=540" />
+	</programme>
+	<programme channel="140" start="20241213133000 +0000" stop="20241213163000 +0000">
+		<title>Adi Kapyare Koottamani</title>
+		<desc>Lakshmi pays student to sneak her into hostel and gets trapped.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=960&amp;h=540" />
 	</programme>
 	<programme channel="141" start="20241211160000 +0000" stop="20241211163000 +0000">
@@ -11183,7 +11233,7 @@
 		<icon src="https://poster.starhubgo.com/poster/ch214_UCL_live_match.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="214" start="20241211195500 +0000" stop="20241211220000 +0000">
-		<title>UEFA Champions League 2024/25 Juventus vs Man City - MD6 (Live)</title>
+		<title>Juventus vs Man City - MD6 (Live)</title>
 		<desc>The most prestigious tournament in the world contested by top-division elite European clubs</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch214_UCL_live_match.jpg?w=960&amp;h=540" />
 	</programme>
@@ -31273,7 +31323,7 @@
 		<icon src="https://poster.starhubgo.com/poster/ch815_stars_top_recipe_at_fun_staurant.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="815" start="20241213113500 +0000" stop="20241213121000 +0000">
-		<title>My Merry Marriage - EP 45</title>
+		<title>My Merry Marriage - EP 44</title>
 		<desc>A family drama that questions the true meaning of 'happiness' by showing various aspects of marriage such as divorce, remarriage, and late marriage.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch815_my_merry_marriage.jpg?w=341&amp;h=192" />
 	</programme>
