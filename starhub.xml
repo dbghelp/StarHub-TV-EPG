@@ -3234,7 +3234,7 @@
 	</programme>
 	<programme channel="118" start="20241219010000 +0000" stop="20241219013000 +0000">
 		<title>Otai Can Do It! - EP 1</title>
-		<desc>Saksikan selebriti ‘Otai’ melakukan suatu cabaran yang tidak pernah mereka lakukan sebelum ini! Selain kemampuan fizikal dan mental, mampukah selebriti ini melaksanakan semua tugasan yang diberi?</desc>
+		<desc>Saksikan selebriti ‘Otai' melakukan suatu cabaran yang tidak pernah mereka lakukan sebelum ini! Selain kemampuan fizikal dan mental, mampukah selebriti ini melaksanakan semua tugasan yang diberi?</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch118_otai_can_do_it.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="118" start="20241219013000 +0000" stop="20241219020000 +0000">
@@ -3314,7 +3314,7 @@
 	</programme>
 	<programme channel="118" start="20241219113000 +0000" stop="20241219123000 +0000">
 		<title>Gelak Gempak Edisi Khas - EP 1</title>
-		<desc>Sebuah rancangan pencarian pelawak ‘standup’ paling hebat di Malaysia dan siapakah yang bakal digelar juara musim pertama Gelak Gempak serta membawa pulang wang ganjaran bernilai RM25,000.</desc>
+		<desc>Sebuah rancangan pencarian pelawak ‘standup' paling hebat di Malaysia dan siapakah yang bakal digelar juara musim pertama Gelak Gempak serta membawa pulang wang ganjaran bernilai RM25,000.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/118_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="118" start="20241219123000 +0000" stop="20241219130000 +0000">
@@ -6174,7 +6174,7 @@
 	</programme>
 	<programme channel="135" start="20241218040000 +0000" stop="20241218053000 +0000">
 		<title>Company - Play-Gain-Bargain - EP 13</title>
-		<desc>A game show in which two contestants or teams compete against 16 boxes to win up to 500,000 rupees. Each of the 16 boxes contains a hidden amount of money or a special challenge. The game involves navigating through various challenges. This show is hosted</desc>
+		<desc>A game show in which two contestants or teams compete against 16 boxes to win up to 500,000 rupees. Each of the 16 boxes contains a hidden amount of money or a special challenge. The game involves navigating through various challenges. This show is hosted by Ma. Ka. Pa. Anand.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch135_company_play_gain_bargain.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="135" start="20241218053000 +0000" stop="20241218060000 +0000">
@@ -10552,7 +10552,12 @@
 		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_Channels2/204_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="204" start="20241219040000 +0000" stop="20241219080000 +0000">
+	<programme channel="204" start="20241219001000 +0000" stop="20241219043000 +0000">
+		<title>ICC Women's T20 World Cup 2024: M22 - SF2 - West Indies vs New Zealand</title>
+		<desc>The ICC Women’s T20 World Cup 2024, hosted by the Bangladesh Cricket Board in the United Arab Emirates, is the 9th edition of ICC Women's T20 World Cup tournament. Australia are the defending champions, having defeated South Africa in the final of the previous edition.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ICCWT20WC2024.jpg?w=960&amp;h=540" />
+	</programme>
+	<programme channel="204" start="20241219043000 +0000" stop="20241219080000 +0000">
 		<title>KFC Big Bash League 2024/25: M03 - Sydney Thunder vs Adelaide Strikers</title>
 		<desc>The 2024-25 Big Bash League season will be the fourteenth season of the Big Bash League (BBL), the professional men's Twenty20 domestic cricket competition in Australia. Eight teams will be vying over the champion spot across 44 matches.</desc>
 		<icon src="https://poster.starhubgo.com/poster/BBL202425.jpg?w=960&amp;h=540" />
@@ -10562,7 +10567,7 @@
 		<desc>The 2024-25 Big Bash League season will be the fourteenth season of the Big Bash League (BBL), the professional men's Twenty20 domestic cricket competition in Australia. Eight teams will be vying over the champion spot across 44 matches.</desc>
 		<icon src="https://poster.starhubgo.com/poster/BBL202425.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="204" start="20241219121500 +0000" stop="20241219201500 +0000">
+	<programme channel="204" start="20241219121500 +0000" stop="20241219174000 +0000">
 		<title>India Tour of Australia 2024-25: 3rd Test - Day 4</title>
 		<desc>India Tour of Australia 2024-25: 3rd Test - Day 4</desc>
 		<icon src="https://poster.starhubgo.com/poster/INDvAUS202425_TEST.jpg?w=341&amp;h=192" />
@@ -10775,7 +10780,7 @@
 	<programme channel="209" start="20241219130000 +0000" stop="20241219180000 +0000">
 		<title>HSBC BWF World Tour Finals 2024 HANGZHOU</title>
 		<desc>The HSBC BWF World Tour attracts the world's elite badminton players in competing for prize money and world ranking points in 30 four-tiered tournaments, culminating in the World Tour Finals in December.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch209_bwf.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch209_badminton.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="210" start="20241217155500 +0000" stop="20241217170000 +0000">
 		<title>2024 WorldSBK Rd 08: Motul French Round</title>
