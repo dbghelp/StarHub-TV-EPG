@@ -1829,7 +1829,7 @@
 	</programme>
 	<programme channel="106" start="20241219120000 +0000" stop="20241219130000 +0000">
 		<title>Asia Tonight - EP 263</title>
-		<desc>CNA correspondents bring you the top stories of the day with 'live' reports and interviews to keep you up-to-date on the day's events.</desc>
+		<desc>CNA correspondents bring you the top stories of the day with 'live' reports and interviews to keep you up-to-date on the day’s events.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="106" start="20241219130000 +0000" stop="20241219140000 +0000">
@@ -1874,7 +1874,7 @@
 	</programme>
 	<programme channel="106" start="20241219200000 +0000" stop="20241219210000 +0000">
 		<title>Asia Tonight - EP 263</title>
-		<desc>CNA correspondents bring you the top stories of the day with 'live' reports and interviews to keep you up-to-date on the day's events.</desc>
+		<desc>CNA correspondents bring you the top stories of the day with 'live' reports and interviews to keep you up-to-date on the day’s events.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="106" start="20241219210000 +0000" stop="20241219220000 +0000">
@@ -29867,19 +29867,34 @@
 		<desc>The fan meeting for the historical drama "Dear Radiance" was held on December 2 at NHK Hall, featuring a star-studded cast, including Yoshitaka Yuriko as Murasaki Shikibu, Emoto Tasuku as Fujiwara no Michinaga.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="811" start="20241219015000 +0000" stop="20241219021700 +0000">
-		<title>Today's Close-up (R)</title>
-		<desc>The program flexibly probes into a wide range of topics from the NHK’s unique point of view.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="811" start="20241219021700 +0000" stop="20241219022000 +0000">
+	<programme channel="811" start="20241219015000 +0000" stop="20241219015400 +0000">
 		<title>Mini Program</title>
 		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="811" start="20241219022000 +0000" stop="20241219025000 +0000">
-		<title>Let's Try Editing All at Once (R)</title>
-		<desc>Featuring distinguished programs ranging from entertainment shows to documentaries.</desc>
+	<programme channel="811" start="20241219015400 +0000" stop="20241219020500 +0000">
+		<title>Breaking News</title>
+		<desc />
+		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="811" start="20241219020500 +0000" stop="20241219023200 +0000">
+		<title>Today's Close-up (R)</title>
+		<desc>The program flexibly probes into a wide range of topics from the NHK's unique point of view.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="811" start="20241219023200 +0000" stop="20241219024200 +0000">
+		<title>Breaking News</title>
+		<desc />
+		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="811" start="20241219024200 +0000" stop="20241219024500 +0000">
+		<title>Mini Program</title>
+		<desc />
+		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="811" start="20241219024500 +0000" stop="20241219025000 +0000">
+		<title>Sound of Kyoto</title>
+		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="811" start="20241219025000 +0000" stop="20241219025600 +0000">
@@ -29892,19 +29907,9 @@
 		<desc>Weather information of the different areas around the world.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="811" start="20241219030000 +0000" stop="20241219032000 +0000">
+	<programme channel="811" start="20241219030000 +0000" stop="20241219033000 +0000">
 		<title>News</title>
 		<desc>The latest up-to-date news from Tokyo.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="811" start="20241219032000 +0000" stop="20241219032800 +0000">
-		<title>Information Worth Knowing from the News Commentator Bureau</title>
-		<desc>The commentators present trending news, its background, and engaging information related to daily life in an easy-to -understand manner.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="811" start="20241219032800 +0000" stop="20241219033000 +0000">
-		<title>Mini Program</title>
-		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="811" start="20241219033000 +0000" stop="20241219034500 +0000">
@@ -29917,12 +29922,12 @@
 		<desc>A Heisei youth graffiti drama, in which the heroine Yoneda Yui (Hashimoto Kanna), born in the first year of the Heisei era, connects people's hearts to the future as a nutritionist. Always cherishing her individuality, she sometimes struggles, but powerfully and joyfully pushes through the turbulent Heisei and Reiwa eras.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="811" start="20241219040000 +0000" stop="20241219040500 +0000">
+	<programme channel="811" start="20241219040000 +0000" stop="20241219042000 +0000">
 		<title>News</title>
 		<desc>The latest up-to-date news from Tokyo.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="811" start="20241219040500 +0000" stop="20241219055000 +0000">
+	<programme channel="811" start="20241219042000 +0000" stop="20241219055000 +0000">
 		<title>News Around Japan</title>
 		<desc>Program introduces the latest news from all over Japan.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
@@ -29989,7 +29994,7 @@
 	</programme>
 	<programme channel="811" start="20241219085900 +0000" stop="20241219090000 +0000">
 		<title>1-Minute Anime: Songs for SDGs</title>
-		<desc>Let’s learn about SDGs while singing along! A selected goal out of 17 will be introduced in each one-minute song with animation.</desc>
+		<desc>Let's learn about SDGs while singing along! A selected goal out of 17 will be introduced in each one-minute song with animation.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="811" start="20241219090000 +0000" stop="20241219091000 +0000">
@@ -30004,7 +30009,7 @@
 	</programme>
 	<programme channel="811" start="20241219092500 +0000" stop="20241219095600 +0000">
 		<title>Whiz-Kids TV</title>
-		<desc>Let’s cooperate with TV warriors and take on various missions to revive the symbol tree of "Geoworld," a mysterious otherworldly realm rich in nature!</desc>
+		<desc>Let's cooperate with TV warriors and take on various missions to revive the symbol tree of "Geoworld," a mysterious otherworldly realm rich in nature!</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="811" start="20241219095600 +0000" stop="20241219100000 +0000">
@@ -30124,7 +30129,7 @@
 	</programme>
 	<programme channel="811" start="20241219174500 +0000" stop="20241219175500 +0000">
 		<title>Fun with Japanese (R)</title>
-		<desc>Each episode focuses on a word as a theme, exploring its meaning and history while discovering the charm of Japanese language. The program also features dance performances of quotes from the world’s great figures, visits schools to interact with children, and introduces classical performing arts and songs, making it enjoyable for both children and adults.</desc>
+		<desc>Each episode focuses on a word as a theme, exploring its meaning and history while discovering the charm of Japanese language. The program also features dance performances of quotes from the world's great figures, visits schools to interact with children, and introduces classical performing arts and songs, making it enjoyable for both children and adults.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="811" start="20241219175500 +0000" stop="20241219181000 +0000">
@@ -30164,7 +30169,7 @@
 	</programme>
 	<programme channel="811" start="20241219200000 +0000" stop="20241219201500 +0000">
 		<title>Drama Serial "Carnation" Encore Eps. 76</title>
-		<desc>A heroine born into a kimono store family in Kishiwada, Osaka, holds admiration for clothing and discovers a sewing machine. Despite her father’s opposition, she is undeterred and pursues her passion for dressmaking. She opens a store at age 20 and gets married, but her husband dies in the war. The story depicts the life of a powerful woman who becomes a pioneer of Japan’s fashion design while overcoming many obstacles.</desc>
+		<desc>A heroine born into a kimono store family in Kishiwada, Osaka, holds admiration for clothing and discovers a sewing machine. Despite her father's opposition, she is undeterred and pursues her passion for dressmaking. She opens a store at age 20 and gets married, but her husband dies in the war. The story depicts the life of a powerful woman who becomes a pioneer of Japan's fashion design while overcoming many obstacles.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="811" start="20241219201500 +0000" stop="20241219210000 +0000">
