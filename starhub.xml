@@ -9798,13 +9798,13 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/159_1920x1080_HTV.png?w=960&amp;h=540" />
 	</programme>
 	<programme channel="159" start="20241220200000 +0000" stop="20241220223000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+		<title>Movie - Mookkanan Kayiru</title>
+		<desc>Movie starring Karthik, Viji, Goundamani, Jaishankar, Manorama and is directed by S Subbiah.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch159_ktv_hd_logo.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="159" start="20241220223000 +0000" stop="20241221010000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+		<title>Movie - Nandinee</title>
+		<desc>A young girl suspects her single mother of being in a relationship with Rangaswamy, their paying guest. However, things take a turn when she decides to confront Rangaswamy.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch159_ktv_hd_logo.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="159" start="20241221010000 +0000" stop="20241221013000 +0000">
@@ -27860,7 +27860,7 @@
 	<programme channel="724" start="20241220181000 +0000" stop="20241220185300 +0000">
 		<title>The World This Week</title>
 		<desc>Join host Francois Picard's and his team of Paris-based journalists, as they explore all of the week's most interesting and important news stories. Viewers can react to mentioned stories and the host reads their comments.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch724_the_world_this_week.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch724_the_reporters_week.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="724" start="20241220185300 +0000" stop="20241220190000 +0000">
 		<title>Short Cuts</title>
@@ -27970,7 +27970,7 @@
 	<programme channel="724" start="20241220231000 +0000" stop="20241220235300 +0000">
 		<title>The World This Week</title>
 		<desc>Join host Francois Picard's and his team of Paris-based journalists, as they explore all of the week's most interesting and important news stories. Viewers can react to mentioned stories and the host reads their comments.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch724_the_world_this_week.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch724_the_reporters_week.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="724" start="20241220235300 +0000" stop="20241221000000 +0000">
 		<title>Short Cuts</title>
@@ -29968,13 +29968,13 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="811" start="20241220005500 +0000" stop="20241220010000 +0000">
-		<title>Exercise for Everyone</title>
-		<desc>An easy-to-do exercise program for everyone from children to the elderly.</desc>
+		<title>News &amp; Weather</title>
+		<desc>The latest up-to-date news and nationwide weather information.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="811" start="20241220010000 +0000" stop="20241220010500 +0000">
-		<title>News &amp; Weather</title>
-		<desc>The latest up-to-date news and nationwide weather information.</desc>
+		<title>Cruising from the Sky Mini</title>
+		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="811" start="20241220010500 +0000" stop="20241220015500 +0000">
@@ -30027,12 +30027,32 @@
 		<desc>A Heisei youth graffiti drama, in which the heroine Yoneda Yui (Hashimoto Kanna), born in the first year of the Heisei era, connects people's hearts to the future as a nutritionist. Always cherishing her individuality, she sometimes struggles, but powerfully and joyfully pushes through the turbulent Heisei and Reiwa eras.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="811" start="20241220040000 +0000" stop="20241220040500 +0000">
-		<title>News</title>
-		<desc>The latest up-to-date news from Tokyo.</desc>
+	<programme channel="811" start="20241220040000 +0000" stop="20241220043000 +0000">
+		<title>Let's Try Editing All at Once (R)</title>
+		<desc>Featuring distinguished programs ranging from entertainment shows to documentaries.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="811" start="20241220040500 +0000" stop="20241220055000 +0000">
+	<programme channel="811" start="20241220043000 +0000" stop="20241220044500 +0000">
+		<title>RAMEN JAPAN 15min.</title>
+		<desc />
+		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="811" start="20241220044500 +0000" stop="20241220045500 +0000">
+		<title>Japan Genesis: Pilgrimage to the Land of the Gods 5min.</title>
+		<desc />
+		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="811" start="20241220045500 +0000" stop="20241220050200 +0000">
+		<title>TV Exercise</title>
+		<desc>Short program to introduce physical exercise for the young and old.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="811" start="20241220050200 +0000" stop="20241220050700 +0000">
+		<title>News &amp; Weather</title>
+		<desc>The latest up-to-date news and nationwide weather information.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="811" start="20241220050700 +0000" stop="20241220055000 +0000">
 		<title>News Around Japan</title>
 		<desc>Program introduces the latest news from all over Japan.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
@@ -30312,11 +30332,6 @@
 		<desc>An informational entertainment program targeting people in their 20s and 30s. Making full use of drama-style presentation and visualization techniques, the program explains complex social phenomena in a simple easy to understand manner.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="811" start="20241221010000 +0000" stop="20241221010500 +0000">
-		<title>News &amp; Weather</title>
-		<desc>The latest up-to-date news and nationwide weather information.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
 	<programme channel="811" start="20241221010500 +0000" stop="20241221013800 +0000">
 		<title>The Visualization Entertainment: Go! Kaneo-kun (R)</title>
 		<desc>The show is MC-ed by comedian Ariyoshi Hiroiki, who hosts an NHK program on a regular basis for the first time. The mascot character "Kaneo-kun" (voice of Nobu, of comedy duo Chidori), who loves money, visits various places, including popular visiting locations, and looks into different phenomena to learn how money plays a role. The undertaking help unravel unexpected trends in society. The program, which can be enjoyed by every member of the family, offers much food for thought.</desc>
@@ -30355,11 +30370,6 @@
 	<programme channel="811" start="20241221031500 +0000" stop="20241221034000 +0000">
 		<title>Exploring Factories</title>
 		<desc>An entertainment program visiting small and large factories to discover the latest science, hidden artisanship, and enthusiastic people that support traditions of Japanese manufacture.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="811" start="20241221034000 +0000" stop="20241221034500 +0000">
-		<title>Cruising from the Sky Mini</title>
-		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="811" start="20241221034500 +0000" stop="20241221040000 +0000">
