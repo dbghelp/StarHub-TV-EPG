@@ -10272,7 +10272,12 @@
 		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_Channels2/204_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="204" start="20241221040000 +0000" stop="20241221080000 +0000">
+	<programme channel="204" start="20241221015000 +0000" stop="20241221053000 +0000">
+		<title>KFC Big Bash League 2024/25: M01 - Perth Scorchers vs Melbourne Stars</title>
+		<desc>The 2024-25 Big Bash League season will be the fourteenth season of the Big Bash League (BBL), the professional men's Twenty20 domestic cricket competition in Australia. Eight teams will be vying over the champion spot across 44 matches.</desc>
+		<icon src="https://poster.starhubgo.com/poster/BBL202425.jpg?w=960&amp;h=540" />
+	</programme>
+	<programme channel="204" start="20241221053000 +0000" stop="20241221080000 +0000">
 		<title>KFC Big Bash League 2024/25: M05 - Melbourne Renegades vs Hobart Hurricanes</title>
 		<desc>The 2024-25 Big Bash League season will be the fourteenth season of the Big Bash League (BBL), the professional men's Twenty20 domestic cricket competition in Australia. Eight teams will be vying over the champion spot across 44 matches.</desc>
 		<icon src="https://poster.starhubgo.com/poster/BBL202425.jpg?w=960&amp;h=540" />
@@ -12298,7 +12303,7 @@
 		<icon src="https://poster.starhubgo.com/poster/ch241_fight_sports_MMA.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="241" start="20241221050000 +0000" stop="20241221070000 +0000">
-		<title>MEGA Fights Sergio Martinez vs. Paul Williams I</title>
+		<title>MEGA Fights Sergio Martinez vs. Paul Williams</title>
 		<desc>MEGA Fights are premiere events from the sport of boxing including HBO World Championship Boxing and historic PPV events plus past, current and future World Champions. This episode features middleweights Sergio 'Maravilla' Martinez (44-1, 24 KOs) vs. Paul 'The Punisher' Williams (37-1, 27 KOs) from Boardwalk Hall in Atlantic City, New Jersey, USA, on December 5, 2009. The result was a controversial majority decision, and the two would eventually square off in a rematch about a year later.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch241_mega_fights.jpg?w=341&amp;h=192" />
 	</programme>
@@ -22044,7 +22049,7 @@
 	</programme>
 	<programme channel="601" start="20241221130000 +0000" stop="20241221143000 +0000">
 		<title>Cash Out</title>
-		<desc>Mason Goddard is a suave, debonair world class master-thief at the top of his game. Believing he has pulled off the perfect multi-million-dollar car heist and can finally retire and spend his days fishing on a tropical island, his plan is foiled and now h</desc>
+		<desc>Mason Goddard is a world class master-thief. Believing he has pulled off the perfect heist, his plan is foiled and now he must match wits with a sexy FBI investigator.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch601_CashOut_S1.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="601" start="20241221143000 +0000" stop="20241221163000 +0000">
@@ -22122,19 +22127,19 @@
 		<desc>In this new take on the tragic love story, a seasoned musician discovers and falls in love with a struggling artiste.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch633_AStarIsBorn.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="603" start="20241220140000 +0000" stop="20241220164000 +0000">
+	<programme channel="603" start="20241220140000 +0000" stop="20241220164500 +0000">
 		<title>Troy</title>
 		<desc>A spectacular retelling of The Iliad, Troy is an epic tale of passion, heroism, betrayal and war.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch633_TROY.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="603" start="20241220164000 +0000" stop="20241220174000 +0000">
+	<programme channel="603" start="20241220164500 +0000" stop="20241220173500 +0000">
 		<title>Get Millie Black S1 - EP 4</title>
-		<desc>After returning home to Jamaica, ex-Scotland Yard detective Millie Black works a missing persons case that threatens to blow up her world.</desc>
+		<desc>Not knowing whom to trust, Millie takes extreme measures to find Romeo.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch633_GetMillieBlack.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="603" start="20241220174000 +0000" stop="20241220184000 +0000">
+	<programme channel="603" start="20241220173500 +0000" stop="20241220184000 +0000">
 		<title>Dune: Prophecy S1 - EP 5</title>
-		<desc>Before they would become known as the fabled Bene Gesserit, a powerful Sisterhood works in the shadows to guide the universe.</desc>
+		<desc>While Tula tries to keep her secret project from being discovered by the other Sisters, Desmond goes on a warpath to root out insurgents.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch633_DuneProphecyS1.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="603" start="20241220184000 +0000" stop="20241220192500 +0000">
@@ -22199,12 +22204,12 @@
 	</programme>
 	<programme channel="603" start="20241221070000 +0000" stop="20241221073000 +0000">
 		<title>Somebody Somewhere S3 - EP 6</title>
-		<desc>As her sister and friends all enter new phases of life, Sam (Bridget Everett) takes her own steps toward finally investing in herself.</desc>
+		<desc>An unfortunate fender bender finds Sam and Joel grappling with wanting more out of life.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch633_somebody_somewhere_s3.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="603" start="20241221073000 +0000" stop="20241221080500 +0000">
 		<title>Somebody Somewhere S3 - EP 7</title>
-		<desc>As her sister and friends all enter new phases of life, Sam (Bridget Everett) takes her own steps toward finally investing in herself.</desc>
+		<desc>While Joel returns to church, Sam and Tricia honor Holly’s birthday with a surprising understanding.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch633_somebody_somewhere_s3.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="603" start="20241221080500 +0000" stop="20241221093500 +0000">
@@ -31469,7 +31474,7 @@
 	</programme>
 	<programme channel="815" start="20241221062000 +0000" stop="20241221072000 +0000">
 		<title>2024 Quiz on Korea - After Story</title>
-		<desc>KBS World continues to bring entertaining and informative programmes to viewers!</desc>
+		<desc>Hallyu fans from all over the world gather to give a challenge for a Korean culture quiz contest!</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch815_2024_quiz_on_korea.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="815" start="20241221072000 +0000" stop="20241221082000 +0000">
