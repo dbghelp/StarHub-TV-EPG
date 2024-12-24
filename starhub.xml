@@ -10415,17 +10415,17 @@
 	<programme channel="209" start="20241223163000 +0000" stop="20241223173000 +0000">
 		<title>World Supercross Abu Dhabi GP (Yas Island)</title>
 		<desc>The 2024 MotoGP eSports Championship Global Series bringing together 11 of the world's fastest gamers who were selected by MotoGP teams to compete across three intense rounds.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch209_motorsports.jpg?w=960&amp;h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch209_motogp.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="209" start="20241223173000 +0000" stop="20241223180000 +0000">
 		<title>HSBC BWF World Tour Finals 2024 HANGZHOU</title>
 		<desc>The HSBC BWF World Tour attracts the world's elite badminton players in competing for prize money and world ranking points in 30 four-tiered tournaments, culminating in the World Tour Finals in December.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch209_badminton.jpg?w=960&amp;h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch209_bwf.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="209" start="20241223180000 +0000" stop="20241223183000 +0000">
 		<title>SPOTV Encore: BWF World Tour Finals 2024</title>
 		<desc>Recap thrilling badminton action of the HSBC BWF World Tour Finals in 2024.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch209_badminton.jpg?w=960&amp;h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch209_bwf.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="209" start="20241223183000 +0000" stop="20241223213000 +0000">
 		<title>2024 Ultimate Pool Mixed Cup</title>
@@ -10472,15 +10472,20 @@
 		<desc>The HSBC BWF World Tour attracts the world's elite badminton players in competing for prize money and world ranking points in 30 four-tiered tournaments, culminating in the World Tour Finals in December.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch209_bwf.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="209" start="20241225040000 +0000" stop="20241225050000 +0000">
-		<title>PSA World Tour 2024/25: Milwaukee Hong Kong Squash Open 2024</title>
-		<desc>The 2024 Milwaukee Hong Kong Squash Open, part of the PSA World Tour Platinum series, showcased high-caliber squash, intense competition, and remarkable sportsmanship.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/209_1920x1080_HTV.png?w=341&amp;h=192" />
+	<programme channel="209" start="20241225002000 +0000" stop="20241225050000 +0000">
+		<title>HSBC BWF WTS 750 YONEX French Open 2024</title>
+		<desc>The HSBC BWF World Tour attracts the world's elite badminton players in competing for prize money and world ranking points in 30 four-tiered tournaments, culminating in the World Tour Finals in December.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch209_bwf.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="209" start="20241225050000 +0000" stop="20241225100000 +0000">
 		<title>2024 MGM Macau Tennis Masters</title>
 		<desc>The 2024 MGM Macau Tennis Masters is Asia's first mixed-gender team-format tennis tournament, showcasing top ATP and WTA players.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch209_tennis.jpg?w=960&amp;h=540" />
+	</programme>
+	<programme channel="209" start="20241225100000 +0000" stop="20241225110000 +0000">
+		<title>World Supercross Abu Dhabi GP (Yas Island)</title>
+		<desc>The 2024 MotoGP eSports Championship Global Series bringing together 11 of the world's fastest gamers who were selected by MotoGP teams to compete across three intense rounds.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch209_motogp.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="209" start="20241225110000 +0000" stop="20241225120000 +0000">
 		<title>PSA World Tour 2024/25: Milwaukee Hong Kong Squash Open 2024</title>
@@ -11459,7 +11464,7 @@
 	</programme>
 	<programme channel="221" start="20241224183000 +0000" stop="20241224193000 +0000">
 		<title>1-TO-11 - EP 10</title>
-		<desc>Former Premier League stars select their dream teams from the best they played with or against, guiding us through their picks with stories from on and off the pitch.</desc>
+		<desc>Arsenal legend Tony Adams picks his best eleven from the players that he shared the field with in the Premier League.</desc>
 		<icon src="https://poster.starhubgo.com/poster/1_to_11_V2.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="221" start="20241224193000 +0000" stop="20241224200000 +0000">
@@ -11499,7 +11504,7 @@
 	</programme>
 	<programme channel="221" start="20241225000000 +0000" stop="20241225010000 +0000">
 		<title>1-TO-11 - EP 10</title>
-		<desc>Former Premier League stars select their dream teams from the best they played with or against, guiding us through their picks with stories from on and off the pitch.</desc>
+		<desc>Arsenal legend Tony Adams picks his best eleven from the players that he shared the field with in the Premier League.</desc>
 		<icon src="https://poster.starhubgo.com/poster/1_to_11_V2.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="221" start="20241225010000 +0000" stop="20241225013000 +0000">
@@ -11514,7 +11519,7 @@
 	</programme>
 	<programme channel="221" start="20241225020000 +0000" stop="20241225023000 +0000">
 		<title>PL STORIES - EP 33</title>
-		<desc>PL Stories heads to Iceland to meet the first, and only Icelandic Premier League, winner Eidur Gudjohnsen. With the help of his father Arnor, as well as friends Gudni Bergsson and Larus Sigurðsson, Gudjohnsen reflects on the origins of a decorated career which was almost derailed by a devastating leg break.</desc>
+		<desc>PL Stories heads to Iceland to meet the first, and only Icelandic Premier League, winner Eidur Gudjohnsen. With the help of his father Arnor, as well as friends Gudni Bergsson and Lárus Sigurðsson, Gudjohnsen reflects on the origins of a decorated career which was almost derailed by a devastating leg break.</desc>
 		<icon src="https://poster.starhubgo.com/poster/pl_stories_V2.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="221" start="20241225023000 +0000" stop="20241225033000 +0000">
@@ -11544,7 +11549,7 @@
 	</programme>
 	<programme channel="221" start="20241225060000 +0000" stop="20241225070000 +0000">
 		<title>1-TO-11 - EP 10</title>
-		<desc>Former Premier League stars select their dream teams from the best they played with or against, guiding us through their picks with stories from on and off the pitch.</desc>
+		<desc>Arsenal legend Tony Adams picks his best eleven from the players that he shared the field with in the Premier League.</desc>
 		<icon src="https://poster.starhubgo.com/poster/1_to_11_V2.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="221" start="20241225070000 +0000" stop="20241225073000 +0000">
@@ -11594,7 +11599,7 @@
 	</programme>
 	<programme channel="221" start="20241225120000 +0000" stop="20241225130000 +0000">
 		<title>1-TO-11 - EP 10</title>
-		<desc>Former Premier League stars select their dream teams from the best they played with or against, guiding us through their picks with stories from on and off the pitch.</desc>
+		<desc>Arsenal legend Tony Adams picks his best eleven from the players that he shared the field with in the Premier League.</desc>
 		<icon src="https://poster.starhubgo.com/poster/1_to_11_V2.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="221" start="20241225130000 +0000" stop="20241225133000 +0000">
@@ -11604,7 +11609,7 @@
 	</programme>
 	<programme channel="221" start="20241225133000 +0000" stop="20241225140000 +0000">
 		<title>THE BIG INTERVIEW - EP 20</title>
-		<desc>Extended sit-downs and more informal 'out and about' interviews with the Premier League's biggest stars, providing players with a platform to tell their story in their own words.</desc>
+		<desc>This week's Big Interview sees two of Chelsea's biggest stars from different generations come together for a football masterclass. Considered one of the most technically gifted players the Premier League has ever seen, Gianfranco Zola visits the Chelsea training ground to talk to the man currently lighting up the Premier League, Cole Palmer, about various aspects of his game.</desc>
 		<icon src="https://poster.starhubgo.com/poster/the_big_interview_V2.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="221" start="20241225140000 +0000" stop="20241225150000 +0000">
@@ -34418,7 +34423,7 @@
 		<icon src="https://poster.starhubgo.com/poster/ch202_the_emirates_fa_cup_2425.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="995" start="20241225040000 +0000" stop="20241225060000 +0000">
-		<title>FA Community Shield 2024 Manchester United vs Manchester City</title>
+		<title>FA Community Shield 2024: Manchester United vs Manchester City</title>
 		<desc>The 2024 FA Community Shield marks the 102nd edition of this annual association football match. It features the winners of the prior season's Premier League and FA Cup competitions and serves as the traditional opener for the English football season.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch202_community_shield_tv_man_united_vs_man_city.jpg?w=341&amp;h=192" />
 	</programme>
