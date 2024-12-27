@@ -6215,7 +6215,7 @@
 	<programme channel="138" start="20241227200000 +0000" stop="20241227203000 +0000">
 		<title>Naane Varuvean - EP 210</title>
 		<desc>Radha, a cheerful girl, is head over heels for Mohan, a cynical businessman, despite being aware of the fact that he has a daughter. However, she believes that she can turn him into a good man.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch656_NaaaneVaruvean.jpg?w=960&amp;h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch656_NaaneVaruvean.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="138" start="20241227203000 +0000" stop="20241227210000 +0000">
 		<title>Mounam Pesiyathey - EP 46</title>
@@ -7364,7 +7364,7 @@
 	</programme>
 	<programme channel="143" start="20241228210000 +0000" stop="20241228213000 +0000">
 		<title>Global Us</title>
-		<desc>There are eight billion people on Earth and we are better connected than ever before. How can we make use of that? Global Us provides unexpected insights and exemplary solutions for a rapidly changing world. The focus is on people - those who want change</desc>
+		<desc>There are eight billion people on Earth and we are better connected than ever before. How can we make use of that? Global Us provides unexpected insights and exemplary solutions for a rapidly changing world. The focus is on people - those who want change and drive it forward.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/143_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="143" start="20241228213000 +0000" stop="20241228220000 +0000">
@@ -9907,8 +9907,13 @@
 		<desc>Catch up on all the latest news and information from the world of badminton.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch209_bwf.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="209" start="20241227180000 +0000" stop="20241228003000 +0000">
+	<programme channel="209" start="20241227180000 +0000" stop="20241228000000 +0000">
 		<title>HSBC BWF WTS 1000 Indonesia Open 2024</title>
+		<desc>The HSBC BWF World Tour attracts the world's elite badminton players in competing for prize money and world ranking points in 30 four-tiered tournaments, culminating in the World Tour Finals in December.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch209_bwf.jpg?w=960&amp;h=540" />
+	</programme>
+	<programme channel="209" start="20241228000000 +0000" stop="20241228002500 +0000">
+		<title>HSBC BWF World Tour Finals 2024 HANGZHOU</title>
 		<desc>The HSBC BWF World Tour attracts the world's elite badminton players in competing for prize money and world ranking points in 30 four-tiered tournaments, culminating in the World Tour Finals in December.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch209_bwf.jpg?w=960&amp;h=540" />
 	</programme>
@@ -9939,11 +9944,6 @@
 	</programme>
 	<programme channel="209" start="20241228180000 +0000" stop="20241228230000 +0000">
 		<title>HSBC BWF WTS 500 Korea Open 2024</title>
-		<desc>The HSBC BWF World Tour attracts the world's elite badminton players in competing for prize money and world ranking points in 30 four-tiered tournaments, culminating in the World Tour Finals in December.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch209_bwf.jpg?w=960&amp;h=540" />
-	</programme>
-	<programme channel="209" start="20241228230000 +0000" stop="20241228233000 +0000">
-		<title>HSBC BWF World Tour Finals 2024 HANGZHOU</title>
 		<desc>The HSBC BWF World Tour attracts the world's elite badminton players in competing for prize money and world ranking points in 30 four-tiered tournaments, culminating in the World Tour Finals in December.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch209_bwf.jpg?w=960&amp;h=540" />
 	</programme>
@@ -11084,12 +11084,12 @@
 	</programme>
 	<programme channel="222" start="20241229050000 +0000" stop="20241229053000 +0000">
 		<title>PL Stories 2024/25 - EP 30</title>
-		<desc>We explore the remarkable impact of the Basque region on the Premier League, focusing on the careers of the four current Basque managers who are leaving their mark in England’s topflight. From tactical brilliance to relentless passion, this program delves into why the Basque Country has produced such a high number of successful managers and how their unique style has left a lasting legacy in the Premier League.</desc>
+		<desc>We explore the remarkable impact of the Basque region on the Premier League, focusing on the careers of the four current Basque managers who are leaving their mark in England's topflight. From tactical brilliance to relentless passion, this program delves into why the Basque Country has produced such a high number of successful managers and how their unique style has left a lasting legacy in the Premier League.</desc>
 		<icon src="https://poster.starhubgo.com/poster/pl_stories_V2.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="222" start="20241229053000 +0000" stop="20241229060000 +0000">
 		<title>The Big Interview 2024/25 - EP 20</title>
-		<desc>This week’s Big Interview sees two of Chelsea’s biggest stars from different generations come together for a football masterclass. Considered one of the most technically gifted players the Premier League has ever seen, Gianfranco Zola visits the Chelsea training ground to talk to the man currently lighting up the Premier League, Cole Palmer, about various aspects of his game.</desc>
+		<desc>This week's Big Interview sees two of Chelsea's biggest stars from different generations come together for a football masterclass. Considered one of the most technically gifted players the Premier League has ever seen, Gianfranco Zola visits the Chelsea training ground to talk to the man currently lighting up the Premier League, Cole Palmer, about various aspects of his game.</desc>
 		<icon src="https://poster.starhubgo.com/poster/the_big_interview_V2.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="222" start="20241229060000 +0000" stop="20241229080000 +0000">
@@ -11114,12 +11114,12 @@
 	</programme>
 	<programme channel="222" start="20241229095500 +0000" stop="20241229115000 +0000">
 		<title>Liverpool vs Leicester City (MW18) - EP 178</title>
-		<desc>Liverpool have won their last seven league games played on Boxing Day, the longest current run among any side in England’s top four tiers, and the Reds’ longest ever such run.</desc>
+		<desc>Liverpool have won their last seven league games played on Boxing Day, the longest current run among any side in England's top four tiers, and the Reds' longest ever such run.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch221_MW18_LIVvLEI_24.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="222" start="20241229115000 +0000" stop="20241229122000 +0000">
 		<title>PL Stories 2024/25 - EP 30</title>
-		<desc>We explore the remarkable impact of the Basque region on the Premier League, focusing on the careers of the four current Basque managers who are leaving their mark in England’s topflight. From tactical brilliance to relentless passion, this program delves into why the Basque Country has produced such a high number of successful managers and how their unique style has left a lasting legacy in the Premier League.</desc>
+		<desc>We explore the remarkable impact of the Basque region on the Premier League, focusing on the careers of the four current Basque managers who are leaving their mark in England's topflight. From tactical brilliance to relentless passion, this program delves into why the Basque Country has produced such a high number of successful managers and how their unique style has left a lasting legacy in the Premier League.</desc>
 		<icon src="https://poster.starhubgo.com/poster/pl_stories_V2.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="222" start="20241229122000 +0000" stop="20241229142000 +0000">
@@ -11129,7 +11129,7 @@
 	</programme>
 	<programme channel="222" start="20241229142000 +0000" stop="20241229145000 +0000">
 		<title>The Big Interview 2024/25 - EP 20</title>
-		<desc>This week’s Big Interview sees two of Chelsea’s biggest stars from different generations come together for a football masterclass. Considered one of the most technically gifted players the Premier League has ever seen, Gianfranco Zola visits the Chelsea training ground to talk to the man currently lighting up the Premier League, Cole Palmer, about various aspects of his game.</desc>
+		<desc>This week's Big Interview sees two of Chelsea's biggest stars from different generations come together for a football masterclass. Considered one of the most technically gifted players the Premier League has ever seen, Gianfranco Zola visits the Chelsea training ground to talk to the man currently lighting up the Premier League, Cole Palmer, about various aspects of his game.</desc>
 		<icon src="https://poster.starhubgo.com/poster/the_big_interview_V2.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="222" start="20241229145000 +0000" stop="20241229170000 +0000">
@@ -29808,7 +29808,7 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="811" start="20241229070300 +0000" stop="20241229072300 +0000">
-		<title>Historical Drama "Dear Radiance" Final Thanks Special-Talk Show &amp; Public Viewing</title>
+		<title>Historical Drama "Dear Radiance" Final Thanks Special―Talk Show &amp; Public Viewing</title>
 		<desc>Featuring distinguished programs ranging from entertainment shows to documentaries.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
