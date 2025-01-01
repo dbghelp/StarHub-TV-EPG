@@ -10487,12 +10487,12 @@
 		<desc>The MotoGP World Championship crowns one of 22 riders lining up on 1000cc prototype bikes capable of producing over 240 horsepower and getting up to speeds of 350kph over 21 Grand Prix races.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_motogp.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="210" start="20241231203000 +0000" stop="20241231230000 +0000">
+	<programme channel="210" start="20241231203000 +0000" stop="20241231230500 +0000">
 		<title>MotoGP 2024 Round 19 - PETRONAS Grand Prix of Malaysia</title>
 		<desc>The MotoGP World Championship crowns one of 22 riders lining up on 1000cc prototype bikes capable of producing over 240 horsepower and getting up to speeds of 350kph over 21 Grand Prix races.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_motogp.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="210" start="20241231230000 +0000" stop="20250101000000 +0000">
+	<programme channel="210" start="20241231230500 +0000" stop="20250101000000 +0000">
 		<title>2024 WorldSBK Rd 08: Motul French Round</title>
 		<desc>The FIM Superbike World Championship is the leading production motorcycle racing series in the world with over 100 riders from more than 20 countries competing in various classes over 12 rounds.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_sbk_motul.jpg?w=341&amp;h=192" />
@@ -10502,12 +10502,12 @@
 		<desc>The FIM Superbike World Championship is the leading production motorcycle racing series in the world with over 100 riders from more than 20 countries competing in various classes over 12 rounds.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_sbk_motul.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="210" start="20250101010000 +0000" stop="20250101023000 +0000">
+	<programme channel="210" start="20250101010000 +0000" stop="20250101024000 +0000">
 		<title>2024 WorldSBK Rd 08: Motul French Round</title>
 		<desc>The FIM Superbike World Championship is the leading production motorcycle racing series in the world with over 100 riders from more than 20 countries competing in various classes over 12 rounds.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_sbk_motul.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="210" start="20250101023000 +0000" stop="20250101053000 +0000">
+	<programme channel="210" start="20250101024000 +0000" stop="20250101053000 +0000">
 		<title>WTT China Smash 2024</title>
 		<desc>The world's elite singles and doubles table tennis players battle for a share of the US$2 million prize pool as well as 2000 world ranking points in Beijing, China.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_wtt.jpg?w=960&amp;h=540" />
@@ -12217,57 +12217,67 @@
 		<desc>Coverage of England's top division of professional rugby union, the Gallagher Premiership.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch207_premier_sports.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="247" start="20250101114000 +0000" stop="20250101133000 +0000">
+	<programme channel="247" start="20250101114000 +0000" stop="20250101132500 +0000">
 		<title>URC Connacht v Ulster</title>
 		<desc>Connacht and Ulster meet in this URC interpro fixture from Dexcom Stadium.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch207_premier_sports.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="247" start="20250101133000 +0000" stop="20250101134000 +0000">
-		<title>URC Match Highlights Dragons v Cardiff</title>
-		<desc>Catch up on all the match highlights from the most recent round of United Rugby Championship.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch207_premier_sports.jpg?w=341&amp;h=192" />
-	</programme>
-	<programme channel="247" start="20250101134000 +0000" stop="20250101135000 +0000">
-		<title>URC Match Highlights Munster v Leinster</title>
-		<desc>Catch up on all the match highlights from the most recent round of United Rugby Championship.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch207_premier_sports.jpg?w=341&amp;h=192" />
-	</programme>
-	<programme channel="247" start="20250101135000 +0000" stop="20250101140000 +0000">
-		<title>URC Match Highlights Stormers v Sharks</title>
-		<desc>Catch up on all the match highlights from the most recent round of United Rugby Championship.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch207_premier_sports.jpg?w=341&amp;h=192" />
-	</programme>
-	<programme channel="247" start="20250101140000 +0000" stop="20250101141000 +0000">
-		<title>URC Match Highlights Zebre v Benetton</title>
-		<desc>Catch up on all the match highlights from the most recent round of United Rugby Championship.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch207_premier_sports.jpg?w=341&amp;h=192" />
-	</programme>
-	<programme channel="247" start="20250101141000 +0000" stop="20250101142000 +0000">
-		<title>URC Match Highlights Edinburgh v Glasgow Warriors</title>
-		<desc>Catch up on all the match highlights from the most recent round of United Rugby Championship.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch207_premier_sports.jpg?w=341&amp;h=192" />
-	</programme>
-	<programme channel="247" start="20250101142000 +0000" stop="20250101143000 +0000">
-		<title>URC Match Highlights Connacht v Ulster</title>
-		<desc>Catch up on all the match highlights from the most recent round of United Rugby Championship.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch207_premier_sports.jpg?w=341&amp;h=192" />
-	</programme>
-	<programme channel="247" start="20250101143000 +0000" stop="20250101170000 +0000">
-		<title>LIVE URC LIVE Cardiff v Ospreys</title>
-		<desc>The URC rings in the New Year with a Welsh Derby as Cardiff take on Ospreys at the Arms Park.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch207_premier_sports.jpg?w=341&amp;h=192" />
-	</programme>
-	<programme channel="247" start="20250101170000 +0000" stop="20250101193000 +0000">
-		<title>LIVE URC LIVE Scarlets v Dragons</title>
-		<desc>Parc y Scarlets plays host to a festive Welsh Derby as Scarlets take on Dragons RFC in the URC.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch207_premier_sports.jpg?w=341&amp;h=192" />
-	</programme>
-	<programme channel="247" start="20250101193000 +0000" stop="20250101200000 +0000">
+	<programme channel="247" start="20250101132500 +0000" stop="20250101135500 +0000">
 		<title>5 &amp; 6 Nations Classics 2004 - France v England</title>
 		<desc>A look at some of the best matches in the history of rugby's Six Nations.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch207_premier_sports.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="247" start="20250101200000 +0000" stop="20250101215000 +0000">
+	<programme channel="247" start="20250101135500 +0000" stop="20250101140500 +0000">
+		<title>URC Match Highlights Dragons v Cardiff</title>
+		<desc>Catch up on all the match highlights from the most recent round of United Rugby Championship.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch207_premier_sports.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="247" start="20250101140500 +0000" stop="20250101141500 +0000">
+		<title>URC Match Highlights Munster v Leinster</title>
+		<desc>Catch up on all the match highlights from the most recent round of United Rugby Championship.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch207_premier_sports.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="247" start="20250101141500 +0000" stop="20250101142500 +0000">
+		<title>URC Match Highlights Stormers v Sharks</title>
+		<desc>Catch up on all the match highlights from the most recent round of United Rugby Championship.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch207_premier_sports.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="247" start="20250101142500 +0000" stop="20250101143500 +0000">
+		<title>URC Match Highlights Zebre v Benetton</title>
+		<desc>Catch up on all the match highlights from the most recent round of United Rugby Championship.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch207_premier_sports.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="247" start="20250101143500 +0000" stop="20250101144500 +0000">
+		<title>URC Match Highlights Edinburgh v Glasgow Warriors</title>
+		<desc>Catch up on all the match highlights from the most recent round of United Rugby Championship.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch207_premier_sports.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="247" start="20250101144500 +0000" stop="20250101145500 +0000">
+		<title>URC Match Highlights Connacht v Ulster</title>
+		<desc>Catch up on all the match highlights from the most recent round of United Rugby Championship.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch207_premier_sports.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="247" start="20250101145500 +0000" stop="20250101170000 +0000">
+		<title>LIVE URC LIVE Cardiff v Ospreys</title>
+		<desc>The URC rings in the New Year with a Welsh Derby as Cardiff take on Ospreys at the Arms Park.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch207_premier_sports.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="247" start="20250101170000 +0000" stop="20250101171000 +0000">
+		<title>URC Match Highlights Dragons v Cardiff</title>
+		<desc>Catch up on all the match highlights from the most recent round of United Rugby Championship.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch207_premier_sports.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="247" start="20250101171000 +0000" stop="20250101191500 +0000">
+		<title>LIVE URC LIVE Scarlets v Dragons</title>
+		<desc>Parc y Scarlets plays host to a festive Welsh Derby as Scarlets take on Dragons RFC in the URC.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch207_premier_sports.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="247" start="20250101191500 +0000" stop="20250101201000 +0000">
+		<title>Champions Cup Highlights Round 2</title>
+		<desc>Watch all the highlights from the latest round of the Investec Champions Cup, the premier cup competition in European rugby.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch207_premier_sports.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="247" start="20250101201000 +0000" stop="20250101215000 +0000">
 		<title>Premiership Rugby Bristol v Sale</title>
 		<desc>Coverage of England's top division of professional rugby union, the Gallagher Premiership.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch207_premier_sports.jpg?w=341&amp;h=192" />
@@ -12285,11 +12295,6 @@
 	<programme channel="247" start="20250102001000 +0000" stop="20250102020000 +0000">
 		<title>Premiership Rugby Harlequins v Leicester</title>
 		<desc>Coverage of England's top division of professional rugby union, the Gallagher Premiership.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch207_premier_sports.jpg?w=341&amp;h=192" />
-	</programme>
-	<programme channel="247" start="20250102020000 +0000" stop="20250102021000 +0000">
-		<title>URC Match Highlights Dragons v Cardiff</title>
-		<desc>Catch up on all the match highlights from the most recent round of United Rugby Championship.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch207_premier_sports.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="247" start="20250102021000 +0000" stop="20250102022000 +0000">
@@ -12354,11 +12359,6 @@
 	</programme>
 	<programme channel="247" start="20250102114000 +0000" stop="20250102124000 +0000">
 		<title>Champions Cup Highlights Round 1</title>
-		<desc>Watch all the highlights from the latest round of the Investec Champions Cup, the premier cup competition in European rugby.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch207_premier_sports.jpg?w=341&amp;h=192" />
-	</programme>
-	<programme channel="247" start="20250102124000 +0000" stop="20250102134000 +0000">
-		<title>Champions Cup Highlights Round 2</title>
 		<desc>Watch all the highlights from the latest round of the Investec Champions Cup, the premier cup competition in European rugby.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch207_premier_sports.jpg?w=341&amp;h=192" />
 	</programme>
