@@ -1103,7 +1103,7 @@
 	</programme>
 	<programme channel="103" start="20250102143000 +0000" stop="20250102150000 +0000">
 		<title>Focus - EP 36</title>
-		<desc>Focus provides timely reports and analyses on international news and current affairs from Singapore's perspective.</desc>
+		<desc>Can the South Korean government effectively handle the Jeju Air crash incident amidst the current political instability? Will the military and diplomacy of the United States encounter upheavals when Donald Trump starts his second presidency? How is Indonesia's Prabowo Subianto shaping the country's relations with the United States and China?</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/103_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="103" start="20250102150000 +0000" stop="20250102160000 +0000">
@@ -10042,7 +10042,7 @@
 		<icon src="https://poster.starhubgo.com/poster/ch201_MassParticipation.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="201" start="20250102193000 +0000" stop="20250102230000 +0000">
-		<title>Paddy Power World Darts Championships 2024/25</title>
+		<title>Paddy Power World Darts C'ships 2024/25</title>
 		<desc>The Paddy Power World Darts Championship 2024/25 will see 96 players compete for the Sid Waddell Trophy and £2.5 million in prize money.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch201_Paddy_Power_World_Darts_Championship.jpg?w=960&amp;h=540" />
 	</programme>
@@ -10102,7 +10102,7 @@
 		<icon src="https://poster.starhubgo.com/poster/ch201_wta_tour.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="201" start="20250103143000 +0000" stop="20250103180000 +0000">
-		<title>Paddy Power World Darts Championships 2024/25</title>
+		<title>Paddy Power World Darts C'ships 2024/25</title>
 		<desc>The Paddy Power World Darts Championship 2024/25 will see 96 players compete for the Sid Waddell Trophy and £2.5 million in prize money.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch201_Paddy_Power_World_Darts_Championship.jpg?w=960&amp;h=540" />
 	</programme>
@@ -10526,6 +10526,11 @@
 		<desc>End of Transmission</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/207_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
+	<programme channel="208" start="20250101160000 +0000" stop="20250101220000 +0000">
+		<title>End of Transmission</title>
+		<desc>End of Transmission</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/208_1920x1080_HTV.png?w=960&amp;h=540" />
+	</programme>
 	<programme channel="208" start="20250101220000 +0000" stop="20250102040000 +0000">
 		<title>End of Transmission</title>
 		<desc>End of Transmission</desc>
@@ -10547,6 +10552,16 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/208_1920x1080_HTV.png?w=960&amp;h=540" />
 	</programme>
 	<programme channel="208" start="20250102220000 +0000" stop="20250103040000 +0000">
+		<title>End of Transmission</title>
+		<desc>End of Transmission</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/208_1920x1080_HTV.png?w=960&amp;h=540" />
+	</programme>
+	<programme channel="208" start="20250103040000 +0000" stop="20250103100000 +0000">
+		<title>End of Transmission</title>
+		<desc>End of Transmission</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/208_1920x1080_HTV.png?w=960&amp;h=540" />
+	</programme>
+	<programme channel="208" start="20250103100000 +0000" stop="20250103160000 +0000">
 		<title>End of Transmission</title>
 		<desc>End of Transmission</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/208_1920x1080_HTV.png?w=960&amp;h=540" />
@@ -25578,7 +25593,7 @@
 	</programme>
 	<programme channel="711" start="20250101180000 +0000" stop="20250101190000 +0000">
 		<title>Amanpour</title>
-		<desc>Christiane looks back on some of the world's most important voices on climate, all examining the different ways climate change is shaping our world so dramatically.</desc>
+		<desc>Christiane revisits her interviews from the past year with female trailblazers of different kinds. Kate Winslet; Sonia Purnell; Diane Von Furstenberg and Sharmeen Obaid Chinoy.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch711_amanpour.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="711" start="20250101190000 +0000" stop="20250101193000 +0000">
@@ -25871,10 +25886,15 @@
 		<desc>Daily sports show features major stories and issues making news in the world of sports.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch711_world_sport.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="711" start="20250103150000 +0000" stop="20250103160000 +0000">
+	<programme channel="711" start="20250103150000 +0000" stop="20250103153000 +0000">
 		<title>Connect the World</title>
 		<desc>Becky Anderson explores diverse perspectives and explains global issues of the day.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch711_connect_the_world.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="711" start="20250103153000 +0000" stop="20250103160000 +0000">
+		<title>CNN Academy</title>
+		<desc>Bill Gates joins Becky Anderson and CNN Academy students in Abu Dhabi for a conversation on how AI can help tackle major global challenges.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch711_cnn_academy_masterclass_with_bill_gates.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="720" start="20250101160000 +0000" stop="20250101163000 +0000">
 		<title>Eat Around Indonesia</title>
