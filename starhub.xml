@@ -3136,10 +3136,15 @@
 		<desc>Life At Thinker adalah sebuah program vlog atau diari yang memaparkan aktiviti-aktiviti menarik dan kegilaan krew-krew Thinker Studios di sepanjang minggu.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch118_life_at_thinker.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="118" start="20250102130000 +0000" stop="20250102140000 +0000">
-		<title>Opocot Next Level - EP 6</title>
-		<desc>Saksikan selebriti popular menyelesaikan tugasan sambil diganggu dengan cabaran yang melucukan. Kumpulan manakah yang bakal berjaya?</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch118_opocot_next_level.jpg?w=960&amp;h=540" />
+	<programme channel="118" start="20250102130000 +0000" stop="20250102130500 +0000">
+		<title>Berita Sangat Serius - EP 624</title>
+		<desc>Ingin tahu tentang berita dan isu semasa yang viral dan hangat diperkatakan oleh netizen? Saksikan Berita Sangat Serius yang pasti membuat anda tertawa sambil mendapat info berguna.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/118_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="118" start="20250102130500 +0000" stop="20250102140000 +0000">
+		<title>Romeo Returns - EP 1</title>
+		<desc>Saksikan jejaka idaman Malaya bersatu dalam sebuah program realiti yang bakal mencabar mereka dengan pelbagai aktiviti yang menguji keupayaan fizikal dan mental jejaka terhangat di pasaran ini.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/118_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="118" start="20250102140000 +0000" stop="20250102143000 +0000">
 		<title>Hantu Hari Ini - EP 9</title>
@@ -6933,7 +6938,7 @@
 	</programme>
 	<programme channel="138" start="20250103030000 +0000" stop="20250103053000 +0000">
 		<title>Velan</title>
-		<desc>Mugen Rao, Meenakshi Govindarajan, Soori, Pazhanisamy, Maria Vincent Release Year: 2021 Director: Kavin Raj</desc>
+		<desc>Velan clashes with his strict father due to his entitled ways, but everything changes when he falls for Ananya, his college crush from Kerala. Love complicates life! Release Year: 2021 Director: Kavin Raj</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch656_zee_tamil_exclusive.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="138" start="20250103053000 +0000" stop="20250103060000 +0000">
@@ -10381,7 +10386,12 @@
 		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_Channels2/204_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="204" start="20250103025000 +0000" stop="20250103065000 +0000">
+	<programme channel="204" start="20250103003000 +0000" stop="20250103035000 +0000">
+		<title>KFC Big Bash League 2024/25: M12 - Perth Scorchers vs Brisbane Heat</title>
+		<desc>The 2024-25 Big Bash League season will be the fourteenth season of the Big Bash League (BBL), the professional men's Twenty20 domestic cricket competition in Australia. Eight teams will be vying over the champion spot across 44 matches.</desc>
+		<icon src="https://poster.starhubgo.com/poster/BBL202425.jpg?w=960&amp;h=540" />
+	</programme>
+	<programme channel="204" start="20250103035000 +0000" stop="20250103065000 +0000">
 		<title>KFC Big Bash League 2024/25: M17 - Adelaide Strikers vs Perth Scorchers</title>
 		<desc>The 2024-25 Big Bash League season will be the fourteenth season of the Big Bash League (BBL), the professional men's Twenty20 domestic cricket competition in Australia. Eight teams will be vying over the champion spot across 44 matches.</desc>
 		<icon src="https://poster.starhubgo.com/poster/BBL202425.jpg?w=960&amp;h=540" />
@@ -31028,7 +31038,7 @@
 	</programme>
 	<programme channel="815" start="20250103074000 +0000" stop="20250103080000 +0000">
 		<title>KBS WORLD News Today</title>
-		<desc>KBS World Daily English News Anchor : Choi Kyu-yeon</desc>
+		<desc>KBS World Daily English News _x000D_Anchor : Choi Kyu-yeon</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch815_kbsworld_news_today.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="815" start="20250103080000 +0000" stop="20250103080500 +0000">
@@ -31073,8 +31083,8 @@
 	</programme>
 	<programme channel="815" start="20250103140500 +0000" stop="20250103153500 +0000">
 		<title>2024 ABU TV Song Festival</title>
-		<desc>KBS World continues to bring entertaining and informative programmes to viewers!</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch815_kbs_logo.jpg?w=341&amp;h=192" />
+		<desc>A global music festival with top singers hosted by ABU(Asia-Pacific Broadcasting Union), the world's largest broadcasting organization which has over 70 member countries.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch815_2024_abu_tv_song_festival.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="815" start="20250103153500 +0000" stop="20250103154000 +0000">
 		<title>The Best of Immortal Songs</title>
