@@ -168,6 +168,10 @@
 		<display-name>Hub Sports 7</display-name>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/207_1920x1080_HTV.png?w=272" />
 	</channel>
+	<channel id="208">
+		<display-name>Hub Sports 8</display-name>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/208_1920x1080_HTV.png?w=272" />
+	</channel>
 	<channel id="209">
 		<display-name>SPOTV</display-name>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/209_1920x1080_HTV.png?w=272" />
@@ -10521,6 +10525,31 @@
 		<title>End of Transmission</title>
 		<desc>End of Transmission</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/207_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="208" start="20250101220000 +0000" stop="20250102040000 +0000">
+		<title>End of Transmission</title>
+		<desc>End of Transmission</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/208_1920x1080_HTV.png?w=960&amp;h=540" />
+	</programme>
+	<programme channel="208" start="20250102040000 +0000" stop="20250102100000 +0000">
+		<title>End of Transmission</title>
+		<desc>End of Transmission</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/208_1920x1080_HTV.png?w=960&amp;h=540" />
+	</programme>
+	<programme channel="208" start="20250102100000 +0000" stop="20250102160000 +0000">
+		<title>End of Transmission</title>
+		<desc>End of Transmission</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/208_1920x1080_HTV.png?w=960&amp;h=540" />
+	</programme>
+	<programme channel="208" start="20250102160000 +0000" stop="20250102220000 +0000">
+		<title>End of Transmission</title>
+		<desc>End of Transmission</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/208_1920x1080_HTV.png?w=960&amp;h=540" />
+	</programme>
+	<programme channel="208" start="20250102220000 +0000" stop="20250103040000 +0000">
+		<title>End of Transmission</title>
+		<desc>End of Transmission</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/208_1920x1080_HTV.png?w=960&amp;h=540" />
 	</programme>
 	<programme channel="209" start="20250101160000 +0000" stop="20250101163000 +0000">
 		<title>MotoGP 2024 Spotlight: Ducati 100 Wins</title>
