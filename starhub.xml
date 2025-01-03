@@ -25816,21 +25816,6 @@
 		<desc>Richard Quest speaks to the top names in global business to bring viewers the bottom line.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch711_quest_means_business.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="711" start="20250102214500 +0000" stop="20250102220000 +0000">
-		<title>Quest's World of Wonder</title>
-		<desc>The colors of Miami's architecture and clothing hit you in the face upon arrival. The hit 80s TV show "Miami Vice" may have put this city on the map, but 40 years on, there is more magic to discover.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch711_quess_world_of_wonder.jpg?w=341&amp;h=192" />
-	</programme>
-	<programme channel="711" start="20250102220000 +0000" stop="20250102223000 +0000">
-		<title>The Lead</title>
-		<desc>Jake Tapper covers all the day's top stories around the country and the globe, from politics to money, sports to popular culture.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch711_the_lead_with_jake_tapper.jpg?w=960&amp;h=540" />
-	</programme>
-	<programme channel="711" start="20250102223000 +0000" stop="20250102230000 +0000">
-		<title>World Sport</title>
-		<desc>Daily sports show features major stories and issues making news in the world of sports.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch711_world_sport.jpg?w=341&amp;h=192" />
-	</programme>
 	<programme channel="711" start="20250102230000 +0000" stop="20250103000000 +0000">
 		<title>First Move</title>
 		<desc>Julia Chatterley explains the latest on global markets and the biggest stories shaping the economic landscape.</desc>
@@ -25861,30 +25846,20 @@
 		<desc>Laura Coates goes inside the story with a relentless pursuit of the facts.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch711_laura_coates_live.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="711" start="20250103050000 +0000" stop="20250103054500 +0000">
+	<programme channel="711" start="20250103050000 +0000" stop="20250103060000 +0000">
 		<title>CNN Newsroom</title>
 		<desc>Live context and clarity to the day's top stories from around the world.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch711_cnn_newsroom.jpg?w=960&amp;h=540" />
-	</programme>
-	<programme channel="711" start="20250103054500 +0000" stop="20250103060000 +0000">
-		<title>World Sport</title>
-		<desc>Daily sports show features major stories and issues making news in the world of sports.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch711_world_sport.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="711" start="20250103060000 +0000" stop="20250103070000 +0000">
 		<title>CNN Newsroom</title>
 		<desc>Live context and clarity to the day's top stories from around the world.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch711_cnn_newsroom.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="711" start="20250103070000 +0000" stop="20250103074500 +0000">
+	<programme channel="711" start="20250103070000 +0000" stop="20250103080000 +0000">
 		<title>CNN Newsroom</title>
 		<desc>Live context and clarity to the day's top stories from around the world.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch711_cnn_newsroom.jpg?w=960&amp;h=540" />
-	</programme>
-	<programme channel="711" start="20250103074500 +0000" stop="20250103080000 +0000">
-		<title>World Sport</title>
-		<desc>Daily sports show features major stories and issues making news in the world of sports.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch711_world_sport.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="711" start="20250103080000 +0000" stop="20250103090000 +0000">
 		<title>CNN Newsroom</title>
@@ -25946,20 +25921,15 @@
 		<desc>Live context and clarity to the day's top stories from around the world.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch711_cnn_newsroom.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="711" start="20250103170000 +0000" stop="20250103174500 +0000">
-		<title>One World</title>
-		<desc>Zain Asher and Bianna Golodryga cover the top global and national issues of the day.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch711_one_world_with_zain_asher_and_bianna_golodryga.jpg?w=960&amp;h=540" />
-	</programme>
-	<programme channel="711" start="20250103174500 +0000" stop="20250103180000 +0000">
-		<title>Marketplace Africa</title>
-		<desc>A movement to build sustainable buildings in South Africa gains steam and could pay economic dividends down the line; Bernabe's Managing Director on the company's goals for growth.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch711_marketplace_africa.jpg?w=341&amp;h=192" />
+	<programme channel="711" start="20250103170000 +0000" stop="20250103180000 +0000">
+		<title>The Vote for Speaker</title>
+		<desc>Jake Tapper and Dana Bash anchor live special coverage of the election of the next Speaker of the House on the first day of the 119th Congress.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch711_cnn_generic.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="711" start="20250103180000 +0000" stop="20250103190000 +0000">
-		<title>Amanpour</title>
-		<desc>Christiane looks back at some of her cultural highlights of the year - musician John Legend, actresses Jodie Foster and Kali Reis, and groundbreaking composer Terence Blanchard.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch711_amanpour.jpg?w=341&amp;h=192" />
+		<title>The Vote for Speaker</title>
+		<desc>US House Of Representatives votes for a new speaker as the conflict in Israel and Gaza continues.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch711_cnn_generic.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="711" start="20250103190000 +0000" stop="20250103200000 +0000">
 		<title>Isa Soares Tonight</title>
