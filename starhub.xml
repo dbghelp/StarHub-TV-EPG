@@ -10711,6 +10711,11 @@
 		<desc>The finest tennis players on the planet lock horns on the hard-courts of Flushing Meadows across two weeks in pursuit of the sport's toughest title at the fourth and final Grand Slam of the year.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch209_us_open.jpg?w=960&amp;h=540" />
 	</programme>
+	<programme channel="209" start="20250107013000 +0000" stop="20250107043000 +0000">
+		<title>2024 Ultimate Pool</title>
+		<desc>A professional-only ranking event taking place over 21 weeks, the Ultimate Pool Champions League consists of 64 professional players competing in and progressing through 3 phases to be crowned champion.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/209_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
 	<programme channel="209" start="20250107043000 +0000" stop="20250107053000 +0000">
 		<title>SPOTV ENCORE: 2023 US Open Women Singles Finals Highlights</title>
 		<desc>The 2023 US Open Women's Singles Finals was a thrilling match between Coco Gauff and Aryna Sabalenka.</desc>
@@ -30453,7 +30458,7 @@
 	</programme>
 	<programme channel="812" start="20250105231000 +0000" stop="20250106000000 +0000">
 		<title>Somewhere Street</title>
-		<desc>A unique walking-eye view of cities around the globe! Chat to the locals and enjoy encounters that only strolling the streets can bring.</desc>
+		<desc>Mayfair, a luxurious district in London, preserves the quintessence of British high tradition. Regarded as the city's most prestigious and desirous locale, it's beloved by the upper class and royalty.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250106000000 +0000" stop="20250106001000 +0000">
@@ -30462,8 +30467,8 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250106001000 +0000" stop="20250106002300 +0000">
-		<title>NHK World-Japan Special Program</title>
-		<desc>NHK WORLD-JAPAN presents a wide range of programs from news, current affairs, documentaries, etc. focusing on Japan and Asia.</desc>
+		<title>Biz Stream Special Edition</title>
+		<desc>This episode features Japanese companies that are helping local people to form lasting connections by bringing them together through business models that are centered on community building.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250106002300 +0000" stop="20250106003000 +0000">
@@ -30471,9 +30476,14 @@
 		<desc>Do you know what to do when disaster strikes? If you don't, Andrew Mitchell from the UK has some stories to tell you from his own experience living through the 2016 Kumamoto quakes.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="812" start="20250106003000 +0000" stop="20250106010000 +0000">
+	<programme channel="812" start="20250106003000 +0000" stop="20250106005700 +0000">
 		<title>Where We Call Home</title>
 		<desc>We meet Istvan Lorincz, a Romanian of Hungarian origin who's a pastor and expert herbalist in Sapporo, Hokkaido, as well as Vietnamese Hoai Thuong who works at a hot spring inn in Shimane.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="812" start="20250106005700 +0000" stop="20250106010000 +0000">
+		<title>Yonezawa: "Beni," Japanese Red</title>
+		<desc>Since ancient times, safflowers grown in Yonezawa have been used to dye fabric a deep red color associated with the sun. Experience its mysterious, vivid beauty through time-lapse footage.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250106010000 +0000" stop="20250106011000 +0000">
@@ -30503,12 +30513,12 @@
 	</programme>
 	<programme channel="812" start="20250106014500 +0000" stop="20250106015500 +0000">
 		<title>Culture Crossroads</title>
-		<desc>Culture Crossroads comprises several regular programs with the theme of creating a multicultural society. They look at international exchange programs and give tips on disaster preparedness.</desc>
+		<desc>Bara Kyoushitsu in Kani City, Gifu Prefecture, is a preschool designed to eliminate the number of foreign children who stop attending school because they don't understand Japanese.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250106015500 +0000" stop="20250106020000 +0000">
 		<title>Hello! NHK World-Japan</title>
-		<desc>We intorduce the contents and activities of NHK WORLD-JAPAN to make the station and programs known to more people all over the world. This is the window of the station to the world.</desc>
+		<desc>This time we introduce "The Special Series of Hokkaido in November." We show various aspects of Hokkaido to present its attractiveness through "Train Cruise," "Hit the Road," and other programs.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250106020000 +0000" stop="20250106021500 +0000">
@@ -30537,8 +30547,8 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250106031500 +0000" stop="20250106033000 +0000">
-		<title>NHK World-Japan Special Program</title>
-		<desc>NHK WORLD-JAPAN presents a wide range of programs from news, current affairs, documentaries, etc. focusing on Japan and Asia.</desc>
+		<title>Biz Stream Special Edition</title>
+		<desc>This episode features Japanese companies that are helping local people to form lasting connections by bringing them together through business models that are centered on community building.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250106033000 +0000" stop="20250106040000 +0000">
@@ -30552,13 +30562,13 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250106041500 +0000" stop="20250106043000 +0000">
-		<title>NHK World-Japan Special Program</title>
-		<desc>NHK WORLD-JAPAN presents a wide range of programs from news, current affairs, documentaries, etc. focusing on Japan and Asia.</desc>
+		<title>Biz Stream Special Edition</title>
+		<desc>This episode features Japanese companies that are helping local people to form lasting connections by bringing them together through business models that are centered on community building.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250106043000 +0000" stop="20250106050000 +0000">
-		<title>Japan In Focus</title>
-		<desc>NHK WORLD-JAPAN presents a variety of programs focusing on Japan.</desc>
+		<title>Never Too Old To Work</title>
+		<desc>A Tokyo shutter manufacturer employs the elderly, which make up 30% of its staff. We take a closer look at this workplace where seniors thrive.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250106050000 +0000" stop="20250106051500 +0000">
@@ -30571,9 +30581,14 @@
 		<desc>For 25 years, Kamijo Yoko has been engaging with Palestinian painters and children. In May 2024, she held an exhibition of their artwork in Japan. She talks about her connection to the Gaza Strip.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="812" start="20250106053000 +0000" stop="20250106060000 +0000">
+	<programme channel="812" start="20250106053000 +0000" stop="20250106055700 +0000">
 		<title>Where We Call Home</title>
 		<desc>We meet Istvan Lorincz, a Romanian of Hungarian origin who's a pastor and expert herbalist in Sapporo, Hokkaido, as well as Vietnamese Hoai Thuong who works at a hot spring inn in Shimane.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="812" start="20250106055700 +0000" stop="20250106060000 +0000">
+		<title>Yonezawa: "Beni," Japanese Red</title>
+		<desc>Since ancient times, safflowers grown in Yonezawa have been used to dye fabric a deep red color associated with the sun. Experience its mysterious, vivid beauty through time-lapse footage.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250106060000 +0000" stop="20250106063000 +0000">
@@ -30593,12 +30608,12 @@
 	</programme>
 	<programme channel="812" start="20250106064500 +0000" stop="20250106065500 +0000">
 		<title>Culture Crossroads</title>
-		<desc>Culture Crossroads comprises several regular programs with the theme of creating a multicultural society. They look at international exchange programs and give tips on disaster preparedness.</desc>
+		<desc>Bara Kyoushitsu in Kani City, Gifu Prefecture, is a preschool designed to eliminate the number of foreign children who stop attending school because they don't understand Japanese.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250106065500 +0000" stop="20250106070000 +0000">
 		<title>Hello! NHK World-Japan</title>
-		<desc>We intorduce the contents and activities of NHK WORLD-JAPAN to make the station and programs known to more people all over the world. This is the window of the station to the world.</desc>
+		<desc>This time we introduce "The Special Series of Hokkaido in November." We show various aspects of Hokkaido to present its attractiveness through "Train Cruise," "Hit the Road," and other programs.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250106070000 +0000" stop="20250106073000 +0000">
@@ -30661,9 +30676,14 @@
 		<desc>Reporting the latest business, finance and economic news, with added analysis from studio guests.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="812" start="20250106103000 +0000" stop="20250106110000 +0000">
+	<programme channel="812" start="20250106103000 +0000" stop="20250106105700 +0000">
 		<title>Where We Call Home</title>
 		<desc>We meet Istvan Lorincz, a Romanian of Hungarian origin who's a pastor and expert herbalist in Sapporo, Hokkaido, as well as Vietnamese Hoai Thuong who works at a hot spring inn in Shimane.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="812" start="20250106105700 +0000" stop="20250106110000 +0000">
+		<title>Yonezawa: "Beni," Japanese Red</title>
+		<desc>Since ancient times, safflowers grown in Yonezawa have been used to dye fabric a deep red color associated with the sun. Experience its mysterious, vivid beauty through time-lapse footage.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250106110000 +0000" stop="20250106112700 +0000">
@@ -30703,12 +30723,12 @@
 	</programme>
 	<programme channel="812" start="20250106124500 +0000" stop="20250106125500 +0000">
 		<title>Culture Crossroads</title>
-		<desc>Culture Crossroads comprises several regular programs with the theme of creating a multicultural society. They look at international exchange programs and give tips on disaster preparedness.</desc>
+		<desc>Bara Kyoushitsu in Kani City, Gifu Prefecture, is a preschool designed to eliminate the number of foreign children who stop attending school because they don't understand Japanese.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250106125500 +0000" stop="20250106130000 +0000">
 		<title>Hello! NHK World-Japan</title>
-		<desc>We intorduce the contents and activities of NHK WORLD-JAPAN to make the station and programs known to more people all over the world. This is the window of the station to the world.</desc>
+		<desc>This time we introduce "The Special Series of Hokkaido in November." We show various aspects of Hokkaido to present its attractiveness through "Train Cruise," "Hit the Road," and other programs.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250106130000 +0000" stop="20250106131500 +0000">
@@ -30738,7 +30758,7 @@
 	</programme>
 	<programme channel="812" start="20250106143000 +0000" stop="20250106150000 +0000">
 		<title>Medical Frontiers</title>
-		<desc>From prevention to cure! The groundbreaking world of Japanese medical technology and healthcare. For your healthy lifestyle, this program shows tips of superfoods and easy exercises.</desc>
+		<desc>Nuclear medicine therapy involves delivering radiation-emitting drugs directly inside the body to treat refractory cancers. We explore the mechanism of the therapy and the latest developments.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250106150000 +0000" stop="20250106151500 +0000">
@@ -30751,9 +30771,14 @@
 		<desc>Introducing a colorful variety of feature stories, including reports on daily life from locations throughout Japan, as well as other parts of Asia and around the world.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="812" start="20250106153000 +0000" stop="20250106160000 +0000">
+	<programme channel="812" start="20250106153000 +0000" stop="20250106155700 +0000">
 		<title>Where We Call Home</title>
 		<desc>We meet Istvan Lorincz, a Romanian of Hungarian origin who's a pastor and expert herbalist in Sapporo, Hokkaido, as well as Vietnamese Hoai Thuong who works at a hot spring inn in Shimane.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="812" start="20250106155700 +0000" stop="20250106160000 +0000">
+		<title>Yonezawa: "Beni," Japanese Red</title>
+		<desc>Since ancient times, safflowers grown in Yonezawa have been used to dye fabric a deep red color associated with the sun. Experience its mysterious, vivid beauty through time-lapse footage.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250106160000 +0000" stop="20250106161500 +0000">
@@ -30768,7 +30793,7 @@
 	</programme>
 	<programme channel="812" start="20250106163000 +0000" stop="20250106170000 +0000">
 		<title>Japan'S Top Inventions</title>
-		<desc>The stories behind hit Japanese products, plus top creations for niche markets.</desc>
+		<desc>The stories behind hit Japanese products, plus top creations for niche markets. This time: multihead weighers &amp; aircraft interior products.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250106170000 +0000" stop="20250106171500 +0000">
@@ -30793,12 +30818,12 @@
 	</programme>
 	<programme channel="812" start="20250106174500 +0000" stop="20250106175500 +0000">
 		<title>Culture Crossroads</title>
-		<desc>Culture Crossroads comprises several regular programs with the theme of creating a multicultural society. They look at international exchange programs and give tips on disaster preparedness.</desc>
+		<desc>Bara Kyoushitsu in Kani City, Gifu Prefecture, is a preschool designed to eliminate the number of foreign children who stop attending school because they don't understand Japanese.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250106175500 +0000" stop="20250106180000 +0000">
 		<title>Hello! NHK World-Japan</title>
-		<desc>We intorduce the contents and activities of NHK WORLD-JAPAN to make the station and programs known to more people all over the world. This is the window of the station to the world.</desc>
+		<desc>This time we introduce "The Special Series of Hokkaido in November." We show various aspects of Hokkaido to present its attractiveness through "Train Cruise," "Hit the Road," and other programs.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250106180000 +0000" stop="20250106182700 +0000">
@@ -30838,7 +30863,7 @@
 	</programme>
 	<programme channel="812" start="20250106193500 +0000" stop="20250106195000 +0000">
 		<title>Wild Hokkaido!</title>
-		<desc>Wild Hokkaido! takes you to Japan's outdoor treasure trove, Hokkaido. Join us, as we canoe through white water, fish elusive trout in deep forests, camp in serene snowscapes and more! Find adventure!!</desc>
+		<desc>A canoe trip is a wonderful way to enjoy autumn! The riverbanks weave a bright tapestry of color. It's also the season of migratory birds and a chance to encounter other unexpected gifts of nature!</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250106195000 +0000" stop="20250106195500 +0000">
@@ -30863,7 +30888,7 @@
 	</programme>
 	<programme channel="812" start="20250106203000 +0000" stop="20250106210000 +0000">
 		<title>Medical Frontiers</title>
-		<desc>From prevention to cure! The groundbreaking world of Japanese medical technology and healthcare. For your healthy lifestyle, this program shows tips of superfoods and easy exercises.</desc>
+		<desc>Nuclear medicine therapy involves delivering radiation-emitting drugs directly inside the body to treat refractory cancers. We explore the mechanism of the therapy and the latest developments.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250106210000 +0000" stop="20250106211800 +0000">
@@ -30876,9 +30901,14 @@
 		<desc>Reporting the latest business, finance and economic news, with added analysis from studio guests.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="812" start="20250106213000 +0000" stop="20250106220000 +0000">
+	<programme channel="812" start="20250106213000 +0000" stop="20250106215700 +0000">
 		<title>Where We Call Home</title>
 		<desc>We meet Istvan Lorincz, a Romanian of Hungarian origin who's a pastor and expert herbalist in Sapporo, Hokkaido, as well as Vietnamese Hoai Thuong who works at a hot spring inn in Shimane.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="812" start="20250106215700 +0000" stop="20250106220000 +0000">
+		<title>Yonezawa: "Beni," Japanese Red</title>
+		<desc>Since ancient times, safflowers grown in Yonezawa have been used to dye fabric a deep red color associated with the sun. Experience its mysterious, vivid beauty through time-lapse footage.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250106220000 +0000" stop="20250106221800 +0000">
@@ -30903,12 +30933,12 @@
 	</programme>
 	<programme channel="812" start="20250106224500 +0000" stop="20250106225500 +0000">
 		<title>Culture Crossroads</title>
-		<desc>Culture Crossroads comprises several regular programs with the theme of creating a multicultural society. They look at international exchange programs and give tips on disaster preparedness.</desc>
+		<desc>Bara Kyoushitsu in Kani City, Gifu Prefecture, is a preschool designed to eliminate the number of foreign children who stop attending school because they don't understand Japanese.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250106225500 +0000" stop="20250106230000 +0000">
 		<title>Hello! NHK World-Japan</title>
-		<desc>We intorduce the contents and activities of NHK WORLD-JAPAN to make the station and programs known to more people all over the world. This is the window of the station to the world.</desc>
+		<desc>This time we introduce "The Special Series of Hokkaido in November." We show various aspects of Hokkaido to present its attractiveness through "Train Cruise," "Hit the Road," and other programs.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250106230000 +0000" stop="20250106231500 +0000">
