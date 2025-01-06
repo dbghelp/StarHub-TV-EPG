@@ -29871,6 +29871,11 @@
 		<desc>Weather information of the different areas around the world.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
+	<programme channel="811" start="20250107030000 +0000" stop="20250107032000 +0000">
+		<title>News</title>
+		<desc>The latest up-to-date news from Tokyo.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
 	<programme channel="811" start="20250107032000 +0000" stop="20250107032800 +0000">
 		<title>Information Worth Knowing from the News Commentator Bureau</title>
 		<desc>The commentators present trending news, its background, and engaging information related to daily life in an easy-to -understand manner.</desc>
@@ -30051,9 +30056,14 @@
 		<desc>Weather information of the different areas around the world.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="811" start="20250107153000 +0000" stop="20250107161500 +0000">
+	<programme channel="811" start="20250107153000 +0000" stop="20250107161300 +0000">
 		<title>Remi's Easy Cooking 2025 New Year Special in Noto (R)</title>
 		<desc>A live program in which a cooking lover Hirano Remi introduces easy but delicious recipes making use of seasonal vegetables and fruits.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="811" start="20250107161300 +0000" stop="20250107161500 +0000">
+		<title>Mini Program</title>
+		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="811" start="20250107161500 +0000" stop="20250107164000 +0000">
@@ -30251,9 +30261,14 @@
 		<desc>The latest up-to-date news and nationwide weather information.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="811" start="20250108061000 +0000" stop="20250108064000 +0000">
+	<programme channel="811" start="20250108061000 +0000" stop="20250108063500 +0000">
 		<title>Hobbies--Sparkle Your Life!</title>
 		<desc>Enjoy learning various kinds of hobbies lectured by a master of the field. A new theme will be introduced every two months.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="811" start="20250108063500 +0000" stop="20250108064000 +0000">
+		<title>Mini Program</title>
+		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="811" start="20250108064000 +0000" stop="20250108065000 +0000">
