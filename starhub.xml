@@ -10969,7 +10969,7 @@
 	<programme channel="211" start="20250109150000 +0000" stop="20250109160000 +0000">
 		<title>United Cup 2025: Tournament Review</title>
 		<desc>The world’s best players will unite to compete side by side with mixed teams from 18 countries playing across three Australian cities over 11 days.</desc>
-		<icon src="https://imageservice.starhub.otvse.com//images/v1/image/Series/WBD_b9893e95-23ad-44da-9c96-60d1192b5b6f/BannerMain?height=540&amp;width=960&amp;aspect=16x9" />
+		<icon src="https://poster.starhubgo.com/poster/ch211_UnitedCup2025.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="211" start="20250109160000 +0000" stop="20250109173000 +0000">
 		<title>ATP Tour 250 2024: Belgrade Day 3 Kovacevic v Medjedovic</title>
@@ -11049,7 +11049,7 @@
 	<programme channel="211" start="20250110090000 +0000" stop="20250110100000 +0000">
 		<title>United Cup 2025: Tournament Review</title>
 		<desc>The world’s best players will unite to compete side by side with mixed teams from 18 countries playing across three Australian cities over 11 days.</desc>
-		<icon src="https://imageservice.starhub.otvse.com//images/v1/image/Series/WBD_b9893e95-23ad-44da-9c96-60d1192b5b6f/BannerMain?height=540&amp;width=960&amp;aspect=16x9" />
+		<icon src="https://poster.starhubgo.com/poster/ch211_UnitedCup2025.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="211" start="20250110100000 +0000" stop="20250110130000 +0000">
 		<title>Best Of AO 2024: Men's Singles SF Djokovic v Sinner</title>
@@ -25764,7 +25764,7 @@
 	<programme channel="711" start="20250108214500 +0000" stop="20250108220000 +0000">
 		<title>Connecting Africa</title>
 		<desc>Explore the opportunities and challenges African designers face across the continent and within the international fashion industry.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch711_connecting_africa.jpg?w=960&amp;h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch711_connecting_africa.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="711" start="20250108220000 +0000" stop="20250108223000 +0000">
 		<title>The Lead</title>
@@ -35141,10 +35141,15 @@
 		<desc>This program contains different motor sport races throughout 2024 which includes FIA affiliated rallies at different countries.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch202_aso.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="995" start="20250109223000 +0000" stop="20250109233000 +0000">
-		<title>European Le Mans Series 2024</title>
-		<desc>The grid for the 2024 ELMS will feature a total of 43 cars, the largest ever field of LMP2s for the leading continental endurance championship. Over half of the grid, 22 in total, will be entries in the two LMP2 classes, the largest gathering of LMP2 cars outside of the 24 Hours of Le Mans.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch202_european_le_mans_series.jpg?w=341&amp;h=192" />
+	<programme channel="995" start="20250109223000 +0000" stop="20250109230000 +0000">
+		<title>The Football Review 2025</title>
+		<desc>Take a look back at the highlights and incidents that shaped the footballing world!</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch202_the_football_review.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="995" start="20250109230000 +0000" stop="20250109233000 +0000">
+		<title>Total Combat 2025</title>
+		<desc>The first of its kind program covering all disciplines of combat sports including MMA, boxing, kickboxing, muay thai and more.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch202_total_combat_2024.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="995" start="20250109233000 +0000" stop="20250110000000 +0000">
 		<title>NFL GameDay 2024/25</title>
@@ -35161,50 +35166,50 @@
 		<desc>Delving into the key narratives ahead of the round, the preview show features quirky characters, big name players, and areas of cultural sporting significance.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch202_the_emirates_fa_cup_2425.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="995" start="20250110010000 +0000" stop="20250110030000 +0000">
+	<programme channel="995" start="20250110010000 +0000" stop="20250110040000 +0000">
+		<title>HSBC BWF World Tour 2025 (Live)</title>
+		<desc>HSBC BWF World Tour is the eighth season of the BWF World Tour of badminton, a circuit of 31 tournaments that lead up to the World Tour Finals tournament. The tour features five levels, with different levels of prize money in each of the tournaments.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch202_bwf_world_tour.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="995" start="20250110040000 +0000" stop="20250110060000 +0000">
 		<title>The Emirates FA Cup 2024/25 R3: Sheffield United vs Cardiff City</title>
 		<desc>The 2024/25 FA Cup is the 144th season of the Football Association Challenge Cup, the original and oldest football tournament in the world. The FA Cup is the main domestic cup for men's football teams in England, with more than 700 clubs competing for the chance to lift one of the most prestigious trophies.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch202_SHUvCAR.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="995" start="20250110030000 +0000" stop="20250110033000 +0000">
+	<programme channel="995" start="20250110060000 +0000" stop="20250110063000 +0000">
 		<title>Isuzu UTE A-League 2024/25 Highlights Show</title>
 		<desc>The major happenings of all the matches in the A-League are captured in this show as it brings you the goals, saves, crunching tackles and more throughout the season.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch202_isuzu_ute_a_league.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="995" start="20250110033000 +0000" stop="20250110073000 +0000">
-		<title>Hologic WTA Tour 2025 (Live)</title>
-		<desc>The Hobart International is a women's professional tennis tournament held at the Hobart International Tennis Centre in Hobart, Australia. The tournament was founded in 1994. It is competed on outdoor hardcourts, and is held in the run-up to the Australian Open.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch202_hologic_wta_tour.jpg?w=960&amp;h=540" />
-	</programme>
-	<programme channel="995" start="20250110073000 +0000" stop="20250110080000 +0000">
+	<programme channel="995" start="20250110063000 +0000" stop="20250110070000 +0000">
 		<title>NFL GameDay 2024/25</title>
 		<desc>NFL GameDay is a recap of all the previous weekend's NFL action and showcases the Emmyaward-winning cinematography and music composition of NFL Films.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch202_nfl_2024_25.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="995" start="20250110080000 +0000" stop="20250110083000 +0000">
-		<title>ASO Motorsport Programming 2024</title>
-		<desc>This program contains different motor sport races throughout 2024 which includes FIA affiliated rallies at different countries.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch202_aso.jpg?w=960&amp;h=540" />
+	<programme channel="995" start="20250110070000 +0000" stop="20250110120000 +0000">
+		<title>HSBC BWF World Tour 2025 (Live)</title>
+		<desc>HSBC BWF World Tour is the eighth season of the BWF World Tour of badminton, a circuit of 31 tournaments that lead up to the World Tour Finals tournament. The tour features five levels, with different levels of prize money in each of the tournaments.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch202_bwf_world_tour.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="995" start="20250110083000 +0000" stop="20250110103000 +0000">
-		<title>Isuzu UTE A-League 2024/25 R13: Melbourne Victory vs Western United FC (Live)</title>
-		<desc>Central Coast Mariners aim for a historic three-peat in the 2024/25 A-League, returning as both Premiers and Champions. They will face 12 rivals, including newcomers Auckland FC, in the 48th season of national soccer in Australia and the 20th since the A-League's establishment in 2004.</desc>
+	<programme channel="995" start="20250110120000 +0000" stop="20250110123000 +0000">
+		<title>The Football Review 2025</title>
+		<desc>Take a look back at the highlights and incidents that shaped the footballing world!</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch202_the_football_review.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="995" start="20250110123000 +0000" stop="20250110130000 +0000">
+		<title>Isuzu UTE A-League 2024/25 Highlights Show</title>
+		<desc>The major happenings of all the matches in the A-League are captured in this show as it brings you the goals, saves, crunching tackles and more throughout the season.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch202_isuzu_ute_a_league.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="995" start="20250110103000 +0000" stop="20250110110000 +0000">
-		<title>NFL GameDay 2024/25</title>
-		<desc>NFL GameDay is a recap of all the previous weekend's NFL action and showcases the Emmyaward-winning cinematography and music composition of NFL Films.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch202_nfl_2024_25.jpg?w=960&amp;h=540" />
+	<programme channel="995" start="20250110130000 +0000" stop="20250110133000 +0000">
+		<title>East Asia Super League 2024/25 Highlights</title>
+		<desc>Match highlights for EASL, the international basketball club competition involving teams from Hong Kong, Japan, Macau, South Korea, Philippines and Taiwan.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch202_easl.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="995" start="20250110110000 +0000" stop="20250110130000 +0000">
-		<title>The Emirates FA Cup 2024/25 R3: Everton vs Peterborough United</title>
-		<desc>The 2024/25 FA Cup is the 144th season of the Football Association Challenge Cup, the original and oldest football tournament in the world. The FA Cup is the main domestic cup for men's football teams in England, with more than 700 clubs competing for the chance to lift one of the most prestigious trophies.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch202_EVEvPET.jpg?w=960&amp;h=540" />
-	</programme>
-	<programme channel="995" start="20250110130000 +0000" stop="20250110140000 +0000">
-		<title>European Le Mans Series 2024</title>
-		<desc>The grid for the 2024 ELMS will feature a total of 43 cars, the largest ever field of LMP2s for the leading continental endurance championship. Over half of the grid, 22 in total, will be entries in the two LMP2 classes, the largest gathering of LMP2 cars outside of the 24 Hours of Le Mans.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch202_european_le_mans_series.jpg?w=341&amp;h=192" />
+	<programme channel="995" start="20250110133000 +0000" stop="20250110140000 +0000">
+		<title>Total Combat 2025</title>
+		<desc>The first of its kind program covering all disciplines of combat sports including MMA, boxing, kickboxing, muay thai and more.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch202_total_combat_2024.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="995" start="20250110140000 +0000" stop="20250110160000 +0000">
 		<title>The Emirates FA Cup 2024/25 R3: Fulham vs Watford</title>
