@@ -10802,12 +10802,12 @@
 		<icon src="https://poster.starhubgo.com/poster/ch210_spotv2_logo.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="210" start="20250108080000 +0000" stop="20250108100000 +0000">
-		<title>2024 GTOUR MEN'S 6th Tournament</title>
+		<title>2024 GTOUR MEN'S 7th Tournament</title>
 		<desc>Launched in 2012, the Golfzon GTOUR is a series of professional men's and women's screen golf tournaments in South Korea.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_golf.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="210" start="20250108100000 +0000" stop="20250108120000 +0000">
-		<title>2024 GTOUR WOMEN'S 6th Tournament</title>
+		<title>2024 GTOUR WOMEN'S 7th Tournament</title>
 		<desc>Launched in 2012, the Golfzon GTOUR is a series of professional men's and women's screen golf tournaments in South Korea.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_golf.jpg?w=960&amp;h=540" />
 	</programme>
@@ -10847,7 +10847,7 @@
 		<icon src="https://poster.starhubgo.com/poster/ch210_motogp.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="210" start="20250108233000 +0000" stop="20250109013000 +0000">
-		<title>2024 GTOUR MEN'S 6th Tournament</title>
+		<title>2024 GTOUR MEN'S 7th Tournament</title>
 		<desc>Launched in 2012, the Golfzon GTOUR is a series of professional men's and women's screen golf tournaments in South Korea.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_golf.jpg?w=960&amp;h=540" />
 	</programme>
@@ -34695,6 +34695,126 @@
 		<title>Love With The Perfect Stranger</title>
 		<desc>After breaking up with his girlfriend, salesman Bao meets a rich girl, Jin Jin, who just broke up with her boyfriend. Two equally heartbroken strangers fall in love instantly and get married on impulse. The couple lives happily together until Jin Jin finds herself pregnant with her ex-boyfriend's baby...</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch869_love_with_the_perfect_stranger.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="993" start="20250107230000 +0000" stop="20250108000000 +0000">
+		<title>All About Health</title>
+		<desc>How well do you know your body? What should you eat to be healthy and energetic? Are health tips available online reliable? Tune in to this programme as the hosts give you all the answers!</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch828_all_about_health.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="993" start="20250108000000 +0000" stop="20250108010000 +0000">
+		<title>Shao Kang's War Room</title>
+		<desc>Shao Kang's War Room is a Talkshow hosted by Zhao Shao Kang. This programme combines TVBS News source and Mr. Zhao's rich political and media background, to analyse important news deeply.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch828_shao_kang's_war_room.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="993" start="20250108010000 +0000" stop="20250108020000 +0000">
+		<title>Queen</title>
+		<desc>From makeup, skincare, hairstyle, clothing, horoscopes, parenting, to travel, all kinds of fashion-related topics are presented in the program. Pauline Lan leads dozens of professionals and experts across categories to offer the best fashion insights and tips.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch828_queen.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="993" start="20250108020000 +0000" stop="20250108030000 +0000">
+		<title>Chop Chop Show</title>
+		<desc>The show invites younger generations to talk about relationship, career, entertainment, current affairs, and all the other popular topics that they care and complain about.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch828_chop_chop_show.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="993" start="20250108030000 +0000" stop="20250108040000 +0000">
+		<title>Super Taste: Hungry Generations</title>
+		<desc>Super Taste focuses on funny travel style to discover destinations and local-dishes. Standing on audience's view point, program's hosts introduce every sightseeing sites with close-witness, young and humorous way to announce the spirits of Super Taste.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch828_supertaste_hungry_generations.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="993" start="20250108040000 +0000" stop="20250108060000 +0000">
+		<title>Focus World News</title>
+		<desc>A news programme that provides the latest international and Taiwan news, as well as in-depth analyses of important issues around the world.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch828_focus_world_news.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="993" start="20250108060000 +0000" stop="20250108070000 +0000">
+		<title>All About Health</title>
+		<desc>How well do you know your body? What should you eat to be healthy and energetic? Are health tips available online reliable? Tune in to this programme as the hosts give you all the answers!</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch828_all_about_health.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="993" start="20250108070000 +0000" stop="20250108080000 +0000">
+		<title>Queen</title>
+		<desc>From makeup, skincare, hairstyle, clothing, horoscopes, parenting, to travel, all kinds of fashion-related topics are presented in the program. Pauline Lan leads dozens of professionals and experts across categories to offer the best fashion insights and tips.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch828_queen.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="993" start="20250108080000 +0000" stop="20250108090000 +0000">
+		<title>Global Golden Line</title>
+		<desc>It is the first professional reality car show, providing concrete evaluations of cars on the market, the deepest appreciation for classic cars, the hottest trends in the motoring world, and analysis of the latest auto tech trends.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch828_golden_global_line.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="993" start="20250108090000 +0000" stop="20250108100000 +0000">
+		<title>Super Taste: Hungry Generations</title>
+		<desc>Super Taste focuses on funny travel style to discover destinations and local-dishes. Standing on audience's view point, program's hosts introduce every sightseeing sites with close-witness, young and humorous way to announce the spirits of Super Taste.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch828_supertaste_hungry_generations.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="993" start="20250108100000 +0000" stop="20250108110000 +0000">
+		<title>Citizens' Subjects</title>
+		<desc>Citizens' Subjects utilizes the perspective of Taiwan people and Taiwan events to tell the stories of Taiwan. It takes a light-hearted, humorous approach to interpreting current affairs.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch828_citizens_subjects.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="993" start="20250108110000 +0000" stop="20250108120000 +0000">
+		<title>Global Focus</title>
+		<desc>Bringing you the latest political, economy, information technology and breaking news around the world.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch828_global_focus.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="993" start="20250108120000 +0000" stop="20250108130000 +0000">
+		<title>All About Health</title>
+		<desc>How well do you know your body? What should you eat to be healthy and energetic? Are health tips available online reliable? Tune in to this programme as the hosts give you all the answers!</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch828_all_about_health.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="993" start="20250108130000 +0000" stop="20250108140000 +0000">
+		<title>Queen</title>
+		<desc>From makeup, skincare, hairstyle, clothing, horoscopes, parenting, to travel, all kinds of fashion-related topics are presented in the program. Pauline Lan leads dozens of professionals and experts across categories to offer the best fashion insights and tips.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch828_queen.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="993" start="20250108140000 +0000" stop="20250108150000 +0000">
+		<title>Super Taste: Go Go! Two- Day Trip</title>
+		<desc>Super Taste focuses on funny travel style to discover destinations and local-dishes. Standing on audience's view point, program's hosts introduce every sightseeing sites with close-witness, young and humorous way to announce the spirits of Super Taste.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch828_super_taste_gogo!two_day_trip.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="993" start="20250108150000 +0000" stop="20250108160000 +0000">
+		<title>Chop Chop Show</title>
+		<desc>The show invites younger generations to talk about relationship, career, entertainment, current affairs, and all the other popular topics that they care and complain about.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch828_chop_chop_show.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="993" start="20250108160000 +0000" stop="20250108180000 +0000">
+		<title>Shao Kang's War Room</title>
+		<desc>Shao Kang's War Room is a Talkshow hosted by Zhao Shao Kang. This programme combines TVBS News source and Mr. Zhao's rich political and media background, to analyse important news deeply.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch828_shao_kang's_war_room.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="993" start="20250108180000 +0000" stop="20250108190000 +0000">
+		<title>Global Golden Line</title>
+		<desc>It is the first professional reality car show, providing concrete evaluations of cars on the market, the deepest appreciation for classic cars, the hottest trends in the motoring world, and analysis of the latest auto tech trends.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch828_golden_global_line.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="993" start="20250108190000 +0000" stop="20250108200000 +0000">
+		<title>Chop Chop Show</title>
+		<desc>The show invites younger generations to talk about relationship, career, entertainment, current affairs, and all the other popular topics that they care and complain about.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch828_chop_chop_show.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="993" start="20250108200000 +0000" stop="20250108210000 +0000">
+		<title>Citizens' Subjects</title>
+		<desc>Citizens' Subjects utilizes the perspective of Taiwan people and Taiwan events to tell the stories of Taiwan. It takes a light-hearted, humorous approach to interpreting current affairs.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch828_citizens_subjects.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="993" start="20250108210000 +0000" stop="20250108220000 +0000">
+		<title>Queen</title>
+		<desc>From makeup, skincare, hairstyle, clothing, horoscopes, parenting, to travel, all kinds of fashion-related topics are presented in the program. Pauline Lan leads dozens of professionals and experts across categories to offer the best fashion insights and tips.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch828_queen.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="993" start="20250108220000 +0000" stop="20250108230000 +0000">
+		<title>Global Focus</title>
+		<desc>Bringing you the latest political, economy, information technology and breaking news around the world.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch828_global_focus.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="993" start="20250108230000 +0000" stop="20250109000000 +0000">
+		<title>All About Health</title>
+		<desc>How well do you know your body? What should you eat to be healthy and energetic? Are health tips available online reliable? Tune in to this programme as the hosts give you all the answers!</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch828_all_about_health.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="993" start="20250109000000 +0000" stop="20250109010000 +0000">
+		<title>Shao Kang's War Room</title>
+		<desc>Shao Kang's War Room is a Talkshow hosted by Zhao Shao Kang. This programme combines TVBS News source and Mr. Zhao's rich political and media background, to analyse important news deeply.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch828_shao_kang's_war_room.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="994" start="20250107160000 +0000" stop="20250107170000 +0000">
 		<title>Life is A Long Quiet River - EP 26</title>
