@@ -1178,7 +1178,7 @@
 	</programme>
 	<programme channel="103" start="20250109143000 +0000" stop="20250109150000 +0000">
 		<title>Focus - EP 37</title>
-		<desc>Focus provides timely reports and analyses on international news and current affairs from Singapore's perspective.</desc>
+		<desc>Prime Minister Lawrence Wong has made frequent overseas visits since assuming leadership in May last year. How important is foreign diplomacy to Singapore? Singapore's economy is projected to expand by 1% to 3% this year. Which industries are noteworthy ? How does Singapore's Paralympics medalist Jeralyn Tan forge cross-racial bonds with her coach Yurnita Omar?</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/103_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="103" start="20250109150000 +0000" stop="20250109160000 +0000">
@@ -6492,7 +6492,7 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/136_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="136" start="20250109080000 +0000" stop="20250109110000 +0000">
-		<title>Gokulam</title>
+		<title>Gouravam</title>
 		<desc>Enjoy your day by tuning in to Vannathirai. We bring you a wide variety of Tamil movies for the whole family to watch.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/136_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
@@ -10849,6 +10849,11 @@
 	<programme channel="210" start="20250110021500 +0000" stop="20250110033000 +0000">
 		<title>MotoGP Awards 2024</title>
 		<desc>The top riders of the year will be celebrated in style at the highly anticipated annual red carpet ceremony, where a fresh new identity for the sport will also be unveiled</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch210_motogp.jpg?w=960&amp;h=540" />
+	</programme>
+	<programme channel="210" start="20250110033000 +0000" stop="20250110040000 +0000">
+		<title>MotoGP 2024 Spotlight</title>
+		<desc>Recap the action and behind-the-scenes with MotoGP riders.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_motogp.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="210" start="20250110040000 +0000" stop="20250110081500 +0000">
@@ -25766,17 +25771,12 @@
 		<desc>Live context and clarity to the day's top stories from around the world.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch711_cnn_newsroom.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="711" start="20250108210000 +0000" stop="20250108214500 +0000">
+	<programme channel="711" start="20250108210000 +0000" stop="20250108220000 +0000">
 		<title>Quest Means Business</title>
 		<desc>Richard Quest speaks to the top names in global business to bring viewers the bottom line.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch711_quest_means_business.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="711" start="20250108214500 +0000" stop="20250108220000 +0000">
-		<title>Connecting Africa</title>
-		<desc>Explore the opportunities and challenges African designers face across the continent and within the international fashion industry.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch711_connecting_africa.jpg?w=341&amp;h=192" />
-	</programme>
-	<programme channel="711" start="20250108220000 +0000" stop="20250108223000 +0000">
+	<programme channel="711" start="20250108220000 +0000" stop="20250108230000 +0000">
 		<title>The Lead</title>
 		<desc>Jake Tapper covers all the day's top stories around the country and the globe, from politics to money, sports to popular culture.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch711_the_lead_with_jake_tapper.jpg?w=960&amp;h=540" />
@@ -25936,6 +25936,11 @@
 		<desc>Laura Coates goes inside the story with a relentless pursuit of the facts.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch711_laura_coates_live.jpg?w=341&amp;h=192" />
 	</programme>
+	<programme channel="711" start="20250110050000 +0000" stop="20250110054500 +0000">
+		<title>CNN Newsroom</title>
+		<desc>Live context and clarity to the day's top stories from around the world.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch711_cnn_newsroom.jpg?w=960&amp;h=540" />
+	</programme>
 	<programme channel="711" start="20250110054500 +0000" stop="20250110060000 +0000">
 		<title>World Sport</title>
 		<desc>Daily sports show features major stories and issues making news in the world of sports.</desc>
@@ -25969,12 +25974,12 @@
 	<programme channel="711" start="20250110100000 +0000" stop="20250110110000 +0000">
 		<title>CNN This Morning</title>
 		<desc>Start your day with Kasie Hunt bringing you the latest headlines and analysis.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch711_cnn_generic.jpg?w=960&amp;h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch711_cnn_this_morning.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="711" start="20250110110000 +0000" stop="20250110120000 +0000">
 		<title>CNN This Morning</title>
 		<desc>Start your day with Kasie Hunt bringing you the latest headlines and analysis.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch711_cnn_generic.jpg?w=960&amp;h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch711_cnn_this_morning.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="711" start="20250110120000 +0000" stop="20250110123000 +0000">
 		<title>CNN News Central</title>
