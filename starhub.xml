@@ -7451,17 +7451,17 @@
 		<desc>Kuppusamy loves acting, joins a theatre troupe, falls in love with a blind lady.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=960&amp;h=540" />
 	</programme>
-	<programme channel="140" start="20250109163000 +0000" stop="20250109190000 +0000">
+	<programme channel="140" start="20250109163000 +0000" stop="20250109190500 +0000">
 		<title>Puthiya Mugham</title>
 		<desc>An engineering college student takes on the real estate mafia and liquor lobby. Release Year: 2009 Director: Diphan</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=960&amp;h=540" />
 	</programme>
-	<programme channel="140" start="20250109190000 +0000" stop="20250109220000 +0000">
+	<programme channel="140" start="20250109190500 +0000" stop="20250109223000 +0000">
 		<title>The King &amp; the Commissioner</title>
 		<desc>Two detectives dive into the mysterious death of an intelligence agent found in a river, uncovering a dangerous Pakistani plot for a terrorist attack along the way. Release Year: 2012 Director: Shaji Kailas</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=960&amp;h=540" />
 	</programme>
-	<programme channel="140" start="20250109220000 +0000" stop="20250110003000 +0000">
+	<programme channel="140" start="20250109223000 +0000" stop="20250110003000 +0000">
 		<title>Ponmagal Vanthal</title>
 		<desc>In Ponmagal Vandhal, lawyer Venba reopens a 15-year-old serial killer case in Ooty, tackling child abuse head-on while seeking justice in this gripping courtroom drama.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=960&amp;h=540" />
@@ -23432,7 +23432,7 @@
 		<icon src="https://poster.starhubgo.com/poster/ch701_verified_live.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="702" start="20250108160000 +0000" stop="20250108170000 +0000">
-		<title>The Faulkner Focus FOX News Live</title>
+		<title>The Faulkner Focus</title>
 		<desc>Harris Faulkner continues the conversation on the days news with roundtable discussions and interviews</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch241_TheFaulknerFocus.jpg?w=341&amp;h=192" />
 	</programme>
@@ -23552,7 +23552,7 @@
 		<icon src="https://poster.starhubgo.com/poster/ch241_AmericasNewsroomFOXNewsLive.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="702" start="20250109160000 +0000" stop="20250109170000 +0000">
-		<title>The Faulkner Focus FOX News Live</title>
+		<title>The Faulkner Focus</title>
 		<desc>Harris Faulkner continues the conversation on the days news with roundtable discussions and interviews</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch241_TheFaulknerFocus.jpg?w=341&amp;h=192" />
 	</programme>
@@ -23607,39 +23607,44 @@
 		<icon src="https://poster.starhubgo.com/poster/ch241_Hannity.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="702" start="20250110030000 +0000" stop="20250110040000 +0000">
-		<title>Gutfeld!</title>
-		<desc>Greg Gutfeld looks at the news of the day through a satiric lens fused with pop culture</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch241_Gutfeld.jpg?w=341&amp;h=192" />
+		<title>FOX News @ Night</title>
+		<desc>For the latest news, expert analyses and special reports from across the globe, stay tuned for more top quality news programmes right here!</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch241_FOXNewsNight.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="702" start="20250110040000 +0000" stop="20250110050000 +0000">
 		<title>FOX News @Night</title>
-		<desc>Shannon Bream gives news analysis on the most compelling stories</desc>
+		<desc>For the latest news, expert analyses and special reports from across the globe, stay tuned for more top quality news programmes right here!</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch241_FOXNewsNight.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="702" start="20250110050000 +0000" stop="20250110060000 +0000">
-		<title>The Five</title>
-		<desc>Features a roundtable ensemble of five personalities who debate current news stories</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch241_TheFive.jpg?w=341&amp;h=192" />
+	<programme channel="702" start="20250110050000 +0000" stop="20250110053000 +0000">
+		<title>FOX News @Night</title>
+		<desc>For the latest news, expert analyses and special reports from across the globe, stay tuned for more top quality news programmes right here!</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch241_FOXNewsNight.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="702" start="20250110053000 +0000" stop="20250110060000 +0000">
+		<title>Coverage of LA Fires</title>
+		<desc>For the latest news, expert analyses and special reports from across the globe, stay tuned for more top quality news programmes right here!</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch241_CoverageOfLAFires.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="702" start="20250110060000 +0000" stop="20250110070000 +0000">
-		<title>Jesse Watters Primetime</title>
-		<desc>Watters enters a whole new world!</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch241_JesseWattersPrimetime.jpg?w=341&amp;h=192" />
+		<title>Coverage of LA Fires</title>
+		<desc>For the latest news, expert analyses and special reports from across the globe, stay tuned for more top quality news programmes right here!</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch241_CoverageOfLAFires.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="702" start="20250110070000 +0000" stop="20250110080000 +0000">
-		<title>Hannity</title>
-		<desc>Sean Hannity offers a mix of commentary, interviews and branded segments of the days top stories</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch241_Hannity.jpg?w=341&amp;h=192" />
+		<title>Coverage of LA Fires</title>
+		<desc>For the latest news, expert analyses and special reports from across the globe, stay tuned for more top quality news programmes right here!</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch241_CoverageOfLAFires.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="702" start="20250110080000 +0000" stop="20250110090000 +0000">
-		<title>Gutfeld!</title>
-		<desc>Greg Gutfeld looks at the news of the day through a satiric lens fused with pop culture</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch241_Gutfeld.jpg?w=341&amp;h=192" />
+		<title>Coverage of LA Fires</title>
+		<desc>For the latest news, expert analyses and special reports from across the globe, stay tuned for more top quality news programmes right here!</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch241_CoverageOfLAFires.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="702" start="20250110090000 +0000" stop="20250110100000 +0000">
-		<title>The Ingraham Angle</title>
-		<desc>Laura Ingraham discusses the issues our counrty is in turmoil about</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch241_TheIngrahamAngle.jpg?w=341&amp;h=192" />
+		<title>FOX &amp; Friends First</title>
+		<desc>FOX &amp; Friends First delivers headlines viewers may have missed overnight, along with a preview of the day ahead by covering the latest news in politics, business and entertainment.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch241_FOXFriendsFirst.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="702" start="20250110100000 +0000" stop="20250110110000 +0000">
 		<title>FOX &amp; Friends First</title>
