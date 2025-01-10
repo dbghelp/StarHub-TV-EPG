@@ -6932,7 +6932,7 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/139_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="139" start="20250109193000 +0000" stop="20250109223000 +0000">
-		<title>Arjun Reddy (Mal-dub)</title>
+		<title>Movie</title>
 		<desc>Malayalam Feature Film</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/139_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
@@ -10696,10 +10696,15 @@
 		<desc>Recap the action and behind-the-scenes with MotoGP riders.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_motogp.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="210" start="20250110040000 +0000" stop="20250110081500 +0000">
+	<programme channel="210" start="20250110040000 +0000" stop="20250110073100 +0000">
 		<title>2025 WTT Star Contender Doha</title>
 		<desc>The world's elite singles and doubles table tennis players battle for a share of the US$2 million prize pool as well as 2000 world ranking points in Doha.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_wtt.jpg?w=960&amp;h=540" />
+	</programme>
+	<programme channel="210" start="20250110073100 +0000" stop="20250110081500 +0000">
+		<title>FIA Formula E Championship S11 Preview</title>
+		<desc>The FIA Formula E World Championship celebrates its tenth season as the pioneering all-electric motorsport world championship with 11 cities across the globe hosting a record 17-race calendar.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch210_formula_e.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="210" start="20250110081500 +0000" stop="20250110101500 +0000">
 		<title>FIA Formula E Championship:Sao Paulo E-Prix</title>
