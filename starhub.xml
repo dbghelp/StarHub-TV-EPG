@@ -10671,6 +10671,56 @@
 		<desc>The 54th season of the UEL as Europe's elite clubs compete in this premier football tournament</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch214_UEL_full_match.jpg?w=341&amp;h=192" />
 	</programme>
+	<programme channel="215" start="20250113220000 +0000" stop="20250114040000 +0000">
+		<title>End of Transmission</title>
+		<desc />
+		<icon src="https://poster.starhubgo.com/Linear_channels2/215_1920x1080_HTV.png?w=960&amp;h=540" />
+	</programme>
+	<programme channel="215" start="20250114040000 +0000" stop="20250114100000 +0000">
+		<title>End of Transmission</title>
+		<desc />
+		<icon src="https://poster.starhubgo.com/Linear_channels2/215_1920x1080_HTV.png?w=960&amp;h=540" />
+	</programme>
+	<programme channel="215" start="20250114100000 +0000" stop="20250114160000 +0000">
+		<title>End of Transmission</title>
+		<desc />
+		<icon src="https://poster.starhubgo.com/Linear_channels2/215_1920x1080_HTV.png?w=960&amp;h=540" />
+	</programme>
+	<programme channel="215" start="20250114160000 +0000" stop="20250114220000 +0000">
+		<title>End of Transmission</title>
+		<desc />
+		<icon src="https://poster.starhubgo.com/Linear_channels2/215_1920x1080_HTV.png?w=960&amp;h=540" />
+	</programme>
+	<programme channel="215" start="20250114220000 +0000" stop="20250115040000 +0000">
+		<title>End of Transmission</title>
+		<desc />
+		<icon src="https://poster.starhubgo.com/Linear_channels2/215_1920x1080_HTV.png?w=960&amp;h=540" />
+	</programme>
+	<programme channel="216" start="20250113220000 +0000" stop="20250114040000 +0000">
+		<title>End of Transmission</title>
+		<desc />
+		<icon src="https://poster.starhubgo.com/Linear_channels2/216_1920x1080_HTV.png?w=960&amp;h=540" />
+	</programme>
+	<programme channel="216" start="20250114040000 +0000" stop="20250114100000 +0000">
+		<title>End of Transmission</title>
+		<desc />
+		<icon src="https://poster.starhubgo.com/Linear_channels2/216_1920x1080_HTV.png?w=960&amp;h=540" />
+	</programme>
+	<programme channel="216" start="20250114100000 +0000" stop="20250114160000 +0000">
+		<title>End of Transmission</title>
+		<desc />
+		<icon src="https://poster.starhubgo.com/Linear_channels2/216_1920x1080_HTV.png?w=960&amp;h=540" />
+	</programme>
+	<programme channel="216" start="20250114160000 +0000" stop="20250114220000 +0000">
+		<title>End of Transmission</title>
+		<desc />
+		<icon src="https://poster.starhubgo.com/Linear_channels2/216_1920x1080_HTV.png?w=960&amp;h=540" />
+	</programme>
+	<programme channel="216" start="20250114220000 +0000" stop="20250115040000 +0000">
+		<title>End of Transmission</title>
+		<desc />
+		<icon src="https://poster.starhubgo.com/Linear_channels2/216_1920x1080_HTV.png?w=960&amp;h=540" />
+	</programme>
 	<programme channel="221" start="20250113160000 +0000" stop="20250113163000 +0000">
 		<title>CLASSIC MATCH 08/09</title>
 		<desc>We delve into the Premier League archive to bring you a Classic Match from the 2008/2009 season.</desc>
@@ -11783,7 +11833,7 @@
 	</programme>
 	<programme channel="247" start="20250113174000 +0000" stop="20250113193000 +0000">
 		<title>Champions Cup Bath v Clermont</title>
-		<desc>Watch all the action from the Investec Champions Cup, the premier competition in European rugby, with Toulouse looking to defend their title.</desc>
+		<desc>Coverage of the Investec Champions Cup as Bath Rugby play host to Clermont Auvergne at the Recreation Ground.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch207_premier_sports.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="247" start="20250113193000 +0000" stop="20250113200000 +0000">
@@ -11793,12 +11843,12 @@
 	</programme>
 	<programme channel="247" start="20250113200000 +0000" stop="20250113215000 +0000">
 		<title>Champions Cup Glasgow v Racing 92</title>
-		<desc>Watch all the action from the Investec Champions Cup, the premier competition in European rugby, with Toulouse looking to defend their title.</desc>
+		<desc>Coverage of the Investec Champions Cup as Glasgow Warriors play host to Racing 92 at Scotstoun Stadium.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch207_premier_sports.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="247" start="20250113215000 +0000" stop="20250113234000 +0000">
 		<title>Champions Cup Stormers v Sale</title>
-		<desc>Watch all the action from the Investec Champions Cup, the premier competition in European rugby, with Toulouse looking to defend their title.</desc>
+		<desc>Coverage of the Investec Champions Cup as the DHL Stormers and Sale Sharks do battle at the DHL Stadium in Cape Town.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch207_premier_sports.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="247" start="20250113234000 +0000" stop="20250114001000 +0000">
@@ -11936,44 +11986,34 @@
 		<desc>Watch all the match highlights from the latest round of the Champions Cup, the premier cup competition in european rugby.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch207_premier_sports.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="247" start="20250115001000 +0000" stop="20250115002000 +0000">
-		<title>Champions Cup Match Highlights</title>
-		<desc>Watch all the match highlights from the latest round of the Champions Cup, the premier cup competition in european rugby.</desc>
+	<programme channel="247" start="20250115001000 +0000" stop="20250115010000 +0000">
+		<title>Gallagher Premiership</title>
+		<desc>The best of the latest action from the Gallagher Premiership.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch207_premier_sports.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="247" start="20250115002000 +0000" stop="20250115003000 +0000">
-		<title>Champions Cup Match Highlights</title>
-		<desc>Watch all the match highlights from the latest round of the Champions Cup, the premier cup competition in european rugby.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch207_premier_sports.jpg?w=341&amp;h=192" />
-	</programme>
-	<programme channel="247" start="20250115003000 +0000" stop="20250115004000 +0000">
-		<title>Champions Cup Match Highlights</title>
-		<desc>Watch all the match highlights from the latest round of the Champions Cup, the premier cup competition in european rugby.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch207_premier_sports.jpg?w=341&amp;h=192" />
-	</programme>
-	<programme channel="247" start="20250115004000 +0000" stop="20250115005000 +0000">
-		<title>Champions Cup Match Highlights</title>
-		<desc>Watch all the match highlights from the latest round of the Champions Cup, the premier cup competition in european rugby.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch207_premier_sports.jpg?w=341&amp;h=192" />
-	</programme>
-	<programme channel="247" start="20250115005000 +0000" stop="20250115015000 +0000">
+	<programme channel="247" start="20250115010000 +0000" stop="20250115015500 +0000">
 		<title>5 &amp; 6 Nations Legends</title>
 		<desc>We look back at the most memorable moments, legends and tries from Europe's most prestigious international rugby competition.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch207_premier_sports.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="247" start="20250115015000 +0000" stop="20250115025000 +0000">
+	<programme channel="247" start="20250115015500 +0000" stop="20250115025500 +0000">
 		<title>Champions Cup Highlights Round 3</title>
 		<desc>Watch all the highlights from the latest round of the Investec Champions Cup, the premier cup competition in European rugby.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch207_premier_sports.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="247" start="20250115025000 +0000" stop="20250115044000 +0000">
+	<programme channel="247" start="20250115025500 +0000" stop="20250115044000 +0000">
 		<title>Champions Cup Glasgow v Racing 92</title>
-		<desc>Watch all the action from the Investec Champions Cup, the premier competition in European rugby, with Toulouse looking to defend their title.</desc>
+		<desc>Coverage of the Investec Champions Cup as Glasgow Warriors play host to Racing 92 at Scotstoun Stadium.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch207_premier_sports.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="247" start="20250115044000 +0000" stop="20250115063000 +0000">
 		<title>Champions Cup Stormers v Sale</title>
-		<desc>Watch all the action from the Investec Champions Cup, the premier competition in European rugby, with Toulouse looking to defend their title.</desc>
+		<desc>Coverage of the Investec Champions Cup as the DHL Stormers and Sale Sharks do battle at the DHL Stadium in Cape Town.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch207_premier_sports.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="247" start="20250115063000 +0000" stop="20250115082000 +0000">
+		<title>Champions Cup Sharks v Toulouse</title>
+		<desc>Coverage of the Investec Champions Cup as the Hollywoodbets Sharks host reigning champions Stade Toulousain at Kings Park Stadium.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch207_premier_sports.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="247" start="20250115082000 +0000" stop="20250115092000 +0000">
@@ -11983,57 +12023,42 @@
 	</programme>
 	<programme channel="247" start="20250115092000 +0000" stop="20250115111000 +0000">
 		<title>Champions Cup Exeter v Bordeaux</title>
-		<desc>Watch all the action from the Investec Champions Cup, the premier competition in European rugby, with Toulouse looking to defend their title.</desc>
+		<desc>Coverage of the Investec Champions Cup as Exeter Chiefs welcome France's Union Bordeaux Begles to Sandy Park.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch207_premier_sports.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="247" start="20250115111000 +0000" stop="20250115130000 +0000">
 		<title>Champions Cup Munster v Saracens</title>
-		<desc>Watch all the action from the Investec Champions Cup, the premier competition in European rugby, with Toulouse looking to defend their title.</desc>
+		<desc>Coverage of the Investec Champions Cup as Munster and Saracens go head-to-head at Thomond Park.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch207_premier_sports.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="247" start="20250115130000 +0000" stop="20250115131000 +0000">
-		<title>Champions Cup Match Highlights</title>
+		<title>Champions Cup Match Highlights Sharks v Toulouse</title>
 		<desc>Watch all the match highlights from the latest round of the Champions Cup, the premier cup competition in european rugby.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch207_premier_sports.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="247" start="20250115131000 +0000" stop="20250115132000 +0000">
-		<title>Champions Cup Match Highlights</title>
+		<title>Champions Cup Match Highlights Munster v Saracens</title>
 		<desc>Watch all the match highlights from the latest round of the Champions Cup, the premier cup competition in european rugby.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch207_premier_sports.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="247" start="20250115132000 +0000" stop="20250115133000 +0000">
-		<title>Champions Cup Match Highlights</title>
+		<title>Champions Cup Match Highlights La Rochelle v Leinster</title>
 		<desc>Watch all the match highlights from the latest round of the Champions Cup, the premier cup competition in european rugby.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch207_premier_sports.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="247" start="20250115133000 +0000" stop="20250115134000 +0000">
-		<title>Champions Cup Match Highlights</title>
+		<title>Champions Cup Match Highlights Glasgow v Racing 92</title>
 		<desc>Watch all the match highlights from the latest round of the Champions Cup, the premier cup competition in european rugby.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch207_premier_sports.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="247" start="20250115134000 +0000" stop="20250115135000 +0000">
-		<title>Champions Cup Match Highlights</title>
-		<desc>Watch all the match highlights from the latest round of the Champions Cup, the premier cup competition in european rugby.</desc>
+	<programme channel="247" start="20250115134000 +0000" stop="20250115141000 +0000">
+		<title>5 &amp; 6 Nations Classics 2007 - Ireland v France</title>
+		<desc>A look at some of the best matches in the history of rugby's Six Nations.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch207_premier_sports.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="247" start="20250115135000 +0000" stop="20250115140000 +0000">
-		<title>Champions Cup Match Highlights</title>
-		<desc>Watch all the match highlights from the latest round of the Champions Cup, the premier cup competition in european rugby.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch207_premier_sports.jpg?w=341&amp;h=192" />
-	</programme>
-	<programme channel="247" start="20250115140000 +0000" stop="20250115141000 +0000">
-		<title>Champions Cup Match Highlights</title>
-		<desc>Watch all the match highlights from the latest round of the Champions Cup, the premier cup competition in european rugby.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch207_premier_sports.jpg?w=341&amp;h=192" />
-	</programme>
-	<programme channel="247" start="20250115141000 +0000" stop="20250115142000 +0000">
-		<title>Champions Cup Match Highlights</title>
-		<desc>Watch all the match highlights from the latest round of the Champions Cup, the premier cup competition in european rugby.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch207_premier_sports.jpg?w=341&amp;h=192" />
-	</programme>
-	<programme channel="247" start="20250115142000 +0000" stop="20250115161000 +0000">
+	<programme channel="247" start="20250115141000 +0000" stop="20250115160000 +0000">
 		<title>Champions Cup Stade Francais v Northampton</title>
-		<desc>Watch all the action from the Investec Champions Cup, the premier competition in European rugby, with Toulouse looking to defend their title.</desc>
+		<desc>Coverage of the Investec Champions Cup as Stade Francais and Northampton Saints meet at the Stade Jean-Bouin.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch207_premier_sports.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="303" start="20250113160000 +0000" stop="20250113161000 +0000">
@@ -22453,7 +22478,7 @@
 	</programme>
 	<programme channel="701" start="20250113223000 +0000" stop="20250113230000 +0000">
 		<title>HARDtalk</title>
-		<desc>In-depth interviews with the world's leading politicians, opinion-formers and key figures from culture, business and sport.</desc>
+		<desc>Sarah Montague speaks to award-winning filmmaker Asif Kapadia. His latest film 2073 combines science fiction with documentary to paint a bleak picture of our possible future.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch701_hardtalk.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="701" start="20250113230000 +0000" stop="20250114000000 +0000">
@@ -25276,30 +25301,20 @@
 		<desc>Laura Coates goes inside the story with a relentless pursuit of the facts.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch711_laura_coates_live.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="711" start="20250114050000 +0000" stop="20250114054500 +0000">
+	<programme channel="711" start="20250114050000 +0000" stop="20250114060000 +0000">
 		<title>CNN Newsroom</title>
 		<desc>Live context and clarity to the day's top stories from around the world.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch711_cnn_newsroom.jpg?w=960&amp;h=540" />
-	</programme>
-	<programme channel="711" start="20250114054500 +0000" stop="20250114060000 +0000">
-		<title>World Sport</title>
-		<desc>Daily sports show features major stories and issues making news in the world of sports.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch711_world_sport.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="711" start="20250114060000 +0000" stop="20250114070000 +0000">
 		<title>CNN Newsroom</title>
 		<desc>Live context and clarity to the day's top stories from around the world.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch711_cnn_newsroom.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="711" start="20250114070000 +0000" stop="20250114074500 +0000">
+	<programme channel="711" start="20250114070000 +0000" stop="20250114080000 +0000">
 		<title>CNN Newsroom</title>
 		<desc>Live context and clarity to the day's top stories from around the world.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch711_cnn_newsroom.jpg?w=960&amp;h=540" />
-	</programme>
-	<programme channel="711" start="20250114074500 +0000" stop="20250114080000 +0000">
-		<title>World Sport</title>
-		<desc>Daily sports show features major stories and issues making news in the world of sports.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch711_world_sport.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="711" start="20250114080000 +0000" stop="20250114090000 +0000">
 		<title>CNN Newsroom</title>
@@ -25321,30 +25336,20 @@
 		<desc>Start your day with Kasie Hunt bringing you the latest headlines and analysis.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch711_cnn_this_morning.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="711" start="20250114120000 +0000" stop="20250114123000 +0000">
+	<programme channel="711" start="20250114120000 +0000" stop="20250114130000 +0000">
 		<title>CNN News Central</title>
 		<desc>Stay up to date with John Berman, Kate Bolduan and Sara Sidner from CNN's immersive news hub.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch711_cnn_news_central.jpg?w=341&amp;h=192" />
-	</programme>
-	<programme channel="711" start="20250114123000 +0000" stop="20250114130000 +0000">
-		<title>World Sport</title>
-		<desc>Daily sports show features major stories and issues making news in the world of sports.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch711_world_sport.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="711" start="20250114130000 +0000" stop="20250114140000 +0000">
 		<title>CNN Newsroom</title>
 		<desc>Live context and clarity to the day's top stories from around the world.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch711_cnn_newsroom.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="711" start="20250114140000 +0000" stop="20250114144500 +0000">
+	<programme channel="711" start="20250114140000 +0000" stop="20250114150000 +0000">
 		<title>Connect the World</title>
 		<desc>Becky Anderson explores diverse perspectives and explains global issues of the day.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch711_connect_the_world.jpg?w=341&amp;h=192" />
-	</programme>
-	<programme channel="711" start="20250114144500 +0000" stop="20250114150000 +0000">
-		<title>World Sport</title>
-		<desc>Daily sports show features major stories and issues making news in the world of sports.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch711_world_sport.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="711" start="20250114150000 +0000" stop="20250114160000 +0000">
 		<title>Connect the World</title>
