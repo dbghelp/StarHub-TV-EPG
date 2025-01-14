@@ -9516,10 +9516,15 @@
 		<desc>The Adelaide International is a professional tennis tournament played in Adelaide, South Australia at the Memorial Drive Tennis Centre. The event is part of the lead-up to the Australian Open</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch201_wta_tour.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="201" start="20250115013000 +0000" stop="20250115030000 +0000">
+	<programme channel="201" start="20250115013000 +0000" stop="20250115023000 +0000">
 		<title>Hologic WTA Tour 2025</title>
 		<desc>The Adelaide International is a professional tennis tournament played in Adelaide, South Australia at the Memorial Drive Tennis Centre. The event is part of the lead-up to the Australian Open</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch201_wta_tour.jpg?w=960&amp;h=540" />
+	</programme>
+	<programme channel="201" start="20250115023000 +0000" stop="20250115030000 +0000">
+		<title>ASO Sailing Programming 2024</title>
+		<desc>The Vendée Globe is a single-handed, non-stop, non-assisted round-the-world sailing race that takes place every 4 years. The skippers set off from Les Sables-d'Olonne in Vendée and sail around 45,000 kilometres around the globe, rounding the three legendary capes (Good Hope, Leeuwin and finally Cape Horn) before returning to Les Sables d'Olonne. The race has acquired an international reputation, attracting skippers from all over the world.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch201_aso.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="201" start="20250115030000 +0000" stop="20250115033000 +0000">
 		<title>ASO Sailing Programming 2024</title>
@@ -9536,10 +9541,15 @@
 		<desc>HSBC BWF World Tour is the eighth season of the BWF World Tour of badminton, a circuit of 31 tournaments that lead up to the World Tour Finals tournament. The tour features five levels, with different levels of prize money in each of the tournaments.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch201_bwf_world_tour.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="201" start="20250115133000 +0000" stop="20250115140000 +0000">
-		<title>DP World Tour 2025 Highlights</title>
-		<desc>Relive all the best moments from the Gary Player Country Club.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch201_dp_world_tour.jpg?w=341&amp;h=192" />
+	<programme channel="201" start="20250115133000 +0000" stop="20250115134500 +0000">
+		<title>Badminton Weekly 2025</title>
+		<desc>Badminton Weekly discusses about the standout moments from the tour, as well as insights, unforgettable matches and close shaves as players make their final push to become champion in their own right.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch201_BadmintonWeekly.jpg?w=960&amp;h=540" />
+	</programme>
+	<programme channel="201" start="20250115134500 +0000" stop="20250115140000 +0000">
+		<title>Badminton Weekly 2025</title>
+		<desc>Badminton Weekly discusses about the standout moments from the tour, as well as insights, unforgettable matches and close shaves as players make their final push to become champion in their own right.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch201_BadmintonWeekly.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="201" start="20250115140000 +0000" stop="20250115190000 +0000">
 		<title>HSBC BWF World Tour 2025</title>
@@ -9836,12 +9846,12 @@
 		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_Channels2/204_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="204" start="20250115001500 +0000" stop="20250115041500 +0000">
+	<programme channel="204" start="20250115014000 +0000" stop="20250115045000 +0000">
 		<title>KFC Big Bash League 2024/25: M25 - Brisbane Heat vs Sydney Thunder</title>
 		<desc>The 2024-25 Big Bash League season will be the fourteenth season of the Big Bash League (BBL), the professional men's Twenty20 domestic cricket competition in Australia. Eight teams will be vying over the champion spot across 44 matches.</desc>
 		<icon src="https://poster.starhubgo.com/poster/BBL202425.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="204" start="20250115041500 +0000" stop="20250115081500 +0000">
+	<programme channel="204" start="20250115045000 +0000" stop="20250115081500 +0000">
 		<title>KFC Big Bash League 2024/25: M29 - Hobart Hurricanes vs Sydney Thunder</title>
 		<desc>The 2024-25 Big Bash League season will be the fourteenth season of the Big Bash League (BBL), the professional men's Twenty20 domestic cricket competition in Australia. Eight teams will be vying over the champion spot across 44 matches.</desc>
 		<icon src="https://poster.starhubgo.com/poster/BBL202425.jpg?w=960&amp;h=540" />
@@ -17468,7 +17478,7 @@
 	</programme>
 	<programme channel="422" start="20250114063500 +0000" stop="20250114073000 +0000">
 		<title>Exploring The Unknown With Wang Yibo (S1) - EP 2</title>
-		<desc>Brave explorers step into the unknown through survival challenges and adventurous journeys.</desc>
+		<desc>At the Gangshika Snow Mountain in Qinghai, Wang Yibo challenges himself for the first time to climb a 5,000-meter peak and ski down the mountain.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch422_exploring_the_unknown_with_wang_yibo.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="422" start="20250114073000 +0000" stop="20250114082500 +0000">
@@ -17503,7 +17513,7 @@
 	</programme>
 	<programme channel="422" start="20250114130000 +0000" stop="20250114135500 +0000">
 		<title>Exploring The Unknown With Wang Yibo (S1) - EP 3</title>
-		<desc>Brave explorers step into the unknown through survival challenges and adventurous journeys.</desc>
+		<desc>Explorer Wang Hao takes artist Wang Yibo on an extreme cave exploration trip in Guilin, Guangxi.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch422_exploring_the_unknown_with_wang_yibo.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="422" start="20250114135500 +0000" stop="20250114145000 +0000">
@@ -17523,7 +17533,7 @@
 	</programme>
 	<programme channel="422" start="20250114164000 +0000" stop="20250114173500 +0000">
 		<title>Exploring The Unknown With Wang Yibo (S1) - EP 3</title>
-		<desc>Brave explorers step into the unknown through survival challenges and adventurous journeys.</desc>
+		<desc>Explorer Wang Hao takes artist Wang Yibo on an extreme cave exploration trip in Guilin, Guangxi.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch422_exploring_the_unknown_with_wang_yibo.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="422" start="20250114173500 +0000" stop="20250114183000 +0000">
