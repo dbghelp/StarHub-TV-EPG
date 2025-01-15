@@ -1018,7 +1018,7 @@
 	</programme>
 	<programme channel="102" start="20250116133000 +0000" stop="20250116143000 +0000">
 		<title>Talking Point - EP 30</title>
-		<desc>With a fresh approach to tackling the issues of the day, Talking Point investigates a current issue or event, offering different perspectives to local stories and reveals how it all affects you.</desc>
+		<desc>Our personal devices hold so much of our important data. What happens when we place them in the hands of repair technicians? Talking Point investigates and uncovers shocking results.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="102" start="20250116143000 +0000" stop="20250116153000 +0000">
@@ -9881,12 +9881,12 @@
 		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_Channels2/204_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="204" start="20250116001500 +0000" stop="20250116041500 +0000">
+	<programme channel="204" start="20250116014000 +0000" stop="20250116050500 +0000">
 		<title>KFC Big Bash League 2024/25: M26 - Perth Scorchers vs Melbourne Renegades</title>
 		<desc>The 2024-25 Big Bash League season will be the fourteenth season of the Big Bash League (BBL), the professional men's Twenty20 domestic cricket competition in Australia. Eight teams will be vying over the champion spot across 44 matches.</desc>
 		<icon src="https://poster.starhubgo.com/poster/BBL202425.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="204" start="20250116041500 +0000" stop="20250116081500 +0000">
+	<programme channel="204" start="20250116050500 +0000" stop="20250116081500 +0000">
 		<title>KFC Big Bash League 2024/25: M30 - Sydney Sixers vs Perth Scorchers</title>
 		<desc>The 2024-25 Big Bash League season will be the fourteenth season of the Big Bash League (BBL), the professional men's Twenty20 domestic cricket competition in Australia. Eight teams will be vying over the champion spot across 44 matches.</desc>
 		<icon src="https://poster.starhubgo.com/poster/BBL202425.jpg?w=960&amp;h=540" />
@@ -33006,48 +33006,58 @@
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20250116010000 +0000" stop="20250116013000 +0000">
-		<title>fashion kids</title>
+	<programme channel="832" start="20250116010000 +0000" stop="20250116020000 +0000">
+		<title>A Green Trip</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20250116013000 +0000" stop="20250116031500 +0000">
-		<title>THE CITY OF MUSICALS</title>
+	<programme channel="832" start="20250116020000 +0000" stop="20250116030000 +0000">
+		<title>Cheer up!small shops</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20250116031500 +0000" stop="20250116040000 +0000">
-		<title>Channel Young Food</title>
+	<programme channel="832" start="20250116030000 +0000" stop="20250116033000 +0000">
+		<title>New Entertainment</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20250116040000 +0000" stop="20250116050000 +0000">
-		<title>Dragon TV News Midday</title>
+	<programme channel="832" start="20250116033000 +0000" stop="20250116040000 +0000">
+		<title>CARE ON THE WAY</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20250116050000 +0000" stop="20250116062500 +0000">
-		<title>futuer china</title>
+	<programme channel="832" start="20250116040000 +0000" stop="20250116043000 +0000">
+		<title>MIDDAY NEWS</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20250116062500 +0000" stop="20250116065400 +0000">
-		<title>fashion kids</title>
+	<programme channel="832" start="20250116043000 +0000" stop="20250116060000 +0000">
+		<title>Future China</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20250116065400 +0000" stop="20250116083500 +0000">
-		<title>THE CITY OF MUSICALS</title>
+	<programme channel="832" start="20250116060000 +0000" stop="20250116063000 +0000">
+		<title>Searching for flavor</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20250116083500 +0000" stop="20250116092000 +0000">
-		<title>Channel Young Food</title>
+	<programme channel="832" start="20250116063000 +0000" stop="20250116070000 +0000">
+		<title>I LOVE SHANGHAI</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20250116092000 +0000" stop="20250116100000 +0000">
-		<title>Health preserving by famous doctors</title>
+	<programme channel="832" start="20250116070000 +0000" stop="20250116090000 +0000">
+		<title>Cheer up!small shops</title>
+		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="832" start="20250116090000 +0000" stop="20250116093500 +0000">
+		<title>New Entertainment</title>
+		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="832" start="20250116093500 +0000" stop="20250116100000 +0000">
+		<title>CARE ON THE WAY</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
@@ -33056,18 +33066,38 @@
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20250116110000 +0000" stop="20250116142500 +0000">
-		<title>THE CITY OF MUSICALS</title>
+	<programme channel="832" start="20250116110000 +0000" stop="20250116114000 +0000">
+		<title>Searching for flavor</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20250116142500 +0000" stop="20250116152000 +0000">
-		<title>futuer china</title>
+	<programme channel="832" start="20250116114000 +0000" stop="20250116120000 +0000">
+		<title>I LOVE SHANGHAI</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20250116152000 +0000" stop="20250116170000 +0000">
-		<title>THE CITY OF MUSICALS</title>
+	<programme channel="832" start="20250116120000 +0000" stop="20250116140000 +0000">
+		<title>A Green Trip</title>
+		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="832" start="20250116140000 +0000" stop="20250116150000 +0000">
+		<title>Future China</title>
+		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="832" start="20250116150000 +0000" stop="20250116153000 +0000">
+		<title>New Entertainment</title>
+		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="832" start="20250116153000 +0000" stop="20250116155500 +0000">
+		<title>CARE ON THE WAY</title>
+		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="832" start="20250116155500 +0000" stop="20250116170000 +0000">
+		<title>Cheer up!small shops</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
