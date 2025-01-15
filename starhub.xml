@@ -10306,17 +10306,17 @@
 		<desc>The world's elite singles and doubles table tennis players battle for a share of the US$2 million prize pool as well as 2000 world ranking points in Doha.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_wtt.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="210" start="20250116030000 +0000" stop="20250116033000 +0000">
+	<programme channel="210" start="20250116030000 +0000" stop="20250116033200 +0000">
 		<title>CYCA Sydney Hobart Yacht Race</title>
 		<desc>The Rolex Sydney Hobart Yacht Race is one of the most challenging offshore classics in years, has become an Australian iconic sporting event.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_spotv2_logo.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="210" start="20250116033000 +0000" stop="20250116054000 +0000">
+	<programme channel="210" start="20250116033200 +0000" stop="20250116053500 +0000">
 		<title>2025 LOVB Inaugural Season Week 1 Austin Vs Madison</title>
 		<desc>Dive into the electrifying action of the 2025 inaugural season of the League of Volleyball (LOVB) featuring top talent from around the globe, this ground-breaking league that showcases the best of professional volleyball.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_spotv2_logo.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="210" start="20250116054000 +0000" stop="20250116080000 +0000">
+	<programme channel="210" start="20250116053500 +0000" stop="20250116080000 +0000">
 		<title>2025 WTT Star Contender Doha</title>
 		<desc>The world's elite singles and doubles table tennis players battle for a share of the US$2 million prize pool as well as 2000 world ranking points in Doha.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_wtt.jpg?w=960&amp;h=540" />
@@ -25400,6 +25400,16 @@
 		<title>Quest Means Business</title>
 		<desc>Richard Quest speaks to the top names in global business to bring viewers the bottom line.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch711_quest_means_business.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="711" start="20250114220000 +0000" stop="20250114230000 +0000">
+		<title>Amanpour</title>
+		<desc>Christiane Amanpour provides her powerful interview skills and provocative analysis on global stories that matter to you.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch711_amanpour.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="711" start="20250114230000 +0000" stop="20250114234500 +0000">
+		<title>First Move</title>
+		<desc>Julia Chatterley explains the latest on global markets and the biggest stories shaping the economic landscape.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch711_first_move_with_julia_chatterley.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="711" start="20250114234500 +0000" stop="20250115000000 +0000">
 		<title>World Sport</title>
