@@ -29461,6 +29461,11 @@
 		<desc>Japan boasts a wide variety of fresh produce and quality food. Find out how and where it's all made. Plus: master chefs reveal their special recipes!</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
+	<programme channel="811" start="20250117024800 +0000" stop="20250117025000 +0000">
+		<title>Mini Program</title>
+		<desc />
+		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
 	<programme channel="811" start="20250117025000 +0000" stop="20250117025600 +0000">
 		<title>Songs for Everyone</title>
 		<desc>A song program where children can sing along by reading the lyrics on the screen.</desc>
@@ -29471,9 +29476,9 @@
 		<desc>Weather information of the different areas around the world.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="811" start="20250117032000 +0000" stop="20250117033000 +0000">
-		<title>Welcome to Special Zoo Tour 10min. (R)</title>
-		<desc>A video collection of heartwarming and rarely seen moments captured by zoo staff.</desc>
+	<programme channel="811" start="20250117030000 +0000" stop="20250117033000 +0000">
+		<title>News</title>
+		<desc>The latest up-to-date news from Tokyo.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="811" start="20250117033000 +0000" stop="20250117034500 +0000">
@@ -29484,6 +29489,11 @@
 	<programme channel="811" start="20250117034500 +0000" stop="20250117040000 +0000">
 		<title>Drama Serial "Omusubi" Eps. 75 (R)</title>
 		<desc>A Heisei youth graffiti drama, in which the heroine Yoneda Yui (Hashimoto Kanna), born in the first year of the Heisei era, connects people's hearts to the future as a nutritionist. Always cherishing her individuality, she sometimes struggles, but powerfully and joyfully pushes through the turbulent Heisei and Reiwa eras.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="811" start="20250117040000 +0000" stop="20250117040500 +0000">
+		<title>News</title>
+		<desc>The latest up-to-date news from Tokyo.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="811" start="20250117040500 +0000" stop="20250117055000 +0000">
@@ -29582,13 +29592,18 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="811" start="20250117130000 +0000" stop="20250117135500 +0000">
-		<title>NHK Special</title>
+		<title>NHK Special "30 years after the Great Hanshin-Awaji Earthquake: What Was Done to</title>
 		<desc>A documentary based on timely subjects famous for its dignity and in-depth reporting.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="811" start="20250117135500 +0000" stop="20250117142500 +0000">
 		<title>Document 72 Hours</title>
 		<desc>This is an unusual program series that explores human dramas through chance encounters with ordinary people at selected locations.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="811" start="20250117142500 +0000" stop="20250117143000 +0000">
+		<title>Bijutune!</title>
+		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="811" start="20250117143000 +0000" stop="20250117144000 +0000">
@@ -29614,6 +29629,11 @@
 	<programme channel="811" start="20250117153000 +0000" stop="20250117161300 +0000">
 		<title>Samurai Drama Selections "The Way of Commerce: Gold and Silver" Eps. 2 (R)</title>
 		<desc>After losing her father and brother at a young age, Sachi (Koshiba Fuka) left home to work as a servant at Isuzuya, a kimono retailer in Osaka, where she discovered her talent for business and began pursuing commerce―a path long closed to women. Overcoming many challenges, she rose to become the female proprietor, drawing on her curiosity, wisdom, and the support of those around her.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="811" start="20250117161300 +0000" stop="20250117161500 +0000">
+		<title>Mini Program</title>
+		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="811" start="20250117161500 +0000" stop="20250117164000 +0000">
@@ -29746,8 +29766,13 @@
 		<desc>A documentary based on timely subjects famous for its dignity and in-depth reporting.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="811" start="20250118023000 +0000" stop="20250118025000 +0000">
-		<title>TBA</title>
+	<programme channel="811" start="20250118023000 +0000" stop="20250118024000 +0000">
+		<title>Trails to Oishii Tokyo Mini (B)</title>
+		<desc />
+		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="811" start="20250118024000 +0000" stop="20250118025000 +0000">
+		<title>Giant Trees in Japan Mini</title>
 		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
@@ -29791,14 +29816,14 @@
 		<desc>Tsutaju comes up with the idea of bringing visitors back to Yoshiwara by publishing "Yoshiwara Saiken", a guidebook for the district. He goes to consult with Urokogataya Magobei (Kataoka Ainosuke) to have Hiraga Gennai (Yasuda Ken), a famous figure in Edo, write the preface. Urokogataya promises to publish the book if Tsutaju can persuade Gennai, so Tsutaju rushes around looking for him.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="811" start="20250118045000 +0000" stop="20250118054400 +0000">
-		<title>NHK Special (R)</title>
+	<programme channel="811" start="20250118045000 +0000" stop="20250118054500 +0000">
+		<title>NHK Special "30 years after the Great Hanshin-Awaji Earthquake: What Was Done to</title>
 		<desc>A documentary based on timely subjects famous for its dignity and in-depth reporting.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="811" start="20250118054400 +0000" stop="20250118061100 +0000">
-		<title>Core Kyoto (B) (R)</title>
-		<desc>The timeless heart of Japan's ancient capital. Against its rich backdrop of culture and tradition, today's Kyoto continues to innovate and inspire.</desc>
+	<programme channel="811" start="20250118054500 +0000" stop="20250118061100 +0000">
+		<title>NHK Regional Showcases: Sanin Special (R)</title>
+		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="811" start="20250118061100 +0000" stop="20250118070000 +0000">
@@ -29857,7 +29882,7 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="811" start="20250118130000 +0000" stop="20250118135000 +0000">
-		<title>NHK Special</title>
+		<title>NHK Special "The University of Tokyo at a Crossroads"</title>
 		<desc>A documentary based on timely subjects famous for its dignity and in-depth reporting.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
@@ -29876,19 +29901,14 @@
 		<desc>A close-up look at cities worldwide, as seen by a walking tourist. Viewers visit places off the beaten path, meet ordinary people, and enjoy a travel experience that only possible on foot.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="811" start="20250118150000 +0000" stop="20250118152500 +0000">
-		<title>NHK Regional Showcases: Sanin Special (R)</title>
-		<desc />
+	<programme channel="811" start="20250118150000 +0000" stop="20250118153000 +0000">
+		<title>A Tale of a Certain House (R)</title>
+		<desc>Featuring distinguished programs ranging from entertainment shows to documentaries.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="811" start="20250118152500 +0000" stop="20250118153000 +0000">
-		<title>Mini Program</title>
-		<desc />
-		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="811" start="20250118153000 +0000" stop="20250118161500 +0000">
-		<title>The Professionals "Kuriyama Hideki" (R)</title>
-		<desc>A documentary series that focuses on first-class professionals from various fields in Japan.</desc>
+	<programme channel="811" start="20250118153000 +0000" stop="20250118162400 +0000">
+		<title>NHK Special "30 years after the Great Hanshin-Awaji Earthquake: What Was Done to</title>
+		<desc>A documentary based on timely subjects famous for its dignity and in-depth reporting.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250116160000 +0000" stop="20250116161500 +0000">
