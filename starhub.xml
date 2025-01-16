@@ -4012,8 +4012,8 @@
 		<icon src="https://poster.starhubgo.com/poster/ch125_hamara_parivar.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="125" start="20250116100000 +0000" stop="20250116103000 +0000">
-		<title>Zee Mini Series - EP 3</title>
-		<desc>ZEE is launching its new 'ZEE Mini Series' strand, featuring exciting shows that promise to entertain and engage viewers with fresh, captivating stories. Don't miss out!</desc>
+		<title>Zee Mini Series - Paithani - EP 3</title>
+		<desc>Zee TV Mini Series delivers gripping short-format shows across drama, romance, and thrillers, packed with compelling stories and engaging characters.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/125_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="125" start="20250116103000 +0000" stop="20250116110000 +0000">
@@ -4062,8 +4062,8 @@
 		<icon src="https://poster.starhubgo.com/poster/ch125_bhabhiji_ghar_par_hai.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="125" start="20250116150000 +0000" stop="20250116153000 +0000">
-		<title>Zee Mini Series - EP 3</title>
-		<desc>ZEE is launching its new 'ZEE Mini Series' strand, featuring exciting shows that promise to entertain and engage viewers with fresh, captivating stories. Don't miss out!</desc>
+		<title>Zee Mini Series - Paithani - EP 3</title>
+		<desc>Zee TV Mini Series delivers gripping short-format shows across drama, romance, and thrillers, packed with compelling stories and engaging characters.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/125_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="125" start="20250116153000 +0000" stop="20250116160000 +0000">
@@ -30808,7 +30808,7 @@
 	</programme>
 	<programme channel="815" start="20250116074000 +0000" stop="20250116080000 +0000">
 		<title>KBS WORLD News Today</title>
-		<desc>KBS World Daily English News _x000D_Anchor : Choi Kyu-yeon</desc>
+		<desc>KBS World Daily English News Anchor : Choi Kyu-yeon</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch815_kbsworld_news_today.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="815" start="20250116080000 +0000" stop="20250116091000 +0000">
@@ -33086,18 +33086,28 @@
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20250116180000 +0000" stop="20250116190200 +0000">
-		<title>futuer china</title>
+	<programme channel="832" start="20250116180000 +0000" stop="20250116200000 +0000">
+		<title>Dream Home</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20250116190200 +0000" stop="20250116221500 +0000">
-		<title>THE CITY OF MUSICALS</title>
+	<programme channel="832" start="20250116200000 +0000" stop="20250116210000 +0000">
+		<title>Ai Romance</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20250116221500 +0000" stop="20250116230000 +0000">
-		<title>Channel Young Food</title>
+	<programme channel="832" start="20250116210000 +0000" stop="20250116220000 +0000">
+		<title>A Green Trip</title>
+		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="832" start="20250116220000 +0000" stop="20250116223000 +0000">
+		<title>New Entertainment</title>
+		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="832" start="20250116223000 +0000" stop="20250116230000 +0000">
+		<title>CARE ON THE WAY</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
