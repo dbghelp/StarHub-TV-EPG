@@ -3193,17 +3193,17 @@
 	</programme>
 	<programme channel="118" start="20250116130000 +0000" stop="20250116130500 +0000">
 		<title>Berita Sangat Serius - EP 629</title>
-		<desc>Alana Sofea mencabar keegoan Zaim Azfar sehingga mereka berkahwin. Puas dapat menyahut cabaran Alana, Zaim kembali menjalin hubungan dengan bekas kekasihnya, Amira Irdina.</desc>
+		<desc>Ingin tahu tentang berita dan isu semasa yang viral dan hangat diperkatakan oleh netizen? Saksikan Berita Sangat Serius yang pasti membuat anda tertawa sambil mendapat info berguna.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/118_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="118" start="20250116130500 +0000" stop="20250116140000 +0000">
 		<title>Romeo Returns - EP 3</title>
-		<desc>Episod ini memperkenalkan tetamu istimewa yang menyamar sebagai kru produksi. Kehadiran tetamu misteri ini menambah elemen kejutan dan ketegangan, memaksa peserta untuk lebih berhati-hati dan waspada.</desc>
+		<desc>Saksikan jejaka idaman Malaya bersatu dalam sebuah program realiti yang bakal mencabar mereka dengan pelbagai aktiviti yang menguji keupayaan fizikal dan mental jejaka terhangat di pasaran ini.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/118_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="118" start="20250116140000 +0000" stop="20250116143000 +0000">
 		<title>Hantu Hari Ini - EP 11</title>
-		<desc>Rancangan bual bicara yang unik di mana entiti menjadi tumpuan utama! Mengkaji mitos dan memecahkan stigma sosial tentang alam ghaib sambil memberi anda gambaran tentang dunia mereka.</desc>
+		<desc>Hantu Hari Ini sebuah rancangan variety comedy yang pasti menghiburkan anda sekeluarga</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/118_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="118" start="20250116143000 +0000" stop="20250116150000 +0000">
@@ -4217,8 +4217,8 @@
 		<icon src="https://poster.starhubgo.com/poster/ch125_hamara_parivar.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="125" start="20250117100000 +0000" stop="20250117103000 +0000">
-		<title>Zee Mini Series - EP 4</title>
-		<desc>ZEE is launching its new 'ZEE Mini Series' strand, featuring exciting shows that promise to entertain and engage viewers with fresh, captivating stories. Don't miss out!</desc>
+		<title>Zee Mini Series - Paithani - EP 4</title>
+		<desc>Zee TV Mini Series delivers gripping short-format shows across drama, romance, and thrillers, packed with compelling stories and engaging characters.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/125_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="125" start="20250117103000 +0000" stop="20250117110000 +0000">
@@ -4267,8 +4267,8 @@
 		<icon src="https://poster.starhubgo.com/poster/ch125_bhabhiji_ghar_par_hai.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="125" start="20250117150000 +0000" stop="20250117153000 +0000">
-		<title>Zee Mini Series - EP 4</title>
-		<desc>ZEE is launching its new 'ZEE Mini Series' strand, featuring exciting shows that promise to entertain and engage viewers with fresh, captivating stories. Don't miss out!</desc>
+		<title>Zee Mini Series - Paithani - EP 4</title>
+		<desc>Zee TV Mini Series delivers gripping short-format shows across drama, romance, and thrillers, packed with compelling stories and engaging characters.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/125_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="125" start="20250117153000 +0000" stop="20250117160000 +0000">
@@ -29351,11 +29351,6 @@
 		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="811" start="20250115190500 +0000" stop="20250115193200 +0000">
-		<title>Today's Close-up (R)</title>
-		<desc>The program flexibly probes into a wide range of topics from the NHK’s unique point of view.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
 	<programme channel="811" start="20250115193200 +0000" stop="20250115193500 +0000">
 		<title>World Weather</title>
 		<desc>Weather information of the different areas around the world.</desc>
@@ -29426,9 +29421,14 @@
 		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="811" start="20250116022000 +0000" stop="20250116025000 +0000">
-		<title>Treasured Videos from NHK Archives (R)</title>
-		<desc>NHK unseals and provides treasured video archives back to back.  They are unique but full of "natural" human life scene pictures.  Enjoy the heritage video clips with laughter and tears!</desc>
+	<programme channel="811" start="20250116022000 +0000" stop="20250116024800 +0000">
+		<title>Asia Insight (B) (R)</title>
+		<desc>An in-depth portrait of Asia today, covering its dynamism as a center of growth as well as its traditions tossed around by the advance of globalization.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="811" start="20250116024800 +0000" stop="20250116025000 +0000">
+		<title>Mini Program</title>
+		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="811" start="20250116025000 +0000" stop="20250116025600 +0000">
@@ -29577,13 +29577,23 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="811" start="20250116134500 +0000" stop="20250116140000 +0000">
+		<title>Night Drama Serial "Stewing-A Journey to Taste Warmth" Niigata Edition Eps. 3</title>
+		<desc>An original drama where you can relax and feel cozy while discovering the ‘present’ of the community. Yuki Hiroto (Furukawa Yuta), a slightly eccentric department store buyer, travels around Japan to discover ‘tasty’ delights, and meets people with stories. Amid beautiful scenery, the soups Hiroto makes slowly warm the hearts of those he meets.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="811" start="20250116140000 +0000" stop="20250116141500 +0000">
 		<title>Night Drama Serial "Stewing-A Journey to Taste Warmth" Niigata Edition Eps. 4（Fi</title>
 		<desc>An original drama where you can relax and feel cozy while discovering the ‘present’ of the community. Yuki Hiroto (Furukawa Yuta), a slightly eccentric department store buyer, travels around Japan to discover ‘tasty’ delights, and meets people with stories. Amid beautiful scenery, the soups Hiroto makes slowly warm the hearts of those he meets.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="811" start="20250116140000 +0000" stop="20250116143000 +0000">
-		<title>Tokoro-san's Pursuit of Truth (R)</title>
-		<desc>An informational program that reveals Japan as it is by following incidents posted on local media such as local newspapers and business presses.</desc>
+	<programme channel="811" start="20250116141500 +0000" stop="20250116142000 +0000">
+		<title>Mini Program</title>
+		<desc />
+		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="811" start="20250116142000 +0000" stop="20250116143000 +0000">
+		<title>Points at Issue</title>
+		<desc>Specialists from different fields will make commentaries on current event issues.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="811" start="20250116143000 +0000" stop="20250116144000 +0000">
@@ -29746,11 +29756,6 @@
 		<desc>Japan boasts a wide variety of fresh produce and quality food. Find out how and where it's all made. Plus: master chefs reveal their special recipes!</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="811" start="20250117024800 +0000" stop="20250117025000 +0000">
-		<title>Mini Program</title>
-		<desc />
-		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
 	<programme channel="811" start="20250117025000 +0000" stop="20250117025600 +0000">
 		<title>Songs for Everyone</title>
 		<desc>A song program where children can sing along by reading the lyrics on the screen.</desc>
@@ -29759,11 +29764,6 @@
 	<programme channel="811" start="20250117025600 +0000" stop="20250117030000 +0000">
 		<title>World Weather</title>
 		<desc>Weather information of the different areas around the world.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="811" start="20250117030000 +0000" stop="20250117032000 +0000">
-		<title>News</title>
-		<desc>The latest up-to-date news from Tokyo.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="811" start="20250117032000 +0000" stop="20250117033000 +0000">
@@ -29779,11 +29779,6 @@
 	<programme channel="811" start="20250117034500 +0000" stop="20250117040000 +0000">
 		<title>Drama Serial "Omusubi" Eps. 75 (R)</title>
 		<desc>A Heisei youth graffiti drama, in which the heroine Yoneda Yui (Hashimoto Kanna), born in the first year of the Heisei era, connects people's hearts to the future as a nutritionist. Always cherishing her individuality, she sometimes struggles, but powerfully and joyfully pushes through the turbulent Heisei and Reiwa eras.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="811" start="20250117040000 +0000" stop="20250117040500 +0000">
-		<title>News</title>
-		<desc>The latest up-to-date news from Tokyo.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="811" start="20250117040500 +0000" stop="20250117055000 +0000">
@@ -29889,11 +29884,6 @@
 	<programme channel="811" start="20250117135500 +0000" stop="20250117142500 +0000">
 		<title>Document 72 Hours</title>
 		<desc>This is an unusual program series that explores human dramas through chance encounters with ordinary people at selected locations.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="811" start="20250117142500 +0000" stop="20250117143000 +0000">
-		<title>Mini Program</title>
-		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="811" start="20250117143000 +0000" stop="20250117144000 +0000">
@@ -30968,7 +30958,7 @@
 	</programme>
 	<programme channel="815" start="20250117074000 +0000" stop="20250117080000 +0000">
 		<title>KBS WORLD News Today</title>
-		<desc>KBS World Daily English News _x000D_Anchor : Choi Kyu-yeon</desc>
+		<desc>KBS World Daily English News Anchor : Choi Kyu-yeon</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch815_kbsworld_news_today.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="815" start="20250117080000 +0000" stop="20250117080500 +0000">
@@ -33116,48 +33106,53 @@
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20250117010000 +0000" stop="20250117013000 +0000">
-		<title>fashion kids</title>
+	<programme channel="832" start="20250117010000 +0000" stop="20250117020000 +0000">
+		<title>A Green Trip</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20250117013000 +0000" stop="20250117031500 +0000">
-		<title>documentary</title>
+	<programme channel="832" start="20250117020000 +0000" stop="20250117033000 +0000">
+		<title>go fighting</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20250117031500 +0000" stop="20250117040000 +0000">
-		<title>Channel Young Food</title>
+	<programme channel="832" start="20250117033000 +0000" stop="20250117040000 +0000">
+		<title>CARE ON THE WAY</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20250117040000 +0000" stop="20250117050000 +0000">
-		<title>Dragon TV News Midday</title>
+	<programme channel="832" start="20250117040000 +0000" stop="20250117043000 +0000">
+		<title>MIDDAY NEWS</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20250117050000 +0000" stop="20250117062500 +0000">
-		<title>futuer china</title>
+	<programme channel="832" start="20250117043000 +0000" stop="20250117060000 +0000">
+		<title>Future China</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20250117062500 +0000" stop="20250117065400 +0000">
-		<title>fashion kids</title>
+	<programme channel="832" start="20250117060000 +0000" stop="20250117070000 +0000">
+		<title>My Legacy and I</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20250117065400 +0000" stop="20250117083500 +0000">
-		<title>documentary</title>
+	<programme channel="832" start="20250117070000 +0000" stop="20250117084500 +0000">
+		<title>go fighting</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20250117083500 +0000" stop="20250117092000 +0000">
-		<title>Channel Young Food</title>
+	<programme channel="832" start="20250117084500 +0000" stop="20250117090000 +0000">
+		<title>Next Station</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20250117092000 +0000" stop="20250117100000 +0000">
-		<title>Health preserving by famous doctors</title>
+	<programme channel="832" start="20250117090000 +0000" stop="20250117093500 +0000">
+		<title>New Entertainment</title>
+		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="832" start="20250117093500 +0000" stop="20250117100000 +0000">
+		<title>CARE ON THE WAY</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
@@ -33166,18 +33161,33 @@
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20250117110000 +0000" stop="20250117142500 +0000">
-		<title>documentary</title>
+	<programme channel="832" start="20250117110000 +0000" stop="20250117120000 +0000">
+		<title>My Legacy and I</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20250117142500 +0000" stop="20250117152000 +0000">
-		<title>futuer china</title>
+	<programme channel="832" start="20250117120000 +0000" stop="20250117130000 +0000">
+		<title>A Green Trip</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20250117152000 +0000" stop="20250117170000 +0000">
-		<title>documentary</title>
+	<programme channel="832" start="20250117130000 +0000" stop="20250117143000 +0000">
+		<title>Future China</title>
+		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="832" start="20250117143000 +0000" stop="20250117150000 +0000">
+		<title>New Entertainment</title>
+		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="832" start="20250117150000 +0000" stop="20250117153000 +0000">
+		<title>CARE ON THE WAY</title>
+		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="832" start="20250117153000 +0000" stop="20250117170000 +0000">
+		<title>go fighting</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
