@@ -19608,12 +19608,12 @@
 	</programme>
 	<programme channel="447" start="20250116220000 +0000" stop="20250117010000 +0000">
 		<title>ABC News Mornings (2025) - EP 13</title>
-		<desc>When big stories break, turn to Ruby Cornish in the morning to bring you what's happening and why it matters. ABC News has more reporters in more places, serving and connecting communities and telling your stories.</desc>
+		<desc>When big stories break, turn to Melissa Mackay in the morning to bring you what's happening and why it matters. ABC News has more reporters in more places, serving and connecting communities and telling your stories.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="447" start="20250117010000 +0000" stop="20250117020000 +0000">
 		<title>ABC News At Noon (2025) - EP 13</title>
-		<desc>The leading news at lunchtime. Ros Childs brings you the day's top stories and the latest news as it unfolds, with reporters in the community across Australia and around the world reporting on the issues that matter to you.</desc>
+		<desc>The leading news at lunchtime. Lorna Dunkley brings you today's top stories and the latest news as it unfolds, with reporters in the community across Australia and around the world reporting on the issues that matter to you.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="447" start="20250117020000 +0000" stop="20250117030000 +0000">
@@ -19643,7 +19643,7 @@
 	</programme>
 	<programme channel="447" start="20250117050000 +0000" stop="20250117070000 +0000">
 		<title>ABC News Summer (2025) - EP 13</title>
-		<desc>Joe O'Brien presents the latest from ABC News, following today's top stories and coverage of events as they unfold. Plus original reporting, analysis and updated news, sport and weather you need across the summer holidays.</desc>
+		<desc>Meredith Sheehan presents the latest from ABC News, following today's top stories and coverage of events as they unfold. Plus original reporting, analysis and updated news, sport and weather you need across the summer.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="447" start="20250117070000 +0000" stop="20250117080000 +0000">
@@ -19653,7 +19653,7 @@
 	</programme>
 	<programme channel="447" start="20250117080000 +0000" stop="20250117083000 +0000">
 		<title>ABC National News (2025) - EP 17</title>
-		<desc>Wherever you are and whenever you need us, ABC News is here to bring you round the clock coverage of the latest news and the day's stories. Plus reporters investigating issues that matter to you. Presented by Joe O'Brien.</desc>
+		<desc>There's never been a more important time for transparency and trust. ABC News brings you the day's top stories and latest news with more reporters to tell you what's going on and why it matters. Presented by Meredith Sheehan.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="447" start="20250117083000 +0000" stop="20250117092500 +0000">
@@ -19661,9 +19661,14 @@
 		<desc>Ernie traverses the blue waters and tidal passages to Sunday Island, Aaron experiences the magic and culture of the Atherton Tablelands and Rae hears the history of Hobart from a palawa perspective.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="447" start="20250117092500 +0000" stop="20250117100000 +0000">
+	<programme channel="447" start="20250117092500 +0000" stop="20250117095500 +0000">
 		<title>First Weapons S1 - EP 5</title>
 		<desc>Weapon maker Dave mangenner Gough shows host Phil Breslin how to craft and use the Allener. He then joins our experts to unpack the intricate scientific principles behind this extraordinary spear.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="447" start="20250117095500 +0000" stop="20250117100000 +0000">
+		<title>This Place (2019) - EP 1</title>
+		<desc>Warrenyeep, also called Mt Warrenheep, means "emu feathers". A long time ago, it was covered in ferns, which looked like emu feathers from a distance to the Wathaurung people. It is near Ballaarat, in Wadawurrung country.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="447" start="20250117100000 +0000" stop="20250117103000 +0000">
@@ -19676,9 +19681,14 @@
 		<desc>The terror attacks of 9/11 change the world and cement Pine Gap's role in wars on the other side of the world. In the final episode, we hear just how far Pine Gap's reach is today and uncover the secrets of its stolen land.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="447" start="20250117110000 +0000" stop="20250117120000 +0000">
+	<programme channel="447" start="20250117110000 +0000" stop="20250117114500 +0000">
 		<title>Planet America: Fireside Chat (2025) - EP 1</title>
-		<desc>Chas and John return to cover Trump's sentencing, inauguration preparations, Greenland and the Panama Canal, California wildfires, Biden's farewell plus Ukraine, the Middle East, Elon, Meta and farewell Jimmy Carter.</desc>
+		<desc>Chas and John return to cover the latest on Senate confirmation hearings, Jack Smith's report, preparations for the inauguration, Canada, Greenland and the Panama Canal, LA fires, Gaza, Ukraine, Elon, TikTok and Meta.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="447" start="20250117114500 +0000" stop="20250117120000 +0000">
+		<title>Rural Flavours (2022) - EP 5</title>
+		<desc>Fancy a pate made from an eagle-ray's liver or blue caviar from scampi? Up to two-thirds of a fish are usually thrown away. A Brisbane providore is on a mission to get chefs to use different seafood, and 'unloved fish'.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="447" start="20250117120000 +0000" stop="20250117130000 +0000">
@@ -19686,14 +19696,19 @@
 		<desc>Costa visits a harmonious garden; Millie investigates soil safety; Josh fortifies his summer supply; Tammy marvels at wondrous Haworthia; Clarence explores shoreline rejuvenation; and we meet a resilient plant shop owner.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="447" start="20250117130000 +0000" stop="20250117133000 +0000">
+	<programme channel="447" start="20250117130000 +0000" stop="20250117131500 +0000">
 		<title>ABC Late News (2025) - EP 13</title>
-		<desc>Know the latest on the day's top stories, as Jade Barker brings you a comprehensive roundup of the news of the day. ABC News has reporters across Australia and around the globe reporting on the issues that matter to you.</desc>
+		<desc>Follow the story with the latest on today's news, explaining what's happening and why it matters. ABC News has reporters across Australia and around the globe covering what you need to know. Presented by Jade Barker in Perth.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="447" start="20250117131500 +0000" stop="20250117133000 +0000">
+		<title>Aussie Mavericks S1 - EP 2</title>
+		<desc>From sheep breeder to shearer, grain trader to truck driver. She was raised to be a wife and mother. Instead, this woman has set up more businesses and tackled more jobs than many people do in a lifetime.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="447" start="20250117133000 +0000" stop="20250117140000 +0000">
 		<title>Asia News Week (2025) - EP 1</title>
-		<desc>Yvonne Yong brings you a weekly roundup of the stories making news across the Asia region, plus what's trending on social media and making an impact on the culture and the way people live. (Return)</desc>
+		<desc>Join Yvonne Yong for the latest news from Asia. This week: South Korea's impeached president is arrested after a weeks-long standoff, plus Chinese social media app RedNote goes viral as the US faces a TikTok ban. (Return)</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="447" start="20250117140000 +0000" stop="20250117143000 +0000">
@@ -19702,8 +19717,8 @@
 		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="447" start="20250117143000 +0000" stop="20250117150000 +0000">
-		<title>TBA</title>
-		<desc>ABC Australia delivers a mix of programmes including news and current affairs, sports, comedies, drama, documentaries, education and award-winning children's programmes.</desc>
+		<title>Spies In The Outback (2024) - EP 5</title>
+		<desc>The terror attacks of 9/11 change the world and cement Pine Gap's role in wars on the other side of the world. In the final episode, we hear just how far Pine Gap's reach is today and uncover the secrets of its stolen land.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="447" start="20250117150000 +0000" stop="20250117155000 +0000">
@@ -19711,9 +19726,14 @@
 		<desc>Ernie traverses the blue waters and tidal passages to Sunday Island, Aaron experiences the magic and culture of the Atherton Tablelands and Rae hears the history of Hobart from a palawa perspective.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="447" start="20250117155000 +0000" stop="20250117163000 +0000">
+	<programme channel="447" start="20250117155000 +0000" stop="20250117162000 +0000">
 		<title>First Weapons S1 - EP 5</title>
 		<desc>Weapon maker Dave mangenner Gough shows host Phil Breslin how to craft and use the Allener. He then joins our experts to unpack the intricate scientific principles behind this extraordinary spear.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="447" start="20250117162000 +0000" stop="20250117163000 +0000">
+		<title>Beyond Awesome S1 - EP 6</title>
+		<desc>PNG's Mobility Maestro: After losing her leg at age 11, Almah Kuambu became fascinated by how artificial limbs were made. Today, she and her team are determined to reach everyone in need and dispel stigma along the way.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="447" start="20250117163000 +0000" stop="20250117164500 +0000">
@@ -19723,12 +19743,12 @@
 	</programme>
 	<programme channel="447" start="20250117164500 +0000" stop="20250117173000 +0000">
 		<title>Planet America: Fireside Chat (2025) - EP 1</title>
-		<desc>Chas and John return to cover Trump's sentencing, inauguration preparations, Greenland and the Panama Canal, California wildfires, Biden's farewell plus Ukraine, the Middle East, Elon, Meta and farewell Jimmy Carter.</desc>
+		<desc>Chas and John return to cover the latest on Senate confirmation hearings, Jack Smith's report, preparations for the inauguration, Canada, Greenland and the Panama Canal, LA fires, Gaza, Ukraine, Elon, TikTok and Meta.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="447" start="20250117173000 +0000" stop="20250117180000 +0000">
 		<title>Asia News Week (2025) - EP 1</title>
-		<desc>Yvonne Yong brings you a weekly roundup of the stories making news across the Asia region, plus what's trending on social media and making an impact on the culture and the way people live. (Return)</desc>
+		<desc>Join Yvonne Yong for the latest news from Asia. This week: South Korea's impeached president is arrested after a weeks-long standoff, plus Chinese social media app RedNote goes viral as the US faces a TikTok ban. (Return)</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="447" start="20250117180000 +0000" stop="20250117183000 +0000">
