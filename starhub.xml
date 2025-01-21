@@ -1603,7 +1603,7 @@
 	</programme>
 	<programme channel="104" start="20250122123000 +0000" stop="20250122130000 +0000">
 		<title>Detik Semasa - EP 19</title>
-		<desc>The program analyses and dissect issues of concern to the Malay/Muslim Singaporeans - be it at the community level, national, regional or global. Apart from raising awareness, each DETIK episode hopes to set viewers thinking and make informed decisions on matters that can impact their lives.</desc>
+		<desc>While the number of schools in Singapore offering International Baccalaureate (IB) diploma exams remain constant, the number of students taking IB continue to rise from almost 1,900 students in 2023 to more than 2,400 students last year. They also continue to attain excellent results over the years. For the November sitting last year, the average score for Singapore students were 38.4 out of 45, higher than the global average of 29.2. As it is equivalent to the A levels, focus will be given to s</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/104_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="104" start="20250122130000 +0000" stop="20250122133000 +0000">
@@ -2032,8 +2032,8 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="106" start="20250122110000 +0000" stop="20250122120000 +0000">
-		<title>Young And Rural In China - EP 2</title>
-		<desc>From reinventing the cafe scene, to opening up luxury retreats, and rejuvenating heritage crafts. More Chinese youth are returning to the countryside and injecting much-needed vibrancy into rural economies.</desc>
+		<title>Talking Point - EP 30</title>
+		<desc>Our personal devices hold so much of our important data. What happens when we place them in the hands of repair technicians? Talking Point investigates and uncovers shocking results.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="106" start="20250122120000 +0000" stop="20250122130000 +0000">
@@ -6512,7 +6512,7 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/136_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="136" start="20250122050000 +0000" stop="20250122080000 +0000">
-		<title>Guru Sishyan</title>
+		<title>Mega Matinee</title>
 		<desc>Enjoy your day by tuning in to Vannathirai. We bring you a wide variety of Tamil movies for the whole family to watch.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/136_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
@@ -9988,7 +9988,7 @@
 	</programme>
 	<programme channel="159" start="20250122010000 +0000" stop="20250122013000 +0000">
 		<title>Fillers</title>
-		<desc>Fillers</desc>
+		<desc>KTV HD presents you round-the-clock Kollywood movies, from the latest blockbusters to classics of the yesteryear!</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch159_ktv_hd_logo.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="159" start="20250122013000 +0000" stop="20250122043000 +0000">
@@ -9997,8 +9997,8 @@
 		<icon src="https://poster.starhubgo.com/poster/ch159_ktv_hd_logo.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="159" start="20250122043000 +0000" stop="20250122073000 +0000">
-		<title>Movie - Thai mel Aanai (New)</title>
-		<desc>Raja, a young man, is determined to avenge the death of his mother and sister. But, his friend, a law abiding police officer, does not want Raja to take law into his own hands.</desc>
+		<title>Movie - Thai Mel Aanai (New)</title>
+		<desc>Raja, a young man, is determined to avenge the death of his mother and sister. But his friend, a law-abiding police officer, does not want Raja to take the law into his own hands.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch159_ktv_hd_logo.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="159" start="20250122073000 +0000" stop="20250122103000 +0000">
@@ -10202,7 +10202,7 @@
 		<icon src="https://poster.starhubgo.com/poster/ch202_total_combat_2024.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="202" start="20250121163000 +0000" stop="20250121193000 +0000">
-		<title>NFL 2024/25 NFC Wild Card: Minnesota/Detroit vs Los Angeles Rams</title>
+		<title>NFL 2024/25 NFC Wild Card: Minnesota Vikings vs Los Angeles Rams</title>
 		<desc>The National Football League (NFL), the highest professional level of American football in the world, consists of 32 teams, divided equally between the American Football Conference (AFC) and the National Football Conference (NFC).</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch202_nfl_2024_25.jpg?w=960&amp;h=540" />
 	</programme>
@@ -10391,17 +10391,22 @@
 		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_Channels2/204_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="204" start="20250122040000 +0000" stop="20250122081500 +0000">
+	<programme channel="204" start="20250122012500 +0000" stop="20250122043500 +0000">
+		<title>KFC Big Bash League 2024/25: M30 - Sydney Sixers vs Perth Scorchers</title>
+		<desc>The 2024-25 Big Bash League season will be the fourteenth season of the Big Bash League (BBL), the professional men's Twenty20 domestic cricket competition in Australia. Eight teams will be vying over the champion spot across 44 matches.</desc>
+		<icon src="https://poster.starhubgo.com/poster/BBL202425.jpg?w=960&amp;h=540" />
+	</programme>
+	<programme channel="204" start="20250122043500 +0000" stop="20250122081500 +0000">
 		<title>KFC Big Bash League 2024/25: M31 - Adelaide Strikers vs Brisbane Heat</title>
 		<desc>The 2024-25 Big Bash League season will be the fourteenth season of the Big Bash League (BBL), the professional men's Twenty20 domestic cricket competition in Australia. Eight teams will be vying over the champion spot across 44 matches.</desc>
 		<icon src="https://poster.starhubgo.com/poster/BBL202425.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="204" start="20250122081500 +0000" stop="20250122121500 +0000">
+	<programme channel="204" start="20250122081500 +0000" stop="20250122123000 +0000">
 		<title>KFC Big Bash League 2024/25: M42 - Knockout - Sydney Thunder vs Melbourne Stars</title>
 		<desc>The 2024-25 Big Bash League season will be the fourteenth season of the Big Bash League (BBL), the professional men's Twenty20 domestic cricket competition in Australia. Eight teams will be vying over the champion spot across 44 matches.</desc>
 		<icon src="https://poster.starhubgo.com/poster/BBL202425.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="204" start="20250122121500 +0000" stop="20250122132000 +0000">
+	<programme channel="204" start="20250122123000 +0000" stop="20250122132000 +0000">
 		<title>Pakistan Tour of Australia 2024: 1st T20I</title>
 		<desc>Pakistan Tour of Australia 2024: 1st T20I</desc>
 		<icon src="https://poster.starhubgo.com/poster/CA_GENERIC.jpg?w=341&amp;h=192" />
@@ -10409,7 +10414,7 @@
 	<programme channel="204" start="20250122132000 +0000" stop="20250122173000 +0000">
 		<title>England Tour of India 2025: 1st T20I</title>
 		<desc>England Tour of India 2025: 1st T20I</desc>
-		<icon src="https://poster.starhubgo.com/poster/ENGvIND2025_GENERIC.jpg?w=960&amp;h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ENGvIND2025_T20I.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="205" start="20250120160000 +0000" stop="20250120220000 +0000">
 		<title>End of Transmission</title>
@@ -34827,7 +34832,7 @@
 		<icon src="https://poster.starhubgo.com/poster/ch202_total_combat_2024.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="995" start="20250121163000 +0000" stop="20250121193000 +0000">
-		<title>NFL 2024/25 NFC Wild Card: Minnesota/Detroit vs Los Angeles Rams</title>
+		<title>NFL 2024/25 NFC Wild Card: Minnesota Vikings vs Los Angeles Rams</title>
 		<desc>The National Football League (NFL), the highest professional level of American football in the world, consists of 32 teams, divided equally between the American Football Conference (AFC) and the National Football Conference (NFC).</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch202_nfl_2024_25.jpg?w=960&amp;h=540" />
 	</programme>
