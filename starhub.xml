@@ -7411,6 +7411,11 @@
 		<desc>Ajayan cares for sick mother and shocked by boy claiming son. Release Year: 2011 Director: Sathyan Anthikad</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=960&amp;h=540" />
 	</programme>
+	<programme channel="140" start="20250122212000 +0000" stop="20250122233000 +0000">
+		<title>Pipinchuvattile Pranayam</title>
+		<desc>Govutty and Teena, two young individuals in an island town, navigate the challenges of life and love, finding support in each other along the way. Release Year: 2017 Director: Domin D'Silva</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=960&amp;h=540" />
+	</programme>
 	<programme channel="140" start="20250122233000 +0000" stop="20250123013000 +0000">
 		<title>Hareendran oru Nishkalankan</title>
 		<desc>After his mom passes away, the protagonist heads back home from the US to honor her last wish. He quickly discovers that black magic and sorcery are all too real. Release Year: 2007 Director: Vinayan</desc>
@@ -10736,12 +10741,12 @@
 		<desc>Dive into the electrifying action of the 2025 inaugural season of the League of Volleyball (LOVB) featuring top talent from around the globe, this ground-breaking league that showcases the best of professional volleyball.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_spotv2_logo.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="210" start="20250123183000 +0000" stop="20250123200000 +0000">
+	<programme channel="210" start="20250123183000 +0000" stop="20250123200500 +0000">
 		<title>SailGP S5: New Zealand Auckland Grand Prix</title>
 		<desc>Adrenaline-fueled races, legendary global locations, rival national teams and record-breaking speeds. SailGP is the most exciting racing on water - Powered By Nature.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_spotv2_logo.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="210" start="20250123200000 +0000" stop="20250123215000 +0000">
+	<programme channel="210" start="20250123200500 +0000" stop="20250123215000 +0000">
 		<title>2024 GTOUR Mixed Cup 4th Tournament Meritz Securities</title>
 		<desc>Launched in 2012, the Golfzon GTOUR is a series of professional men's and women's screen golf tournaments in South Korea.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_golf.jpg?w=960&amp;h=540" />
@@ -10907,7 +10912,7 @@
 		<icon src="https://poster.starhubgo.com/poster/ch213_uefa_champions_league_live.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="213" start="20250122195500 +0000" stop="20250122220000 +0000">
-		<title>UEFA Champions League 2024/25: Arsenal vs Dinamo Zagreb - MD7 (Live)</title>
+		<title>Arsenal vs Dinamo Zagreb - MD7 (Live)</title>
 		<desc>The most prestigious tournament in the world contested by top-division elite European clubs</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch213_uefa_champions_league_live.jpg?w=960&amp;h=540" />
 	</programme>
@@ -11112,7 +11117,7 @@
 		<icon src="https://poster.starhubgo.com/poster/ch214_UCL_live_match.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="214" start="20250122195500 +0000" stop="20250122220000 +0000">
-		<title>UEFA Champions League 2024/25 PSG vs Man City - MD7 (Live)</title>
+		<title>PSG vs Man City - MD7 (Live)</title>
 		<desc>The most prestigious tournament in the world contested by top-division elite European clubs</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch214_UCL_live_match.jpg?w=960&amp;h=540" />
 	</programme>
@@ -22778,12 +22783,12 @@
 	</programme>
 	<programme channel="701" start="20250122200000 +0000" stop="20250122203000 +0000">
 		<title>The Context</title>
-		<desc>Presented by Christian Fraser. A regular panel of guests from across the political spectrum discuss the biggest international stories of the day.</desc>
+		<desc>Special coverage from Washington DC as President Trump begins his second term in office.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch701_the_context.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="701" start="20250122203000 +0000" stop="20250122210000 +0000">
 		<title>The Context</title>
-		<desc>Presented by Christian Fraser. A regular panel of guests from across the political spectrum discuss the biggest international stories of the day.</desc>
+		<desc>Special coverage from Washington DC as President Trump begins his second term in office.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch701_the_context.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="701" start="20250122210000 +0000" stop="20250122213000 +0000">
@@ -22803,7 +22808,7 @@
 	</programme>
 	<programme channel="701" start="20250122223000 +0000" stop="20250122230000 +0000">
 		<title>HARDtalk</title>
-		<desc>In-depth interviews with the world's leading politicians, opinion-formers and key figures from culture, business and sport.</desc>
+		<desc>Stephen Sackur speaks to former Israeli prime minister Ehud Olmert. He is a fierce critic of current prime minister Benjamin Netanyahu, but is his simply a voice in the political wilderness?</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch701_hardtalk.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="701" start="20250122230000 +0000" stop="20250123000000 +0000">
@@ -23088,7 +23093,7 @@
 	</programme>
 	<programme channel="701" start="20250124003000 +0000" stop="20250124010000 +0000">
 		<title>HARDtalk</title>
-		<desc>In-depth interviews with the world's leading politicians, opinion-formers and key figures from culture, business and sport.</desc>
+		<desc>Stephen Sackur speaks to Mouaz Moustafa, founder of the US-based Syrian Emergency Task Force. Will Syrians get justice for the dark past and freedom for a better future?</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch701_hardtalk.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="701" start="20250124010000 +0000" stop="20250124013000 +0000">
@@ -23208,7 +23213,7 @@
 	</programme>
 	<programme channel="701" start="20250124103000 +0000" stop="20250124110000 +0000">
 		<title>HARDtalk</title>
-		<desc>In-depth interviews with the world's leading politicians, opinion-formers and key figures from culture, business and sport.</desc>
+		<desc>Stephen Sackur speaks to Mouaz Moustafa, founder of the US-based Syrian Emergency Task Force. Will Syrians get justice for the dark past and freedom for a better future?</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch701_hardtalk.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="701" start="20250124110000 +0000" stop="20250124113000 +0000">
