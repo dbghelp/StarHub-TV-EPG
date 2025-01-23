@@ -1887,8 +1887,8 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="106" start="20250123080000 +0000" stop="20250123090000 +0000">
-		<title>Rewilding Sharks - EP 2</title>
-		<desc>As Myra's release nears, Nesha finds an advocate for her rewilding project: a local girl, Mesly. With the community's support, they try to safeguard the ocean, ensuring Myra's safe return to the wild.</desc>
+		<title>Rewilding Sharks - EP 1</title>
+		<desc>Myra, a baby leopard shark has only seven months to grow strong before she can be released. A global team rallies around her, making sure she has everything she needs to succeed. Will she make it?</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="106" start="20250123090000 +0000" stop="20250123090200 +0000">
@@ -10376,20 +10376,30 @@
 		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_Channels2/204_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="204" start="20250124040000 +0000" stop="20250124080000 +0000">
+	<programme channel="204" start="20250124012000 +0000" stop="20250124043500 +0000">
+		<title>KFC Big Bash League 2024/25: M34 - Hobart Hurricanes vs Melbourne Renegades</title>
+		<desc>The 2024-25 Big Bash League season will be the fourteenth season of the Big Bash League (BBL), the professional men's Twenty20 domestic cricket competition in Australia. Eight teams will be vying over the champion spot across 44 matches.</desc>
+		<icon src="https://poster.starhubgo.com/poster/BBL202425.jpg?w=960&amp;h=540" />
+	</programme>
+	<programme channel="204" start="20250124043500 +0000" stop="20250124080000 +0000">
 		<title>KFC Big Bash League 2024/25: M42 - Knockout - Sydney Thunder vs Melbourne Stars</title>
 		<desc>The 2024-25 Big Bash League season will be the fourteenth season of the Big Bash League (BBL), the professional men's Twenty20 domestic cricket competition in Australia. Eight teams will be vying over the champion spot across 44 matches.</desc>
 		<icon src="https://poster.starhubgo.com/poster/BBL202425.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="204" start="20250124080000 +0000" stop="20250124121500 +0000">
-		<title>KFC Big Bash League 2024/25: M43 - Challenger</title>
+		<title>KFC Big Bash League 2024/25: M43 - Challenger - Sydney Sixers vs Sydney Thunder</title>
 		<desc>The 2024-25 Big Bash League season will be the fourteenth season of the Big Bash League (BBL), the professional men's Twenty20 domestic cricket competition in Australia. Eight teams will be vying over the champion spot across 44 matches.</desc>
 		<icon src="https://poster.starhubgo.com/poster/BBL202425.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="204" start="20250124121500 +0000" stop="20250124161500 +0000">
+	<programme channel="204" start="20250124121500 +0000" stop="20250124155000 +0000">
 		<title>England Tour of India 2025: 1st T20I</title>
 		<desc>England Tour of India 2025: 1st T20I</desc>
 		<icon src="https://poster.starhubgo.com/poster/ENGvIND2025_GENERIC.jpg?w=960&amp;h=540" />
+	</programme>
+	<programme channel="204" start="20250124155000 +0000" stop="20250124161500 +0000">
+		<title>End of Transmission</title>
+		<desc />
+		<icon src="https://poster.starhubgo.com/Linear_Channels2/204_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="205" start="20250122160000 +0000" stop="20250122220000 +0000">
 		<title>End of Transmission</title>
@@ -10756,12 +10766,12 @@
 		<desc>Dive into the electrifying action of the 2025 inaugural season of the League of Volleyball (LOVB) featuring top talent from around the globe, this ground-breaking league that showcases the best of professional volleyball.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_spotv2_logo.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="210" start="20250124033000 +0000" stop="20250124050000 +0000">
+	<programme channel="210" start="20250124033000 +0000" stop="20250124050500 +0000">
 		<title>SailGP S5: New Zealand Auckland Grand Prix</title>
 		<desc>Adrenaline-fueled races, legendary global locations, rival national teams and record-breaking speeds. SailGP is the most exciting racing on water - Powered By Nature.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_spotv2_logo.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="210" start="20250124050000 +0000" stop="20250124060000 +0000">
+	<programme channel="210" start="20250124050500 +0000" stop="20250124060000 +0000">
 		<title>2024 SLS Championship Tour - SCWC Sao Paulo (BRA) Women's</title>
 		<desc>From the streets to the league, the SLS features professional street skateboarders competing for the largest monetary prize in the history of skateboarding</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_spotv2_logo.jpg?w=341&amp;h=192" />
@@ -10801,7 +10811,7 @@
 		<desc>Dive into the electrifying action of the 2025 inaugural season of the League of Volleyball (LOVB) featuring top talent from around the globe, this ground-breaking league that showcases the best of professional volleyball.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_spotv2_logo.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="210" start="20250124153000 +0000" stop="20250124170000 +0000">
+	<programme channel="210" start="20250124153000 +0000" stop="20250124170500 +0000">
 		<title>SailGP S5: New Zealand Auckland Grand Prix</title>
 		<desc>Adrenaline-fueled races, legendary global locations, rival national teams and record-breaking speeds. SailGP is the most exciting racing on water - Powered By Nature.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_spotv2_logo.jpg?w=341&amp;h=192" />
@@ -30918,7 +30928,7 @@
 	</programme>
 	<programme channel="815" start="20250123074000 +0000" stop="20250123080000 +0000">
 		<title>KBS WORLD News Today</title>
-		<desc>KBS World Daily English News Anchor : Choi Kyu-yeon</desc>
+		<desc>Bringing you KBS World daily English news, anchored by Choi Kyu-yeon.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch815_kbsworld_news_today.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="815" start="20250123080000 +0000" stop="20250123090000 +0000">
