@@ -10581,10 +10581,15 @@
 		<desc>From the streets to the league, the SLS features professional street skateboarders competing for the largest monetary prize in the history of skateboarding</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_spotv2_logo.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="210" start="20250124130000 +0000" stop="20250124153000 +0000">
+	<programme channel="210" start="20250124130000 +0000" stop="20250124145600 +0000">
 		<title>2025 LOVB Inaugural Season Week 3 Salt Lake vs Houston</title>
 		<desc>Dive into the electrifying action of the 2025 inaugural season of the League of Volleyball (LOVB) featuring top talent from around the globe, this ground-breaking league that showcases the best of professional volleyball.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_spotv2_logo.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="210" start="20250124145600 +0000" stop="20250124153000 +0000">
+		<title>FIA Formula E Championship S11 Preview</title>
+		<desc>The FIA Formula E World Championship celebrates its tenth season as the pioneering all-electric motorsport world championship with 11 cities across the globe hosting a record 17-race calendar.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch210_formula_e.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="210" start="20250124153000 +0000" stop="20250124170500 +0000">
 		<title>SailGP S5: New Zealand Auckland Grand Prix</title>
@@ -10611,9 +10616,14 @@
 		<desc>Launched in 2012, the Golfzon GTOUR is a series of professional men's and women's screen golf tournaments in South Korea.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_golf.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="210" start="20250124220000 +0000" stop="20250125003000 +0000">
+	<programme channel="210" start="20250124220000 +0000" stop="20250125000000 +0000">
 		<title>2025 LOVB Inaugural Season Week 3 Salt Lake vs Houston</title>
 		<desc>Dive into the electrifying action of the 2025 inaugural season of the League of Volleyball (LOVB) featuring top talent from around the globe, this ground-breaking league that showcases the best of professional volleyball.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch210_spotv2_logo.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="210" start="20250125000000 +0000" stop="20250125003000 +0000">
+		<title>2024 SuperTri Highlights</title>
+		<desc>The 2024 SuperTri League season was characterized by intense rivalries and strategic races showcasing the athletes' adaptability and resilience in a competitive environment.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_spotv2_logo.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="210" start="20250125003000 +0000" stop="20250125010000 +0000">
@@ -33346,15 +33356,15 @@
 		<desc>Hung Shu-Kan owns a logistics business. The only thing on his mind is the well-being of his three daughters. His eldest daughter has moved abroad, but his second youngest daughter, Yuek-Shui, is still single. She and her little sister Sum-Yue often squabble, putting their father in a dilemma.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch838_lo_and_behold.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="838" start="20250124014500 +0000" stop="20250124020000 +0000">
+	<programme channel="838" start="20250124014500 +0000" stop="20250124021500 +0000">
 		<title>Hands Up</title>
 		<desc>This children's programme encourages children to ask questions, express themselves, and move towards their goals!</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch838_handsup.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="838" start="20250124020000 +0000" stop="20250124023000 +0000">
-		<title>2025 Feng Shui and Fortune</title>
-		<desc>Heading towards the Year of the Snake, this show provides feng shui advice on having a prosperous 2025.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch838_tvb_logo.jpg?w=960&amp;h=540" />
+	<programme channel="838" start="20250124021500 +0000" stop="20250124023000 +0000">
+		<title>JSG Billboard 2025</title>
+		<desc>Count down to the top 20 songs on JSG Billboard every episode!</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch838_jsg_billboard.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="838" start="20250124023000 +0000" stop="20250124030000 +0000">
 		<title>Fukuoka Unlock</title>
@@ -33371,17 +33381,12 @@
 		<desc>This programme goes hot on the heels of the biggest happenings in society and the entertainment scene, bringing you the latest scoops.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch838_scoop_2025.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="838" start="20250124043000 +0000" stop="20250124050000 +0000">
+	<programme channel="838" start="20250124043000 +0000" stop="20250124045500 +0000">
 		<title>Cantoxicating! (Sr. 3)</title>
 		<desc>Travel around markets, old shops, restaurants and other places to discover the origins of interesting Cantonese idioms, and learn about local culture and customs.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch838_cantoxicating_sr3.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="838" start="20250124050000 +0000" stop="20250124050500 +0000">
-		<title>Global View</title>
-		<desc>Bringing you the news from Hong Kong, the mainland and around the world every day.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch838_global_view.jpg?w=341&amp;h=192" />
-	</programme>
-	<programme channel="838" start="20250124050500 +0000" stop="20250124052000 +0000">
+	<programme channel="838" start="20250124045500 +0000" stop="20250124052000 +0000">
 		<title>Hands Up</title>
 		<desc>This children's programme encourages children to ask questions, express themselves, and move towards their goals!</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch838_handsup.jpg?w=341&amp;h=192" />
@@ -33404,7 +33409,7 @@
 	<programme channel="838" start="20250124073000 +0000" stop="20250124080000 +0000">
 		<title>2025 Feng Shui and Fortune</title>
 		<desc>Heading towards the Year of the Snake, this show provides feng shui advice on having a prosperous 2025.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch838_tvb_logo.jpg?w=960&amp;h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch838_2025_feng_shui_and_fortune.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="838" start="20250124080000 +0000" stop="20250124083000 +0000">
 		<title>All-You-Can-Learn In Japan</title>
@@ -33459,7 +33464,7 @@
 	<programme channel="838" start="20250124143000 +0000" stop="20250124150500 +0000">
 		<title>2025 Feng Shui and Fortune</title>
 		<desc>Heading towards the Year of the Snake, this show provides feng shui advice on having a prosperous 2025.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch838_tvb_logo.jpg?w=960&amp;h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch838_2025_feng_shui_and_fortune.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="838" start="20250124150500 +0000" stop="20250124151500 +0000">
 		<title>EXTRA</title>
@@ -35091,15 +35096,15 @@
 		<desc>Hung Shu-Kan owns a logistics business. The only thing on his mind is the well-being of his three daughters. His eldest daughter has moved abroad, but his second youngest daughter, Yuek-Shui, is still single. She and her little sister Sum-Yue often squabble, putting their father in a dilemma.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch838_lo_and_behold.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="996" start="20250124014500 +0000" stop="20250124020000 +0000">
+	<programme channel="996" start="20250124014500 +0000" stop="20250124021500 +0000">
 		<title>Hands Up</title>
 		<desc>This children's programme encourages children to ask questions, express themselves, and move towards their goals!</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch838_handsup.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="996" start="20250124020000 +0000" stop="20250124023000 +0000">
-		<title>2025 Feng Shui and Fortune</title>
-		<desc>Heading towards the Year of the Snake, this show provides feng shui advice on having a prosperous 2025.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch838_tvb_logo.jpg?w=960&amp;h=540" />
+	<programme channel="996" start="20250124021500 +0000" stop="20250124023000 +0000">
+		<title>JSG Billboard 2025</title>
+		<desc>Count down to the top 20 songs on JSG Billboard every episode!</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch838_jsg_billboard.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="996" start="20250124023000 +0000" stop="20250124030000 +0000">
 		<title>Fukuoka Unlock</title>
@@ -35116,17 +35121,12 @@
 		<desc>This programme goes hot on the heels of the biggest happenings in society and the entertainment scene, bringing you the latest scoops.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch838_scoop_2025.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="996" start="20250124043000 +0000" stop="20250124050000 +0000">
+	<programme channel="996" start="20250124043000 +0000" stop="20250124045500 +0000">
 		<title>Cantoxicating! (Sr. 3)</title>
 		<desc>Travel around markets, old shops, restaurants and other places to discover the origins of interesting Cantonese idioms, and learn about local culture and customs.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch838_cantoxicating_sr3.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="996" start="20250124050000 +0000" stop="20250124050500 +0000">
-		<title>Global View</title>
-		<desc>Bringing you the news from Hong Kong, the mainland and around the world every day.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch838_global_view.jpg?w=341&amp;h=192" />
-	</programme>
-	<programme channel="996" start="20250124050500 +0000" stop="20250124052000 +0000">
+	<programme channel="996" start="20250124045500 +0000" stop="20250124052000 +0000">
 		<title>Hands Up</title>
 		<desc>This children's programme encourages children to ask questions, express themselves, and move towards their goals!</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch838_handsup.jpg?w=341&amp;h=192" />
@@ -35149,7 +35149,7 @@
 	<programme channel="996" start="20250124073000 +0000" stop="20250124080000 +0000">
 		<title>2025 Feng Shui and Fortune</title>
 		<desc>Heading towards the Year of the Snake, this show provides feng shui advice on having a prosperous 2025.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch838_tvb_logo.jpg?w=960&amp;h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch838_2025_feng_shui_and_fortune.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="996" start="20250124080000 +0000" stop="20250124083000 +0000">
 		<title>All-You-Can-Learn In Japan</title>
@@ -35204,7 +35204,7 @@
 	<programme channel="996" start="20250124143000 +0000" stop="20250124150500 +0000">
 		<title>2025 Feng Shui and Fortune</title>
 		<desc>Heading towards the Year of the Snake, this show provides feng shui advice on having a prosperous 2025.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch838_tvb_logo.jpg?w=960&amp;h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch838_2025_feng_shui_and_fortune.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="996" start="20250124150500 +0000" stop="20250124151500 +0000">
 		<title>EXTRA</title>
