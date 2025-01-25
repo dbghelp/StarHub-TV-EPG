@@ -516,12 +516,7 @@
 		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_channels2/101_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="101" start="20250126160000 +0000" stop="20250126160300 +0000">
-		<title>Preview Channel</title>
-		<desc />
-		<icon src="https://poster.starhubgo.com/Linear_channels2/101_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="101" start="20250126160300 +0000" stop="20250126220000 +0000">
+	<programme channel="101" start="20250126160000 +0000" stop="20250126220000 +0000">
 		<title>Preview Channel</title>
 		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_channels2/101_1920x1080_HTV.png?w=341&amp;h=192" />
@@ -536,7 +531,7 @@
 		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_channels2/101_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="101" start="20250127100000 +0000" stop="20250127160300 +0000">
+	<programme channel="101" start="20250127100000 +0000" stop="20250127160000 +0000">
 		<title>Preview Channel</title>
 		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_channels2/101_1920x1080_HTV.png?w=341&amp;h=192" />
@@ -22513,7 +22508,7 @@
 	</programme>
 	<programme channel="701" start="20250126113000 +0000" stop="20250126120000 +0000">
 		<title>The President's Path</title>
-		<desc>Join Caitríona Perry and Sumi Somaskanda for a dynamic weekly discussion on the US presidency.</desc>
+		<desc>Sumi Somaskanda, Caitríona Perry and Courtney Subramanian tell you everything you need to know about President Trump's executive orders.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch701_BBC_news.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="701" start="20250126120000 +0000" stop="20250126123000 +0000">
