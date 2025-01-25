@@ -7211,12 +7211,7 @@
 		<desc>Executive Class is an award-winning luxury lifestyle and travel programme hosted by veteran broadcast journalist David Celdran.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/143_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="143" start="20250125140000 +0000" stop="20250125143000 +0000">
-		<title>24x24</title>
-		<desc>This programme chronicles the 24-hour life cycle of real women, capturing their habits, hobbies, hacks, personal styles, daily challenges, little victories, intimate relationships and professional networks - all presented in a 24-minute timeline.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/143_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="143" start="20250125143000 +0000" stop="20250125150000 +0000">
+	<programme channel="143" start="20250125140000 +0000" stop="20250125150000 +0000">
 		<title>24x24</title>
 		<desc>This programme chronicles the 24-hour life cycle of real women, capturing their habits, hobbies, hacks, personal styles, daily challenges, little victories, intimate relationships and professional networks - all presented in a 24-minute timeline.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/143_1920x1080_HTV.png?w=341&amp;h=192" />
@@ -7246,12 +7241,7 @@
 		<desc>At The Moment is ANC's next-generation lifestyle digital and TV show on the current trends across news, food and pop culture.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/143_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="143" start="20250125180000 +0000" stop="20250125183000 +0000">
-		<title>24x24</title>
-		<desc>This programme chronicles the 24-hour life cycle of real women, capturing their habits, hobbies, hacks, personal styles, daily challenges, little victories, intimate relationships and professional networks - all presented in a 24-minute timeline.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/143_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="143" start="20250125183000 +0000" stop="20250125190000 +0000">
+	<programme channel="143" start="20250125180000 +0000" stop="20250125190000 +0000">
 		<title>24x24</title>
 		<desc>This programme chronicles the 24-hour life cycle of real women, capturing their habits, hobbies, hacks, personal styles, daily challenges, little victories, intimate relationships and professional networks - all presented in a 24-minute timeline.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/143_1920x1080_HTV.png?w=341&amp;h=192" />
@@ -9266,24 +9256,49 @@
 		<desc>Selva,Sivaranjini</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/159_1920x1080_HTV.png?w=960&amp;h=540" />
 	</programme>
-	<programme channel="159" start="20250125040000 +0000" stop="20250125100000 +0000">
-		<title>Information Not Available</title>
-		<desc />
+	<programme channel="159" start="20250125010000 +0000" stop="20250125013000 +0000">
+		<title>Fillers</title>
+		<desc>KTV HD presents you round-the-clock Kollywood movies, from the latest blockbusters to classics of the yesteryear!</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/159_1920x1080_HTV.png?w=960&amp;h=540" />
 	</programme>
-	<programme channel="159" start="20250125100000 +0000" stop="20250125170000 +0000">
-		<title>Information Not Available</title>
-		<desc />
+	<programme channel="159" start="20250125013000 +0000" stop="20250125043000 +0000">
+		<title>Movie - Baana Kaathadi</title>
+		<desc>Ramesh spends his time flying kites and playing games along with his friends on the streets. However, his life takes a turn for the better when he accidentally meets an aspiring designer, Priya.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/159_1920x1080_HTV.png?w=960&amp;h=540" />
 	</programme>
-	<programme channel="159" start="20250125170000 +0000" stop="20250125220000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch159_ktv_hd_logo.jpg?w=960&amp;h=540" />
+	<programme channel="159" start="20250125043000 +0000" stop="20250125073000 +0000">
+		<title>Movie - Pollaathavan (New)</title>
+		<desc>Prabhu is dejected when he learns that his bike has been stolen. He decides to find the people who stole the bike, but lands in trouble when he realises that his bike has been used to transport drugs.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/159_1920x1080_HTV.png?w=960&amp;h=540" />
 	</programme>
-	<programme channel="159" start="20250125220000 +0000" stop="20250126040000 +0000">
-		<title>Information Not Available</title>
-		<desc />
+	<programme channel="159" start="20250125073000 +0000" stop="20250125103000 +0000">
+		<title>Movie - MR.Bharath</title>
+		<desc>Businessman Gopinath abandons Shanti, his first love, to marry a rich heiress. Later, Bharath, Gopinath and Shanti's illegitimate son, seeks revenge from him for the injustice meted out to his mother.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/159_1920x1080_HTV.png?w=960&amp;h=540" />
+	</programme>
+	<programme channel="159" start="20250125103000 +0000" stop="20250125133000 +0000">
+		<title>Movie - Rowthiram</title>
+		<desc>Shiva holds great respect for his grandfather who taught him to fight against oppression. His parents, on the other hand, are peace-loving people. Soon, Shiva fights against some dangerous goons.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/159_1920x1080_HTV.png?w=960&amp;h=540" />
+	</programme>
+	<programme channel="159" start="20250125133000 +0000" stop="20250125170000 +0000">
+		<title>Movie - Sivappu Manjal Pachai</title>
+		<desc>Rajasekar is a traffic police officer whose marriage is arranged with Madhan's sister, but Madhan is an arrogant street racer who sees Rajasekar as his enemy.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/159_1920x1080_HTV.png?w=960&amp;h=540" />
+	</programme>
+	<programme channel="159" start="20250125170000 +0000" stop="20250125200000 +0000">
+		<title>Movie - Samurai</title>
+		<desc>Thiyagu's friend commits suicide after failing to gather support to expose a drug racket in her college. Thereafter, he runs a rebel mission every night to punish the corrupt men responsible for it.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/159_1920x1080_HTV.png?w=960&amp;h=540" />
+	</programme>
+	<programme channel="159" start="20250125200000 +0000" stop="20250125223000 +0000">
+		<title>Movie - Thambi Oorukku Pudusu</title>
+		<desc>Thambi Oorukku Pudhusu is directed by , and stars Anandaraj Selvaraj and Yuvarani Ravindra.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/159_1920x1080_HTV.png?w=960&amp;h=540" />
+	</programme>
+	<programme channel="159" start="20250125223000 +0000" stop="20250126010000 +0000">
+		<title>Movie - Seerum Singangal</title>
+		<desc>A dim-witted family moves to Ethanur to earn their living. Two daughters of a rich man, who have recently arrived in the village, use them as pawns to seek entertainment.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/159_1920x1080_HTV.png?w=960&amp;h=540" />
 	</programme>
 	<programme channel="159" start="20250126040000 +0000" stop="20250126100000 +0000">
@@ -9931,7 +9946,7 @@
 		<desc>The FIM Asia Road Racing Championship is the regional motorcycle road racing championship for Asia, held since 1996.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch209_motorsports.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="209" start="20250125003000 +0000" stop="20250125043000 +0000">
+	<programme channel="209" start="20250125002500 +0000" stop="20250125043000 +0000">
 		<title>2024 Idemitsu FIM ARRC Round 5: Malaysia</title>
 		<desc>The FIM Asia Road Racing Championship is the regional motorcycle road racing championship for Asia, held since 1996.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch209_motorsports.jpg?w=960&amp;h=540" />
@@ -9951,17 +9966,17 @@
 		<desc>Bringing together prominent professional players from the Kingdom and all around the world, the ROSHN Saudi League delivers weekly thrilling matches to spectators nationally and internationally.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/209_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="209" start="20250125103000 +0000" stop="20250125123000 +0000">
+	<programme channel="209" start="20250125103000 +0000" stop="20250125123500 +0000">
 		<title>2025 LOVB Inaugural Season Week 2: Austin vs Atlanta</title>
 		<desc>Dive into the electrifying action of the 2025 inaugural season of the League of Volleyball (LOVB) featuring top talent from around the globe, this ground-breaking league that showcases the best of professional volleyball.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/209_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="209" start="20250125123000 +0000" stop="20250125143000 +0000">
+	<programme channel="209" start="20250125123500 +0000" stop="20250125143500 +0000">
 		<title>2025 LOVB Inaugural Season Week 2: Madison vs Salt Lake</title>
 		<desc>Dive into the electrifying action of the 2025 inaugural season of the League of Volleyball (LOVB) featuring top talent from around the globe, this ground-breaking league that showcases the best of professional volleyball.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/209_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="209" start="20250125143000 +0000" stop="20250125150000 +0000">
+	<programme channel="209" start="20250125143500 +0000" stop="20250125150000 +0000">
 		<title>MotoGP 2024 Spotlight: Ducati Reflections</title>
 		<desc>Experience the adrenaline-fueled action of the 2024 MotoGP season in this comprehensive recap.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch209_motogp.jpg?w=341&amp;h=192" />
@@ -10253,27 +10268,27 @@
 	</programme>
 	<programme channel="211" start="20250125150000 +0000" stop="20250125170000 +0000">
 		<title>Australian Open 2025: Men's Doubles Final Bolelli/Vavassori v Heliovaara/Patten</title>
-		<desc>The 1st Grand Slam of the year kick start on beIN Sports as the world’s best players battle it out to win the 113th edition of the Australian Open.</desc>
+		<desc>The 1st Grand Slam of the year kick start on beIN Sports as the world's best players battle it out to win the 113th edition of the Australian Open.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_ao.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="211" start="20250125170000 +0000" stop="20250125190000 +0000">
 		<title>Australian Open 2025: Mixed Doubles Final Birrell/Smith v Gadecki/Peers</title>
-		<desc>The 1st Grand Slam of the year kick start on beIN Sports as the world’s best players battle it out to win the 113th edition of the Australian Open.</desc>
+		<desc>The 1st Grand Slam of the year kick start on beIN Sports as the world's best players battle it out to win the 113th edition of the Australian Open.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_ao.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="211" start="20250125190000 +0000" stop="20250125220000 +0000">
 		<title>Australian Open 2025: Men's Singles SF 2 Sinner v Shelton</title>
-		<desc>The 1st Grand Slam of the year kick start on beIN Sports as the world’s best players battle it out to win the 113th edition of the Australian Open.</desc>
+		<desc>The 1st Grand Slam of the year kick start on beIN Sports as the world's best players battle it out to win the 113th edition of the Australian Open.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_ao.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="211" start="20250125220000 +0000" stop="20250126000000 +0000">
-		<title>Australian Open 2025: Women's Singles Final Sabalenka v Keys</title>
-		<desc>The 1st Grand Slam of the year kick start on beIN Sports as the world’s best players battle it out to win the 113th edition of the Australian Open.</desc>
+		<title>Australian Open 2025: Quad Wheelchair Singles Final Schroder v Vink</title>
+		<desc>The 1st Grand Slam of the year kick start on beIN Sports as the world's best players battle it out to win the 113th edition of the Australian Open.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_ao.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="211" start="20250126000000 +0000" stop="20250126010000 +0000">
 		<title>Australian Open Highlights 2025</title>
-		<desc>Daily highlights show reviewing each day of the tournament, the best action and best moments, biggest wins and winners’ celebrations.</desc>
+		<desc>Daily highlights show reviewing each day of the tournament, the best action and best moments, biggest wins and winners' celebrations.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_ao_highlights_2023.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="211" start="20250126010000 +0000" stop="20250126040000 +0000">
