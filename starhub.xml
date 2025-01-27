@@ -871,9 +871,14 @@
 		<desc>A delightful and heartwarming animated series celebrating the special relationship between an inquisitive girl and her fun and active grandmother.Join JoJo and Gran Gran in their bustling London neighbourhood as they find joy in the everyday - whether it's going on a bike ride, visiting the dentist, or creating a Caribbean-style carnival for their friends.JoJo adores spending time with her energetic Gran Gran, who is always ready with a Gran Gran Plan' when JoJo comes to visit.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="102" start="20250128020000 +0000" stop="20250128033000 +0000">
+	<programme channel="102" start="20250128020000 +0000" stop="20250128030500 +0000">
 		<title>Blippi the Musical - Live Show</title>
 		<desc>Lovable, energetic Blippi brings his adventures and lessons to the big stage for a musical extravaganza that'll have kids singing and dancing along.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="102" start="20250128030500 +0000" stop="20250128033000 +0000">
+		<title>Molang 5 - EP 3</title>
+		<desc>A curious and dreamy rabbit called Molang and an inquisitive little chick called Piu Piu are inseparable best friends who always have a wonderful time going on adventures together.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="102" start="20250128033000 +0000" stop="20250128040000 +0000">
@@ -10051,17 +10056,17 @@
 		<desc>The 2024-25 Big Bash League season will be the fourteenth season of the Big Bash League (BBL), the professional men's Twenty20 domestic cricket competition in Australia. Eight teams will be vying over the champion spot across 44 matches.</desc>
 		<icon src="https://poster.starhubgo.com/poster/BBL202425.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="204" start="20250128012000 +0000" stop="20250128052000 +0000">
+	<programme channel="204" start="20250128022500 +0000" stop="20250128055000 +0000">
 		<title>KFC Big Bash League 2024/25: M40 - Melbourne Stars vs Hobart Hurricanes</title>
 		<desc>The 2024-25 Big Bash League season will be the fourteenth season of the Big Bash League (BBL), the professional men's Twenty20 domestic cricket competition in Australia. Eight teams will be vying over the champion spot across 44 matches.</desc>
 		<icon src="https://poster.starhubgo.com/poster/BBL202425.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="204" start="20250128052000 +0000" stop="20250128092000 +0000">
+	<programme channel="204" start="20250128055000 +0000" stop="20250128092500 +0000">
 		<title>England Tour of India 2025: 1st T20I</title>
 		<desc>England Tour of India 2025: 1st T20I</desc>
 		<icon src="https://poster.starhubgo.com/poster/ENGvIND2025_T20I.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="204" start="20250128092000 +0000" stop="20250128132000 +0000">
+	<programme channel="204" start="20250128092500 +0000" stop="20250128132000 +0000">
 		<title>England Tour of India 2025: 2nd T20I</title>
 		<desc>England Tour of India 2025: 2nd T20I</desc>
 		<icon src="https://poster.starhubgo.com/poster/ENGvIND2025_T20I.jpg?w=960&amp;h=540" />
@@ -10298,7 +10303,7 @@
 	</programme>
 	<programme channel="209" start="20250127190000 +0000" stop="20250127213000 +0000">
 		<title>Dubai Marathon 2025</title>
-		<desc>The Dubai Marathon is the first IAAF Gold Label Marathon in the Middle East and the region's biggest mass participation event.</desc>
+		<desc>The Dubai Marathon is the first IAAF Gold Label Marathon in the Middle East and the region’s biggest mass participation event.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/209_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="209" start="20250127213000 +0000" stop="20250127223000 +0000">
@@ -10957,7 +10962,7 @@
 		<icon src="https://poster.starhubgo.com/poster/ch214_UCL_full_match.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="214" start="20250127031000 +0000" stop="20250127034000 +0000">
-		<title>Chelsea TV Premier League Years 2024/25</title>
+		<title>Chelsea TV: Premier League Years 2024/25</title>
 		<desc>Enjoy exclusive access to programming related to the Blues as part of Chelsea TV, only on beIN Sports</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch214_chelsea_tv_premier_league_years.jpg?w=341&amp;h=192" />
 	</programme>
@@ -10973,12 +10978,12 @@
 	</programme>
 	<programme channel="214" start="20250127061000 +0000" stop="20250127071000 +0000">
 		<title>UEFA Champions League Highlights 2024/25</title>
-		<desc>Don't miss any of the action with the official UEFA Champions League highlights show</desc>
+		<desc>Don’t miss any of the action with the official UEFA Champions League highlights show</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch214_UCL_hIghlights.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="214" start="20250127071000 +0000" stop="20250127081000 +0000">
 		<title>UEFA Champions League Highlights 2024/25</title>
-		<desc>Don't miss any of the action with the official UEFA Champions League highlights show</desc>
+		<desc>Don’t miss any of the action with the official UEFA Champions League highlights show</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch214_UCL_hIghlights.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="214" start="20250127081000 +0000" stop="20250127100500 +0000">
@@ -10987,7 +10992,7 @@
 		<icon src="https://poster.starhubgo.com/poster/ch214_UCL_full_match.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="214" start="20250127100500 +0000" stop="20250127120500 +0000">
-		<title>Arsenal TV Classic 2024/25 Arsenal vs Norwich</title>
+		<title>Arsenal TV Classic 2024/25 Arsenal vs Liverpool</title>
 		<desc>Enjoy every classic Gunners match encounter frm Arsenal TV on beIN Sports</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch214_arsenal_tv.jpg?w=341&amp;h=192" />
 	</programme>
@@ -11003,7 +11008,7 @@
 	</programme>
 	<programme channel="214" start="20250127160000 +0000" stop="20250127170000 +0000">
 		<title>UEFA Europa/Conference League Highlights 2024/25</title>
-		<desc>Don't miss any of the action with the official UEFA Europa &amp; Conference League highlights show</desc>
+		<desc>Don’t miss any of the action with the official UEFA Europa &amp; Conference League highlights show</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch214_UECL_logo.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="214" start="20250127170000 +0000" stop="20250127185000 +0000">
@@ -29473,7 +29478,7 @@
 	</programme>
 	<programme channel="811" start="20250127010500 +0000" stop="20250127015000 +0000">
 		<title>Project X: The Challengers-New Beginnings Encore "Revolutionary Toilet" (R)</title>
-		<desc>Project X returns for the first time in 18 years. The former series featured people involved in project related to the Japanese industry and contemporary history. The new series focuses on people in the "Lost Era" following the collapse of the bubble economy. In every era, there are always those take on challenges. Even without receiving praise or being in the spotlight, some dedicate themselves to their work. The documentary delivers passion and courage right to you.</desc>
+		<desc>Project X returns for the first time in 18 years. The former series featured people involved in project related to the Japanese industry and contemporary history. The new series focuses on people in the "Lost Era" following the collapse of the bubble econ</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="811" start="20250127015000 +0000" stop="20250127020000 +0000">
@@ -29488,7 +29493,7 @@
 	</programme>
 	<programme channel="811" start="20250127020500 +0000" stop="20250127025000 +0000">
 		<title>Drama 10 "TOKYO SALAD BOWL" Eps. 3 (R)</title>
-		<desc>Arikino Ryo (Matsuda Ryuhei), a Chinese interpreter for the Metropolitan Police Department, meets Koda Mari (Nao), a green-haired woman eating a scorpion in the middle of Shinjuku. This eccentric-looking woman is actually a police officer on an international investigation. Their personalities are completely different, but eating multinational meals together in between investigating cases, gradually changes them into exquisite buddies whose "stomachs" are well matched.</desc>
+		<desc>Arikino Ryo (Matsuda Ryuhei), a Chinese interpreter for the Metropolitan Police Department, meets Koda Mari (Nao), a green-haired woman eating a scorpion in the middle of Shinjuku. This eccentric-looking woman is actually a police officer on an internatio</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="811" start="20250127025000 +0000" stop="20250127025600 +0000">
@@ -29518,22 +29523,37 @@
 	</programme>
 	<programme channel="811" start="20250127033000 +0000" stop="20250127034500 +0000">
 		<title>Drama Serial "Come Come Everybody" Encore Eps. 46</title>
-		<desc>In 1925, radio broadcasting was initiated in Japan and soon after, a program for English language learners began. This is a family drama depicting 100 years of three generations who lived with this English radio program; Yasuko who was born on the same day as the radio broadcasting started, her child Rui, and grandchild Hinata. Listening to the radio, these three heroines find their own ways of living overcoming hardships.</desc>
+		<desc>In 1925, radio broadcasting was initiated in Japan and soon after, a program for English language learners began. This is a family drama depicting 100 years of three generations who lived with this English radio program; Yasuko who was born on the same d</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="811" start="20250127034500 +0000" stop="20250127040000 +0000">
 		<title>Drama Serial "Omusubi" Eps. 81 (R)</title>
-		<desc>A Heisei youth graffiti drama, in which the heroine Yoneda Yui (Hashimoto Kanna), born in the first year of the Heisei era, connects people's hearts to the future as a nutritionist. Always cherishing her individuality, she sometimes struggles, but powerfully and joyfully pushes through the turbulent Heisei and Reiwa eras.</desc>
+		<desc>A Heisei youth graffiti drama, in which the heroine Yoneda Yui (Hashimoto Kanna), born in the first year of the Heisei era, connects people's hearts to the future as a nutritionist. Always cherishing her individuality, she sometimes struggles, but powerfu</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="811" start="20250127040000 +0000" stop="20250127040500 +0000">
-		<title>News</title>
-		<desc>The latest up-to-date news from Tokyo.</desc>
+		<title>Camera-eyed Japan</title>
+		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="811" start="20250127040500 +0000" stop="20250127055000 +0000">
-		<title>News Around Japan</title>
-		<desc>Program introduces the latest news from all over Japan.</desc>
+	<programme channel="811" start="20250127040500 +0000" stop="20250127050000 +0000">
+		<title>Classical Music Club</title>
+		<desc>Enjoy chamber music performed by first-class Japanese musicians as well as chamber orchestra and soloists from overseas.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="811" start="20250127050000 +0000" stop="20250127053000 +0000">
+		<title>Neighbor's Nurturing Session (R)</title>
+		<desc>The program is for parents raising children from elementary to junior high school ages. Parenting problems are difficult to talk to Mom/Dad friends, but they can be serious problems for those involved. Sharing sympathetic voices and ideas gathered from pa</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="811" start="20250127053000 +0000" stop="20250127054500 +0000">
+		<title>Fishing Crazy</title>
+		<desc />
+		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="811" start="20250127054500 +0000" stop="20250127055000 +0000">
+		<title>Mini Program</title>
+		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="811" start="20250127055000 +0000" stop="20250127055500 +0000">
@@ -29547,8 +29567,8 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="811" start="20250127060000 +0000" stop="20250127061000 +0000">
-		<title>News &amp; Weather</title>
-		<desc>The latest up-to-date news and nationwide weather information.</desc>
+		<title>Cruising from the Sky Mini</title>
+		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="811" start="20250127061000 +0000" stop="20250127063500 +0000">
@@ -29583,7 +29603,7 @@
 	</programme>
 	<programme channel="811" start="20250127081000 +0000" stop="20250127082000 +0000">
 		<title>Fun with Japanese</title>
-		<desc>Each episode focuses on a word as a theme, exploring its meaning and history while discovering the charm of Japanese language. The program also features dance performances of quotes from the world’s great figures, visits schools to interact with children, and introduces classical performing arts and songs, making it enjoyable for both children and adults.</desc>
+		<desc>Each episode focuses on a word as a theme, exploring its meaning and history while discovering the charm of Japanese language. The program also features dance performances of quotes from the world’s great figures, visits schools to interact with children,</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="811" start="20250127082000 +0000" stop="20250127083500 +0000">
@@ -29658,7 +29678,7 @@
 	</programme>
 	<programme channel="811" start="20250127134500 +0000" stop="20250127140000 +0000">
 		<title>Night Drama Serial "La Vie en Vanille" Eps. 5</title>
-		<desc>Shirai Aoi (Renbutsu Misako), a well-trained patissier, finally opened the pastry shop of her dreams in Osaka. However, the business does not do well, and she ends up having to close the shop. Then, Sadoya Manami (Nagasaku Hiromi), an eccentric culinary expert, appears and suggests opening a "pastry class for just one person" at the closed kitchen of Shirai's shop." Shirai reluctantly agrees to cooperate.</desc>
+		<desc>Shirai Aoi (Renbutsu Misako), a well-trained patissier, finally opened the pastry shop of her dreams in Osaka. However, the business does not do well, and she ends up having to close the shop. Then, Sadoya Manami (Nagasaku Hiromi), an eccentric culinary e</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="811" start="20250127140000 +0000" stop="20250127143000 +0000">
@@ -29718,7 +29738,7 @@
 	</programme>
 	<programme channel="811" start="20250127171000 +0000" stop="20250127173000 +0000">
 		<title>French in a Happy Mood</title>
-		<desc>Let’s learn simple and easy-to-remember phrases, looking at a modern Europe that cherishes its history and traditions while pursuing a lifestyle that fits its stature. Furthermore, we explore tips for "happiness" and various forms of "joy" through the unique European way of thinking and values behind their languages and lifestyles.</desc>
+		<desc>Let’s learn simple and easy-to-remember phrases, looking at a modern Europe that cherishes its history and traditions while pursuing a lifestyle that fits its stature. Furthermore, we explore tips for "happiness" and various forms of "joy" through the uni</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="811" start="20250127173000 +0000" stop="20250127174000 +0000">
@@ -29778,7 +29798,7 @@
 	</programme>
 	<programme channel="811" start="20250127200000 +0000" stop="20250127201500 +0000">
 		<title>Drama Serial "Carnation" Encore Eps. 104</title>
-		<desc>A heroine born into a kimono store family in Kishiwada, Osaka, holds admiration for clothing and discovers a sewing machine. Despite her father’s opposition, she is undeterred and pursues her passion for dressmaking. She opens a store at age 20 and gets married, but her husband dies in the war. The story depicts the life of a powerful woman who becomes a pioneer of Japan’s fashion design while overcoming many obstacles.</desc>
+		<desc>A heroine born into a kimono store family in Kishiwada, Osaka, holds admiration for clothing and discovers a sewing machine. Despite her father’s opposition, she is undeterred and pursues her passion for dressmaking. She opens a store at age 20 and gets m</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="811" start="20250127201500 +0000" stop="20250127210000 +0000">
@@ -29798,7 +29818,7 @@
 	</programme>
 	<programme channel="811" start="20250127230000 +0000" stop="20250127231500 +0000">
 		<title>Drama Serial "Omusubi" Eps. 82</title>
-		<desc>A Heisei youth graffiti drama, in which the heroine Yoneda Yui (Hashimoto Kanna), born in the first year of the Heisei era, connects people's hearts to the future as a nutritionist. Always cherishing her individuality, she sometimes struggles, but powerfully and joyfully pushes through the turbulent Heisei and Reiwa eras.</desc>
+		<desc>A Heisei youth graffiti drama, in which the heroine Yoneda Yui (Hashimoto Kanna), born in the first year of the Heisei era, connects people's hearts to the future as a nutritionist. Always cherishing her individuality, she sometimes struggles, but powerfu</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="811" start="20250127231500 +0000" stop="20250128005400 +0000">
@@ -29831,19 +29851,9 @@
 		<desc>The program flexibly probes into a wide range of topics from the NHK’s unique point of view.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="811" start="20250128021700 +0000" stop="20250128022000 +0000">
-		<title>Mini Program</title>
-		<desc />
-		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
 	<programme channel="811" start="20250128022000 +0000" stop="20250128025000 +0000">
 		<title>Late Night Show with Nitty and Gritty (R)</title>
 		<desc>Enjoy an unprecedented interview program hosted by two mole puppets. Guests who can't show their faces in public will also appear as puppets and answer plainly to delicate questions one after another.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="811" start="20250128025000 +0000" stop="20250128025600 +0000">
-		<title>Songs for Everyone</title>
-		<desc>A song program where children can sing along by reading the lyrics on the screen.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="811" start="20250128025600 +0000" stop="20250128030000 +0000">
@@ -29909,11 +29919,6 @@
 	<programme channel="811" start="20250128064000 +0000" stop="20250128065000 +0000">
 		<title>Points at Issue</title>
 		<desc>Specialists from different fields will make commentaries on current event issues.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="811" start="20250128065000 +0000" stop="20250128072000 +0000">
-		<title>Neighbor's Nurturing Session (R)</title>
-		<desc>The program is for parents raising children from elementary to junior high school ages. Parenting problems are difficult to talk to Mom/Dad friends, but they can be serious problems for those involved. Sharing sympathetic voices and ideas gathered from parenting families across the country, we work together to find solutions.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="811" start="20250128072000 +0000" stop="20250128074500 +0000">
