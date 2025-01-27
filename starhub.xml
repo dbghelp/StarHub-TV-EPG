@@ -10031,17 +10031,22 @@
 		<desc>The 2024-25 Big Bash League season will be the fourteenth season of the Big Bash League (BBL), the professional men's Twenty20 domestic cricket competition in Australia. Eight teams will be vying over the champion spot across 44 matches.</desc>
 		<icon src="https://poster.starhubgo.com/poster/BBL202425.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="204" start="20250127121500 +0000" stop="20250127161500 +0000">
+	<programme channel="204" start="20250127121500 +0000" stop="20250127161000 +0000">
 		<title>England Tour of India 2025: 2nd T20I</title>
 		<desc>England Tour of India 2025: 2nd T20I</desc>
 		<icon src="https://poster.starhubgo.com/poster/ENGvIND2025_T20I.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="204" start="20250127161500 +0000" stop="20250127212000 +0000">
+	<programme channel="204" start="20250127161000 +0000" stop="20250127220000 +0000">
 		<title>End of Transmission</title>
 		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_Channels2/204_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="204" start="20250127212000 +0000" stop="20250128012000 +0000">
+	<programme channel="204" start="20250127220000 +0000" stop="20250127232000 +0000">
+		<title>End of Transmission</title>
+		<desc />
+		<icon src="https://poster.starhubgo.com/Linear_Channels2/204_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="204" start="20250127232000 +0000" stop="20250128022500 +0000">
 		<title>KFC Big Bash League 2024/25: M39 - Perth Scorchers vs Adelaide Strikers</title>
 		<desc>The 2024-25 Big Bash League season will be the fourteenth season of the Big Bash League (BBL), the professional men's Twenty20 domestic cricket competition in Australia. Eight teams will be vying over the champion spot across 44 matches.</desc>
 		<icon src="https://poster.starhubgo.com/poster/BBL202425.jpg?w=960&amp;h=540" />
@@ -30102,8 +30107,8 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250126201000 +0000" stop="20250126204000 +0000">
-		<title>NHK World Selection</title>
-		<desc>A selection of acclaimed programs from NHK's domestic channels dubbed into English.</desc>
+		<title>Tiny Desk Concerts Japan</title>
+		<desc>the legendary band QURULI has prepared an exciting collaboration with Italian musicians, including Daniele Sepe, an iconic artist from Naples whom QURULI's Kishida Shigeru has admired for 20 years.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250126204000 +0000" stop="20250126205500 +0000">
@@ -30123,7 +30128,7 @@
 	</programme>
 	<programme channel="812" start="20250126211000 +0000" stop="20250126214000 +0000">
 		<title>Anime Manga Explosion</title>
-		<desc>ANIME MANGA EXPLOSION features major Japanese anime and manga works that are highly recognized by international fans. Each episode explores the secrets of the works' popularity.</desc>
+		<desc>This time, we're featuring anime studio Pierrot, the 45-year veteran studio behind NARUTO. Hear directly from the creators and get a behind-the-scenes look at BLEACH: Thousand-Year Blood War.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250126214000 +0000" stop="20250126215000 +0000">
@@ -30142,13 +30147,13 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250126221000 +0000" stop="20250126224000 +0000">
-		<title>Japan'S Top Inventions</title>
-		<desc>The stories behind hit Japanese products, plus top creations for niche markets.</desc>
+		<title>Japan'S Top Inventions (28Minutes)</title>
+		<desc>The fascinating stories and secrets behind hit Japanese products, plus parts and machines that boast the top share of niche markets. This time: automatic ticket gates &amp; tool setters.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250126224000 +0000" stop="20250126225500 +0000">
-		<title>Bosai: Science That Can Save Your Life</title>
-		<desc>Japan has a long history of natural disasters. BOSAI explores how to overcome them and save lives with the power of science.</desc>
+		<title>Bosai</title>
+		<desc>Phase Free is a disaster preparedness concept that does not distinguish between everyday life and emergency situations. We'll see how everyday items can be used in times of disaster as well.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250126225500 +0000" stop="20250126230000 +0000">
@@ -30652,8 +30657,8 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250128003000 +0000" stop="20250128010000 +0000">
-		<title>Special Program</title>
-		<desc>A wide range of topics featuring Japanese culture and society are introduced.</desc>
+		<title>Gateway To New Encounters</title>
+		<desc>A journey of discovering life's work, personal learning, and gaining a platform to improve society. This program showcases a university professor and two students finding their paths in Tokyo.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250128010000 +0000" stop="20250128011500 +0000">
@@ -30663,12 +30668,12 @@
 	</programme>
 	<programme channel="812" start="20250128011500 +0000" stop="20250128013000 +0000">
 		<title>Direct Talk</title>
-		<desc>Direct Talk is an in-depth interview program featuring professionals or experts in the world who share their unique insights, information and analysis.</desc>
+		<desc>Gonoi Rina made global headlines by speaking up about the sexual abuse she suffered while serving in Japan's Self-Defense Forces. She shares her thoughts now that the case has been settled in court.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250128013000 +0000" stop="20250128020000 +0000">
 		<title>Dining With The Chef</title>
-		<desc>Traditional techniques and resourceful recipes! Chefs Saito and Rika, present their unique approaches to cooking delicious Japanese food.</desc>
+		<desc>In a kaiseki cooking class, Chef Saito introduces a steamed dish featuring kinmedai fish, and turnips-which are in season during winter. It's a dish that will warm you up the cold winter months.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250128020000 +0000" stop="20250128021500 +0000">
@@ -30713,7 +30718,7 @@
 	</programme>
 	<programme channel="812" start="20250128043000 +0000" stop="20250128044500 +0000">
 		<title>Deeper Look</title>
-		<desc>An experienced anchor Del Irani has a cutting-edge dialogue with a first-class guest on a current-affairs topics.</desc>
+		<desc>How will the world cope without a clear global leader as the 2025 geopolitical landscape continues to reshape global dynamics? Ian Bremmer, Eurasia Group, analyzes the risks in a G-Zero world.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250128044500 +0000" stop="20250128045500 +0000">
@@ -30733,12 +30738,12 @@
 	</programme>
 	<programme channel="812" start="20250128051500 +0000" stop="20250128053000 +0000">
 		<title>Direct Talk</title>
-		<desc>Direct Talk is an in-depth interview program featuring professionals or experts in the world who share their unique insights, information and analysis.</desc>
+		<desc>Gonoi Rina made global headlines by speaking up about the sexual abuse she suffered while serving in Japan's Self-Defense Forces. She shares her thoughts now that the case has been settled in court.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250128053000 +0000" stop="20250128060000 +0000">
-		<title>Special Program</title>
-		<desc>A wide range of topics featuring Japanese culture and society are introduced.</desc>
+		<title>Gateway To New Encounters</title>
+		<desc>A journey of discovering life's work, personal learning, and gaining a platform to improve society. This program showcases a university professor and two students finding their paths in Tokyo.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250128060000 +0000" stop="20250128063000 +0000">
@@ -30748,7 +30753,7 @@
 	</programme>
 	<programme channel="812" start="20250128063000 +0000" stop="20250128070000 +0000">
 		<title>Dining With The Chef</title>
-		<desc>Traditional techniques and resourceful recipes! Chefs Saito and Rika, present their unique approaches to cooking delicious Japanese food.</desc>
+		<desc>In a kaiseki cooking class, Chef Saito introduces a steamed dish featuring kinmedai fish, and turnips-which are in season during winter. It's a dish that will warm you up the cold winter months.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250128070000 +0000" stop="20250128073000 +0000">
@@ -30778,12 +30783,12 @@
 	</programme>
 	<programme channel="812" start="20250128083000 +0000" stop="20250128084500 +0000">
 		<title>Deeper Look</title>
-		<desc>An experienced anchor Del Irani has a cutting-edge dialogue with a first-class guest on a current-affairs topics.</desc>
+		<desc>How will the world cope without a clear global leader as the 2025 geopolitical landscape continues to reshape global dynamics? Ian Bremmer, Eurasia Group, analyzes the risks in a G-Zero world.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250128084500 +0000" stop="20250128090000 +0000">
-		<title>Bosai: Science That Can Save Your Life</title>
-		<desc>Japan has a long history of natural disasters. BOSAI explores how to overcome them and save lives with the power of science.</desc>
+		<title>Bosai</title>
+		<desc>Phase Free is a disaster preparedness concept that does not distinguish between everyday life and emergency situations. We'll see how everyday items can be used in times of disaster as well.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250128090000 +0000" stop="20250128091500 +0000">
@@ -30812,8 +30817,8 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250128103000 +0000" stop="20250128110000 +0000">
-		<title>Special Program</title>
-		<desc>A wide range of topics featuring Japanese culture and society are introduced.</desc>
+		<title>Gateway To New Encounters</title>
+		<desc>A journey of discovering life's work, personal learning, and gaining a platform to improve society. This program showcases a university professor and two students finding their paths in Tokyo.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250128110000 +0000" stop="20250128112700 +0000">
@@ -30828,7 +30833,7 @@
 	</programme>
 	<programme channel="812" start="20250128114000 +0000" stop="20250128115500 +0000">
 		<title>Direct Talk</title>
-		<desc>Direct Talk is an in-depth interview program featuring professionals or experts in the world who share their unique insights, information and analysis.</desc>
+		<desc>Gonoi Rina made global headlines by speaking up about the sexual abuse she suffered while serving in Japan's Self-Defense Forces. She shares her thoughts now that the case has been settled in court.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250128115500 +0000" stop="20250128120000 +0000">
@@ -30843,7 +30848,7 @@
 	</programme>
 	<programme channel="812" start="20250128123000 +0000" stop="20250128130000 +0000">
 		<title>Dining With The Chef</title>
-		<desc>Traditional techniques and resourceful recipes! Chefs Saito and Rika, present their unique approaches to cooking delicious Japanese food.</desc>
+		<desc>In a kaiseki cooking class, Chef Saito introduces a steamed dish featuring kinmedai fish, and turnips-which are in season during winter. It's a dish that will warm you up the cold winter months.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250128130000 +0000" stop="20250128131500 +0000">
@@ -30873,7 +30878,7 @@
 	</programme>
 	<programme channel="812" start="20250128143000 +0000" stop="20250128150000 +0000">
 		<title>Science View</title>
-		<desc>Science for our future. Cutting edge research, innovation and technology being created by Japanese scientists and engineers.</desc>
+		<desc>Japan's traditional papercraft, origami, has come to be used in engineering, as researchers observe insects and other specimens to develop "crease patterns" that can be utilized in diverse fields.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250128150000 +0000" stop="20250128151500 +0000">
@@ -30887,8 +30892,8 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250128153000 +0000" stop="20250128160000 +0000">
-		<title>Special Program</title>
-		<desc>A wide range of topics featuring Japanese culture and society are introduced.</desc>
+		<title>Gateway To New Encounters</title>
+		<desc>A journey of discovering life's work, personal learning, and gaining a platform to improve society. This program showcases a university professor and two students finding their paths in Tokyo.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="815" start="20250126154500 +0000" stop="20250126171500 +0000">
