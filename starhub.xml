@@ -1918,7 +1918,7 @@
 	</programme>
 	<programme channel="106" start="20250130130200 +0000" stop="20250130140000 +0000">
 		<title>No Screen, No Life? - EP 1</title>
-		<desc />
+		<desc>Celeb couple Darren Lim and Evelyn Tan share their struggles with their teenagers' screen time. What happens when their teen sons and three other teens switch to a brick phone for 10 days?</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="106" start="20250130140000 +0000" stop="20250130143000 +0000">
@@ -9981,10 +9981,15 @@
 		<desc>Catch the 17th edition of the Indian Premier League, the most popular cricket league here on StarHub!</desc>
 		<icon src="https://poster.starhubgo.com/poster/IPL2024_M16.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="204" start="20250130120000 +0000" stop="20250130160000 +0000">
+	<programme channel="204" start="20250130120000 +0000" stop="20250130155000 +0000">
 		<title>England Tour of India 2025: 3rd T20I</title>
 		<desc>England Tour of India 2025: 3rd T20I</desc>
 		<icon src="https://poster.starhubgo.com/poster/ENGvIND2025_T20I.jpg?w=960&amp;h=540" />
+	</programme>
+	<programme channel="204" start="20250130155000 +0000" stop="20250130160000 +0000">
+		<title>End of Transmission</title>
+		<desc />
+		<icon src="https://poster.starhubgo.com/Linear_Channels2/204_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="205" start="20250128160000 +0000" stop="20250128220000 +0000">
 		<title>End of Transmission</title>
