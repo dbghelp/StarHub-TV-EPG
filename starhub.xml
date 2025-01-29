@@ -10917,17 +10917,12 @@
 		<icon src="https://poster.starhubgo.com/poster/ch214_UCL_specials.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="214" start="20250129180000 +0000" stop="20250129183000 +0000">
-		<title>Mini Match - UEFA Champions League 2024/25 Benfica vs Barcelona - MD7</title>
-		<desc>Watch every round of the UCL as Europe's elite clubs battle it out for the most prestigious trophy in club football at Allianz Arena, Munich</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch214_UCL_mini_match.jpg?w=341&amp;h=192" />
-	</programme>
-	<programme channel="214" start="20250129183000 +0000" stop="20250129190000 +0000">
 		<title>UEFA Champions League Magazine Show 2024/25</title>
 		<desc>Official magazine show blends match highlights and interviews, epic moments and fascinating features from across Europe</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch214_UCL_magazine_show.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="214" start="20250129190000 +0000" stop="20250129195500 +0000">
-		<title>The UCL Preview Show 2024/25 (Live)</title>
+	<programme channel="214" start="20250129183000 +0000" stop="20250129195500 +0000">
+		<title>The UCL Preview Show 2024/25 (Live) Man City vs Club Brugge - MD8</title>
 		<desc>beIN's panel of football legends deliver their opinion on every game from this morning's UCL action</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch214_UCL_preview_show.jpg?w=960&amp;h=540" />
 	</programme>
@@ -22222,9 +22217,9 @@
 		<icon src="https://poster.starhubgo.com/poster/ch701_the_context.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="701" start="20250128220000 +0000" stop="20250128223000 +0000">
-		<title>BBC World News America</title>
-		<desc>In-depth reports on the major international and US news of the day presented from Washington DC.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch701_bbc_world_news_america.jpg?w=341&amp;h=192" />
+		<title>BBC News</title>
+		<desc>The latest news from the BBC.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch701_BBC_news.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="701" start="20250128223000 +0000" stop="20250128230000 +0000">
 		<title>HARDtalk</title>
@@ -25127,9 +25122,9 @@
 		<icon src="https://poster.starhubgo.com/poster/ch711_world_sport.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="711" start="20250128230000 +0000" stop="20250129000000 +0000">
-		<title>CNN Programme</title>
-		<desc>CNN Programme</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch711_cnn_generic.jpg?w=960&amp;h=540" />
+		<title>First Move</title>
+		<desc>Watch the latest on global markets and the biggest stories shaping the economic landscape.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch711_first_move_with_julia_chatterley.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="711" start="20250129000000 +0000" stop="20250129010000 +0000">
 		<title>Erin Burnett OutFront</title>
@@ -25272,9 +25267,9 @@
 		<icon src="https://poster.starhubgo.com/poster/ch711_world_sport.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="711" start="20250129230000 +0000" stop="20250130000000 +0000">
-		<title>CNN Programme</title>
-		<desc>CNN Programme</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch711_cnn_generic.jpg?w=960&amp;h=540" />
+		<title>First Move</title>
+		<desc>Watch the latest on global markets and the biggest stories shaping the economic landscape.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch711_first_move_with_julia_chatterley.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="711" start="20250130000000 +0000" stop="20250130010000 +0000">
 		<title>Erin Burnett OutFront</title>
@@ -32734,7 +32729,7 @@
 	<programme channel="838" start="20250129080000 +0000" stop="20250129101500 +0000">
 		<title>Wo Hu</title>
 		<desc>An inspector sends more than 1,000 undercover lawmen to infiltrate gangsters in Hong Kong.</desc>
-		<icon src="https://poster.starhubgo.com/poster/chh838_wo_hu.jpg?w=960&amp;h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch838_wo_hu.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="838" start="20250129101500 +0000" stop="20250129103000 +0000">
 		<title>Futian Here We Go!</title>
@@ -32804,7 +32799,7 @@
 	<programme channel="838" start="20250129193000 +0000" stop="20250129214500 +0000">
 		<title>Wo Hu</title>
 		<desc>An inspector sends more than 1,000 undercover lawmen to infiltrate gangsters in Hong Kong.</desc>
-		<icon src="https://poster.starhubgo.com/poster/chh838_wo_hu.jpg?w=960&amp;h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch838_wo_hu.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="838" start="20250129214500 +0000" stop="20250129220000 +0000">
 		<title>Happy Old Buddies</title>
@@ -34269,7 +34264,7 @@
 	<programme channel="996" start="20250129080000 +0000" stop="20250129101500 +0000">
 		<title>Wo Hu</title>
 		<desc>An inspector sends more than 1,000 undercover lawmen to infiltrate gangsters in Hong Kong.</desc>
-		<icon src="https://poster.starhubgo.com/poster/chh838_wo_hu.jpg?w=960&amp;h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch838_wo_hu.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="996" start="20250129101500 +0000" stop="20250129103000 +0000">
 		<title>Futian Here We Go!</title>
@@ -34339,7 +34334,7 @@
 	<programme channel="996" start="20250129193000 +0000" stop="20250129214500 +0000">
 		<title>Wo Hu</title>
 		<desc>An inspector sends more than 1,000 undercover lawmen to infiltrate gangsters in Hong Kong.</desc>
-		<icon src="https://poster.starhubgo.com/poster/chh838_wo_hu.jpg?w=960&amp;h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch838_wo_hu.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="996" start="20250129214500 +0000" stop="20250129220000 +0000">
 		<title>Happy Old Buddies</title>
