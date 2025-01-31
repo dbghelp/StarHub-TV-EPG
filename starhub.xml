@@ -698,7 +698,7 @@
 	</programme>
 	<programme channel="102" start="20250131133000 +0000" stop="20250131143000 +0000">
 		<title>On The Red Dot - EP 32</title>
-		<desc>Icons That Shaped Us explores the unforgettable pop culture moments that defined growing up in Singapore and shaped our identity. What made these icons so impactful?</desc>
+		<desc>Revisit iconic TV shows that captivated audiences and shaped our national identity. They entertained us while holding a mirror to society, reflecting the hopes, dreams, and challenges of Singaporeans.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="102" start="20250131143000 +0000" stop="20250131163000 +0000">
@@ -10166,20 +10166,30 @@
 		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_Channels2/204_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="204" start="20250201040000 +0000" stop="20250201080000 +0000">
+	<programme channel="204" start="20250201004500 +0000" stop="20250201051000 +0000">
+		<title>TATA Indian Premier League 2024: M17 - Gujarat Titans vs Punjab Kings</title>
+		<desc>Catch the 17th edition of the Indian Premier League, the most popular cricket league here on StarHub!</desc>
+		<icon src="https://poster.starhubgo.com/poster/IPL2024_M17.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="204" start="20250201051000 +0000" stop="20250201091000 +0000">
 		<title>TATA Indian Premier League 2024: M18 - Sunrisers Hyderabad vs Chennai Super King</title>
 		<desc>Catch the 17th edition of the Indian Premier League, the most popular cricket league here on StarHub!</desc>
 		<icon src="https://poster.starhubgo.com/poster/IPL2024_M18.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="204" start="20250201080000 +0000" stop="20250201120000 +0000">
+	<programme channel="204" start="20250201091000 +0000" stop="20250201123000 +0000">
 		<title>KFC Big Bash League 2024/25: M43 - Challenger - Sydney Sixers vs Sydney Thunder</title>
 		<desc>The 2024-25 Big Bash League season will be the fourteenth season of the Big Bash League (BBL), the professional men's Twenty20 domestic cricket competition in Australia. Eight teams will be vying over the champion spot across 44 matches.</desc>
 		<icon src="https://poster.starhubgo.com/poster/BBL202425.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="204" start="20250201120000 +0000" stop="20250201160000 +0000">
+	<programme channel="204" start="20250201123000 +0000" stop="20250201155000 +0000">
 		<title>KFC Big Bash League 2024/25: M44 - Final - Hobart Hurricanes vs Sydney Thunder</title>
 		<desc>The 2024-25 Big Bash League season will be the fourteenth season of the Big Bash League (BBL), the professional men's Twenty20 domestic cricket competition in Australia. Eight teams will be vying over the champion spot across 44 matches.</desc>
 		<icon src="https://poster.starhubgo.com/poster/BBL202425.jpg?w=960&amp;h=540" />
+	</programme>
+	<programme channel="204" start="20250201155000 +0000" stop="20250201160000 +0000">
+		<title>End of Transmission</title>
+		<desc />
+		<icon src="https://poster.starhubgo.com/Linear_Channels2/204_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="205" start="20250130160000 +0000" stop="20250130220000 +0000">
 		<title>End of Transmission</title>
@@ -10541,15 +10551,10 @@
 		<desc>The world's elite singles and doubles table tennis players battle for a share of the US$2 million prize pool as well as 2000 world ranking points in Doha.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_wtt.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="210" start="20250131050000 +0000" stop="20250131140000 +0000">
+	<programme channel="210" start="20250131050000 +0000" stop="20250131150000 +0000">
 		<title>Alpine Hexagon Cup 2025</title>
 		<desc>Hexagon Cup is born as a tribute to padel under a revolutionary format, with the best players competing in mixed-gender teams for one million euro prize fund.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_spotv2_logo.jpg?w=341&amp;h=192" />
-	</programme>
-	<programme channel="210" start="20250131140000 +0000" stop="20250131150000 +0000">
-		<title>2024 Asian Tour: Philippine Open</title>
-		<desc>Launched in 2022, The International Series is a set of 10 elevated events that form an Asian Tour-sanctioned pathway onto the lucrative LIV Golf League.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch210_golf.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="210" start="20250131150000 +0000" stop="20250131173000 +0000">
 		<title>ROSHN Saudi League 2024-25 Matchday 18 Al Hilal vs Al Okhdood</title>
@@ -10716,18 +10721,23 @@
 		<desc>Exclusive coverage of the 2025 ATP Tour on beIN SPORTS as the world's best male players battle it out across the globe to be #1.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_ATPMASTERS250.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="211" start="20250131150000 +0000" stop="20250131173000 +0000">
+	<programme channel="211" start="20250131150000 +0000" stop="20250131170000 +0000">
 		<title>ATP Tour 250 2025 Montpellier QF 2 Griekspoor v De Jong</title>
 		<desc>Exclusive coverage of the 2025 ATP Tour on beIN SPORTS as the world's best male players battle it out across the globe to be #1.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_ATPMASTERS250.jpg?w=341&amp;h=192" />
 	</programme>
+	<programme channel="211" start="20250131170000 +0000" stop="20250131173000 +0000">
+		<title>ATP Tour: This Week 2025</title>
+		<desc>Catch behind the scenes, interviews, tournament recaps, highlights of the ATP Tour on this weekly show.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch211_ATPTourGeneric.jpg?w=960&amp;h=540" />
+	</programme>
 	<programme channel="211" start="20250131173000 +0000" stop="20250131193000 +0000">
-		<title>ATP Tour 250 2025: Montpellier QF 3</title>
+		<title>ATP Tour 250 2025: Montpellier QF 3 Rublev v Basilashvili</title>
 		<desc>Exclusive coverage of the 2025 ATP Tour on beIN SPORTS as the world's best male players battle it out across the globe to be #1.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_ATPMASTERS250.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="211" start="20250131193000 +0000" stop="20250131213000 +0000">
-		<title>ATP Tour 250 2025: Montpellier QF 4</title>
+		<title>ATP Tour 250 2025: Montpellier QF 4 Bublik v Kovacevic</title>
 		<desc>Exclusive coverage of the 2025 ATP Tour on beIN SPORTS as the world's best male players battle it out across the globe to be #1.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_ATPMASTERS250.jpg?w=341&amp;h=192" />
 	</programme>
@@ -10757,12 +10767,12 @@
 		<icon src="https://poster.starhubgo.com/poster/ch211_AOGeneric.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="211" start="20250201020000 +0000" stop="20250201033000 +0000">
-		<title>ATP Tour 250 2025: Montpellier QF 2</title>
+		<title>ATP Tour 250 2025: Montpellier QF 2 Griekspoor v De Jong</title>
 		<desc>Exclusive coverage of the 2025 ATP Tour on beIN SPORTS as the world's best male players battle it out across the globe to be #1.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_ATPMASTERS250.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="211" start="20250201033000 +0000" stop="20250201050000 +0000">
-		<title>ATP Tour 250 2025: Montpellier QF 3</title>
+		<title>ATP Tour 250 2025: Montpellier QF 3 Rublev v Basilashvili</title>
 		<desc>Exclusive coverage of the 2025 ATP Tour on beIN SPORTS as the world's best male players battle it out across the globe to be #1.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_ATPMASTERS250.jpg?w=341&amp;h=192" />
 	</programme>
@@ -10772,22 +10782,22 @@
 		<icon src="https://poster.starhubgo.com/poster/ch211_UnitedCup2025.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="211" start="20250201060000 +0000" stop="20250201073000 +0000">
-		<title>ATP Tour 250 2025: Montpellier QF 1</title>
+		<title>ATP Tour 250 2025: Montpellier QF 1 Bu v Auger-Aliassime</title>
 		<desc>Exclusive coverage of the 2025 ATP Tour on beIN SPORTS as the world's best male players battle it out across the globe to be #1.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_ATPMASTERS250.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="211" start="20250201073000 +0000" stop="20250201090000 +0000">
-		<title>ATP Tour 250 2025: Montpellier QF 2</title>
+		<title>ATP Tour 250 2025: Montpellier QF 2 Griekspoor v De Jong</title>
 		<desc>Exclusive coverage of the 2025 ATP Tour on beIN SPORTS as the world's best male players battle it out across the globe to be #1.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_ATPMASTERS250.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="211" start="20250201090000 +0000" stop="20250201103000 +0000">
-		<title>ATP Tour 250 2025: Montpellier QF 3</title>
+		<title>ATP Tour 250 2025: Montpellier QF 3 Rublev v Basilashvili</title>
 		<desc>Exclusive coverage of the 2025 ATP Tour on beIN SPORTS as the world's best male players battle it out across the globe to be #1.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_ATPMASTERS250.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="211" start="20250201103000 +0000" stop="20250201120000 +0000">
-		<title>ATP Tour 250 2025: Montpellier QF 4</title>
+		<title>ATP Tour 250 2025: Montpellier QF 4 Bublik v Kovacevic</title>
 		<desc>Exclusive coverage of the 2025 ATP Tour on beIN SPORTS as the world's best male players battle it out across the globe to be #1.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_ATPMASTERS250.jpg?w=341&amp;h=192" />
 	</programme>
@@ -10952,7 +10962,7 @@
 		<icon src="https://poster.starhubgo.com/poster/ch213_laliga_show.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="213" start="20250131180000 +0000" stop="20250131193000 +0000">
-		<title>Viva LaLiga 2024/25 (Live)</title>
+		<title>Viva LaLiga 2024/25</title>
 		<desc>Big name journalists cover all the current issues from LaLiga with the latest news, analysis, highlights, and exclusive interviews.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch213_viva_laliga.jpg?w=960&amp;h=540" />
 	</programme>
@@ -10962,7 +10972,7 @@
 		<icon src="https://poster.starhubgo.com/poster/ch213_mutv.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="213" start="20250131195500 +0000" stop="20250131220000 +0000">
-		<title>LaLiga 2024/25: Leganes vs Rayo Vallecano (Live)</title>
+		<title>LaLiga 2024/25: Leganes vs Rayo Vallecano</title>
 		<desc>Extensive coverage from every round of the Spanish LaLiga, Spain's top division of football with the World's biggest teams.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch213_laliga.jpg?w=960&amp;h=540" />
 	</programme>
@@ -11019,7 +11029,7 @@
 	<programme channel="213" start="20250201102500 +0000" stop="20250201112500 +0000">
 		<title>FEI Western Europe League 2024/25</title>
 		<desc>The FEI Jumping World Cup is an annual international competition among the world's best show jumping horses and riders. The Jumping Series comprises of 13 leagues across all continents. The top placed rider from each series will be invited to attend the World Cup Jumping Final.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch213_fei_western_europe_league.jpg?w=960&amp;h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch213_fei_world_cup_finals_highlights.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="213" start="20250201112500 +0000" stop="20250201115500 +0000">
 		<title>The Outdoor Sports Show 2025</title>
@@ -11037,12 +11047,12 @@
 		<icon src="https://poster.starhubgo.com/poster/ch213_laliga_talking_football.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="213" start="20250201125500 +0000" stop="20250201151000 +0000">
-		<title>LaLiga 2024/25: Getafe vs Sevilla (Live)</title>
+		<title>LaLiga 2024/25: Getafe vs Sevilla</title>
 		<desc>Extensive coverage from every round of the Spanish LaLiga, Spain's top division of football with the World's biggest teams.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch213_laliga.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="213" start="20250201151000 +0000" stop="20250201172500 +0000">
-		<title>LaLiga 2024/25: Villarreal vs Valladolid (Live)</title>
+		<title>LaLiga 2024/25: Villarreal vs Valladolid</title>
 		<desc>Extensive coverage from every round of the Spanish LaLiga, Spain's top division of football with the World's biggest teams.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch213_laliga.jpg?w=960&amp;h=540" />
 	</programme>
@@ -11548,17 +11558,17 @@
 	</programme>
 	<programme channel="221" start="20250201020000 +0000" stop="20250201023000 +0000">
 		<title>PREVIEW - FRI 31 JAN</title>
-		<desc>A tightly packed look-ahead to the forthcoming matchround with a mix of player interviews and special features.</desc>
+		<desc>Looking ahead to Matchweek 24 with Nottingham Forest playlist host to Brighton and the low table clash between Ipswich and Southampton.</desc>
 		<icon src="https://poster.starhubgo.com/poster/pl_preview_V2.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="221" start="20250201023000 +0000" stop="20250201033000 +0000">
 		<title>WELCOME TO THE WEEKEND - FRI 31 JAN</title>
-		<desc>Light-hearted, inclusive and entertaining, Welcome to the Weekend is the show that kicks off the Premier League weekend. We will focus on the football but also on the lifestyle topics that footballers and fans love - whether it's food and family, music and movies, or fashion and gaming. The On-Screen Team will bring chemistry, energy and a load of fun.</desc>
+		<desc>Erling Haaland is quizzed by Andrew and Anita on some of his best Manchester City goals, and we are on the road at the Emirates for the visit of the champions with Arsenal legend Nigel Winterburn joining Ayo pitchside. Plus, Marc Guehi returns to his first club - non-league Cray Wanderers.</desc>
 		<icon src="https://poster.starhubgo.com/poster/welcome_to_the_weekend_V2.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="221" start="20250201033000 +0000" stop="20250201040000 +0000">
 		<title>THE BIG INTERVIEW - EP 25</title>
-		<desc>Extended sit-downs and more informal 'out and about' interviews with the Premier League's biggest stars, providing players with a platform to tell their story in their own words.</desc>
+		<desc>From humble beginnings to playing for the current Premier League Champions, Manchester City's Savinho sits down for this week's Big Interview. Growing up working on a farm with his family in Brazil, we hear how those early life experiences grounded the 20-year-old, as he talks us through his career to date and the upcoming game against Arsenal.</desc>
 		<icon src="https://poster.starhubgo.com/poster/the_big_interview_V2.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="221" start="20250201040000 +0000" stop="20250201043000 +0000">
@@ -11578,7 +11588,7 @@
 	</programme>
 	<programme channel="221" start="20250201060000 +0000" stop="20250201063000 +0000">
 		<title>PREVIEW - FRI 31 JAN</title>
-		<desc>A tightly packed look-ahead to the forthcoming matchround with a mix of player interviews and special features.</desc>
+		<desc>Looking ahead to Matchweek 24 with Nottingham Forest playlist host to Brighton and the low table clash between Ipswich and Southampton.</desc>
 		<icon src="https://poster.starhubgo.com/poster/pl_preview_V2.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="221" start="20250201063000 +0000" stop="20250201073000 +0000">
@@ -11593,7 +11603,7 @@
 	</programme>
 	<programme channel="221" start="20250201080000 +0000" stop="20250201090000 +0000">
 		<title>WELCOME TO THE WEEKEND - FRI 31 JAN</title>
-		<desc>Light-hearted, inclusive and entertaining, Welcome to the Weekend is the show that kicks off the Premier League weekend. We will focus on the football but also on the lifestyle topics that footballers and fans love - whether it's food and family, music and movies, or fashion and gaming. The On-Screen Team will bring chemistry, energy and a load of fun.</desc>
+		<desc>Erling Haaland is quizzed by Andrew and Anita on some of his best Manchester City goals, and we are on the road at the Emirates for the visit of the champions with Arsenal legend Nigel Winterburn joining Ayo pitchside. Plus, Marc Guehi returns to his first club - non-league Cray Wanderers.</desc>
 		<icon src="https://poster.starhubgo.com/poster/welcome_to_the_weekend_V2.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="221" start="20250201090000 +0000" stop="20250201100000 +0000">
@@ -11603,7 +11613,7 @@
 	</programme>
 	<programme channel="221" start="20250201100000 +0000" stop="20250201103000 +0000">
 		<title>THE BIG INTERVIEW - EP 25</title>
-		<desc>Extended sit-downs and more informal 'out and about' interviews with the Premier League's biggest stars, providing players with a platform to tell their story in their own words.</desc>
+		<desc>From humble beginnings to playing for the current Premier League Champions, Manchester City's Savinho sits down for this week's Big Interview. Growing up working on a farm with his family in Brazil, we hear how those early life experiences grounded the 20-year-old, as he talks us through his career to date and the upcoming game against Arsenal.</desc>
 		<icon src="https://poster.starhubgo.com/poster/the_big_interview_V2.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="221" start="20250201103000 +0000" stop="20250201110000 +0000">
@@ -11613,7 +11623,7 @@
 	</programme>
 	<programme channel="221" start="20250201110000 +0000" stop="20250201113000 +0000">
 		<title>PREVIEW - FRI 31 JAN</title>
-		<desc>A tightly packed look-ahead to the forthcoming matchround with a mix of player interviews and special features.</desc>
+		<desc>Looking ahead to Matchweek 24 with Nottingham Forest playlist host to Brighton and the low table clash between Ipswich and Southampton.</desc>
 		<icon src="https://poster.starhubgo.com/poster/pl_preview_V2.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="221" start="20250201113000 +0000" stop="20250201122000 +0000">
@@ -11668,7 +11678,7 @@
 	</programme>
 	<programme channel="222" start="20250201043000 +0000" stop="20250201050000 +0000">
 		<title>PL Preview 2024/25 - EP 21</title>
-		<desc>A tightly packed look-ahead to the forthcoming matchround with a mix of player interviews and special features.</desc>
+		<desc>Looking ahead to Matchweek 24 with Nottingham Forest playlist host to Brighton and the low table clash between Ipswich and Southampton.</desc>
 		<icon src="https://poster.starhubgo.com/poster/pl_preview_V2.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="222" start="20250201050000 +0000" stop="20250201070000 +0000">
@@ -11683,12 +11693,12 @@
 	</programme>
 	<programme channel="222" start="20250201073000 +0000" stop="20250201080000 +0000">
 		<title>The Big Interview 2024/25 - EP 25</title>
-		<desc>Extended sit-downs and more informal ‘out and about’ interviews with the Premier League’s biggest stars, providing players with a platform to tell their story in their own words.</desc>
+		<desc>From humble beginnings to playing for the current Premier League Champions, Manchester City’s Savinho sits down for this week’s Big Interview. Growing up working on a farm with his family in Brazil, we hear how those early life experiences grounded the 20-year-old, as he talks us through his career to date and the upcoming game against Arsenal.</desc>
 		<icon src="https://poster.starhubgo.com/poster/the_big_interview_V2.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="222" start="20250201080000 +0000" stop="20250201083000 +0000">
 		<title>PL Preview 2024/25 - EP 21</title>
-		<desc>A tightly packed look-ahead to the forthcoming matchround with a mix of player interviews and special features.</desc>
+		<desc>Looking ahead to Matchweek 24 with Nottingham Forest playlist host to Brighton and the low table clash between Ipswich and Southampton.</desc>
 		<icon src="https://poster.starhubgo.com/poster/pl_preview_V2.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="222" start="20250201083000 +0000" stop="20250201090000 +0000">
@@ -11698,7 +11708,7 @@
 	</programme>
 	<programme channel="222" start="20250201090000 +0000" stop="20250201095500 +0000">
 		<title>PL Moments 2024/25 - EP 8</title>
-		<desc>PL Moments combines archive and first person testimony to revisit the very best games, goals, players and performances from the last 30 years.</desc>
+		<desc>Join Togo and African football icon Emmanuel Adebayor as he relives his top 10 Premier League moments. From iconic goals to unforgettable rivalries, this inspiring and entertaining show is packed with candid insights, untold stories, and the passion that defined his career.</desc>
 		<icon src="https://poster.starhubgo.com/poster/PL_Moments_V2.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="222" start="20250201095500 +0000" stop="20250201115000 +0000">
@@ -11718,12 +11728,12 @@
 	</programme>
 	<programme channel="222" start="20250201142000 +0000" stop="20250201145000 +0000">
 		<title>The Big Interview 2024/25 - EP 25</title>
-		<desc>Extended sit-downs and more informal ‘out and about’ interviews with the Premier League’s biggest stars, providing players with a platform to tell their story in their own words.</desc>
+		<desc>From humble beginnings to playing for the current Premier League Champions, Manchester City’s Savinho sits down for this week’s Big Interview. Growing up working on a farm with his family in Brazil, we hear how those early life experiences grounded the 20-year-old, as he talks us through his career to date and the upcoming game against Arsenal.</desc>
 		<icon src="https://poster.starhubgo.com/poster/the_big_interview_V2.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="222" start="20250201145000 +0000" stop="20250201170000 +0000">
 		<title>Newcastle United vs Fulham (MW24) (Live) - EP 235</title>
-		<desc>The 33rd season of the Premier League sees Manchester City defend its title against a host of teams keen for glory themselves. 20 teams are in the mix but only 1 champion will emerge ultimately.</desc>
+		<desc>Fulham won the reverse fixture against Newcastle 3-1 in September - only in 2006-07 and 2008-09 have they completed the Premier League double over the Magpies.</desc>
 		<icon src="https://poster.starhubgo.com/poster/newcastle_stadium.jpg?w=960" />
 	</programme>
 	<programme channel="223" start="20250130160000 +0000" stop="20250130220000 +0000">
@@ -11768,7 +11778,7 @@
 	</programme>
 	<programme channel="223" start="20250201145000 +0000" stop="20250201170000 +0000">
 		<title>Everton vs Leicester City (MW24) (Live) - EP 233</title>
-		<desc>The 33rd season of the Premier League sees Manchester City defend its title against a host of teams keen for glory themselves. 20 teams are in the mix but only 1 champion will emerge ultimately.</desc>
+		<desc>Leicester have won just one of their last eight Premier League meetings with Everton (D4 L3), though it was their last away match against them in November 2022.</desc>
 		<icon src="https://poster.starhubgo.com/poster/everton_stadium.jpg?w=960" />
 	</programme>
 	<programme channel="224" start="20250130160000 +0000" stop="20250130220000 +0000">
@@ -11813,7 +11823,7 @@
 	</programme>
 	<programme channel="224" start="20250201145000 +0000" stop="20250201170000 +0000">
 		<title>Ipswich Town vs Southampton (MW24) (Live) - EP 234</title>
-		<desc>The 33rd season of the Premier League sees Manchester City defend its title against a host of teams keen for glory themselves. 20 teams are in the mix but only 1 champion will emerge ultimately.</desc>
+		<desc>Ipswich are unbeaten in their last four league meetings with Southampton (W2 D2), winning this exact fixture 3-2 in the Championship last season.</desc>
 		<icon src="https://poster.starhubgo.com/poster/Ipswich_town_stadium.jpg?w=960" />
 	</programme>
 	<programme channel="225" start="20250130160000 +0000" stop="20250130220000 +0000">
@@ -11858,7 +11868,7 @@
 	</programme>
 	<programme channel="225" start="20250201145000 +0000" stop="20250201170000 +0000">
 		<title>AFC Bournemouth vs Liverpool (MW24) (Live) - EP 232</title>
-		<desc>The 33rd season of the Premier League sees Manchester City defend its title against a host of teams keen for glory themselves. 20 teams are in the mix but only 1 champion will emerge ultimately.</desc>
+		<desc>Liverpool have only lost one of their last eight Premier League games against a side coming into the match on an 11+ game unbeaten run (W4 D3), going down 4-1 at home to Man City in February 2021.</desc>
 		<icon src="https://poster.starhubgo.com/poster/bournemouth_stadium.jpg?w=960" />
 	</programme>
 	<programme channel="226" start="20250130160000 +0000" stop="20250130220000 +0000">
@@ -12018,7 +12028,7 @@
 	</programme>
 	<programme channel="232" start="20250201043000 +0000" stop="20250201050000 +0000">
 		<title>PL Preview 2024/25 - EP 21</title>
-		<desc>A tightly packed look-ahead to the forthcoming matchround with a mix of player interviews and special features.</desc>
+		<desc>Looking ahead to Matchweek 24 with Nottingham Forest playlist host to Brighton and the low table clash between Ipswich and Southampton.</desc>
 		<icon src="https://poster.starhubgo.com/poster/pl_preview_V2.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="232" start="20250201050000 +0000" stop="20250201070000 +0000">
@@ -12033,12 +12043,12 @@
 	</programme>
 	<programme channel="232" start="20250201073000 +0000" stop="20250201080000 +0000">
 		<title>The Big Interview 2024/25 - EP 25</title>
-		<desc>Extended sit-downs and more informal ‘out and about’ interviews with the Premier League’s biggest stars, providing players with a platform to tell their story in their own words.</desc>
+		<desc>From humble beginnings to playing for the current Premier League Champions, Manchester City’s Savinho sits down for this week’s Big Interview. Growing up working on a farm with his family in Brazil, we hear how those early life experiences grounded the 20-year-old, as he talks us through his career to date and the upcoming game against Arsenal.</desc>
 		<icon src="https://poster.starhubgo.com/poster/the_big_interview_V2.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="232" start="20250201080000 +0000" stop="20250201083000 +0000">
 		<title>PL Preview 2024/25 - EP 21</title>
-		<desc>A tightly packed look-ahead to the forthcoming matchround with a mix of player interviews and special features.</desc>
+		<desc>Looking ahead to Matchweek 24 with Nottingham Forest playlist host to Brighton and the low table clash between Ipswich and Southampton.</desc>
 		<icon src="https://poster.starhubgo.com/poster/pl_preview_V2.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="232" start="20250201083000 +0000" stop="20250201090000 +0000">
@@ -12048,7 +12058,7 @@
 	</programme>
 	<programme channel="232" start="20250201090000 +0000" stop="20250201095500 +0000">
 		<title>PL Moments 2024/25 - EP 8</title>
-		<desc>PL Moments combines archive and first person testimony to revisit the very best games, goals, players and performances from the last 30 years.</desc>
+		<desc>Join Togo and African football icon Emmanuel Adebayor as he relives his top 10 Premier League moments. From iconic goals to unforgettable rivalries, this inspiring and entertaining show is packed with candid insights, untold stories, and the passion that defined his career.</desc>
 		<icon src="https://poster.starhubgo.com/poster/PL_Moments_V2.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="232" start="20250201095500 +0000" stop="20250201115000 +0000">
@@ -12068,12 +12078,12 @@
 	</programme>
 	<programme channel="232" start="20250201142000 +0000" stop="20250201145000 +0000">
 		<title>The Big Interview 2024/25 - EP 25</title>
-		<desc>Extended sit-downs and more informal ‘out and about’ interviews with the Premier League’s biggest stars, providing players with a platform to tell their story in their own words.</desc>
+		<desc>From humble beginnings to playing for the current Premier League Champions, Manchester City’s Savinho sits down for this week’s Big Interview. Growing up working on a farm with his family in Brazil, we hear how those early life experiences grounded the 20-year-old, as he talks us through his career to date and the upcoming game against Arsenal.</desc>
 		<icon src="https://poster.starhubgo.com/poster/the_big_interview_V2.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="232" start="20250201145000 +0000" stop="20250201170000 +0000">
 		<title>Newcastle United vs Fulham (MW24) (Live) - EP 235</title>
-		<desc>The 33rd season of the Premier League sees Manchester City defend its title against a host of teams keen for glory themselves. 20 teams are in the mix but only 1 champion will emerge ultimately.</desc>
+		<desc>Fulham won the reverse fixture against Newcastle 3-1 in September - only in 2006-07 and 2008-09 have they completed the Premier League double over the Magpies.</desc>
 		<icon src="https://poster.starhubgo.com/poster/newcastle_stadium.jpg?w=960" />
 	</programme>
 	<programme channel="241" start="20250130160000 +0000" stop="20250130170000 +0000">
@@ -29287,8 +29297,8 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="811" start="20250131010000 +0000" stop="20250131010500 +0000">
-		<title>News &amp; Weather</title>
-		<desc>The latest up-to-date news and nationwide weather information.</desc>
+		<title>100 Beautiful Mountains of Japan Mini</title>
+		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="811" start="20250131010500 +0000" stop="20250131015500 +0000">
