@@ -5823,10 +5823,15 @@
 	</programme>
 	<programme channel="135" start="20250201133000 +0000" stop="20250201150000 +0000">
 		<title>Jodi - Are U Ready S02 - EP 3</title>
-		<desc>Get ready for the return of your favorite dance show! Rio and Angelina are back as hosts, with judges Sandy, Rambha, and Sridevi bringing the excitement. Tune in!</desc>
+		<desc>New contestants hit the stage, aiming to impress with their moves! Who will outshine the rest and claim victory in this electrifying dance battle?</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch135_jodi_are_u_ready_s02.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="135" start="20250201150000 +0000" stop="20250201163000 +0000">
+	<programme channel="135" start="20250201150000 +0000" stop="20250201160000 +0000">
+		<title>Super Singer Junior S10 - EP 22</title>
+		<desc>Get ready for an epic showdown as talented young singers battle it out for the title of Super Singer, judged by an incredible panel! Let the competition begin!</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch135_super_singer_junior_s10.jpg?w=960&amp;h=540" />
+	</programme>
+	<programme channel="135" start="20250201160000 +0000" stop="20250201163000 +0000">
 		<title>Super Singer Junior S10 - EP 22</title>
 		<desc>Get ready for an epic showdown as talented young singers battle it out for the title of Super Singer, judged by an incredible panel! Let the competition begin!</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch135_super_singer_junior_s10.jpg?w=960&amp;h=540" />
@@ -5848,7 +5853,7 @@
 	</programme>
 	<programme channel="135" start="20250201180000 +0000" stop="20250201193000 +0000">
 		<title>Jodi - Are U Ready S02 - EP 3</title>
-		<desc>Get ready for the return of your favorite dance show! Rio and Angelina are back as hosts, with judges Sandy, Rambha, and Sridevi bringing the excitement. Tune in!</desc>
+		<desc>New contestants hit the stage, aiming to impress with their moves! Who will outshine the rest and claim victory in this electrifying dance battle?</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch135_jodi_are_u_ready_s02.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="135" start="20250201193000 +0000" stop="20250201200000 +0000">
@@ -5940,11 +5945,6 @@
 		<title>Hanuman</title>
 		<desc>Hanuman</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch135_hanuman.jpg?w=960&amp;h=540" />
-	</programme>
-	<programme channel="135" start="20250202103000 +0000" stop="20250202120000 +0000">
-		<title>Super Singer Junior S10 - EP 23</title>
-		<desc>Get ready for an epic showdown as talented young singers battle it out for the title of Super Singer, judged by an incredible panel! Let the competition begin!</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch135_super_singer_junior_s10.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="135" start="20250202120000 +0000" stop="20250202133000 +0000">
 		<title>Andakakasam S03 - EP 5</title>
@@ -6916,22 +6916,22 @@
 		<desc>Dinesh seeks businesswoman, Shobha's favor with his friend's help. Release Year: 2019 Director: Dhyan Sreenivasan</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=960&amp;h=540" />
 	</programme>
-	<programme channel="140" start="20250201133000 +0000" stop="20250201163000 +0000">
+	<programme channel="140" start="20250201133000 +0000" stop="20250201162000 +0000">
 		<title>Vishesham</title>
-		<desc>In Cochin, a couple navigates the chaotic world of fertility treatments, facing bizarre challenges, false promises, and unexpected humor while searching for the right clinic.</desc>
+		<desc>In Cochin, a couple navigates the chaotic world of fertility treatments, facing bizarre challenges, false promises, and unexpected humor while searching for the right clinic. Release Year: 2024 Director: Sooraj Tom</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=960&amp;h=540" />
 	</programme>
-	<programme channel="140" start="20250201163000 +0000" stop="20250201190000 +0000">
+	<programme channel="140" start="20250201162000 +0000" stop="20250201191000 +0000">
 		<title>Dhrona (2010)</title>
 		<desc>A realtor buys a spooky house, and dies oddly; brother investigates with magic! Release Year: 2010 Director: Shaji Kailas</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=960&amp;h=540" />
 	</programme>
-	<programme channel="140" start="20250201190000 +0000" stop="20250201220000 +0000">
+	<programme channel="140" start="20250201191000 +0000" stop="20250201211000 +0000">
 		<title>Varathan</title>
 		<desc>Abin and his wife encounter problems moving from Dubai to Kerala. Release Year: 2018 Director: Amal Neerad Awards: 2019 Winner Asianet Film Award - Best Editor Vivek Harshan</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=960&amp;h=540" />
 	</programme>
-	<programme channel="140" start="20250201220000 +0000" stop="20250201233000 +0000">
+	<programme channel="140" start="20250201211000 +0000" stop="20250201233000 +0000">
 		<title>Iruvattam Manavatty</title>
 		<desc>Gautham, a veterinerian, falls in love with Bhumika. Release Year: 2005</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=960&amp;h=540" />
@@ -6942,8 +6942,8 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=960&amp;h=540" />
 	</programme>
 	<programme channel="140" start="20250202013000 +0000" stop="20250202043000 +0000">
-		<title>Nadodi Mannan</title>
-		<desc>Mayor Padmanabhan gets in trouble when he is forced to fight corruption. Release Year: 2013 Director: Viji Thampi</desc>
+		<title>Nadodimannan</title>
+		<desc>Padmanabhan's mayoral corruption triggers unexpected challenges within the city. Release Year: 2013 Director: Viji Thampi</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=960&amp;h=540" />
 	</programme>
 	<programme channel="140" start="20250202043000 +0000" stop="20250202073000 +0000">
@@ -7082,18 +7082,23 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/141_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="141" start="20250201160000 +0000" stop="20250201163000 +0000">
-		<title>Ini Ellam Vasanthame - EP 58</title>
+		<title>Ini Ellam Vasanthame - EP 64</title>
 		<desc>The Story discovers hero's mother dislikes the woman he loves and keeps him in a position where he must choose between the two</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/141_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="141" start="20250201163000 +0000" stop="20250201200000 +0000">
-		<title>MOVIE - AEGAN (U)</title>
-		<desc>MOVIE - AEGAN (U) Starring Ajith Kuamr, Nayanthara, Navdeep, Pia Bajpai, Jayaram</desc>
+	<programme channel="141" start="20250201163000 +0000" stop="20250201193000 +0000">
+		<title>MOVIE - THAMIZH PADAM (U)</title>
+		<desc>MOVIE - THAMIZH PADAM (U) Starring Mirchi Shiva, Disha Pandey</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/141_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="141" start="20250201193000 +0000" stop="20250201203000 +0000">
+		<title>Inthavaara kalakalappu</title>
+		<desc>Back to back Comedy</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/141_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="141" start="20250201203000 +0000" stop="20250201223000 +0000">
-		<title>BREAKFREE MOVIE - AZHAGAR SAAMIYIN KUTHIRAI (U)</title>
-		<desc>BREAKFREE MOVIE - AZHAGAR SAAMIYIN KUTHIRAI (U) Starring Appukutty, Saranya Mohan</desc>
+		<title>BREAKFREE MOVIE - 4 SORRY (U/A)</title>
+		<desc>BREAKFREE MOVIE - 4 SORRY (U/A) Starring Kaali Venkat, Daniel, John Vijay, Sakshi Aggarwal, Sahana</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/141_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="141" start="20250201223000 +0000" stop="20250202000000 +0000">
@@ -7127,12 +7132,12 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/141_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="141" start="20250202023000 +0000" stop="20250202043000 +0000">
-		<title>MOVIE - IDIOT (U)</title>
-		<desc>MOVIE - IDIOT (U) Starring Mirchi Shiva, Nikki galrani, Akshara Gowda</desc>
+		<title>MOVIE - NAACHIYAR (U/A)</title>
+		<desc>MOVIE - NAACHIYAR (U/A) Starring Jyothika, GV Prakash Kumar, Ivana</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/141_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="141" start="20250202043000 +0000" stop="20250202053000 +0000">
-		<title>Vaa Thamizha Vaa Season V - EP 14</title>
+		<title>Vaa Thamizha Vaa Season 6 - EP 1</title>
 		<desc>After the success of the first season of Thamizhodu Vilayaadu a tamil word game show, the second season starts with fresh and colourful rounds with new school students</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/141_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
@@ -7142,7 +7147,7 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/141_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="141" start="20250202063000 +0000" stop="20250202073000 +0000">
-		<title>Master Chef Tamil Season 2 - EP 11</title>
+		<title>Master Chef Tamil Season 2 - EP 12</title>
 		<desc>The brand new season of 'MasterChef India - Tamil' promises a flavour-packed journey with some of the most talented home cooks.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/141_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
@@ -7151,12 +7156,12 @@
 		<desc>Live News from Kalaignar TV studio</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/141_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="141" start="20250202080000 +0000" stop="20250202110000 +0000">
-		<title>MOVIE - DIARY (U/A)</title>
-		<desc>MOVIE - DIARY (U/A) Starring Arulnidhi Tamilarasu, Pavithra Marimuthu</desc>
+	<programme channel="141" start="20250202080000 +0000" stop="20250202113000 +0000">
+		<title>MOVIE - BAGASURAN (U/A)</title>
+		<desc>MOVIE - BAGASURAN (U/A) Starring Selvaraghavan, Natty Natraj</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/141_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="141" start="20250202110000 +0000" stop="20250202120000 +0000">
+	<programme channel="141" start="20250202113000 +0000" stop="20250202120000 +0000">
 		<title>Inthavaara kalakalappu</title>
 		<desc>Back to back Comedy</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/141_1920x1080_HTV.png?w=341&amp;h=192" />
@@ -7167,13 +7172,13 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/141_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="141" start="20250202123000 +0000" stop="20250202133000 +0000">
-		<title>Thamizhodu Vilayaadu Season 2 - EP 19</title>
+		<title>Thamizhodu Vilayaadu Season 2 - EP 20</title>
 		<desc>After the success of the first season of Thamizhodu Vilayaadu a tamil word game show, the second season starts with fresh and colourful rounds with new school students</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/141_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="141" start="20250202133000 +0000" stop="20250202170000 +0000">
-		<title>MOVIE - MARUTHAMALAI (U)</title>
-		<desc>MOVIE - MARUTHAMALAI (U) Starring Arjun, Meera Chopra, Vadivelu</desc>
+	<programme channel="141" start="20250202133000 +0000" stop="20250202163000 +0000">
+		<title>MOVIE - VIDUTHALAI PART - 1</title>
+		<desc>MOVIE - VIDUTHALAI PART - 1 Starring Soori, Vijay Sethupathi, Bhavani Sree, Gautham menon, Chetan</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/141_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="143" start="20250131160000 +0000" stop="20250131163000 +0000">
@@ -9386,34 +9391,79 @@
 		<desc>Adaikalam, an accused, who has been imprisoned for many years helps two other men to escape from jail. They decide to mingle with the devotees travelling to Sabarimala in order to trick the police.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/159_1920x1080_HTV.png?w=960&amp;h=540" />
 	</programme>
-	<programme channel="159" start="20250201040000 +0000" stop="20250201100000 +0000">
-		<title>Information Not Available</title>
-		<desc />
+	<programme channel="159" start="20250201010000 +0000" stop="20250201013000 +0000">
+		<title>Fillers</title>
+		<desc>KTV HD presents you round-the-clock Kollywood movies, from the latest blockbusters to classics of the yesteryear!</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/159_1920x1080_HTV.png?w=960&amp;h=540" />
 	</programme>
-	<programme channel="159" start="20250201100000 +0000" stop="20250201160000 +0000">
-		<title>Information Not Available</title>
-		<desc />
+	<programme channel="159" start="20250201013000 +0000" stop="20250201043000 +0000">
+		<title>Movie - Aasai Aasaiyai</title>
+		<desc>A man is hired as a detective and asked to keep tabs on a girl to find out if she is having an affair. While doing his job, he ends up falling in love with her, but the girl doesn't believe in love as her sister had eloped with another man.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/159_1920x1080_HTV.png?w=960&amp;h=540" />
 	</programme>
-	<programme channel="159" start="20250201160000 +0000" stop="20250201220000 +0000">
-		<title>Information Not Available</title>
-		<desc />
+	<programme channel="159" start="20250201043000 +0000" stop="20250201073000 +0000">
+		<title>Movie - Kadhal Azhivadhillai</title>
+		<desc>Poor boy, rich girl story where the duo fall for each other after a few hiccups. The girl's father, a minister, tries his best to separate the two. Also, the boy has his own domestic issues to tackle.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/159_1920x1080_HTV.png?w=960&amp;h=540" />
 	</programme>
-	<programme channel="159" start="20250201220000 +0000" stop="20250202040000 +0000">
-		<title>Information Not Available</title>
-		<desc />
+	<programme channel="159" start="20250201073000 +0000" stop="20250201103000 +0000">
+		<title>Movie - Murattu Kaalai</title>
+		<desc>Although Kaalaiyan and his brothers can afford a luxurious lifestyle, yet they choose to live modestly. However, Sundaravelu is a devious man who tries to grab their land.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/159_1920x1080_HTV.png?w=960&amp;h=540" />
 	</programme>
-	<programme channel="159" start="20250202040000 +0000" stop="20250202100000 +0000">
-		<title>Information Not Available</title>
-		<desc />
+	<programme channel="159" start="20250201103000 +0000" stop="20250201133000 +0000">
+		<title>Movie - Pithamagan</title>
+		<desc>A young orphan grows up in a graveyard and is devoid of any human feelings; when he leaves the cemetery and meets people, he experiences emotions for the first time.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/159_1920x1080_HTV.png?w=960&amp;h=540" />
 	</programme>
-	<programme channel="159" start="20250202100000 +0000" stop="20250202160000 +0000">
-		<title>Information Not Available</title>
-		<desc />
+	<programme channel="159" start="20250201133000 +0000" stop="20250201170000 +0000">
+		<title>Movie - Thimiru Pudichavan</title>
+		<desc>Murugavel, a police officer, sets out to bring a positive change in society. However, he faces trouble from the criminal underworld.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/159_1920x1080_HTV.png?w=960&amp;h=540" />
+	</programme>
+	<programme channel="159" start="20250201170000 +0000" stop="20250201200000 +0000">
+		<title>Movie - Kadhal</title>
+		<desc>A mechanic elopes to Chennai with a rich school-girl, but the girl's persistent family won't leave them alone. Soon, the married couple is deceptively separated and the school-girl is married to someone else.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/159_1920x1080_HTV.png?w=960&amp;h=540" />
+	</programme>
+	<programme channel="159" start="20250201200000 +0000" stop="20250201223000 +0000">
+		<title>Movie - Mattuthavani</title>
+		<desc>Despite the disapproval of her elite friends, Maheshwari marries Ram, a poor student. Their married life runs into trouble when her friends speak poorly about Ram.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/159_1920x1080_HTV.png?w=960&amp;h=540" />
+	</programme>
+	<programme channel="159" start="20250201223000 +0000" stop="20250202010000 +0000">
+		<title>Movie - Malarinum Melliya</title>
+		<desc>Pannayar loves his village like his own family and is highly respected in society. When his son falls for the daughter of the local temple priest, his status comes in the way of agreeing to the match.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/159_1920x1080_HTV.png?w=960&amp;h=540" />
+	</programme>
+	<programme channel="159" start="20250202010000 +0000" stop="20250202013000 +0000">
+		<title>Fillers</title>
+		<desc>KTV HD presents you round-the-clock Kollywood movies, from the latest blockbusters to classics of the yesteryear!</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/159_1920x1080_HTV.png?w=960&amp;h=540" />
+	</programme>
+	<programme channel="159" start="20250202013000 +0000" stop="20250202043000 +0000">
+		<title>Movie - Kaadhal Konden</title>
+		<desc>A young orphan who is an introvert but a genius at the same time is raised by a church priest. He is sent to college where he turns out to be a misfit socially. Although he is shunned by the majority of students, one girl starts to warm up to him.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/159_1920x1080_HTV.png?w=960&amp;h=540" />
+	</programme>
+	<programme channel="159" start="20250202043000 +0000" stop="20250202073000 +0000">
+		<title>Movie - Thuklak Darbar</title>
+		<desc>A young politician has devious plans to advance his career. However, he suddenly develops a conscientious alter ego that interferes with his crooked efforts.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/159_1920x1080_HTV.png?w=960&amp;h=540" />
+	</programme>
+	<programme channel="159" start="20250202073000 +0000" stop="20250202103000 +0000">
+		<title>Movie - Em Mahan</title>
+		<desc>A man, who is popular for his strictness in his village, treats his son badly. The son wants to marry his childhood friend but his parents and the girl's parents are at loggerheads, making it tough for him to marry her.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/159_1920x1080_HTV.png?w=960&amp;h=540" />
+	</programme>
+	<programme channel="159" start="20250202103000 +0000" stop="20250202133000 +0000">
+		<title>Movie - Mounam Pesiyathe</title>
+		<desc>Gautham, who runs a restaurant, falls in love with his friend Kannan's cousin, Sandhya. Problems arise when Gautham learns that Kannan's parents want Kannan to marry Sandhya.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/159_1920x1080_HTV.png?w=960&amp;h=540" />
+	</programme>
+	<programme channel="159" start="20250202133000 +0000" stop="20250202170000 +0000">
+		<title>Movie - Deepavali</title>
+		<desc>Billu and Susi are happily in love until he learns that she has forgotten him after being treated for post-traumatic stress disorder. He tries hard to make her remember about their relationship.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/159_1920x1080_HTV.png?w=960&amp;h=540" />
 	</programme>
 	<programme channel="201" start="20250131160000 +0000" stop="20250131200000 +0000">
@@ -11293,12 +11343,12 @@
 	</programme>
 	<programme channel="222" start="20250201173000 +0000" stop="20250201180000 +0000">
 		<title>The Big Interview 2024/25 - EP 25</title>
-		<desc>Extended sit-downs and more informal ‘out and about’ interviews with the Premier League’s biggest stars, providing players with a platform to tell their story in their own words.</desc>
+		<desc>From humble beginnings to playing for the current Premier League Champions, Manchester City’s Savinho sits down for this week’s Big Interview. Growing up working on a farm with his family in Brazil, we hear how those early life experiences grounded the 20-year-old, as he talks us through his career to date and the upcoming game against Arsenal.</desc>
 		<icon src="https://poster.starhubgo.com/poster/the_big_interview_V2.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="222" start="20250201180000 +0000" stop="20250201190000 +0000">
 		<title>PL Moments 2024/25 - EP 8</title>
-		<desc>PL Moments combines archive and first person testimony to revisit the very best games, goals, players and performances from the last 30 years.</desc>
+		<desc>Join Togo and African football icon Emmanuel Adebayor as he relives his top 10 Premier League moments. From iconic goals to unforgettable rivalries, this inspiring and entertaining show is packed with candid insights, untold stories, and the passion that defined his career.</desc>
 		<icon src="https://poster.starhubgo.com/poster/PL_Moments_V2.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="222" start="20250201190000 +0000" stop="20250201210000 +0000">
@@ -11308,57 +11358,57 @@
 	</programme>
 	<programme channel="222" start="20250201210000 +0000" stop="20250201230000 +0000">
 		<title>Ipswich Town vs Southampton (MW24) - EP 234</title>
-		<desc>The 33rd season of the Premier League sees Manchester City defend its title against a host of teams keen for glory themselves. 20 teams are in the mix but only 1 champion will emerge ultimately.</desc>
+		<desc>Ipswich are unbeaten in their last four league meetings with Southampton (W2 D2), winning this exact fixture 3-2 in the Championship last season.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch221_MW24_IPSvSOU_25.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="222" start="20250201230000 +0000" stop="20250202010000 +0000">
 		<title>Nottingham Forest vs Brighton and Hove Albion (MW24) - EP 231</title>
-		<desc>The 33rd season of the Premier League sees Manchester City defend its title against a host of teams keen for glory themselves. 20 teams are in the mix but only 1 champion will emerge ultimately.</desc>
+		<desc>Brighton won this exact fixture 3-2 last season - they’ve never before won consecutive away league games against Nottingham Forest.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch221_MW24_NFOvBHA_25.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="222" start="20250202010000 +0000" stop="20250202020000 +0000">
 		<title>Match Day Live Extra 2024/25 - EP 24</title>
-		<desc>A complete review of all the day’s Premier League football, with highlights and studio discussion.</desc>
+		<desc>Highlights from all six Premier League games, with expert analysis provided by Tim Sherwood and Karen Carney.</desc>
 		<icon src="https://poster.starhubgo.com/poster/matchday_live_extra_V2.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="222" start="20250202020000 +0000" stop="20250202040000 +0000">
 		<title>AFC Bournemouth vs Liverpool (MW24) - EP 232</title>
-		<desc>The 33rd season of the Premier League sees Manchester City defend its title against a host of teams keen for glory themselves. 20 teams are in the mix but only 1 champion will emerge ultimately.</desc>
+		<desc>Liverpool have only lost one of their last eight Premier League games against a side coming into the match on an 11+ game unbeaten run (W4 D3), going down 4-1 at home to Man City in February 2021.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch221_MW24_BOUvLIV_25.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="222" start="20250202040000 +0000" stop="20250202060000 +0000">
 		<title>Newcastle United vs Fulham (MW24) - EP 235</title>
-		<desc>The 33rd season of the Premier League sees Manchester City defend its title against a host of teams keen for glory themselves. 20 teams are in the mix but only 1 champion will emerge ultimately.</desc>
+		<desc>Fulham won the reverse fixture against Newcastle 3-1 in September - only in 2006-07 and 2008-09 have they completed the Premier League double over the Magpies.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch221_MW24_NEWvFUL_25.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="222" start="20250202060000 +0000" stop="20250202080000 +0000">
 		<title>Everton vs Leicester City (MW24) - EP 233</title>
-		<desc>The 33rd season of the Premier League sees Manchester City defend its title against a host of teams keen for glory themselves. 20 teams are in the mix but only 1 champion will emerge ultimately.</desc>
+		<desc>Leicester have won just one of their last eight Premier League meetings with Everton (D4 L3), though it was their last away match against them in November 2022.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch221_MW24_EVEvLEI_25.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="222" start="20250202080000 +0000" stop="20250202100000 +0000">
 		<title>Wolverhampton Wanderers vs Aston Villa (MW24) - EP 236</title>
-		<desc>The 33rd season of the Premier League sees Manchester City defend its title against a host of teams keen for glory themselves. 20 teams are in the mix but only 1 champion will emerge ultimately.</desc>
+		<desc>In 23 Premier League games this season, Wolves have conceded 52 goals. At 2.26 goals against per game, this is their worst average in a league season since 1932-33 (96 in 42 games, 2.29).</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch221_MW24_WOLvAVL_25.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="222" start="20250202100000 +0000" stop="20250202105500 +0000">
 		<title>Match Day Live Extra 2024/25 - EP 24</title>
-		<desc>A complete review of all the day’s Premier League football, with highlights and studio discussion.</desc>
+		<desc>Highlights from all six Premier League games, with expert analysis provided by Tim Sherwood and Karen Carney.</desc>
 		<icon src="https://poster.starhubgo.com/poster/matchday_live_extra_V2.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="222" start="20250202105500 +0000" stop="20250202115000 +0000">
 		<title>PL Moments 2024/25 - EP 8</title>
-		<desc>PL Moments combines archive and first person testimony to revisit the very best games, goals, players and performances from the last 30 years.</desc>
+		<desc>Join Togo and African football icon Emmanuel Adebayor as he relives his top 10 Premier League moments. From iconic goals to unforgettable rivalries, this inspiring and entertaining show is packed with candid insights, untold stories, and the passion that defined his career.</desc>
 		<icon src="https://poster.starhubgo.com/poster/PL_Moments_V2.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="222" start="20250202115000 +0000" stop="20250202135000 +0000">
 		<title>AFC Bournemouth vs Liverpool (MW24) - EP 232</title>
-		<desc>The 33rd season of the Premier League sees Manchester City defend its title against a host of teams keen for glory themselves. 20 teams are in the mix but only 1 champion will emerge ultimately.</desc>
+		<desc>Liverpool have only lost one of their last eight Premier League games against a side coming into the match on an 11+ game unbeaten run (W4 D3), going down 4-1 at home to Man City in February 2021.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch221_MW24_BOUvLIV_25.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="222" start="20250202135000 +0000" stop="20250202155000 +0000">
 		<title>Brentford vs Tottenham Hotspur (MW24) (Live) - EP 237</title>
-		<desc>The 33rd season of the Premier League sees Manchester City defend its title against a host of teams keen for glory themselves. 20 teams are in the mix but only 1 champion will emerge ultimately.</desc>
+		<desc>The team scoring first has won none of the last five Premier League meetings between Brentford and Tottenham, with Spurs coming back to win twice, Brentford once, and two draws.</desc>
 		<icon src="https://poster.starhubgo.com/poster/brentford_stadium.jpg?w=960" />
 	</programme>
 	<programme channel="222" start="20250202155000 +0000" stop="20250202162000 +0000">
