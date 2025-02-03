@@ -1858,7 +1858,7 @@
 	</programme>
 	<programme channel="106" start="20250202223000 +0000" stop="20250202230000 +0000">
 		<title>Money Mind - EP 37</title>
-		<desc>Money Mind is all about how to save, how to invest, and how to better spend your money. Your weekly personal finance tips to help you make all the right money moves in Asia. Because, personal finance matters.</desc>
+		<desc>Is Japan's four-day work week working out for bosses and workers? Big city and provincial living: how to get the best of both worlds. Plus, meet the high-flyer whose daily commute is by aeroplane.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="106" start="20250202230000 +0000" stop="20250203020000 +0000">
@@ -10376,20 +10376,25 @@
 		<desc>Catch the 17th edition of the Indian Premier League, the most popular cricket league here on StarHub!</desc>
 		<icon src="https://poster.starhubgo.com/poster/IPL2024_M20.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="204" start="20250204040000 +0000" stop="20250204080000 +0000">
+	<programme channel="204" start="20250204040000 +0000" stop="20250204075000 +0000">
 		<title>England Tour of India 2025: 3rd T20I</title>
 		<desc>England Tour of India 2025: 3rd T20I</desc>
-		<icon src="https://poster.starhubgo.com/poster/ENGvIND2025_GENERIC.jpg?w=960&amp;h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ENGvIND2025_T20I.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="204" start="20250204080000 +0000" stop="20250204120000 +0000">
+	<programme channel="204" start="20250204075000 +0000" stop="20250204120000 +0000">
 		<title>England Tour of India 2025: 4th T20I</title>
 		<desc>England Tour of India 2025: 4th T20I</desc>
-		<icon src="https://poster.starhubgo.com/poster/ENGvIND2025_GENERIC.jpg?w=960&amp;h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ENGvIND2025_T20I.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="204" start="20250204120000 +0000" stop="20250204160000 +0000">
+	<programme channel="204" start="20250204120000 +0000" stop="20250204154500 +0000">
 		<title>England Tour of India 2025: 5th T20I</title>
 		<desc>England Tour of India 2025: 5th T20I</desc>
-		<icon src="https://poster.starhubgo.com/poster/ENGvIND2025_GENERIC.jpg?w=960&amp;h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ENGvIND2025_T20I.jpg?w=960&amp;h=540" />
+	</programme>
+	<programme channel="204" start="20250204154500 +0000" stop="20250204160000 +0000">
+		<title>End of Transmission</title>
+		<desc />
+		<icon src="https://poster.starhubgo.com/Linear_Channels2/204_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="205" start="20250202160000 +0000" stop="20250202220000 +0000">
 		<title>End of Transmission</title>
@@ -10636,32 +10641,32 @@
 		<desc>12 of the best MLB teams of the Regular Season slug it out through the Wild Card, Division, League Championship and World Series to be crowned kings of the world's best professional baseball league.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch209_baseball.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="209" start="20250204001500 +0000" stop="20250204021500 +0000">
+	<programme channel="209" start="20250204001000 +0000" stop="20250204021500 +0000">
 		<title>Saudi Arabia: King Cup 24/25 Quarter-Finals: Al Shabab vs Al Fayha</title>
 		<desc>Experience the action-packed 50th edition of the King Cup, and watch top teams from the Saudi Pro League and the First Division battle for the prestigious title, with dramatic moments, stunning goals, and intense rivalries.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch209_spotv.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="209" start="20250204021500 +0000" stop="20250204041500 +0000">
+	<programme channel="209" start="20250204021500 +0000" stop="20250204042000 +0000">
 		<title>ROSHN Saudi League 2024/25 Matchday 18 Al Raed vs Al Nassr</title>
 		<desc>Bringing together prominent professional players from the Kingdom and all around the world, the ROSHN Saudi League delivers weekly thrilling matches to spectators nationally and internationally.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch209_spotv.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="209" start="20250204041500 +0000" stop="20250204061500 +0000">
+	<programme channel="209" start="20250204042000 +0000" stop="20250204061500 +0000">
 		<title>ISUZU UTE A-League Men 2024/25 Rd17 Perth Glory vs Melbourne Victory</title>
 		<desc>The ISUZU UTE A-League Men's is the top-division Men's soccer league in Australia. It consists of 13 teams, with the top four teams in the regular season then advance to the single-game knockout stage.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch209_spotv.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="209" start="20250204061500 +0000" stop="20250204084500 +0000">
+	<programme channel="209" start="20250204061500 +0000" stop="20250204085000 +0000">
 		<title>Arabian Gulf Cup Final Oman vs Bahrain</title>
 		<desc>The Arabian Gulf Cup tournament typically features eight teams has become a prestigious event in the region, fostering unity and showcasing local football talent.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch209_spotv.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="209" start="20250204084500 +0000" stop="20250204124500 +0000">
+	<programme channel="209" start="20250204085000 +0000" stop="20250204125000 +0000">
 		<title>2024 Idemitsu FIM ARRC Round 5: Malaysia</title>
 		<desc>The FIM Asia Road Racing Championship is the regional motorcycle road racing championship for Asia, held since 1996.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch209_motorsports.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="209" start="20250204124500 +0000" stop="20250204170000 +0000">
+	<programme channel="209" start="20250204125000 +0000" stop="20250204170000 +0000">
 		<title>2024 Idemitsu FIM ARRC Round 5: Malaysia</title>
 		<desc>The FIM Asia Road Racing Championship is the regional motorcycle road racing championship for Asia, held since 1996.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch209_motorsports.jpg?w=960&amp;h=540" />
@@ -29256,24 +29261,29 @@
 		<desc>A Heisei youth graffiti drama, in which the heroine Yoneda Yui (Hashimoto Kanna), born in the first year of the Heisei era, connects people's hearts to the future as a nutritionist. Always cherishing her individuality, she sometimes struggles, but powerfully and joyfully pushes through the turbulent Heisei and Reiwa eras.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="811" start="20250202231500 +0000" stop="20250203005400 +0000">
+	<programme channel="811" start="20250202231500 +0000" stop="20250202235500 +0000">
 		<title>asaichi</title>
 		<desc>Looking into topical information ranging from social issues to entertainment news through the eyes of the general public.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="811" start="20250203005400 +0000" stop="20250203005500 +0000">
+	<programme channel="811" start="20250202235500 +0000" stop="20250203000000 +0000">
+		<title>News &amp; Weather</title>
+		<desc>The latest up-to-date news and nationwide weather information.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="811" start="20250203000000 +0000" stop="20250203005900 +0000">
+		<title>BS Special "A Solo Interview with Yuval Noah Harari: Can Information Destroy Hum</title>
+		<desc>Yuval Noah Harari, a historian and author of the global bestseller 'Sapiens: A Brief History of Humankind,' interprets the ongoing wars and the reemergence of Trump. The keyword he highlighted is 'information.' Information has allowed humans to organize themselves and generate unparalleled political power. And now, with the advent of AI that automatically processes information without human intervention, he sees humanity facing a crisis in which political power could be reshaped.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="811" start="20250203005900 +0000" stop="20250203010000 +0000">
 		<title>World Weather</title>
 		<desc>Weather information of the different areas around the world.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="811" start="20250203005500 +0000" stop="20250203010000 +0000">
-		<title>Exercise for Everyone</title>
-		<desc>An easy-to-do exercise program for everyone from children to the elderly.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
 	<programme channel="811" start="20250203010000 +0000" stop="20250203010500 +0000">
-		<title>News &amp; Weather</title>
-		<desc>The latest up-to-date news and nationwide weather information.</desc>
+		<title>Bijutune!</title>
+		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="811" start="20250203010500 +0000" stop="20250203015000 +0000">
@@ -29332,13 +29342,28 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="811" start="20250203040000 +0000" stop="20250203040500 +0000">
-		<title>News</title>
-		<desc>The latest up-to-date news from Tokyo.</desc>
+		<title>Camera-eyed Japan</title>
+		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="811" start="20250203040500 +0000" stop="20250203055000 +0000">
-		<title>News Around Japan</title>
-		<desc>Program introduces the latest news from all over Japan.</desc>
+	<programme channel="811" start="20250203040500 +0000" stop="20250203053400 +0000">
+		<title>Earth Railway Part 3 "Ethnic Minority Villages" (R)</title>
+		<desc>A train journey across the Eurasian continent that can be traversed by railway network. We travel on the Laos-China railway which opened in 2021. In the region where the first railway was established, different ethnic minorities live around each station, forming their own communities.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="811" start="20250203053400 +0000" stop="20250203054200 +0000">
+		<title>Mini Program</title>
+		<desc />
+		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="811" start="20250203054200 +0000" stop="20250203054400 +0000">
+		<title>Mini Program</title>
+		<desc />
+		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="811" start="20250203054400 +0000" stop="20250203055000 +0000">
+		<title>Mini Program</title>
+		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="811" start="20250203055000 +0000" stop="20250203055500 +0000">
@@ -29352,8 +29377,8 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="811" start="20250203060000 +0000" stop="20250203061000 +0000">
-		<title>News &amp; Weather</title>
-		<desc>The latest up-to-date news and nationwide weather information.</desc>
+		<title>Rural Japan "Satoyama"</title>
+		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="811" start="20250203061000 +0000" stop="20250203063500 +0000">
@@ -29817,7 +29842,7 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="811" start="20250204130000 +0000" stop="20250204134500 +0000">
-		<title>Drama 10 "TOKYO SALAD BOWL"</title>
+		<title>Drama 10 "TOKYO SALAD BOWL" Eps. 5</title>
 		<desc>Arikino Ryo (Matsuda Ryuhei), a Chinese interpreter for the Metropolitan Police Department, meets Koda Mari (Nao), a green-haired woman eating a scorpion in the middle of Shinjuku. This eccentric-looking woman is actually a police officer on an international investigation. Their personalities are completely different, but eating multinational meals together in between investigating cases, gradually changes them into exquisite buddies whose "stomachs" are well matched.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
