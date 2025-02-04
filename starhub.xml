@@ -2032,8 +2032,8 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="106" start="20250205110000 +0000" stop="20250205120000 +0000">
-		<title>Singapore Perspectives 2025 - EP 1</title>
-		<desc />
+		<title>Singapore Perspectives 2025: Community - EP 1</title>
+		<desc>Minister for Culture, Community and Youth Edwin Tong shares his views on building a stronger community in a dialogue session at the Singapore Perspectives 2025 conference.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="106" start="20250205120000 +0000" stop="20250205130000 +0000">
@@ -10206,6 +10206,11 @@
 		<desc>HSBC BWF World Tour is the eighth season of the BWF World Tour of badminton, a circuit of 31 tournaments that lead up to the World Tour Finals tournament. The tour features five levels, with different levels of prize money in each of the tournaments.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch201_bwf_world_tour.jpg?w=960&amp;h=540" />
 	</programme>
+	<programme channel="201" start="20250205023000 +0000" stop="20250205030000 +0000">
+		<title>Heroines 2025</title>
+		<desc>Heroines is a new, timeless series, that tables important discussion that challenges the status quo and celebrates the unique values of women’s sport. Each episode features a dedicated theme such as equality, maternity, leadership, mental health, fan engagement, activism and more, supported by exclusive interviews with leaders at the forefront of women’s sport.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch201_Heroines2025.jpg?w=341&amp;h=192" />
+	</programme>
 	<programme channel="201" start="20250205030000 +0000" stop="20250205033000 +0000">
 		<title>ASO Sailing Programming 2024</title>
 		<desc>The Vendée Globe is a single-handed, non-stop, non-assisted round-the-world sailing race that takes place every 4 years. The skippers set off from Les Sables-d'Olonne in Vendée and sail around 45,000 kilometres around the globe, rounding the three legendary capes (Good Hope, Leeuwin and finally Cape Horn) before returning to Les Sables d'Olonne. The race has acquired an international reputation, attracting skippers from all over the world.</desc>
@@ -10992,19 +10997,24 @@
 		<icon src="https://poster.starhubgo.com/poster/ch211_atp_classic_shorts.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="211" start="20250204183000 +0000" stop="20250204203000 +0000">
-		<title>ATP Tour 500 2025: Rotterdam Day 2 Match 4</title>
+		<title>ATP Tour 500 2025: Rotterdam Day 2 Alcaraz v Van de Zandschulp</title>
 		<desc>Exclusive coverage of the 2025 ATP Tour on beIN SPORTS as the world's best male players battle it out across the globe to be #1.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_ATPMASTERS500.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="211" start="20250204203000 +0000" stop="20250204223000 +0000">
-		<title>ATP Tour 500 2025: Rotterdam Day 2 Match 5</title>
+		<title>ATP Tour 500 2025: Rotterdam Day 2 Rune v Sonego</title>
 		<desc>Exclusive coverage of the 2025 ATP Tour on beIN SPORTS as the world's best male players battle it out across the globe to be #1.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_ATPMASTERS500.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="211" start="20250204223000 +0000" stop="20250205010000 +0000">
-		<title>ATP Tour 500 2025 [Join in Progress]: Dallas Day 2 Match 3</title>
+	<programme channel="211" start="20250204223000 +0000" stop="20250205000000 +0000">
+		<title>ATP Tour 250 2025: Auckland Final Monfils v Bergs</title>
 		<desc>Exclusive coverage of the 2025 ATP Tour on beIN SPORTS as the world's best male players battle it out across the globe to be #1.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch211_ATPMASTERS500.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch211_ATPMASTERS250.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="211" start="20250205000000 +0000" stop="20250205010000 +0000">
+		<title>ATP Tour Review Show 2024</title>
+		<desc>A look back at the best of the action from the tournament.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch211_atp_tour_review_show.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="211" start="20250205010000 +0000" stop="20250205030000 +0000">
 		<title>ATP Tour 500 2025: Dallas Day 2 Match 4</title>
@@ -22329,12 +22339,12 @@
 	<programme channel="604" start="20250205055000 +0000" stop="20250205062500 +0000">
 		<title>Saving My Tomorrow - EP 1</title>
 		<desc>An HBO Original Documentary where kids share their thoughts on the environment of this changing earth.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch604_saving_my_tomorrow_part_1_and_2.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch604_saving_my_tomorrow.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="604" start="20250205062500 +0000" stop="20250205070000 +0000">
 		<title>Saving My Tomorrow - EP 2</title>
 		<desc>An HBO Original Documentary where kids share their thoughts on the environment of this changing earth.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch604_saving_my_tomorrow_part_1_and_2.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch604_saving_my_tomorrow.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="604" start="20250205070000 +0000" stop="20250205074500 +0000">
 		<title>Ruby And The Well S2 - EP 9</title>
@@ -22404,12 +22414,12 @@
 	<programme channel="604" start="20250205134000 +0000" stop="20250205141000 +0000">
 		<title>Saving My Tomorrow - EP 3</title>
 		<desc>Through a lyrical mix of science, animation and music, Saving My Tomorrow urges children to take action by highlighting ways in which kids can do their part to save the planet.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch604_saving_my_tomorrow_part_1_and_2.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch604_saving_my_tomorrow.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="604" start="20250205141000 +0000" stop="20250205144500 +0000">
 		<title>Saving My Tomorrow - EP 4</title>
 		<desc>Saving My Tomorrow celebrates the wonders of the natural world and is a call from kids to kids to help take care of the planet.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch604_saving_my_tomorrow_part_1_and_2.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch604_saving_my_tomorrow.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="604" start="20250205144500 +0000" stop="20250205145700 +0000">
 		<title>The Heroic Quest Of The Valiant Prince Ivandoe S2 - EP 3</title>
