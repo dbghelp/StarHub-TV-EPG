@@ -432,10 +432,6 @@
 		<display-name>ONE HD</display-name>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/823_1920x1080_HTV.png?w=272" />
 	</channel>
-	<channel id="824">
-		<display-name>tvN HD</display-name>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/824_1920x1080_HTV.png?w=272" />
-	</channel>
 	<channel id="825">
 		<display-name>Hub E City HD</display-name>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/825_1920x1080_HTV.png?w=272" />
@@ -9937,7 +9933,7 @@
 		<icon src="https://poster.starhubgo.com/poster/ch201_wta_tour.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="201" start="20250217030000 +0000" stop="20250217070000 +0000">
-		<title>Badminton Europe 2025</title>
+		<title>Badminton Europe 2025 European Mixed Team C'ships SF 2: England vs France</title>
 		<desc>The 2025 European Mixed Team Badminton Championships will be held in Baku, Azerbaijan at the Baku Sports Hall. The event officially crowns the best national team in Europe. 8 best teams in Europe will be competing for the title as "European Champions". This championships also act as the European qualification event for 2025 Sudirman Cup.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch201_BadmintonEuropeGeneric.jpg?w=341&amp;h=192" />
 	</programme>
@@ -32405,46 +32401,6 @@
 		<title>Paik's Les Miserables - EP 11</title>
 		<desc>20 contestants will go through a series of grueling missions designed by Paik Jong-won. Who will seize the opportunity to start his own restaurant?</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch823_paiks_les_miserables.jpg?w=341&amp;h=192" />
-	</programme>
-	<programme channel="824" start="20250216160000 +0000" stop="20250216220000 +0000">
-		<title>End Of Transmission</title>
-		<desc />
-		<icon src="https://poster.starhubgo.com/Linear_channels2/824_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="824" start="20250216220000 +0000" stop="20250217040000 +0000">
-		<title>End Of Transmission</title>
-		<desc />
-		<icon src="https://poster.starhubgo.com/Linear_channels2/824_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="824" start="20250217040000 +0000" stop="20250217100000 +0000">
-		<title>End Of Transmission</title>
-		<desc />
-		<icon src="https://poster.starhubgo.com/Linear_channels2/824_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="824" start="20250217100000 +0000" stop="20250217160000 +0000">
-		<title>End Of Transmission</title>
-		<desc />
-		<icon src="https://poster.starhubgo.com/Linear_channels2/824_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="824" start="20250217160000 +0000" stop="20250217220000 +0000">
-		<title>End Of Transmission</title>
-		<desc />
-		<icon src="https://poster.starhubgo.com/Linear_channels2/824_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="824" start="20250217220000 +0000" stop="20250218040000 +0000">
-		<title>End Of Transmission</title>
-		<desc />
-		<icon src="https://poster.starhubgo.com/Linear_channels2/824_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="824" start="20250218040000 +0000" stop="20250218100000 +0000">
-		<title>End Of Transmission</title>
-		<desc />
-		<icon src="https://poster.starhubgo.com/Linear_channels2/824_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="824" start="20250218100000 +0000" stop="20250218160000 +0000">
-		<title>End Of Transmission</title>
-		<desc />
-		<icon src="https://poster.starhubgo.com/Linear_channels2/824_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="825" start="20250216160000 +0000" stop="20250216170000 +0000">
 		<title>Ordinary Greatness - EP 15</title>
