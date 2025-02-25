@@ -1052,12 +1052,12 @@
 		<desc>The mysterious BANKER has returned with a truly devious twist to his signature game, where he invited thirteen strangers to his private island with promises of luxurious adventure and millions in prize money.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="102" start="20250226144000 +0000" stop="20250226153000 +0000">
+	<programme channel="102" start="20250226144000 +0000" stop="20250226154000 +0000">
 		<title>Taste Of The Times</title>
 		<desc>Across Malaysia, traditional trades behind beloved delicacies are under threat. How are the veterans of Malaysia food scene spicing up their menu and venue to keep these familiar tastes alive?</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="102" start="20250226153000 +0000" stop="20250226160000 +0000">
+	<programme channel="102" start="20250226154000 +0000" stop="20250226161000 +0000">
 		<title>Whispers Of The Dead - EP 2</title>
 		<desc>Aika Nakamura is found dead in her toilet. What initially looks like Hara-kiri is soon proven otherwise by Prof Chao.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png?w=341&amp;h=192" />
@@ -2079,7 +2079,7 @@
 	</programme>
 	<programme channel="106" start="20250226133000 +0000" stop="20250226140000 +0000">
 		<title>CNA Correspondent - EP 42</title>
-		<desc>They're your eyes and ears around the globe. CNA’s network of correspondents shines a light on stories from their corners of the world, from groundbreaking events to up-and-coming trends.</desc>
+		<desc>They risked their lives in search of the American Dream for a better tomorrow. Now, they will be rounded up and sent home because there's no place for them in the United States under Donald Trump.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="106" start="20250226140000 +0000" stop="20250226150000 +0000">
@@ -10193,7 +10193,7 @@
 		<icon src="https://poster.starhubgo.com/poster/ch201_singapore_premier_league.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="201" start="20250226134500 +0000" stop="20250226140000 +0000">
-		<title>The HotelPlanner Tour Series 2025 Kolkata Challenge</title>
+		<title>The HotelPlanner Tour Series 2025 NTT DATA Pro Am</title>
 		<desc>The Challenge Series features the key events on the European Challenge Tour. In keeping with the profile of the Tour’s players, the programming has a more youth orientated and dynamic look and feel to the typical golf shows. The content provides close up profiles with the future stars, life-style features, as well as all the exciting final day action from the event.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch201_Hotel_Planner_Tour.jpg?w=960&amp;h=540" />
 	</programme>
@@ -11322,27 +11322,37 @@
 		<desc>A tech-infused, 3-on-3 new golf league that features six teams composed of four PGA Tour golfers taking part in two-hour matches inside custom-built venue in Palm Beach Gardens,</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch213_the_golf_league.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="213" start="20250226040000 +0000" stop="20250226055500 +0000">
-		<title>MUTV 2024/25: Everton vs Man United</title>
-		<desc>Enjoy every Manchester United match from the Premier League, FA Cup and Carabao Cup and friendlies, from MUTV on beIN SPORTS</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch213_mutv.jpg?w=960&amp;h=540" />
+	<programme channel="213" start="20250226040000 +0000" stop="20250226043000 +0000">
+		<title>This Is Paris 2024/25</title>
+		<desc>An exclusive weekly look behind the scenes at French superclub, Paris Saint-Germain.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch213_this_is_paris.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="213" start="20250226055500 +0000" stop="20250226062500 +0000">
+	<programme channel="213" start="20250226043000 +0000" stop="20250226050000 +0000">
 		<title>MUTV: Match Day Review 2024/25 Everton vs Man United</title>
 		<desc>Directly after the final whistle of every Manchester United Premier League game the MUTV team review the game and all the talking points.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch213_mutv_match_day_review.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="213" start="20250226062500 +0000" stop="20250226065500 +0000">
-		<title>MUTV: OT1000 United PL Goals</title>
-		<desc>Relive all 1000 goals scored by United at the Theatre of Dreams</desc>
+	<programme channel="213" start="20250226050000 +0000" stop="20250226060000 +0000">
+		<title>MUTV: Specials</title>
+		<desc>Get your fix of award winning films, documentaries &amp; original programming related to the Red Devils as part of MUTV, only on beIN Sports</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch213_mutv.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="213" start="20250226065500 +0000" stop="20250226110000 +0000">
+	<programme channel="213" start="20250226060000 +0000" stop="20250226062000 +0000">
+		<title>MUTV: One Love</title>
+		<desc>Go behind the scenes with some of our most dedicated supporters' clubs, to uncover the fascinating stories, experiences and sacrifices these fans make to follow the club.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch213_mutv.jpg?w=960&amp;h=540" />
+	</programme>
+	<programme channel="213" start="20250226062000 +0000" stop="20250226065000 +0000">
+		<title>LaLiga World 2024/25</title>
+		<desc>Take a look with us at all things Spanish, from football to fiestas in the weekly LaLiga magazine show.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch213_laliga_world.jpg?w=960&amp;h=540" />
+	</programme>
+	<programme channel="213" start="20250226065000 +0000" stop="20250226110500 +0000">
 		<title>Formula 1 Aramco Pre-Season Testing 2025 (Live)</title>
 		<desc>Catch all the action as teams put their cars through their paces ahead of the opening race in the upcoming season.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch213_formula_1_generic.jpg?w=960&amp;h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch213_formula_1_aramco_preseason_testing_2025.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="213" start="20250226110000 +0000" stop="20250226112500 +0000">
+	<programme channel="213" start="20250226110500 +0000" stop="20250226112500 +0000">
 		<title>LaLiga Zap 2024/25</title>
 		<desc>LaLiga Zap is an entertainment show that provides a sideways look at the greatest league in the world. The most fun, curious moments of action, international footage of the most extravagant fans, dubbed conversations and recurring gags.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch213_laliga_zap.jpg?w=960&amp;h=540" />
@@ -11352,10 +11362,10 @@
 		<desc>Take a look with us at all things Spanish, from football to fiestas in the weekly LaLiga magazine show.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch213_laliga_world.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="213" start="20250226115500 +0000" stop="20250226160000 +0000">
+	<programme channel="213" start="20250226115500 +0000" stop="20250226160500 +0000">
 		<title>Formula 1 Aramco Pre-Season Testing 2025 (Live)</title>
 		<desc>Catch all the action as teams put their cars through their paces ahead of the opening race in the upcoming season.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch213_formula_1_generic.jpg?w=960&amp;h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch213_formula_1_aramco_preseason_testing_2025.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="214" start="20250224154000 +0000" stop="20250224173000 +0000">
 		<title>UEFA Europa League 2024/25 FCSB vs PAOK - Knockout RD Play-Offs,2nd Leg</title>
@@ -11949,7 +11959,7 @@
 	</programme>
 	<programme channel="222" start="20250225200500 +0000" stop="20250225221500 +0000">
 		<title>Chelsea vs Southampton (MW27) (Live) - EP 264</title>
-		<desc>The 33rd season of the Premier League sees Manchester City defend its title against a host of teams keen for glory themselves. 20 teams are in the mix but only 1 champion will emerge ultimately.</desc>
+		<desc>Chelsea have lost two of their last three Premier League games against Southampton, as many defeats as in their previous 18 against them (W11 D5). However, they did win the reverse fixture 5-1 in December.</desc>
 		<icon src="https://poster.starhubgo.com/poster/chelsea_stadium.jpg?w=960" />
 	</programme>
 	<programme channel="222" start="20250225221500 +0000" stop="20250226040000 +0000">
@@ -11959,32 +11969,32 @@
 	</programme>
 	<programme channel="222" start="20250226040000 +0000" stop="20250226060000 +0000">
 		<title>Chelsea vs Southampton (MW27) - EP 264</title>
-		<desc>The 33rd season of the Premier League sees Manchester City defend its title against a host of teams keen for glory themselves. 20 teams are in the mix but only 1 champion will emerge ultimately.</desc>
+		<desc>Chelsea have lost two of their last three Premier League games against Southampton, as many defeats as in their previous 18 against them (W11 D5). However, they did win the reverse fixture 5-1 in December.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch221_MW27_CHEvSOU_25.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="222" start="20250226060000 +0000" stop="20250226080000 +0000">
 		<title>Brighton and Hove Albion vs AFC Bournemouth (MW27) - EP 261</title>
-		<desc>The 33rd season of the Premier League sees Manchester City defend its title against a host of teams keen for glory themselves. 20 teams are in the mix but only 1 champion will emerge ultimately.</desc>
+		<desc>Justin Kluivert has scored nine away goals in the Premier League this season, with all of these coming in his last seven appearances on the road in the competition. No Bournemouth player has ever scored 10 away goals in a single top-flight campaign.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch221_MW27_BHAvBOU_25.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="222" start="20250226080000 +0000" stop="20250226100000 +0000">
 		<title>Wolverhampton Wanderers vs Fulham (MW27) - EP 263</title>
-		<desc>The 33rd season of the Premier League sees Manchester City defend its title against a host of teams keen for glory themselves. 20 teams are in the mix but only 1 champion will emerge ultimately.</desc>
+		<desc>Fulham have won just one of their last nine Premier League games against Wolves (D3 L5), beating them 3-2 at Craven Cottage in November 2023.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch221_MW27_WOLvFUL_25.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="222" start="20250226100000 +0000" stop="20250226120000 +0000">
 		<title>Crystal Palace vs Aston Villa (MW27) - EP 262</title>
-		<desc>The 33rd season of the Premier League sees Manchester City defend its title against a host of teams keen for glory themselves. 20 teams are in the mix but only 1 champion will emerge ultimately.</desc>
+		<desc>Crystal Palace have won five of their last six Premier League home games against Aston Villa (L1), beating them 5-0 in this exact fixture last term.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch221_MW27_CRYvAVL_25.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="222" start="20250226120000 +0000" stop="20250226140000 +0000">
 		<title>Chelsea vs Southampton (MW27) - EP 264</title>
-		<desc>The 33rd season of the Premier League sees Manchester City defend its title against a host of teams keen for glory themselves. 20 teams are in the mix but only 1 champion will emerge ultimately.</desc>
+		<desc>Chelsea have lost two of their last three Premier League games against Southampton, as many defeats as in their previous 18 against them (W11 D5). However, they did win the reverse fixture 5-1 in December.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch221_MW27_CHEvSOU_25.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="222" start="20250226140000 +0000" stop="20250226160000 +0000">
 		<title>Brighton and Hove Albion vs AFC Bournemouth (MW27) - EP 261</title>
-		<desc>The 33rd season of the Premier League sees Manchester City defend its title against a host of teams keen for glory themselves. 20 teams are in the mix but only 1 champion will emerge ultimately.</desc>
+		<desc>Justin Kluivert has scored nine away goals in the Premier League this season, with all of these coming in his last seven appearances on the road in the competition. No Bournemouth player has ever scored 10 away goals in a single top-flight campaign.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch221_MW27_BHAvBOU_25.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="223" start="20250224160000 +0000" stop="20250224220000 +0000">
@@ -12014,7 +12024,7 @@
 	</programme>
 	<programme channel="223" start="20250225192000 +0000" stop="20250225213000 +0000">
 		<title>Brighton and Hove Albion vs AFC Bournemouth (MW27) (Live) - EP 261</title>
-		<desc>The 33rd season of the Premier League sees Manchester City defend its title against a host of teams keen for glory themselves. 20 teams are in the mix but only 1 champion will emerge ultimately.</desc>
+		<desc>Justin Kluivert has scored nine away goals in the Premier League this season, with all of these coming in his last seven appearances on the road in the competition. No Bournemouth player has ever scored 10 away goals in a single top-flight campaign.</desc>
 		<icon src="https://poster.starhubgo.com/poster/brighton_stadium.jpg?w=960" />
 	</programme>
 	<programme channel="223" start="20250225213000 +0000" stop="20250225220000 +0000">
@@ -12114,7 +12124,7 @@
 	</programme>
 	<programme channel="225" start="20250225192000 +0000" stop="20250225213000 +0000">
 		<title>Crystal Palace vs Aston Villa (MW27) (Live) - EP 262</title>
-		<desc>The 33rd season of the Premier League sees Manchester City defend its title against a host of teams keen for glory themselves. 20 teams are in the mix but only 1 champion will emerge ultimately.</desc>
+		<desc>Crystal Palace have won five of their last six Premier League home games against Aston Villa (L1), beating them 5-0 in this exact fixture last term.</desc>
 		<icon src="https://poster.starhubgo.com/poster/crystal_palace_stadium.jpg?w=960" />
 	</programme>
 	<programme channel="225" start="20250225213000 +0000" stop="20250225220000 +0000">
@@ -12289,7 +12299,7 @@
 	</programme>
 	<programme channel="232" start="20250225200500 +0000" stop="20250225221500 +0000">
 		<title>Chelsea vs Southampton (MW27) (Live) - EP 264</title>
-		<desc>The 33rd season of the Premier League sees Manchester City defend its title against a host of teams keen for glory themselves. 20 teams are in the mix but only 1 champion will emerge ultimately.</desc>
+		<desc>Chelsea have lost two of their last three Premier League games against Southampton, as many defeats as in their previous 18 against them (W11 D5). However, they did win the reverse fixture 5-1 in December.</desc>
 		<icon src="https://poster.starhubgo.com/poster/chelsea_stadium.jpg?w=960" />
 	</programme>
 	<programme channel="232" start="20250225221500 +0000" stop="20250226040000 +0000">
@@ -12299,32 +12309,32 @@
 	</programme>
 	<programme channel="232" start="20250226040000 +0000" stop="20250226060000 +0000">
 		<title>Chelsea vs Southampton (MW27) - EP 264</title>
-		<desc>The 33rd season of the Premier League sees Manchester City defend its title against a host of teams keen for glory themselves. 20 teams are in the mix but only 1 champion will emerge ultimately.</desc>
+		<desc>Chelsea have lost two of their last three Premier League games against Southampton, as many defeats as in their previous 18 against them (W11 D5). However, they did win the reverse fixture 5-1 in December.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch221_MW27_CHEvSOU_25.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="232" start="20250226060000 +0000" stop="20250226080000 +0000">
 		<title>Brighton and Hove Albion vs AFC Bournemouth (MW27) - EP 261</title>
-		<desc>The 33rd season of the Premier League sees Manchester City defend its title against a host of teams keen for glory themselves. 20 teams are in the mix but only 1 champion will emerge ultimately.</desc>
+		<desc>Justin Kluivert has scored nine away goals in the Premier League this season, with all of these coming in his last seven appearances on the road in the competition. No Bournemouth player has ever scored 10 away goals in a single top-flight campaign.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch221_MW27_BHAvBOU_25.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="232" start="20250226080000 +0000" stop="20250226100000 +0000">
 		<title>Wolverhampton Wanderers vs Fulham (MW27) - EP 263</title>
-		<desc>The 33rd season of the Premier League sees Manchester City defend its title against a host of teams keen for glory themselves. 20 teams are in the mix but only 1 champion will emerge ultimately.</desc>
+		<desc>Fulham have won just one of their last nine Premier League games against Wolves (D3 L5), beating them 3-2 at Craven Cottage in November 2023.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch221_MW27_WOLvFUL_25.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="232" start="20250226100000 +0000" stop="20250226120000 +0000">
 		<title>Crystal Palace vs Aston Villa (MW27) - EP 262</title>
-		<desc>The 33rd season of the Premier League sees Manchester City defend its title against a host of teams keen for glory themselves. 20 teams are in the mix but only 1 champion will emerge ultimately.</desc>
+		<desc>Crystal Palace have won five of their last six Premier League home games against Aston Villa (L1), beating them 5-0 in this exact fixture last term.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch221_MW27_CRYvAVL_25.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="232" start="20250226120000 +0000" stop="20250226140000 +0000">
 		<title>Chelsea vs Southampton (MW27) - EP 264</title>
-		<desc>The 33rd season of the Premier League sees Manchester City defend its title against a host of teams keen for glory themselves. 20 teams are in the mix but only 1 champion will emerge ultimately.</desc>
+		<desc>Chelsea have lost two of their last three Premier League games against Southampton, as many defeats as in their previous 18 against them (W11 D5). However, they did win the reverse fixture 5-1 in December.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch221_MW27_CHEvSOU_25.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="232" start="20250226140000 +0000" stop="20250226160000 +0000">
 		<title>Brighton and Hove Albion vs AFC Bournemouth (MW27) - EP 261</title>
-		<desc>The 33rd season of the Premier League sees Manchester City defend its title against a host of teams keen for glory themselves. 20 teams are in the mix but only 1 champion will emerge ultimately.</desc>
+		<desc>Justin Kluivert has scored nine away goals in the Premier League this season, with all of these coming in his last seven appearances on the road in the competition. No Bournemouth player has ever scored 10 away goals in a single top-flight campaign.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch221_MW27_BHAvBOU_25.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="241" start="20250224160000 +0000" stop="20250224170000 +0000">
