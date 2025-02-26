@@ -11013,37 +11013,42 @@
 		<icon src="https://poster.starhubgo.com/poster/ch211_ATPMASTERS500.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="211" start="20250226163000 +0000" stop="20250226183000 +0000">
-		<title>ATP Tour 500 2025: Dubai Day 3 Match 4</title>
+		<title>ATP Tour 500 2025 Dubai Day 3 Tsitsipas v Khachanov</title>
 		<desc>Exclusive coverage of the 2025 ATP Tour on beIN SPORTS as the world's best male players battle it out across the globe to be #1.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_ATPMASTERS500.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="211" start="20250226183000 +0000" stop="20250226184500 +0000">
-		<title>ATP Doco Shorts (CC): Djokovic's Miami 3-peat</title>
+		<title>ATP Doco Shorts (CC) Djokovic's Miami 3-peat</title>
 		<desc>In this series of features, we look back at some of the most memorable moments, rivalries, achievements and special features at ATP Masters events.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_atp_doco_shorts.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="211" start="20250226184500 +0000" stop="20250226190000 +0000">
-		<title>ATP Doco Shorts (CC): Miami Moments 2000-2003</title>
+		<title>ATP Doco Shorts (CC) Miami Moments 2000-2003</title>
 		<desc>In this series of features, we look back at some of the most memorable moments, rivalries, achievements and special features at ATP Masters events.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_atp_doco_shorts.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="211" start="20250226190000 +0000" stop="20250226210000 +0000">
-		<title>ATP Tour 250 2025: Santiago Day 3 Match 2</title>
+	<programme channel="211" start="20250226190000 +0000" stop="20250226200000 +0000">
+		<title>ATP Tour 250 2025 [To be Continued] Santiago Day 3 Coria v Barrios Vera</title>
 		<desc>Exclusive coverage of the 2025 ATP Tour on beIN SPORTS as the world's best male players battle it out across the globe to be #1.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_ATPMASTERS250.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="211" start="20250226210000 +0000" stop="20250226223000 +0000">
-		<title>ATP Tour 500 2025: Dubai Day 3 Match 1</title>
+	<programme channel="211" start="20250226200000 +0000" stop="20250226220000 +0000">
+		<title>ATP Tour 250 2025 Santiago Day 3 Cerundolo v Hanfmann</title>
 		<desc>Exclusive coverage of the 2025 ATP Tour on beIN SPORTS as the world's best male players battle it out across the globe to be #1.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch211_ATPMASTERS500.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch211_ATPMASTERS250.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="211" start="20250226220000 +0000" stop="20250226223000 +0000">
+		<title>ATP Tour: This Week 2025</title>
+		<desc>Catch behind the scenes, interviews, tournament recaps, highlights of the ATP Tour on this weekly show.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch211_ATPTourGeneric.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="211" start="20250226223000 +0000" stop="20250227000000 +0000">
-		<title>ATP Tour 500 2025: Dubai Day 3 Match 2</title>
+		<title>ATP Tour 500 2025 Dubai Day 3 Humbert v Griekspoor</title>
 		<desc>Exclusive coverage of the 2025 ATP Tour on beIN SPORTS as the world's best male players battle it out across the globe to be #1.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_ATPMASTERS500.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="211" start="20250227000000 +0000" stop="20250227013000 +0000">
-		<title>ATP Tour 500 2025: Acapulco Day 3 Match 1</title>
+		<title>ATP Tour 500 2025 Acapulco Day 3 Shelton v Goffin</title>
 		<desc>Exclusive coverage of the 2025 ATP Tour on beIN SPORTS as the world's best male players battle it out across the globe to be #1.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_ATPMASTERS500.jpg?w=341&amp;h=192" />
 	</programme>
@@ -11066,11 +11071,6 @@
 		<title>ATP Classic Shorts (CC): Djokovic v Nadal 2016</title>
 		<desc>Watch classic matches, moment and highlights of ATP Tour from tournaments around the world.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_atp_classic_shorts.jpg?w=341&amp;h=192" />
-	</programme>
-	<programme channel="211" start="20250227063000 +0000" stop="20250227070000 +0000">
-		<title>ATP Tour: This Week 2025</title>
-		<desc>Catch behind the scenes, interviews, tournament recaps, highlights of the ATP Tour on this weekly show.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch211_ATPTourGeneric.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="211" start="20250227070000 +0000" stop="20250227083000 +0000">
 		<title>ATP Tour 250 2025: Santiago Day 3 Match 1</title>
@@ -11208,24 +11208,19 @@
 		<icon src="https://poster.starhubgo.com/poster/ch213_formula_1_aramco_preseason_testing_2025.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="213" start="20250226160500 +0000" stop="20250226170000 +0000">
-		<title>Premier Padel 2025 (Join In Progress): Gijon P2 Day 1 Match 6 (Live)</title>
+		<title>Premier Padel 2025 (Join In Progress): Gijon P2 Day 1 Match 5 (Live)</title>
 		<desc>The official global Padel tour. Catch world's top players battle it out across the globe.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch213_premier_padel.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="213" start="20250226170000 +0000" stop="20250226173000 +0000">
+	<programme channel="213" start="20250226170000 +0000" stop="20250226183000 +0000">
+		<title>Premier Padel 2025 (Join In Progress): Gijon P2 Day 1 Match 5 (Live)</title>
+		<desc>The official global Padel tour. Catch world's top players battle it out across the globe.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch213_premier_padel.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="213" start="20250226183000 +0000" stop="20250226190000 +0000">
 		<title>Mini Match - Bundesliga 2024/25: Dortmund vs FC Union</title>
 		<desc>Watch every game of the season live as the top German football clubs battle it out in the Bundesliga, Germany's top division of football.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch213_mini_match_bundesliga.jpg?w=960&amp;h=540" />
-	</programme>
-	<programme channel="213" start="20250226173000 +0000" stop="20250226180000 +0000">
-		<title>LaLiga World 2024/25</title>
-		<desc>Take a look with us at all things Spanish, from football to fiestas in the weekly LaLiga magazine show.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch213_laliga_world.jpg?w=960&amp;h=540" />
-	</programme>
-	<programme channel="213" start="20250226180000 +0000" stop="20250226190000 +0000">
-		<title>Longines League Of Nations Highlights 2025</title>
-		<desc>Catch all the highlights from the pinnacle of team-based international Jumping series,</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch213_longines_league_of_nations_highlights.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="213" start="20250226190000 +0000" stop="20250226193000 +0000">
 		<title>Mini Match - Bundesliga 2024/25: Holstein Kiel vs Leverkusen</title>
