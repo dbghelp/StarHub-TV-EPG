@@ -10618,8 +10618,8 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/209_1920x1080_HTV.png?w=960&amp;h=540" />
 	</programme>
 	<programme channel="209" start="20250303140000 +0000" stop="20250303160000 +0000">
-		<title>Major League Soccer 2025 Regular Season Week 2: Houston vs Miami</title>
-		<desc>Back for its 30th season, the MLS features some of football’s top talent from around the globe. The league boasts 27 teams in the US and 3 teams in Canada.</desc>
+		<title>ROSHN Saudi League 2024/25 Matchday 23 Al Ittihad vs Al Okhdood</title>
+		<desc>Bringing together prominent professional players from the Kingdom and all around the world, the ROSHN Saudi League delivers weekly thrilling matches to spectators nationally and internationally.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/209_1920x1080_HTV.png?w=960&amp;h=540" />
 	</programme>
 	<programme channel="209" start="20250303160000 +0000" stop="20250303180000 +0000">
@@ -11142,25 +11142,25 @@
 		<desc>All the action from the latest round of games in the German Bundesliga, Germany's top division of football.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch213_bundesliga_highlights.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="213" start="20250303140000 +0000" stop="20250303153000 +0000">
+	<programme channel="213" start="20250303140000 +0000" stop="20250303143000 +0000">
+		<title>MUTV: OT1000 United PL Goals</title>
+		<desc>Relive all 1000 goals scored by United at the Theatre of Dreams</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch213_mutv.jpg?w=960&amp;h=540" />
+	</programme>
+	<programme channel="213" start="20250303143000 +0000" stop="20250303160000 +0000">
 		<title>MUTV 2024/25: Man United vs Fulham</title>
 		<desc>Enjoy every Manchester United match from the Premier League, FA Cup and Carabao Cup and friendlies, from MUTV on beIN SPORTS</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch213_mutv.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="213" start="20250303153000 +0000" stop="20250303160000 +0000">
+	<programme channel="213" start="20250303160000 +0000" stop="20250303163000 +0000">
 		<title>MUTV: Match Day Review 2024/25 Man United vs Fulham</title>
 		<desc>Directly after the final whistle of every Manchester United Premier League game the MUTV team review the game and all the talking points.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch213_mutv_match_day_review.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="213" start="20250303160000 +0000" stop="20250303163000 +0000">
+	<programme channel="213" start="20250303163000 +0000" stop="20250303170000 +0000">
 		<title>MUTV Highlights 2024/25 Man United vs Ipswich</title>
 		<desc>Enjoy match highlights from Manchester United's Premier League, FA Cup, Carabao Cup and UEFA Europa League games from MUTV on beIN SPORTS</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch213_mutv_highlights.jpg?w=960&amp;h=540" />
-	</programme>
-	<programme channel="213" start="20250303163000 +0000" stop="20250303170000 +0000">
-		<title>MUTV: OT1000 United PL Goals</title>
-		<desc>Relive all 1000 goals scored by United at the Theatre of Dreams</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch213_mutv.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="213" start="20250303170000 +0000" stop="20250303173000 +0000">
 		<title>Mini Match - Bundesliga 2024/25: Bochum vs Hoffenheim</title>
@@ -29472,11 +29472,6 @@
 		<desc>A very popular live program on a Sunday afternoon held at different towns and cities around Japan. Guest singers will also join in for support.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="811" start="20250302162000 +0000" stop="20250302162500 +0000">
-		<title>News &amp; Weather (R)</title>
-		<desc>The latest up-to-date news and nationwide weather information.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
 	<programme channel="811" start="20250302162500 +0000" stop="20250302163000 +0000">
 		<title>Songs for Everyone (R)</title>
 		<desc>A song program where children can sing along by reading the lyrics on the screen.</desc>
@@ -29537,24 +29532,19 @@
 		<desc>A Heisei youth graffiti drama, in which the heroine Yoneda Yui (Hashimoto Kanna), born in the first year of the Heisei era, connects people's hearts to the future as a nutritionist. Always cherishing her individuality, she sometimes struggles, but powerfully and joyfully pushes through the turbulent Heisei and Reiwa eras.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="811" start="20250302231500 +0000" stop="20250303005400 +0000">
-		<title>asaichi</title>
-		<desc>Looking into topical information ranging from social issues to entertainment news through the eyes of the general public.</desc>
+	<programme channel="811" start="20250302235500 +0000" stop="20250303000000 +0000">
+		<title>News &amp; Weather</title>
+		<desc>The latest up-to-date news and nationwide weather information.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="811" start="20250303005400 +0000" stop="20250303005500 +0000">
-		<title>World Weather</title>
-		<desc>Weather information of the different areas around the world.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="811" start="20250303005500 +0000" stop="20250303010000 +0000">
-		<title>Exercise for Everyone</title>
-		<desc>An easy-to-do exercise program for everyone from children to the elderly.</desc>
+	<programme channel="811" start="20250303000000 +0000" stop="20250303010000 +0000">
+		<title>In-Depth News Seminar "The 2025 Issue: Medical Services, Nursing Care and Pensio</title>
+		<desc>In the age of turmoil, when situations change rapidly and information is overflowing, this commentary program will help you learn about current news topics more deeply, in which the commentators who engage in news gathering activities answer all kinds of your questions and get to the heart of the news.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="811" start="20250303010000 +0000" stop="20250303010500 +0000">
-		<title>News &amp; Weather</title>
-		<desc>The latest up-to-date news and nationwide weather information.</desc>
+		<title>100 Beautiful Mountains of Japan Mini</title>
+		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="811" start="20250303010500 +0000" stop="20250303015000 +0000">
@@ -29612,14 +29602,34 @@
 		<desc>A Heisei youth graffiti drama, in which the heroine Yoneda Yui (Hashimoto Kanna), born in the first year of the Heisei era, connects people's hearts to the future as a nutritionist. Always cherishing her individuality, she sometimes struggles, but powerfully and joyfully pushes through the turbulent Heisei and Reiwa eras.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="811" start="20250303040000 +0000" stop="20250303040500 +0000">
-		<title>News</title>
-		<desc>The latest up-to-date news from Tokyo.</desc>
+	<programme channel="811" start="20250303040000 +0000" stop="20250303045500 +0000">
+		<title>Classical Music Club</title>
+		<desc>Enjoy chamber music performed by first-class Japanese musicians as well as chamber orchestra and soloists from overseas.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="811" start="20250303040500 +0000" stop="20250303055000 +0000">
-		<title>News Around Japan</title>
-		<desc>Program introduces the latest news from all over Japan.</desc>
+	<programme channel="811" start="20250303045500 +0000" stop="20250303050000 +0000">
+		<title>Camera-eyed Japan</title>
+		<desc />
+		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="811" start="20250303050000 +0000" stop="20250303052700 +0000">
+		<title>Where We Call Home (B) (R)</title>
+		<desc>People from around the globe who put down roots in Japan offer a glimpse into their lives and the hardships they face in Japanese society.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="811" start="20250303052700 +0000" stop="20250303053000 +0000">
+		<title>Mini Program</title>
+		<desc />
+		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="811" start="20250303053000 +0000" stop="20250303054500 +0000">
+		<title>RAMEN JAPAN 15min.</title>
+		<desc />
+		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="811" start="20250303054500 +0000" stop="20250303055000 +0000">
+		<title>Disaster Management Tips</title>
+		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="811" start="20250303055000 +0000" stop="20250303055500 +0000">
@@ -29633,8 +29643,8 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="811" start="20250303060000 +0000" stop="20250303061000 +0000">
-		<title>News &amp; Weather</title>
-		<desc>The latest up-to-date news and nationwide weather information.</desc>
+		<title>Koh Kentetsu's Happy Food Travelogue</title>
+		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="811" start="20250303061000 +0000" stop="20250303063500 +0000">
@@ -29925,11 +29935,6 @@
 	<programme channel="811" start="20250304015000 +0000" stop="20250304021700 +0000">
 		<title>Today's Close-up (R)</title>
 		<desc>The program flexibly probes into a wide range of topics from the NHK’s unique point of view.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="811" start="20250304021700 +0000" stop="20250304022000 +0000">
-		<title>Mini Program</title>
-		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="811" start="20250304022000 +0000" stop="20250304024500 +0000">
