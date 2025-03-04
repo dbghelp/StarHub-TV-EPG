@@ -164,14 +164,6 @@
 		<display-name>Hub Sports 6</display-name>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/206_1920x1080_HTV.png?w=272" />
 	</channel>
-	<channel id="207">
-		<display-name>Hub Sports 7</display-name>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/207_1920x1080_HTV.png?w=272" />
-	</channel>
-	<channel id="208">
-		<display-name>Hub Sports 8</display-name>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/208_1920x1080_HTV.png?w=272" />
-	</channel>
 	<channel id="209">
 		<display-name>SPOTV</display-name>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/209_1920x1080_HTV.png?w=272" />
@@ -223,10 +215,6 @@
 	<channel id="226">
 		<display-name>Hub Premier 6</display-name>
 		<icon src="https://poster.starhubgo.com/Linear_Channels2/226_1920x1080_HTV.png?w=272" />
-	</channel>
-	<channel id="227">
-		<display-name>Hub Premier 7</display-name>
-		<icon src="https://poster.starhubgo.com/Linear_Channels2/227_1920x1080_HTV.png?w=272" />
 	</channel>
 	<channel id="228">
 		<display-name>Hub Premier 8</display-name>
@@ -7318,7 +7306,7 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/139_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="139" start="20250303233000 +0000" stop="20250304020000 +0000">
-		<title>Ali Bhai</title>
+		<title>Movie</title>
 		<desc>Malayalam Feature Film</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/139_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
@@ -7353,7 +7341,7 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/139_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="139" start="20250304050000 +0000" stop="20250304073000 +0000">
-		<title>Ammakkorumma</title>
+		<title>Movie</title>
 		<desc>Malayalam Feature Film</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/139_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
@@ -7383,7 +7371,7 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/139_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="139" start="20250304100000 +0000" stop="20250304123000 +0000">
-		<title>Iratta</title>
+		<title>Movie</title>
 		<desc>Malayalam Feature Film</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/139_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
@@ -7453,7 +7441,7 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/139_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="139" start="20250304190000 +0000" stop="20250304220000 +0000">
-		<title>Innathe Chinthavishayam</title>
+		<title>Movie</title>
 		<desc>Malayalam Feature Film</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/139_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
@@ -7473,7 +7461,7 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/139_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="139" start="20250304233000 +0000" stop="20250305020000 +0000">
-		<title>Anchil oral Arjunan</title>
+		<title>Movie</title>
 		<desc>Malayalam Feature Film</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/139_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
@@ -7627,12 +7615,12 @@
 		<desc>Two friends waiting at a hospital for their loved ones' recovery. Release Year: 2021 Director: Ahammed Khabeer</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=960&amp;h=540" />
 	</programme>
-	<programme channel="140" start="20250304190000 +0000" stop="20250304220000 +0000">
+	<programme channel="140" start="20250304190000 +0000" stop="20250304210000 +0000">
 		<title>Idukki Gold</title>
 		<desc>Michael returns to India, reunites with old friends Ravi and Madan, and embarks on a road trip to reconnect with childhood companions and relive memories. Release Year: 2013 Director: Aashiq Abu</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=960&amp;h=540" />
 	</programme>
-	<programme channel="140" start="20250304220000 +0000" stop="20250304233000 +0000">
+	<programme channel="140" start="20250304210000 +0000" stop="20250304233000 +0000">
 		<title>Kaala - EP 1</title>
 		<desc>A former gangster turned minister attempts to seize land in Dharavi, but Kaala, the people's leader, rises to protect his community and avenge his family.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=960&amp;h=540" />
@@ -9357,11 +9345,6 @@
 		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="153" start="20250303211500 +0000" stop="20250303220000 +0000">
-		<title>DocFilm</title>
-		<desc>Astrophysicist Gernot Grömer wants to promote space travel. So he founded the Austrian Space Forum. Grömer sees himself as a "shipbuilder" who’s working on making the journey to Mars possible in 20 to 30 years.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
 	<programme channel="153" start="20250303220000 +0000" stop="20250303220200 +0000">
 		<title>DW News</title>
 		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
@@ -9372,16 +9355,6 @@
 		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="153" start="20250303223000 +0000" stop="20250303230000 +0000">
-		<title>DocFilm</title>
-		<desc>Experts estimate that Europe’s dog mafia makes around a billion Euros every year. Birgitt Thiesmann from the animal welfare foundation "Four Paws" fights against the illegal puppy trade.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="153" start="20250303230000 +0000" stop="20250303231500 +0000">
-		<title>DW News</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
 	<programme channel="153" start="20250303231500 +0000" stop="20250303233000 +0000">
 		<title>Best of DW-online Content</title>
 		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
@@ -9389,7 +9362,7 @@
 	</programme>
 	<programme channel="153" start="20250303233000 +0000" stop="20250304000000 +0000">
 		<title>Close up</title>
-		<desc>The weekly half-hour program delivers in-depth reporting on topical political issues and newsworthy events. Revealing the story behind the stories, "Close up" is informative, gripping and visually powerful.</desc>
+		<desc>The worst humanitarian and displacement crisis in the world right now is in Sudan. The World Food Programme says nearly 25 million people are facing acute food shortages - all driven by a war that has received little international attention.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20250304000000 +0000" stop="20250304000200 +0000">
@@ -9404,7 +9377,7 @@
 	</programme>
 	<programme channel="153" start="20250304003000 +0000" stop="20250304010000 +0000">
 		<title>Eco Africa</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+		<desc>Boosting food security in Burundi, and recycling cooking oil; turning scrap metal into art in Mozambique, stopping Ghana’s brain drain, and traditional weather forecasting.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20250304010000 +0000" stop="20250304011500 +0000">
@@ -9438,13 +9411,13 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20250304031500 +0000" stop="20250304033000 +0000">
-		<title>Best of DW-online Content</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+		<title>Planet A</title>
+		<desc>Most of the world's biggest companies have made some kind of promise when it comes to the climate - whether that's going net zero or carbon neutral. But frequently, reality doesn't match up with the green picture these companies are painting. Whether it's creative accounting or lofty claims: Here's what to look out for in companies' climate promises</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20250304033000 +0000" stop="20250304040000 +0000">
 		<title>Close up</title>
-		<desc>The weekly half-hour program delivers in-depth reporting on topical political issues and newsworthy events. Revealing the story behind the stories, "Close up" is informative, gripping and visually powerful.</desc>
+		<desc>The worst humanitarian and displacement crisis in the world right now is in Sudan. The World Food Programme says nearly 25 million people are facing acute food shortages - all driven by a war that has received little international attention.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20250304040000 +0000" stop="20250304041500 +0000">
@@ -9469,7 +9442,7 @@
 	</programme>
 	<programme channel="153" start="20250304053000 +0000" stop="20250304060000 +0000">
 		<title>Eco India</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+		<desc>Can electric three-wheelers improve air quality and empower women in the jewel of Punjab? Plus: Fish acid for plants, lab-grown meat, gravity batteries - and how Serbia is purifying its air with liquid trees!</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20250304060000 +0000" stop="20250304061500 +0000">
@@ -9478,13 +9451,13 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20250304061500 +0000" stop="20250304063000 +0000">
-		<title>Best of DW-online Content</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+		<title>Planet A</title>
+		<desc>Most of the world's biggest companies have made some kind of promise when it comes to the climate - whether that's going net zero or carbon neutral. But frequently, reality doesn't match up with the green picture these companies are painting. Whether it's creative accounting or lofty claims: Here's what to look out for in companies' climate promises</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20250304063000 +0000" stop="20250304070000 +0000">
 		<title>Arts Unveiled</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+		<desc>They're the epitome of romance, glamor, and status-and yet they are nothing more than carbon. The first diamonds came to Europe from India. How did they become an object of desire and a symbol of eternity? And what is behind their radiance?</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20250304070000 +0000" stop="20250304073000 +0000">
@@ -9504,7 +9477,7 @@
 	</programme>
 	<programme channel="153" start="20250304083000 +0000" stop="20250304090000 +0000">
 		<title>Eco Africa</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+		<desc>Boosting food security in Burundi, and recycling cooking oil; turning scrap metal into art in Mozambique, stopping Ghana’s brain drain, and traditional weather forecasting.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20250304090000 +0000" stop="20250304091500 +0000">
@@ -9514,12 +9487,12 @@
 	</programme>
 	<programme channel="153" start="20250304091500 +0000" stop="20250304094500 +0000">
 		<title>Close up</title>
-		<desc>The weekly half-hour program delivers in-depth reporting on topical political issues and newsworthy events. Revealing the story behind the stories, "Close up" is informative, gripping and visually powerful.</desc>
+		<desc>The worst humanitarian and displacement crisis in the world right now is in Sudan. The World Food Programme says nearly 25 million people are facing acute food shortages - all driven by a war that has received little international attention.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20250304094500 +0000" stop="20250304100000 +0000">
 		<title>Reporter</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+		<desc>Mia was born healthy but was suddenly rushed to the hospital, where it was revealed that she has a terminal congenital genetic disorder.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20250304100000 +0000" stop="20250304103000 +0000">
@@ -9529,7 +9502,7 @@
 	</programme>
 	<programme channel="153" start="20250304103000 +0000" stop="20250304110000 +0000">
 		<title>Tomorrow Today</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+		<desc>Could traffic jams be minimized even as more vehicles hit streets? Can a new inflatable vest protect motorcyclists better from injuries in accidents? Is climate-friendlier flight possible? And: How a helicopter flew missions in the thin air of Mars.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20250304110000 +0000" stop="20250304113000 +0000">
@@ -9549,12 +9522,12 @@
 	</programme>
 	<programme channel="153" start="20250304121500 +0000" stop="20250304124500 +0000">
 		<title>Close up</title>
-		<desc>The weekly half-hour program delivers in-depth reporting on topical political issues and newsworthy events. Revealing the story behind the stories, "Close up" is informative, gripping and visually powerful.</desc>
+		<desc>The worst humanitarian and displacement crisis in the world right now is in Sudan. The World Food Programme says nearly 25 million people are facing acute food shortages - all driven by a war that has received little international attention.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20250304124500 +0000" stop="20250304130000 +0000">
 		<title>Shift</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+		<desc>A crypto scam stunned Argentina and the world. How can you protect yourself? Another booming and risky market: AI! Will the EU’s AI Act protect us or slow innovation down? And, how risky is DeepSeek?</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20250304130000 +0000" stop="20250304131500 +0000">
@@ -9563,13 +9536,13 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20250304131500 +0000" stop="20250304133000 +0000">
-		<title>Best of DW-online Content</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+		<title>Transforming Business</title>
+		<desc>Just three percent of the vehicles on the road in Germany are electric. In Norway, the figure is over a quarter. That's because, over the last 18 years, the Norwegian state has forgone the equivalent of around 55 billion euro in tax revenue to promote electric vehicles. Can Germany, with its current budget deficit, afford to offer such generous subsidies?</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20250304133000 +0000" stop="20250304140000 +0000">
 		<title>Eco India</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+		<desc>Can electric three-wheelers improve air quality and empower women in the jewel of Punjab? Plus: Fish acid for plants, lab-grown meat, gravity batteries - and how Serbia is purifying its air with liquid trees!</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20250304140000 +0000" stop="20250304143000 +0000">
@@ -9579,7 +9552,7 @@
 	</programme>
 	<programme channel="153" start="20250304143000 +0000" stop="20250304150000 +0000">
 		<title>Global Us</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+		<desc>What makes girls strong? Education! Why potatoes are political for a Peruvian scientist and how a female entrepreneur in Mali is greening the desert.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20250304150000 +0000" stop="20250304153000 +0000">
@@ -9589,7 +9562,7 @@
 	</programme>
 	<programme channel="153" start="20250304153000 +0000" stop="20250304160000 +0000">
 		<title>Eco Africa</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+		<desc>Boosting food security in Burundi, and recycling cooking oil; turning scrap metal into art in Mozambique, stopping Ghana’s brain drain, and traditional weather forecasting.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20250304160000 +0000" stop="20250304161500 +0000">
@@ -9599,12 +9572,12 @@
 	</programme>
 	<programme channel="153" start="20250304161500 +0000" stop="20250304164500 +0000">
 		<title>Close up</title>
-		<desc>The weekly half-hour program delivers in-depth reporting on topical political issues and newsworthy events. Revealing the story behind the stories, "Close up" is informative, gripping and visually powerful.</desc>
+		<desc>The worst humanitarian and displacement crisis in the world right now is in Sudan. The World Food Programme says nearly 25 million people are facing acute food shortages - all driven by a war that has received little international attention.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20250304164500 +0000" stop="20250304170000 +0000">
 		<title>Reporter</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+		<desc>Mia was born healthy but was suddenly rushed to the hospital, where it was revealed that she has a terminal congenital genetic disorder.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20250304170000 +0000" stop="20250304171500 +0000">
@@ -9613,8 +9586,8 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20250304171500 +0000" stop="20250304173000 +0000">
-		<title>Best of DW-online Content</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+		<title>Transforming Business</title>
+		<desc>Just three percent of the vehicles on the road in Germany are electric. In Norway, the figure is over a quarter. That's because, over the last 18 years, the Norwegian state has forgone the equivalent of around 55 billion euro in tax revenue to promote electric vehicles. Can Germany, with its current budget deficit, afford to offer such generous subsidies?</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20250304173000 +0000" stop="20250304180000 +0000">
@@ -9629,7 +9602,7 @@
 	</programme>
 	<programme channel="153" start="20250304183000 +0000" stop="20250304190000 +0000">
 		<title>Eco Africa</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+		<desc>Boosting food security in Burundi, and recycling cooking oil; turning scrap metal into art in Mozambique, stopping Ghana’s brain drain, and traditional weather forecasting.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20250304190000 +0000" stop="20250304190200 +0000">
@@ -9639,12 +9612,12 @@
 	</programme>
 	<programme channel="153" start="20250304190200 +0000" stop="20250304193000 +0000">
 		<title>Eco India</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+		<desc>Can electric three-wheelers improve air quality and empower women in the jewel of Punjab? Plus: Fish acid for plants, lab-grown meat, gravity batteries - and how Serbia is purifying its air with liquid trees!</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20250304193000 +0000" stop="20250304200000 +0000">
 		<title>Tomorrow Today</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+		<desc>Could traffic jams be minimized even as more vehicles hit streets? Can a new inflatable vest protect motorcyclists better from injuries in accidents? Is climate-friendlier flight possible? And: How a helicopter flew missions in the thin air of Mars.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20250304200000 +0000" stop="20250304203000 +0000">
@@ -9663,18 +9636,18 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20250304210200 +0000" stop="20250304211500 +0000">
-		<title>Best of DW-online Content</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+		<title>Transforming Business</title>
+		<desc>Just three percent of the vehicles on the road in Germany are electric. In Norway, the figure is over a quarter. That's because, over the last 18 years, the Norwegian state has forgone the equivalent of around 55 billion euro in tax revenue to promote electric vehicles. Can Germany, with its current budget deficit, afford to offer such generous subsidies?</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20250304211500 +0000" stop="20250304214500 +0000">
 		<title>Close up</title>
-		<desc>The weekly half-hour program delivers in-depth reporting on topical political issues and newsworthy events. Revealing the story behind the stories, "Close up" is informative, gripping and visually powerful.</desc>
+		<desc>The worst humanitarian and displacement crisis in the world right now is in Sudan. The World Food Programme says nearly 25 million people are facing acute food shortages - all driven by a war that has received little international attention.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20250304214500 +0000" stop="20250304220000 +0000">
 		<title>Shift</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+		<desc>A crypto scam stunned Argentina and the world. How can you protect yourself? Another booming and risky market: AI! Will the EU’s AI Act protect us or slow innovation down? And, how risky is DeepSeek?</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20250304220000 +0000" stop="20250304220200 +0000">
@@ -9689,7 +9662,7 @@
 	</programme>
 	<programme channel="153" start="20250304223000 +0000" stop="20250304230000 +0000">
 		<title>The 77 Percent</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+		<desc>In this special edition of the Street Debate Fatou Muloshi is in Windhoek, Namibia to speak to school students, teachers and historical experts about Germany’s brutal colonial history in Namibia. They give us their take on how they perceive their country’s history and the impact it still has on their lives.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20250304230000 +0000" stop="20250304231500 +0000">
@@ -9698,13 +9671,13 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20250304231500 +0000" stop="20250304233000 +0000">
-		<title>Best of DW-online Content</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+		<title>Transforming Business</title>
+		<desc>Just three percent of the vehicles on the road in Germany are electric. In Norway, the figure is over a quarter. That's because, over the last 18 years, the Norwegian state has forgone the equivalent of around 55 billion euro in tax revenue to promote electric vehicles. Can Germany, with its current budget deficit, afford to offer such generous subsidies?</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20250304233000 +0000" stop="20250305000000 +0000">
 		<title>Global Us</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+		<desc>What makes girls strong? Education! Why potatoes are political for a Peruvian scientist and how a female entrepreneur in Mali is greening the desert.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20250305000000 +0000" stop="20250305000200 +0000">
@@ -10422,15 +10395,10 @@
 		<desc>The FA Cup Highlights Show is a comprehensive look back at the weekend's FA Cup action.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch202_the_emirates_fa_cup_2425.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="202" start="20250304140000 +0000" stop="20250304160000 +0000">
+	<programme channel="202" start="20250304140000 +0000" stop="20250304163000 +0000">
 		<title>The Emirates FA Cup 2024/25 R5: Nottingham Forest vs Ipswich Town</title>
 		<desc>The 2024/25 FA Cup is the 144th season of the Football Association Challenge Cup, the original and oldest football tournament in the world. The FA Cup is the main domestic cup for men's football teams in England, with more than 700 clubs competing for the chance to lift one of the most prestigious trophies.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch202_NFOvIPS.jpg?w=960&amp;h=540" />
-	</programme>
-	<programme channel="202" start="20250304160000 +0000" stop="20250304163000 +0000">
-		<title>The Greatest of All Time 2025</title>
-		<desc>Sport's eternal debate... who is the Great of All Time? This is a series of programmes for every sport, examining the candidates and their case for 'greatest', and depicting iconic stars, the most influential careers, the most revered champions, across all sports.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch202_the_greatest_of_all_time2025.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="202" start="20250304163000 +0000" stop="20250304193000 +0000">
 		<title>NFL 2024/25 AFC Championship: Buffalo Bills vs Kansas City Chiefs</title>
@@ -10716,86 +10684,6 @@
 		<title>End of Transmission</title>
 		<desc>End of Transmission</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/206_1920x1080_HTV.png?w=960&amp;h=540" />
-	</programme>
-	<programme channel="207" start="20250303160000 +0000" stop="20250303220000 +0000">
-		<title>End of Transmission</title>
-		<desc>End of Transmission</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/207_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="207" start="20250303220000 +0000" stop="20250304040000 +0000">
-		<title>End of Transmission</title>
-		<desc>End of Transmission</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/207_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="207" start="20250304040000 +0000" stop="20250304100000 +0000">
-		<title>End of Transmission</title>
-		<desc>End of Transmission</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/207_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="207" start="20250304100000 +0000" stop="20250304160000 +0000">
-		<title>End of Transmission</title>
-		<desc>End of Transmission</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/207_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="207" start="20250304160000 +0000" stop="20250304220000 +0000">
-		<title>End of Transmission</title>
-		<desc>End of Transmission</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/207_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="207" start="20250304220000 +0000" stop="20250305040000 +0000">
-		<title>End of Transmission</title>
-		<desc>End of Transmission</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/207_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="207" start="20250305040000 +0000" stop="20250305100000 +0000">
-		<title>End of Transmission</title>
-		<desc>End of Transmission</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/207_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="207" start="20250305100000 +0000" stop="20250305160000 +0000">
-		<title>End of Transmission</title>
-		<desc>End of Transmission</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/207_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="208" start="20250303160000 +0000" stop="20250303220000 +0000">
-		<title>End of Transmission</title>
-		<desc>End of Transmission</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/208_1920x1080_HTV.png?w=960&amp;h=540" />
-	</programme>
-	<programme channel="208" start="20250303220000 +0000" stop="20250304040000 +0000">
-		<title>End of Transmission</title>
-		<desc>End of Transmission</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/208_1920x1080_HTV.png?w=960&amp;h=540" />
-	</programme>
-	<programme channel="208" start="20250304040000 +0000" stop="20250304100000 +0000">
-		<title>End of Transmission</title>
-		<desc>End of Transmission</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/208_1920x1080_HTV.png?w=960&amp;h=540" />
-	</programme>
-	<programme channel="208" start="20250304100000 +0000" stop="20250304160000 +0000">
-		<title>End of Transmission</title>
-		<desc>End of Transmission</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/208_1920x1080_HTV.png?w=960&amp;h=540" />
-	</programme>
-	<programme channel="208" start="20250304160000 +0000" stop="20250304220000 +0000">
-		<title>End of Transmission</title>
-		<desc>End of Transmission</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/208_1920x1080_HTV.png?w=960&amp;h=540" />
-	</programme>
-	<programme channel="208" start="20250304220000 +0000" stop="20250305040000 +0000">
-		<title>End of Transmission</title>
-		<desc>End of Transmission</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/208_1920x1080_HTV.png?w=960&amp;h=540" />
-	</programme>
-	<programme channel="208" start="20250305040000 +0000" stop="20250305100000 +0000">
-		<title>End of Transmission</title>
-		<desc>End of Transmission</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/208_1920x1080_HTV.png?w=960&amp;h=540" />
-	</programme>
-	<programme channel="208" start="20250305100000 +0000" stop="20250305160000 +0000">
-		<title>End of Transmission</title>
-		<desc>End of Transmission</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/208_1920x1080_HTV.png?w=960&amp;h=540" />
 	</programme>
 	<programme channel="209" start="20250303160000 +0000" stop="20250303180000 +0000">
 		<title>ISUZU UTE A-League Men 2024/25 Rd21 Brisbane Roar FC vs Melbourne Victory</title>
@@ -11408,7 +11296,7 @@
 		<icon src="https://poster.starhubgo.com/poster/ch213_standard_chartered_singapore_marathon_2024.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="213" start="20250304074000 +0000" stop="20250304093000 +0000">
-		<title>LaLiga 2024/25: Villarreal vs Espanyol</title>
+		<title>LaLiga 2024/25: Osasuna vs Valencia</title>
 		<desc>Extensive coverage from every round of the Spanish LaLiga, Spain's top division of football with the World's biggest teams.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch213_laliga.jpg?w=960&amp;h=540" />
 	</programme>
@@ -12382,46 +12270,6 @@
 		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_Channels2/226_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="227" start="20250303160000 +0000" stop="20250303220000 +0000">
-		<title>End of Transmission</title>
-		<desc />
-		<icon src="https://poster.starhubgo.com/Linear_Channels2/227_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="227" start="20250303220000 +0000" stop="20250304040000 +0000">
-		<title>End of Transmission</title>
-		<desc />
-		<icon src="https://poster.starhubgo.com/Linear_Channels2/227_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="227" start="20250304040000 +0000" stop="20250304100000 +0000">
-		<title>End of Transmission</title>
-		<desc />
-		<icon src="https://poster.starhubgo.com/Linear_Channels2/227_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="227" start="20250304100000 +0000" stop="20250304160000 +0000">
-		<title>End of Transmission</title>
-		<desc />
-		<icon src="https://poster.starhubgo.com/Linear_Channels2/227_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="227" start="20250304160000 +0000" stop="20250304220000 +0000">
-		<title>End of Transmission</title>
-		<desc />
-		<icon src="https://poster.starhubgo.com/Linear_Channels2/227_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="227" start="20250304220000 +0000" stop="20250305040000 +0000">
-		<title>End of Transmission</title>
-		<desc />
-		<icon src="https://poster.starhubgo.com/Linear_Channels2/227_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="227" start="20250305040000 +0000" stop="20250305100000 +0000">
-		<title>End of Transmission</title>
-		<desc />
-		<icon src="https://poster.starhubgo.com/Linear_Channels2/227_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="227" start="20250305100000 +0000" stop="20250305160000 +0000">
-		<title>End of Transmission</title>
-		<desc />
-		<icon src="https://poster.starhubgo.com/Linear_Channels2/227_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
 	<programme channel="228" start="20250303160000 +0000" stop="20250303220000 +0000">
 		<title>End of Transmission</title>
 		<desc />
@@ -12829,12 +12677,12 @@
 	</programme>
 	<programme channel="247" start="20250304015000 +0000" stop="20250304034000 +0000">
 		<title>URC Bulls v Stormers</title>
-		<desc>Exclusive coverage of the United Rugby Championship.</desc>
+		<desc>The Vodacom Bulls and the DHL Stormers meet at Loftus Versfeld Stadium in this clash of South African rivals in the URC.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch207_premier_sports.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="247" start="20250304034000 +0000" stop="20250304053000 +0000">
 		<title>URC Ulster v Scarlets</title>
-		<desc>Exclusive coverage of the United Rugby Championship.</desc>
+		<desc>Richie Murphy's Ulster play host to Scarlets in this URC clash at the Kingspan Stadium.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch207_premier_sports.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="247" start="20250304053000 +0000" stop="20250304060000 +0000">
@@ -12899,7 +12747,7 @@
 	</programme>
 	<programme channel="247" start="20250304125000 +0000" stop="20250304144000 +0000">
 		<title>URC Glasgow Warriors v Ospreys</title>
-		<desc>Exclusive coverage of the United Rugby Championship.</desc>
+		<desc>Scotstoun Stadium is the venue for this URC matchup between Glasgow Warriors and Ospreys.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch207_premier_sports.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="247" start="20250304144000 +0000" stop="20250304151000 +0000">
@@ -12957,24 +12805,24 @@
 		<desc>The 2025 Super Rugby featuring teams from Australia, Fiji, New Zealand and a combined team from Samoa, Tonga and other Pacific Island nations.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch207_premier_sports.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="247" start="20250304201000 +0000" stop="20250304220000 +0000">
+	<programme channel="247" start="20250304201000 +0000" stop="20250304214500 +0000">
 		<title>Super Rugby Chiefs v Brumbies</title>
 		<desc>The 2025 Super Rugby featuring teams from Australia, Fiji, New Zealand and a combined team from Samoa, Tonga and other Pacific Island nations.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch207_premier_sports.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="247" start="20250304220000 +0000" stop="20250304223000 +0000">
+	<programme channel="247" start="20250304214500 +0000" stop="20250304221500 +0000">
 		<title>5 &amp; 6 Nations Classics 1991 - Scotland v Ireland</title>
 		<desc>A look at some of the best matches in the history of rugby's Six Nations.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch207_premier_sports.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="247" start="20250304223000 +0000" stop="20250305002000 +0000">
+	<programme channel="247" start="20250304221500 +0000" stop="20250305000000 +0000">
 		<title>URC Munster v Edinburgh</title>
-		<desc>Exclusive coverage of the United Rugby Championship.</desc>
+		<desc>Virgin Media Park in County Cork is the setting for this URC match between Munster and Edinburgh.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch207_premier_sports.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="247" start="20250305002000 +0000" stop="20250305021000 +0000">
+	<programme channel="247" start="20250305000000 +0000" stop="20250305015000 +0000">
 		<title>URC Zebre v Dragons</title>
-		<desc>Exclusive coverage of the United Rugby Championship.</desc>
+		<desc>Zebre Parma play host to Dragons in this URC game from the Stadio Sergio Lanfranchi.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch207_premier_sports.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="247" start="20250305021000 +0000" stop="20250305024000 +0000">
@@ -22344,7 +22192,7 @@
 	</programme>
 	<programme channel="603" start="20250304140000 +0000" stop="20250304150000 +0000">
 		<title>The White Lotus S3 - EP 3</title>
-		<desc>The social satire is set at an exclusive Thai resort and follows the exploits of various guests and employees over the span of a week.</desc>
+		<desc>Jaclyn pushes the idea of a vacation fling on Laurie. Chelsea finds herself in a perilous situation. Gaitok worries about a reprimand.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch633_the_white_lotus_GenericSeries.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="603" start="20250304150000 +0000" stop="20250304164000 +0000">
@@ -25928,7 +25776,7 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/709_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="709" start="20250304133000 +0000" stop="20250304140000 +0000">
-		<title>The Circuit</title>
+		<title>The Circuit S2 - EP 8</title>
 		<desc>Inside Mark Zuckerberg's AI Era. Mark Zuckerberg discusses how Meta's newest AI model Llama 3.1 will shape the future of business, technology and society.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/709_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
@@ -25998,7 +25846,7 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/709_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="709" start="20250304223000 +0000" stop="20250304230000 +0000">
-		<title>The Circuit</title>
+		<title>The Circuit S2 - EP 8</title>
 		<desc>Inside Mark Zuckerberg's AI Era. Mark Zuckerberg discusses how Meta's newest AI model Llama 3.1 will shape the future of business, technology and society.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/709_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
@@ -35277,15 +35125,10 @@
 		<desc>The FA Cup Highlights Show is a comprehensive look back at the weekend's FA Cup action.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch202_the_emirates_fa_cup_2425.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="995" start="20250304140000 +0000" stop="20250304160000 +0000">
+	<programme channel="995" start="20250304140000 +0000" stop="20250304163000 +0000">
 		<title>The Emirates FA Cup 2024/25 R5: Nottingham Forest vs Ipswich Town</title>
 		<desc>The 2024/25 FA Cup is the 144th season of the Football Association Challenge Cup, the original and oldest football tournament in the world. The FA Cup is the main domestic cup for men's football teams in England, with more than 700 clubs competing for the chance to lift one of the most prestigious trophies.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch202_NFOvIPS.jpg?w=960&amp;h=540" />
-	</programme>
-	<programme channel="995" start="20250304160000 +0000" stop="20250304163000 +0000">
-		<title>The Greatest of All Time 2025</title>
-		<desc>Sport's eternal debate... who is the Great of All Time? This is a series of programmes for every sport, examining the candidates and their case for 'greatest', and depicting iconic stars, the most influential careers, the most revered champions, across all sports.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch202_the_greatest_of_all_time2025.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="995" start="20250304163000 +0000" stop="20250304193000 +0000">
 		<title>NFL 2024/25 AFC Championship: Buffalo Bills vs Kansas City Chiefs</title>
