@@ -1955,14 +1955,9 @@
 		<desc>From business to politics, health to technology, the latest news from Singapore and analysis of the impact.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="106" start="20250304230000 +0000" stop="20250305020000 +0000">
+	<programme channel="106" start="20250304230000 +0000" stop="20250305030000 +0000">
 		<title>Asia First - EP 235</title>
 		<desc>Top stories, business news and market updates from across the region as Asia gears up for the day ahead.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="106" start="20250305020000 +0000" stop="20250305030000 +0000">
-		<title>CNA Summit 2025: Trade-offs in Leadership - EP 2</title>
-		<desc>At the CNA Summit 2025 - Trade-offs in Leadership, industry leaders address how modern leadership requires navigating complex decisions shaped by interactions with stakeholders, customers, and regulators.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="106" start="20250305030000 +0000" stop="20250305050000 +0000">
@@ -10600,12 +10595,17 @@
 		<desc>The 9th edition of the ICC Champions Trophy will be hosted by Pakistan and United Arab Emirates from 19 February to 9 March 2025 and will be contested by the top eight ranked men's national teams qualified from the Cricket World Cup 2023.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ICCCT2025_GENERIC.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="204" start="20250305170000 +0000" stop="20250305211500 +0000">
+	<programme channel="204" start="20250305170000 +0000" stop="20250305220000 +0000">
 		<title>End of Transmission</title>
 		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_Channels2/204_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="204" start="20250305211500 +0000" stop="20250306012000 +0000">
+	<programme channel="204" start="20250305220000 +0000" stop="20250305224000 +0000">
+		<title>End of Transmission</title>
+		<desc />
+		<icon src="https://poster.starhubgo.com/Linear_Channels2/204_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="204" start="20250305224000 +0000" stop="20250306024500 +0000">
 		<title>TATA Indian Premier League 2024: M53 - Punjab Kings vs Chennai Super Kings</title>
 		<desc>Catch the 17th edition of the Indian Premier League, the most popular cricket league here on StarHub!</desc>
 		<icon src="https://poster.starhubgo.com/poster/IPL2024_M53.jpg?w=960&amp;h=540" />
@@ -20050,24 +20050,34 @@
 		<desc>Sammy J takes you on a ride into the marvels of the mind, unveiling the secrets of lifelong neuroplasticity and discovering breakthrough science which rewrites rehabilitation and our approach to learning.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="447" start="20250304163000 +0000" stop="20250304173000 +0000">
+	<programme channel="447" start="20250304163000 +0000" stop="20250304171500 +0000">
 		<title>Save This Shark S1 - EP 1</title>
 		<desc>Mick Fanning begins his quest to better understand the importance of sharks by coming face-to-face with them again.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341&amp;h=192" />
 	</programme>
+	<programme channel="447" start="20250304171500 +0000" stop="20250304172000 +0000">
+		<title>Elevator Pitch S2 - EP 1</title>
+		<desc>What is infinity? What's the opposite of infinity? Mathematician Dr Sophie Calabretto tries to explain it in three minutes.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="447" start="20250304172000 +0000" stop="20250304173000 +0000">
+		<title>How Deadly S2 - EP 6</title>
+		<desc>Does Australia's funnel web spider live up to it's deadly reputation? Nature nerd Dr Ann Jones sets the record straight.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341&amp;h=192" />
+	</programme>
 	<programme channel="447" start="20250304173000 +0000" stop="20250304180000 +0000">
 		<title>Australian Story (2025) - EP 4</title>
-		<desc>The power of the personal. Compelling stories about real people that illuminate, entertain and inspire. Presented by Leigh Sales.</desc>
+		<desc>On the brink of death in India, Bharat Sundaresan turned to cricket, gathering millions of followers. But it's now in Australia that the colourful commentator has found true acceptance.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="447" start="20250304180000 +0000" stop="20250304190000 +0000">
 		<title>The World (2025) - EP 34</title>
-		<desc>There's never been a more important time to stay in touch with what's happening in our world. Weeknights at 9pm AEDT, Girish Sawlani presents the latest international news from correspondents and interviews with guests.</desc>
+		<desc>Girish Sawlani brings you the latest news from around the globe. Tonight: the US pauses all military support to Ukraine, discussions over Gaza's future, and are planes still the safest way to travel?</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="447" start="20250304190000 +0000" stop="20250304220000 +0000">
 		<title>News Breakfast (2025) - EP 46</title>
-		<desc>Start your day with the latest overnight developments, breaking news and the top stories this morning. James Glenday and Bridget Brennan bring you news and interviews joined by Emma Rebellato, Catherine Murphy and Nate Byrne.</desc>
+		<desc>Start your day with the latest overnight developments, breaking news and today's top stories. James Glenday and Bridget Brennan bring you news and interviews, plus Emma Rebellato is in QLD with the latest on Cyclone Alfred.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="447" start="20250304220000 +0000" stop="20250305010000 +0000">
@@ -20117,7 +20127,7 @@
 	</programme>
 	<programme channel="447" start="20250305050000 +0000" stop="20250305060000 +0000">
 		<title>Afternoon Briefing (2025) - EP 28</title>
-		<desc>Your daily download of everything you need to know about politics, national and global affairs. Patricia Karvelas asks politicians the tough questions and talks to experts on issues driving the news cycle in an election year.</desc>
+		<desc>Patricia Karvelas brings you the latest in national and global affairs, speaking with Treasurer Jim Chalmers, a panel of Zoe McKenzie and Josh Wilson, Bridget McKenzie, Bruce Wolpe, plus Ryan Lidell and David Gazzard.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="447" start="20250305060000 +0000" stop="20250305070000 +0000">
@@ -20157,7 +20167,7 @@
 	</programme>
 	<programme channel="447" start="20250305100000 +0000" stop="20250305110000 +0000">
 		<title>The World (2025) - EP 35</title>
-		<desc>There's never been a more important time to stay in touch with what's happening in our world. Weeknights at 9pm AEDT, Girish Sawlani presents the latest international news from correspondents and interviews with guests.</desc>
+		<desc>Girish Sawlani brings you the latest news from around the globe. Tonight: China's annual political summit gets underway, Myanmar and Russia engage in "elephant diplomacy", and Donald Trump addresses Congress.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="447" start="20250305110000 +0000" stop="20250305114500 +0000">
@@ -20187,7 +20197,7 @@
 	</programme>
 	<programme channel="447" start="20250305130000 +0000" stop="20250305133000 +0000">
 		<title>ABC Late News (2025) - EP 46</title>
-		<desc>Know the latest on the day's top stories, as Michael Tetlow brings you a comprehensive roundup of the news of the day. ABC News has reporters across Australia and around the globe reporting on the issues that matter to you.</desc>
+		<desc>Know the latest on the day's top stories, as Jessica Rendall brings you a comprehensive roundup of the news of the day. ABC News has reporters across Australia and around the globe reporting on the issues that matter to you.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="447" start="20250305133000 +0000" stop="20250305140000 +0000">
@@ -20197,12 +20207,12 @@
 	</programme>
 	<programme channel="447" start="20250305140000 +0000" stop="20250305150000 +0000">
 		<title>The World (2025) - EP 35</title>
-		<desc>There's never been a more important time to stay in touch with what's happening in our world. Weeknights at 9pm AEDT, Girish Sawlani presents the latest international news from correspondents and interviews with guests.</desc>
+		<desc>Girish Sawlani brings you the latest news from around the globe. Tonight: China's annual political summit gets underway, Myanmar and Russia engage in "elephant diplomacy", and Donald Trump addresses Congress.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="447" start="20250305150000 +0000" stop="20250305151500 +0000">
 		<title>ABC Late News (2025) - EP 46</title>
-		<desc>Follow the latest on today's news, covering what's happening and why it matters. ABC News has reporters across Australia and around the globe to bring you the news you need to know. Presented by Michael Tetlow in Perth.</desc>
+		<desc>Follow the latest on today's news, covering what's happening and why it matters. ABC News has reporters across Australia and around the globe to bring you the news you need to know. Presented by Jessica Rendall in Perth.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="447" start="20250305151500 +0000" stop="20250305153000 +0000">
@@ -20237,7 +20247,7 @@
 	</programme>
 	<programme channel="447" start="20250305180000 +0000" stop="20250305190000 +0000">
 		<title>The World (2025) - EP 35</title>
-		<desc>There's never been a more important time to stay in touch with what's happening in our world. Weeknights at 9pm AEDT, Girish Sawlani presents the latest international news from correspondents and interviews with guests.</desc>
+		<desc>Girish Sawlani brings you the latest news from around the globe. Tonight: China's annual political summit gets underway, Myanmar and Russia engage in "elephant diplomacy", and Donald Trump addresses Congress.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="447" start="20250305190000 +0000" stop="20250305220000 +0000">
@@ -20257,7 +20267,7 @@
 	</programme>
 	<programme channel="447" start="20250306010000 +0000" stop="20250306020000 +0000">
 		<title>ABC News At Noon (2025) - EP 47</title>
-		<desc>The leading news at lunchtime. Ros Childs brings you the day's top stories and the latest news as it unfolds, with reporters in the community across Australia and around the world reporting on the issues that matter to you.</desc>
+		<desc>The leading news at lunchtime. Melissa Mackay brings you today's top stories and the latest news as it unfolds, with reporters in the community across Australia and round the world reporting on the issues that matter to you.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="447" start="20250306020000 +0000" stop="20250306022500 +0000">
@@ -20267,7 +20277,7 @@
 	</programme>
 	<programme channel="447" start="20250306022500 +0000" stop="20250306033000 +0000">
 		<title>Q+A S18 - EP 2</title>
-		<desc>Patricia Karvelas leads the conversation as citizens put their questions to local and international politicians and thought leaders. Q+A brings together a range of guests to debate the big issues affecting Australians.</desc>
+		<desc>Rarely has democratic government been so precarious. Australia faces a federal election within weeks, with huge economic and diplomatic challenges. How will Trump, Putin and Netanyahu play into our election - and our lives?</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="447" start="20250306033000 +0000" stop="20250306043000 +0000">
@@ -20277,7 +20287,7 @@
 	</programme>
 	<programme channel="447" start="20250306043000 +0000" stop="20250306050000 +0000">
 		<title>Planet America (2025) - EP 7</title>
-		<desc>US President Donald Trump has been invited to address both houses of Congress in a special Joint Sitting to share his America First vision for the future. Chas and John break down all the events of the past seven days.</desc>
+		<desc>All the fallout and reaction to the Trump-Zelenskyy Oval Office clash and what it means for US-Ukraine and Russia relations. Plus President Trump set to unleash tariffs on Mexico and Canada plus Trump's speech to Congress.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="447" start="20250306050000 +0000" stop="20250306060000 +0000">
@@ -20305,19 +20315,44 @@
 		<desc>There's never been a more important time for transparency and trust. ABC News brings you the day's top stories and latest news, with more reporters to tell you what's going on and why it matters. Presented by Joe O'Brien.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="447" start="20250306083000 +0000" stop="20250306113000 +0000">
-		<title>TBA</title>
-		<desc>ABC Australia delivers a mix of programmes including news and current affairs, sports, comedies, drama, documentaries, education and award-winning children's programmes.</desc>
+	<programme channel="447" start="20250306083000 +0000" stop="20250306090000 +0000">
+		<title>7.30 (2025) - EP 36</title>
+		<desc>Sarah Ferguson presents Australia's premier daily current affairs program, delivering agenda-setting public affairs journalism and interviews that hold the powerful to account. Plus political analysis from Laura Tingle.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="447" start="20250306113000 +0000" stop="20250306122500 +0000">
+	<programme channel="447" start="20250306090000 +0000" stop="20250306100000 +0000">
+		<title>Miriam Margolyes: Australia Unmasked S1 - EP 2</title>
+		<desc>Miriam Margolyes travels through Victoria, attending polo matches and bogan burnouts, to explore what class looks like in Australia and how much it shapes our expectations and opportunities.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="447" start="20250306100000 +0000" stop="20250306110000 +0000">
 		<title>The World (2025) - EP 36</title>
 		<desc>There's never been a more important time to stay in touch with what's happening in our world. Weeknights at 9pm AEDT, Girish Sawlani presents the latest international news from correspondents and interviews with guests.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="447" start="20250306122500 +0000" stop="20250306133000 +0000">
+	<programme channel="447" start="20250306110000 +0000" stop="20250306114000 +0000">
+		<title>Wang Gungwu Lecture 2025</title>
+		<desc>Sports trailblazer Melissa Wu delivers the 2025 Wang Gungwu Lecture. Each year the lecture celebrates the life and work of a prominent Chinese Australian.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="447" start="20250306114000 +0000" stop="20250306114500 +0000">
+		<title>Belonging(s) S1 - EP 1</title>
+		<desc>We look at a long scroll depicting early Chinese Australians as laundry workers among others. Plus we see a drum kit used by the late Alma Quan, a musician who coached debutante dance routines.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="447" start="20250306114500 +0000" stop="20250306115500 +0000">
+		<title>Belonging(s) S1 - EP 2</title>
+		<desc>The story of Mary's arranged marriage in the 19th century is captured in a black and white portrait. A century later we look at the wedding accessories of Eunice, who has been happily married for more than 70 years.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="447" start="20250306115500 +0000" stop="20250306130000 +0000">
 		<title>Q+A S18 - EP 2</title>
-		<desc>Patricia Karvelas leads the conversation as citizens put their questions to local and international politicians and thought leaders. Q+A brings together a range of guests to debate the big issues affecting Australians.</desc>
+		<desc>Rarely has democratic government been so precarious. Australia faces a federal election within weeks, with huge economic and diplomatic challenges. How will Trump, Putin and Netanyahu play into our election - and our lives?</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="447" start="20250306130000 +0000" stop="20250306133000 +0000">
+		<title>ABC Late News (2025) - EP 47</title>
+		<desc>Know the latest on the day's top stories, as Michael Tetlow brings you a comprehensive roundup of the news of the day. ABC News has reporters across Australia and around the globe reporting on the issues that matter to you.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="447" start="20250306133000 +0000" stop="20250306140000 +0000">
@@ -26210,15 +26245,10 @@
 		<desc>Live context and clarity to the day's top stories from around the world.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch711_cnn_newsroom.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="711" start="20250306090000 +0000" stop="20250306093000 +0000">
-		<title>Connecting Africa</title>
-		<desc>How major investments in ports, railways, and airlines could unlock Africa's trade potential through such methods as implementing cutting-edge technology and scaling infrastructure</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch711_connecting_africa.jpg?w=341&amp;h=192" />
-	</programme>
-	<programme channel="711" start="20250306093000 +0000" stop="20250306100000 +0000">
-		<title>Quest's World of Wonder</title>
-		<desc>Considered by many to be the north African country's cultural center, Richard heads to Marrakech to meet the people and visit the places that make this a must visit destination.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch711_quess_world_of_wonder.jpg?w=960&amp;h=540" />
+	<programme channel="711" start="20250306090000 +0000" stop="20250306100000 +0000">
+		<title>CNN Newsroom</title>
+		<desc>Live context and clarity to the day's top stories from around the world.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch711_cnn_newsroom.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="711" start="20250306100000 +0000" stop="20250306110000 +0000">
 		<title>CNN Newsroom</title>
@@ -33425,37 +33455,37 @@
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20250305150600 +0000" stop="20250305170000 +0000">
+	<programme channel="832" start="20250305150600 +0000" stop="20250305173400 +0000">
 		<title>Ai Romance</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20250305170000 +0000" stop="20250305180000 +0000">
+	<programme channel="832" start="20250305173400 +0000" stop="20250305183500 +0000">
 		<title>Dragon TV Primetime News</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20250305180000 +0000" stop="20250305190000 +0000">
+	<programme channel="832" start="20250305183500 +0000" stop="20250305190900 +0000">
 		<title>CHINA Now</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20250305190000 +0000" stop="20250305193000 +0000">
+	<programme channel="832" start="20250305190900 +0000" stop="20250305193400 +0000">
 		<title>Next Station</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20250305193000 +0000" stop="20250305210000 +0000">
+	<programme channel="832" start="20250305193400 +0000" stop="20250305211200 +0000">
 		<title>the city of musicals</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20250305210000 +0000" stop="20250305220000 +0000">
+	<programme channel="832" start="20250305211200 +0000" stop="20250305221000 +0000">
 		<title>A Green Trip</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20250305220000 +0000" stop="20250305223000 +0000">
+	<programme channel="832" start="20250305221000 +0000" stop="20250305223000 +0000">
 		<title>New Entertainment</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
