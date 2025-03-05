@@ -790,17 +790,17 @@
 		<desc>The mysterious BANKER has returned with a truly devious twist to his signature game, where he invited thirteen strangers to his private island with promises of luxurious adventure and millions in prize money.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="102" start="20250305144000 +0000" stop="20250305153000 +0000">
+	<programme channel="102" start="20250305144000 +0000" stop="20250305153500 +0000">
 		<title>When We Age - EP 1</title>
 		<desc>Seniors doing parkour? This group of ladies keep fit and flexible with a bit of tumble and roll. How do you take charge of your body to maximise your well-being?</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="102" start="20250305153000 +0000" stop="20250305160000 +0000">
+	<programme channel="102" start="20250305153500 +0000" stop="20250305160500 +0000">
 		<title>Whispers Of The Dead - EP 3</title>
 		<desc>A bottomless 58-year-old widow is found in the waters off Pulau Ubin. Using his findings from the autopsy, Prof Chao begins reconstructing what could have happened on that fateful night.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="102" start="20250305160000 +0000" stop="20250305163000 +0000">
+	<programme channel="102" start="20250305160500 +0000" stop="20250305163000 +0000">
 		<title>Provocative - EP 32</title>
 		<desc>Nadrah's Free Clinic faces unexpected challenges on its opening day. Tess sets a trap to expose Xander's vendetta, but his unexpected breakdown reveals deeper issues.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png?w=341&amp;h=192" />
@@ -7612,7 +7612,7 @@
 	</programme>
 	<programme channel="140" start="20250305013000 +0000" stop="20250305043000 +0000">
 		<title>Pullipulikalum Aattinkuttiyum</title>
-		<desc>Gopan's life turn as a statement by him lands his rival into the police station. Release Year: 2013</desc>
+		<desc>Gopan accuses Kuriyachan and then defeats him. Release Year: 2013 Director: Lal Jose Awards: 1 win and 1 nomination</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=960&amp;h=540" />
 	</programme>
 	<programme channel="140" start="20250305043000 +0000" stop="20250305073000 +0000">
@@ -7635,17 +7635,17 @@
 		<desc>Four friends labeled as 'losers' tackle societal and parental pressures in adulthood, embarking on a heartfelt journey of self-discovery and acceptance, proving that love conquers all. Release Year: 2024 Director: Anand Menen</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=960&amp;h=540" />
 	</programme>
-	<programme channel="140" start="20250305163000 +0000" stop="20250305190000 +0000">
+	<programme channel="140" start="20250305163000 +0000" stop="20250305192000 +0000">
 		<title>Kannum Kannum Kollayadithal</title>
 		<desc>Online scammers in a romantic relationship decide to quit their fraudulent activities, unaware of their partners' ulterior motives.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=960&amp;h=540" />
 	</programme>
-	<programme channel="140" start="20250305190000 +0000" stop="20250305220000 +0000">
+	<programme channel="140" start="20250305192000 +0000" stop="20250305212000 +0000">
 		<title>Moz &amp; Cat</title>
 		<desc>Two orphans share a strong bond and hatch mischievous plans to survive. Their lives take an unexpected turn when they meet Nandana, bringing new challenges and opportunities. Release Year: 2009</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=960&amp;h=540" />
 	</programme>
-	<programme channel="140" start="20250305220000 +0000" stop="20250305233000 +0000">
+	<programme channel="140" start="20250305212000 +0000" stop="20250305233000 +0000">
 		<title>Chitta</title>
 		<desc>Eshwar aka Chikku's world crumbles beloved niece goes missing.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=960&amp;h=540" />
@@ -11246,7 +11246,7 @@
 		<icon src="https://poster.starhubgo.com/poster/ch213_psg_tv.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="213" start="20250304195500 +0000" stop="20250304220000 +0000">
-		<title>UEFA Champions League 2024/25: PSV vs Arsenal - RD 16,1st Leg (Live)</title>
+		<title>PSV vs Arsenal - RD 16,1st Leg (Live)</title>
 		<desc>The most prestigious tournament in the world contested by top-division elite European clubs</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch213_uefa_champions_league_live.jpg?w=960&amp;h=540" />
 	</programme>
@@ -11471,7 +11471,7 @@
 		<icon src="https://poster.starhubgo.com/poster/ch214_UCL_magazine_show.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="214" start="20250304174000 +0000" stop="20250304195500 +0000">
-		<title>UEFA Champions League 2024/25 Club Brugge vs Aston Villa - RD16,1st Leg (Live)</title>
+		<title>Club Brugge vs Aston Villa - RD16,1st Leg (Live)</title>
 		<desc>The most prestigious tournament in the world contested by top-division elite European clubs</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch214_UCL_live_match.jpg?w=341&amp;h=192" />
 	</programme>
