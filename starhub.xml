@@ -1790,14 +1790,9 @@
 		<desc>From business to politics, health to technology, the latest news from Singapore and analysis of the impact.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="106" start="20250306230000 +0000" stop="20250307020000 +0000">
+	<programme channel="106" start="20250306230000 +0000" stop="20250307030000 +0000">
 		<title>Asia First - EP 237</title>
 		<desc>Top stories, business news and market updates from across the region as Asia gears up for the day ahead.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="106" start="20250307020000 +0000" stop="20250307030000 +0000">
-		<title>Insight - EP 41</title>
-		<desc>In Thailand, household debt is squeezing the middle class. It currently hovers around 90%, among Asia's highest. How did middle class Thais become so indebted?</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="106" start="20250307030000 +0000" stop="20250307050000 +0000">
@@ -5620,9 +5615,14 @@
 		<desc>NINAITHALE INIKKUM</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/133_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="133" start="20250308010000 +0000" stop="20250308020000 +0000">
-		<title>MAMA MANASILAAYO</title>
-		<desc>Mama Manasilaayo</desc>
+	<programme channel="133" start="20250308003000 +0000" stop="20250308013000 +0000">
+		<title>NANGA READY NREENGA READYA (Repeat Telecast)</title>
+		<desc>Join us to watch two of your favourite Sun TV families sing, dance, and take on exciting games for a shot at winning golden biscuits, all while being judged by two celebrity stars.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/133_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="133" start="20250308013000 +0000" stop="20250308020000 +0000">
+		<title>AGADHA MAMIYAR AGADHA MARUMAGAL (Repeat Telecast)</title>
+		<desc>Aagadha Mamiyar Aagadha Marumagal Show</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/133_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="133" start="20250308020000 +0000" stop="20250308023000 +0000">
@@ -5631,8 +5631,8 @@
 		<icon src="https://poster.starhubgo.com/poster/ch25_news.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="133" start="20250308023000 +0000" stop="20250308030000 +0000">
-		<title>MAMA MANASILAAYO</title>
-		<desc>Mama Manasilaayo</desc>
+		<title>AGADHA MAMIYAR AGADHA MARUMAGAL (Repeat Telecast)</title>
+		<desc>Aagadha Mamiyar Aagadha Marumagal Show</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/133_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="133" start="20250308030000 +0000" stop="20250308033000 +0000">
@@ -5681,8 +5681,8 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/133_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="133" start="20250308073000 +0000" stop="20250308080000 +0000">
-		<title>Movie -</title>
-		<desc>Watch your favourite movies with all the drama and emotion on Sun TV.</desc>
+		<title>Movie - ARAM</title>
+		<desc>Madhivadhani, a district collector, faces a big professional challenge after Dhanshika, a young village girl, falls into a deep borewell and the media highlights her rescue efforts.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch25_movie.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="133" start="20250308080000 +0000" stop="20250308083000 +0000">
@@ -5691,8 +5691,8 @@
 		<icon src="https://poster.starhubgo.com/poster/ch25_news.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="133" start="20250308083000 +0000" stop="20250308103000 +0000">
-		<title>Movie Contd -</title>
-		<desc>Watch your favourite movies with all the drama and emotion on Sun TV.</desc>
+		<title>Movie Contd - ARAM</title>
+		<desc>Madhivadhani, a district collector, faces a big professional challenge after Dhanshika, a young village girl, falls into a deep borewell and the media highlights her rescue efforts.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch25_movie.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="133" start="20250308103000 +0000" stop="20250308110000 +0000">
@@ -7585,9 +7585,14 @@
 		<desc>The brand new season of 'MasterChef India - Tamil' promises a flavour-packed journey with some of the most talented home cooks.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/141_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="141" start="20250308043000 +0000" stop="20250308073000 +0000">
-		<title>MOVIE - MALAIKOTTAI (U)</title>
-		<desc>MOVIE - MALAIKOTTAI (U) Starring Vishal, Priyamani, Asish Vidyarthi, Urvashi</desc>
+	<programme channel="141" start="20250308043000 +0000" stop="20250308050000 +0000">
+		<title>Inthavaara kalakalappu</title>
+		<desc>Back to back Comedy</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/141_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="141" start="20250308050000 +0000" stop="20250308073000 +0000">
+		<title>MOVIE - DRIVER JAMUNA (U/A)</title>
+		<desc>MOVIE - DRIVER JAMUNA (U/A) Starring Aishwarya Rajesh, Abhishek, Aadukalam Narein</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/141_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="141" start="20250308073000 +0000" stop="20250308080000 +0000">
@@ -7595,9 +7600,14 @@
 		<desc>Live News from Kalaignar TV studio</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/141_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="141" start="20250308080000 +0000" stop="20250308110000 +0000">
-		<title>MOVIE - PAIYAA (U)</title>
-		<desc>MOVIE - PAIYAA (U) Starring Karthi, Tamannaah Bhatia, Jegan, Milind Soman, Sonia Deepti</desc>
+	<programme channel="141" start="20250308080000 +0000" stop="20250308103000 +0000">
+		<title>MOVIE - NAACHIYAR (U/A)</title>
+		<desc>MOVIE - NAACHIYAR (U/A) Starring Jyothika, GV Prakash Kumar, Ivana</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/141_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="141" start="20250308103000 +0000" stop="20250308110000 +0000">
+		<title>Inthavaara kalakalappu</title>
+		<desc>Back to back Comedy</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/141_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="141" start="20250308110000 +0000" stop="20250308120000 +0000">
@@ -7616,22 +7626,22 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/141_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="141" start="20250308133000 +0000" stop="20250308143000 +0000">
-		<title>Nadhaswaram - EP 766</title>
+		<title>Nadhaswaram - EP 772</title>
 		<desc>Story of Emotional family drama that depicts a gentle and respectable man who loves his family.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/141_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="141" start="20250308143000 +0000" stop="20250308150000 +0000">
-		<title>Gauri - EP 342</title>
+		<title>Gauri - EP 348</title>
 		<desc>A devotional mega series of A devotional mega series of Gauri is a child blessed by Goddess masani in maraiyanur village, two zameens of that village plans to kill gauri for their development, Finally what happened to guari and thet zameen is story</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/141_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="141" start="20250308150000 +0000" stop="20250308153000 +0000">
-		<title>Pavithra - EP 100</title>
+		<title>Pavithra - EP 106</title>
 		<desc>Mega Serial about the girl Pavithra who lost her parents and eventually returns to her grandmother Ramadevi's house, and what happened to their life</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/141_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="141" start="20250308153000 +0000" stop="20250308160000 +0000">
-		<title>Ullam Kollai Poguthada - EP 88</title>
+		<title>Ullam Kollai Poguthada - EP 94</title>
 		<desc>The show explores the worlds of Priya Sharma and Ram Kapoor, who accidentally discover love after getting married</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/141_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
@@ -22977,12 +22987,12 @@
 	</programme>
 	<programme channel="701" start="20250306210000 +0000" stop="20250306213000 +0000">
 		<title>The Context with Christian Fraser</title>
-		<desc>A regular panel of guests from across the political spectrum discuss the biggest international stories of the day.</desc>
+		<desc>Special coverage from Washington DC and London, focusing on President Trump's second term.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch701_the_context.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="701" start="20250306213000 +0000" stop="20250306220000 +0000">
 		<title>The Context with Christian Fraser</title>
-		<desc>A regular panel of guests from across the political spectrum discuss the biggest international stories of the day.</desc>
+		<desc>Special coverage from Washington DC and London, focusing on President Trump's second term.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch701_the_context.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="701" start="20250306220000 +0000" stop="20250306223000 +0000">
@@ -22992,7 +23002,7 @@
 	</programme>
 	<programme channel="701" start="20250306223000 +0000" stop="20250306230000 +0000">
 		<title>HARDtalk</title>
-		<desc>In-depth interviews with the world's leading politicians, opinion-formers and key figures from culture, business and sport.</desc>
+		<desc>Stephen Sackur speaks to Roger Carstens, until recently the US special presidential envoy for hostage affairs. Did the deals he struck from Russia to Iran risk making the problem worse?</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch701_hardtalk.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="701" start="20250306230000 +0000" stop="20250307000000 +0000">
@@ -23307,7 +23317,7 @@
 	</programme>
 	<programme channel="701" start="20250308033000 +0000" stop="20250308040000 +0000">
 		<title>The Media Show</title>
-		<desc>A global, topical weekly show that lifts the hood on the entertainment and news business. The Media Show explores the companies and personalities who command our attention.</desc>
+		<desc>Changes at the Washington Post under Jeff Bezos's ownership spark debate, Greg Williams assesses the Amazon founder's wider influence, and Molly O'Brien reflects on winning an Oscar.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch701_BBC_news.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="701" start="20250308040000 +0000" stop="20250308043000 +0000">
@@ -23327,7 +23337,7 @@
 	</programme>
 	<programme channel="701" start="20250308053000 +0000" stop="20250308060000 +0000">
 		<title>Unspun World with John Simpson</title>
-		<desc>Unspun World provides an unvarnished version of the week's major global news stories - reliable, honest and essential viewing with the BBC's world affairs editor John Simpson.</desc>
+		<desc>John Simpson, in discussion with the BBC's unparalleled range of experts across the world, examines what Ukraine can do to win back American military support in its war with Russia.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch701_unspun_world_with_john_simpson.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="701" start="20250308060000 +0000" stop="20250308063000 +0000">
@@ -23412,7 +23422,7 @@
 	</programme>
 	<programme channel="701" start="20250308143000 +0000" stop="20250308150000 +0000">
 		<title>The Media Show</title>
-		<desc>A global, topical weekly show that lifts the hood on the entertainment and news business. The Media Show explores the companies and personalities who command our attention.</desc>
+		<desc>Changes at the Washington Post under Jeff Bezos's ownership spark debate, Greg Williams assesses the Amazon founder's wider influence, and Molly O'Brien reflects on winning an Oscar.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch701_BBC_news.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="701" start="20250308150000 +0000" stop="20250308153000 +0000">
@@ -23661,9 +23671,9 @@
 		<icon src="https://poster.starhubgo.com/poster/ch241_FOXFriendsSaturday.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="702" start="20250308150000 +0000" stop="20250308160000 +0000">
-		<title>Cavuto Live</title>
+		<title>FOX News Live</title>
 		<desc>Breakdown of major headlines and interviews with politicians and other national newsmakers</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch241_CavutoLive.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch241_FOXNewsLive.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="703" start="20250306160000 +0000" stop="20250306163000 +0000">
 		<title>Sky News with Kamali Melbourne</title>
@@ -26111,9 +26121,9 @@
 		<icon src="https://poster.starhubgo.com/poster/ch711_cnn_this_morning.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="711" start="20250308130000 +0000" stop="20250308140000 +0000">
-		<title>First of All</title>
-		<desc>Victor Blackwell brings a fresh perspective on the week's news with a focus on stories affecting communities of color.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch711_first_of_all.jpg?w=341&amp;h=192" />
+		<title>CNN This Morning Weekend</title>
+		<desc>Start your day with Victor Blackwell bringing you the latest headlines and analysis.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch711_cnn_this_morning.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="711" start="20250308140000 +0000" stop="20250308150000 +0000">
 		<title>Smerconish</title>
@@ -33132,11 +33142,6 @@
 	</programme>
 	<programme channel="832" start="20250307230000 +0000" stop="20250308010000 +0000">
 		<title>Dragon TV Morning News</title>
-		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="832" start="20250308010000 +0000" stop="20250308023000 +0000">
-		<title>A Green Trip</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
