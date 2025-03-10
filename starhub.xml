@@ -10875,10 +10875,15 @@
 		<desc>The 2025 MotoGP World Championship sees 22 of the world’s best riders battle on 1000cc prototype machines, delivering over 250 horsepower and reaching speeds of 360kph across 22 thrilling Grands Prix in 18 countries.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch209_motogp.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="210" start="20250310140000 +0000" stop="20250310163000 +0000">
+	<programme channel="210" start="20250310140000 +0000" stop="20250310160500 +0000">
 		<title>MLB 2025: Spring Trainig Wk3 New York Yankees vs St. Louis Cardinals</title>
 		<desc>Experience the magic of MLB Spring Training, where rookies compete for roster spots and seasoned veterans prepare for the season ahead.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_baseball.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="210" start="20250310160500 +0000" stop="20250310163000 +0000">
+		<title>A-League Men 2024/25 Mini Match Rd21 Brisbane Roar FC vs Melbourne Victory</title>
+		<desc>The ISUZU UTE A-League Men's is the top-division Men's soccer league in Australia. The top four teams in the regular season then advance to the single-game knockout stage.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch210_spotv2_logo.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="210" start="20250310163000 +0000" stop="20250310170000 +0000">
 		<title>2024/25 A-League Men Match Weekly</title>
@@ -10895,7 +10900,7 @@
 		<desc>A truly unique, international team golf tournament that brings together the world's iconic footballers. Icons is an epic, two-day match play duel, united by the magnetic spirit of sport.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_golf.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="210" start="20250310230000 +0000" stop="20250311013000 +0000">
+	<programme channel="210" start="20250310230000 +0000" stop="20250311010500 +0000">
 		<title>MLB 2025: Spring Trainig Wk3 New York Yankees vs St. Louis Cardinals</title>
 		<desc>Experience the magic of MLB Spring Training, where rookies compete for roster spots and seasoned veterans prepare for the season ahead.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_baseball.jpg?w=341&amp;h=192" />
@@ -10918,11 +10923,6 @@
 	<programme channel="210" start="20250311080000 +0000" stop="20250311100000 +0000">
 		<title>Thai League 1 24/25 Matchday 25 Muangthong United vs Port FC</title>
 		<desc>Bringing together prominent professional players from the region, Thai League 1 delivers weekly thrilling matches with 16 teams competing for the crown.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch210_spotv2_logo.jpg?w=341&amp;h=192" />
-	</programme>
-	<programme channel="210" start="20250311100000 +0000" stop="20250311103000 +0000">
-		<title>A-League Men 2024/25 Mini Match Rd21 Brisbane Roar FC vs Melbourne Victory</title>
-		<desc>The ISUZU UTE A-League Men's is the top-division Men's soccer league in Australia. The top four teams in the regular season then advance to the single-game knockout stage.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_spotv2_logo.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="210" start="20250311103000 +0000" stop="20250311140000 +0000">
