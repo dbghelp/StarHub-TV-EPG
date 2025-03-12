@@ -10430,12 +10430,12 @@
 		<desc>The Arnold Palmer Invitational presented by Mastercard is one of the premier-event jewels on the PGA Tour. It is played at the Bay Hill Club and Lodge, a private golf resort owned since 1974 by Arnold Palmer in Bay Hill, a suburb southwest of Orlando, Florida. The winner receives a red cardigan sweater in memory of Arnold Palmer, a tradition that began with the 2017 tournament after Palmer's death in 2016.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch203_PGA_TOUR.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="203" start="20250312180000 +0000" stop="20250312200000 +0000">
+	<programme channel="203" start="20250312180000 +0000" stop="20250312201000 +0000">
 		<title>End of Transmission</title>
 		<desc>End of Transmission</desc>
 		<icon src="https://poster.starhubgo.com/Linear_Channels2/203_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="203" start="20250312200000 +0000" stop="20250312230000 +0000">
+	<programme channel="203" start="20250312201000 +0000" stop="20250312230000 +0000">
 		<title>PGA Tour 2025</title>
 		<desc>16 YouTube golf content creators will battle it out in a 9 hole competition featuring four foursomes, with each star playing as an individual in a stroke play.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch203_PGA_TOUR.jpg?w=960&amp;h=540" />
@@ -11435,42 +11435,37 @@
 		<desc>Watch every round of the UEL as Europe's top clubs battle it out for the coveted prize at the San Mames Stadium, Bilbao</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch214_UEL_mini_match.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="214" start="20250312051500 +0000" stop="20250312070500 +0000">
+	<programme channel="214" start="20250312051500 +0000" stop="20250312074500 +0000">
 		<title>UEFA Champions League 2024/25 Liverpool vs PSG - RD 16,2nd Leg</title>
 		<desc>The most prestigious tournament in the world contested by top-division elite European clubs</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch214_UCL_full_match.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="214" start="20250312070500 +0000" stop="20250312080500 +0000">
-		<title>UEFA Europa/Conference League Magazine Show 2024/25</title>
-		<desc>Match highlights, interviews, epic moments and fascinating features from across Europe</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch214_UECL_logo.jpg?w=341&amp;h=192" />
-	</programme>
-	<programme channel="214" start="20250312080500 +0000" stop="20250312095500 +0000">
+	<programme channel="214" start="20250312074500 +0000" stop="20250312093500 +0000">
 		<title>UEFA Champions League 2024/25 Inter vs Feyenoord - RD 16,2nd Leg</title>
 		<desc>The most prestigious tournament in the world contested by top-division elite European clubs</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch214_UCL_full_match.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="214" start="20250312095500 +0000" stop="20250312102500 +0000">
+	<programme channel="214" start="20250312093500 +0000" stop="20250312100500 +0000">
 		<title>Mini Match - UEFA Europa League 2024/25 Real Sociedad vs Man United - RD 16,1st</title>
 		<desc>Watch every round of the UEL as Europe's top clubs battle it out for the coveted prize at the San Mames Stadium, Bilbao</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch214_UEL_mini_match.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="214" start="20250312102500 +0000" stop="20250312105500 +0000">
+	<programme channel="214" start="20250312100500 +0000" stop="20250312103500 +0000">
 		<title>UEFA Champions League Highlights 2024/25</title>
 		<desc>Don’t miss any of the action with the official UEFA Champions League highlights show</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch214_UCL_hIghlights.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="214" start="20250312105500 +0000" stop="20250312124500 +0000">
+	<programme channel="214" start="20250312103500 +0000" stop="20250312122000 +0000">
 		<title>UEFA Champions League 2024/25 Barcelona vs Benfica - RD 16,2nd Leg</title>
 		<desc>The most prestigious tournament in the world contested by top-division elite European clubs</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch214_UCL_full_match.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="214" start="20250312124500 +0000" stop="20250312144000 +0000">
+	<programme channel="214" start="20250312122000 +0000" stop="20250312145000 +0000">
 		<title>UEFA Champions League 2024/25 Liverpool vs PSG - RD 16,2nd Leg</title>
 		<desc>The most prestigious tournament in the world contested by top-division elite European clubs</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch214_UCL_full_match.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="214" start="20250312144000 +0000" stop="20250312163000 +0000">
+	<programme channel="214" start="20250312145000 +0000" stop="20250312163000 +0000">
 		<title>UEFA Champions League 2024/25 Leverkusen vs Bayern - RD 16,2nd Leg</title>
 		<desc>The most prestigious tournament in the world contested by top-division elite European clubs</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch214_UCL_full_match.jpg?w=341&amp;h=192" />
@@ -26123,7 +26118,7 @@
 	<programme channel="711" start="20250312083000 +0000" stop="20250312090000 +0000">
 		<title>The Journey Matters</title>
 		<desc>Travel and tourism to the Philippines surpassed pre-pandemic levels in 2024. Visitors now focus on authentic and sustainable experiences that preserve traditions, the environment and support local communities.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch711_the_journey_matters_the_philippines.jpg?w=960&amp;h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch711_cnn_generic.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="711" start="20250312090000 +0000" stop="20250312100000 +0000">
 		<title>Early Start</title>
