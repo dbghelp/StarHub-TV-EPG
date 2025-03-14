@@ -9807,17 +9807,17 @@
 	</programme>
 	<programme channel="159" start="20250313223000 +0000" stop="20250314010000 +0000">
 		<title>Movie - Ithu Engal Rajyam</title>
-		<desc>Movie starring Rajesh, Jeevitha and is directed by Madhu.</desc>
+		<desc>This movie stars Rajesh and Jeevitha, and is directed by Madhu.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch159_ktv_hd_logo.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="159" start="20250314010000 +0000" stop="20250314013000 +0000">
 		<title>Fillers</title>
-		<desc>Fillers</desc>
+		<desc>KTV HD presents you round-the-clock Kollywood movies, from the latest blockbusters to classics of the yesteryear!</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch159_ktv_hd_logo.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="159" start="20250314013000 +0000" stop="20250314043000 +0000">
-		<title>Movie - Mahesh,Saranya Matrum Palar</title>
-		<desc>To attend his sister's wedding, a man returns to his home town. The man narrates the story of how he had fallen in love with a girl to his sister over several days as the wedding approaches.</desc>
+		<title>Movie - Mahesh, Saranya Matrum Palar</title>
+		<desc>To attend his sister's wedding, a man returns to his hometown. The man narrates the story of how he had fallen in love with a girl to his sister over several days as the wedding approaches.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch159_ktv_hd_logo.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="159" start="20250314043000 +0000" stop="20250314073000 +0000">
@@ -9832,7 +9832,7 @@
 	</programme>
 	<programme channel="159" start="20250314103000 +0000" stop="20250314133000 +0000">
 		<title>Movie - Velai Kidaichidichu</title>
-		<desc>Baasha, a local thug controls the whole village by his atrocities. Pazhanisamy, who relocates to the village, earns Baasha's enmity when he tries to end his reign.</desc>
+		<desc>Baasha, a local thug, controls the whole village by his atrocities. Pazhanisamy, who relocates to the village, earns Baasha's enmity when he tries to end his reign.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch159_ktv_hd_logo.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="159" start="20250314133000 +0000" stop="20250314170000 +0000">
@@ -9842,18 +9842,18 @@
 	</programme>
 	<programme channel="159" start="20250314170000 +0000" stop="20250314200000 +0000">
 		<title>Movie - Salangai Oli</title>
-		<desc>Balakrishna, a trained Kuchipudi dancer, gets an opportunity to compete in a classical dance festival. However, two days prior to his performance, his mother passes away which leaves him devastated.</desc>
+		<desc>Balakrishna, a trained Kuchipudi dancer, gets an opportunity to compete in a classical dance festival. However, two days prior to his performance, his mother passes away, leaving him devastated.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch159_ktv_hd_logo.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="159" start="20250314200000 +0000" stop="20250314220000 +0000">
-		<title>Information Not Available</title>
+	<programme channel="159" start="20250314200000 +0000" stop="20250314223000 +0000">
+		<title>0.27083333333</title>
 		<desc />
-		<icon src="https://poster.starhubgo.com/Linear_channels2/159_1920x1080_HTV.png?w=960&amp;h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch159_ktv_hd_logo.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="159" start="20250314220000 +0000" stop="20250315040000 +0000">
-		<title>Information Not Available</title>
+	<programme channel="159" start="20250314223000 +0000" stop="20250315010000 +0000">
+		<title>0.375</title>
 		<desc />
-		<icon src="https://poster.starhubgo.com/Linear_channels2/159_1920x1080_HTV.png?w=960&amp;h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch159_ktv_hd_logo.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="159" start="20250315040000 +0000" stop="20250315100000 +0000">
 		<title>Information Not Available</title>
@@ -11185,12 +11185,17 @@
 		<desc>The 2024-25 UEFA Conference League will be the fourth season of the UEFA Conference League, Europe's tertiary club football tournament. The final will be played at Stadion Wroclaw, Poland.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch214_UECL_logo.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="214" start="20250314070500 +0000" stop="20250314085500 +0000">
-		<title>UEFA Conference League 2024/25 Fiorentina vs Panathinaikos - RD 16,2nd Leg</title>
-		<desc>The 2024-25 UEFA Conference League will be the fourth season of the UEFA Conference League, Europe's tertiary club football tournament. The final will be played at Stadion Wroclaw, Poland.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch214_UECL_logo.jpg?w=341&amp;h=192" />
+	<programme channel="214" start="20250314070500 +0000" stop="20250314074000 +0000">
+		<title>Mini Match - UEFA Champions League 2024/25 Barcelona vs Benfica - RD 16,2nd Leg</title>
+		<desc>Watch every round of the UCL as Europe's elite clubs battle it out for the most prestigious trophy in club football at Allianz Arena, Munich</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch214_UCL_mini_match.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="214" start="20250314085500 +0000" stop="20250314104500 +0000">
+	<programme channel="214" start="20250314074000 +0000" stop="20250314081000 +0000">
+		<title>Mini Match - UEFA Champions League 2024/25 Atletico Madrid vs Real Madrid - RD 1</title>
+		<desc>Watch every round of the UCL as Europe's elite clubs battle it out for the most prestigious trophy in club football at Allianz Arena, Munich</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch214_UCL_mini_match.jpg?w=960&amp;h=540" />
+	</programme>
+	<programme channel="214" start="20250314081000 +0000" stop="20250314104500 +0000">
 		<title>UEFA Europa League 2024/25 Rangers vs Fenerbahce - RD 16,2nd Leg</title>
 		<desc>The 54th season of the UEL as Europe's elite clubs compete in this premier football tournament</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch214_UEL_full_match.jpg?w=341&amp;h=192" />
