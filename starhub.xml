@@ -29875,24 +29875,19 @@
 		<desc>A Heisei youth graffiti drama, in which the heroine Yoneda Yui (Hashimoto Kanna), born in the first year of the Heisei era, connects people's hearts to the future as a nutritionist. Always cherishing her individuality, she sometimes struggles, but powerfully and joyfully pushes through the turbulent Heisei and Reiwa eras.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="811" start="20250316231500 +0000" stop="20250317005400 +0000">
-		<title>asaichi</title>
-		<desc>Looking into topical information ranging from social issues to entertainment news through the eyes of the general public.</desc>
+	<programme channel="811" start="20250316235500 +0000" stop="20250317000000 +0000">
+		<title>News &amp; Weather</title>
+		<desc>The latest up-to-date news and nationwide weather information.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="811" start="20250317005400 +0000" stop="20250317005500 +0000">
-		<title>World Weather</title>
-		<desc>Weather information of the different areas around the world.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="811" start="20250317005500 +0000" stop="20250317010000 +0000">
-		<title>Exercise for Everyone</title>
-		<desc>An easy-to-do exercise program for everyone from children to the elderly.</desc>
+	<programme channel="811" start="20250317000000 +0000" stop="20250317010000 +0000">
+		<title>Somewhere Street (R)</title>
+		<desc>A close-up look at cities worldwide, as seen by a walking tourist. Viewers visit places off the beaten path, meet ordinary people, and enjoy a travel experience that only possible on foot.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="811" start="20250317010000 +0000" stop="20250317010500 +0000">
-		<title>News &amp; Weather</title>
-		<desc>The latest up-to-date news and nationwide weather information.</desc>
+		<title>ANIPARA-- Animation and Para-Sports</title>
+		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="811" start="20250317010500 +0000" stop="20250317022800 +0000">
@@ -29950,14 +29945,34 @@
 		<desc>A Heisei youth graffiti drama, in which the heroine Yoneda Yui (Hashimoto Kanna), born in the first year of the Heisei era, connects people's hearts to the future as a nutritionist. Always cherishing her individuality, she sometimes struggles, but powerfully and joyfully pushes through the turbulent Heisei and Reiwa eras.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="811" start="20250317040000 +0000" stop="20250317040500 +0000">
-		<title>News</title>
-		<desc>The latest up-to-date news from Tokyo.</desc>
+	<programme channel="811" start="20250317040000 +0000" stop="20250317045500 +0000">
+		<title>Classical Music Club</title>
+		<desc>Featuring distinguished programs ranging from entertainment shows to documentaries.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="811" start="20250317040500 +0000" stop="20250317055000 +0000">
-		<title>News Around Japan</title>
-		<desc>Program introduces the latest news from all over Japan.</desc>
+	<programme channel="811" start="20250317045500 +0000" stop="20250317050000 +0000">
+		<title>Camera-eyed Japan</title>
+		<desc />
+		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="811" start="20250317050000 +0000" stop="20250317052700 +0000">
+		<title>Where We Call Home (B) (R)</title>
+		<desc>People from around the globe who put down roots in Japan offer a glimpse into their lives and the hardships they face in Japanese society.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="811" start="20250317052700 +0000" stop="20250317053000 +0000">
+		<title>Mini Program</title>
+		<desc />
+		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="811" start="20250317053000 +0000" stop="20250317054500 +0000">
+		<title>ラーメンJAPAN 15min.</title>
+		<desc />
+		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="811" start="20250317054500 +0000" stop="20250317055000 +0000">
+		<title>Disaster Management Tips</title>
+		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="811" start="20250317055000 +0000" stop="20250317055500 +0000">
@@ -29971,8 +29986,8 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="811" start="20250317060000 +0000" stop="20250317061000 +0000">
-		<title>News &amp; Weather</title>
-		<desc>The latest up-to-date news and nationwide weather information.</desc>
+		<title>Life Force 10min.</title>
+		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="811" start="20250317061000 +0000" stop="20250317063500 +0000">
@@ -30215,11 +30230,6 @@
 		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="811" start="20250318005000 +0000" stop="20250318005400 +0000">
-		<title>Mini Program</title>
-		<desc />
-		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
 	<programme channel="811" start="20250318005400 +0000" stop="20250318005500 +0000">
 		<title>World Weather</title>
 		<desc>Weather information of the different areas around the world.</desc>
@@ -30228,11 +30238,6 @@
 	<programme channel="811" start="20250318005500 +0000" stop="20250318010000 +0000">
 		<title>Exercise for Everyone</title>
 		<desc>An easy-to-do exercise program for everyone from children to the elderly.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="811" start="20250318010000 +0000" stop="20250318010500 +0000">
-		<title>ANIPARA-- Animation and Para-Sports</title>
-		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="811" start="20250318010500 +0000" stop="20250318015000 +0000">
@@ -30325,11 +30330,6 @@
 		<desc>Enjoy learning various kinds of hobbies lectured by a master of the field. A new theme will be introduced every two months.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="811" start="20250318064000 +0000" stop="20250318065000 +0000">
-		<title>Life Force 10min.</title>
-		<desc />
-		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
 	<programme channel="811" start="20250318065000 +0000" stop="20250318065500 +0000">
 		<title>Songs for Everyone (R)</title>
 		<desc>A song program where children can sing along by reading the lyrics on the screen.</desc>
@@ -30373,11 +30373,6 @@
 	<programme channel="811" start="20250318105700 +0000" stop="20250318113700 +0000">
 		<title>Tears of Incident--Human Crossroads</title>
 		<desc>Featuring distinguished programs ranging from entertainment shows to documentaries.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="811" start="20250318113700 +0000" stop="20250318114300 +0000">
-		<title>Camera-eyed Japan</title>
-		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="811" start="20250318114300 +0000" stop="20250318114500 +0000">
