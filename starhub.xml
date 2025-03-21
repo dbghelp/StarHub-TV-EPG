@@ -1987,7 +1987,7 @@
 	</programme>
 	<programme channel="106" start="20250322143000 +0000" stop="20250322150000 +0000">
 		<title>On The Red Dot - EP 39</title>
-		<desc>On The Red Dot offers weekly in-depth analysis and discussion on key issues and events that matter to Singaporeans.</desc>
+		<desc>After dropping out of secondary school, three teenagers navigate their paths and discover their dreams but face challenges as they decide to go back to studying or find a job.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="106" start="20250322150000 +0000" stop="20250322150300 +0000">
@@ -10320,25 +10320,20 @@
 		<desc>The 2025 Women's Premier League will be the third season of the Women's Premier League, a women's franchise Twenty20 cricket league organised by the Board of Control for Cricket in India (BCCI). The tournament, featuring five teams, will be held from 14 February to 15 March 2025. Royal Challengers Bengaluru are the defending champions.</desc>
 		<icon src="https://poster.starhubgo.com/poster/WPL2025.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="204" start="20250322010000 +0000" stop="20250322050000 +0000">
+	<programme channel="204" start="20250322030000 +0000" stop="20250322063500 +0000">
 		<title>TATA Women's Premier League 2025: M10 - Delhi Capitals vs Gujarat Giants</title>
 		<desc>The 2025 Women's Premier League will be the third season of the Women's Premier League, a women's franchise Twenty20 cricket league organised by the Board of Control for Cricket in India (BCCI). The tournament, featuring five teams, will be held from 14 February to 15 March 2025. Royal Challengers Bengaluru are the defending champions.</desc>
-		<icon src="https://poster.starhubgo.com/poster/WPL2025_GENERIC.jpg?w=960&amp;h=540" />
+		<icon src="https://poster.starhubgo.com/poster/WPL2025.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="204" start="20250322050000 +0000" stop="20250322090000 +0000">
+	<programme channel="204" start="20250322063500 +0000" stop="20250322101000 +0000">
 		<title>TATA Women's Premier League 2025: M11 - Mumbai Indians vs UP Warriorz</title>
 		<desc>The 2025 Women's Premier League will be the third season of the Women's Premier League, a women's franchise Twenty20 cricket league organised by the Board of Control for Cricket in India (BCCI). The tournament, featuring five teams, will be held from 14 February to 15 March 2025. Royal Challengers Bengaluru are the defending champions.</desc>
-		<icon src="https://poster.starhubgo.com/poster/WPL2025_GENERIC.jpg?w=960&amp;h=540" />
+		<icon src="https://poster.starhubgo.com/poster/WPL2025.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="204" start="20250322090000 +0000" stop="20250322130000 +0000">
+	<programme channel="204" start="20250322101000 +0000" stop="20250322135000 +0000">
 		<title>TATA Women's Premier League 2025: M12 - Royal Challengers Bengaluru vs Gujarat G</title>
 		<desc>The 2025 Women's Premier League will be the third season of the Women's Premier League, a women's franchise Twenty20 cricket league organised by the Board of Control for Cricket in India (BCCI). The tournament, featuring five teams, will be held from 14 February to 15 March 2025. Royal Challengers Bengaluru are the defending champions.</desc>
-		<icon src="https://poster.starhubgo.com/poster/WPL2025_GENERIC.jpg?w=960&amp;h=540" />
-	</programme>
-	<programme channel="204" start="20250322130000 +0000" stop="20250322135000 +0000">
-		<title>TATA Indian Premier League 2025: Opening Ceremony</title>
-		<desc>The 2025 Indian Premier League, a franchise Twenty20 cricket league held in India, returns for the 18th year, and will feature ten teams competing in 74 matches from 14 March to 25 May 2025.</desc>
-		<icon src="https://poster.starhubgo.com/poster/IPL2025.jpg?w=960&amp;h=540" />
+		<icon src="https://poster.starhubgo.com/poster/WPL2025.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="204" start="20250322135000 +0000" stop="20250322180000 +0000">
 		<title>TATA Indian Premier League 2025: M01 - Kolkata Knight Riders vs Royal Challenger</title>
@@ -11115,15 +11110,20 @@
 		<desc>Thrilling racing from the most demanding events around the globe, Gearing Up heads to the toughest events and gets on-board with the sport's heroic drivers.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch213_gearing_up.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="213" start="20250322053000 +0000" stop="20250322055000 +0000">
-		<title>LaLiga Zap 2024/25</title>
-		<desc>LaLiga Zap is an entertainment show that provides a sideways look at the greatest league in the world. The most fun, curious moments of action, international footage of the most extravagant fans, dubbed conversations and recurring gags.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch213_laliga_zap.jpg?w=960&amp;h=540" />
+	<programme channel="213" start="20250322053000 +0000" stop="20250322054500 +0000">
+		<title>Chasing the Dream 7</title>
+		<desc>Chasing the Dream follows some of the brightest talent in single-seater racing on their journey to the top, taking you behind the scenes of the FIA Formula 2 Championship.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch213_chasing_the_dream.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="213" start="20250322055000 +0000" stop="20250322063500 +0000">
+	<programme channel="213" start="20250322054500 +0000" stop="20250322062500 +0000">
 		<title>F1 Academy Race 2025: F1 ACADEMY RACING SERIES, ROUND 1 CHINA, 2025 Race 1 (Live</title>
 		<desc>Catch all the action from the F1 ACADEMY, an all-female single-seater racing series.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch213_f1_academy_race.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="213" start="20250322062500 +0000" stop="20250322063500 +0000">
+		<title>MUTV: Top 20 Goals</title>
+		<desc>Catch our collection of Manchester United Top 20 Goals, matches, moments and more, from the Red Devils MUTV archives.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch213_mutv.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="213" start="20250322063500 +0000" stop="20250322065500 +0000">
 		<title>Formula 1 Qualifying Pre Show 2025 (Live)</title>
@@ -11291,42 +11291,42 @@
 		<icon src="https://poster.starhubgo.com/poster/ch214_UEL_full_match.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="214" start="20250322012000 +0000" stop="20250322031000 +0000">
-		<title>UEFA Europa League 2024/25 Lazio vs Plzen - RD 16,2nd Leg</title>
+		<title>UEFA Europa League 2024/25: Lazio vs Plzen - RD 16,2nd Leg</title>
 		<desc>The 54th season of the UEL as Europe's elite clubs compete in this premier football tournament</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch214_UEL_full_match.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="214" start="20250322031000 +0000" stop="20250322050000 +0000">
-		<title>UEFA Europa League 2024/25 Frankfurt vs Ajax - RD 16,2nd Leg</title>
+		<title>UEFA Europa League 2024/25: Frankfurt vs Ajax - RD 16,2nd Leg</title>
 		<desc>The 54th season of the UEL as Europe's elite clubs compete in this premier football tournament</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch214_UEL_full_match.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="214" start="20250322050000 +0000" stop="20250322073500 +0000">
-		<title>UEFA Champions League 2024/25 Atletico Madrid vs Real Madrid - RD 16,2nd Leg</title>
+		<title>UEFA Champions League 2024/25: Atletico Madrid vs Real Madrid - RD 16,2nd Leg</title>
 		<desc>The most prestigious tournament in the world contested by top-division elite European clubs</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch214_UCL_full_match.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="214" start="20250322073500 +0000" stop="20250322092000 +0000">
-		<title>UEFA Conference League 2024/25 Vitoria SC vs Real Betis - RD 16,2nd Leg</title>
+		<title>UEFA Conference League 2024/25: Vitoria SC vs Real Betis - RD 16,2nd Leg</title>
 		<desc>The 2024-25 UEFA Conference League will be the fourth season of the UEFA Conference League, Europe's tertiary club football tournament. The final will be played at Stadion Wroclaw, Poland.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch214_UECL_logo.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="214" start="20250322092000 +0000" stop="20250322111000 +0000">
-		<title>UEFA Europa League 2024/25 Athletic Bilbao vs Roma - RD 16,2nd Leg</title>
+		<title>UEFA Europa League 2024/25: Athletic Bilbao vs Roma - RD 16,2nd Leg</title>
 		<desc>The 54th season of the UEL as Europe's elite clubs compete in this premier football tournament</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch214_UEL_full_match.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="214" start="20250322111000 +0000" stop="20250322130000 +0000">
-		<title>UEFA Europa League 2024/25 Tottenham vs AZ Alkmaar - RD16,2nd Leg</title>
+		<title>UEFA Europa League 2024/25: Tottenham vs AZ Alkmaar - RD16,2nd Leg</title>
 		<desc>The 54th season of the UEL as Europe's elite clubs compete in this premier football tournament</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch214_UEL_full_match.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="214" start="20250322130000 +0000" stop="20250322153000 +0000">
-		<title>UEFA Champions League 2024/25 Liverpool vs PSG - RD 16,2nd Leg</title>
+		<title>UEFA Champions League 2024/25: Liverpool vs PSG - RD 16,2nd Leg</title>
 		<desc>The most prestigious tournament in the world contested by top-division elite European clubs</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch214_UCL_full_match.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="214" start="20250322153000 +0000" stop="20250322172300 +0000">
-		<title>UEFA Champions League 2024/25 Aston Villa vs Club Brugge - RD 16,2nd Leg</title>
+		<title>UEFA Champions League 2024/25: Aston Villa vs Club Brugge - RD 16,2nd Leg</title>
 		<desc>The most prestigious tournament in the world contested by top-division elite European clubs</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch214_UCL_full_match.jpg?w=341&amp;h=192" />
 	</programme>
@@ -11647,7 +11647,7 @@
 	</programme>
 	<programme channel="221" start="20250322060000 +0000" stop="20250322063000 +0000">
 		<title>THE BIG INTERVIEW - EP 32</title>
-		<desc>Extended sit-downs and more informal 'out and about' interviews with the Premier League's biggest stars, providing players with a platform to tell their story in their own words.</desc>
+		<desc>To celebrate Non-League Day, this week The Big Interview travels to Portman Road to speak with Ipswich Town's, Jack Taylor. Having scored in England's top 5 leagues, Taylor talks through his career from Barnet to the Premier League. The 26-year-old also shares his views on Ipswich's season to date, the impact Kieran McKenna's had on his game as well as his hopes for the future.</desc>
 		<icon src="https://poster.starhubgo.com/poster/the_big_interview_V2.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="221" start="20250322063000 +0000" stop="20250322073000 +0000">
@@ -11672,7 +11672,7 @@
 	</programme>
 	<programme channel="221" start="20250322100000 +0000" stop="20250322103000 +0000">
 		<title>THE BIG INTERVIEW - EP 32</title>
-		<desc>Extended sit-downs and more informal 'out and about' interviews with the Premier League's biggest stars, providing players with a platform to tell their story in their own words.</desc>
+		<desc>To celebrate Non-League Day, this week The Big Interview travels to Portman Road to speak with Ipswich Town's, Jack Taylor. Having scored in England's top 5 leagues, Taylor talks through his career from Barnet to the Premier League. The 26-year-old also shares his views on Ipswich's season to date, the impact Kieran McKenna's had on his game as well as his hopes for the future.</desc>
 		<icon src="https://poster.starhubgo.com/poster/the_big_interview_V2.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="221" start="20250322103000 +0000" stop="20250322113000 +0000">
@@ -11687,7 +11687,7 @@
 	</programme>
 	<programme channel="221" start="20250322123000 +0000" stop="20250322133000 +0000">
 		<title>PL GOATS - EP 4</title>
-		<desc>PL GOATs provides a fresh take on one of the oldest conversations in sport - just who is the greatest? Our panel will discuss and then decide with the help of archive, stats and first-hand testimony. Each episode focuses on a classic Premier League fan debate.</desc>
+		<desc>Luis Garcia and Gaizka Mendieta are presented with the challenge of deciding the greatest Spaniards to ever play in the Premier League.</desc>
 		<icon src="https://poster.starhubgo.com/poster/pl_goats_V2.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="221" start="20250322133000 +0000" stop="20250322140000 +0000">
@@ -19682,17 +19682,17 @@
 	</programme>
 	<programme channel="447" start="20250320173000 +0000" stop="20250320180000 +0000">
 		<title>The Pacific (2025) - EP 2</title>
-		<desc>The Pacific region is rich with culture, people and stories. Johnson Raela and Alice Lolohea bring you the stories that matter to the Pacific and the most up-to-date information, from journalists with deep regional expertise.</desc>
+		<desc>In the wake of the worst earthquake in Vanuatu's history last December, The Pacific brings you a half-hour special on the remarkable resilience of its people as they seek to emerge stronger from the rubble.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="447" start="20250320180000 +0000" stop="20250320190000 +0000">
 		<title>The World (2025) - EP 44</title>
-		<desc>There's never been a more important time to stay in touch with what's happening in our world. Weeknights at 9pm AEDT, Girish Sawlani presents the latest international news from correspondents and interviews with guests.</desc>
+		<desc>Girish Sawlani brings you the latest news from around the globe. Tonight: protests in Turkiye over the arrest of a political rival, Taiwan names a possible Chinese invasion date, plus security leaders meet in Port Moresby.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="447" start="20250320190000 +0000" stop="20250320220000 +0000">
 		<title>News Breakfast (2025) - EP 58</title>
-		<desc>Start your day with the latest overnight developments, breaking news and the top stories this morning. James Glenday and Emma Rebellato bring you news and interviews, Catherine Murphy with sport and Nate Byrne with weather.</desc>
+		<desc>Start your day with the latest overnight developments, breaking news and the top stories this morning. James Glenday and Emma Rebellato bring you news and interviews joined by Charles Brice, Catherine Murphy and Nate Byrne.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="447" start="20250320220000 +0000" stop="20250321010000 +0000">
@@ -19840,9 +19840,14 @@
 		<desc>Dan Bourchier presents the latest from ABC News, following the day's top stories and coverage of events as they unfold. Plus original reporting, expert analysis and the updated news, sport, weather and information you need.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="447" start="20250322003000 +0000" stop="20250322010000 +0000">
+	<programme channel="447" start="20250322003000 +0000" stop="20250322005500 +0000">
 		<title>The Pacific (2025) - EP 2</title>
-		<desc>The Pacific region is rich with culture, people and stories. Johnson Raela and Alice Lolohea bring you the stories that matter to the Pacific and the most up-to-date information, from journalists with deep regional expertise.</desc>
+		<desc>In the wake of the worst earthquake in Vanuatu's history last December, The Pacific brings you a half-hour special on the remarkable resilience of its people as they seek to emerge stronger from the rubble.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="447" start="20250322005500 +0000" stop="20250322010000 +0000">
+		<title>How Deadly S1 - EP 1</title>
+		<desc>Welcome to croc country! Nature nerd Ann Jones reacts to crazy and sometimes terrifying animal videos. Can crocodiles climb up and over land? Do they hang out in groups? Are they actually after humans? You will find out.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="447" start="20250322010000 +0000" stop="20250322020000 +0000">
@@ -19855,54 +19860,54 @@
 		<desc>ABC Australia brings you Australian Rules football live in your lounge room every week with coverage of the 2025 AFL Premiership Season.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="447" start="20250322050000 +0000" stop="20250322081500 +0000">
+	<programme channel="447" start="20250322050000 +0000" stop="20250322080000 +0000">
 		<title>AFL Premiership Season (2025) - EP 14</title>
 		<desc>ABC Australia brings you Australian Rules football live in your lounge room every week with coverage of the 2025 AFL Premiership Season.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="447" start="20250322081500 +0000" stop="20250322111500 +0000">
+	<programme channel="447" start="20250322080000 +0000" stop="20250322083000 +0000">
+		<title>ABC News (2025) - EP 81</title>
+		<desc>News from where we live. ABC News Victoria brings you the day's top stories, exclusive investigations and original reporting on the issues that matter to you. Presented by Tamara Oudyn (Sun-Thu) and Iskhandar Razak (Fri-Sat).</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="447" start="20250322083000 +0000" stop="20250322113000 +0000">
 		<title>AFL Premiership Season (2025) - EP 15</title>
 		<desc>ABC Australia brings you Australian Rules football live in your lounge room every week with coverage of the 2025 AFL Premiership Season.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="447" start="20250322111500 +0000" stop="20250322114500 +0000">
+	<programme channel="447" start="20250322113000 +0000" stop="20250322120000 +0000">
 		<title>Eat The Invaders S1 - EP 2</title>
 		<desc>Tony Armstrong explores the European Carp's culinary potential and ecological impact in Australia, challenging perceptions while transforming this invasive fish into a sustainable food source.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="447" start="20250322114500 +0000" stop="20250322124500 +0000">
+	<programme channel="447" start="20250322120000 +0000" stop="20250322130000 +0000">
 		<title>Muster Dogs S2 - EP 2</title>
 		<desc>The pups are starting to develop their own unique personalities and building a good bond with their owners, while training for the five-month assessment is well underway.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="447" start="20250322124500 +0000" stop="20250322131500 +0000">
+	<programme channel="447" start="20250322130000 +0000" stop="20250322133000 +0000">
 		<title>Asia News Week (2025) - EP 10</title>
-		<desc>Yvonne Yong brings you a weekly roundup of the stories making news across the Asia region, plus what's trending on social media and making an impact on the culture and the way people live.</desc>
+		<desc>Join Yvonne Yong for the latest news from Asia: Plans to change an Indonesian law sparks fears of a return to military supremacy, plus why a Bollywood film is being blamed for stirring violence in India's west.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="447" start="20250322131500 +0000" stop="20250322140000 +0000">
+	<programme channel="447" start="20250322133000 +0000" stop="20250322141500 +0000">
 		<title>Planet America: Weekend Edition (2025) - EP 10</title>
-		<desc>John Barron and Chas Licciardello take a deeper look at the events of the week, with extended interviews and in-depth discussions on Trump's second term. (Planet America returns Friday 11 April after a two week break)</desc>
+		<desc>Spies, secrets but no smoking gun? Classified JFK assassination files finally revealed. Plus Trump defies the courts with calls to impeach judges and deletes history with a DEI purge on military legends.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="447" start="20250322140000 +0000" stop="20250322143000 +0000">
+	<programme channel="447" start="20250322141500 +0000" stop="20250322144500 +0000">
 		<title>The World This Week (2025) - EP 10</title>
-		<desc>Girish Sawlani brings you a weekly roundup of international news from an Australian perspective as reported by ABC News correspondents covering the Indo Pacific, Europe, North America, the Middle East, India and Indonesia.</desc>
+		<desc>Girish Sawlani presents a roundup of big stories from across the globe. This week: the Gaza ceasefire shattered, political protesters out on the streets of Istanbul, and the end of a space odyssey for two stranded astronauts.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="447" start="20250322143000 +0000" stop="20250322152500 +0000">
+	<programme channel="447" start="20250322144500 +0000" stop="20250322154000 +0000">
 		<title>A Brief History Of Cricket Down Und S2 - EP 2</title>
 		<desc>Australia desperate to win first test series over the West Indies, South Africa close to defeating the Australians and a one day match between Australia and New Zealand is nailbitingly close that comes down to the last ball.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="447" start="20250322152500 +0000" stop="20250322155500 +0000">
+	<programme channel="447" start="20250322154000 +0000" stop="20250322161000 +0000">
 		<title>Stuff The British Stole S1 - EP 2</title>
 		<desc>When King Charles III has his Coronation, will he sit on a potent and sacred symbol of the Scottish people? Marc Fennell investigates a wild Scottish heist to steal back an object - quite literally - from the British throne.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341&amp;h=192" />
-	</programme>
-	<programme channel="447" start="20250322155500 +0000" stop="20250322162500 +0000">
-		<title>Eat The Invaders S1 - EP 2</title>
-		<desc>Tony Armstrong explores the European Carp's culinary potential and ecological impact in Australia, challenging perceptions while transforming this invasive fish into a sustainable food source.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="509" start="20250320143000 +0000" stop="20250320162000 +0000">
@@ -27301,9 +27306,9 @@
 		<icon src="https://poster.starhubgo.com/poster/ch724_the_news.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="724" start="20250321081600 +0000" stop="20250321083000 +0000">
-		<title>En tete a tete</title>
+		<title>Tete a tete</title>
 		<desc>An interview with a personality from the world of economics, politics, culture or diplomacy.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch724_en_tete_a_tete.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch724_tete_a_tete.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="724" start="20250321083000 +0000" stop="20250321084500 +0000">
 		<title>The News</title>
@@ -27481,9 +27486,9 @@
 		<icon src="https://poster.starhubgo.com/poster/ch724_the_news.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="724" start="20250321141600 +0000" stop="20250321143000 +0000">
-		<title>En tete a tete</title>
+		<title>Tete a tete</title>
 		<desc>An interview with a personality from the world of economics, politics, culture or diplomacy.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch724_en_tete_a_tete.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch724_tete_a_tete.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="724" start="20250321143000 +0000" stop="20250321144500 +0000">
 		<title>The News</title>
@@ -27557,7 +27562,7 @@
 	</programme>
 	<programme channel="724" start="20250321164200 +0000" stop="20250321170000 +0000">
 		<title>Le Paris des arts</title>
-		<desc>Le Paris des arts</desc>
+		<desc>See Paris through the eyes of an artist for a cultural insight into their favourite haunts.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch724_le_paris_des_arts.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="724" start="20250321170000 +0000" stop="20250321172000 +0000">
@@ -27626,9 +27631,9 @@
 		<icon src="https://poster.starhubgo.com/poster/ch724_the_news.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="724" start="20250321201500 +0000" stop="20250321203000 +0000">
-		<title>En tete a tete</title>
+		<title>Tete a tete</title>
 		<desc>An interview with a personality from the world of economics, politics, culture or diplomacy.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch724_en_tete_a_tete.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch724_tete_a_tete.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="724" start="20250321203000 +0000" stop="20250321204000 +0000">
 		<title>The News</title>
@@ -29681,7 +29686,7 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="811" start="20250321010500 +0000" stop="20250321015500 +0000">
-		<title>NHK Special "14 Years After Great East Japan Earthquake" (R)</title>
+		<title>NHK Special "14 Years After Great East Japan Earthquake</title>
 		<desc>A documentary based on timely subjects famous for its dignity and in-depth reporting.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
@@ -29731,8 +29736,8 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="811" start="20250321040000 +0000" stop="20250321040500 +0000">
-		<title>News</title>
-		<desc>The latest up-to-date news from Tokyo.</desc>
+		<title>The Miraculous Landscape on the Earth</title>
+		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="811" start="20250321040500 +0000" stop="20250321045000 +0000">
@@ -29766,7 +29771,7 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="811" start="20250321060000 +0000" stop="20250321061000 +0000">
-		<title>Capturing Landscapes by Drone 10min.</title>
+		<title>The Great Nature 10min.</title>
 		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
@@ -29921,7 +29926,7 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="811" start="20250321183500 +0000" stop="20250321192500 +0000">
-		<title>NHK Special "14 Years After Great East Japan Earthquake" (R)</title>
+		<title>NHK Special "14 Years After Great East Japan Earthquake</title>
 		<desc>A documentary based on timely subjects famous for its dignity and in-depth reporting.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
@@ -29937,7 +29942,7 @@
 	</programme>
 	<programme channel="811" start="20250321200000 +0000" stop="20250321201500 +0000">
 		<title>Drama Serial "Carnation" Encore Eps. 150</title>
-		<desc>A heroine born into a kimono store family in Kishiwada, Osaka, holds admiration for clothing and discovers a sewing machine. Despite her father’s opposition, she is undeterred and pursues her passion for dressmaking. She opens a store at age 20 and gets married, but her husband dies in the war. The story depicts the life of a powerful woman who becomes a pioneer of Japan’s fashion design while overcoming many obstacles.</desc>
+		<desc>A heroine born into a kimono store family in Kishiwada, Osaka, holds admiration for clothing and discovers a sewing machine. Despite her father's opposition, she is undeterred and pursues her passion for dressmaking. She opens a store at age 20 and gets married, but her husband dies in the war. The story depicts the life of a powerful woman who becomes a pioneer of Japan's fashion design while overcoming many obstacles.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="811" start="20250321201500 +0000" stop="20250321204000 +0000">
@@ -30751,13 +30756,13 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250322034000 +0000" stop="20250322035000 +0000">
-		<title>Kids Edutainment</title>
-		<desc>NHK WORLD-JAPAN presents a variety of programs focusing on Japan.</desc>
+		<title>Design Ah Neo: Underthe Lid</title>
+		<desc>Design is fun! Design feels good! Cutting-edge images and music guide children to enjoy exploring the ideas and tweaks in the designs all around us. An episode on Under the Lid.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250322035000 +0000" stop="20250322040000 +0000">
-		<title>Kids Edutainment</title>
-		<desc>NHK WORLD-JAPAN presents a variety of programs focusing on Japan.</desc>
+		<title>Design Ah Neo: Toilet Paper</title>
+		<desc>Design is fun! Design feels good! Cutting-edge images and music guide children to enjoy exploring the ideas and tweaks in the designs all around us. An episode on Toilet Paper.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250322040000 +0000" stop="20250322041000 +0000">
@@ -30766,8 +30771,8 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250322041000 +0000" stop="20250322042500 +0000">
-		<title>NHK World-Japan Special Program</title>
-		<desc>NHK WORLD-JAPAN presents a wide range of programs from news, current affairs, documentaries, etc. focusing on Japan and Asia.</desc>
+		<title>Ninja Truth #27</title>
+		<desc>The ninja tried to prepare for all emergencies. We'll examine how their survival mindset and techniques can be applied today and recent discoveries on their actions following a natural disaster.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250322042500 +0000" stop="20250322043000 +0000">
@@ -30861,13 +30866,13 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250322104000 +0000" stop="20250322105000 +0000">
-		<title>Kids Edutainment</title>
-		<desc>NHK WORLD-JAPAN presents a variety of programs focusing on Japan.</desc>
+		<title>Design Ah Neo: Entrances</title>
+		<desc>Design is fun! Design feels good! Cutting-edge images and music guide children to enjoy exploring the ideas and tweaks in the designs all around us. An episode on Entrances.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250322105000 +0000" stop="20250322110000 +0000">
-		<title>Kids Edutainment</title>
-		<desc>NHK WORLD-JAPAN presents a variety of programs focusing on Japan.</desc>
+		<title>Design Ah Neo: Sandwiches</title>
+		<desc>Design is fun! Design feels good! Cutting-edge images and music guide children to enjoy exploring the ideas and tweaks in the designs all around us. An episode on Sandwiches.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250322110000 +0000" stop="20250322111000 +0000">
@@ -30921,13 +30926,13 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250322144000 +0000" stop="20250322145000 +0000">
-		<title>Kids Edutainment</title>
-		<desc>NHK WORLD-JAPAN presents a variety of programs focusing on Japan.</desc>
+		<title>Design Ah Neo: Ears</title>
+		<desc>Design is fun! Design feels good! Cutting-edge images and music guide children to enjoy exploring the ideas and tweaks in the designs all around us. An episode on Ears.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250322145000 +0000" stop="20250322150000 +0000">
-		<title>Kids Edutainment</title>
-		<desc>NHK WORLD-JAPAN presents a variety of programs focusing on Japan.</desc>
+		<title>Design Ah Neo: Uniforms</title>
+		<desc>Design is fun! Design feels good! Cutting-edge images and music guide children to enjoy exploring the ideas and tweaks in the designs all around us. An episode on Uniforms.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250322150000 +0000" stop="20250322151000 +0000">
@@ -33115,87 +33120,87 @@
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20250322023000 +0000" stop="20250322031000 +0000">
+	<programme channel="832" start="20250322010000 +0000" stop="20250322020900 +0000">
+		<title>A Green Trip</title>
+		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="832" start="20250322020900 +0000" stop="20250322031700 +0000">
 		<title>Super Diva</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20250322031000 +0000" stop="20250322033500 +0000">
+	<programme channel="832" start="20250322031700 +0000" stop="20250322034200 +0000">
 		<title>CARE ON THE WAY</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20250322033500 +0000" stop="20250322040000 +0000">
+	<programme channel="832" start="20250322034200 +0000" stop="20250322040700 +0000">
 		<title>Next Station</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20250322040000 +0000" stop="20250322043000 +0000">
+	<programme channel="832" start="20250322040700 +0000" stop="20250322043400 +0000">
 		<title>China Archaeology Weekly</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20250322043000 +0000" stop="20250322051000 +0000">
+	<programme channel="832" start="20250322043400 +0000" stop="20250322053700 +0000">
 		<title>Amazing 2 cities</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20250322051000 +0000" stop="20250322060000 +0000">
-		<title>futuer china</title>
-		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="832" start="20250322060000 +0000" stop="20250322070000 +0000">
+	<programme channel="832" start="20250322053700 +0000" stop="20250322064600 +0000">
 		<title>A Green Trip</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20250322070000 +0000" stop="20250322080000 +0000">
+	<programme channel="832" start="20250322064600 +0000" stop="20250322080100 +0000">
 		<title>Ai Romance</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20250322080000 +0000" stop="20250322090000 +0000">
+	<programme channel="832" start="20250322080100 +0000" stop="20250322090900 +0000">
 		<title>Super Diva</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20250322090000 +0000" stop="20250322093500 +0000">
+	<programme channel="832" start="20250322090900 +0000" stop="20250322093400 +0000">
 		<title>CARE ON THE WAY</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20250322093500 +0000" stop="20250322100000 +0000">
+	<programme channel="832" start="20250322093400 +0000" stop="20250322100000 +0000">
 		<title>Next Station</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20250322100000 +0000" stop="20250322110000 +0000">
+	<programme channel="832" start="20250322100000 +0000" stop="20250322105800 +0000">
 		<title>Dragon TV Primetime News</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20250322110000 +0000" stop="20250322114000 +0000">
+	<programme channel="832" start="20250322105800 +0000" stop="20250322115200 +0000">
 		<title>A Green Trip</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20250322114000 +0000" stop="20250322133000 +0000">
+	<programme channel="832" start="20250322115200 +0000" stop="20250322124600 +0000">
 		<title>futuer china</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20250322133000 +0000" stop="20250322143000 +0000">
+	<programme channel="832" start="20250322124600 +0000" stop="20250322140100 +0000">
 		<title>Ai Romance</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20250322143000 +0000" stop="20250322153000 +0000">
+	<programme channel="832" start="20250322140100 +0000" stop="20250322151000 +0000">
 		<title>A Green Trip</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20250322153000 +0000" stop="20250322163000 +0000">
+	<programme channel="832" start="20250322151000 +0000" stop="20250322160200 +0000">
 		<title>futuer china</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
@@ -33545,20 +33550,25 @@
 		<desc>This programme goes hot on the heels of the biggest happenings in society and the entertainment scene, bringing you the latest scoops.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch838_scoop_2025.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="838" start="20250322120000 +0000" stop="20250322143000 +0000">
-		<title>Infinity and Beyond 2024</title>
-		<desc>This music and cultural programme focuses on music that is most worthy of being remembered in the minds of the viewers in Hong Kong.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch838_infinity_and_beyond_2024.jpg?w=960&amp;h=540" />
+	<programme channel="838" start="20250322120000 +0000" stop="20250322135000 +0000">
+		<title>Jimmy Lo 2016 Concert</title>
+		<desc>TVB Jade brings you endless entertainment with concurrent dramas and sitcoms, as well as the latest news, variety and infotainment programmes from TVB.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch838_tvb_logo.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="838" start="20250322143000 +0000" stop="20250322150000 +0000">
+	<programme channel="838" start="20250322135000 +0000" stop="20250322141500 +0000">
 		<title>Fantastic Feasts and Where To Find Them</title>
 		<desc>Every Italian dish has an unexpected story! Star chef Amy Lim, together with Alan Wu and Tony Hung, go food hunting in Italy, where they inspect various ingredients from their origins to the diners' mouths.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch838_fantastic_feasts_and_where_to_find_them.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="838" start="20250322150000 +0000" stop="20250322151500 +0000">
-		<title>JSG Billboard 2025</title>
-		<desc>Count down to the top 20 songs on JSG Billboard every episode!</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch838_jsg_billboard.jpg?w=341&amp;h=192" />
+	<programme channel="838" start="20250322141500 +0000" stop="20250322144500 +0000">
+		<title>Med with Doc</title>
+		<desc>Each episode of this show discusses different physical and psychological illnesses, including urban diseases and epidemic diseases, from the perspectives of traditional Chinese medicine and Western medicine. It also presents the latest treatment plans in the industry.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch838_med_with_doc.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="838" start="20250322144500 +0000" stop="20250322151500 +0000">
+		<title>Sustainable Future-TVB ESG Award Ceremony 2024</title>
+		<desc>TVB Jade brings you endless entertainment with concurrent dramas and sitcoms, as well as the latest news, variety and infotainment programmes from TVB.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch838_tvb_logo.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="838" start="20250322151500 +0000" stop="20250322153000 +0000">
 		<title>News Roundup</title>
@@ -35270,20 +35280,25 @@
 		<desc>This programme goes hot on the heels of the biggest happenings in society and the entertainment scene, bringing you the latest scoops.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch838_scoop_2025.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="996" start="20250322120000 +0000" stop="20250322143000 +0000">
-		<title>Infinity and Beyond 2024</title>
-		<desc>This music and cultural programme focuses on music that is most worthy of being remembered in the minds of the viewers in Hong Kong.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch838_infinity_and_beyond_2024.jpg?w=960&amp;h=540" />
+	<programme channel="996" start="20250322120000 +0000" stop="20250322135000 +0000">
+		<title>Jimmy Lo 2016 Concert</title>
+		<desc>TVB Jade brings you endless entertainment with concurrent dramas and sitcoms, as well as the latest news, variety and infotainment programmes from TVB.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch838_tvb_logo.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="996" start="20250322143000 +0000" stop="20250322150000 +0000">
+	<programme channel="996" start="20250322135000 +0000" stop="20250322141500 +0000">
 		<title>Fantastic Feasts and Where To Find Them</title>
 		<desc>Every Italian dish has an unexpected story! Star chef Amy Lim, together with Alan Wu and Tony Hung, go food hunting in Italy, where they inspect various ingredients from their origins to the diners' mouths.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch838_fantastic_feasts_and_where_to_find_them.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="996" start="20250322150000 +0000" stop="20250322151500 +0000">
-		<title>JSG Billboard 2025</title>
-		<desc>Count down to the top 20 songs on JSG Billboard every episode!</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch838_jsg_billboard.jpg?w=341&amp;h=192" />
+	<programme channel="996" start="20250322141500 +0000" stop="20250322144500 +0000">
+		<title>Med with Doc</title>
+		<desc>Each episode of this show discusses different physical and psychological illnesses, including urban diseases and epidemic diseases, from the perspectives of traditional Chinese medicine and Western medicine. It also presents the latest treatment plans in the industry.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch838_med_with_doc.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="996" start="20250322144500 +0000" stop="20250322151500 +0000">
+		<title>Sustainable Future-TVB ESG Award Ceremony 2024</title>
+		<desc>TVB Jade brings you endless entertainment with concurrent dramas and sitcoms, as well as the latest news, variety and infotainment programmes from TVB.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch838_tvb_logo.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="996" start="20250322151500 +0000" stop="20250322153000 +0000">
 		<title>News Roundup</title>
