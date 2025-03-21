@@ -10305,15 +10305,20 @@
 		<desc>The 2025 Women's Premier League will be the third season of the Women's Premier League, a women's franchise Twenty20 cricket league organised by the Board of Control for Cricket in India (BCCI). The tournament, featuring five teams, will be held from 14 February to 15 March 2025. Royal Challengers Bengaluru are the defending champions.</desc>
 		<icon src="https://poster.starhubgo.com/poster/WPL2025_GENERIC.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="204" start="20250321160000 +0000" stop="20250321210000 +0000">
+	<programme channel="204" start="20250321160000 +0000" stop="20250321220000 +0000">
 		<title>End of Transmission</title>
 		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_Channels2/204_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="204" start="20250321210000 +0000" stop="20250322010000 +0000">
+	<programme channel="204" start="20250321220000 +0000" stop="20250321223000 +0000">
+		<title>End of Transmission</title>
+		<desc />
+		<icon src="https://poster.starhubgo.com/Linear_Channels2/204_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="204" start="20250321223000 +0000" stop="20250322030000 +0000">
 		<title>TATA Women's Premier League 2025: M09 - Royal Challengers Bengaluru vs UP Warrio</title>
 		<desc>The 2025 Women's Premier League will be the third season of the Women's Premier League, a women's franchise Twenty20 cricket league organised by the Board of Control for Cricket in India (BCCI). The tournament, featuring five teams, will be held from 14 February to 15 March 2025. Royal Challengers Bengaluru are the defending champions.</desc>
-		<icon src="https://poster.starhubgo.com/poster/WPL2025_GENERIC.jpg?w=960&amp;h=540" />
+		<icon src="https://poster.starhubgo.com/poster/WPL2025.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="204" start="20250322010000 +0000" stop="20250322050000 +0000">
 		<title>TATA Women's Premier League 2025: M10 - Delhi Capitals vs Gujarat Giants</title>
@@ -11256,17 +11261,17 @@
 		<icon src="https://poster.starhubgo.com/poster/ch214_UECL_logo.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="214" start="20250321145000 +0000" stop="20250321173000 +0000">
-		<title>UEFA Europa League 2024/25 Rangers vs Fenerbahce - RD 16,2nd Leg</title>
+		<title>UEFA Europa League 2024/25: Rangers vs Fenerbahce - RD 16,2nd Leg</title>
 		<desc>The 54th season of the UEL as Europe's elite clubs compete in this premier football tournament</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch214_UEL_full_match.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="214" start="20250321173000 +0000" stop="20250321192300 +0000">
-		<title>UEFA Champions League 2024/25 Leverkusen vs Bayern - RD 16,2nd Leg</title>
+		<title>UEFA Champions League 2024/25: Leverkusen vs Bayern - RD 16,2nd Leg</title>
 		<desc>The most prestigious tournament in the world contested by top-division elite European clubs</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch214_UCL_full_match.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="214" start="20250321192300 +0000" stop="20250321213000 +0000">
-		<title>LaLiga 2 2024/25 Burgos vs Almeria (Live)</title>
+		<title>LaLiga 2 2024/25: Burgos vs Almeria (Live)</title>
 		<desc>Extensive coverage from LaLiga 2, Spain's second division of football.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch214_laliga_2.jpg?w=960&amp;h=540" />
 	</programme>
@@ -11276,12 +11281,12 @@
 		<icon src="https://poster.starhubgo.com/poster/ch214_UCL_classic_matches.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="214" start="20250321214000 +0000" stop="20250321233000 +0000">
-		<title>UEFA Youth League 2024/25 Midtjylland vs Man City - R32</title>
+		<title>UEFA Youth League 2024/25: Midtjylland vs Man City - R32</title>
 		<desc>The UEFA Youth League is an annual football competition contested by the youth teams (U19) of the clubs competing in the UCL group stage, plus the domestic youth champions of the best-ranked national associations</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch214_UYL_logo.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="214" start="20250321233000 +0000" stop="20250322012000 +0000">
-		<title>UEFA Europa League 2024/25 Man United vs Real Sociedad - RD 16, 2nd Leg</title>
+		<title>UEFA Europa League 2024/25: Man United vs Real Sociedad - RD 16, 2nd Leg</title>
 		<desc>The 54th season of the UEL as Europe's elite clubs compete in this premier football tournament</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch214_UEL_full_match.jpg?w=341&amp;h=192" />
 	</programme>
@@ -11577,7 +11582,7 @@
 	</programme>
 	<programme channel="221" start="20250321193000 +0000" stop="20250321200000 +0000">
 		<title>THE BIG INTERVIEW - EP 32</title>
-		<desc>Extended sit-downs and more informal 'out and about' interviews with the Premier League's biggest stars, providing players with a platform to tell their story in their own words.</desc>
+		<desc>To celebrate Non-League Day, this week The Big Interview travels to Portman Road to speak with Ipswich Town's, Jack Taylor. Having scored in England's top 5 leagues, Taylor talks through his career from Barnet to the Premier League. The 26-year-old also shares his views on Ipswich's season to date, the impact Kieran McKenna's had on his game as well as his hopes for the future.</desc>
 		<icon src="https://poster.starhubgo.com/poster/the_big_interview_V2.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="221" start="20250321200000 +0000" stop="20250321210000 +0000">
@@ -19697,7 +19702,7 @@
 	</programme>
 	<programme channel="447" start="20250321010000 +0000" stop="20250321020000 +0000">
 		<title>ABC News At Noon (2025) - EP 58</title>
-		<desc>The leading news at lunchtime. Ruby Cornish brings you the day's top stories and the latest news as it unfolds, with reporters in the community across Australia and around the world reporting on the issues that matter to you.</desc>
+		<desc>The leading news at lunchtime. Celina Edmonds brings you today's top stories and the latest news as it unfolds, with reporters in the community across Australia and around the world reporting on the issues that matter to you.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="447" start="20250321020000 +0000" stop="20250321030000 +0000">
@@ -19705,24 +19710,29 @@
 		<desc>Costa finds a field of sunflowers; Clarence profiles underrated natives; Jerry tours a colossal cacti collection; Millie shines a light on witlof; Jane cracks into macadamias; we visit a landscape architect's country garden.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="447" start="20250321030000 +0000" stop="20250321040000 +0000">
+	<programme channel="447" start="20250321030000 +0000" stop="20250321034000 +0000">
 		<title>The First Inventors S1 - EP 3</title>
 		<desc>Vast communication networks, trade superhighways, and sophisticated kinship systems. How First Nations people built an extraordinarily connected society on this enormous and often inhospitable continent.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341&amp;h=192" />
 	</programme>
+	<programme channel="447" start="20250321034000 +0000" stop="20250321040000 +0000">
+		<title>Way Out Ag (2021) - EP 5</title>
+		<desc>Massive structures with retractable walls and roof panels are being used to provide permanent protection for high-value crops. The sheds are a game-changer for fruit and vegetable growers, as Landline reported in 2017.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341&amp;h=192" />
+	</programme>
 	<programme channel="447" start="20250321040000 +0000" stop="20250321043000 +0000">
 		<title>The Pacific (2025) - EP 2</title>
-		<desc>The Pacific region is rich with culture, people and stories. Johnson Raela and Alice Lolohea bring you the stories that matter to the Pacific and the most up-to-date information, from journalists with deep regional expertise.</desc>
+		<desc>In the wake of the worst earthquake in Vanuatu's history last December, The Pacific brings you a half-hour special on the remarkable resilience of its people as they seek to emerge stronger from the rubble.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="447" start="20250321043000 +0000" stop="20250321050000 +0000">
 		<title>That Pacific Sports Show S5 - EP 5</title>
-		<desc>Join Tiana Penitani and Sam Wykes for your weekly hit of Pacific joy, as they share inspiring stories and incredible sporting prowess of athletes with Pacific Island heritage, from Australia and around the world.</desc>
+		<desc>We sit down with Samoan Miracle Faiilagi to see where his rugby journey started. Sam travels to Suva for a Fijian Deaf Rugby School clinic and a dynamic duo from within the Penina Pasifika fold join us in studio.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="447" start="20250321050000 +0000" stop="20250321060000 +0000">
 		<title>Afternoon Briefing (2025) - EP 40</title>
-		<desc>Your daily download of everything you need to know about politics, national and global affairs. Patricia Karvelas asks politicians the tough questions and talks to experts on issues driving the news cycle in an election year.</desc>
+		<desc>Patricia Karvelas brings you the latest in politics and national affairs, speaking with Andrew Leigh, former ACCC Chair Allan Fels and Zali Steggall. Plus a panel of Anthony Galloway and Sarah Ison recap the week's events.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="447" start="20250321060000 +0000" stop="20250321070000 +0000">
@@ -19735,44 +19745,49 @@
 		<desc>Costa finds a field of sunflowers; Clarence profiles underrated natives; Jerry tours a colossal cacti collection; Millie shines a light on witlof; Jane cracks into macadamias; we visit a landscape architect's country garden.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="447" start="20250321080000 +0000" stop="20250321083000 +0000">
-		<title>ABC National News (2025) - EP 80</title>
-		<desc>There's never been a more important time for transparency and trust. ABC News brings you the day's top stories and latest news, with more reporters to tell you what's going on and why it matters. Presented by Joe O'Brien.</desc>
+	<programme channel="447" start="20250321080000 +0000" stop="20250321081000 +0000">
+		<title>Landline: India (2024) - EP 6</title>
+		<desc>A trade deal opens up new partnerships, cotton and wool grown in Australia, made in India and exported to the world and; supplying a demand for almonds, avocadoes and wine to a new generation with a taste for new food.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="447" start="20250321083000 +0000" stop="20250321113000 +0000">
+	<programme channel="447" start="20250321081000 +0000" stop="20250321112000 +0000">
 		<title>AFL Premiership Season (2025) - EP 12</title>
 		<desc>ABC Australia brings you Australian Rules football live in your lounge room every week with coverage of the 2025 AFL Premiership Season.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341&amp;h=192" />
 	</programme>
+	<programme channel="447" start="20250321112000 +0000" stop="20250321113000 +0000">
+		<title>Gardening Australia S34 - EP 20</title>
+		<desc>We meet an indoor gardener who grows her entire, thriving collection with no soil._x000D_</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341&amp;h=192" />
+	</programme>
 	<programme channel="447" start="20250321113000 +0000" stop="20250321120000 +0000">
 		<title>The World (2025) - EP 11</title>
-		<desc>There's never been a more important time to stay in touch with what's going on in our world. At 9pm AEDT, Manny Tsigas brings you the latest international news and interviews with correspondents and guests.</desc>
+		<desc>Manny Tsigas brings you the latest news from around the globe. Tonight: Hamas launches rockets at Tel Aviv, the US Department of Education dismantled, plus Heathrow Airport closed after a fire.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="447" start="20250321120000 +0000" stop="20250321124500 +0000">
 		<title>Planet America: Weekend Edition (2025) - EP 10</title>
-		<desc>John Barron and Chas Licciardello take a deeper look at the events of the week, with extended interviews and in-depth discussions on Trump's second term. (Planet America returns Friday 11 April after a two week break)</desc>
+		<desc>Spies, secrets but no smoking gun? Classified JFK assassination files finally revealed. Plus Trump defies the courts with calls to impeach judges and deletes history with a DEI purge on military legends.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="447" start="20250321124500 +0000" stop="20250321131500 +0000">
 		<title>Close Of Business (2025) - EP 8</title>
-		<desc>Alicia Barry presents a weekly roundup of business, finance and economic news including the latest trends on Australian and overseas markets, analysing what's going on in the local and global economy and how it affects you.</desc>
+		<desc>Why a former Deputy Governor of the RBA is calling for federal cash for home batteries. Plus the big investors who say the Coalition plan to switch away from renewables is bad for business. Presented by Alicia Barry._x000D_</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="447" start="20250321131500 +0000" stop="20250321133000 +0000">
 		<title>ABC Late News (2025) - EP 58</title>
-		<desc>Follow the latest on today's news, covering what's happening and why it matters. ABC News has reporters across Australia and around the globe to bring you the news you need to know. Presented by Michael Tetlow in Perth.</desc>
+		<desc>Follow the latest on today's news, covering what's happening and why it matters. ABC News has reporters across Australia and around the globe to bring you the news you need to know. Presented by Craig Smart in Perth.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="447" start="20250321133000 +0000" stop="20250321140000 +0000">
 		<title>Asia News Week (2025) - EP 10</title>
-		<desc>Yvonne Yong brings you a weekly roundup of the stories making news across the Asia region, plus what's trending on social media and making an impact on the culture and the way people live.</desc>
+		<desc>Join Yvonne Yong for the latest news from Asia: Plans to change an Indonesian law sparks fears of a return to military supremacy, plus why a Bollywood film is being blamed for stirring violence in India's west.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="447" start="20250321140000 +0000" stop="20250321143000 +0000">
 		<title>The World (2025) - EP 11</title>
-		<desc>There's never been a more important time to stay in touch with what's going on in our world. At 9pm AEDT, Manny Tsigas brings you the latest international news and interviews with correspondents and guests.</desc>
+		<desc>Manny Tsigas brings you the latest news from around the globe. Tonight: Hamas launches rockets at Tel Aviv, the US Department of Education dismantled, plus Heathrow Airport closed after a fire.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="447" start="20250321143000 +0000" stop="20250321153000 +0000">
@@ -19792,22 +19807,22 @@
 	</programme>
 	<programme channel="447" start="20250321164500 +0000" stop="20250321173000 +0000">
 		<title>Planet America: Weekend Edition (2025) - EP 10</title>
-		<desc>John Barron and Chas Licciardello take a deeper look at the events of the week, with extended interviews and in-depth discussions on Trump's second term. (Planet America returns Friday 11 April after a two week break)</desc>
+		<desc>Spies, secrets but no smoking gun? Classified JFK assassination files finally revealed. Plus Trump defies the courts with calls to impeach judges and deletes history with a DEI purge on military legends.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="447" start="20250321173000 +0000" stop="20250321180000 +0000">
 		<title>Asia News Week (2025) - EP 10</title>
-		<desc>Yvonne Yong brings you a weekly roundup of the stories making news across the Asia region, plus what's trending on social media and making an impact on the culture and the way people live.</desc>
+		<desc>Join Yvonne Yong for the latest news from Asia: Plans to change an Indonesian law sparks fears of a return to military supremacy, plus why a Bollywood film is being blamed for stirring violence in India's west.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="447" start="20250321180000 +0000" stop="20250321183000 +0000">
 		<title>The World (2025) - EP 11</title>
-		<desc>There's never been a more important time to stay in touch with what's going on in our world. At 9pm AEDT, Manny Tsigas brings you the latest international news and interviews with correspondents and guests.</desc>
+		<desc>Manny Tsigas brings you the latest news from around the globe. Tonight: Hamas launches rockets at Tel Aviv, the US Department of Education dismantled, plus Heathrow Airport closed after a fire.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="447" start="20250321183000 +0000" stop="20250321190000 +0000">
 		<title>Close Of Business (2025) - EP 8</title>
-		<desc>Alicia Barry presents a weekly roundup of business, finance and economic news including the latest trends on Australian and overseas markets, analysing what's going on in the local and global economy and how it affects you.</desc>
+		<desc>Why a former Deputy Governor of the RBA is calling for federal cash for home batteries. Plus the big investors who say the Coalition plan to switch away from renewables is bad for business. Presented by Alicia Barry._x000D_</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="447" start="20250321190000 +0000" stop="20250321200000 +0000">
@@ -30287,7 +30302,7 @@
 	</programme>
 	<programme channel="812" start="20250321003000 +0000" stop="20250321010000 +0000">
 		<title>Asia Insight</title>
-		<desc>An in-depth look at the realities of Asia today -- a dynamic region which faces political, economic, cultural, and technological change.</desc>
+		<desc>Climate change has seen vegetable harvests fall in South Korea. One group of women is embracing hardy organic techniques, while the government is training a new generation of farmers with technology.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250321010000 +0000" stop="20250321011500 +0000">
@@ -30321,8 +30336,8 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250321023000 +0000" stop="20250321030000 +0000">
-		<title>Special Program</title>
-		<desc>A wide range of topics featuring Japanese culture and society are introduced.</desc>
+		<title>Trailblazers</title>
+		<desc>Entrepreneur Washizaki Issei started the Japan Winter League to "shine a light on hidden talent." Held in Okinawa during the offseason, it's gaining prominence within the baseball community.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250321030000 +0000" stop="20250321031500 +0000">
@@ -30372,7 +30387,7 @@
 	</programme>
 	<programme channel="812" start="20250321053000 +0000" stop="20250321060000 +0000">
 		<title>Asia Insight</title>
-		<desc>An in-depth look at the realities of Asia today -- a dynamic region which faces political, economic, cultural, and technological change.</desc>
+		<desc>Climate change has seen vegetable harvests fall in South Korea. One group of women is embracing hardy organic techniques, while the government is training a new generation of farmers with technology.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250321060000 +0000" stop="20250321063000 +0000">
@@ -30396,8 +30411,8 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250321073000 +0000" stop="20250321080000 +0000">
-		<title>Special Program</title>
-		<desc>A wide range of topics featuring Japanese culture and society are introduced.</desc>
+		<title>Trailblazers</title>
+		<desc>Entrepreneur Washizaki Issei started the Japan Winter League to "shine a light on hidden talent." Held in Okinawa during the offseason, it's gaining prominence within the baseball community.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250321080000 +0000" stop="20250321081500 +0000">
@@ -30452,7 +30467,7 @@
 	</programme>
 	<programme channel="812" start="20250321103000 +0000" stop="20250321110000 +0000">
 		<title>Asia Insight</title>
-		<desc>An in-depth look at the realities of Asia today -- a dynamic region which faces political, economic, cultural, and technological change.</desc>
+		<desc>Climate change has seen vegetable harvests fall in South Korea. One group of women is embracing hardy organic techniques, while the government is training a new generation of farmers with technology.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250321110000 +0000" stop="20250321112700 +0000">
@@ -30501,8 +30516,8 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250321133000 +0000" stop="20250321140000 +0000">
-		<title>Special Program</title>
-		<desc>A wide range of topics featuring Japanese culture and society are introduced.</desc>
+		<title>Trailblazers</title>
+		<desc>Entrepreneur Washizaki Issei started the Japan Winter League to "shine a light on hidden talent." Held in Okinawa during the offseason, it's gaining prominence within the baseball community.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250321140000 +0000" stop="20250321141500 +0000">
@@ -30532,7 +30547,7 @@
 	</programme>
 	<programme channel="812" start="20250321153000 +0000" stop="20250321160000 +0000">
 		<title>Asia Insight</title>
-		<desc>An in-depth look at the realities of Asia today -- a dynamic region which faces political, economic, cultural, and technological change.</desc>
+		<desc>Climate change has seen vegetable harvests fall in South Korea. One group of women is embracing hardy organic techniques, while the government is training a new generation of farmers with technology.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250321160000 +0000" stop="20250321161500 +0000">
@@ -30601,8 +30616,8 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250321193000 +0000" stop="20250321200000 +0000">
-		<title>Special Program</title>
-		<desc>A wide range of topics featuring Japanese culture and society are introduced.</desc>
+		<title>Trailblazers</title>
+		<desc>Entrepreneur Washizaki Issei started the Japan Winter League to "shine a light on hidden talent." Held in Okinawa during the offseason, it's gaining prominence within the baseball community.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250321200000 +0000" stop="20250321201800 +0000">
@@ -30632,7 +30647,7 @@
 	</programme>
 	<programme channel="812" start="20250321213000 +0000" stop="20250321220000 +0000">
 		<title>Asia Insight</title>
-		<desc>An in-depth look at the realities of Asia today -- a dynamic region which faces political, economic, cultural, and technological change.</desc>
+		<desc>Climate change has seen vegetable harvests fall in South Korea. One group of women is embracing hardy organic techniques, while the government is training a new generation of farmers with technology.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250321220000 +0000" stop="20250321221800 +0000">
@@ -33055,48 +33070,48 @@
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20250321164000 +0000" stop="20250321170000 +0000">
+	<programme channel="832" start="20250321164000 +0000" stop="20250321173300 +0000">
 		<title>New Entertainment</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20250321170000 +0000" stop="20250321180000 +0000">
+	<programme channel="832" start="20250321173300 +0000" stop="20250321183600 +0000">
 		<title>Dragon TV Primetime News</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20250321180000 +0000" stop="20250321183000 +0000">
+	<programme channel="832" start="20250321183600 +0000" stop="20250321190100 +0000">
 		<title>Searching for flavor</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20250321183000 +0000" stop="20250321190000 +0000">
+	<programme channel="832" start="20250321190100 +0000" stop="20250321192600 +0000">
 		<title>I LOVE SHANGHAI</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20250321190000 +0000" stop="20250321220000 +0000">
+	<programme channel="832" start="20250321192600 +0000" stop="20250321210400 +0000">
 		<title>Cheer up!small shops</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20250321220000 +0000" stop="20250321223000 +0000">
+	<programme channel="832" start="20250321210400 +0000" stop="20250321221000 +0000">
+		<title>A Green Trip</title>
+		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="832" start="20250321221000 +0000" stop="20250321223500 +0000">
 		<title>New Entertainment</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20250321223000 +0000" stop="20250321230000 +0000">
+	<programme channel="832" start="20250321223500 +0000" stop="20250321230000 +0000">
 		<title>CARE ON THE WAY</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="832" start="20250321230000 +0000" stop="20250322010000 +0000">
 		<title>Dragon TV Morning News</title>
-		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="832" start="20250322010000 +0000" stop="20250322023000 +0000">
-		<title>A Green Trip</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
