@@ -208,6 +208,10 @@
 		<display-name>Hub Premier 6</display-name>
 		<icon src="https://poster.starhubgo.com/Linear_Channels2/226_1920x1080_HTV.png?w=272" />
 	</channel>
+	<channel id="227">
+		<display-name>Hub Premier 7</display-name>
+		<icon src="https://poster.starhubgo.com/Linear_Channels2/227_1920x1080_HTV.png?w=272" />
+	</channel>
 	<channel id="228">
 		<display-name>Hub Premier 8</display-name>
 		<icon src="https://poster.starhubgo.com/Linear_Channels2/228_1920x1080_HTV.png?w=272" />
@@ -1694,7 +1698,7 @@
 	</programme>
 	<programme channel="105" start="20250326153000 +0000" stop="20250326160000 +0000">
 		<title>Tamil Seithi - EP 360</title>
-		<desc>Tamil Seithi focuses primarily on local and international news, information and current affairs. Catch the online news portal at http://seithi.mediacorp.sg/</desc>
+		<desc>Tamil Seithi focuses primarily on local and international news, information and current affairs. _x000D__x000D_Catch the online news portal at http://seithi.mediacorp.sg/</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/105_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="105" start="20250326160000 +0000" stop="20250327010000 +0000">
@@ -12141,6 +12145,31 @@
 		<title>End of Transmission</title>
 		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_Channels2/226_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="227" start="20250325220000 +0000" stop="20250326040000 +0000">
+		<title>End of Transmission</title>
+		<desc />
+		<icon src="https://poster.starhubgo.com/Linear_Channels2/227_1920x1080_HTV.png?w=960&amp;h=540" />
+	</programme>
+	<programme channel="227" start="20250326040000 +0000" stop="20250326100000 +0000">
+		<title>End of Transmission</title>
+		<desc />
+		<icon src="https://poster.starhubgo.com/Linear_Channels2/227_1920x1080_HTV.png?w=960&amp;h=540" />
+	</programme>
+	<programme channel="227" start="20250326100000 +0000" stop="20250326160000 +0000">
+		<title>End of Transmission</title>
+		<desc />
+		<icon src="https://poster.starhubgo.com/Linear_Channels2/227_1920x1080_HTV.png?w=960&amp;h=540" />
+	</programme>
+	<programme channel="227" start="20250326160000 +0000" stop="20250326220000 +0000">
+		<title>End of Transmission</title>
+		<desc />
+		<icon src="https://poster.starhubgo.com/Linear_Channels2/227_1920x1080_HTV.png?w=960&amp;h=540" />
+	</programme>
+	<programme channel="227" start="20250326220000 +0000" stop="20250327040000 +0000">
+		<title>End of Transmission</title>
+		<desc />
+		<icon src="https://poster.starhubgo.com/Linear_Channels2/227_1920x1080_HTV.png?w=960&amp;h=540" />
 	</programme>
 	<programme channel="228" start="20250325160000 +0000" stop="20250325220000 +0000">
 		<title>End of Transmission</title>
@@ -33719,7 +33748,7 @@
 	</programme>
 	<programme channel="838" start="20250326020000 +0000" stop="20250326023000 +0000">
 		<title>Yum Cha</title>
-		<desc>TVB Jade brings you endless entertainment with concurrent dramas and sitcoms, as well as the latest news, variety and infotainment programmes from TVB.</desc>
+		<desc>Focusing on the rich heritage of Cantonese tea culture, this show delves into the history of traditional Cantonese tea houses, as our hosts visit old and new tea houses, interview dim sum chefs, and experience tea culture first-hand.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch838_tvb_logo.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="838" start="20250326023000 +0000" stop="20250326030000 +0000">
@@ -33764,7 +33793,7 @@
 	</programme>
 	<programme channel="838" start="20250326073000 +0000" stop="20250326080000 +0000">
 		<title>Yum Cha</title>
-		<desc>TVB Jade brings you endless entertainment with concurrent dramas and sitcoms, as well as the latest news, variety and infotainment programmes from TVB.</desc>
+		<desc>Focusing on the rich heritage of Cantonese tea culture, this show delves into the history of traditional Cantonese tea houses, as our hosts visit old and new tea houses, interview dim sum chefs, and experience tea culture first-hand.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch838_tvb_logo.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="838" start="20250326080000 +0000" stop="20250326083000 +0000">
@@ -33819,7 +33848,7 @@
 	</programme>
 	<programme channel="838" start="20250326143000 +0000" stop="20250326150000 +0000">
 		<title>Yum Cha</title>
-		<desc>TVB Jade brings you endless entertainment with concurrent dramas and sitcoms, as well as the latest news, variety and infotainment programmes from TVB.</desc>
+		<desc>Focusing on the rich heritage of Cantonese tea culture, this show delves into the history of traditional Cantonese tea houses, as our hosts visit old and new tea houses, interview dim sum chefs, and experience tea culture first-hand.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch838_tvb_logo.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="838" start="20250326150000 +0000" stop="20250326151500 +0000">
@@ -35509,7 +35538,7 @@
 	</programme>
 	<programme channel="996" start="20250326020000 +0000" stop="20250326023000 +0000">
 		<title>Yum Cha</title>
-		<desc>TVB Jade brings you endless entertainment with concurrent dramas and sitcoms, as well as the latest news, variety and infotainment programmes from TVB.</desc>
+		<desc>Focusing on the rich heritage of Cantonese tea culture, this show delves into the history of traditional Cantonese tea houses, as our hosts visit old and new tea houses, interview dim sum chefs, and experience tea culture first-hand.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch838_tvb_logo.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="996" start="20250326023000 +0000" stop="20250326030000 +0000">
@@ -35554,7 +35583,7 @@
 	</programme>
 	<programme channel="996" start="20250326073000 +0000" stop="20250326080000 +0000">
 		<title>Yum Cha</title>
-		<desc>TVB Jade brings you endless entertainment with concurrent dramas and sitcoms, as well as the latest news, variety and infotainment programmes from TVB.</desc>
+		<desc>Focusing on the rich heritage of Cantonese tea culture, this show delves into the history of traditional Cantonese tea houses, as our hosts visit old and new tea houses, interview dim sum chefs, and experience tea culture first-hand.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch838_tvb_logo.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="996" start="20250326080000 +0000" stop="20250326083000 +0000">
@@ -35609,7 +35638,7 @@
 	</programme>
 	<programme channel="996" start="20250326143000 +0000" stop="20250326150000 +0000">
 		<title>Yum Cha</title>
-		<desc>TVB Jade brings you endless entertainment with concurrent dramas and sitcoms, as well as the latest news, variety and infotainment programmes from TVB.</desc>
+		<desc>Focusing on the rich heritage of Cantonese tea culture, this show delves into the history of traditional Cantonese tea houses, as our hosts visit old and new tea houses, interview dim sum chefs, and experience tea culture first-hand.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch838_tvb_logo.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="996" start="20250326150000 +0000" stop="20250326151500 +0000">
