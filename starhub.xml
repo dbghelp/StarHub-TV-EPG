@@ -10011,17 +10011,17 @@
 		<desc>The 2025 Women's Premier League will be the third season of the Women's Premier League, a women's franchise Twenty20 cricket league organised by the Board of Control for Cricket in India (BCCI). The tournament, featuring five teams, will be held from 14 February to 15 March 2025. Royal Challengers Bengaluru are the defending champions.</desc>
 		<icon src="https://poster.starhubgo.com/poster/WPL2025.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="204" start="20250401011000 +0000" stop="20250401051000 +0000">
+	<programme channel="204" start="20250401003000 +0000" stop="20250401043000 +0000">
 		<title>TATA Women's Premier League 2025: M07 - Royal Challengers Bengaluru vs Mumbai In</title>
 		<desc>The 2025 Women's Premier League will be the third season of the Women's Premier League, a women's franchise Twenty20 cricket league organised by the Board of Control for Cricket in India (BCCI). The tournament, featuring five teams, will be held from 14 February to 15 March 2025. Royal Challengers Bengaluru are the defending champions.</desc>
 		<icon src="https://poster.starhubgo.com/poster/WPL2025.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="204" start="20250401051000 +0000" stop="20250401095000 +0000">
+	<programme channel="204" start="20250401043000 +0000" stop="20250401091000 +0000">
 		<title>TATA Indian Premier League 2025: M02 - Sunrisers Hyderabad vs Rajasthan Royals</title>
 		<desc>The 2025 Indian Premier League, a franchise Twenty20 cricket league held in India, returns for the 18th year, and will feature ten teams competing in 74 matches from 14 March to 25 May 2025.</desc>
 		<icon src="https://poster.starhubgo.com/poster/IPL2025_M02.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="204" start="20250401095000 +0000" stop="20250401135000 +0000">
+	<programme channel="204" start="20250401091000 +0000" stop="20250401135000 +0000">
 		<title>TATA Indian Premier League 2025: M09 - Gujarat Titans vs Mumbai Indians</title>
 		<desc>The 2025 Indian Premier League, a franchise Twenty20 cricket league held in India, returns for the 18th year, and will feature ten teams competing in 74 matches from 14 March to 25 May 2025.</desc>
 		<icon src="https://poster.starhubgo.com/poster/IPL2025_M09.jpg?w=960&amp;h=540" />
@@ -25049,7 +25049,7 @@ electricity projects.</desc>
 	</programme>
 	<programme channel="709" start="20250401110000 +0000" stop="20250401113000 +0000">
 		<title>Bloomberg Primer S1 - EP 1</title>
-		<desc>Scientists are developing ever-more powerful magnets to enable clean energy sources like fusion. But China's dominance of the supply chain for rare-earth magnets threatens their global availability.</desc>
+		<desc>Scientists are developing powerful magnets to enable clean energy sources like fusion. But China's dominance of the supply chain for rare-earth magnets threatens their global availability.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/709_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="709" start="20250401113000 +0000" stop="20250401120000 +0000">
@@ -29057,9 +29057,14 @@ electricity projects.</desc>
 		<desc>The latest up-to-date news and nationwide weather information.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="811" start="20250331010500 +0000" stop="20250331022800 +0000">
-		<title>Project X: The Challengers-New Beginnings Special: 100 Years of Broadcasting in</title>
+	<programme channel="811" start="20250331010500 +0000" stop="20250331022400 +0000">
+		<title>Project X: The Challengers-New Beginnings Special</title>
 		<desc>Project X returns for the first time in 18 years. The former series featured people involved in project related to the Japanese industry and contemporary history. The new series focuses on people in the "Lost Era" following the collapse of the bubble economy. In every era, there are always those take on challenges. Even without receiving praise or being in the spotlight, some dedicate themselves to their work. The documentary delivers passion and courage right to you.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="811" start="20250331022400 +0000" stop="20250331022800 +0000">
+		<title>Mini Program</title>
+		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="811" start="20250331022800 +0000" stop="20250331023800 +0000">
@@ -29087,19 +29092,14 @@ electricity projects.</desc>
 		<desc>Weather information of the different areas around the world.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="811" start="20250331030000 +0000" stop="20250331032000 +0000">
+	<programme channel="811" start="20250331030000 +0000" stop="20250331032200 +0000">
 		<title>News</title>
 		<desc>The latest up-to-date news from Tokyo.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="811" start="20250331032000 +0000" stop="20250331032800 +0000">
+	<programme channel="811" start="20250331032200 +0000" stop="20250331033000 +0000">
 		<title>Information Worth Knowing from the News Commentator Bureau</title>
 		<desc>The commentators present trending news, its background, and engaging information related to daily life in an easy-to -understand manner.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="811" start="20250331032800 +0000" stop="20250331033000 +0000">
-		<title>Mini Program</title>
-		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="811" start="20250331033000 +0000" stop="20250331034500 +0000">
@@ -29418,7 +29418,7 @@ electricity projects.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="811" start="20250401010500 +0000" stop="20250401015000 +0000">
-		<title>Tsurube's Salute to Families "Takahashi Fumiya in Yaizu City, Shizuoka Prefectur</title>
+		<title>Tsurube's Salute to Families</title>
 		<desc>Veteran rakugo storyteller Shofukutei Tsurube travels across Japan with a personality, introducing families they meet along the way.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
@@ -29598,7 +29598,7 @@ electricity projects.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="811" start="20250401130000 +0000" stop="20250401134500 +0000">
-		<title>Drama 10 "Happiness Comes from Eating, Sleeping and Waiting" Eps. 1（New）</title>
+		<title>Drama 10 "Happiness Comes from Eating, Sleeping and Waiting"</title>
 		<desc>A 38 years-old single woman Mugimaki Satoko’s life has completely changed after being diagnosed with a "lifelong" illness. She is forced to quit her job and finds an old housing complex with a monthly rent of 50,000 yen. With her landlord living next door and a sketchy cook, Satoko encounters "medicinal cuisine," a way of eating seasonal food to maintain bodily functions. A story that will warm you from the bottom of your stomach, just like a bowl of rice porridge, is about to begin!</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
