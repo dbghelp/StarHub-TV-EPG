@@ -4999,7 +4999,7 @@
 	<programme channel="132" start="20250331233000 +0000" stop="20250401000000 +0000">
 		<title>Kadhala Kadhala - EP 6</title>
 		<desc>A show that is dramatic in nature.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch132_tba.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch132_kadhala_kadhala.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="132" start="20250401000000 +0000" stop="20250401003000 +0000">
 		<title>Mayil - EP 12</title>
@@ -5024,7 +5024,7 @@
 	<programme channel="132" start="20250401043000 +0000" stop="20250401050000 +0000">
 		<title>Kadhala Kadhala - EP 6</title>
 		<desc>A show that is dramatic in nature.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch132_tba.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch132_kadhala_kadhala.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="132" start="20250401050000 +0000" stop="20250401053000 +0000">
 		<title>Shiva Shakthi Thiruvilayadal - EP 389</title>
@@ -5074,7 +5074,7 @@
 	<programme channel="132" start="20250401113000 +0000" stop="20250401120000 +0000">
 		<title>Kadhala Kadhala - EP 7</title>
 		<desc>A show that is dramatic in nature.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch132_tba.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch132_kadhala_kadhala.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="132" start="20250401120000 +0000" stop="20250401123000 +0000">
 		<title>Mayil - EP 13</title>
@@ -5114,7 +5114,7 @@
 	<programme channel="132" start="20250401180000 +0000" stop="20250401183000 +0000">
 		<title>Kadhala Kadhala - EP 7</title>
 		<desc>A show that is dramatic in nature.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch132_tba.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch132_kadhala_kadhala.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="132" start="20250401183000 +0000" stop="20250401210000 +0000">
 		<title>DejaVu</title>
@@ -5149,7 +5149,7 @@
 	<programme channel="132" start="20250401233000 +0000" stop="20250402000000 +0000">
 		<title>Kadhala Kadhala - EP 7</title>
 		<desc>A show that is dramatic in nature.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch132_tba.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch132_kadhala_kadhala.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="132" start="20250402000000 +0000" stop="20250402003000 +0000">
 		<title>Mayil - EP 13</title>
@@ -10826,35 +10826,40 @@
 		<desc>A compendium of Professional English Eightball Pool tournaments featuring the world's top players.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch213_ultimate_pool_champions_league.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="213" start="20250401031000 +0000" stop="20250401031500 +0000">
+	<programme channel="213" start="20250401031000 +0000" stop="20250401032500 +0000">
 		<title>Chasing the Dream 7</title>
 		<desc>Chasing the Dream follows some of the brightest talent in single-seater racing on their journey to the top, taking you behind the scenes of the FIA Formula 2 Championship.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch213_chasing_the_dream.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="213" start="20250401031500 +0000" stop="20250401055000 +0000">
+	<programme channel="213" start="20250401032500 +0000" stop="20250401060000 +0000">
 		<title>DTM Esports Championship 2025</title>
 		<desc>Top SimRacers combine for seven breathtaking SimRacing events in early 2025.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch213_dtm_esports_championship.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="213" start="20250401055000 +0000" stop="20250401062000 +0000">
+	<programme channel="213" start="20250401060000 +0000" stop="20250401063000 +0000">
 		<title>Inside Sailing 2025</title>
 		<desc>The world's leading monthly magazine show, showcasing the diverse world of sailing, from super yachts and offshore racing, to the extremes of kite surfing.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch213_inside_sailing.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="213" start="20250401062000 +0000" stop="20250401065000 +0000">
+	<programme channel="213" start="20250401063000 +0000" stop="20250401070000 +0000">
 		<title>Nastro Rosa Tour 2024</title>
 		<desc>The Marina Militare Nastro Rosa Tour returned in 2024 for its fourth edition, showcasing that it is more than just a race - it's a celebration of the sea.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch213_nastro_rosa_tour.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="213" start="20250401065000 +0000" stop="20250401082000 +0000">
-		<title>Premier Padel 2025: Santiago P1 Day 6 Final - Women</title>
-		<desc>The official global Padel tour. Catch world's top players battle it out across the globe.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch213_premier_padel.jpg?w=341&amp;h=192" />
+	<programme channel="213" start="20250401070000 +0000" stop="20250401073000 +0000">
+		<title>Mini Match - Bundesliga 2024/25: Dortmund vs Mainz</title>
+		<desc>Watch every game of the season live as the top German football clubs battle it out in the Bundesliga, Germany's top division of football.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch213_mini_match_bundesliga.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="213" start="20250401082000 +0000" stop="20250401095000 +0000">
-		<title>Premier Padel 2025: Santiago P1 Day 6 Final - Men</title>
-		<desc>The official global Padel tour. Catch world's top players battle it out across the globe.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch213_premier_padel.jpg?w=341&amp;h=192" />
+	<programme channel="213" start="20250401073000 +0000" stop="20250401080000 +0000">
+		<title>Mini Match - LaLiga 2024/25: Real Betis vs Sevilla</title>
+		<desc>Exclusive coverage from the Spanish LaLiga, Spain's top division of football, with the world's biggest teams and best players.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch213_mini_match_laliga.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="213" start="20250401080000 +0000" stop="20250401095000 +0000">
+		<title>LaLiga 2024/25: Athletic Bilbao vs Osasuna</title>
+		<desc>Extensive coverage from every round of the Spanish LaLiga, Spain's top division of football with the World's biggest teams.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch213_laliga.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="213" start="20250401095000 +0000" stop="20250401101000 +0000">
 		<title>MUTV: One Love</title>
@@ -12241,11 +12246,6 @@
 		<desc>Catch all the standout moments from the latest matches of the 2025 Toyota AFL Premiership Season.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch207_premier_sports.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="247" start="20250331164000 +0000" stop="20250331170000 +0000">
-		<title>AFL Highlights Adelaide v North Melbourne</title>
-		<desc>Catch all the standout moments from the latest matches of the 2025 Toyota AFL Premiership Season.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch207_premier_sports.jpg?w=341&amp;h=192" />
-	</programme>
 	<programme channel="247" start="20250331170000 +0000" stop="20250331185000 +0000">
 		<title>Premiership Rugby Sale v Northampton</title>
 		<desc>Experience the thrill and rush right here as we deliver some of the most exciting sports action from around the world!</desc>
@@ -12259,16 +12259,6 @@
 	<programme channel="247" start="20250331195000 +0000" stop="20250331214000 +0000">
 		<title>Premiership Rugby Bath v Harlequins</title>
 		<desc>Experience the thrill and rush right here as we deliver some of the most exciting sports action from around the world!</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch207_premier_sports.jpg?w=341&amp;h=192" />
-	</programme>
-	<programme channel="247" start="20250331214000 +0000" stop="20250331220000 +0000">
-		<title>AFL Highlights Adelaide v North Melbourne</title>
-		<desc>Catch all the standout moments from the latest matches of the 2025 Toyota AFL Premiership Season.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch207_premier_sports.jpg?w=341&amp;h=192" />
-	</programme>
-	<programme channel="247" start="20250331220000 +0000" stop="20250331222000 +0000">
-		<title>AFL Highlights West Coast v Fremantle</title>
-		<desc>Catch all the standout moments from the latest matches of the 2025 Toyota AFL Premiership Season.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch207_premier_sports.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="247" start="20250331222000 +0000" stop="20250331224000 +0000">
@@ -12322,7 +12312,7 @@
 		<icon src="https://poster.starhubgo.com/poster/ch207_premier_sports.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="247" start="20250401070000 +0000" stop="20250401085000 +0000">
-		<title>NRL Rabbitohs v Roosters</title>
+		<title>NRL Dolphins v Broncos</title>
 		<desc>Coverage of the 2025 NRL season featuring the brightest stars in Rugby League.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch207_premier_sports.jpg?w=341&amp;h=192" />
 	</programme>
@@ -12407,12 +12397,12 @@
 		<icon src="https://poster.starhubgo.com/poster/ch207_premier_sports.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="247" start="20250401133000 +0000" stop="20250401152000 +0000">
-		<title>Super Rugby Chiefs v Reds</title>
+		<title>Super Rugby Hurricanes v Waratahs</title>
 		<desc>The 2025 Super Rugby featuring teams from Australia, Fiji, New Zealand and a combined team from Samoa, Tonga and other Pacific Island nations.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch207_premier_sports.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="247" start="20250401152000 +0000" stop="20250401171000 +0000">
-		<title>Super Rugby Moana Pasifika v Waratahs</title>
+		<title>Super Rugby Brumbies v Highlanders</title>
 		<desc>The 2025 Super Rugby featuring teams from Australia, Fiji, New Zealand and a combined team from Samoa, Tonga and other Pacific Island nations.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch207_premier_sports.jpg?w=341&amp;h=192" />
 	</programme>
@@ -12431,14 +12421,24 @@
 		<desc>Catch up on all the match highlights from the most recent round of United Rugby Championship.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch207_premier_sports.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="247" start="20250401174000 +0000" stop="20250401193000 +0000">
-		<title>Super Rugby Fijian Drua v Crusaders</title>
+	<programme channel="247" start="20250401174000 +0000" stop="20250401191000 +0000">
+		<title>Super Rugby Crusaders v Moana Pasifika</title>
 		<desc>The 2025 Super Rugby featuring teams from Australia, Fiji, New Zealand and a combined team from Samoa, Tonga and other Pacific Island nations.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch207_premier_sports.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="247" start="20250401193000 +0000" stop="20250401212000 +0000">
-		<title>Super Rugby Blues v Hurricanes</title>
+	<programme channel="247" start="20250401191000 +0000" stop="20250401204000 +0000">
+		<title>Super Rugby Reds v Force</title>
 		<desc>The 2025 Super Rugby featuring teams from Australia, Fiji, New Zealand and a combined team from Samoa, Tonga and other Pacific Island nations.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch207_premier_sports.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="247" start="20250401204000 +0000" stop="20250401210000 +0000">
+		<title>AFL Highlights West Coast v Fremantle</title>
+		<desc>Catch all the standout moments from the latest matches of the 2025 Toyota AFL Premiership Season.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch207_premier_sports.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="247" start="20250401210000 +0000" stop="20250401212000 +0000">
+		<title>AFL Highlights Brisbane v Geelong</title>
+		<desc>Catch all the standout moments from the latest matches of the 2025 Toyota AFL Premiership Season.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch207_premier_sports.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="247" start="20250401212000 +0000" stop="20250401222000 +0000">
@@ -12447,8 +12447,8 @@
 		<icon src="https://poster.starhubgo.com/poster/ch207_premier_sports.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="247" start="20250401222000 +0000" stop="20250402001000 +0000">
-		<title>Super Rugby Force v Highlanders</title>
-		<desc>The 2025 Super Rugby featuring teams from Australia, Fiji, New Zealand and a combined team from Samoa, Tonga and other Pacific Island nations.</desc>
+		<title>URC Glasgow Warriors v Lions</title>
+		<desc>Glasgow Warriors look to pick up a big win under the Scotstoun lights as they take on the Emirates Lions in the URC.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch207_premier_sports.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="247" start="20250402001000 +0000" stop="20250402020000 +0000">
@@ -12499,11 +12499,6 @@
 	<programme channel="247" start="20250402131000 +0000" stop="20250402141000 +0000">
 		<title>NRL Try Time</title>
 		<desc>A round-up of all the tries and key moments from the latest round of fixtures in the 2025 NRL Premiership.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch207_premier_sports.jpg?w=341&amp;h=192" />
-	</programme>
-	<programme channel="247" start="20250402141000 +0000" stop="20250402160000 +0000">
-		<title>URC Glasgow Warriors v Lions</title>
-		<desc>Glasgow Warriors look to pick up a big win under the Scotstoun lights as they take on the Emirates Lions in the URC.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch207_premier_sports.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="303" start="20250331160000 +0000" stop="20250331161000 +0000">
