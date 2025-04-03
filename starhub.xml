@@ -1127,7 +1127,7 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/103_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="103" start="20250403140000 +0000" stop="20250403143000 +0000">
-		<title>News Tonight 2025/2026 - EP 3</title>
+		<title>News Tonight - EP 3</title>
 		<desc>(Live) Daily evening updates on top local news and world news.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/103_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
@@ -1177,7 +1177,7 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/103_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="103" start="20250403230000 +0000" stop="20250403233000 +0000">
-		<title>News Tonight 2025/2026 - EP 3</title>
+		<title>News Tonight - EP 3</title>
 		<desc>Daily evening updates on top local news and world news.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/103_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
@@ -2187,7 +2187,7 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/107_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="107" start="20250403150000 +0000" stop="20250403153000 +0000">
-		<title>News Tonight 2025/2026 - EP 3</title>
+		<title>News Tonight - EP 3</title>
 		<desc>Daily evening updates on top local news and world news.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/107_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
@@ -2201,12 +2201,12 @@
 		<desc>(Dual language Mandarin and Korean) Zhen Qingxiu confronts Cui Shujing, demanding that she reinstate Jin Yingxin or risk having her past exposed to Jiang Zhongquan. When Jin Yingxin urges Pu Zhenshun to treat Li Duojing better, he finally confesses that he truly loves her instead.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/107_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="107" start="20250403173000 +0000" stop="20250403182500 +0000">
+	<programme channel="107" start="20250403173000 +0000" stop="20250403183000 +0000">
 		<title>A Good Supper - EP 12</title>
 		<desc>(Dual language Mandarin and Korean) Jin Yingxin discovers Zhen Qingxiu accepts money from Cui Shujing for her studies. Zhen Qingxiu then reveals Cui Shujing's past betrayal, and upon discovering the truth, Jin Yingxin returns the money to her in front of Xu Minjing and vows to seek justice for Zhen Qingxiu.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/107_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="107" start="20250403182500 +0000" stop="20250403220000 +0000">
+	<programme channel="107" start="20250403183000 +0000" stop="20250403220000 +0000">
 		<title>End of transmission</title>
 		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_channels2/107_1920x1080_HTV.png?w=341&amp;h=192" />
@@ -2379,11 +2379,6 @@
 	<programme channel="107" start="20250404140000 +0000" stop="20250404150000 +0000">
 		<title>Story of Kunning Palace - EP 16</title>
 		<desc>Jiang Xue Ning's unrelenting desire to become empress eventually strains her bond with her childhood friend Yan Lin and leads to the arrest of the noble Official Zhang Zhe. Guilt and remorse begin to seep in when her short-lived reign as the empress comes to an end. With the help of Yan Lin as the general, rebels seize the capital and ruthlessly exterminate the entire royal family.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/107_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="107" start="20250404150000 +0000" stop="20250404153000 +0000">
-		<title>News Tonight - EP 4</title>
-		<desc>Daily evening updates on top local news and world news.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/107_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="107" start="20250404153000 +0000" stop="20250404163000 +0000">
@@ -11473,7 +11468,7 @@
 	</programme>
 	<programme channel="221" start="20250403180000 +0000" stop="20250403185000 +0000">
 		<title>MATCHDAY LIVE (Live)</title>
-		<desc>Glenn Hoddle and Tim Sherwood provide the expert analysis for Chelsea v Tottenham, live from Stamford Bridge.</desc>
+		<desc>This midweek Matchweek in the Premier League concludes with a London derby as Chelsea take on Spurs at Stamford Bridge, with expert insight from Glenn Hoddle and Tim Sherwood.</desc>
 		<icon src="https://poster.starhubgo.com/poster/matchday_live_V2.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="221" start="20250403185000 +0000" stop="20250403210000 +0000">
@@ -11503,7 +11498,7 @@
 	</programme>
 	<programme channel="221" start="20250403233000 +0000" stop="20250404003000 +0000">
 		<title>REVIEW - THU 03 APR</title>
-		<desc>Highlights from the latest Premier League Matchweek. Review incorporates all the key moments and manager reaction from every fixture, making it a must-see programme for all Premier League fans.</desc>
+		<desc>Highlights of every Matchweek 30 fixture, featuring two blockbuster derbies; the Merseyside clash between Liverpool and Everton, and the midweek finale as Chelsea face Spurs in a London showdown.</desc>
 		<icon src="https://poster.starhubgo.com/poster/pl_review_V2.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="221" start="20250404003000 +0000" stop="20250404010000 +0000">
@@ -11693,7 +11688,7 @@
 	</programme>
 	<programme channel="222" start="20250403160000 +0000" stop="20250403165500 +0000">
 		<title>1-to-11 2024/25 - EP 15</title>
-		<desc>Former Premier League stars select their dream teams from the best they played with or against, guiding us through their picks with stories from on and off the pitch.</desc>
+		<desc>Premier League striker Glenn Murray builds his ultimate One-to-Eleven, selecting the best he’s played with. A key figure in Brighton’s rise to the top flight and a proven goal scorer, Glenn shares stories from his career and what it takes to succeed at the highest level. Find out which stars make his lineup.</desc>
 		<icon src="https://poster.starhubgo.com/poster/1_to_11_V2.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="222" start="20250403165500 +0000" stop="20250403185000 +0000">
@@ -12118,7 +12113,7 @@
 	</programme>
 	<programme channel="232" start="20250403160000 +0000" stop="20250403165500 +0000">
 		<title>1-to-11 2024/25 - EP 15</title>
-		<desc>Former Premier League stars select their dream teams from the best they played with or against, guiding us through their picks with stories from on and off the pitch.</desc>
+		<desc>Premier League striker Glenn Murray builds his ultimate One-to-Eleven, selecting the best he’s played with. A key figure in Brighton’s rise to the top flight and a proven goal scorer, Glenn shares stories from his career and what it takes to succeed at the highest level. Find out which stars make his lineup.</desc>
 		<icon src="https://poster.starhubgo.com/poster/1_to_11_V2.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="232" start="20250403165500 +0000" stop="20250403185000 +0000">
@@ -21938,7 +21933,7 @@
 	</programme>
 	<programme channel="603" start="20250403132500 +0000" stop="20250403140000 +0000">
 		<title>The Righteous Gemstones S4 - EP 4</title>
-		<desc>Despite constant bickering, the Gemstone family is tested as they attempt to move forward without letting go of their storied past.</desc>
+		<desc>At the Gemstone lake house, Baby Billy and the siblings secretly plot to end Eli’s new relationship.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch633_TheRighteousGemstonesS4.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="603" start="20250403140000 +0000" stop="20250403153000 +0000">
