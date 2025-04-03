@@ -2201,12 +2201,12 @@
 		<desc>(Dual language Mandarin and Korean) Zhen Qingxiu confronts Cui Shujing, demanding that she reinstate Jin Yingxin or risk having her past exposed to Jiang Zhongquan. When Jin Yingxin urges Pu Zhenshun to treat Li Duojing better, he finally confesses that he truly loves her instead.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/107_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="107" start="20250403173000 +0000" stop="20250403183000 +0000">
+	<programme channel="107" start="20250403173000 +0000" stop="20250403182500 +0000">
 		<title>A Good Supper - EP 12</title>
 		<desc>(Dual language Mandarin and Korean) Jin Yingxin discovers Zhen Qingxiu accepts money from Cui Shujing for her studies. Zhen Qingxiu then reveals Cui Shujing's past betrayal, and upon discovering the truth, Jin Yingxin returns the money to her in front of Xu Minjing and vows to seek justice for Zhen Qingxiu.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/107_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="107" start="20250403183000 +0000" stop="20250403220000 +0000">
+	<programme channel="107" start="20250403182500 +0000" stop="20250403220000 +0000">
 		<title>End of transmission</title>
 		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_channels2/107_1920x1080_HTV.png?w=341&amp;h=192" />
@@ -25726,21 +25726,6 @@
 		<desc>Richard Quest speaks to the top names in global business to bring viewers the bottom line.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch711_quest_means_business.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="711" start="20250402210000 +0000" stop="20250402213000 +0000">
-		<title>The Lead</title>
-		<desc>Jake Tapper covers all the day's top stories around the country and the globe, from politics to money, sports to popular culture.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch711_the_lead_with_jake_tapper.jpg?w=341&amp;h=192" />
-	</programme>
-	<programme channel="711" start="20250402213000 +0000" stop="20250402220000 +0000">
-		<title>World Sport</title>
-		<desc>Daily sports show features major stories and issues making news in the world of sports.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch711_world_sport.jpg?w=341&amp;h=192" />
-	</programme>
-	<programme channel="711" start="20250402220000 +0000" stop="20250402230000 +0000">
-		<title>CNN Newsroom</title>
-		<desc>Live context and clarity to the day's top stories from around the world.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch711_cnn_newsroom.jpg?w=960&amp;h=540" />
-	</programme>
 	<programme channel="711" start="20250402230000 +0000" stop="20250403000000 +0000">
 		<title>Erin Burnett OutFront</title>
 		<desc>Erin Burnett stays ahead of the headlines, delivering a show that's in-depth and informative.</desc>
@@ -25797,9 +25782,9 @@
 		<icon src="https://poster.starhubgo.com/poster/ch711_cnn_newsroom.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="711" start="20250403080000 +0000" stop="20250403090000 +0000">
-		<title>Amanpour</title>
-		<desc>Christiane Amanpour provides her powerful interview skills and provocative analysis on global stories that matter to you.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch711_amanpour.jpg?w=341&amp;h=192" />
+		<title>Early Start</title>
+		<desc>Start your day with all the information you need. This hour gives you the stories that will shape the next 24. On the agenda: U.S. politics and global affairs, what to expect in the business world, and key cultural and sporting events.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch711_early_start.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="711" start="20250403090000 +0000" stop="20250403100000 +0000">
 		<title>Early Start</title>
@@ -25945,11 +25930,6 @@
 		<title>Amanpour</title>
 		<desc>Christiane Amanpour provides her powerful interview skills and provocative analysis on global stories that matter to you.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch711_amanpour.jpg?w=341&amp;h=192" />
-	</programme>
-	<programme channel="711" start="20250404090000 +0000" stop="20250404100000 +0000">
-		<title>Early Start</title>
-		<desc>Start your day with all the information you need. This hour gives you the stories that will shape the next 24. On the agenda: U.S. politics and global affairs, what to expect in the business world, and key cultural and sporting events.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch711_early_start.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="711" start="20250404100000 +0000" stop="20250404110000 +0000">
 		<title>CNN This Morning</title>
@@ -33064,7 +33044,7 @@
 	<programme channel="838" start="20250403020000 +0000" stop="20250403023000 +0000">
 		<title>Yum Cha</title>
 		<desc>Focusing on the rich heritage of Cantonese tea culture, this show delves into the history of traditional Cantonese tea houses, as our hosts visit old and new tea houses, interview dim sum chefs, and experience tea culture first-hand.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch838_tvb_logo.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch838_yum_cha.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="838" start="20250403023000 +0000" stop="20250403030000 +0000">
 		<title>Gourmet Express</title>
@@ -33109,7 +33089,7 @@
 	<programme channel="838" start="20250403073000 +0000" stop="20250403080000 +0000">
 		<title>Yum Cha</title>
 		<desc>Focusing on the rich heritage of Cantonese tea culture, this show delves into the history of traditional Cantonese tea houses, as our hosts visit old and new tea houses, interview dim sum chefs, and experience tea culture first-hand.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch838_tvb_logo.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch838_yum_cha.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="838" start="20250403080000 +0000" stop="20250403083000 +0000">
 		<title>Off the Grid (Sr.2)</title>
@@ -33164,7 +33144,7 @@
 	<programme channel="838" start="20250403143000 +0000" stop="20250403150000 +0000">
 		<title>Yum Cha</title>
 		<desc>Focusing on the rich heritage of Cantonese tea culture, this show delves into the history of traditional Cantonese tea houses, as our hosts visit old and new tea houses, interview dim sum chefs, and experience tea culture first-hand.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch838_tvb_logo.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch838_yum_cha.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="838" start="20250403150000 +0000" stop="20250403151500 +0000">
 		<title>Neigbuy Sale - Food and Beverage (Sr.2)</title>
@@ -34809,7 +34789,7 @@
 	<programme channel="996" start="20250403020000 +0000" stop="20250403023000 +0000">
 		<title>Yum Cha</title>
 		<desc>Focusing on the rich heritage of Cantonese tea culture, this show delves into the history of traditional Cantonese tea houses, as our hosts visit old and new tea houses, interview dim sum chefs, and experience tea culture first-hand.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch838_tvb_logo.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch838_yum_cha.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="996" start="20250403023000 +0000" stop="20250403030000 +0000">
 		<title>Gourmet Express</title>
@@ -34854,7 +34834,7 @@
 	<programme channel="996" start="20250403073000 +0000" stop="20250403080000 +0000">
 		<title>Yum Cha</title>
 		<desc>Focusing on the rich heritage of Cantonese tea culture, this show delves into the history of traditional Cantonese tea houses, as our hosts visit old and new tea houses, interview dim sum chefs, and experience tea culture first-hand.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch838_tvb_logo.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch838_yum_cha.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="996" start="20250403080000 +0000" stop="20250403083000 +0000">
 		<title>Off the Grid (Sr.2)</title>
@@ -34909,7 +34889,7 @@
 	<programme channel="996" start="20250403143000 +0000" stop="20250403150000 +0000">
 		<title>Yum Cha</title>
 		<desc>Focusing on the rich heritage of Cantonese tea culture, this show delves into the history of traditional Cantonese tea houses, as our hosts visit old and new tea houses, interview dim sum chefs, and experience tea culture first-hand.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch838_tvb_logo.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch838_yum_cha.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="996" start="20250403150000 +0000" stop="20250403151500 +0000">
 		<title>Neigbuy Sale - Food and Beverage (Sr.2)</title>
