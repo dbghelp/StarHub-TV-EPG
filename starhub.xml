@@ -5541,10 +5541,15 @@
 		<desc>Stay tuned for more entertaining music-based programming on Sun Music!</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch134_massmasala.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="134" start="20250405153000 +0000" stop="20250405163000 +0000">
+	<programme channel="134" start="20250405153000 +0000" stop="20250405160000 +0000">
 		<title>Soup Songs</title>
 		<desc>Enjoy more of the best songs on Sun Music!</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch134_soup_song.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="134" start="20250405160000 +0000" stop="20250405163000 +0000">
+		<title>Hits of Vijay</title>
+		<desc>Enjoy the greatest Hits of Vijay, here on Sun Music!</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch134_hits_of_vijay.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="134" start="20250405163000 +0000" stop="20250405173000 +0000">
 		<title>Marana Kuthu</title>
@@ -9271,34 +9276,79 @@
 		<desc>Movie starring Sudhakar and Radhika directed by M.A.Thirumugam, music by M.S.Viswanathan</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/159_1920x1080_HTV.png?w=960&amp;h=540" />
 	</programme>
-	<programme channel="159" start="20250405040000 +0000" stop="20250405100000 +0000">
-		<title>Information Not Available</title>
-		<desc />
+	<programme channel="159" start="20250405010000 +0000" stop="20250405013000 +0000">
+		<title>Fillers</title>
+		<desc>Fillers</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/159_1920x1080_HTV.png?w=960&amp;h=540" />
 	</programme>
-	<programme channel="159" start="20250405100000 +0000" stop="20250405160000 +0000">
-		<title>Information Not Available</title>
-		<desc />
+	<programme channel="159" start="20250405013000 +0000" stop="20250405043000 +0000">
+		<title>Movie - Thirudan Police</title>
+		<desc>Vishwa, a lazy and good-for-nothing man, does not like his father, who is an honest constable. After his father gets murdered, he transforms himself into a disciplined police officer to take revenge.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/159_1920x1080_HTV.png?w=960&amp;h=540" />
 	</programme>
-	<programme channel="159" start="20250405160000 +0000" stop="20250405220000 +0000">
-		<title>Information Not Available</title>
-		<desc />
+	<programme channel="159" start="20250405043000 +0000" stop="20250405073000 +0000">
+		<title>Movie - Swayamvaram</title>
+		<desc>Kuselan, a wealthy man with nine children, wishes to see them all married before he passes away. As a result, he offers a large dowry and organises detailed interviews with the chosen suitors.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/159_1920x1080_HTV.png?w=960&amp;h=540" />
 	</programme>
-	<programme channel="159" start="20250405220000 +0000" stop="20250406040000 +0000">
-		<title>Information Not Available</title>
-		<desc />
+	<programme channel="159" start="20250405073000 +0000" stop="20250405103000 +0000">
+		<title>Movie - Oorkaavalan</title>
+		<desc>Despite protests, Kangeyan helps his brother marry a girl who is engaged to another man. But his brother is soon killed. Trouble ensues when Kangeyan decides to get his brother's widow re-married.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/159_1920x1080_HTV.png?w=960&amp;h=540" />
 	</programme>
-	<programme channel="159" start="20250406040000 +0000" stop="20250406100000 +0000">
-		<title>Information Not Available</title>
-		<desc />
+	<programme channel="159" start="20250405103000 +0000" stop="20250405133000 +0000">
+		<title>Movie - Captain Miller</title>
+		<desc>A renegade Captain and his unconventional outlaws execute daring heists in the 1930s and 1940s. Miller must decide whether to continue running or confront the challenges head-on.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/159_1920x1080_HTV.png?w=960&amp;h=540" />
 	</programme>
-	<programme channel="159" start="20250406100000 +0000" stop="20250406160000 +0000">
-		<title>Information Not Available</title>
-		<desc />
+	<programme channel="159" start="20250405133000 +0000" stop="20250405170000 +0000">
+		<title>Movie - Sura</title>
+		<desc>When Samuthira Raja, a corrupt politician tries to seize the villagers' land, Sura, a brave and powerful fisherman, sets out to fight against him.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/159_1920x1080_HTV.png?w=960&amp;h=540" />
+	</programme>
+	<programme channel="159" start="20250405170000 +0000" stop="20250405200000 +0000">
+		<title>Movie - Oru nalla naal parthu soldren</title>
+		<desc>A tribal man, bound by tradition, arrives in the city to kidnap his betrothed. He incidentally also meets the girl's lover who, after realising his intentions, sets out to rescue her.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/159_1920x1080_HTV.png?w=960&amp;h=540" />
+	</programme>
+	<programme channel="159" start="20250405200000 +0000" stop="20250405223000 +0000">
+		<title>Movie - Nattai Thirudathe</title>
+		<desc>Movie starring Janakaraj, Sumitra, Y G Mahendran and directed by Senthilnathan.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/159_1920x1080_HTV.png?w=960&amp;h=540" />
+	</programme>
+	<programme channel="159" start="20250405223000 +0000" stop="20250406010000 +0000">
+		<title>Movie - Neer Nilam Neruppu</title>
+		<desc>Chellama makes her sister marry her husband Kuppan after she is unable to conceive. Soon, they are blessed with a child. Kuppan is then smitten with Rajathi, jeopardising the lives of his two wives.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/159_1920x1080_HTV.png?w=960&amp;h=540" />
+	</programme>
+	<programme channel="159" start="20250406010000 +0000" stop="20250406013000 +0000">
+		<title>Fillers</title>
+		<desc>Fillers</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/159_1920x1080_HTV.png?w=960&amp;h=540" />
+	</programme>
+	<programme channel="159" start="20250406013000 +0000" stop="20250406043000 +0000">
+		<title>Movie - Sri RamaRajiyam</title>
+		<desc>Rama,the son of king Dhasaratha moves out of his kingdom,with his wife Sita and brother Laxmana to live in the forest for fourteen years.Ravana,the king of Lanka kidnaps Sita.Rama defeats him in a war and gets back Sita.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/159_1920x1080_HTV.png?w=960&amp;h=540" />
+	</programme>
+	<programme channel="159" start="20250406043000 +0000" stop="20250406073000 +0000">
+		<title>Movie - Thanga Magan (New)</title>
+		<desc>Tamizh leads a peaceful life, he has a good job and a loving wife, but everything is shattered when his father commits suicide. So, he tries to uncover the reason that prompted his father to kill himself.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/159_1920x1080_HTV.png?w=960&amp;h=540" />
+	</programme>
+	<programme channel="159" start="20250406073000 +0000" stop="20250406103000 +0000">
+		<title>Movie - Kushi</title>
+		<desc>College friends Jenny and Shiva part ways due to a misunderstanding. Despite being in love and realising that they cannot live without each other, their egos prevent them from uniting.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/159_1920x1080_HTV.png?w=960&amp;h=540" />
+	</programme>
+	<programme channel="159" start="20250406103000 +0000" stop="20250406133000 +0000">
+		<title>Movie - 96</title>
+		<desc>K Ramachandran, a photographer, gets nostalgic after he visits his school in his hometown. During a reunion with his classmates, he meets Janaki, his childhood sweetheart.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/159_1920x1080_HTV.png?w=960&amp;h=540" />
+	</programme>
+	<programme channel="159" start="20250406133000 +0000" stop="20250406170000 +0000">
+		<title>Movie - Dev</title>
+		<desc>Dev, an adventure-loving young man, often embarks on escapades with his best friend, Vicky. His life takes a turn when Vicky tries to set him up with Meghna, a USA-based businesswoman.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/159_1920x1080_HTV.png?w=960&amp;h=540" />
 	</programme>
 	<programme channel="201" start="20250404150000 +0000" stop="20250404210000 +0000">
@@ -29281,609 +29331,639 @@
 		<desc>NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="812" start="20250405001000 +0000" stop="20250405010000 +0000">
-		<title>Aso Jinja</title>
-		<desc>This shrine in Kumamoto Pref. was razed in the 2016 earthquake. The seven-year restoration fused traditional craftsmanship with the latest technology.</desc>
+	<programme channel="812" start="20250405001000 +0000" stop="20250405001500 +0000">
+		<title>Chatroom Japan</title>
+		<desc>German urbanist Chris Dimmer focuses on the community-building potential of Japan's public bathhouses (sento) - he hopes that people living alone can rediscover the value of these bathhouses.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="812" start="20250405001500 +0000" stop="20250405003000 +0000">
+		<title>Japan's Top Inventions</title>
+		<desc>Discover the stories behind renowned Japanese products alongside our reporter. This time: Massage chairs.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="812" start="20250405003000 +0000" stop="20250405010000 +0000">
+		<title>Japanology Plus</title>
+		<desc>Nicoleta Oprisan from Romania is highly skilled at ikebana, the Japanese art of flower arranging - here she speaks about ikebana's power to communicate without words in a Japanophiles interview.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250405010000 +0000" stop="20250405011000 +0000">
 		<title>NHK Newsline</title>
-		<desc>NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
+		<desc>NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250405011000 +0000" stop="20250405020000 +0000">
-		<title>The Perfect 2-Hour Guide: Kyoto</title>
-		<desc>Take a journey through Kyoto's historic Kiyomizu-dera Temple, from its iconic stage and tranquil sacred spring. We unveil the definitive two-hour condensed course, while basking in springtime beauty.</desc>
+		<title>Aso Jinja</title>
+		<desc>A shrine in Kumamoto Prefecture was razed in the 2016 earthquake, but its seven-year restoration fused traditional craftsmanship with the latest technology.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250405020000 +0000" stop="20250405021000 +0000">
 		<title>NHK Newsline</title>
-		<desc>NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
+		<desc>NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="812" start="20250405021000 +0000" stop="20250405025500 +0000">
-		<title>Train Cruise</title>
-		<desc>Travel Iwate Pref. from popular destination Morioka to the Pacific coast. Eat your fill of soba noodles, dive into in a fantastical world, fish with cucumbers, and go spelunking.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="812" start="20250405025500 +0000" stop="20250405030000 +0000">
-		<title>Japanology Plus Mini</title>
-		<desc>Japanology Plus explores Japanese life and culture. In this 5-minute digest, we look at the significance of cats in Japan.</desc>
+	<programme channel="812" start="20250405021000 +0000" stop="20250405030000 +0000">
+		<title>The Perfect 2-Hour Guide</title>
+		<desc>Kyoto: Journey through Kyoto's historic Kiyomizu-dera Temple - from its iconic stage and tranquil sacred spring, we unveil the definitive two-hour condensed course while basking in springtime beauty.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250405030000 +0000" stop="20250405031000 +0000">
 		<title>NHK Newsline</title>
-		<desc>NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
+		<desc>NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="812" start="20250405031000 +0000" stop="20250405034000 +0000">
-		<title>Design X Stories</title>
-		<desc>Today's theme: Evolving Renovations. New approaches use modern tech to reveal and showcase a building's history. From a historic florist to new approaches to office environments, explore renovations.</desc>
+	<programme channel="812" start="20250405031000 +0000" stop="20250405035500 +0000">
+		<title>Train Cruise</title>
+		<desc>Travel through Iwate Prefecture from the popular destination of Morioka to the Pacific coast - eat your fill of soba noodles, dive into a fantastical world, fish with cucumbers and go spelunking.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="812" start="20250405034000 +0000" stop="20250405035000 +0000">
-		<title>U&amp;I</title>
-		<desc>This show for kids promotes a greater understanding for people with difficulties and helps develop empathy. With the help of two fairies, the main character thinks about what can be done to help.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="812" start="20250405035000 +0000" stop="20250405040000 +0000">
-		<title>Texico</title>
-		<desc>Learn the principles of programming without a computer. Animated characters provide fun and lucid explanations of 5 core processes: analysis, combination, generalization, abstraction, and simulation.</desc>
+	<programme channel="812" start="20250405035500 +0000" stop="20250405040000 +0000">
+		<title>Japanology Plus mini</title>
+		<desc>Japanology Plus' explores Japanese life and culture - in this digest, we look at scissors. After arriving in Japan, they evolved in unique ways.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250405040000 +0000" stop="20250405041000 +0000">
 		<title>NHK Newsline</title>
-		<desc>NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
+		<desc>NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="812" start="20250405041000 +0000" stop="20250405050000 +0000">
-		<title>Samurai Castles Himeji The Defense</title>
-		<desc>Himeji Castle with its white keep is one of Japan's most famous castles. But its beauty is deceiving. The paths to the keep follow the hill's gradient and hold many surprises for potential attackers.</desc>
+	<programme channel="812" start="20250405041000 +0000" stop="20250405044000 +0000">
+		<title>Design X Stories</title>
+		<desc>Today's theme: Evolving Renovations. New approaches use modern tech to reveal and showcase a building's history - explore renovations from a historic florist to new approaches to office environments.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="812" start="20250405044000 +0000" stop="20250405045000 +0000">
+		<title>u&amp;i</title>
+		<desc>This show for kids promotes a greater understanding for people with difficulties and helps develop empathy - with the help of two fairies, the main character thinks about what can be done to help.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="812" start="20250405045000 +0000" stop="20250405050000 +0000">
+		<title>Texico</title>
+		<desc>Learn programming principles without a computer! Animated characters provide fun and lucid explanations of five core processes: analysis, combination, generalisation, abstraction and simulation.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250405050000 +0000" stop="20250405051000 +0000">
 		<title>NHK Newsline</title>
-		<desc>NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
+		<desc>NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250405051000 +0000" stop="20250405054000 +0000">
-		<title>Japan Delish</title>
-		<desc>Curry rice, one of Japan's most iconic national dishes. Why is this dish born in India so beloved by the Japanese?</desc>
+		<title>Samurai Castles</title>
+		<desc>Himeji Castle with its white keep is one of Japan's most famous castles, but its beauty is deceiving - the paths to the keep follow the hill's gradient and hold many surprises for potential attackers.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250405054000 +0000" stop="20250405055500 +0000">
-		<title>Bosai</title>
-		<desc>What does it take to survive a flood? Japan has developed survival skills for floods through experiences such as typhoons. Find out how to safely navigate flooded streets and escape sinking cars.</desc>
+		<title>Cinematic Journey</title>
+		<desc>Join our explorers as they pursue the cinematic beauty of Japan - in this episode, Kyle Card hikes the newly-designated long trail around majestic Mount Fuji and discovers its secrets.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250405055500 +0000" stop="20250405060000 +0000">
-		<title>Carving The Spirit Of Fishermen</title>
-		<desc>Hokkaido / Takeya Takayuki (model maker) Fishing boats in the herring industry-which thrived here until the 1950s-featured swirling decorations that made a big impression on Takeya, a Hokkaido native.</desc>
+		<title>Core Kyoto Mini</title>
+		<desc>Karesansui is a dry-gardening style of arranging stones and gravel that developed as a place for Buddhist monks in their ascetic training.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250405060000 +0000" stop="20250405061000 +0000">
 		<title>NHK Newsline</title>
-		<desc>NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
+		<desc>NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="812" start="20250405061000 +0000" stop="20250405070000 +0000">
-		<title>Aso Jinja</title>
-		<desc>This shrine in Kumamoto Pref. was razed in the 2016 earthquake. The seven-year restoration fused traditional craftsmanship with the latest technology.</desc>
+	<programme channel="812" start="20250405061000 +0000" stop="20250405064000 +0000">
+		<title>Japan Delish</title>
+		<desc>Curry rice is one of Japan's most iconic national dishes - why is this dish born in India so beloved by the Japanese?</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="812" start="20250405064000 +0000" stop="20250405065500 +0000">
+		<title>Bosai: Science That Can Save Your Life</title>
+		<desc>What does it take to survive a flood? Japan has developed survival skills for floods through experiences such as typhoons - find out how to safely navigate flooded streets and escape sinking cars.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="812" start="20250405065500 +0000" stop="20250405070000 +0000">
+		<title>Carving the Spirit of Fishermen</title>
+		<desc>Hokkaido / Takeya Takayuki (Model Maker): Fishing boats in the herring industry that thrived here until the 1950s featured swirling decorations that made a big impression on Hokkaido native Takeya.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250405070000 +0000" stop="20250405071000 +0000">
 		<title>NHK Newsline</title>
-		<desc>NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
+		<desc>NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250405071000 +0000" stop="20250405080000 +0000">
-		<title>The Perfect 2-Hour Guide: Kyoto</title>
-		<desc>Take a journey through Kyoto's historic Kiyomizu-dera Temple, from its iconic stage and tranquil sacred spring. We unveil the definitive two-hour condensed course, while basking in springtime beauty.</desc>
+		<title>Aso Jinja</title>
+		<desc>A shrine in Kumamoto Prefecture was razed in the 2016 earthquake, but its seven-year restoration fused traditional craftsmanship with the latest technology.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250405080000 +0000" stop="20250405081000 +0000">
 		<title>NHK Newsline</title>
-		<desc>NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
+		<desc>NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250405081000 +0000" stop="20250405090000 +0000">
-		<title>Samurai Castles Himeji The Defense</title>
-		<desc>Himeji Castle with its white keep is one of Japan's most famous castles. But its beauty is deceiving. The paths to the keep follow the hill's gradient and hold many surprises for potential attackers.</desc>
+		<title>The Perfect 2-Hour Guide</title>
+		<desc>Kyoto: Journey through Kyoto's historic Kiyomizu-dera Temple - from its iconic stage and tranquil sacred spring, we unveil the definitive two-hour condensed course while basking in springtime beauty.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250405090000 +0000" stop="20250405091000 +0000">
 		<title>NHK Newsline</title>
-		<desc>NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
+		<desc>NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250405091000 +0000" stop="20250405094000 +0000">
-		<title>Design X Stories</title>
-		<desc>Today's theme: Evolving Renovations. New approaches use modern tech to reveal and showcase a building's history. From a historic florist to new approaches to office environments, explore renovations.</desc>
+		<title>Samurai Castles</title>
+		<desc>Himeji Castle with its white keep is one of Japan's most famous castles, but its beauty is deceiving - the paths to the keep follow the hill's gradient and hold many surprises for potential attackers.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="812" start="20250405094000 +0000" stop="20250405095000 +0000">
-		<title>U&amp;I</title>
-		<desc>This show for kids promotes a greater understanding for people with difficulties and helps develop empathy. With the help of two fairies, the main character thinks about what can be done to help.</desc>
+	<programme channel="812" start="20250405094000 +0000" stop="20250405095500 +0000">
+		<title>Cinematic Journey</title>
+		<desc>Join our explorers as they pursue the cinematic beauty of Japan - in this episode, Kyle Card hikes the newly-designated long trail around majestic Mount Fuji and discovers its secrets.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="812" start="20250405095000 +0000" stop="20250405100000 +0000">
-		<title>Texico</title>
-		<desc>Learn the principles of programming without a computer. Animated characters provide fun and lucid explanations of 5 core processes: analysis, combination, generalization, abstraction, and simulation.</desc>
+	<programme channel="812" start="20250405095500 +0000" stop="20250405100000 +0000">
+		<title>Core Kyoto Mini</title>
+		<desc>Karesansui is a dry-gardening style of arranging stones and gravel that developed as a place for Buddhist monks in their ascetic training.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250405100000 +0000" stop="20250405101000 +0000">
 		<title>NHK Newsline</title>
-		<desc>NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
+		<desc>NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="812" start="20250405101000 +0000" stop="20250405105500 +0000">
-		<title>Train Cruise</title>
-		<desc>Travel Iwate Pref. from popular destination Morioka to the Pacific coast. Eat your fill of soba noodles, dive into in a fantastical world, fish with cucumbers, and go spelunking.</desc>
+	<programme channel="812" start="20250405101000 +0000" stop="20250405104000 +0000">
+		<title>Design X Stories</title>
+		<desc>Today's theme: Evolving Renovations. New approaches use modern tech to reveal and showcase a building's history - explore renovations from a historic florist to new approaches to office environments.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="812" start="20250405105500 +0000" stop="20250405110000 +0000">
-		<title>Japanology Plus Mini</title>
-		<desc>Japanology Plus explores Japanese life and culture. In this 5-minute digest, we look at the significance of cats in Japan.</desc>
+	<programme channel="812" start="20250405104000 +0000" stop="20250405105000 +0000">
+		<title>u&amp;i</title>
+		<desc>This show for kids promotes a greater understanding for people with difficulties and helps develop empathy - with the help of two fairies, the main character thinks about what can be done to help.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="812" start="20250405105000 +0000" stop="20250405110000 +0000">
+		<title>Texico</title>
+		<desc>Learn programming principles without a computer! Animated characters provide fun and lucid explanations of five core processes: analysis, combination, generalisation, abstraction and simulation.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250405110000 +0000" stop="20250405111000 +0000">
 		<title>NHK Newsline</title>
-		<desc>NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
+		<desc>NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="812" start="20250405111000 +0000" stop="20250405114000 +0000">
-		<title>Japan Delish</title>
-		<desc>Curry rice, one of Japan's most iconic national dishes. Why is this dish born in India so beloved by the Japanese?</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="812" start="20250405114000 +0000" stop="20250405115500 +0000">
-		<title>Bosai</title>
-		<desc>What does it take to survive a flood? Japan has developed survival skills for floods through experiences such as typhoons. Find out how to safely navigate flooded streets and escape sinking cars.</desc>
+	<programme channel="812" start="20250405111000 +0000" stop="20250405115500 +0000">
+		<title>Train Cruise</title>
+		<desc>Travel through Iwate Prefecture from the popular destination of Morioka to the Pacific coast - eat your fill of soba noodles, dive into a fantastical world, fish with cucumbers and go spelunking.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250405115500 +0000" stop="20250405120000 +0000">
-		<title>Carving The Spirit Of Fishermen</title>
-		<desc>Hokkaido / Takeya Takayuki (model maker) Fishing boats in the herring industry-which thrived here until the 1950s-featured swirling decorations that made a big impression on Takeya, a Hokkaido native.</desc>
+		<title>Japanology Plus mini</title>
+		<desc>Japanology Plus' explores Japanese life and culture - in this digest, we look at scissors. After arriving in Japan, they evolved in unique ways.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250405120000 +0000" stop="20250405121000 +0000">
 		<title>NHK Newsline</title>
-		<desc>NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
+		<desc>NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="812" start="20250405121000 +0000" stop="20250405130000 +0000">
-		<title>Aso Jinja</title>
-		<desc>This shrine in Kumamoto Pref. was razed in the 2016 earthquake. The seven-year restoration fused traditional craftsmanship with the latest technology.</desc>
+	<programme channel="812" start="20250405121000 +0000" stop="20250405124000 +0000">
+		<title>Japan Delish</title>
+		<desc>Curry rice is one of Japan's most iconic national dishes - why is this dish born in India so beloved by the Japanese?</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="812" start="20250405124000 +0000" stop="20250405125500 +0000">
+		<title>Bosai: Science That Can Save Your Life</title>
+		<desc>What does it take to survive a flood? Japan has developed survival skills for floods through experiences such as typhoons - find out how to safely navigate flooded streets and escape sinking cars.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="812" start="20250405125500 +0000" stop="20250405130000 +0000">
+		<title>Carving the Spirit of Fishermen</title>
+		<desc>Hokkaido / Takeya Takayuki (Model Maker): Fishing boats in the herring industry that thrived here until the 1950s featured swirling decorations that made a big impression on Hokkaido native Takeya.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250405130000 +0000" stop="20250405131000 +0000">
 		<title>NHK Newsline</title>
-		<desc>NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
+		<desc>NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250405131000 +0000" stop="20250405140000 +0000">
-		<title>The Perfect 2-Hour Guide: Kyoto</title>
-		<desc>Take a journey through Kyoto's historic Kiyomizu-dera Temple, from its iconic stage and tranquil sacred spring. We unveil the definitive two-hour condensed course, while basking in springtime beauty.</desc>
+		<title>Aso Jinja</title>
+		<desc>A shrine in Kumamoto Prefecture was razed in the 2016 earthquake, but its seven-year restoration fused traditional craftsmanship with the latest technology.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250405140000 +0000" stop="20250405141000 +0000">
 		<title>NHK Newsline</title>
-		<desc>NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
+		<desc>NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="812" start="20250405141000 +0000" stop="20250405144000 +0000">
-		<title>Biz Stream</title>
-		<desc>This upbeat program combines business and economic news with in-depth feature stories that give you a closer look at the latest trends within Japan and around the world.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="812" start="20250405144000 +0000" stop="20250405145000 +0000">
-		<title>U&amp;I</title>
-		<desc>This show for kids promotes a greater understanding for people with difficulties and helps develop empathy. With the help of two fairies, the main character thinks about what can be done to help.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="812" start="20250405145000 +0000" stop="20250405150000 +0000">
-		<title>Texico</title>
-		<desc>Learn the principles of programming without a computer. Animated characters provide fun and lucid explanations of 5 core processes: analysis, combination, generalization, abstraction, and simulation.</desc>
+	<programme channel="812" start="20250405141000 +0000" stop="20250405150000 +0000">
+		<title>The Perfect 2-Hour Guide</title>
+		<desc>Kyoto: Journey through Kyoto's historic Kiyomizu-dera Temple - from its iconic stage and tranquil sacred spring, we unveil the definitive two-hour condensed course while basking in springtime beauty.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250405150000 +0000" stop="20250405151000 +0000">
 		<title>NHK Newsline</title>
-		<desc>NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
+		<desc>NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="812" start="20250405151000 +0000" stop="20250405155500 +0000">
-		<title>Train Cruise</title>
-		<desc>Travel Iwate Pref. from popular destination Morioka to the Pacific coast. Eat your fill of soba noodles, dive into in a fantastical world, fish with cucumbers, and go spelunking.</desc>
+	<programme channel="812" start="20250405151000 +0000" stop="20250405154000 +0000">
+		<title>Biz Stream</title>
+		<desc>This episode features business models designed to help Japan's hikikomori (individuals who have withdrawn from society) to socialize, learn, and even find employment.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="812" start="20250405155500 +0000" stop="20250405160000 +0000">
-		<title>Japanology Plus Mini</title>
-		<desc>Japanology Plus explores Japanese life and culture. In this 5-minute digest, we look at the significance of cats in Japan.</desc>
+	<programme channel="812" start="20250405154000 +0000" stop="20250405155000 +0000">
+		<title>u&amp;i</title>
+		<desc>This show for kids promotes a greater understanding for people with difficulties and helps develop empathy - with the help of two fairies, the main character thinks about what can be done to help.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="812" start="20250405155000 +0000" stop="20250405160000 +0000">
+		<title>Texico</title>
+		<desc>Learn programming principles without a computer! Animated characters provide fun and lucid explanations of five core processes: analysis, combination, generalisation, abstraction and simulation.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250405160000 +0000" stop="20250405161000 +0000">
 		<title>NHK Newsline</title>
-		<desc>NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
+		<desc>NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="812" start="20250405161000 +0000" stop="20250405170000 +0000">
-		<title>Samurai Castles Himeji The Defense</title>
-		<desc>Himeji Castle with its white keep is one of Japan's most famous castles. But its beauty is deceiving. The paths to the keep follow the hill's gradient and hold many surprises for potential attackers.</desc>
+	<programme channel="812" start="20250405161000 +0000" stop="20250405165500 +0000">
+		<title>Train Cruise</title>
+		<desc>Travel through Iwate Prefecture from the popular destination of Morioka to the Pacific coast - eat your fill of soba noodles, dive into a fantastical world, fish with cucumbers and go spelunking.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="812" start="20250405165500 +0000" stop="20250405170000 +0000">
+		<title>Japanology Plus mini</title>
+		<desc>Japanology Plus' explores Japanese life and culture - in this digest, we look at scissors. After arriving in Japan, they evolved in unique ways.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250405170000 +0000" stop="20250405171000 +0000">
 		<title>NHK Newsline</title>
-		<desc>NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
+		<desc>NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250405171000 +0000" stop="20250405174000 +0000">
-		<title>Japan Delish</title>
-		<desc>Curry rice, one of Japan's most iconic national dishes. Why is this dish born in India so beloved by the Japanese?</desc>
+		<title>Samurai Castles</title>
+		<desc>Himeji Castle with its white keep is one of Japan's most famous castles, but its beauty is deceiving - the paths to the keep follow the hill's gradient and hold many surprises for potential attackers.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250405174000 +0000" stop="20250405175500 +0000">
-		<title>Bosai</title>
-		<desc>What does it take to survive a flood? Japan has developed survival skills for floods through experiences such as typhoons. Find out how to safely navigate flooded streets and escape sinking cars.</desc>
+		<title>Cinematic Journey</title>
+		<desc>Join our explorers as they pursue the cinematic beauty of Japan - in this episode, Kyle Card hikes the newly-designated long trail around majestic Mount Fuji and discovers its secrets.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250405175500 +0000" stop="20250405180000 +0000">
-		<title>Carving The Spirit Of Fishermen</title>
-		<desc>Hokkaido / Takeya Takayuki (model maker) Fishing boats in the herring industry-which thrived here until the 1950s-featured swirling decorations that made a big impression on Takeya, a Hokkaido native.</desc>
+		<title>Core Kyoto Mini</title>
+		<desc>Karesansui is a dry-gardening style of arranging stones and gravel that developed as a place for Buddhist monks in their ascetic training.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250405180000 +0000" stop="20250405181000 +0000">
 		<title>NHK Newsline</title>
-		<desc>NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
+		<desc>NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="812" start="20250405181000 +0000" stop="20250405190000 +0000">
-		<title>Aso Jinja</title>
-		<desc>This shrine in Kumamoto Pref. was razed in the 2016 earthquake. The seven-year restoration fused traditional craftsmanship with the latest technology.</desc>
+	<programme channel="812" start="20250405181000 +0000" stop="20250405184000 +0000">
+		<title>Japan Delish</title>
+		<desc>Curry rice is one of Japan's most iconic national dishes - why is this dish born in India so beloved by the Japanese?</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="812" start="20250405184000 +0000" stop="20250405185500 +0000">
+		<title>Bosai: Science That Can Save Your Life</title>
+		<desc>What does it take to survive a flood? Japan has developed survival skills for floods through experiences such as typhoons - find out how to safely navigate flooded streets and escape sinking cars.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="812" start="20250405185500 +0000" stop="20250405190000 +0000">
+		<title>Carving the Spirit of Fishermen</title>
+		<desc>Hokkaido / Takeya Takayuki (Model Maker): Fishing boats in the herring industry that thrived here until the 1950s featured swirling decorations that made a big impression on Hokkaido native Takeya.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250405190000 +0000" stop="20250405191000 +0000">
 		<title>NHK Newsline</title>
-		<desc>NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
+		<desc>NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250405191000 +0000" stop="20250405200000 +0000">
-		<title>The Perfect 2-Hour Guide: Kyoto</title>
-		<desc>Take a journey through Kyoto's historic Kiyomizu-dera Temple, from its iconic stage and tranquil sacred spring. We unveil the definitive two-hour condensed course, while basking in springtime beauty.</desc>
+		<title>Aso Jinja</title>
+		<desc>A shrine in Kumamoto Prefecture was razed in the 2016 earthquake, but its seven-year restoration fused traditional craftsmanship with the latest technology.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250405200000 +0000" stop="20250405201000 +0000">
 		<title>NHK Newsline</title>
-		<desc>NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
+		<desc>NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="812" start="20250405201000 +0000" stop="20250405204000 +0000">
-		<title>Biz Stream</title>
-		<desc>This upbeat program combines business and economic news with in-depth feature stories that give you a closer look at the latest trends within Japan and around the world.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="812" start="20250405204000 +0000" stop="20250405205000 +0000">
-		<title>U&amp;I</title>
-		<desc>This show for kids promotes a greater understanding for people with difficulties and helps develop empathy. With the help of two fairies, the main character thinks about what can be done to help.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="812" start="20250405205000 +0000" stop="20250405210000 +0000">
-		<title>Texico</title>
-		<desc>Learn the principles of programming without a computer. Animated characters provide fun and lucid explanations of 5 core processes: analysis, combination, generalization, abstraction, and simulation.</desc>
+	<programme channel="812" start="20250405201000 +0000" stop="20250405210000 +0000">
+		<title>The Perfect 2-Hour Guide</title>
+		<desc>Kyoto: Journey through Kyoto's historic Kiyomizu-dera Temple - from its iconic stage and tranquil sacred spring, we unveil the definitive two-hour condensed course while basking in springtime beauty.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250405210000 +0000" stop="20250405211000 +0000">
 		<title>NHK Newsline</title>
-		<desc>NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
+		<desc>NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="812" start="20250405211000 +0000" stop="20250405215500 +0000">
-		<title>Train Cruise</title>
-		<desc>Travel Iwate Pref. from popular destination Morioka to the Pacific coast. Eat your fill of soba noodles, dive into in a fantastical world, fish with cucumbers, and go spelunking.</desc>
+	<programme channel="812" start="20250405211000 +0000" stop="20250405214000 +0000">
+		<title>Biz Stream</title>
+		<desc>This episode features business models designed to help Japan's hikikomori (individuals who have withdrawn from society) to socialize, learn, and even find employment.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="812" start="20250405215500 +0000" stop="20250405220000 +0000">
-		<title>Japanology Plus Mini</title>
-		<desc>Japanology Plus explores Japanese life and culture. In this 5-minute digest, we look at the significance of cats in Japan.</desc>
+	<programme channel="812" start="20250405214000 +0000" stop="20250405215000 +0000">
+		<title>u&amp;i</title>
+		<desc>This show for kids promotes a greater understanding for people with difficulties and helps develop empathy - with the help of two fairies, the main character thinks about what can be done to help.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="812" start="20250405215000 +0000" stop="20250405220000 +0000">
+		<title>Texico</title>
+		<desc>Learn programming principles without a computer! Animated characters provide fun and lucid explanations of five core processes: analysis, combination, generalisation, abstraction and simulation.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250405220000 +0000" stop="20250405221000 +0000">
 		<title>NHK Newsline</title>
-		<desc>NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
+		<desc>NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="812" start="20250405221000 +0000" stop="20250405224000 +0000">
-		<title>Japan Delish</title>
-		<desc>Curry rice, one of Japan's most iconic national dishes. Why is this dish born in India so beloved by the Japanese?</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="812" start="20250405224000 +0000" stop="20250405225500 +0000">
-		<title>Bosai</title>
-		<desc>What does it take to survive a flood? Japan has developed survival skills for floods through experiences such as typhoons. Find out how to safely navigate flooded streets and escape sinking cars.</desc>
+	<programme channel="812" start="20250405221000 +0000" stop="20250405225500 +0000">
+		<title>Train Cruise</title>
+		<desc>Travel through Iwate Prefecture from the popular destination of Morioka to the Pacific coast - eat your fill of soba noodles, dive into a fantastical world, fish with cucumbers and go spelunking.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250405225500 +0000" stop="20250405230000 +0000">
-		<title>Carving The Spirit Of Fishermen</title>
-		<desc>Hokkaido / Takeya Takayuki (model maker) Fishing boats in the herring industry-which thrived here until the 1950s-featured swirling decorations that made a big impression on Takeya, a Hokkaido native.</desc>
+		<title>Japanology Plus mini</title>
+		<desc>Japanology Plus' explores Japanese life and culture - in this digest, we look at scissors. After arriving in Japan, they evolved in unique ways.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250405230000 +0000" stop="20250405231000 +0000">
 		<title>NHK Newsline</title>
-		<desc>NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
+		<desc>NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250405231000 +0000" stop="20250405234000 +0000">
-		<title>Samurai Castles Himeji The Defense</title>
-		<desc>Himeji Castle with its white keep is one of Japan's most famous castles. But its beauty is deceiving. The paths to the keep follow the hill's gradient and hold many surprises for potential attackers.</desc>
+		<title>Japan Delish</title>
+		<desc>Curry rice is one of Japan's most iconic national dishes - why is this dish born in India so beloved by the Japanese?</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="812" start="20250405234000 +0000" stop="20250406000000 +0000">
-		<title>Cinematic Journey</title>
-		<desc>Join our explorers as they pursue the cinematic beauty of Japan. Kyle Card hikes the newly designated long trail around majestic Mt. Fuji and discovers its secrets.</desc>
+	<programme channel="812" start="20250405234000 +0000" stop="20250405235500 +0000">
+		<title>Bosai: Science That Can Save Your Life</title>
+		<desc>What does it take to survive a flood? Japan has developed survival skills for floods through experiences such as typhoons - find out how to safely navigate flooded streets and escape sinking cars.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="812" start="20250405235500 +0000" stop="20250406000000 +0000">
+		<title>Carving the Spirit of Fishermen</title>
+		<desc>Hokkaido / Takeya Takayuki (Model Maker): Fishing boats in the herring industry that thrived here until the 1950s featured swirling decorations that made a big impression on Hokkaido native Takeya.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250406000000 +0000" stop="20250406001000 +0000">
 		<title>NHK Newsline</title>
-		<desc>NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
+		<desc>NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="812" start="20250406001000 +0000" stop="20250406010000 +0000">
-		<title>Decoding The I-Soon Document Leaks</title>
-		<desc>Teaming with experts in 7 locations around the world, we conducted an analysis of internal records leaked from a Chinese cybersecurity company, delving into the new threats spreading on the internet.</desc>
+	<programme channel="812" start="20250406001000 +0000" stop="20250406004000 +0000">
+		<title>Samurai Castles</title>
+		<desc>Himeji Castle with its white keep is one of Japan's most famous castles, but its beauty is deceiving - the paths to the keep follow the hill's gradient and hold many surprises for potential attackers.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="812" start="20250406004000 +0000" stop="20250406005500 +0000">
+		<title>Cinematic Journey</title>
+		<desc>Join our explorers as they pursue the cinematic beauty of Japan - in this episode, Kyle Card hikes the newly-designated long trail around majestic Mount Fuji and discovers its secrets.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="812" start="20250406005500 +0000" stop="20250406010000 +0000">
+		<title>Core Kyoto Mini</title>
+		<desc>Karesansui is a dry-gardening style of arranging stones and gravel that developed as a place for Buddhist monks in their ascetic training.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250406010000 +0000" stop="20250406011000 +0000">
 		<title>NHK Newsline</title>
-		<desc>NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
+		<desc>NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250406011000 +0000" stop="20250406020000 +0000">
-		<title>Planet Taxi: A Ride Through Taipei</title>
-		<desc>World cities seen through taxi windows and conversations with the drivers. This time in Taipei, a city of high-rises and temples, tradition and innovation. A journey both personal and profound begins.</desc>
+		<title>Decoding the i-SOON Document Leaks</title>
+		<desc>Teaming with experts in seven locations around the world, we conduct an analysis of internal records leaked from a Chinese cybersecurity company and delve into new threats spreading on the internet.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250406020000 +0000" stop="20250406021000 +0000">
 		<title>NHK Newsline</title>
-		<desc>NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
+		<desc>NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="812" start="20250406021000 +0000" stop="20250406024000 +0000">
-		<title>J-Melo</title>
-		<desc>Join May J. for Japanese music! This week: East of Eden (a five-piece all-female heavy metal band fronted by a violinist) and edhiii boi (an up-and-coming rapper with a strong teenage following).</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="812" start="20250406024000 +0000" stop="20250406025000 +0000">
-		<title>Little Charo</title>
-		<desc>Little Charo is an animation series about a Japanese dog who got lost in NY. "I want to see my owner again!" Charo starts his adventure back home. Season 1-1.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="812" start="20250406025000 +0000" stop="20250406025500 +0000">
-		<title>Japanology Plus Mini</title>
-		<desc>Japanology Plus explores Japanese life and culture. In this 5-minute digest, we look at scissors. After arriving in Japan, they evolved in unique ways.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="812" start="20250406025500 +0000" stop="20250406030000 +0000">
-		<title>A Cat'S-Eye View Of Japan</title>
-		<desc>What's it like living with cats in rice-producing Niigata? See kitty beds made of straw from beautiful green rice paddies, and enjoy snacks with another kitty at a candy shop.</desc>
+	<programme channel="812" start="20250406021000 +0000" stop="20250406030000 +0000">
+		<title>Planet Taxi</title>
+		<desc>World cities seen through taxi windows and conversations with their drivers. This time: Taipei - a city of high-rises and temples, tradition and innovation - as a personal and profound journey begins.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250406030000 +0000" stop="20250406031000 +0000">
 		<title>NHK Newsline</title>
-		<desc>NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
+		<desc>NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250406031000 +0000" stop="20250406034000 +0000">
-		<title>Cycle Around Japan Highlights</title>
-		<desc>A ride through Hokkaido in early summer. We meet an artisan teaching handicrafts of the indigenous Ainu to the next generation, and a legendary trainer of an unusual horse race.</desc>
+		<title>J-Melo</title>
+		<desc>Join May J. for Japanese music! This time: East of Eden - a five-piece all-female heavy metal band fronted by a violinist - and edhiii boi, an up-and-coming rapper with a strong teenage following.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250406034000 +0000" stop="20250406035000 +0000">
-		<title>Design Ah Neo: Underthe Lid</title>
-		<desc>Design is fun! Design feels good! Cutting-edge images and music guide children to enjoy exploring the ideas and tweaks in the designs all around us. An episode on Under the Lid.</desc>
+		<title>Little Charo</title>
+		<desc>An animated series about a Japanese dog who gets lost in New York City. Charo says 'I want to see my owner again!', and so he starts his adventure to find his way back home.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="812" start="20250406035000 +0000" stop="20250406040000 +0000">
-		<title>Mitateru-Phose #1</title>
-		<desc>This program employs "mitateru," a Japanese technique, to inspire children's imagination by encouraging them to view objects differently and develop their unique perspectives and creativity.</desc>
+	<programme channel="812" start="20250406035000 +0000" stop="20250406035500 +0000">
+		<title>Japanology Plus mini</title>
+		<desc>Japanology Plus' explores Japanese life and culture - in this digest, we look at the significance of cats in Japan.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="812" start="20250406035500 +0000" stop="20250406040000 +0000">
+		<title>A Cat's-Eye View of Japan</title>
+		<desc>What's it like living with cats in rice-producing Niigata? See kitty beds made of straw from beautiful green rice paddies, and enjoy snacks with another kitty at a sweet shop.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250406040000 +0000" stop="20250406041000 +0000">
 		<title>NHK Newsline</title>
-		<desc>NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
+		<desc>NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="812" start="20250406041000 +0000" stop="20250406050000 +0000">
-		<title>Somewhere Street</title>
-		<desc>Facing the Mediterranean Sea, Menton, a city in France, is famous for its mild subtropical climate and celebrated for its delicious lemons. The townscape also still retains its 13th century charm.</desc>
+	<programme channel="812" start="20250406041000 +0000" stop="20250406044000 +0000">
+		<title>Cycle Around Japan Highlights</title>
+		<desc>A ride through Hokkaido in early summer. We meet an artisan teaching handicrafts of the indigenous Ainu to the next generation, and a legendary trainer of an unusual horse race.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="812" start="20250406044000 +0000" stop="20250406045000 +0000">
+		<title>Design Ah Neo</title>
+		<desc>Under the Lid: Design is fun - design feels good! Cutting-edge images and music guide children to enjoy exploring the ideas and tweaks in the designs all around us.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="812" start="20250406045000 +0000" stop="20250406050000 +0000">
+		<title>Mitateru-phose</title>
+		<desc>This programme employs 'mitateru', a Japanese technique, to inspire children's imagination by encouraging them to view objects differently and develop their unique perspectives and creativity.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250406050000 +0000" stop="20250406051000 +0000">
 		<title>NHK Newsline</title>
-		<desc>NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
+		<desc>NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="812" start="20250406051000 +0000" stop="20250406052500 +0000">
-		<title>Ramen Japan</title>
-		<desc>A gourmet tour of ramen all around Japan. This time: the birthplace of tonkotsu, Fukuoka. Looking at the Hakata and Nagahama styles, we'll learn these ramens' secrets, and the story of its creation.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="812" start="20250406052500 +0000" stop="20250406053000 +0000">
-		<title>Core Kyoto Mini</title>
-		<desc>The Maki-e lacquering technique uses gold dust on a jet-black background to dazzling effect.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="812" start="20250406053000 +0000" stop="20250406054500 +0000">
-		<title>Easy Japanese For Work</title>
-		<desc>Ngoc-san, from Vietnam, wants to help a new coworker sitting next to him and become a great senior, Senpai. To know and understand the proper way, Ngoc-san will tackle a role-play.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="812" start="20250406054500 +0000" stop="20250406060000 +0000">
-		<title>Zero Waste Life</title>
-		<desc>With a falling birthrate, school closures are on the rise in Japan, and things like desks and chairs have no place to go. Doi Kenji upcycles these discards into stylish and unique interior items.</desc>
+	<programme channel="812" start="20250406051000 +0000" stop="20250406060000 +0000">
+		<title>Somewhere Street</title>
+		<desc>Facing the Mediterranean Sea, Menton, a city in France, is famous for its mild subtropical climate and celebrated for its delicious lemons - the townscape also still retains its 13th-century charm.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250406060000 +0000" stop="20250406061000 +0000">
 		<title>NHK Newsline</title>
-		<desc>NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
+		<desc>NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="812" start="20250406061000 +0000" stop="20250406070000 +0000">
-		<title>Decoding The I-Soon Document Leaks</title>
-		<desc>Teaming with experts in 7 locations around the world, we conducted an analysis of internal records leaked from a Chinese cybersecurity company, delving into the new threats spreading on the internet.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="812" start="20250406070000 +0000" stop="20250406071000 +0000">
-		<title>NHK Newsline</title>
-		<desc>NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="812" start="20250406071000 +0000" stop="20250406080000 +0000">
-		<title>Planet Taxi: A Ride Through Taipei</title>
-		<desc>World cities seen through taxi windows and conversations with the drivers. This time in Taipei, a city of high-rises and temples, tradition and innovation. A journey both personal and profound begins.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="812" start="20250406080000 +0000" stop="20250406081000 +0000">
-		<title>NHK Newsline</title>
-		<desc>NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="812" start="20250406081000 +0000" stop="20250406090000 +0000">
-		<title>Somewhere Street</title>
-		<desc>Facing the Mediterranean Sea, Menton, a city in France, is famous for its mild subtropical climate and celebrated for its delicious lemons. The townscape also still retains its 13th century charm.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="812" start="20250406090000 +0000" stop="20250406091000 +0000">
-		<title>NHK Newsline</title>
-		<desc>NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="812" start="20250406091000 +0000" stop="20250406094000 +0000">
-		<title>Cycle Around Japan Highlights</title>
-		<desc>A ride through Hokkaido in early summer. We meet an artisan teaching handicrafts of the indigenous Ainu to the next generation, and a legendary trainer of an unusual horse race.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="812" start="20250406094000 +0000" stop="20250406095000 +0000">
-		<title>Design Ah Neo: Underthe Lid</title>
-		<desc>Design is fun! Design feels good! Cutting-edge images and music guide children to enjoy exploring the ideas and tweaks in the designs all around us. An episode on Under the Lid.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="812" start="20250406095000 +0000" stop="20250406100000 +0000">
-		<title>Mitateru-Phose #1</title>
-		<desc>This program employs "mitateru," a Japanese technique, to inspire children's imagination by encouraging them to view objects differently and develop their unique perspectives and creativity.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="812" start="20250406100000 +0000" stop="20250406101000 +0000">
-		<title>NHK Newsline</title>
-		<desc>NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="812" start="20250406101000 +0000" stop="20250406104000 +0000">
-		<title>J-Melo</title>
-		<desc>Join May J. for Japanese music! This week: East of Eden (a five-piece all-female heavy metal band fronted by a violinist) and edhiii boi (an up-and-coming rapper with a strong teenage following).</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="812" start="20250406104000 +0000" stop="20250406105000 +0000">
-		<title>Little Charo</title>
-		<desc>Little Charo is an animation series about a Japanese dog who got lost in NY. "I want to see my owner again!" Charo starts his adventure back home. Season 1-1.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="812" start="20250406105000 +0000" stop="20250406105500 +0000">
-		<title>Japanology Plus Mini</title>
-		<desc>Japanology Plus explores Japanese life and culture. In this 5-minute digest, we look at scissors. After arriving in Japan, they evolved in unique ways.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="812" start="20250406105500 +0000" stop="20250406110000 +0000">
-		<title>A Cat'S-Eye View Of Japan</title>
-		<desc>What's it like living with cats in rice-producing Niigata? See kitty beds made of straw from beautiful green rice paddies, and enjoy snacks with another kitty at a candy shop.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="812" start="20250406110000 +0000" stop="20250406111000 +0000">
-		<title>NHK Newsline</title>
-		<desc>NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="812" start="20250406111000 +0000" stop="20250406112500 +0000">
+	<programme channel="812" start="20250406061000 +0000" stop="20250406062500 +0000">
 		<title>Ramen Japan</title>
-		<desc>A gourmet tour of ramen all around Japan. This time: the birthplace of tonkotsu, Fukuoka. Looking at the Hakata and Nagahama styles, we'll learn these ramens' secrets, and the story of its creation.</desc>
+		<desc>A gourmet tour of ramen all around Japan - this time: Fukuoka, the birthplace of tonkotsu. Looking at the Hakata and Nagahama styles, we'll learn these ramens' secrets and the story of their creation.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="812" start="20250406112500 +0000" stop="20250406113000 +0000">
+	<programme channel="812" start="20250406062500 +0000" stop="20250406063000 +0000">
 		<title>Core Kyoto Mini</title>
 		<desc>The Maki-e lacquering technique uses gold dust on a jet-black background to dazzling effect.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="812" start="20250406113000 +0000" stop="20250406114500 +0000">
-		<title>Easy Japanese For Work</title>
-		<desc>Ngoc-san, from Vietnam, wants to help a new coworker sitting next to him and become a great senior, Senpai. To know and understand the proper way, Ngoc-san will tackle a role-play.</desc>
+	<programme channel="812" start="20250406063000 +0000" stop="20250406064500 +0000">
+		<title>Easy Japanese for Work</title>
+		<desc>Ngoc-san from Vietnam wants to help a new co-worker sitting next to him and become a great senpai (senior colleague) to him. To know and understand the proper way, Ngoc-san tackles a role-play.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="812" start="20250406114500 +0000" stop="20250406120000 +0000">
+	<programme channel="812" start="20250406064500 +0000" stop="20250406070000 +0000">
 		<title>Zero Waste Life</title>
-		<desc>With a falling birthrate, school closures are on the rise in Japan, and things like desks and chairs have no place to go. Doi Kenji upcycles these discards into stylish and unique interior items.</desc>
+		<desc>With a falling birth rate, school closures are on the rise in Japan and things like desks and chairs have no place to go - Doi Kenji upcycles these discards into stylish and unique interior items.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="812" start="20250406120000 +0000" stop="20250406121000 +0000">
+	<programme channel="812" start="20250406070000 +0000" stop="20250406071000 +0000">
 		<title>NHK Newsline</title>
-		<desc>NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
+		<desc>NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="812" start="20250406121000 +0000" stop="20250406130000 +0000">
-		<title>Decoding The I-Soon Document Leaks</title>
-		<desc>Teaming with experts in 7 locations around the world, we conducted an analysis of internal records leaked from a Chinese cybersecurity company, delving into the new threats spreading on the internet.</desc>
+	<programme channel="812" start="20250406071000 +0000" stop="20250406080000 +0000">
+		<title>Decoding the i-SOON Document Leaks</title>
+		<desc>Teaming with experts in seven locations around the world, we conduct an analysis of internal records leaked from a Chinese cybersecurity company and delve into new threats spreading on the internet.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="812" start="20250406130000 +0000" stop="20250406131000 +0000">
+	<programme channel="812" start="20250406080000 +0000" stop="20250406081000 +0000">
 		<title>NHK Newsline</title>
-		<desc>NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
+		<desc>NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="812" start="20250406131000 +0000" stop="20250406140000 +0000">
-		<title>Planet Taxi: A Ride Through Taipei</title>
-		<desc>World cities seen through taxi windows and conversations with the drivers. This time in Taipei, a city of high-rises and temples, tradition and innovation. A journey both personal and profound begins.</desc>
+	<programme channel="812" start="20250406081000 +0000" stop="20250406090000 +0000">
+		<title>Planet Taxi</title>
+		<desc>World cities seen through taxi windows and conversations with their drivers. This time: Taipei - a city of high-rises and temples, tradition and innovation - as a personal and profound journey begins.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="812" start="20250406140000 +0000" stop="20250406141000 +0000">
+	<programme channel="812" start="20250406090000 +0000" stop="20250406091000 +0000">
 		<title>NHK Newsline</title>
-		<desc>NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
+		<desc>NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="812" start="20250406141000 +0000" stop="20250406144000 +0000">
+	<programme channel="812" start="20250406091000 +0000" stop="20250406100000 +0000">
+		<title>Somewhere Street</title>
+		<desc>Facing the Mediterranean Sea, Menton, a city in France, is famous for its mild subtropical climate and celebrated for its delicious lemons - the townscape also still retains its 13th-century charm.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="812" start="20250406100000 +0000" stop="20250406101000 +0000">
+		<title>NHK Newsline</title>
+		<desc>NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="812" start="20250406101000 +0000" stop="20250406104000 +0000">
 		<title>Cycle Around Japan Highlights</title>
 		<desc>A ride through Hokkaido in early summer. We meet an artisan teaching handicrafts of the indigenous Ainu to the next generation, and a legendary trainer of an unusual horse race.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="812" start="20250406144000 +0000" stop="20250406145000 +0000">
-		<title>Design Ah Neo: Underthe Lid</title>
-		<desc>Design is fun! Design feels good! Cutting-edge images and music guide children to enjoy exploring the ideas and tweaks in the designs all around us. An episode on Under the Lid.</desc>
+	<programme channel="812" start="20250406104000 +0000" stop="20250406105000 +0000">
+		<title>Design Ah Neo</title>
+		<desc>Under the Lid: Design is fun - design feels good! Cutting-edge images and music guide children to enjoy exploring the ideas and tweaks in the designs all around us.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="812" start="20250406145000 +0000" stop="20250406150000 +0000">
-		<title>Mitateru-Phose #1</title>
-		<desc>This program employs "mitateru," a Japanese technique, to inspire children's imagination by encouraging them to view objects differently and develop their unique perspectives and creativity.</desc>
+	<programme channel="812" start="20250406105000 +0000" stop="20250406110000 +0000">
+		<title>Mitateru-phose</title>
+		<desc>This programme employs 'mitateru', a Japanese technique, to inspire children's imagination by encouraging them to view objects differently and develop their unique perspectives and creativity.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="812" start="20250406110000 +0000" stop="20250406111000 +0000">
+		<title>NHK Newsline</title>
+		<desc>NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="812" start="20250406111000 +0000" stop="20250406114000 +0000">
+		<title>J-Melo</title>
+		<desc>Join May J. for Japanese music! This time: East of Eden - a five-piece all-female heavy metal band fronted by a violinist - and edhiii boi, an up-and-coming rapper with a strong teenage following.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="812" start="20250406114000 +0000" stop="20250406115000 +0000">
+		<title>Little Charo</title>
+		<desc>An animated series about a Japanese dog who gets lost in New York City. Charo says 'I want to see my owner again!', and so he starts his adventure to find his way back home.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="812" start="20250406115000 +0000" stop="20250406115500 +0000">
+		<title>Japanology Plus mini</title>
+		<desc>Japanology Plus' explores Japanese life and culture - in this digest, we look at the significance of cats in Japan.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="812" start="20250406115500 +0000" stop="20250406120000 +0000">
+		<title>A Cat's-Eye View of Japan</title>
+		<desc>What's it like living with cats in rice-producing Niigata? See kitty beds made of straw from beautiful green rice paddies, and enjoy snacks with another kitty at a sweet shop.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="812" start="20250406120000 +0000" stop="20250406121000 +0000">
+		<title>NHK Newsline</title>
+		<desc>NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="812" start="20250406121000 +0000" stop="20250406122500 +0000">
+		<title>Ramen Japan</title>
+		<desc>A gourmet tour of ramen all around Japan - this time: Fukuoka, the birthplace of tonkotsu. Looking at the Hakata and Nagahama styles, we'll learn these ramens' secrets and the story of their creation.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="812" start="20250406122500 +0000" stop="20250406123000 +0000">
+		<title>Core Kyoto Mini</title>
+		<desc>The Maki-e lacquering technique uses gold dust on a jet-black background to dazzling effect.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="812" start="20250406123000 +0000" stop="20250406124500 +0000">
+		<title>Easy Japanese for Work</title>
+		<desc>Ngoc-san from Vietnam wants to help a new co-worker sitting next to him and become a great senpai (senior colleague) to him. To know and understand the proper way, Ngoc-san tackles a role-play.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="812" start="20250406124500 +0000" stop="20250406130000 +0000">
+		<title>Zero Waste Life</title>
+		<desc>With a falling birth rate, school closures are on the rise in Japan and things like desks and chairs have no place to go - Doi Kenji upcycles these discards into stylish and unique interior items.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="812" start="20250406130000 +0000" stop="20250406131000 +0000">
+		<title>NHK Newsline</title>
+		<desc>NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="812" start="20250406131000 +0000" stop="20250406140000 +0000">
+		<title>Decoding the i-SOON Document Leaks</title>
+		<desc>Teaming with experts in seven locations around the world, we conduct an analysis of internal records leaked from a Chinese cybersecurity company and delve into new threats spreading on the internet.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="812" start="20250406140000 +0000" stop="20250406141000 +0000">
+		<title>NHK Newsline</title>
+		<desc>NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="812" start="20250406141000 +0000" stop="20250406150000 +0000">
+		<title>Planet Taxi</title>
+		<desc>World cities seen through taxi windows and conversations with their drivers. This time: Taipei - a city of high-rises and temples, tradition and innovation - as a personal and profound journey begins.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250406150000 +0000" stop="20250406151000 +0000">
 		<title>NHK Newsline</title>
-		<desc>NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
+		<desc>NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250406151000 +0000" stop="20250406154000 +0000">
-		<title>J-Melo</title>
-		<desc>Join May J. for Japanese music! This week: East of Eden (a five-piece all-female heavy metal band fronted by a violinist) and edhiii boi (an up-and-coming rapper with a strong teenage following).</desc>
+		<title>Cycle Around Japan Highlights</title>
+		<desc>A ride through Hokkaido in early summer. We meet an artisan teaching handicrafts of the indigenous Ainu to the next generation, and a legendary trainer of an unusual horse race.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250406154000 +0000" stop="20250406155000 +0000">
-		<title>Little Charo</title>
-		<desc>Little Charo is an animation series about a Japanese dog who got lost in NY. "I want to see my owner again!" Charo starts his adventure back home. Season 1-1.</desc>
+		<title>Design Ah Neo</title>
+		<desc>Under the Lid: Design is fun - design feels good! Cutting-edge images and music guide children to enjoy exploring the ideas and tweaks in the designs all around us.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="812" start="20250406155000 +0000" stop="20250406155500 +0000">
-		<title>Japanology Plus Mini</title>
-		<desc>Japanology Plus explores Japanese life and culture. In this 5-minute digest, we look at scissors. After arriving in Japan, they evolved in unique ways.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="812" start="20250406155500 +0000" stop="20250406160000 +0000">
-		<title>A Cat'S-Eye View Of Japan</title>
-		<desc>What's it like living with cats in rice-producing Niigata? See kitty beds made of straw from beautiful green rice paddies, and enjoy snacks with another kitty at a candy shop.</desc>
+	<programme channel="812" start="20250406155000 +0000" stop="20250406160000 +0000">
+		<title>Mitateru-phose</title>
+		<desc>This programme employs 'mitateru', a Japanese technique, to inspire children's imagination by encouraging them to view objects differently and develop their unique perspectives and creativity.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="815" start="20250404154000 +0000" stop="20250404165500 +0000">
