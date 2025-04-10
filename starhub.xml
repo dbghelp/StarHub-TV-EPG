@@ -2241,12 +2241,12 @@
 		<desc>(Dual language Chinese and Korean) After Jiang Zhongquan tasted the beef soup made by Jin Yingxin, he couldn't believe that her soup would lose to Cui Shujing's seafood soup, so he decides to use Jin Yingxin's soup as the signature dish.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/107_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="107" start="20250410173000 +0000" stop="20250410183500 +0000">
+	<programme channel="107" start="20250410173000 +0000" stop="20250410183000 +0000">
 		<title>A Good Supper - EP 22</title>
 		<desc>(Dual language Chinese and Korean) Jiang Zhongquan forced Cui Shujing to learn the soup base from Jin Yingxin. Reluctantly, Cui Shujing agrees to apologize to Zhen Qingxiu, but immediately changes her mind and made the dismissal of Lee Duojing a condition, pressuring Jin Yingxin to reveal the secret to the soup base.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/107_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="107" start="20250410183500 +0000" stop="20250410220000 +0000">
+	<programme channel="107" start="20250410183000 +0000" stop="20250410220000 +0000">
 		<title>End of transmission</title>
 		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_channels2/107_1920x1080_HTV.png?w=341&amp;h=192" />
@@ -11256,10 +11256,15 @@
 		<desc>The most prestigious tournament in the world contested by top-division elite European clubs</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch214_UCL_full_match.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="214" start="20250410072500 +0000" stop="20250410081000 +0000">
-		<title>The UCL Review Show 2024/25 PSG vs Aston Villa -Wed, QF, 1st Leg</title>
-		<desc>beIN's panel of football legends deliver their opinion on every game from this morning's UCL action</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch214_UEFA_champions_league_review_show.jpg?w=341&amp;h=192" />
+	<programme channel="214" start="20250410072500 +0000" stop="20250410075500 +0000">
+		<title>UEFA Champions League Highlights 2024/25</title>
+		<desc>Don't miss any of the action with the official UEFA Champions League highlights show</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch214_UCL_hIghlights.jpg?w=960&amp;h=540" />
+	</programme>
+	<programme channel="214" start="20250410075500 +0000" stop="20250410081000 +0000">
+		<title>UCL/UEL Series - How We Conquered</title>
+		<desc>A series of stories that encapsulate the very definition of overcoming adversity, when no one gives you a chance of succeeding, when all hope is lost - these tales tell of moments in UEFA competition history when a team surprised world football against all the odds</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch214_UEL_series.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="214" start="20250410081000 +0000" stop="20250410100000 +0000">
 		<title>UEFA Europa League 2024/25 Tottenham vs AZ Alkmaar - RD16,2nd Leg</title>
