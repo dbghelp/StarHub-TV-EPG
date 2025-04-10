@@ -29671,14 +29671,19 @@
 		<desc>In this program, children around the age of 4 can experience the pleasure of playing with friends, the wonder of life, the joy of doing thigs by themselves, and consideration for others, all while having fun through various discoveries.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="811" start="20250409180000 +0000" stop="20250409182500 +0000">
+	<programme channel="811" start="20250409180000 +0000" stop="20250409182400 +0000">
 		<title>With Mother (R)</title>
 		<desc>This children's program includes a puppet show, cartoon, music, and gymnastics in which children can participate.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="811" start="20250409182500 +0000" stop="20250409183000 +0000">
-		<title>Fun with Okinawa Dialects</title>
-		<desc>Get familiar with Okinawa dialects by listening to folk tales and children's songs.</desc>
+	<programme channel="811" start="20250409182400 +0000" stop="20250409182700 +0000">
+		<title>News</title>
+		<desc>The latest up-to-date news from Tokyo.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="811" start="20250409182700 +0000" stop="20250409183000 +0000">
+		<title>Mini Program</title>
+		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="811" start="20250409183000 +0000" stop="20250409184500 +0000">
@@ -29907,7 +29912,7 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="811" start="20250410103000 +0000" stop="20250410111500 +0000">
-		<title>The "Instruction Manual" Show</title>
+		<title>The "Instruction Manual" Show "Glycation"</title>
 		<desc>A unique theater show in which the showman chooses one item of the world and presents how to use or operate it with some surprising facts and useful tips that might 'update' your life.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
@@ -30032,7 +30037,7 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="811" start="20250410184500 +0000" stop="20250410193000 +0000">
-		<title>The "Instruction Manual" Show (R)</title>
+		<title>The "Instruction Manual" Show "Glycation" (R)</title>
 		<desc>A unique theater show in which the showman chooses one item of the world and presents how to use or operate it with some surprising facts and useful tips that might 'update' your life.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
@@ -30127,8 +30132,8 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="811" start="20250411023000 +0000" stop="20250411025600 +0000">
-		<title>Special Program</title>
-		<desc />
+		<title>Go Around EXPO 2025 Osaka</title>
+		<desc>A live broadcast Expo information program from Yumeshima, Osaka. During the Expo, we will provide updates on various pavilion exhibitions and events from a satellite studio set up inside the venue, featuring video reports and live coverage. This program is packed with fresh Expo information, letting you know the highlights from the weekend to the following week!</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="811" start="20250411025600 +0000" stop="20250411030000 +0000">
