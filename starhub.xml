@@ -1305,11 +1305,6 @@
 		<desc>The film tells the real-life expedition of two generations of Chinese mountaineers to ascend Mount Everest from the perilous north side in 1960 and 1975.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/103_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="104" start="20250410160000 +0000" stop="20250410220000 +0000">
-		<title>End of transmission</title>
-		<desc />
-		<icon src="https://poster.starhubgo.com/Linear_channels2/104_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
 	<programme channel="104" start="20250410160000 +0000" stop="20250411010000 +0000">
 		<title>End of transmission</title>
 		<desc />
@@ -1485,7 +1480,7 @@
 		<desc>Azhar and Adi return from seeking donations to buy food and find Yeye missing. They meet the scrapyard's security guard, Pak Ehsan, who takes care of them.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/104_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="104" start="20250412153000 +0000" stop="20250413010000 +0000">
+	<programme channel="104" start="20250412153000 +0000" stop="20250412160000 +0000">
 		<title>Berita - EP 12</title>
 		<desc>Catch the latest local and international news on Suria.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/104_1920x1080_HTV.png?w=341&amp;h=192" />
@@ -1995,7 +1990,7 @@
 		<desc>Interns undergo wild training and become "Panda People." Goodbye Xianxian, the internship ends with tearful farewells.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/107_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="107" start="20250410163000 +0000" stop="20250410173000 +0000">
+	<programme channel="107" start="20250410163000 +0000" stop="20250410183000 +0000">
 		<title>A Good Supper - EP 21</title>
 		<desc>(Dual language Chinese and Korean) After Jiang Zhongquan tasted the beef soup made by Jin Yingxin, he couldn't believe that her soup would lose to Cui Shujing's seafood soup, so he decides to use Jin Yingxin's soup as the signature dish.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/107_1920x1080_HTV.png?w=341&amp;h=192" />
@@ -5521,8 +5516,8 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/133_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="133" start="20250412013000 +0000" stop="20250412020000 +0000">
-		<title>THERIKKAVIDALAMA (Repeat Telecast)</title>
-		<desc>Therikkavidalama Sun TV Show</desc>
+		<title>ALL IN ALL AZHAGURAJA (Repeat Telecast)</title>
+		<desc>ALL IN ALL AZHAGURAJA</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/133_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="133" start="20250412020000 +0000" stop="20250412023000 +0000">
@@ -5531,8 +5526,8 @@
 		<icon src="https://poster.starhubgo.com/poster/ch25_news.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="133" start="20250412023000 +0000" stop="20250412030000 +0000">
-		<title>THERIKKAVIDALAMA (Repeat Telecast)</title>
-		<desc>Therikkavidalama Sun TV Show</desc>
+		<title>ALL IN ALL AZHAGURAJA (Repeat Telecast)</title>
+		<desc>ALL IN ALL AZHAGURAJA</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/133_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="133" start="20250412030000 +0000" stop="20250412033000 +0000">
@@ -5581,8 +5576,8 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/133_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="133" start="20250412073000 +0000" stop="20250412080000 +0000">
-		<title>Movie</title>
-		<desc>Watch your favourite movies with all the drama and emotion on Sun TV.</desc>
+		<title>Movie - MIRUTHAN</title>
+		<desc>When an intoxicated dog bites a security guard and unleashes a zombie outbreak in a hill station, Karthik, a policeman, takes up the responsibility of helping a team of doctors to find the antidote.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch25_movie.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="133" start="20250412080000 +0000" stop="20250412083000 +0000">
@@ -5591,8 +5586,8 @@
 		<icon src="https://poster.starhubgo.com/poster/ch25_news.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="133" start="20250412083000 +0000" stop="20250412103000 +0000">
-		<title>Movie Contd</title>
-		<desc>Watch your favourite movies with all the drama and emotion on Sun TV.</desc>
+		<title>Movie Contd - MIRUTHAN</title>
+		<desc>When an intoxicated dog bites a security guard and unleashes a zombie outbreak in a hill station, Karthik, a policeman, takes up the responsibility of helping a team of doctors to find the antidote.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch25_movie.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="133" start="20250412103000 +0000" stop="20250412110000 +0000">
@@ -8917,7 +8912,7 @@
 	</programme>
 	<programme channel="153" start="20250410193000 +0000" stop="20250410200000 +0000">
 		<title>To the Point</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+		<desc>The Israeli Prime Minister, Benjamin Netanyahu, is battling on multiple fronts: against Hamas in Gaza, against Iran's nuclear ambitions, and against his numerous critics both at home and abroad. Could his actions ultimately jeopardize Israel's long-term security? Our guests: Markus Bickel (Table Media); Riad Othman (Medico); Shani Rozanes (DW)</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20250410200000 +0000" stop="20250410203000 +0000">
@@ -8957,7 +8952,7 @@
 	</programme>
 	<programme channel="153" start="20250410223000 +0000" stop="20250410230000 +0000">
 		<title>To the Point</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+		<desc>The Israeli Prime Minister, Benjamin Netanyahu, is battling on multiple fronts: against Hamas in Gaza, against Iran's nuclear ambitions, and against his numerous critics both at home and abroad. Could his actions ultimately jeopardize Israel's long-term security? Our guests: Markus Bickel (Table Media); Riad Othman (Medico); Shani Rozanes (DW)</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20250410230000 +0000" stop="20250410231500 +0000">
@@ -8971,8 +8966,8 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20250410233000 +0000" stop="20250411000000 +0000">
-		<title>Best of DW Podcasts</title>
-		<desc>Select DW podcasts enrich the program with current analyses of world politics and its influence on our daily lives. There will also be space in the program for lively discussions about social standards and taboos.</desc>
+		<title>Berlin Briefing</title>
+		<desc>Germany’s likely next government has published its much-awaited coalition agreement. The political marriage document between Friedrich Merz’ conservative CDU/CSU party and the Social Democrat SPD marks a clamp down on migration. It also promises a huge boost for Germany’s struggling economy. But will Merz’ plan to stop the deindustrialization of Germany work?</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20250411000000 +0000" stop="20250411000200 +0000">
@@ -8987,7 +8982,7 @@
 	</programme>
 	<programme channel="153" start="20250411003000 +0000" stop="20250411010000 +0000">
 		<title>To the Point</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+		<desc>The Israeli Prime Minister, Benjamin Netanyahu, is battling on multiple fronts: against Hamas in Gaza, against Iran's nuclear ambitions, and against his numerous critics both at home and abroad. Could his actions ultimately jeopardize Israel's long-term security? Our guests: Markus Bickel (Table Media); Riad Othman (Medico); Shani Rozanes (DW)</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20250411010000 +0000" stop="20250411011500 +0000">
@@ -9066,8 +9061,8 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20250411063000 +0000" stop="20250411070000 +0000">
-		<title>Best of DW Podcasts</title>
-		<desc>Select DW podcasts enrich the program with current analyses of world politics and its influence on our daily lives. There will also be space in the program for lively discussions about social standards and taboos.</desc>
+		<title>Berlin Briefing</title>
+		<desc>Germany’s likely next government has published its much-awaited coalition agreement. The political marriage document between Friedrich Merz’ conservative CDU/CSU party and the Social Democrat SPD marks a clamp down on migration. It also promises a huge boost for Germany’s struggling economy. But will Merz’ plan to stop the deindustrialization of Germany work?</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20250411070000 +0000" stop="20250411073000 +0000">
@@ -9077,7 +9072,7 @@
 	</programme>
 	<programme channel="153" start="20250411073000 +0000" stop="20250411080000 +0000">
 		<title>To the Point</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+		<desc>The Israeli Prime Minister, Benjamin Netanyahu, is battling on multiple fronts: against Hamas in Gaza, against Iran's nuclear ambitions, and against his numerous critics both at home and abroad. Could his actions ultimately jeopardize Israel's long-term security? Our guests: Markus Bickel (Table Media); Riad Othman (Medico); Shani Rozanes (DW)</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20250411080000 +0000" stop="20250411083000 +0000">
@@ -9106,8 +9101,8 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20250411103000 +0000" stop="20250411110000 +0000">
-		<title>Best of DW Podcasts</title>
-		<desc>Select DW podcasts enrich the program with current analyses of world politics and its influence on our daily lives. There will also be space in the program for lively discussions about social standards and taboos.</desc>
+		<title>Berlin Briefing</title>
+		<desc>Germany’s likely next government has published its much-awaited coalition agreement. The political marriage document between Friedrich Merz’ conservative CDU/CSU party and the Social Democrat SPD marks a clamp down on migration. It also promises a huge boost for Germany’s struggling economy. But will Merz’ plan to stop the deindustrialization of Germany work?</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20250411110000 +0000" stop="20250411113000 +0000">
@@ -9117,7 +9112,7 @@
 	</programme>
 	<programme channel="153" start="20250411113000 +0000" stop="20250411120000 +0000">
 		<title>To the Point</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+		<desc>The Israeli Prime Minister, Benjamin Netanyahu, is battling on multiple fronts: against Hamas in Gaza, against Iran's nuclear ambitions, and against his numerous critics both at home and abroad. Could his actions ultimately jeopardize Israel's long-term security? Our guests: Markus Bickel (Table Media); Riad Othman (Medico); Shani Rozanes (DW)</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20250411120000 +0000" stop="20250411121500 +0000">
@@ -9136,8 +9131,8 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20250411131500 +0000" stop="20250411133000 +0000">
-		<title>Travel</title>
-		<desc>The Ministry for State Security, or Stasi for short, was the GDR's secret police. It spied on and monitored citizens, imprisoned opposition members, and carried out torture and murder. At its former headquarters in Berlin, we show you how the Stasi managed to penetrate deep into the private lives of GDR citizens.</desc>
+		<title>VoD-5 Interview E</title>
+		<desc>Interview with Marcel Fratzscher from the DWI. Here some info: A new government is about to take office in Germany, and with a fresh coalition agreement it has just presented its plan for the country over the next few years. The new cabinet will have to deal with sluggish economic growth and the prospect of more stagnation.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20250411133000 +0000" stop="20250411140000 +0000">
@@ -9152,7 +9147,7 @@
 	</programme>
 	<programme channel="153" start="20250411143000 +0000" stop="20250411150000 +0000">
 		<title>Eco India</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+		<desc>With more and more people living in cities, how can we improve life in urban areas, ensure food security and ease the burden on the environment? From community and rooftop farms, to cave dwellings and clean air projects in India, Bangladesh and Spain.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20250411150000 +0000" stop="20250411153000 +0000">
@@ -9162,7 +9157,7 @@
 	</programme>
 	<programme channel="153" start="20250411153000 +0000" stop="20250411160000 +0000">
 		<title>To the Point</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+		<desc>The Israeli Prime Minister, Benjamin Netanyahu, is battling on multiple fronts: against Hamas in Gaza, against Iran's nuclear ambitions, and against his numerous critics both at home and abroad. Could his actions ultimately jeopardize Israel's long-term security? Our guests: Markus Bickel (Table Media); Riad Othman (Medico); Shani Rozanes (DW)</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20250411160000 +0000" stop="20250411161500 +0000">
@@ -9181,13 +9176,13 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20250411171500 +0000" stop="20250411173000 +0000">
-		<title>Travel</title>
-		<desc>The Ministry for State Security, or Stasi for short, was the GDR's secret police. It spied on and monitored citizens, imprisoned opposition members, and carried out torture and murder. At its former headquarters in Berlin, we show you how the Stasi managed to penetrate deep into the private lives of GDR citizens.</desc>
+		<title>VoD-5 Interview E</title>
+		<desc>Interview with Marcel Fratzscher from the DWI. Here some info: A new government is about to take office in Germany, and with a fresh coalition agreement it has just presented its plan for the country over the next few years. The new cabinet will have to deal with sluggish economic growth and the prospect of more stagnation.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20250411173000 +0000" stop="20250411180000 +0000">
 		<title>Afrimaxx</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+		<desc>Firearms training becomes mandatory in Polish schools as Warsaw ramps up its defenses; Solar power ‘made in China’ booms in Pakistan, while villagers on Colombia’s Pacific coast fight an ocean of plastic on their shores.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20250411180000 +0000" stop="20250411183000 +0000">
@@ -9196,8 +9191,8 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20250411183000 +0000" stop="20250411190000 +0000">
-		<title>Best of DW Podcasts</title>
-		<desc>Select DW podcasts enrich the program with current analyses of world politics and its influence on our daily lives. There will also be space in the program for lively discussions about social standards and taboos.</desc>
+		<title>Berlin Briefing</title>
+		<desc>Germany’s likely next government has published its much-awaited coalition agreement. The political marriage document between Friedrich Merz’ conservative CDU/CSU party and the Social Democrat SPD marks a clamp down on migration. It also promises a huge boost for Germany’s struggling economy. But will Merz’ plan to stop the deindustrialization of Germany work?</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20250411190000 +0000" stop="20250411190200 +0000">
@@ -9212,7 +9207,7 @@
 	</programme>
 	<programme channel="153" start="20250411193000 +0000" stop="20250411200000 +0000">
 		<title>Eco Africa</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+		<desc>Across Africa, renewable energy is rapidly evolving. From Zambia’s energy crisis sparked by droughts to Nigeria’s dependency on noisy diesel generators, the continent is exploring solar and battery power solutions for a brighter future.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20250411200000 +0000" stop="20250411203000 +0000">
@@ -9231,8 +9226,8 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20250411210200 +0000" stop="20250411211500 +0000">
-		<title>Travel</title>
-		<desc>The Ministry for State Security, or Stasi for short, was the GDR's secret police. It spied on and monitored citizens, imprisoned opposition members, and carried out torture and murder. At its former headquarters in Berlin, we show you how the Stasi managed to penetrate deep into the private lives of GDR citizens.</desc>
+		<title>VoD-5 Interview E</title>
+		<desc>Interview with Marcel Fratzscher from the DWI. Here some info: A new government is about to take office in Germany, and with a fresh coalition agreement it has just presented its plan for the country over the next few years. The new cabinet will have to deal with sluggish economic growth and the prospect of more stagnation.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20250411211500 +0000" stop="20250411220000 +0000">
@@ -9252,7 +9247,7 @@
 	</programme>
 	<programme channel="153" start="20250411223000 +0000" stop="20250411230000 +0000">
 		<title>Eco India</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+		<desc>With more and more people living in cities, how can we improve life in urban areas, ensure food security and ease the burden on the environment? From community and rooftop farms, to cave dwellings and clean air projects in India, Bangladesh and Spain.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20250411230000 +0000" stop="20250411231500 +0000">
@@ -9261,8 +9256,8 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20250411231500 +0000" stop="20250411233000 +0000">
-		<title>Travel</title>
-		<desc>The Ministry for State Security, or Stasi for short, was the GDR's secret police. It spied on and monitored citizens, imprisoned opposition members, and carried out torture and murder. At its former headquarters in Berlin, we show you how the Stasi managed to penetrate deep into the private lives of GDR citizens.</desc>
+		<title>VoD-5 Interview E</title>
+		<desc>Interview with Marcel Fratzscher from the DWI. Here some info: A new government is about to take office in Germany, and with a fresh coalition agreement it has just presented its plan for the country over the next few years. The new cabinet will have to deal with sluggish economic growth and the prospect of more stagnation.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20250411233000 +0000" stop="20250412000000 +0000">
@@ -9307,7 +9302,7 @@
 	</programme>
 	<programme channel="153" start="20250412020200 +0000" stop="20250412021500 +0000">
 		<title>Shift</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+		<desc>AI chatbots can help treat mild mental illnesses. But false diagnoses, the misuse of personal data, and the complete absence of human empathy can have serious consequences.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20250412021500 +0000" stop="20250412030000 +0000">
@@ -9321,13 +9316,13 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20250412031500 +0000" stop="20250412033000 +0000">
-		<title>Travel</title>
-		<desc>The Ministry for State Security, or Stasi for short, was the GDR's secret police. It spied on and monitored citizens, imprisoned opposition members, and carried out torture and murder. At its former headquarters in Berlin, we show you how the Stasi managed to penetrate deep into the private lives of GDR citizens.</desc>
+		<title>VoD-5 Interview E</title>
+		<desc>Interview with Marcel Fratzscher from the DWI. Here some info: A new government is about to take office in Germany, and with a fresh coalition agreement it has just presented its plan for the country over the next few years. The new cabinet will have to deal with sluggish economic growth and the prospect of more stagnation.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20250412033000 +0000" stop="20250412040000 +0000">
 		<title>To the Point</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+		<desc>The Israeli Prime Minister, Benjamin Netanyahu, is battling on multiple fronts: against Hamas in Gaza, against Iran's nuclear ambitions, and against his numerous critics both at home and abroad. Could his actions ultimately jeopardize Israel's long-term security? Our guests: Markus Bickel (Table Media); Riad Othman (Medico); Shani Rozanes (DW)</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20250412040000 +0000" stop="20250412041500 +0000">
@@ -9337,7 +9332,7 @@
 	</programme>
 	<programme channel="153" start="20250412041500 +0000" stop="20250412043000 +0000">
 		<title>Shift</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+		<desc>AI chatbots can help treat mild mental illnesses. But false diagnoses, the misuse of personal data, and the complete absence of human empathy can have serious consequences.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20250412043000 +0000" stop="20250412050000 +0000">
@@ -9352,12 +9347,12 @@
 	</programme>
 	<programme channel="153" start="20250412050200 +0000" stop="20250412053000 +0000">
 		<title>Arts Unveiled</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+		<desc>Which is currently a greater threat to the world of books: Being banned, or being replaced by AI? Arts Unveiled looks into the challenges faced by authors and illustrators, amongst others. Also: a visit to a pixel forest made up of 3,000 LED lights.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20250412053000 +0000" stop="20250412060000 +0000">
 		<title>The 77 Percent</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+		<desc>This week: Ghanian students plan the 77 Percent show on sustainable cities. We head to Accra to meet residents frustrated by the city’s sanitation. We experience how traffic jams hinder progress for schoolchildren, and debate how better urban planning can shape Ghana’s growing cities. In Uganda, we ride an eco-friendly bus, and finally, we meet Accra’s Buzstopboys, who keep the streets tidy.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20250412060000 +0000" stop="20250412061500 +0000">
@@ -9366,8 +9361,8 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20250412061500 +0000" stop="20250412063000 +0000">
-		<title>Travel</title>
-		<desc>The Ministry for State Security, or Stasi for short, was the GDR's secret police. It spied on and monitored citizens, imprisoned opposition members, and carried out torture and murder. At its former headquarters in Berlin, we show you how the Stasi managed to penetrate deep into the private lives of GDR citizens.</desc>
+		<title>VoD-5 Interview E</title>
+		<desc>Interview with Marcel Fratzscher from the DWI. Here some info: A new government is about to take office in Germany, and with a fresh coalition agreement it has just presented its plan for the country over the next few years. The new cabinet will have to deal with sluggish economic growth and the prospect of more stagnation.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20250412063000 +0000" stop="20250412070000 +0000">
@@ -9382,7 +9377,7 @@
 	</programme>
 	<programme channel="153" start="20250412071500 +0000" stop="20250412073000 +0000">
 		<title>Sports Life</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+		<desc>Rita Lamptey is hoping to be one of the first of her siblings to finish her education - a rarity for young women in her fishing community in Ghana. Basketball helps her stay focused on the classroom and has inspired her to lend a helping hand to the other young women in her community.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20250412073000 +0000" stop="20250412080000 +0000">
@@ -9407,7 +9402,7 @@
 	</programme>
 	<programme channel="153" start="20250412091500 +0000" stop="20250412093000 +0000">
 		<title>Sports Life</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+		<desc>Rita Lamptey is hoping to be one of the first of her siblings to finish her education - a rarity for young women in her fishing community in Ghana. Basketball helps her stay focused on the classroom and has inspired her to lend a helping hand to the other young women in her community.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20250412093000 +0000" stop="20250412100000 +0000">
@@ -9422,12 +9417,12 @@
 	</programme>
 	<programme channel="153" start="20250412101500 +0000" stop="20250412103000 +0000">
 		<title>Shift</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+		<desc>AI chatbots can help treat mild mental illnesses. But false diagnoses, the misuse of personal data, and the complete absence of human empathy can have serious consequences.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20250412103000 +0000" stop="20250412110000 +0000">
 		<title>Arts Unveiled</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+		<desc>Which is currently a greater threat to the world of books: Being banned, or being replaced by AI? Arts Unveiled looks into the challenges faced by authors and illustrators, amongst others. Also: a visit to a pixel forest made up of 3,000 LED lights.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20250412110000 +0000" stop="20250412110300 +0000">
@@ -9447,7 +9442,7 @@
 	</programme>
 	<programme channel="153" start="20250412121500 +0000" stop="20250412123000 +0000">
 		<title>Shift</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+		<desc>AI chatbots can help treat mild mental illnesses. But false diagnoses, the misuse of personal data, and the complete absence of human empathy can have serious consequences.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20250412123000 +0000" stop="20250412130000 +0000">
@@ -9477,7 +9472,7 @@
 	</programme>
 	<programme channel="153" start="20250412143000 +0000" stop="20250412150000 +0000">
 		<title>The 77 Percent</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+		<desc>This week: Ghanian students plan the 77 Percent show on sustainable cities. We head to Accra to meet residents frustrated by the city’s sanitation. We experience how traffic jams hinder progress for schoolchildren, and debate how better urban planning can shape Ghana’s growing cities. In Uganda, we ride an eco-friendly bus, and finally, we meet Accra’s Buzstopboys, who keep the streets tidy.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20250412150000 +0000" stop="20250412151500 +0000">
@@ -10916,19 +10911,24 @@
 		<icon src="https://poster.starhubgo.com/poster/ch213_laliga.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="213" start="20250411210000 +0000" stop="20250411225000 +0000">
-		<title>Total U-17 Africa Cup of Nations, Morocco 2025: Quarter Final 3</title>
+		<title>Total U-17 Africa Cup of Nations, Morocco 2025: Ivory Coast vs Senegal - QF 3</title>
 		<desc>beIN SPORTS brings you coverage from the 15th edition of the U-17 Africa Cup of Nations hosted by Morocco. The top 10 teams will qualify for the 2025 FIFA U-17 World Cup in Qatar as the CAF representatives.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch213_u17_africa_cup_of_nations_morocco_2025.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="213" start="20250411225000 +0000" stop="20250412004000 +0000">
-		<title>Total U-17 Africa Cup of Nations, Morocco 2025: Quarter Final 4</title>
+		<title>Total U-17 Africa Cup of Nations, Morocco 2025: Tunisia vs Mali - QF 4</title>
 		<desc>beIN SPORTS brings you coverage from the 15th edition of the U-17 Africa Cup of Nations hosted by Morocco. The top 10 teams will qualify for the 2025 FIFA U-17 World Cup in Qatar as the CAF representatives.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch213_u17_africa_cup_of_nations_morocco_2025.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="213" start="20250412004000 +0000" stop="20250412024000 +0000">
-		<title>DTM Esports Championship 2025</title>
-		<desc>Top SimRacers combine for seven breathtaking SimRacing events in early 2025.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch213_dtm_esports_championship.jpg?w=341&amp;h=192" />
+	<programme channel="213" start="20250412004000 +0000" stop="20250412014000 +0000">
+		<title>SailGP Season 5 Highlights</title>
+		<desc>Catch up with highlights, review and behind-the-scenes action from the fourth season of SailGP</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch213_sail_gp_highlights.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="213" start="20250412014000 +0000" stop="20250412024000 +0000">
+		<title>Ferrari Challenge Europe Highlights 2025</title>
+		<desc>Catch the highlights of all the rounds of the Ferrari Challenge Europe 2025.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch213_ferrari_challenge_europe_highlights.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="213" start="20250412024000 +0000" stop="20250412032500 +0000">
 		<title>FIA Formula 3 Championship Practice 2025: Sakhir, Bahrain</title>
@@ -11018,7 +11018,7 @@
 	<programme channel="213" start="20250412141000 +0000" stop="20250412150000 +0000">
 		<title>FIA Formula 2 Championship Sprint 2025: Sakhir, Bahrain (Live)</title>
 		<desc>beIN Sports brings you live and exclusive coverage of the 2025 Formula 2 Championship.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch213_formula_2_sprint.jpg?w=960&amp;h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch213_fia_formula_3_championship_sprint.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="213" start="20250412150000 +0000" stop="20250412151000 +0000">
 		<title>MUTV: Top 20 Goals</title>
@@ -29916,7 +29916,7 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="811" start="20250412045500 +0000" stop="20250412061500 +0000">
-		<title>EXPO 2025 Osaka: Opening Ceremony</title>
+		<title>EXPO 2025 Osaka: Opening Ceremony (B)</title>
 		<desc>The opening ceremony of the EXPO 2025 Osaka will be held on the day before the opening, Saturday, the 12th, from 2:00 p.m. to 3:10 p.m. NHK broadcasts the ceremony live nationwide, encapsulating the philosophy and attractions of the Expo, from the EXPO Hall and other locations.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
@@ -30046,8 +30046,8 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250410163000 +0000" stop="20250410170000 +0000">
-		<title>Core Kyoto</title>
-		<desc>The ancient capital, Kyoto, continues to be innovative after 1,200 years. We dive deep into its core in this definitive programme.</desc>
+		<title>Lunch On!</title>
+		<desc>Photographer Abe Satoru visits a workshop in Yamagata that makes Japanese toy kendama and takes a look at the artisans' bentos - we also visit the late singer-songwriter KAN's favourite lunch spot.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250410170000 +0000" stop="20250410173000 +0000">
@@ -30056,53 +30056,53 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250410173000 +0000" stop="20250410180000 +0000">
-		<title>Lunch On!</title>
-		<desc>Photographer Abe Satoru visits a workshop in Yamagata that makes Japanese toy kendama and takes a look at the artisans' bentos - we also visit the late singer-songwriter KAN's favourite lunch spot.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="812" start="20250410180000 +0000" stop="20250410183000 +0000">
-		<title>NHK Newsline</title>
-		<desc>NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="812" start="20250410183000 +0000" stop="20250410190000 +0000">
 		<title>Today's Close-Up</title>
-		<desc>Dig deeper into current affairs. Cutting-edge information and critical analysis on important issues confronting Japanese lives.</desc>
+		<desc>Many Japanese workers are using apps to find one-off jobs to do in their spare time - the spot work market is also useful for firms impacted by labour crunches. We explore the benefits and risks.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="812" start="20250410190000 +0000" stop="20250410192800 +0000">
+	<programme channel="812" start="20250410180000 +0000" stop="20250410182800 +0000">
 		<title>Newsroom Tokyo</title>
 		<desc>This programme gives you comprehensive coverage of events in Japan and Asia, explaining the day's developments and what is behind them.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="812" start="20250410192800 +0000" stop="20250410194300 +0000">
+	<programme channel="812" start="20250410182800 +0000" stop="20250410184300 +0000">
 		<title>Direct Talk</title>
 		<desc>Miwa Kaito uses information and communications technology to help children in poverty around the world who lack access to adequate schooling - he shares his vision for providing educational support.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="812" start="20250410194300 +0000" stop="20250410195500 +0000">
+	<programme channel="812" start="20250410184300 +0000" stop="20250410185500 +0000">
 		<title>Nun's Seasonal Calendar</title>
 		<desc>In this episode, we learn about the spring dates of seimei and kokuu. The temple chefs show us how to make two seasonal specialties, yomogi rice cakes and bamboo shoots mixed with sansho leaves.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="812" start="20250410195500 +0000" stop="20250410200000 +0000">
+	<programme channel="812" start="20250410185500 +0000" stop="20250410190000 +0000">
 		<title>Ukiyo-e Edo-Life</title>
 		<desc>Mornings begin early for fishmongers and vegetable peddlers at Nihonbashi Bridge for a reason; they are not going to bow to the lord's procession in this bustling scene from everyday Edo life.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="812" start="20250410200000 +0000" stop="20250410202700 +0000">
+	<programme channel="812" start="20250410190000 +0000" stop="20250410192700 +0000">
 		<title>Hometown Stories</title>
 		<desc>After a lifetime's work, dairy farmer Yoshikawa Yuji was diagnosed with cancer and had to retire. As his son takes over the farm, what joys and struggles does he encounter?</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="812" start="20250410202700 +0000" stop="20250410203000 +0000">
+	<programme channel="812" start="20250410192700 +0000" stop="20250410193000 +0000">
 		<title>The Masterpieces of Tsutaju</title>
 		<desc>This series presents the masterpieces of Tsutaju, a brilliant ukiyo-e producer of the Edo period - this episode spotlights ukiyo-e artist Sharaku's debut work 'The Actor Otani Oniji III as Edobei'.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="812" start="20250410203000 +0000" stop="20250410210000 +0000">
+	<programme channel="812" start="20250410193000 +0000" stop="20250410200000 +0000">
 		<title>Japanology Plus</title>
 		<desc>Found all over Japan, torii are gateways to Shinto shrines and the deities within. We meet people trying to rebuild torii after a huge earthquake and examine what torii mean to Japanese people.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="812" start="20250410200000 +0000" stop="20250410203000 +0000">
+		<title>NHK Newsline</title>
+		<desc>NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="812" start="20250410203000 +0000" stop="20250410210000 +0000">
+		<title>Japan Railway Journal</title>
+		<desc>The Yamagata Shinkansen Series E8 has unique features inspired by Yamagata Prefecture and made its debut in March 2024 - see the efforts being made along the line to attract passengers.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250410210000 +0000" stop="20250410213000 +0000">
@@ -30111,8 +30111,8 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250410213000 +0000" stop="20250410220000 +0000">
-		<title>Japan Railway Journal</title>
-		<desc>The Yamagata Shinkansen Series E8 has unique features inspired by Yamagata Prefecture and made its debut in March 2024 - see the efforts being made along the line to attract passengers.</desc>
+		<title>Core Kyoto</title>
+		<desc>Raden, a decorative lacquerware technique, uses the glimmering inner layer of shells; the inlay appears to float resplendently on the black lacquer, inspiring artisans to take the art into the future.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250410220000 +0000" stop="20250410223000 +0000">
@@ -30121,8 +30121,8 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250410223000 +0000" stop="20250410230000 +0000">
-		<title>Core Kyoto</title>
-		<desc>The ancient capital, Kyoto, continues to be innovative after 1,200 years. We dive deep into its core in this definitive programme.</desc>
+		<title>Today's Close-Up</title>
+		<desc>Many Japanese workers are using apps to find one-off jobs to do in their spare time - the spot work market is also useful for firms impacted by labour crunches. We explore the benefits and risks.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250410230000 +0000" stop="20250410233000 +0000">
@@ -30131,8 +30131,8 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250410233000 +0000" stop="20250411000000 +0000">
-		<title>Today's Close-Up</title>
-		<desc>Dig deeper into current affairs. Cutting-edge information and critical analysis on important issues confronting Japanese lives.</desc>
+		<title>Lunch On!</title>
+		<desc>Photographer Abe Satoru visits a workshop in Yamagata that makes Japanese toy kendama and takes a look at the artisans' bentos - we also visit the late singer-songwriter KAN's favourite lunch spot.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250411000000 +0000" stop="20250411003000 +0000">
@@ -30141,8 +30141,8 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250411003000 +0000" stop="20250411010000 +0000">
-		<title>Lunch On!</title>
-		<desc>Photographer Abe Satoru visits a workshop in Yamagata that makes Japanese toy kendama and takes a look at the artisans' bentos - we also visit the late singer-songwriter KAN's favourite lunch spot.</desc>
+		<title>Asia Insight</title>
+		<desc>Once widely used in Taiwan, the Taiwanese language is now in the shadow of Mandarin Chinese - now young people are leading initiatives to revitalise Taiwanese amid political tension with the mainland.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250411010000 +0000" stop="20250411013000 +0000">
@@ -30151,8 +30151,8 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250411013000 +0000" stop="20250411020000 +0000">
-		<title>Asia Insight</title>
-		<desc>Once widely used in Taiwan, the Taiwanese language is now in the shadow of Mandarin Chinese - now young people are leading initiatives to revitalise Taiwanese amid political tension with the mainland.</desc>
+		<title>Today's Close-Up</title>
+		<desc>The children of the cult responsible for the 1995 Tokyo nerve gas attack have remained silent about their experience ever since - we consider what kind of support they truly needed through interviews.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250411020000 +0000" stop="20250411023000 +0000">
@@ -30160,9 +30160,14 @@
 		<desc>NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="812" start="20250411023000 +0000" stop="20250411030000 +0000">
-		<title>Today's Close-Up</title>
-		<desc>Dig deeper into current affairs. Cutting-edge information and critical analysis on important issues confronting Japanese lives.</desc>
+	<programme channel="812" start="20250411023000 +0000" stop="20250411025500 +0000">
+		<title>Spiritual Explorers</title>
+		<desc>The spirit of the samurai is very much alive in kendo, a martial art using bamboo swords - our explorer visits a dojo to gain an insight into the training of spirit, body and mind.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="812" start="20250411025500 +0000" stop="20250411030000 +0000">
+		<title>The Beauty of Japanese Swords</title>
+		<desc>Admired since ancient times for their beauty, Japanese swords are amazing works of art - this time, a sword made by Kuniyuki that is imbued with the power of the deity Fudo-myo-o.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250411030000 +0000" stop="20250411033000 +0000">
@@ -30170,14 +30175,9 @@
 		<desc>NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="812" start="20250411033000 +0000" stop="20250411035500 +0000">
-		<title>Spiritual Explorers</title>
-		<desc>The spirit of the samurai is very much alive in kendo, a martial art using bamboo swords - our explorer visits a dojo to gain an insight into the training of spirit, body and mind.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="812" start="20250411035500 +0000" stop="20250411040000 +0000">
-		<title>The Beauty of Japanese Swords</title>
-		<desc>Admired since ancient times for their beauty, Japanese swords are amazing works of art - this time, a sword made by Kuniyuki that is imbued with the power of the deity Fudo-myo-o.</desc>
+	<programme channel="812" start="20250411033000 +0000" stop="20250411040000 +0000">
+		<title>Japan Railway Journal</title>
+		<desc>The Yamagata Shinkansen Series E8 has unique features inspired by Yamagata Prefecture and made its debut in March 2024 - see the efforts being made along the line to attract passengers.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250411040000 +0000" stop="20250411043000 +0000">
@@ -30186,8 +30186,8 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250411043000 +0000" stop="20250411050000 +0000">
-		<title>Japan Railway Journal</title>
-		<desc>The Yamagata Shinkansen Series E8 has unique features inspired by Yamagata Prefecture and made its debut in March 2024 - see the efforts being made along the line to attract passengers.</desc>
+		<title>Seasoning the Seasons</title>
+		<desc>This programme visits places across Japan to introduce the charms of their local daily life and festivals fostered by the nation's long history.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250411050000 +0000" stop="20250411053000 +0000">
@@ -30196,18 +30196,18 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250411053000 +0000" stop="20250411060000 +0000">
-		<title>Seasoning the Seasons</title>
-		<desc>This programme visits places across Japan to introduce the charms of their local daily life and festivals fostered by the nation's long history.</desc>
+		<title>Asia Insight</title>
+		<desc>Once widely used in Taiwan, the Taiwanese language is now in the shadow of Mandarin Chinese - now young people are leading initiatives to revitalise Taiwanese amid political tension with the mainland.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250411060000 +0000" stop="20250411063000 +0000">
-		<title>NHK Newsline</title>
-		<desc>NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.</desc>
+		<title>Newsline Asia 24</title>
+		<desc>This daily news programme picks up the key news stories of the past 24 hours from Japan and around Asia.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250411063000 +0000" stop="20250411070000 +0000">
-		<title>Asia Insight</title>
-		<desc>Once widely used in Taiwan, the Taiwanese language is now in the shadow of Mandarin Chinese - now young people are leading initiatives to revitalise Taiwanese amid political tension with the mainland.</desc>
+		<title>Today's Close-Up</title>
+		<desc>The children of the cult responsible for the 1995 Tokyo nerve gas attack have remained silent about their experience ever since - we consider what kind of support they truly needed through interviews.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250411070000 +0000" stop="20250411073000 +0000">
@@ -30215,24 +30215,24 @@
 		<desc>This daily news programme picks up the key news stories of the past 24 hours from Japan and around Asia.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="812" start="20250411073000 +0000" stop="20250411080000 +0000">
-		<title>Today's Close-Up</title>
-		<desc>Dig deeper into current affairs. Cutting-edge information and critical analysis on important issues confronting Japanese lives.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="812" start="20250411080000 +0000" stop="20250411083000 +0000">
-		<title>Newsline Asia 24</title>
-		<desc>This daily news programme picks up the key news stories of the past 24 hours from Japan and around Asia.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="812" start="20250411083000 +0000" stop="20250411085500 +0000">
+	<programme channel="812" start="20250411073000 +0000" stop="20250411075500 +0000">
 		<title>Spiritual Explorers</title>
 		<desc>The spirit of the samurai is very much alive in kendo, a martial art using bamboo swords - our explorer visits a dojo to gain an insight into the training of spirit, body and mind.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="812" start="20250411085500 +0000" stop="20250411090000 +0000">
+	<programme channel="812" start="20250411075500 +0000" stop="20250411080000 +0000">
 		<title>The Beauty of Japanese Swords</title>
 		<desc>Admired since ancient times for their beauty, Japanese swords are amazing works of art - this time, a sword made by Kuniyuki that is imbued with the power of the deity Fudo-myo-o.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="812" start="20250411080000 +0000" stop="20250411083000 +0000">
+		<title>NHK Newsline</title>
+		<desc>NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="812" start="20250411083000 +0000" stop="20250411090000 +0000">
+		<title>Document 72 Hours</title>
+		<desc>The menu at a 24-hour Chinese restaurant in western Tokyo includes ramen, gyoza dumplings, and a wide range of set meals - for three days we ask customers why they come here to fill their bellies.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250411090000 +0000" stop="20250411093000 +0000">
@@ -30241,58 +30241,63 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250411093000 +0000" stop="20250411100000 +0000">
-		<title>Document 72 Hours</title>
-		<desc>The menu at a 24-hour Chinese restaurant in western Tokyo includes ramen, gyoza dumplings, and a wide range of set meals - for three days we ask customers why they come here to fill their bellies.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="812" start="20250411100000 +0000" stop="20250411103000 +0000">
-		<title>NHK Newsline</title>
-		<desc>NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="812" start="20250411103000 +0000" stop="20250411110000 +0000">
 		<title>Japan Railway Journal</title>
 		<desc>The Yamagata Shinkansen Series E8 has unique features inspired by Yamagata Prefecture and made its debut in March 2024 - see the efforts being made along the line to attract passengers.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="812" start="20250411110000 +0000" stop="20250411113000 +0000">
+	<programme channel="812" start="20250411100000 +0000" stop="20250411103000 +0000">
 		<title>NHK News 7</title>
 		<desc>An evening news bulletin that provides Japan's views on many domestic and international news events.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="812" start="20250411113000 +0000" stop="20250411120000 +0000">
+	<programme channel="812" start="20250411103000 +0000" stop="20250411110000 +0000">
 		<title>Asia Insight</title>
 		<desc>Once widely used in Taiwan, the Taiwanese language is now in the shadow of Mandarin Chinese - now young people are leading initiatives to revitalise Taiwanese amid political tension with the mainland.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="812" start="20250411120000 +0000" stop="20250411122800 +0000">
+	<programme channel="812" start="20250411110000 +0000" stop="20250411112800 +0000">
 		<title>Newsroom Tokyo</title>
 		<desc>This programme gives you comprehensive coverage of events in Japan and Asia, explaining the day's developments and what is behind them.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="812" start="20250411122800 +0000" stop="20250411124300 +0000">
+	<programme channel="812" start="20250411112800 +0000" stop="20250411114300 +0000">
 		<title>Direct Talk</title>
 		<desc>Nawa Kohei's work has been shown at the Metropolitan Museum of Art and the Louvre Museum - he talks about working with a range of materials and technologies to expand the possibilities of sculpture.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="812" start="20250411124300 +0000" stop="20250411125500 +0000">
+	<programme channel="812" start="20250411114300 +0000" stop="20250411115500 +0000">
 		<title>Impacts: Climates Change the World</title>
 		<desc>Emissions of methane gas, which has a strong effect on global warming, are at a peak - finding a solution in Japan, where 40 per cent of methane emissions come from rice farming, is of key importance.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="812" start="20250411125500 +0000" stop="20250411130000 +0000">
+	<programme channel="812" start="20250411115500 +0000" stop="20250411120000 +0000">
 		<title>Education Chance Opens the World</title>
 		<desc>Maxine is a university student who joined a school providing educational support and life advice to international students wanting to enter Japanese high school, and this experience changed her life.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="812" start="20250411130000 +0000" stop="20250411133000 +0000">
+	<programme channel="812" start="20250411120000 +0000" stop="20250411123000 +0000">
 		<title>Newsroom Tokyo</title>
 		<desc>This programme gives you comprehensive coverage of events in Japan and Asia, explaining the day's developments and what is behind them.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="812" start="20250411133000 +0000" stop="20250411140000 +0000">
+	<programme channel="812" start="20250411123000 +0000" stop="20250411130000 +0000">
 		<title>Today's Close-Up</title>
-		<desc>Dig deeper into current affairs. Cutting-edge information and critical analysis on important issues confronting Japanese lives.</desc>
+		<desc>The children of the cult responsible for the 1995 Tokyo nerve gas attack have remained silent about their experience ever since - we consider what kind of support they truly needed through interviews.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="812" start="20250411130000 +0000" stop="20250411133000 +0000">
+		<title>NHK Newsline</title>
+		<desc>NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="812" start="20250411133000 +0000" stop="20250411135500 +0000">
+		<title>Spiritual Explorers</title>
+		<desc>The spirit of the samurai is very much alive in kendo, a martial art using bamboo swords - our explorer visits a dojo to gain an insight into the training of spirit, body and mind.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="812" start="20250411135500 +0000" stop="20250411140000 +0000">
+		<title>The Beauty of Japanese Swords</title>
+		<desc>Admired since ancient times for their beauty, Japanese swords are amazing works of art - this time, a sword made by Kuniyuki that is imbued with the power of the deity Fudo-myo-o.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250411140000 +0000" stop="20250411143000 +0000">
@@ -30300,14 +30305,9 @@
 		<desc>NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="812" start="20250411143000 +0000" stop="20250411145500 +0000">
-		<title>Spiritual Explorers</title>
-		<desc>The spirit of the samurai is very much alive in kendo, a martial art using bamboo swords - our explorer visits a dojo to gain an insight into the training of spirit, body and mind.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="812" start="20250411145500 +0000" stop="20250411150000 +0000">
-		<title>The Beauty of Japanese Swords</title>
-		<desc>Admired since ancient times for their beauty, Japanese swords are amazing works of art - this time, a sword made by Kuniyuki that is imbued with the power of the deity Fudo-myo-o.</desc>
+	<programme channel="812" start="20250411143000 +0000" stop="20250411150000 +0000">
+		<title>Design X Stories</title>
+		<desc>Today's theme: Design Hunting in Kamakura. The seat of Japan's shogunate 800 years ago, Kamakura has many shrines and temples and is a popular tourist spot - join us on a hunt for regional designs.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250411150000 +0000" stop="20250411153000 +0000">
@@ -30316,8 +30316,8 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250411153000 +0000" stop="20250411160000 +0000">
-		<title>Design X Stories</title>
-		<desc>Today's theme: Design Hunting in Kamakura. The seat of Japan's shogunate 800 years ago, Kamakura has many shrines and temples and is a popular tourist spot - join us on a hunt for regional designs.</desc>
+		<title>Asia Insight</title>
+		<desc>Once widely used in Taiwan, the Taiwanese language is now in the shadow of Mandarin Chinese - now young people are leading initiatives to revitalise Taiwanese amid political tension with the mainland.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250411160000 +0000" stop="20250411163000 +0000">
@@ -30326,8 +30326,8 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250411163000 +0000" stop="20250411170000 +0000">
-		<title>Asia Insight</title>
-		<desc>Once widely used in Taiwan, the Taiwanese language is now in the shadow of Mandarin Chinese - now young people are leading initiatives to revitalise Taiwanese amid political tension with the mainland.</desc>
+		<title>Frontrunners</title>
+		<desc>Globally-renowned chef Kuwakino Keiko uses a new take on traditional methods to showcase the culture, climate and produce of Minami-Uonuma, one of the snowiest places in Japan.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250411170000 +0000" stop="20250411173000 +0000">
@@ -30336,53 +30336,53 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250411173000 +0000" stop="20250411180000 +0000">
-		<title>Frontrunners</title>
-		<desc>Globally-renowned chef Kuwakino Keiko uses a new take on traditional methods to showcase the culture, climate and produce of Minami-Uonuma, one of the snowiest places in Japan.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="812" start="20250411180000 +0000" stop="20250411183000 +0000">
-		<title>NHK Newsline</title>
-		<desc>NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="812" start="20250411183000 +0000" stop="20250411190000 +0000">
 		<title>Today's Close-Up</title>
-		<desc>Dig deeper into current affairs. Cutting-edge information and critical analysis on important issues confronting Japanese lives.</desc>
+		<desc>The children of the cult responsible for the 1995 Tokyo nerve gas attack have remained silent about their experience ever since - we consider what kind of support they truly needed through interviews.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="812" start="20250411190000 +0000" stop="20250411192800 +0000">
+	<programme channel="812" start="20250411180000 +0000" stop="20250411182800 +0000">
 		<title>Newsroom Tokyo</title>
 		<desc>This programme gives you comprehensive coverage of events in Japan and Asia, explaining the day's developments and what is behind them.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="812" start="20250411192800 +0000" stop="20250411194300 +0000">
+	<programme channel="812" start="20250411182800 +0000" stop="20250411184300 +0000">
 		<title>Direct Talk</title>
 		<desc>Nawa Kohei's work has been shown at the Metropolitan Museum of Art and the Louvre Museum - he talks about working with a range of materials and technologies to expand the possibilities of sculpture.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="812" start="20250411194300 +0000" stop="20250411195500 +0000">
+	<programme channel="812" start="20250411184300 +0000" stop="20250411185500 +0000">
 		<title>Impacts: Climates Change the World</title>
 		<desc>Emissions of methane gas, which has a strong effect on global warming, are at a peak - finding a solution in Japan, where 40 per cent of methane emissions come from rice farming, is of key importance.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="812" start="20250411195500 +0000" stop="20250411200000 +0000">
+	<programme channel="812" start="20250411185500 +0000" stop="20250411190000 +0000">
 		<title>Ukiyo-e Edo-Life</title>
 		<desc>The Piercing Gaze: A man strikes a pose in an iconic woodblock print by the artist Sharaku; who is the mysterious figure, what is he doing, and why did the artist want to commemorate the moment?</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="812" start="20250411200000 +0000" stop="20250411203000 +0000">
+	<programme channel="812" start="20250411190000 +0000" stop="20250411193000 +0000">
 		<title>Medical Frontiers</title>
 		<desc>From prevention to cure, the groundbreaking world of Japanese medical technology and healthcare! This programme offers tips for superfoods and easy exercises for a healthy lifestyle.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="812" start="20250411203000 +0000" stop="20250411205500 +0000">
+	<programme channel="812" start="20250411193000 +0000" stop="20250411195500 +0000">
 		<title>Spiritual Explorers</title>
 		<desc>The spirit of the samurai is very much alive in kendo, a martial art using bamboo swords - our explorer visits a dojo to gain an insight into the training of spirit, body and mind.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="812" start="20250411205500 +0000" stop="20250411210000 +0000">
+	<programme channel="812" start="20250411195500 +0000" stop="20250411200000 +0000">
 		<title>The Beauty of Japanese Swords</title>
 		<desc>Admired since ancient times for their beauty, Japanese swords are amazing works of art - this time, a sword made by Kuniyuki that is imbued with the power of the deity Fudo-myo-o.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="812" start="20250411200000 +0000" stop="20250411203000 +0000">
+		<title>NHK Newsline</title>
+		<desc>NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="812" start="20250411203000 +0000" stop="20250411210000 +0000">
+		<title>Design X Stories</title>
+		<desc>Today's theme: Design Hunting in Kamakura. The seat of Japan's shogunate 800 years ago, Kamakura has many shrines and temples and is a popular tourist spot - join us on a hunt for regional designs.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250411210000 +0000" stop="20250411213000 +0000">
@@ -30391,8 +30391,8 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250411213000 +0000" stop="20250411220000 +0000">
-		<title>Design X Stories</title>
-		<desc>Today's theme: Design Hunting in Kamakura. The seat of Japan's shogunate 800 years ago, Kamakura has many shrines and temples and is a popular tourist spot - join us on a hunt for regional designs.</desc>
+		<title>Asia Insight</title>
+		<desc>Once widely used in Taiwan, the Taiwanese language is now in the shadow of Mandarin Chinese - now young people are leading initiatives to revitalise Taiwanese amid political tension with the mainland.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250411220000 +0000" stop="20250411223000 +0000">
@@ -30401,18 +30401,28 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250411223000 +0000" stop="20250411230000 +0000">
-		<title>Asia Insight</title>
-		<desc>Once widely used in Taiwan, the Taiwanese language is now in the shadow of Mandarin Chinese - now young people are leading initiatives to revitalise Taiwanese amid political tension with the mainland.</desc>
+		<title>Today's Close-Up</title>
+		<desc>The children of the cult responsible for the 1995 Tokyo nerve gas attack have remained silent about their experience ever since - we consider what kind of support they truly needed through interviews.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="812" start="20250411230000 +0000" stop="20250411233000 +0000">
+	<programme channel="812" start="20250411230000 +0000" stop="20250411231000 +0000">
 		<title>NHK Newsline</title>
 		<desc>NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
+	<programme channel="812" start="20250411231000 +0000" stop="20250411231500 +0000">
+		<title>Education Chance Opens the World</title>
+		<desc>Maxine is a university student who joined a school providing educational support and life advice to international students wanting to enter Japanese high school, and this experience changed her life.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="812" start="20250411231500 +0000" stop="20250411233000 +0000">
+		<title>Japan's Top Inventions</title>
+		<desc>Discover the stories behind renowned Japanese products alongside our reporter. This time: Capsule Figures.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
 	<programme channel="812" start="20250411233000 +0000" stop="20250412000000 +0000">
-		<title>Today's Close-Up</title>
-		<desc>Dig deeper into current affairs. Cutting-edge information and critical analysis on important issues confronting Japanese lives.</desc>
+		<title>Japanology Plus</title>
+		<desc>Found all over Japan, torii are gateways to Shinto shrines and the deities within. We meet people trying to rebuild torii after a huge earthquake and examine what torii mean to Japanese people.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250412000000 +0000" stop="20250412001000 +0000">
@@ -30420,19 +30430,9 @@
 		<desc>NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="812" start="20250412001000 +0000" stop="20250412001500 +0000">
-		<title>Education Chance Opens the World</title>
-		<desc>Maxine is a university student who joined a school providing educational support and life advice to international students wanting to enter Japanese high school, and this experience changed her life.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="812" start="20250412001500 +0000" stop="20250412003000 +0000">
-		<title>Japan's Top Inventions</title>
-		<desc>Discover the stories behind renowned Japanese products alongside our reporter. This time: Capsule Figures.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="812" start="20250412003000 +0000" stop="20250412010000 +0000">
-		<title>Japanology Plus</title>
-		<desc>Found all over Japan, torii are gateways to Shinto shrines and the deities within. We meet people trying to rebuild torii after a huge earthquake and examine what torii mean to Japanese people.</desc>
+	<programme channel="812" start="20250412001000 +0000" stop="20250412010000 +0000">
+		<title>The Unbreakable Silence</title>
+		<desc>The Supreme Court ruled Japan's defunct Eugenic Protection Law as unconstitutional in July 2024 - we look into why many of the victims who were forcefully sterilised remain silent on their suffering.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250412010000 +0000" stop="20250412011000 +0000">
@@ -30441,8 +30441,8 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250412011000 +0000" stop="20250412020000 +0000">
-		<title>The Unbreakable Silence</title>
-		<desc>The Supreme Court ruled Japan's defunct Eugenic Protection Law as unconstitutional in July 2024 - we look into why many of the victims who were forcefully sterilised remain silent on their suffering.</desc>
+		<title>Piano Girl</title>
+		<desc>Okinawa, Japan - Momoko loved the piano and attended a school that had one, then the war arrived and she was drafted to work in an army hospital. Could she survive the war through the power of music?</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250412020000 +0000" stop="20250412021000 +0000">
@@ -30451,8 +30451,8 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250412021000 +0000" stop="20250412030000 +0000">
-		<title>Piano Girl</title>
-		<desc>Okinawa, Japan - Momoko loved the piano and attended a school that had one, then the war arrived and she was drafted to work in an army hospital. Could she survive the war through the power of music?</desc>
+		<title>Cycle Around Japan</title>
+		<desc>Historically the gateway to Asia, Fukuoka is where Japan's rice-growing culture began - we meet organic farmers, canal boatmen, traditional fireworks makers and the last of the area's coal miners.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250412030000 +0000" stop="20250412031000 +0000">
@@ -30460,9 +30460,19 @@
 		<desc>NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="812" start="20250412031000 +0000" stop="20250412040000 +0000">
-		<title>Cycle Around Japan</title>
-		<desc>Historically the gateway to Asia, Fukuoka is where Japan's rice-growing culture began - we meet organic farmers, canal boatmen, traditional fireworks makers and the last of the area's coal miners.</desc>
+	<programme channel="812" start="20250412031000 +0000" stop="20250412034000 +0000">
+		<title>Design X Stories</title>
+		<desc>Today's theme: Design Hunting in Kamakura. The seat of Japan's shogunate 800 years ago, Kamakura has many shrines and temples and is a popular tourist spot - join us on a hunt for regional designs.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="812" start="20250412034000 +0000" stop="20250412035000 +0000">
+		<title>u&amp;i</title>
+		<desc>This show for kids promotes a greater understanding for people with difficulties and helps develop empathy - with the help of two fairies, the main character thinks about what can be done to help.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="812" start="20250412035000 +0000" stop="20250412040000 +0000">
+		<title>Texico</title>
+		<desc>Learn programming principles without a computer! Animated characters provide fun and lucid explanations of five core processes: analysis, combination, generalisation, abstraction and simulation.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250412040000 +0000" stop="20250412041000 +0000">
@@ -30471,58 +30481,28 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250412041000 +0000" stop="20250412044000 +0000">
-		<title>Design X Stories</title>
-		<desc>Today's theme: Design Hunting in Kamakura. The seat of Japan's shogunate 800 years ago, Kamakura has many shrines and temples and is a popular tourist spot - join us on a hunt for regional designs.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="812" start="20250412044000 +0000" stop="20250412045000 +0000">
-		<title>u&amp;i</title>
-		<desc>This show for kids promotes a greater understanding for people with difficulties and helps develop empathy - with the help of two fairies, the main character thinks about what can be done to help.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="812" start="20250412045000 +0000" stop="20250412050000 +0000">
-		<title>Texico</title>
-		<desc>Learn programming principles without a computer! Animated characters provide fun and lucid explanations of five core processes: analysis, combination, generalisation, abstraction and simulation.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="812" start="20250412050000 +0000" stop="20250412051000 +0000">
-		<title>NHK Newsline</title>
-		<desc>NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="812" start="20250412051000 +0000" stop="20250412054000 +0000">
 		<title>Samurai Castles</title>
 		<desc>Himeji Castle, a UNESCO World Heritage Site, boasts the tallest extant main keep in Japan - the elegant main keep and the sub-keeps are connected by corridors forming a sturdy defence.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="812" start="20250412054000 +0000" stop="20250412055500 +0000">
+	<programme channel="812" start="20250412044000 +0000" stop="20250412045500 +0000">
 		<title>Cinematic Journey</title>
 		<desc>Join our explorers as they pursue the cinematic beauty of Japan - in this episode, Kyle Card hikes the newly-designated long trail around majestic Mount Fuji and discovers its secrets.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="812" start="20250412055500 +0000" stop="20250412060000 +0000">
-		<title>Core Kyoto Mini</title>
-		<desc>The head Inari shrine has 30,000 subordinate shrines throughout Japan - since its foundation in 711 A.D. / C.E., the Inari deities have attracted worshippers with varying needs.</desc>
+	<programme channel="812" start="20250412045500 +0000" stop="20250412061500 +0000">
+		<title>Expo 2025 Opening Ceremony</title>
+		<desc>Live coverage of the Expo 2025 Osaka, Kansai, Japan opening ceremony.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="812" start="20250412060000 +0000" stop="20250412061000 +0000">
-		<title>NHK Newsline</title>
-		<desc>NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.</desc>
+	<programme channel="812" start="20250412061500 +0000" stop="20250412064500 +0000">
+		<title>Face to Face</title>
+		<desc>Sato Yusuke leads a sake brewery in Akita - by focusing on traditional brewing methods, he's sparked a new era in sake brewing and revitalised the local area. He talks about the industry's future.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="812" start="20250412061000 +0000" stop="20250412064000 +0000">
+	<programme channel="812" start="20250412064500 +0000" stop="20250412070000 +0000">
 		<title>NHK World Selection</title>
 		<desc>A selection of acclaimed programmes from NHK's domestic channels dubbed into English.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="812" start="20250412064000 +0000" stop="20250412065500 +0000">
-		<title>Bosai: Science That Can Save Your Life</title>
-		<desc>Disaster Response Robots: If disaster strikes, it can be hard to find people if fire, volcanic eruption, or nuclear accidents prevent smooth recovery - that's where disaster response robots can help.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="812" start="20250412065500 +0000" stop="20250412070000 +0000">
-		<title>Clothes That Transcend Time</title>
-		<desc>Akita / Koike Kazuko (Creative Director): The Nishimonai Bon Odori Festival has been held for over 700 years - Koike finds timeless beauty in its costumes remade using beloved family kimonos.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250412070000 +0000" stop="20250412071000 +0000">
@@ -30531,8 +30511,8 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250412071000 +0000" stop="20250412080000 +0000">
-		<title>The Unbreakable Silence</title>
-		<desc>The Supreme Court ruled Japan's defunct Eugenic Protection Law as unconstitutional in July 2024 - we look into why many of the victims who were forcefully sterilised remain silent on their suffering.</desc>
+		<title>Piano Girl</title>
+		<desc>Okinawa, Japan - Momoko loved the piano and attended a school that had one, then the war arrived and she was drafted to work in an army hospital. Could she survive the war through the power of music?</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250412080000 +0000" stop="20250412081000 +0000">
@@ -30540,9 +30520,19 @@
 		<desc>NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="812" start="20250412081000 +0000" stop="20250412090000 +0000">
-		<title>Piano Girl</title>
-		<desc>Okinawa, Japan - Momoko loved the piano and attended a school that had one, then the war arrived and she was drafted to work in an army hospital. Could she survive the war through the power of music?</desc>
+	<programme channel="812" start="20250412081000 +0000" stop="20250412084000 +0000">
+		<title>Samurai Castles</title>
+		<desc>Himeji Castle, a UNESCO World Heritage Site, boasts the tallest extant main keep in Japan - the elegant main keep and the sub-keeps are connected by corridors forming a sturdy defence.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="812" start="20250412084000 +0000" stop="20250412085500 +0000">
+		<title>Cinematic Journey</title>
+		<desc>Join our explorers as they pursue the cinematic beauty of Japan - in this episode, Kyle Card hikes the newly-designated long trail around majestic Mount Fuji and discovers its secrets.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="812" start="20250412085500 +0000" stop="20250412090000 +0000">
+		<title>Core Kyoto Mini</title>
+		<desc>The head Inari shrine has 30,000 subordinate shrines throughout Japan - since its foundation in 711 A.D. / C.E., the Inari deities have attracted worshippers with varying needs.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250412090000 +0000" stop="20250412091000 +0000">
@@ -30551,18 +30541,18 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250412091000 +0000" stop="20250412094000 +0000">
-		<title>Samurai Castles</title>
-		<desc>Himeji Castle, a UNESCO World Heritage Site, boasts the tallest extant main keep in Japan - the elegant main keep and the sub-keeps are connected by corridors forming a sturdy defence.</desc>
+		<title>Design X Stories</title>
+		<desc>Today's theme: Design Hunting in Kamakura. The seat of Japan's shogunate 800 years ago, Kamakura has many shrines and temples and is a popular tourist spot - join us on a hunt for regional designs.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="812" start="20250412094000 +0000" stop="20250412095500 +0000">
-		<title>Cinematic Journey</title>
-		<desc>Join our explorers as they pursue the cinematic beauty of Japan - in this episode, Kyle Card hikes the newly-designated long trail around majestic Mount Fuji and discovers its secrets.</desc>
+	<programme channel="812" start="20250412094000 +0000" stop="20250412095000 +0000">
+		<title>u&amp;i</title>
+		<desc>This show for kids promotes a greater understanding for people with difficulties and helps develop empathy - with the help of two fairies, the main character thinks about what can be done to help.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="812" start="20250412095500 +0000" stop="20250412100000 +0000">
-		<title>Core Kyoto Mini</title>
-		<desc>The head Inari shrine has 30,000 subordinate shrines throughout Japan - since its foundation in 711 A.D. / C.E., the Inari deities have attracted worshippers with varying needs.</desc>
+	<programme channel="812" start="20250412095000 +0000" stop="20250412100000 +0000">
+		<title>Texico</title>
+		<desc>Learn programming principles without a computer! Animated characters provide fun and lucid explanations of five core processes: analysis, combination, generalisation, abstraction and simulation.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250412100000 +0000" stop="20250412101000 +0000">
@@ -30570,19 +30560,9 @@
 		<desc>NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="812" start="20250412101000 +0000" stop="20250412104000 +0000">
-		<title>Design X Stories</title>
-		<desc>Today's theme: Design Hunting in Kamakura. The seat of Japan's shogunate 800 years ago, Kamakura has many shrines and temples and is a popular tourist spot - join us on a hunt for regional designs.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="812" start="20250412104000 +0000" stop="20250412105000 +0000">
-		<title>u&amp;i</title>
-		<desc>This show for kids promotes a greater understanding for people with difficulties and helps develop empathy - with the help of two fairies, the main character thinks about what can be done to help.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="812" start="20250412105000 +0000" stop="20250412110000 +0000">
-		<title>Texico</title>
-		<desc>Learn programming principles without a computer! Animated characters provide fun and lucid explanations of five core processes: analysis, combination, generalisation, abstraction and simulation.</desc>
+	<programme channel="812" start="20250412101000 +0000" stop="20250412110000 +0000">
+		<title>Cycle Around Japan</title>
+		<desc>Historically the gateway to Asia, Fukuoka is where Japan's rice-growing culture began - we meet organic farmers, canal boatmen, traditional fireworks makers and the last of the area's coal miners.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250412110000 +0000" stop="20250412111000 +0000">
@@ -30590,9 +30570,19 @@
 		<desc>NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="812" start="20250412111000 +0000" stop="20250412120000 +0000">
-		<title>Cycle Around Japan</title>
-		<desc>Historically the gateway to Asia, Fukuoka is where Japan's rice-growing culture began - we meet organic farmers, canal boatmen, traditional fireworks makers and the last of the area's coal miners.</desc>
+	<programme channel="812" start="20250412111000 +0000" stop="20250412114000 +0000">
+		<title>Face to Face</title>
+		<desc>Sato Yusuke leads a sake brewery in Akita - by focusing on traditional brewing methods, he's sparked a new era in sake brewing and revitalised the local area. He talks about the industry's future.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="812" start="20250412114000 +0000" stop="20250412115500 +0000">
+		<title>NHK World Selection</title>
+		<desc>A selection of acclaimed programmes from NHK's domestic channels dubbed into English.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="812" start="20250412115500 +0000" stop="20250412120000 +0000">
+		<title>Clothes That Transcend Time</title>
+		<desc>Akita / Koike Kazuko (Creative Director): The Nishimonai Bon Odori Festival has been held for over 700 years - Koike finds timeless beauty in its costumes remade using beloved family kimonos.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250412120000 +0000" stop="20250412121000 +0000">
@@ -30600,19 +30590,9 @@
 		<desc>NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="812" start="20250412121000 +0000" stop="20250412124000 +0000">
-		<title>NHK World Selection</title>
-		<desc>A selection of acclaimed programmes from NHK's domestic channels dubbed into English.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="812" start="20250412124000 +0000" stop="20250412125500 +0000">
-		<title>Bosai: Science That Can Save Your Life</title>
-		<desc>Disaster Response Robots: If disaster strikes, it can be hard to find people if fire, volcanic eruption, or nuclear accidents prevent smooth recovery - that's where disaster response robots can help.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="812" start="20250412125500 +0000" stop="20250412130000 +0000">
-		<title>Clothes That Transcend Time</title>
-		<desc>Akita / Koike Kazuko (Creative Director): The Nishimonai Bon Odori Festival has been held for over 700 years - Koike finds timeless beauty in its costumes remade using beloved family kimonos.</desc>
+	<programme channel="812" start="20250412121000 +0000" stop="20250412130000 +0000">
+		<title>The Unbreakable Silence</title>
+		<desc>The Supreme Court ruled Japan's defunct Eugenic Protection Law as unconstitutional in July 2024 - we look into why many of the victims who were forcefully sterilised remain silent on their suffering.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250412130000 +0000" stop="20250412131000 +0000">
@@ -30621,8 +30601,8 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250412131000 +0000" stop="20250412140000 +0000">
-		<title>The Unbreakable Silence</title>
-		<desc>The Supreme Court ruled Japan's defunct Eugenic Protection Law as unconstitutional in July 2024 - we look into why many of the victims who were forcefully sterilised remain silent on their suffering.</desc>
+		<title>Piano Girl</title>
+		<desc>Okinawa, Japan - Momoko loved the piano and attended a school that had one, then the war arrived and she was drafted to work in an army hospital. Could she survive the war through the power of music?</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250412140000 +0000" stop="20250412141000 +0000">
@@ -30630,9 +30610,19 @@
 		<desc>NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="812" start="20250412141000 +0000" stop="20250412150000 +0000">
-		<title>Piano Girl</title>
-		<desc>Okinawa, Japan - Momoko loved the piano and attended a school that had one, then the war arrived and she was drafted to work in an army hospital. Could she survive the war through the power of music?</desc>
+	<programme channel="812" start="20250412141000 +0000" stop="20250412144000 +0000">
+		<title>Biz Stream</title>
+		<desc>This episode features new business models that are putting a new spin on selling secondhand and vintage clothing.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="812" start="20250412144000 +0000" stop="20250412145000 +0000">
+		<title>u&amp;i</title>
+		<desc>This show for kids promotes a greater understanding for people with difficulties and helps develop empathy - with the help of two fairies, the main character thinks about what can be done to help.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="812" start="20250412145000 +0000" stop="20250412150000 +0000">
+		<title>Texico</title>
+		<desc>Learn programming principles without a computer! Animated characters provide fun and lucid explanations of five core processes: analysis, combination, generalisation, abstraction and simulation.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250412150000 +0000" stop="20250412151000 +0000">
@@ -30640,19 +30630,9 @@
 		<desc>NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="812" start="20250412151000 +0000" stop="20250412154000 +0000">
-		<title>Biz Stream</title>
-		<desc>This upbeat programme combines business and economic news with in-depth feature stories that give you a closer look at the latest trends within Japan and around the world.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="812" start="20250412154000 +0000" stop="20250412155000 +0000">
-		<title>u&amp;i</title>
-		<desc>This show for kids promotes a greater understanding for people with difficulties and helps develop empathy - with the help of two fairies, the main character thinks about what can be done to help.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="812" start="20250412155000 +0000" stop="20250412160000 +0000">
-		<title>Texico</title>
-		<desc>Learn programming principles without a computer! Animated characters provide fun and lucid explanations of five core processes: analysis, combination, generalisation, abstraction and simulation.</desc>
+	<programme channel="812" start="20250412151000 +0000" stop="20250412160000 +0000">
+		<title>Cycle Around Japan</title>
+		<desc>Historically the gateway to Asia, Fukuoka is where Japan's rice-growing culture began - we meet organic farmers, canal boatmen, traditional fireworks makers and the last of the area's coal miners.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="815" start="20250410154000 +0000" stop="20250410165500 +0000">
