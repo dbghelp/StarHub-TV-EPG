@@ -10425,10 +10425,15 @@
 		<desc>The ISUZU UTE A-League Men's is the top-division Men's soccer league in Australia. The top four teams in the regular season then advance to the single-game knockout stage.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_spotv2_logo.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="210" start="20250411070000 +0000" stop="20250411081500 +0000">
+	<programme channel="210" start="20250411070000 +0000" stop="20250411073000 +0000">
 		<title>2025 WTT Champions Incheon</title>
 		<desc>Watch the biggest stars in the sport light up the Infinity Arena with high-octane table tennis. The stakes are high with USD 1.5M in prize money and 2000 world ranking points up for grab.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_wtt.jpg?w=960&amp;h=540" />
+	</programme>
+	<programme channel="210" start="20250411073000 +0000" stop="20250411081500 +0000">
+		<title>A-League Men 2024/25 Mini Match Rd25 Brisbane Roar vs Macarthur</title>
+		<desc>The ISUZU UTE A-League Men's is the top-division Men's soccer league in Australia. The top four teams in the regular season then advance to the single-game knockout stage.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch210_spotv2_logo.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="210" start="20250411081500 +0000" stop="20250411093000 +0000">
 		<title>WorldSBK 2025: Rd3 Dutch Round</title>
@@ -10455,12 +10460,12 @@
 		<desc>Superbike World Championship also known as WorldSBK, is a silhouette road racing series based on heavily modified production sports motorcycles.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_sbk_motul.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="210" start="20250411141000 +0000" stop="20250411145500 +0000">
+	<programme channel="210" start="20250411141000 +0000" stop="20250411145000 +0000">
 		<title>WorldSBK 2025: Rd3 Dutch Round</title>
 		<desc>Superbike World Championship also known as WorldSBK, is a silhouette road racing series based on heavily modified production sports motorcycles.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_sbk_motul.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="210" start="20250411145500 +0000" stop="20250411153000 +0000">
+	<programme channel="210" start="20250411145000 +0000" stop="20250411153000 +0000">
 		<title>WorldWCR2025: Rd1 Dutch Round</title>
 		<desc>The FIM Women's Circuit Racing World Championship, with six rounds in 2025, is a pioneering single-make series exclusively for aspiring female riders, featuring the Yamaha R7.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_motorsports.jpg?w=341&amp;h=192" />
@@ -10475,10 +10480,15 @@
 		<desc>The ISUZU UTE A-League Men's is the top-division Men's soccer league in Australia. The top four teams in the regular season then advance to the single-game knockout stage.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_spotv2_logo.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="210" start="20250411180000 +0000" stop="20250411190000 +0000">
+	<programme channel="210" start="20250411180000 +0000" stop="20250411183000 +0000">
 		<title>2025 WTT Champions Incheon</title>
 		<desc>Watch the biggest stars in the sport light up the Infinity Arena with high-octane table tennis. The stakes are high with USD 1.5M in prize money and 2000 world ranking points up for grab.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_wtt.jpg?w=960&amp;h=540" />
+	</programme>
+	<programme channel="210" start="20250411183000 +0000" stop="20250411190000 +0000">
+		<title>A-League Men 2024/25 Mini Match Rd25 Auckland vs Western Sydney</title>
+		<desc>The ISUZU UTE A-League Men's is the top-division Men's soccer league in Australia. The top four teams in the regular season then advance to the single-game knockout stage.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch210_spotv2_logo.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="210" start="20250411190000 +0000" stop="20250411233000 +0000">
 		<title>2025 Augusta Masters</title>
@@ -12026,7 +12036,7 @@
 		<icon src="https://poster.starhubgo.com/poster/ch241_karate_world_cship.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="241" start="20250411040000 +0000" stop="20250411050000 +0000">
-		<title>FS MMA bodogFIGHT Season One Highlights</title>
+		<title>FS MMA</title>
 		<desc>BodogFIGHT features classic MMA matches involving some of your favorite fighters! This episode features all of the highlights from BodogFIGHT season one showing recaps and highlights of all the MMA scraps that took place in Costa Rica.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch241_fight_sports_MMA.jpg?w=341&amp;h=192" />
 	</programme>
@@ -12066,7 +12076,7 @@
 		<icon src="https://poster.starhubgo.com/poster/ch241_karate_world_cship.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="241" start="20250411100000 +0000" stop="20250411110000 +0000">
-		<title>FS MMA bodogFIGHT Season One Highlights</title>
+		<title>FS MMA</title>
 		<desc>BodogFIGHT features classic MMA matches involving some of your favorite fighters! This episode features all of the highlights from BodogFIGHT season one showing recaps and highlights of all the MMA scraps that took place in Costa Rica.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch241_fight_sports_MMA.jpg?w=341&amp;h=192" />
 	</programme>
@@ -22620,11 +22630,6 @@
 		<desc>Watch the best of the BBC's journalism from around the world.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch701_BBC_news.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="701" start="20250410183000 +0000" stop="20250410190000 +0000">
-		<title>The World Today with Maryam Moshiri</title>
-		<desc>Watch the best of the BBC's journalism from around the world.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch701_BBC_news.jpg?w=341&amp;h=192" />
-	</programme>
 	<programme channel="701" start="20250410190000 +0000" stop="20250410193000 +0000">
 		<title>The Context</title>
 		<desc>A regular panel of guests from across the political spectrum discuss the biggest international stories of the day.</desc>
@@ -22937,7 +22942,7 @@
 	</programme>
 	<programme channel="701" start="20250411233000 +0000" stop="20250412000000 +0000">
 		<title>Talking Business</title>
-		<desc>Examining the business stories and economic trends that are re-shaping our world.</desc>
+		<desc>Tanya Beckett examines how Donald Trump and Elon Musk's gutting of USAID might impact lives and business across Africa, and reshape global alliances.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch701_talking_business.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="701" start="20250412000000 +0000" stop="20250412003000 +0000">
