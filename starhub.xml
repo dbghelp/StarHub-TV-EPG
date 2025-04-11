@@ -184,6 +184,14 @@
 		<display-name>beIN Sports 3</display-name>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/214_1920x1080_HTV.png?w=272" />
 	</channel>
+	<channel id="215">
+		<display-name>beIN Sports 4</display-name>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/215_1920x1080_HTV.png?w=272" />
+	</channel>
+	<channel id="216">
+		<display-name>beIN Sports 5</display-name>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/216_1920x1080_HTV.png?w=272" />
+	</channel>
 	<channel id="221">
 		<display-name>Hub Premier 1</display-name>
 		<icon src="https://poster.starhubgo.com/Linear_Channels2/221_1920x1080_HTV.png?w=272" />
@@ -207,10 +215,6 @@
 	<channel id="226">
 		<display-name>Hub Premier 6</display-name>
 		<icon src="https://poster.starhubgo.com/Linear_Channels2/226_1920x1080_HTV.png?w=272" />
-	</channel>
-	<channel id="227">
-		<display-name>Hub Premier 7</display-name>
-		<icon src="https://poster.starhubgo.com/Linear_Channels2/227_1920x1080_HTV.png?w=272" />
 	</channel>
 	<channel id="228">
 		<display-name>Hub Premier 8</display-name>
@@ -1093,7 +1097,7 @@
 	</programme>
 	<programme channel="103" start="20250411123000 +0000" stop="20250411130000 +0000">
 		<title>Frontline - EP 2</title>
-		<desc>Frontline is a weekly investigative current affairs programme that aims to address issues closest to the hearts of Singaporeans.</desc>
+		<desc>With the general election drawing near, what are the issues that matter most to Singaporeans? Will global tension and trade wars sway election results?</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/103_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="103" start="20250411130000 +0000" stop="20250411140000 +0000">
@@ -1103,7 +1107,7 @@
 	</programme>
 	<programme channel="103" start="20250411140000 +0000" stop="20250411143000 +0000">
 		<title>News Tonight - EP 11</title>
-		<desc>(Live)</desc>
+		<desc>(Live) Daily evening updates on top local news and world news.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/103_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="103" start="20250411143000 +0000" stop="20250411150000 +0000">
@@ -1153,7 +1157,7 @@
 	</programme>
 	<programme channel="103" start="20250411225000 +0000" stop="20250411232000 +0000">
 		<title>News Tonight - EP 11</title>
-		<desc />
+		<desc>Daily evening updates on top local news and world news.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/103_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="103" start="20250411232000 +0000" stop="20250412001000 +0000">
@@ -1396,14 +1400,9 @@
 		<desc>Soraya really didn't think her mother could make Haidar Alam go crazy for her as he has been so focused on making Soraya's mother as his own._x000D_This irritates Soraya and makes her question his intentions._x000D_Soraya does not want to marry Haidar, especially in the fasting month. But Soraya's mother threatened to send her to an orphanage if she doesn't follow.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/104_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="104" start="20250411153000 +0000" stop="20250411220000 +0000">
+	<programme channel="104" start="20250411153000 +0000" stop="20250412010000 +0000">
 		<title>Berita - EP 11</title>
 		<desc>Catch the latest local and international news on Suria.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/104_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="104" start="20250411220000 +0000" stop="20250412010000 +0000">
-		<title>End of transmission</title>
-		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_channels2/104_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="104" start="20250412010000 +0000" stop="20250412013000 +0000">
@@ -1486,14 +1485,9 @@
 		<desc>Catch the latest local and international news on Suria.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/104_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="105" start="20250410160000 +0000" stop="20250411000000 +0000">
+	<programme channel="105" start="20250410160000 +0000" stop="20250411010000 +0000">
 		<title>Seithi - EP 10</title>
 		<desc>Tamil Seithi focuses primarily on local and international news, information and current affairs. _x000D_Catch the online news portal at http://seithi.mediacorp.sg/</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/105_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="105" start="20250411000000 +0000" stop="20250411010000 +0000">
-		<title>End of transmission</title>
-		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_channels2/105_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="105" start="20250411010000 +0000" stop="20250411013000 +0000">
@@ -1591,14 +1585,9 @@
 		<desc>A man, who is popular in town for dramatically ruining marriages, finds himself in a tricky situation when his own wedding ceremony is on the cusp of disaster.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/105_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="105" start="20250411163000 +0000" stop="20250412000000 +0000">
+	<programme channel="105" start="20250411163000 +0000" stop="20250412010000 +0000">
 		<title>Seithi - EP 11</title>
 		<desc>Tamil Seithi focuses primarily on local and international news, information and current affairs. _x000D_Catch the online news portal at http://seithi.mediacorp.sg/</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/105_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="105" start="20250412000000 +0000" stop="20250412010000 +0000">
-		<title>End of transmission</title>
-		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_channels2/105_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="105" start="20250412010000 +0000" stop="20250412013000 +0000">
@@ -2001,17 +1990,12 @@
 		<desc>(Dual language Chinese and Korean) After Jiang Zhongquan tasted the beef soup made by Jin Yingxin, he couldn't believe that her soup would lose to Cui Shujing's seafood soup, so he decides to use Jin Yingxin's soup as the signature dish.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/107_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="107" start="20250410173000 +0000" stop="20250410183000 +0000">
+	<programme channel="107" start="20250410173000 +0000" stop="20250411030000 +0000">
 		<title>A Good Supper - EP 22</title>
 		<desc>(Dual language Chinese and Korean) Jiang Zhongquan forced Cui Shujing to learn the soup base from Jin Yingxin. Reluctantly, Cui Shujing agrees to apologize to Zhen Qingxiu, but immediately changes her mind and made the dismissal of Lee Duojing a condition, pressuring Jin Yingxin to reveal the secret to the soup base.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/107_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="107" start="20250410183000 +0000" stop="20250410220000 +0000">
-		<title>End of transmission</title>
-		<desc />
-		<icon src="https://poster.starhubgo.com/Linear_channels2/107_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="107" start="20250410220000 +0000" stop="20250411030000 +0000">
 		<title>End of transmission</title>
 		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_channels2/107_1920x1080_HTV.png?w=341&amp;h=192" />
@@ -2178,7 +2162,7 @@
 	</programme>
 	<programme channel="107" start="20250411150000 +0000" stop="20250411153000 +0000">
 		<title>News Tonight - EP 11</title>
-		<desc />
+		<desc>Daily evening updates on top local news and world news.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/107_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="107" start="20250411153000 +0000" stop="20250411163000 +0000">
@@ -2191,19 +2175,9 @@
 		<desc>(Dual language Chinese and Korean) Jin Yingxin hands over the secret soup base recipe to Cui Shujing. Zhen Qingxiu questions Cui Shujing and claims she wanted to adopt Jin Yingxin. In reality, she wants to claim Jin Yingxin's culinary talents as her own, which is why she proposes the adoption.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/107_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="107" start="20250411173000 +0000" stop="20250411183000 +0000">
+	<programme channel="107" start="20250411173000 +0000" stop="20250412010000 +0000">
 		<title>A Good Supper - EP 24</title>
 		<desc>(Dual language Chinese and Korean) Jiang Zhongquan and others oppose Cui Shujing taking credit for the beef soup's development, but she still pressure Jin Yingxin to give up her rights. Upon learning Cui Shujing's true intentions behind adopting Jin Yingxin, Zhen Qingxiu argues with her and opposes the adoption.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/107_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="107" start="20250411183000 +0000" stop="20250411220000 +0000">
-		<title>End of transmission</title>
-		<desc />
-		<icon src="https://poster.starhubgo.com/Linear_channels2/107_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="107" start="20250411220000 +0000" stop="20250412010000 +0000">
-		<title>End of transmission</title>
-		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_channels2/107_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="107" start="20250412010000 +0000" stop="20250412011400 +0000">
@@ -4533,12 +4507,12 @@
 	</programme>
 	<programme channel="128" start="20250411043000 +0000" stop="20250411050000 +0000">
 		<title>Suman Indori - EP 219</title>
-		<desc>Married to a rich politician, Suman faces several obstacles adjusting to her new life.</desc>
+		<desc>Devika questions Teerth's intentions for being the father of Kritika's child.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch128_suman_indori.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="128" start="20250411050000 +0000" stop="20250411053000 +0000">
 		<title>Megha Barsenge - EP 248</title>
-		<desc>After her being abandoned by her groom, Megha decides to live life on her own terms.</desc>
+		<desc>Arjun tricks Manoj about telling him about Megha's hideout to save her.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch128_megha_barsenge.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="128" start="20250411053000 +0000" stop="20250411060000 +0000">
@@ -4548,22 +4522,22 @@
 	</programme>
 	<programme channel="128" start="20250411060000 +0000" stop="20250411063000 +0000">
 		<title>Shiv Shakti: Tap Tyaag Taandav - EP 655</title>
-		<desc>Lord Shiva and his wife offer sacrifices and brave separation to care for humanity.</desc>
+		<desc>Parvati saves the people of Kailash as she reaches Omkareshwar.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch128_shiv_shakti_tap_tyaag_tandav.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="128" start="20250411063000 +0000" stop="20250411070000 +0000">
 		<title>Ram Bhavan - EP 72</title>
-		<desc>In a battle between evil and goodness, Isha motivates Om to confront his family.</desc>
+		<desc>Om helps Isha's family after they were forced to leave the house by Gayatri.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch128_ram_bhavan.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="128" start="20250411070000 +0000" stop="20250411080000 +0000">
 		<title>Mangal Lakshmi - EP 408</title>
-		<desc>Mangal embarks on a quest in order to find Lakshmi a perfect match.</desc>
+		<desc>Kapil feels unsure about Mangal wanting to move back to Delhi to be with her family.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch128_mangal_lakshmi.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="128" start="20250411080000 +0000" stop="20250411083000 +0000">
 		<title>Mannat Harr Khushi Paane Ki - EP 69</title>
-		<desc>Chef Mannat's dreams clash with her employer, who is her secret birth mother and nemesis.</desc>
+		<desc>Aishwarya charges at Mannat for accusing her family members in the case.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch128_mannat_harr_khushi_paane_ki.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="128" start="20250411083000 +0000" stop="20250411090000 +0000">
@@ -4588,12 +4562,12 @@
 	</programme>
 	<programme channel="128" start="20250411103000 +0000" stop="20250411110000 +0000">
 		<title>Suman Indori - EP 219</title>
-		<desc>Married to a rich politician, Suman faces several obstacles adjusting to her new life.</desc>
+		<desc>Devika questions Teerth's intentions for being the father of Kritika's child.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch128_suman_indori.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="128" start="20250411110000 +0000" stop="20250411113000 +0000">
 		<title>Megha Barsenge - EP 248</title>
-		<desc>After her being abandoned by her groom, Megha decides to live life on her own terms.</desc>
+		<desc>Arjun tricks Manoj about telling him about Megha's hideout to save her.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch128_megha_barsenge.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="128" start="20250411113000 +0000" stop="20250411120000 +0000">
@@ -4603,22 +4577,22 @@
 	</programme>
 	<programme channel="128" start="20250411120000 +0000" stop="20250411123000 +0000">
 		<title>Shiv Shakti: Tap Tyaag Taandav - EP 655</title>
-		<desc>Lord Shiva and his wife offer sacrifices and brave separation to care for humanity.</desc>
+		<desc>Parvati saves the people of Kailash as she reaches Omkareshwar.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch128_shiv_shakti_tap_tyaag_tandav.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="128" start="20250411123000 +0000" stop="20250411130000 +0000">
 		<title>Ram Bhavan - EP 72</title>
-		<desc>In a battle between evil and goodness, Isha motivates Om to confront his family.</desc>
+		<desc>Om helps Isha's family after they were forced to leave the house by Gayatri.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch128_ram_bhavan.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="128" start="20250411130000 +0000" stop="20250411140000 +0000">
 		<title>Mangal Lakshmi - EP 408</title>
-		<desc>Mangal embarks on a quest in order to find Lakshmi a perfect match.</desc>
+		<desc>Kapil feels unsure about Mangal wanting to move back to Delhi to be with her family.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch128_mangal_lakshmi.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="128" start="20250411140000 +0000" stop="20250411143000 +0000">
 		<title>Mannat Harr Khushi Paane Ki - EP 69</title>
-		<desc>Chef Mannat's dreams clash with her employer, who is her secret birth mother and nemesis.</desc>
+		<desc>Aishwarya charges at Mannat for accusing her family members in the case.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch128_mannat_harr_khushi_paane_ki.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="128" start="20250411143000 +0000" stop="20250411150000 +0000">
@@ -4628,12 +4602,12 @@
 	</programme>
 	<programme channel="128" start="20250411150000 +0000" stop="20250411153000 +0000">
 		<title>Megha Barsenge - EP 248</title>
-		<desc>After her being abandoned by her groom, Megha decides to live life on her own terms.</desc>
+		<desc>Arjun tricks Manoj about telling him about Megha's hideout to save her.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch128_megha_barsenge.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="128" start="20250411153000 +0000" stop="20250411160000 +0000">
 		<title>Mannat Harr Khushi Paane Ki - EP 69</title>
-		<desc>Chef Mannat's dreams clash with her employer, who is her secret birth mother and nemesis.</desc>
+		<desc>Aishwarya charges at Mannat for accusing her family members in the case.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch128_mannat_harr_khushi_paane_ki.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="128" start="20250411160000 +0000" stop="20250411163000 +0000">
@@ -4643,22 +4617,22 @@
 	</programme>
 	<programme channel="128" start="20250411163000 +0000" stop="20250411173000 +0000">
 		<title>Mangal Lakshmi - EP 408</title>
-		<desc>Mangal embarks on a quest in order to find Lakshmi a perfect match.</desc>
+		<desc>Kapil feels unsure about Mangal wanting to move back to Delhi to be with her family.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch128_mangal_lakshmi.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="128" start="20250411173000 +0000" stop="20250411180000 +0000">
 		<title>Shiv Shakti: Tap Tyaag Taandav - EP 655</title>
-		<desc>Lord Shiva and his wife offer sacrifices and brave separation to care for humanity.</desc>
+		<desc>Parvati saves the people of Kailash as she reaches Omkareshwar.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch128_shiv_shakti_tap_tyaag_tandav.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="128" start="20250411180000 +0000" stop="20250411183000 +0000">
 		<title>Ram Bhavan - EP 72</title>
-		<desc>In a battle between evil and goodness, Isha motivates Om to confront his family.</desc>
+		<desc>Om helps Isha's family after they were forced to leave the house by Gayatri.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch128_ram_bhavan.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="128" start="20250411183000 +0000" stop="20250411190000 +0000">
 		<title>Suman Indori - EP 219</title>
-		<desc>Married to a rich politician, Suman faces several obstacles adjusting to her new life.</desc>
+		<desc>Devika questions Teerth's intentions for being the father of Kritika's child.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch128_suman_indori.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="128" start="20250411190000 +0000" stop="20250411193000 +0000">
@@ -4668,12 +4642,12 @@
 	</programme>
 	<programme channel="128" start="20250411193000 +0000" stop="20250411203000 +0000">
 		<title>Mangal Lakshmi - EP 408</title>
-		<desc>Mangal embarks on a quest in order to find Lakshmi a perfect match.</desc>
+		<desc>Kapil feels unsure about Mangal wanting to move back to Delhi to be with her family.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch128_mangal_lakshmi.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="128" start="20250411203000 +0000" stop="20250411210000 +0000">
 		<title>Suman Indori - EP 219</title>
-		<desc>Married to a rich politician, Suman faces several obstacles adjusting to her new life.</desc>
+		<desc>Devika questions Teerth's intentions for being the father of Kritika's child.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch128_suman_indori.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="128" start="20250411210000 +0000" stop="20250411213000 +0000">
@@ -4683,7 +4657,7 @@
 	</programme>
 	<programme channel="128" start="20250411213000 +0000" stop="20250411220000 +0000">
 		<title>Megha Barsenge - EP 248</title>
-		<desc>After her being abandoned by her groom, Megha decides to live life on her own terms.</desc>
+		<desc>Arjun tricks Manoj about telling him about Megha's hideout to save her.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch128_megha_barsenge.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="128" start="20250411220000 +0000" stop="20250411223000 +0000">
@@ -7226,17 +7200,17 @@
 		<desc>Venu funds his daughter's MBBS by selling property despite family refusal. Release Year: 2014 Director: Shibu Balan</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=960&amp;h=540" />
 	</programme>
-	<programme channel="140" start="20250411013000 +0000" stop="20250411043000 +0000">
+	<programme channel="140" start="20250411013000 +0000" stop="20250411042500 +0000">
 		<title>Dhrona (2010)</title>
 		<desc>A realtor buys a spooky house, and dies oddly; brother investigates with magic! Release Year: 2010 Director: Shaji Kailas</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=960&amp;h=540" />
 	</programme>
-	<programme channel="140" start="20250411043000 +0000" stop="20250411073000 +0000">
+	<programme channel="140" start="20250411042500 +0000" stop="20250411073500 +0000">
 		<title>Christian Brothers</title>
 		<desc>Christy saves minister's daughter but gets involved in murder. Release Year: 2011 Director: Joshiy</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=960&amp;h=540" />
 	</programme>
-	<programme channel="140" start="20250411073000 +0000" stop="20250411103000 +0000">
+	<programme channel="140" start="20250411073500 +0000" stop="20250411103000 +0000">
 		<title>Pulimurugan</title>
 		<desc>Murugan defends villagers, falsely accused of Daddy's drug dealings. Release Year: 2016 Director: Vysakh Awards: 2017 Nominee Filmfare Award - Malayalam Film Industry Best Film, 2017 Nominee Malayalam CinemaBest Film</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=960&amp;h=540" />
@@ -7251,17 +7225,17 @@
 		<desc>Young friends split and reunite after brutal assault. Release Year: 2023 Director: Nahas Hidayath Awards: 2 Kerala Film Critics ASSociation</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=960&amp;h=540" />
 	</programme>
-	<programme channel="140" start="20250411163000 +0000" stop="20250411190000 +0000">
+	<programme channel="140" start="20250411163000 +0000" stop="20250411192000 +0000">
 		<title>Thuruppugulan</title>
 		<desc>Menon buys land for a hotel, asks employee, Sreedharan, to manage it. Years later, Sreedharan frames Menon in a fake case with help from Kunjumon. Release Year: 2006 Director: Johny Antony</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=960&amp;h=540" />
 	</programme>
-	<programme channel="140" start="20250411190000 +0000" stop="20250411220000 +0000">
+	<programme channel="140" start="20250411192000 +0000" stop="20250411213000 +0000">
 		<title>Kalippattam</title>
 		<desc>Venu marries ill Sarojam, grows to love her, faces her tragic death. Release Year: 1993 Director: Venu Nagavalli</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=960&amp;h=540" />
 	</programme>
-	<programme channel="140" start="20250411220000 +0000" stop="20250411233000 +0000">
+	<programme channel="140" start="20250411213000 +0000" stop="20250411233000 +0000">
 		<title>Kandahar</title>
 		<desc>Major Mahadevan leads his unit in a mission to combat an international terrorist organization that has hijacked a plane. Release Year: 2010 Director: Major Ravi Awards: Asianet Film Awards 2010 - Best Feature Film on National Integration Award - Major Ravi</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=960&amp;h=540" />
@@ -11221,6 +11195,56 @@
 		<desc>Official magazine show blends match highlights and interviews, epic moments and fascinating features from across Europe</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch214_UCL_magazine_show.jpg?w=960&amp;h=540" />
 	</programme>
+	<programme channel="215" start="20250410220000 +0000" stop="20250411040000 +0000">
+		<title>End of Transmission</title>
+		<desc />
+		<icon src="https://poster.starhubgo.com/Linear_channels2/215_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="215" start="20250411040000 +0000" stop="20250411100000 +0000">
+		<title>End of Transmission</title>
+		<desc />
+		<icon src="https://poster.starhubgo.com/Linear_channels2/215_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="215" start="20250411100000 +0000" stop="20250411160000 +0000">
+		<title>End of Transmission</title>
+		<desc />
+		<icon src="https://poster.starhubgo.com/Linear_channels2/215_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="215" start="20250411160000 +0000" stop="20250411220000 +0000">
+		<title>End of Transmission</title>
+		<desc />
+		<icon src="https://poster.starhubgo.com/Linear_channels2/215_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="215" start="20250411220000 +0000" stop="20250412040000 +0000">
+		<title>End of Transmission</title>
+		<desc />
+		<icon src="https://poster.starhubgo.com/Linear_channels2/215_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="216" start="20250410220000 +0000" stop="20250411040000 +0000">
+		<title>End of Transmission</title>
+		<desc />
+		<icon src="https://poster.starhubgo.com/Linear_channels2/216_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="216" start="20250411040000 +0000" stop="20250411100000 +0000">
+		<title>End of Transmission</title>
+		<desc />
+		<icon src="https://poster.starhubgo.com/Linear_channels2/216_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="216" start="20250411100000 +0000" stop="20250411160000 +0000">
+		<title>End of Transmission</title>
+		<desc />
+		<icon src="https://poster.starhubgo.com/Linear_channels2/216_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="216" start="20250411160000 +0000" stop="20250411220000 +0000">
+		<title>End of Transmission</title>
+		<desc />
+		<icon src="https://poster.starhubgo.com/Linear_channels2/216_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="216" start="20250411220000 +0000" stop="20250412040000 +0000">
+		<title>End of Transmission</title>
+		<desc />
+		<icon src="https://poster.starhubgo.com/Linear_channels2/216_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
 	<programme channel="221" start="20250410160000 +0000" stop="20250410170000 +0000">
 		<title>THE CATCH-UP SHOW - EP 34</title>
 		<desc>All the very best of the week's programming and digital content from another action-packed Premier League match round.</desc>
@@ -11790,46 +11814,6 @@
 		<title>End of Transmission</title>
 		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_Channels2/226_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="227" start="20250410160000 +0000" stop="20250410220000 +0000">
-		<title>End of Transmission</title>
-		<desc />
-		<icon src="https://poster.starhubgo.com/Linear_Channels2/227_1920x1080_HTV.png?w=960&amp;h=540" />
-	</programme>
-	<programme channel="227" start="20250410220000 +0000" stop="20250411040000 +0000">
-		<title>End of Transmission</title>
-		<desc />
-		<icon src="https://poster.starhubgo.com/Linear_Channels2/227_1920x1080_HTV.png?w=960&amp;h=540" />
-	</programme>
-	<programme channel="227" start="20250411040000 +0000" stop="20250411100000 +0000">
-		<title>End of Transmission</title>
-		<desc />
-		<icon src="https://poster.starhubgo.com/Linear_Channels2/227_1920x1080_HTV.png?w=960&amp;h=540" />
-	</programme>
-	<programme channel="227" start="20250411100000 +0000" stop="20250411160000 +0000">
-		<title>End of Transmission</title>
-		<desc />
-		<icon src="https://poster.starhubgo.com/Linear_Channels2/227_1920x1080_HTV.png?w=960&amp;h=540" />
-	</programme>
-	<programme channel="227" start="20250411160000 +0000" stop="20250411220000 +0000">
-		<title>End of Transmission</title>
-		<desc />
-		<icon src="https://poster.starhubgo.com/Linear_Channels2/227_1920x1080_HTV.png?w=960&amp;h=540" />
-	</programme>
-	<programme channel="227" start="20250411220000 +0000" stop="20250412040000 +0000">
-		<title>End of Transmission</title>
-		<desc />
-		<icon src="https://poster.starhubgo.com/Linear_Channels2/227_1920x1080_HTV.png?w=960&amp;h=540" />
-	</programme>
-	<programme channel="227" start="20250412040000 +0000" stop="20250412100000 +0000">
-		<title>End of Transmission</title>
-		<desc />
-		<icon src="https://poster.starhubgo.com/Linear_Channels2/227_1920x1080_HTV.png?w=960&amp;h=540" />
-	</programme>
-	<programme channel="227" start="20250412100000 +0000" stop="20250412160000 +0000">
-		<title>End of Transmission</title>
-		<desc />
-		<icon src="https://poster.starhubgo.com/Linear_Channels2/227_1920x1080_HTV.png?w=960&amp;h=540" />
 	</programme>
 	<programme channel="228" start="20250410160000 +0000" stop="20250410220000 +0000">
 		<title>End of Transmission</title>
