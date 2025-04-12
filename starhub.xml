@@ -1580,12 +1580,12 @@
 		<desc>A food delivery guy, finds himself captivated by Subbu's charm. However, their lives take a tumultuous turn when a series of unexpected events unfold, plunging them into a chaotic world.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/105_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="105" start="20250412170000 +0000" stop="20250412172500 +0000">
+	<programme channel="105" start="20250412170000 +0000" stop="20250412173000 +0000">
 		<title>Seithi - EP 12</title>
 		<desc>Tamil Seithi focuses primarily on local and international news, information and current affairs. _x000D_Catch the online news portal at http://seithi.mediacorp.sg/</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/105_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="105" start="20250412172500 +0000" stop="20250413010000 +0000">
+	<programme channel="105" start="20250412173000 +0000" stop="20250413010000 +0000">
 		<title>End of transmission</title>
 		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_channels2/105_1920x1080_HTV.png?w=341&amp;h=192" />
@@ -6875,17 +6875,17 @@
 		<desc>Hello Mummy Release Year: 2024 Director: Vaishakh Elans</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=960&amp;h=540" />
 	</programme>
-	<programme channel="140" start="20250412163000 +0000" stop="20250412190000 +0000">
+	<programme channel="140" start="20250412163000 +0000" stop="20250412192000 +0000">
 		<title>Baba Kalyani</title>
 		<desc>Baba Kalyani, a police officer, investigates a terrorist plot in Kochi while facing off against old enemies seeking revenge. Release Year: 2006 Director: Shaji Kailas Awards: Asianet Film Award for Best Male Playback Singer</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=960&amp;h=540" />
 	</programme>
-	<programme channel="140" start="20250412190000 +0000" stop="20250412220000 +0000">
+	<programme channel="140" start="20250412192000 +0000" stop="20250412211000 +0000">
 		<title>Kadal Kadannu Oru Maathukutty</title>
 		<desc>An unemployed man travels to Kerala to invite famous actors but faces chaos and trouble after reaching his destination. Release Year: 2013 Director: Ranjith</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=960&amp;h=540" />
 	</programme>
-	<programme channel="140" start="20250412220000 +0000" stop="20250412233000 +0000">
+	<programme channel="140" start="20250412211000 +0000" stop="20250412233000 +0000">
 		<title>Uthara Swayamvaram</title>
 		<desc>Prakash's father wants him to become an officer, but his interest lies elsewhere. Release Year: 2009 Director: Remakanth Sarjju</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=960&amp;h=540" />
@@ -22375,24 +22375,11 @@
 		<desc>In this episode, Katya Adler visits Kosovo and Serbia and finds that the scars of 1998's war of independence are far from healed.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch701_BBC_news.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="701" start="20250412100000 +0000" stop="20250412103000 +0000">
+	<programme channel="701" start="20250412100000 +0000" stop="20250412120000 +0000">
 		<title>BBC News</title>
-		<desc>The latest news from the BBC.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch701_BBC_news.jpg?w=341&amp;h=192" />
-	</programme>
-	<programme channel="701" start="20250412103000 +0000" stop="20250412110000 +0000">
-		<title>Talking Business</title>
-		<desc>Tanya Beckett examines how Donald Trump and Elon Musk's gutting of USAID might impact lives and business across Africa, and reshape global alliances.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch701_talking_business.jpg?w=341&amp;h=192" />
-	</programme>
-	<programme channel="701" start="20250412110000 +0000" stop="20250412113000 +0000">
-		<title>BBC News</title>
-		<desc>The latest news from the BBC.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch701_BBC_news.jpg?w=341&amp;h=192" />
-	</programme>
-	<programme channel="701" start="20250412113000 +0000" stop="20250412120000 +0000">
-		<title>Nightclubs: Is The Party Over?</title>
-		<desc>Since 2020 a third of Britain's nightclubs have shut down. We speak to DJs, club owners and party-goers, to find out why Britain's club scene is changing.</desc>
+		<desc>The latest news from the BBC including coverage of the recall of the House of 
+Commons, where MPs hold an emergency debate on the future of British Steel's 
+plant in Scunthorpe .</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch701_BBC_news.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="701" start="20250412120000 +0000" stop="20250412123000 +0000">
