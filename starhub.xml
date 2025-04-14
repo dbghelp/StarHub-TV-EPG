@@ -1372,7 +1372,7 @@
 	</programme>
 	<programme channel="103" start="20250415123000 +0000" stop="20250415130000 +0000">
 		<title>Tuesday Report : Shophouses Through the Ages - EP 5</title>
-		<desc />
+		<desc>Mark Tan introduces Joo Chiat’s culture through a musical walking tour. Tony Tan, who runs a youth hostel, involved in a campaign to change Joo Chiat’s once-tainted image. Terence Ng and his wife put their shophouse’s air-well to good use. Italian Azzurra opens a vintage clothing store in a historic shophouse. Despite multiple relocations, Peranakan restaurant owner Jenny Yap remains in Joo Chiat.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/103_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="103" start="20250415130000 +0000" stop="20250415140000 +0000">
@@ -9835,10 +9835,15 @@
 		<desc>The Ultimate Fighting Championship features some of the world's best mixed martial arts exponents on its roster. This is the premier event of the UFC and is traditionally preluded with preliminaries before the main card showdown.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch202_UFC314_Volkanovski_vs_Lopes.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="202" start="20250414163000 +0000" stop="20250414213000 +0000">
+	<programme channel="202" start="20250414163000 +0000" stop="20250414203000 +0000">
 		<title>Badminton Asia 2025</title>
 		<desc>The 2025 Badminton Asia Championships is a badminton tournament that will take place at the Ningbo Olympic Sports Center Gymnasium, Ningbo, China and has a total prize of US$500,000. It is a tournament organized by governing body Badminton Asia to crown the best badminton players in Asia. The tournament started in 1962 and is held annually since 1991.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch202_badminton_asia2025.jpg?w=960&amp;h=540" />
+	</programme>
+	<programme channel="202" start="20250414203000 +0000" stop="20250414213000 +0000">
+		<title>ASO Motorsport Programming 2025</title>
+		<desc>This program contains different motor sport races throughout 2025 which includes FIA affiliated rallies in different countries.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch202_aso.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="202" start="20250414213000 +0000" stop="20250414233000 +0000">
 		<title>East Asia Super League 2024/25 Hong Kong Eastern vs San Miguel Beermen</title>
@@ -10305,27 +10310,22 @@
 		<desc>The ISUZU UTE A-League Men's is the top-division Men's soccer league in Australia. The top four teams in the regular season then advance to the single-game knockout stage.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_spotv2_logo.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="210" start="20250414060000 +0000" stop="20250414070000 +0000">
+	<programme channel="210" start="20250414060000 +0000" stop="20250414064500 +0000">
 		<title>WorldSBK 2025: Rd3 Dutch Round</title>
 		<desc>Superbike World Championship also known as WorldSBK, is a silhouette road racing series based on heavily modified production sports motorcycles.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_sbk_motul.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="210" start="20250414070000 +0000" stop="20250414080500 +0000">
+	<programme channel="210" start="20250414064500 +0000" stop="20250414074000 +0000">
 		<title>WorldSBK 2025: Rd3 Dutch Round</title>
 		<desc>Superbike World Championship also known as WorldSBK, is a silhouette road racing series based on heavily modified production sports motorcycles.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_sbk_motul.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="210" start="20250414080500 +0000" stop="20250414090500 +0000">
+	<programme channel="210" start="20250414074000 +0000" stop="20250414084500 +0000">
 		<title>WorldSBK 2025: Rd3 Dutch Round</title>
 		<desc>Superbike World Championship also known as WorldSBK, is a silhouette road racing series based on heavily modified production sports motorcycles.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_sbk_motul.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="210" start="20250414090500 +0000" stop="20250414095000 +0000">
-		<title>WorldSBK 2025: Rd3 Dutch Round</title>
-		<desc>Superbike World Championship also known as WorldSBK, is a silhouette road racing series based on heavily modified production sports motorcycles.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch210_sbk_motul.jpg?w=960&amp;h=540" />
-	</programme>
-	<programme channel="210" start="20250414095000 +0000" stop="20250414170000 +0000">
+	<programme channel="210" start="20250414084500 +0000" stop="20250414170000 +0000">
 		<title>2025 Augusta Masters</title>
 		<desc>First held in 1960, tournament participants and non-competing past champions contest a short, separate nine-hole layout in this part competition, part stress relief on the eve of the Masters.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_golf.jpg?w=960&amp;h=540" />
@@ -33003,7 +33003,7 @@
 	<programme channel="838" start="20250414103000 +0000" stop="20250414110000 +0000">
 		<title>News At 18:30</title>
 		<desc>Bringing you the news from Hong Kong, the mainland and around the world every evening at 6:30pm.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch838_news_at_630_and_global_view.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch838_news_at_630.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="838" start="20250414110000 +0000" stop="20250414113500 +0000">
 		<title>Gourmet Express &amp; What's On Today</title>
@@ -33198,7 +33198,7 @@
 	<programme channel="838" start="20250415103000 +0000" stop="20250415110000 +0000">
 		<title>News At 18:30</title>
 		<desc>Bringing you the news from Hong Kong, the mainland and around the world every evening at 6:30pm.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch838_news_at_630_and_global_view.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch838_news_at_630.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="838" start="20250415110000 +0000" stop="20250415113500 +0000">
 		<title>Terminals &amp; What's On</title>
@@ -34565,10 +34565,15 @@
 		<desc>The Ultimate Fighting Championship features some of the world's best mixed martial arts exponents on its roster. This is the premier event of the UFC and is traditionally preluded with preliminaries before the main card showdown.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch202_UFC314_Volkanovski_vs_Lopes.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="995" start="20250414163000 +0000" stop="20250414213000 +0000">
+	<programme channel="995" start="20250414163000 +0000" stop="20250414203000 +0000">
 		<title>Badminton Asia 2025</title>
 		<desc>The 2025 Badminton Asia Championships is a badminton tournament that will take place at the Ningbo Olympic Sports Center Gymnasium, Ningbo, China and has a total prize of US$500,000. It is a tournament organized by governing body Badminton Asia to crown the best badminton players in Asia. The tournament started in 1962 and is held annually since 1991.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch202_badminton_asia2025.jpg?w=960&amp;h=540" />
+	</programme>
+	<programme channel="995" start="20250414203000 +0000" stop="20250414213000 +0000">
+		<title>ASO Motorsport Programming 2025</title>
+		<desc>This program contains different motor sport races throughout 2025 which includes FIA affiliated rallies in different countries.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch202_aso.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="995" start="20250414213000 +0000" stop="20250414233000 +0000">
 		<title>East Asia Super League 2024/25 Hong Kong Eastern vs San Miguel Beermen</title>
@@ -34773,7 +34778,7 @@
 	<programme channel="996" start="20250414103000 +0000" stop="20250414110000 +0000">
 		<title>News At 18:30</title>
 		<desc>Bringing you the news from Hong Kong, the mainland and around the world every evening at 6:30pm.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch838_news_at_630_and_global_view.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch838_news_at_630.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="996" start="20250414110000 +0000" stop="20250414113500 +0000">
 		<title>Gourmet Express &amp; What's On Today</title>
@@ -34968,7 +34973,7 @@
 	<programme channel="996" start="20250415103000 +0000" stop="20250415110000 +0000">
 		<title>News At 18:30</title>
 		<desc>Bringing you the news from Hong Kong, the mainland and around the world every evening at 6:30pm.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch838_news_at_630_and_global_view.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch838_news_at_630.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="996" start="20250415110000 +0000" stop="20250415113500 +0000">
 		<title>Terminals &amp; What's On</title>
