@@ -164,6 +164,10 @@
 		<display-name>Hub Sports 6</display-name>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/206_1920x1080_HTV.png?w=272" />
 	</channel>
+	<channel id="207">
+		<display-name>Hub Sports 7</display-name>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/207_1920x1080_HTV.png?w=272" />
+	</channel>
 	<channel id="209">
 		<display-name>SPOTV</display-name>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/209_1920x1080_HTV.png?w=272" />
@@ -10389,6 +10393,31 @@
 		<title>End of Transmission</title>
 		<desc>End of Transmission</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/206_1920x1080_HTV.png?w=960&amp;h=540" />
+	</programme>
+	<programme channel="207" start="20250420220000 +0000" stop="20250421040000 +0000">
+		<title>End of Transmission</title>
+		<desc>End of Transmission</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/207_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="207" start="20250421040000 +0000" stop="20250421100000 +0000">
+		<title>End of Transmission</title>
+		<desc>End of Transmission</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/207_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="207" start="20250421100000 +0000" stop="20250421160000 +0000">
+		<title>End of Transmission</title>
+		<desc>End of Transmission</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/207_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="207" start="20250421160000 +0000" stop="20250421220000 +0000">
+		<title>End of Transmission</title>
+		<desc>End of Transmission</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/207_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="207" start="20250421220000 +0000" stop="20250422040000 +0000">
+		<title>End of Transmission</title>
+		<desc>End of Transmission</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/207_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="209" start="20250420145000 +0000" stop="20250420163500 +0000">
 		<title>2025 LOVB Inaugural Season: Finals</title>
