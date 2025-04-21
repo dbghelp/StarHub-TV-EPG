@@ -20354,14 +20354,9 @@
 		<desc>We are your passport to the world. Our stories, told through the ABC's network of foreign correspondents, will take you to incredible places where you'll meet the people and see the forces shaping our world.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="447" start="20250421140000 +0000" stop="20250421141500 +0000">
-		<title>ABC Late News (2025) - EP 79</title>
-		<desc>Follow the latest on today's news, covering what's happening and why it matters. ABC News has reporters across Australia and around the globe to bring you the news you need to know. Presented by Michael Tetlow in Perth.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341&amp;h=192" />
-	</programme>
-	<programme channel="447" start="20250421141500 +0000" stop="20250421143000 +0000">
-		<title>War Stories (2021) - EP 6</title>
-		<desc>A pinecone from the battlefield of Lone Pine at Gallipoli became a war souvenir for a Victorian soldier. Many years after the war its seeds have grown into trees that are a symbol of remembrance. Landline's Tim Lee reports.</desc>
+	<programme channel="447" start="20250421140000 +0000" stop="20250421143000 +0000">
+		<title>Foreign Correspondent (2025) - EP 8</title>
+		<desc>We are your passport to the world. Our stories, told through the ABC's network of foreign correspondents, will take you to incredible places where you'll meet the people and see the forces shaping our world.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="447" start="20250421143000 +0000" stop="20250421150000 +0000">
@@ -20369,14 +20364,19 @@
 		<desc>Sarah Ferguson presents Australia's premier daily current affairs program, delivering agenda-setting public affairs journalism and interviews that hold the powerful to account. Plus political analysis from Laura Tingle.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="447" start="20250421150000 +0000" stop="20250421160000 +0000">
-		<title>The World (2025) - EP 61</title>
-		<desc>There's never been a more important time to stay in touch with what's happening in our world. Weeknights at 9pm AEST, Yvonne Yong presents the latest international news from correspondents and interviews with guests.</desc>
+	<programme channel="447" start="20250421150000 +0000" stop="20250421153000 +0000">
+		<title>Pope Francis 1936-2025</title>
+		<desc>ABC Australia delivers a mix of programmes including news and current affairs, sports, comedies, drama, documentaries, education and award-winning children's programmes.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="447" start="20250421153000 +0000" stop="20250421160000 +0000">
+		<title>Compass S38 - EP 21</title>
+		<desc>ABC Australia delivers a mix of programmes including news and current affairs, sports, comedies, drama, documentaries, education and award-winning children's programmes.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="447" start="20250421160000 +0000" stop="20250421163000 +0000">
-		<title>ABC Late News (2025) - EP 79</title>
-		<desc>Know the latest on the day's top stories, as Michael Tetlow brings you a comprehensive roundup of the news of the day. ABC News has reporters across Australia and around the globe reporting on the issues that matter to you.</desc>
+		<title>ABC News Overnight (2025) - EP 70</title>
+		<desc>The final word on the day's top stories, with the latest news and updated information from Australia's most trusted source of independent news.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="447" start="20250421163000 +0000" stop="20250421173000 +0000">
@@ -20400,8 +20400,8 @@
 		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="447" start="20250421190000 +0000" stop="20250421200000 +0000">
-		<title>The World (2025) - EP 61</title>
-		<desc>There's never been a more important time to stay in touch with what's happening in our world. Weeknights at 9pm AEST, Yvonne Yong presents the latest international news from correspondents and interviews with guests.</desc>
+		<title>News Breakfast (2025) - EP 80</title>
+		<desc>Start your day with the latest overnight developments, breaking news and the top stories this morning. James Glenday and Bridget Brennan bring you news and interviews joined by Emma Rebellato, Catherine Murphy and Nate Byrne.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="447" start="20250421200000 +0000" stop="20250421230000 +0000">
@@ -22314,52 +22314,52 @@
 		<desc>An HBO Original movie about the hearings of a District of Columbia judge, whose nomination came under fire when a former employee accused him of sexual harassment.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch633_Confirmation.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="603" start="20250420225500 +0000" stop="20250421001500 +0000">
+	<programme channel="603" start="20250420225000 +0000" stop="20250421001000 +0000">
 		<title>Icebox</title>
 		<desc>A 12-year-old Honduran boy, is forced to flee his home and seek asylum in the United States, only to find himself trapped in the U.S. immigration system.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch633_icebox.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="603" start="20250421001500 +0000" stop="20250421020000 +0000">
+	<programme channel="603" start="20250421001000 +0000" stop="20250421020000 +0000">
 		<title>The Break-Up</title>
 		<desc>After their break-up, a couple struggles to live together under one roof and neither party is willing to move out.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch633_the_break_up.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="603" start="20250421020000 +0000" stop="20250421024000 +0000">
 		<title>The Righteous Gemstones S4 - EP 7</title>
-		<desc>Despite constant bickering, the Gemstone family is tested as they attempt to move forward without letting go of their storied past.</desc>
+		<desc>Kelvin seeks refuge in his tree house. Eli confronts a dangerous foe.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch633_TheRighteousGemstonesS4.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="603" start="20250421024000 +0000" stop="20250421031000 +0000">
+	<programme channel="603" start="20250421024000 +0000" stop="20250421032000 +0000">
 		<title>The Rehearsal S2 - EP 1</title>
-		<desc>Executed in the style of Nathan For You, Nathan Fielder explores a universal concept with real people on a larger scale.</desc>
+		<desc>Nathan decides to put his resources into something big.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch633_TheRehearsalS2.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="603" start="20250421031000 +0000" stop="20250421045500 +0000">
+	<programme channel="603" start="20250421032000 +0000" stop="20250421050500 +0000">
 		<title>Me Before You</title>
 		<desc>A young countryside woman and an affluent banker paralyzed in a tragic accident couldn't have less in common, but in this heartbreakingly romance, they gain understanding, and ultimately love from one another.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch633_me_before_you.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="603" start="20250421045500 +0000" stop="20250421061500 +0000">
+	<programme channel="603" start="20250421050500 +0000" stop="20250421062500 +0000">
 		<title>Nightingale</title>
 		<desc>An HBO Original Film about a friend's impending visit that unravels the internal turmoil of a disturbed war veteran.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch633_nightingale.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="603" start="20250421061500 +0000" stop="20250421075500 +0000">
-		<title>Arthur Miller: Writer</title>
-		<desc>This documentary delves into the life and character of Arthur Miller through the lens of his daughter.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch633_ArthurMillerWriter.jpg?w=341&amp;h=192" />
+	<programme channel="603" start="20250421062500 +0000" stop="20250421080000 +0000">
+		<title>Ice On Fire</title>
+		<desc>This documentary highlights the effects of excess carbon on the Earth, and how some humans are innovating cutting-edge efforts to mitigate climate change.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch633_IceOnFire.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="603" start="20250421075500 +0000" stop="20250421101000 +0000">
+	<programme channel="603" start="20250421080000 +0000" stop="20250421101500 +0000">
 		<title>Apollo 13</title>
 		<desc>Three astronauts on board the Apollo 13 must rely on their courage and ingenuity to survive their failed lunar mission. Stars Tom Hanks and Kevin Bacon.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch633_Apollo13.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="603" start="20250421101000 +0000" stop="20250421103500 +0000">
+	<programme channel="603" start="20250421101500 +0000" stop="20250421104000 +0000">
 		<title>Hollywood On Set S1 - EP 1111</title>
-		<desc />
+		<desc>Each week Hollywood On Set goes behind-the-scenes on three major movies in production, featuring action footage and interviews with filmmakers.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch633_hollywood_on_set_s1.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="603" start="20250421103500 +0000" stop="20250421121500 +0000">
+	<programme channel="603" start="20250421104000 +0000" stop="20250421121500 +0000">
 		<title>Clear History</title>
 		<desc>After an argument with his boss, Nathan changes his identity to escape public humiliation - only to find his past disrupting his new life.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch633_clear_history.jpg?w=960&amp;h=540" />
@@ -22371,45 +22371,45 @@
 	</programme>
 	<programme channel="603" start="20250421140000 +0000" stop="20250421144000 +0000">
 		<title>The Righteous Gemstones S4 - EP 7</title>
-		<desc>Despite constant bickering, the Gemstone family is tested as they attempt to move forward without letting go of their storied past.</desc>
+		<desc>Kelvin seeks refuge in his tree house. Eli confronts a dangerous foe.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch633_TheRighteousGemstonesS4.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="603" start="20250421144000 +0000" stop="20250421151000 +0000">
+	<programme channel="603" start="20250421144000 +0000" stop="20250421152000 +0000">
 		<title>The Rehearsal S2 - EP 1</title>
-		<desc>Executed in the style of Nathan For You, Nathan Fielder explores a universal concept with real people on a larger scale.</desc>
+		<desc>Nathan decides to put his resources into something big.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch633_TheRehearsalS2.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="603" start="20250421151000 +0000" stop="20250421174000 +0000">
+	<programme channel="603" start="20250421152000 +0000" stop="20250421175000 +0000">
 		<title>Gladiator</title>
 		<desc>A Roman general left for dead seeks vengeance as a gladiator in Ancient Rome.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch633_gladiator.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="603" start="20250421174000 +0000" stop="20250421191500 +0000">
-		<title>Ice On Fire</title>
-		<desc>This documentary highlights the effects of excess carbon on the Earth, and how some humans are innovating cutting-edge efforts to mitigate climate change.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch633_IceOnFire.jpg?w=960&amp;h=540" />
+	<programme channel="603" start="20250421175000 +0000" stop="20250421193000 +0000">
+		<title>She Came To Me</title>
+		<desc>A multi-generational love story set against the iconic backdrop of New York.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch633_She_Came_to_Me.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="603" start="20250421191500 +0000" stop="20250421194000 +0000">
+	<programme channel="603" start="20250421193000 +0000" stop="20250421195500 +0000">
 		<title>The Baby S1 - EP 3</title>
 		<desc>Desperate for Mrs. Eaves’ help, Natasha agrees to do anything she asks - even if it’s the herculean task of nap time.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch633_the_baby_s1.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="603" start="20250421194000 +0000" stop="20250421201000 +0000">
+	<programme channel="603" start="20250421195500 +0000" stop="20250421202500 +0000">
 		<title>The Baby S1 - EP 4</title>
 		<desc>When Bobbi brings the baby to their mother’s place, Natasha is forced to wade through their difficult family history.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch633_the_baby_s1.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="603" start="20250421201000 +0000" stop="20250421214500 +0000">
+	<programme channel="603" start="20250421202500 +0000" stop="20250421215500 +0000">
 		<title>Reunion</title>
 		<desc>Trapped in a snowbound mansion, they race to uncover which one of their old classmates is the killer before they're all iced out for good.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch633_REUNION.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="603" start="20250421214500 +0000" stop="20250421233500 +0000">
+	<programme channel="603" start="20250421215500 +0000" stop="20250421234000 +0000">
 		<title>The Tuskegee Airmen</title>
 		<desc>The historic struggle and the courageous fighting of The Tuskegee Airmen, the first African-American U.S. Army Air Corps combat fighter pilots in WWII.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch633_TuskegeeAirmen.jpg?w=960&amp;h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch633_hbo_signature_logo.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="603" start="20250421233500 +0000" stop="20250422021500 +0000">
+	<programme channel="603" start="20250421234000 +0000" stop="20250422021500 +0000">
 		<title>Gladiator</title>
 		<desc>A Roman general left for dead seeks vengeance as a gladiator in Ancient Rome.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch633_gladiator.jpg?w=341&amp;h=192" />
@@ -22448,11 +22448,6 @@
 		<title>The Last Of Us S2 - EP 2</title>
 		<desc>Five years after the events of the first season, Joel and Ellie are drawn into conflict with each other and a world even more dangerous and unpredictable than the one they left behind.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch633_THELASTOFUS_S2.jpg?w=341&amp;h=192" />
-	</programme>
-	<programme channel="603" start="20250422150000 +0000" stop="20250422164500 +0000">
-		<title>She Came To Me</title>
-		<desc>A multi-generational love story set against the iconic backdrop of New York.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch633_She_Came_to_Me.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="604" start="20250420154500 +0000" stop="20250420162000 +0000">
 		<title>Sesame Street S54 - EP 21</title>
@@ -30129,11 +30124,6 @@
 		<desc>Showcasing various programs and activities of NHK WORLD-JAPAN which provides the latest information on Japan and Asia to the global audience.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="811" start="20250420205600 +0000" stop="20250420210000 +0000">
-		<title>World Weather</title>
-		<desc>Weather information of the different areas around the world.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
 	<programme channel="811" start="20250420210000 +0000" stop="20250420220000 +0000">
 		<title>News: Good Morning, Japan</title>
 		<desc>Fresh news and information to start off the morning. Specialized reporters and anchors will wake up the viewers with this live news program.</desc>
@@ -30185,7 +30175,7 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="811" start="20250421020500 +0000" stop="20250421025000 +0000">
-		<title>Drama 10 "Happiness Comes from Eating, Sleeping and Waiting"Eps. 3(R)</title>
+		<title>Drama 10 "Happiness Comes from Eating, Sleeping and Waiting" Eps. 3 (R)</title>
 		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
@@ -30440,7 +30430,7 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="811" start="20250421191500 +0000" stop="20250421200000 +0000">
-		<title>Tsurube's Salute to Families "AI in Tochigi City, Tochigi Prefecture"Part2(R)</title>
+		<title>Tsurube's Salute to Families "AI in Tochigi City, Tochigi Prefecture" Part2 (R)</title>
 		<desc>Veteran rakugo storyteller Shofukutei Tsurube travels across Japan with a personality, introducing families they meet along the way.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
