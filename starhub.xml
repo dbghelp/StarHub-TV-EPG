@@ -1479,12 +1479,12 @@
 		<desc>Marina panics upon discovering a viral image circulating about her. Seeing it as a disgrace, Datin Zila demands that she divorce Haqiem to protect her reputation.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/104_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="104" start="20250422153000 +0000" stop="20250422155500 +0000">
+	<programme channel="104" start="20250422153000 +0000" stop="20250422160000 +0000">
 		<title>Berita - EP 22</title>
 		<desc>Catch the latest local and international news on Suria.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/104_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="104" start="20250422155500 +0000" stop="20250423010000 +0000">
+	<programme channel="104" start="20250422160000 +0000" stop="20250423010000 +0000">
 		<title>End of transmission</title>
 		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_channels2/104_1920x1080_HTV.png?w=341&amp;h=192" />
@@ -1844,19 +1844,29 @@
 		<desc>(Live) Top stories, business news and market updates from across the region as Asia gears up for the day ahead.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="106" start="20250422020000 +0000" stop="20250422030000 +0000">
-		<title>Wombless - EP 1</title>
-		<desc>In Maharashtra’s Beed region, female cane cutters sacrifice their wombs to keep earning for their families. But these women are now fighting for a different future, determined to break the cycle and give their daughters a life beyond the sugarcane fields._x000D__x000D_</desc>
+	<programme channel="106" start="20250422020000 +0000" stop="20250422023000 +0000">
+		<title>Remembering Puan Noor Aishah - EP 1</title>
+		<desc>A look back at the life of Puan Noor Aishah, wife of Singapore's first President Yusof Ishak.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="106" start="20250422030000 +0000" stop="20250422050000 +0000">
+	<programme channel="106" start="20250422023000 +0000" stop="20250422025900 +0000">
+		<title>CNA Correspondent - EP 3</title>
+		<desc>Asia has some of the world’s longest life expectancies but living longer is not always a blessing. Loneliness and illness among the elderly are some of the problems. Can new technology be the answer?</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="106" start="20250422025900 +0000" stop="20250422050000 +0000">
 		<title>Asia Now - EP 16</title>
 		<desc>(Live) Non-stop breaking stories, expert analysis and extensive news coverage every hour.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="106" start="20250422050000 +0000" stop="20250422060000 +0000">
-		<title>Hidden Histories - EP 3</title>
-		<desc>What secrets lie within the ruins of Singapore’s past? Reuben Dhanaraj uncovers the turbulent history of the Pasir Panjang Power Station.</desc>
+	<programme channel="106" start="20250422050000 +0000" stop="20250422053000 +0000">
+		<title>Remembering Puan Noor Aishah - EP 1</title>
+		<desc>A look back at the life of Puan Noor Aishah, wife of Singapore's first President Yusof Ishak.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="106" start="20250422053000 +0000" stop="20250422060000 +0000">
+		<title>Money Mind - EP 3</title>
+		<desc>Strategies to recession-proof your personal finances. How to make your money work for you, even as savings accounts rates fall. Plus, turning toys from a hobby to a business.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="106" start="20250422060000 +0000" stop="20250422080000 +0000">
@@ -1864,22 +1874,27 @@
 		<desc>(Live) Non-stop breaking stories, expert analysis and extensive news coverage every hour.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="106" start="20250422080000 +0000" stop="20250422090000 +0000">
-		<title>A Safe Harbour In A Turbulent World</title>
-		<desc>Singapore Prime Minister Lawrence Wong spells out strategies to navigate a turbulent world at the 14th S Rajaratnam Lecture.</desc>
+	<programme channel="106" start="20250422080000 +0000" stop="20250422083000 +0000">
+		<title>Remembering Puan Noor Aishah - EP 1</title>
+		<desc>A look back at the life of Puan Noor Aishah, wife of Singapore's first President Yusof Ishak.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="106" start="20250422090000 +0000" stop="20250422090200 +0000">
+	<programme channel="106" start="20250422083000 +0000" stop="20250422085900 +0000">
+		<title>I Taught Myself - EP 3</title>
+		<desc>Giving up his career at 55 to pursue an abiding love for art has led Wilfred to where he is today. Witness his journey from interior designer to self-taught miniature artist.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="106" start="20250422085900 +0000" stop="20250422090200 +0000">
 		<title>Headline News - EP 73</title>
 		<desc>(Live) The latest top stories of the hour.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="106" start="20250422090200 +0000" stop="20250422100000 +0000">
+	<programme channel="106" start="20250422090200 +0000" stop="20250422095900 +0000">
 		<title>Growing Wild: Project Castaway - EP 3</title>
 		<desc>11 months ago, Chris came up with an ambitious idea of constructing a floating farm at sea. Now it’s make or break time - in 30 days, he has to get it up and running._x000D__x000D_</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="106" start="20250422100000 +0000" stop="20250422110000 +0000">
+	<programme channel="106" start="20250422095900 +0000" stop="20250422110000 +0000">
 		<title>East Asia Tonight 2025/2026 - EP 16</title>
 		<desc>(Live) Spotlight on East Asia, a region steeped in history and now helping to write the future of our world. We'll break down the key stories and explain why they matter.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png?w=341&amp;h=192" />
@@ -2199,12 +2214,12 @@
 		<desc>(Dual language Chinese and Korean) Xu Minjing anonymously reports Jin Yingxin for unfairly giving recipes to Li Duojing, leading to Jin Yingxin's confession and resignation. Upon learning this, Jiang Zhongquan, suspecting Jin Yingxin created all the previous dishes due to Cui Shujing's inability to innovate.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/107_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="107" start="20250422173000 +0000" stop="20250422183000 +0000">
+	<programme channel="107" start="20250422173000 +0000" stop="20250422183500 +0000">
 		<title>A Good Supper - EP 38</title>
 		<desc>(Dual language Chinese and Korean) Cui Shujing attempts to coerce Jin Yingxin return to work via Li Duojing but she fails, resulting in Jin Yingxin's official resignation. Frustrated, Cui Shujing then threatens Zheng Qingxiu with damaging rumors to drive him and Jin Yingxin out of the village.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/107_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="107" start="20250422183000 +0000" stop="20250423030000 +0000">
+	<programme channel="107" start="20250422183500 +0000" stop="20250423030000 +0000">
 		<title>End of transmission</title>
 		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_channels2/107_1920x1080_HTV.png?w=341&amp;h=192" />
@@ -11249,15 +11264,20 @@
 		<desc>The official global Padel tour. Catch world's top players battle it out across the globe.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch213_premier_padel.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="213" start="20250422143000 +0000" stop="20250422160000 +0000">
+	<programme channel="213" start="20250422143000 +0000" stop="20250422150000 +0000">
+		<title>The Outdoor Sports Show 2025</title>
+		<desc>A series showcasing a diverse array of outdoor sports from marathon races to climbing, skiing to surfing, hiking to triathlon, sailing to cycling.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch213_outdoor_sports_show.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="213" start="20250422150000 +0000" stop="20250422163000 +0000">
 		<title>Premier Padel 2025: Brussels P2 Day 1 Match 2 (Live)</title>
 		<desc>The official global Padel tour. Catch world's top players battle it out across the globe.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch213_premier_padel.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="213" start="20250422160000 +0000" stop="20250422165500 +0000">
-		<title>Premier Padel 2025: Brussels P2 Day 1 Match 4 (Live)</title>
-		<desc>The official global Padel tour. Catch world's top players battle it out across the globe.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch213_premier_padel.jpg?w=341&amp;h=192" />
+	<programme channel="213" start="20250422163000 +0000" stop="20250422165500 +0000">
+		<title>LaLiga Zap 2024/25</title>
+		<desc>LaLiga Zap is an entertainment show that provides a sideways look at the greatest league in the world. The most fun, curious moments of action, international footage of the most extravagant fans, dubbed conversations and recurring gags.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch213_laliga_zap.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="213" start="20250422165500 +0000" stop="20250422190000 +0000">
 		<title>LaLiga 2024/25: Valencia vs Espanyol (Live)</title>
@@ -26349,11 +26369,6 @@
 		<desc>National Women's Soccer League Commissioner Jessica Berman is presiding over a pivotal moment for women's soccer. Can she help turn astronomical growth into a sustained business?</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/709_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="711" start="20250421160000 +0000" stop="20250421170000 +0000">
-		<title>One World</title>
-		<desc>Zain Asher and Bianna Golodryga cover the top global and national issues of the day.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch711_one_world_with_zain_asher_and_bianna_golodryga.jpg?w=341&amp;h=192" />
-	</programme>
 	<programme channel="711" start="20250421170000 +0000" stop="20250421180000 +0000">
 		<title>Amanpour</title>
 		<desc>Christiane Amanpour provides her powerful interview skills and provocative analysis on global stories that matter to you.</desc>
@@ -26374,20 +26389,10 @@
 		<desc>Richard Quest speaks to the top names in global business to bring viewers the bottom line.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch711_quest_means_business.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="711" start="20250421204500 +0000" stop="20250421210000 +0000">
-		<title>Quest's World of Wonder</title>
-		<desc>Larger-than-life characters take us on a journey with Richard Quest to experience cities in a way tourists can't.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch711_quess_world_of_wonder.jpg?w=341&amp;h=192" />
-	</programme>
 	<programme channel="711" start="20250421210000 +0000" stop="20250421213000 +0000">
 		<title>The Lead</title>
 		<desc>Jake Tapper covers all the day's top stories around the country and the globe, from politics to money, sports to popular culture.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch711_the_lead_with_jake_tapper.jpg?w=341&amp;h=192" />
-	</programme>
-	<programme channel="711" start="20250421213000 +0000" stop="20250421220000 +0000">
-		<title>World Sport</title>
-		<desc>Daily sports show features major stories and issues making news in the world of sports.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch711_world_sport.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="711" start="20250421220000 +0000" stop="20250421230000 +0000">
 		<title>The Brief with Jim Sciutto</title>
@@ -26419,30 +26424,20 @@
 		<desc>Laura Coates goes inside the story with a relentless pursuit of the facts.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch711_laura_coates_live.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="711" start="20250422040000 +0000" stop="20250422044500 +0000">
+	<programme channel="711" start="20250422040000 +0000" stop="20250422050000 +0000">
 		<title>CNN Newsroom</title>
 		<desc>Live context and clarity to the day's top stories from around the world.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch711_cnn_newsroom.jpg?w=960&amp;h=540" />
-	</programme>
-	<programme channel="711" start="20250422044500 +0000" stop="20250422050000 +0000">
-		<title>World Sport</title>
-		<desc>Daily sports show features major stories and issues making news in the world of sports.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch711_world_sport.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="711" start="20250422050000 +0000" stop="20250422060000 +0000">
 		<title>CNN Newsroom</title>
 		<desc>Live context and clarity to the day's top stories from around the world.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch711_cnn_newsroom.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="711" start="20250422060000 +0000" stop="20250422064500 +0000">
+	<programme channel="711" start="20250422060000 +0000" stop="20250422070000 +0000">
 		<title>CNN Newsroom</title>
 		<desc>Live context and clarity to the day's top stories from around the world.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch711_cnn_newsroom.jpg?w=960&amp;h=540" />
-	</programme>
-	<programme channel="711" start="20250422064500 +0000" stop="20250422070000 +0000">
-		<title>World Sport</title>
-		<desc>Daily sports show features major stories and issues making news in the world of sports.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch711_world_sport.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="711" start="20250422070000 +0000" stop="20250422080000 +0000">
 		<title>CNN Newsroom</title>
