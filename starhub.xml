@@ -188,10 +188,6 @@
 		<display-name>beIN Sports 3</display-name>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/214_1920x1080_HTV.png?w=272" />
 	</channel>
-	<channel id="215">
-		<display-name>beIN Sports 4</display-name>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/215_1920x1080_HTV.png?w=272" />
-	</channel>
 	<channel id="216">
 		<display-name>beIN Sports 5</display-name>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/216_1920x1080_HTV.png?w=272" />
@@ -1200,8 +1196,8 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/103_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="103" start="20250422113000 +0000" stop="20250422120000 +0000">
-		<title>Take Two - EP 17</title>
-		<desc>Shiguang meets Uncle Nan’s family and learns that Uncle Nan has won a 30-million lottery. To maintain his good luck, he believes in the scammer Master Shen and insists that his son Le Zai must never leave the building.</desc>
+		<title>Remembering Puan Noor Aishah - EP 1</title>
+		<desc>A look back at the life of Puan Noor Aishah, wife of Singapore's first President Yusof Ishak.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/103_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="103" start="20250422120000 +0000" stop="20250422123000 +0000">
@@ -1464,9 +1460,14 @@
 		<desc>(Live) Catch the latest local and international news on Suria.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/104_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="104" start="20250422123000 +0000" stop="20250422133000 +0000">
-		<title>Tauke Pasar Malam - EP 3</title>
-		<desc>The iconic hosts of Suria - Huda Ali, Khairudin Samsudin, Fiza O and A B Shaik - are in Bishan known for its greenery. So why not add greens in their menu as ingredients and garnishing?</desc>
+	<programme channel="104" start="20250422123000 +0000" stop="20250422130000 +0000">
+		<title>Remembering Puan Noor Aishah</title>
+		<desc />
+		<icon src="https://poster.starhubgo.com/Linear_channels2/104_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="104" start="20250422130000 +0000" stop="20250422133000 +0000">
+		<title>Jalan Lain - EP 6</title>
+		<desc>Suzairhe meets Zubir Abdullah - the legendary artist who now pulls back the curtain on his storied life as he recounts his early years falling in love with music, joining his first band, eventually becoming a composer, his bout with Tuberculosis and how the next generation in his family is continuing his legacy.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/104_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="104" start="20250422133000 +0000" stop="20250422143000 +0000">
@@ -1844,29 +1845,19 @@
 		<desc>(Live) Top stories, business news and market updates from across the region as Asia gears up for the day ahead.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="106" start="20250422020000 +0000" stop="20250422023000 +0000">
-		<title>Remembering Puan Noor Aishah - EP 1</title>
-		<desc>A look back at the life of Puan Noor Aishah, wife of Singapore's first President Yusof Ishak.</desc>
+	<programme channel="106" start="20250422020000 +0000" stop="20250422030000 +0000">
+		<title>Wombless - EP 1</title>
+		<desc>In Maharashtra’s Beed region, female cane cutters sacrifice their wombs to keep earning for their families. But these women are now fighting for a different future, determined to break the cycle and give their daughters a life beyond the sugarcane fields._x000D__x000D_</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="106" start="20250422023000 +0000" stop="20250422025900 +0000">
-		<title>CNA Correspondent - EP 3</title>
-		<desc>Asia has some of the world’s longest life expectancies but living longer is not always a blessing. Loneliness and illness among the elderly are some of the problems. Can new technology be the answer?</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="106" start="20250422025900 +0000" stop="20250422050000 +0000">
+	<programme channel="106" start="20250422030000 +0000" stop="20250422050000 +0000">
 		<title>Asia Now - EP 16</title>
 		<desc>(Live) Non-stop breaking stories, expert analysis and extensive news coverage every hour.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="106" start="20250422050000 +0000" stop="20250422053000 +0000">
-		<title>Remembering Puan Noor Aishah - EP 1</title>
-		<desc>A look back at the life of Puan Noor Aishah, wife of Singapore's first President Yusof Ishak.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="106" start="20250422053000 +0000" stop="20250422060000 +0000">
-		<title>Money Mind - EP 3</title>
-		<desc>Strategies to recession-proof your personal finances. How to make your money work for you, even as savings accounts rates fall. Plus, turning toys from a hobby to a business.</desc>
+	<programme channel="106" start="20250422050000 +0000" stop="20250422060000 +0000">
+		<title>Hidden Histories - EP 3</title>
+		<desc>What secrets lie within the ruins of Singapore’s past? Reuben Dhanaraj uncovers the turbulent history of the Pasir Panjang Power Station.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="106" start="20250422060000 +0000" stop="20250422080000 +0000">
@@ -1874,34 +1865,29 @@
 		<desc>(Live) Non-stop breaking stories, expert analysis and extensive news coverage every hour.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="106" start="20250422080000 +0000" stop="20250422083000 +0000">
-		<title>Remembering Puan Noor Aishah - EP 1</title>
-		<desc>A look back at the life of Puan Noor Aishah, wife of Singapore's first President Yusof Ishak.</desc>
+	<programme channel="106" start="20250422080000 +0000" stop="20250422090000 +0000">
+		<title>A Safe Harbour In A Turbulent World</title>
+		<desc>Singapore Prime Minister Lawrence Wong spells out strategies to navigate a turbulent world at the 14th S Rajaratnam Lecture.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="106" start="20250422083000 +0000" stop="20250422085900 +0000">
-		<title>I Taught Myself - EP 3</title>
-		<desc>Giving up his career at 55 to pursue an abiding love for art has led Wilfred to where he is today. Witness his journey from interior designer to self-taught miniature artist.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="106" start="20250422085900 +0000" stop="20250422090200 +0000">
+	<programme channel="106" start="20250422090000 +0000" stop="20250422090200 +0000">
 		<title>Headline News - EP 73</title>
 		<desc>(Live) The latest top stories of the hour.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="106" start="20250422090200 +0000" stop="20250422095900 +0000">
+	<programme channel="106" start="20250422090200 +0000" stop="20250422100000 +0000">
 		<title>Growing Wild: Project Castaway - EP 3</title>
 		<desc>11 months ago, Chris came up with an ambitious idea of constructing a floating farm at sea. Now it’s make or break time - in 30 days, he has to get it up and running._x000D__x000D_</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="106" start="20250422095900 +0000" stop="20250422110000 +0000">
+	<programme channel="106" start="20250422100000 +0000" stop="20250422110000 +0000">
 		<title>East Asia Tonight 2025/2026 - EP 16</title>
 		<desc>(Live) Spotlight on East Asia, a region steeped in history and now helping to write the future of our world. We'll break down the key stories and explain why they matter.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="106" start="20250422110000 +0000" stop="20250422120000 +0000">
-		<title>When Titans Clash: The Tariff War hits ASEAN</title>
-		<desc>With US tariffs on the rise, experts warn that ASEAN will face increased China exports, putting some factories out of work. ASEAN exports to the US will also drop. How will ASEAN weather this storm?</desc>
+		<title>Wombless - EP 2</title>
+		<desc>For over a decade, activists and government officials have been fighting back against the practice of unnecessary hysterectomies in India. From spreading awareness, to raiding faulty clinics and legal battles, we learn about the fight to protect women against unscrupulous medical practitioners who rob them of their wombs.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="106" start="20250422120000 +0000" stop="20250422130000 +0000">
@@ -1909,9 +1895,14 @@
 		<desc>(Live) CNA correspondents bring you the top stories of the day with 'live' reports and interviews to keep you up-to-date on the day’s events.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="106" start="20250422130000 +0000" stop="20250422140000 +0000">
-		<title>Wombless - EP 2</title>
-		<desc>For over a decade, activists and government officials have been fighting back against the practice of unnecessary hysterectomies in India. From spreading awareness, to raiding faulty clinics and legal battles, we learn about the fight to protect women against unscrupulous medical practitioners who rob them of their wombs.</desc>
+	<programme channel="106" start="20250422130000 +0000" stop="20250422133000 +0000">
+		<title>Remembering Puan Noor Aishah - EP 1</title>
+		<desc>A look back at the life of Puan Noor Aishah, wife of Singapore's first President Yusof Ishak.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="106" start="20250422133000 +0000" stop="20250422140000 +0000">
+		<title>CNA Correspondent - EP 3</title>
+		<desc>Asia has some of the world’s longest life expectancies but living longer is not always a blessing. Loneliness and illness among the elderly are some of the problems. Can new technology be the answer?</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="106" start="20250422140000 +0000" stop="20250422150000 +0000">
@@ -2017,11 +2008,6 @@
 	<programme channel="106" start="20250423140000 +0000" stop="20250423150000 +0000">
 		<title>Singapore Tonight - EP 23</title>
 		<desc>(Live) From business to politics, health to technology, the latest news from Singapore and analysis of the impact.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="106" start="20250423150000 +0000" stop="20250423160000 +0000">
-		<title>Wombless - EP 2</title>
-		<desc>For over a decade, activists and government officials have been fighting back against the practice of unnecessary hysterectomies in India. From spreading awareness, to raiding faulty clinics and legal battles, we learn about the fight to protect women against unscrupulous medical practitioners who rob them of their wombs.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="107" start="20250421160000 +0000" stop="20250421163000 +0000">
@@ -4011,7 +3997,7 @@
 	</programme>
 	<programme channel="125" start="20250422040000 +0000" stop="20250422070000 +0000">
 		<title>Sonchiriya - EP 3</title>
-		<desc>Set in the Chambal valley, the film follows the story of a legion of dreaded, warring dacoits who once terrorized the Indian heartlands. Release Year: 2019 Director: Abhishek Chaubey Awards: 2019 Winner FOI Online Award- Best Actor in a Supporting Role- R</desc>
+		<desc>Set in the Chambal valley, the film follows the story of a legion of dreaded, warring dacoits who once terrorized the Indian heartlands. Release Year: 2019 Director: Abhishek Chaubey Awards: 2019 Winner FOI Online Award- Best Actor in a Supporting Role- Ranvir Shorey, 2019 Winner FOI Online Award- Best Make-Up and Hair Styling- Shrikant Desai, 2019 Winner Special Mention- Bhumi Pednekar- ActreSS</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/125_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="125" start="20250422070000 +0000" stop="20250422080000 +0000">
@@ -10115,12 +10101,12 @@
 		<icon src="https://poster.starhubgo.com/poster/ch201_wta_tour.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="201" start="20250422013000 +0000" stop="20250422060000 +0000">
-		<title>Billie Jean King Cup Qualifiers 2025 Group C: USA vs Denmark</title>
+		<title>Billie Jean King Cup by Gainbridge Qualifiers 2025 Group C: USA vs Denmark</title>
 		<desc>The 2025 Billie Jean King Cup Qualifiers are being played as 6 groups of 3 nations as the Billie Jean King Cup Finals transit from a 12-team event to an 8 team event in 2025, mirroring the existing Davis Cup Final 8 format. Each 3 day qualifiers group event will be held in one location and played on a round-robin basis. The 6 group winners will join hosts China, and 2024 world champions Italy in the 2025 Finals in Shenzhen.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch201_billie_jean_king_cup_GENERIC.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="201" start="20250422060000 +0000" stop="20250422103000 +0000">
-		<title>Billie Jean King Cup Qualifiers 2025 Group D: Colombia vs Kazakhstan</title>
+		<title>Billie Jean King Cup by Gainbridge Qualifiers 2025 Group D: Colombia vs Kazakhst</title>
 		<desc>The 2025 Billie Jean King Cup Qualifiers are being played as 6 groups of 3 nations as the Billie Jean King Cup Finals transit from a 12-team event to an 8 team event in 2025, mirroring the existing Davis Cup Final 8 format. Each 3 day qualifiers group event will be held in one location and played on a round-robin basis. The 6 group winners will join hosts China, and 2024 world champions Italy in the 2025 Finals in Shenzhen.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch201_billie_jean_king_cup_GENERIC.jpg?w=960&amp;h=540" />
 	</programme>
@@ -10129,15 +10115,10 @@
 		<desc>Catch all the happenings in and around the world of badminton here on the show Badminton Unlimited.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch201_badminton_unlimited.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="201" start="20250422110000 +0000" stop="20250422140000 +0000">
+	<programme channel="201" start="20250422110000 +0000" stop="20250422143000 +0000">
 		<title>Badminton Europe 2025</title>
 		<desc>The European Badminton Championships is a tournament organized by the Badminton Europe. It represents the highest level of continental competition in European badminton, and the winners of each event are recognised as the European champions. The first of these competitions was held in 1968. The competition was held once every 2 years to determine the best badminton players in Europe.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch201_BadmintonEuropeGeneric.jpg?w=960&amp;h=540" />
-	</programme>
-	<programme channel="201" start="20250422140000 +0000" stop="20250422143000 +0000">
-		<title>ASO Cycling Programming 2025</title>
-		<desc>Catch all the best action from Stage 6 of the Santos Men's Tour Down Under 2025 as riders set up a thrilling sprint finish in the heart of Adelaide on this closing stage.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch201_aso.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="201" start="20250422143000 +0000" stop="20250422153000 +0000">
 		<title>ASO Cycling Programming 2025</title>
@@ -10251,7 +10232,7 @@
 	</programme>
 	<programme channel="202" start="20250421233000 +0000" stop="20250422000000 +0000">
 		<title>The Greatest of All Time 2025</title>
-		<desc>Sport's eternal debate… who is the Great of All Time? This is a series of programmes for every sport, examining the candidates and their case for 'greatest', and depicting iconic stars, the most influential careers, the most revered champions, across all sports.</desc>
+		<desc>Sport's eternal debate... who is the Great of All Time? This is a series of programmes for every sport, examining the candidates and their case for 'greatest', and depicting iconic stars, the most influential careers, the most revered champions, across all sports.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch202_the_greatest_of_all_time2025.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="202" start="20250422000000 +0000" stop="20250422020000 +0000">
@@ -10287,11 +10268,11 @@
 	<programme channel="202" start="20250422113000 +0000" stop="20250422133000 +0000">
 		<title>Singapore Cup 2024/25 BG Pathum United FC vs BG Tampines Rovers FC</title>
 		<desc>The Singapore Cup is an annual knockout football competition in men's domestic Singaporean football. Established in 1998, it is the most prestigious cup competition in the country.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch202_singapore_premier_league.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch202_singapore_cup202425.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="202" start="20250422133000 +0000" stop="20250422140000 +0000">
 		<title>The Greatest of All Time 2025</title>
-		<desc>Sport's eternal debate… who is the Great of All Time? This is a series of programmes for every sport, examining the candidates and their case for 'greatest', and depicting iconic stars, the most influential careers, the most revered champions, across all sports.</desc>
+		<desc>Sport's eternal debate... who is the Great of All Time? This is a series of programmes for every sport, examining the candidates and their case for 'greatest', and depicting iconic stars, the most influential careers, the most revered champions, across all sports.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch202_the_greatest_of_all_time2025.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="202" start="20250422140000 +0000" stop="20250422170000 +0000">
@@ -10300,14 +10281,14 @@
 		<icon src="https://poster.starhubgo.com/poster/ch202_ufc_fight_night.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="202" start="20250422170000 +0000" stop="20250422190000 +0000">
-		<title>Badminton Europe 2025 European Mixed Team Championships SF 2: England vs France</title>
+		<title>Badminton Europe 2025 England vs France</title>
 		<desc>The 2025 European Mixed Team Badminton Championships will be held in Baku, Azerbaijan at the Baku Sports Hall. The event officially crowns the best national team in Europe. 8 best teams in Europe will be competing for the title as "European Champions". This championships also act as the European qualification event for 2025 Sudirman Cup.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch202_badminton_europe.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="202" start="20250422190000 +0000" stop="20250422210000 +0000">
 		<title>Singapore Cup 2024/25 BG Pathum United FC vs BG Tampines Rovers FC</title>
 		<desc>The Singapore Cup is an annual knockout football competition in men's domestic Singaporean football. Established in 1998, it is the most prestigious cup competition in the country.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch202_singapore_premier_league.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch202_singapore_cup202425.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="202" start="20250422210000 +0000" stop="20250422230000 +0000">
 		<title>East Asia Super League 2024/25 San Miguel Beermen vs Hong Kong Eastern</title>
@@ -10325,11 +10306,6 @@
 		<icon src="https://poster.starhubgo.com/poster/ch202_the_football_review.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="202" start="20250423000000 +0000" stop="20250423020000 +0000">
-		<title>Singapore Premier League 2024/25 Lion City Sailors FC vs Brunei DPMM FC</title>
-		<desc>The top-tiered division of the local professional football league is in its 29th season. In a revamped quadruple round-robin format, each of the 9 teams will play 32 matches in total.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch202_singapore_premier_league.jpg?w=341&amp;h=192" />
-	</programme>
-	<programme channel="202" start="20250423020000 +0000" stop="20250423040000 +0000">
 		<title>The Emirates FA Cup 2024/25 QF: Fulham vs Crystal Palace</title>
 		<desc>The 2024/25 FA Cup is the 144th season of the Football Association Challenge Cup, the original and oldest football tournament in the world. The FA Cup is the main domestic cup for men's football teams in England, with more than 700 clubs competing for the chance to lift one of the most prestigious trophies.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch202_FULvCRY.jpg?w=341&amp;h=192" />
@@ -10449,12 +10425,12 @@
 		<desc>The 2025 Indian Premier League, a franchise Twenty20 cricket league held in India, returns for the 18th year, and will feature ten teams competing in 74 matches from 14 March to 25 May 2025.</desc>
 		<icon src="https://poster.starhubgo.com/poster/IPL2025_M40.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="204" start="20250422180000 +0000" stop="20250422205000 +0000">
+	<programme channel="204" start="20250422180000 +0000" stop="20250422205500 +0000">
 		<title>End of Transmission</title>
 		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_Channels2/204_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="204" start="20250422205000 +0000" stop="20250423055000 +0000">
+	<programme channel="204" start="20250422205500 +0000" stop="20250423055000 +0000">
 		<title>ICC Champions Trophy 2025: M15 - Final - India vs New Zealand</title>
 		<desc>The 9th edition of the ICC Champions Trophy will be hosted by Pakistan and United Arab Emirates from 19 February to 9 March 2025 and will be contested by the top eight ranked men's national teams qualified from the Cricket World Cup 2023.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ICCCT2025_GENERIC.jpg?w=341&amp;h=192" />
@@ -11543,46 +11519,6 @@
 		<title>Mini Match - UEFA Europa League 2024/25 Man United vs Lyon - QF, 2nd Leg</title>
 		<desc>Watch every round of the UEL as Europe's top clubs battle it out for the coveted prize at the San Mames Stadium, Bilbao</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch214_UEL_mini_match.jpg?w=960&amp;h=540" />
-	</programme>
-	<programme channel="215" start="20250421160000 +0000" stop="20250421220000 +0000">
-		<title>End of Transmission</title>
-		<desc />
-		<icon src="https://poster.starhubgo.com/Linear_channels2/215_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="215" start="20250421220000 +0000" stop="20250422040000 +0000">
-		<title>End of Transmission</title>
-		<desc />
-		<icon src="https://poster.starhubgo.com/Linear_channels2/215_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="215" start="20250422040000 +0000" stop="20250422100000 +0000">
-		<title>End of Transmission</title>
-		<desc />
-		<icon src="https://poster.starhubgo.com/Linear_channels2/215_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="215" start="20250422100000 +0000" stop="20250422160000 +0000">
-		<title>End of Transmission</title>
-		<desc />
-		<icon src="https://poster.starhubgo.com/Linear_channels2/215_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="215" start="20250422160000 +0000" stop="20250422220000 +0000">
-		<title>End of Transmission</title>
-		<desc />
-		<icon src="https://poster.starhubgo.com/Linear_channels2/215_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="215" start="20250422220000 +0000" stop="20250423040000 +0000">
-		<title>End of Transmission</title>
-		<desc />
-		<icon src="https://poster.starhubgo.com/Linear_channels2/215_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="215" start="20250423040000 +0000" stop="20250423100000 +0000">
-		<title>End of Transmission</title>
-		<desc />
-		<icon src="https://poster.starhubgo.com/Linear_channels2/215_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="215" start="20250423100000 +0000" stop="20250423160000 +0000">
-		<title>End of Transmission</title>
-		<desc />
-		<icon src="https://poster.starhubgo.com/Linear_channels2/215_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="216" start="20250421160000 +0000" stop="20250421220000 +0000">
 		<title>End of Transmission</title>
@@ -35306,7 +35242,7 @@
 	</programme>
 	<programme channel="995" start="20250421233000 +0000" stop="20250422000000 +0000">
 		<title>The Greatest of All Time 2025</title>
-		<desc>Sport's eternal debate… who is the Great of All Time? This is a series of programmes for every sport, examining the candidates and their case for 'greatest', and depicting iconic stars, the most influential careers, the most revered champions, across all sports.</desc>
+		<desc>Sport's eternal debate... who is the Great of All Time? This is a series of programmes for every sport, examining the candidates and their case for 'greatest', and depicting iconic stars, the most influential careers, the most revered champions, across all sports.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch202_the_greatest_of_all_time2025.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="995" start="20250422000000 +0000" stop="20250422020000 +0000">
@@ -35342,11 +35278,11 @@
 	<programme channel="995" start="20250422113000 +0000" stop="20250422133000 +0000">
 		<title>Singapore Cup 2024/25 BG Pathum United FC vs BG Tampines Rovers FC</title>
 		<desc>The Singapore Cup is an annual knockout football competition in men's domestic Singaporean football. Established in 1998, it is the most prestigious cup competition in the country.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch202_singapore_premier_league.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch202_singapore_cup202425.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="995" start="20250422133000 +0000" stop="20250422140000 +0000">
 		<title>The Greatest of All Time 2025</title>
-		<desc>Sport's eternal debate… who is the Great of All Time? This is a series of programmes for every sport, examining the candidates and their case for 'greatest', and depicting iconic stars, the most influential careers, the most revered champions, across all sports.</desc>
+		<desc>Sport's eternal debate... who is the Great of All Time? This is a series of programmes for every sport, examining the candidates and their case for 'greatest', and depicting iconic stars, the most influential careers, the most revered champions, across all sports.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch202_the_greatest_of_all_time2025.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="995" start="20250422140000 +0000" stop="20250422170000 +0000">
@@ -35355,14 +35291,14 @@
 		<icon src="https://poster.starhubgo.com/poster/ch202_ufc_fight_night.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="995" start="20250422170000 +0000" stop="20250422190000 +0000">
-		<title>Badminton Europe 2025 European Mixed Team Championships SF 2: England vs France</title>
+		<title>Badminton Europe 2025 England vs France</title>
 		<desc>The 2025 European Mixed Team Badminton Championships will be held in Baku, Azerbaijan at the Baku Sports Hall. The event officially crowns the best national team in Europe. 8 best teams in Europe will be competing for the title as "European Champions". This championships also act as the European qualification event for 2025 Sudirman Cup.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch202_badminton_europe.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="995" start="20250422190000 +0000" stop="20250422210000 +0000">
 		<title>Singapore Cup 2024/25 BG Pathum United FC vs BG Tampines Rovers FC</title>
 		<desc>The Singapore Cup is an annual knockout football competition in men's domestic Singaporean football. Established in 1998, it is the most prestigious cup competition in the country.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch202_singapore_premier_league.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch202_singapore_cup202425.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="995" start="20250422210000 +0000" stop="20250422230000 +0000">
 		<title>East Asia Super League 2024/25 San Miguel Beermen vs Hong Kong Eastern</title>
@@ -35380,11 +35316,6 @@
 		<icon src="https://poster.starhubgo.com/poster/ch202_the_football_review.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="995" start="20250423000000 +0000" stop="20250423020000 +0000">
-		<title>Singapore Premier League 2024/25 Lion City Sailors FC vs Brunei DPMM FC</title>
-		<desc>The top-tiered division of the local professional football league is in its 29th season. In a revamped quadruple round-robin format, each of the 9 teams will play 32 matches in total.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch202_singapore_premier_league.jpg?w=341&amp;h=192" />
-	</programme>
-	<programme channel="995" start="20250423020000 +0000" stop="20250423040000 +0000">
 		<title>The Emirates FA Cup 2024/25 QF: Fulham vs Crystal Palace</title>
 		<desc>The 2024/25 FA Cup is the 144th season of the Football Association Challenge Cup, the original and oldest football tournament in the world. The FA Cup is the main domestic cup for men's football teams in England, with more than 700 clubs competing for the chance to lift one of the most prestigious trophies.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch202_FULvCRY.jpg?w=341&amp;h=192" />
