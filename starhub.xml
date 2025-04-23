@@ -1088,7 +1088,7 @@
 	</programme>
 	<programme channel="103" start="20250423020000 +0000" stop="20250423060000 +0000">
 		<title>Singapore Votes 2025: Nomination Day</title>
-		<desc>(Live)</desc>
+		<desc>(Live) April 23rd , Nomination Day, political parties will unveil their final lineups of candidates to contest 97 parliamentary seats across 15 single member constituencies (SMCs) and 18 group representation constituencies (GRCs).</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/103_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="103" start="20250423060000 +0000" stop="20250423063000 +0000">
@@ -10406,7 +10406,7 @@
 		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_Channels2/204_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="204" start="20250423220000 +0000" stop="20250424010000 +0000">
+	<programme channel="204" start="20250423220000 +0000" stop="20250424003000 +0000">
 		<title>End of Transmission</title>
 		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_Channels2/204_1920x1080_HTV.png?w=341&amp;h=192" />
@@ -10637,12 +10637,12 @@
 		<icon src="https://poster.starhubgo.com/poster/ch209_wtt.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="209" start="20250424013000 +0000" stop="20250424033000 +0000">
-		<title>2025 LOVB Inaugural Season: Finals Week 14 QF 1: Salt Lake vs Austin</title>
+		<title>2025 LOVB Inaugural Season: Finals Week 14 Quarter Final 1: Salt Lake vs Austin</title>
 		<desc>The inaugural season of the League One Volleyball (LOVB) featuring top talent from around the globe, this ground-breaking league that showcases the best of professional volleyball.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/209_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="209" start="20250424033000 +0000" stop="20250424053000 +0000">
-		<title>2025 LOVB Inaugural Season: Finals Week 14 QF 2: Madison vs Omaha</title>
+		<title>2025 LOVB Inaugural Season: Finals Week 14 Quarter Final 2: Madison vs Omaha</title>
 		<desc>The inaugural season of the League One Volleyball (LOVB) featuring top talent from around the globe, this ground-breaking league that showcases the best of professional volleyball.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/209_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
@@ -10657,12 +10657,12 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/209_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="209" start="20250424080000 +0000" stop="20250424101000 +0000">
-		<title>2025 LOVB Inaugural Season: Finals Week 14 SF 1: Atlanta vs Austin</title>
+		<title>2025 LOVB Inaugural Season: Finals Week 14 Semi Final 1: Atlanta vs Austin</title>
 		<desc>The inaugural season of the League One Volleyball (LOVB) featuring top talent from around the globe, this ground-breaking league that showcases the best of professional volleyball.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/209_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="209" start="20250424101000 +0000" stop="20250424123500 +0000">
-		<title>2025 LOVB Inaugural Season: Finals Week 14 SF 2: Houston vs Omaha</title>
+		<title>2025 LOVB Inaugural Season: Finals Week 14 Semi Final 2: Houston vs Omaha</title>
 		<desc>The inaugural season of the League One Volleyball (LOVB) featuring top talent from around the globe, this ground-breaking league that showcases the best of professional volleyball.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/209_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
@@ -10673,12 +10673,12 @@
 	</programme>
 	<programme channel="209" start="20250424133000 +0000" stop="20250424144000 +0000">
 		<title>MotoGP 2025: Qatar Airways GP of Qatar</title>
-		<desc>The 2025 MotoGP sees 22 of the world's best riders battle on 1000cc prototype machines, delivering over 250hp and reaching speeds of 360kph across 22 thrilling Grands Prix in 18 countries.</desc>
+		<desc>The 2025 MotoGP sees 22 of the world’s best riders battle on 1000cc prototype machines, delivering over 250hp and reaching speeds of 360kph across 22 thrilling Grands Prix in 18 countries.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch209_motogp.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="209" start="20250424144000 +0000" stop="20250424160000 +0000">
 		<title>MotoGP 2025: Qatar Airways GP of Qatar</title>
-		<desc>The 2025 MotoGP sees 22 of the world's best riders battle on 1000cc prototype machines, delivering over 250hp and reaching speeds of 360kph across 22 thrilling Grands Prix in 18 countries.</desc>
+		<desc>The 2025 MotoGP sees 22 of the world’s best riders battle on 1000cc prototype machines, delivering over 250hp and reaching speeds of 360kph across 22 thrilling Grands Prix in 18 countries.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch209_motogp.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="210" start="20250422160000 +0000" stop="20250422180000 +0000">
@@ -26355,6 +26355,11 @@
 		<title>Amanpour</title>
 		<desc>Christiane Amanpour provides her powerful interview skills and provocative analysis on global stories that matter to you.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch711_amanpour.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="711" start="20250424090000 +0000" stop="20250424100000 +0000">
+		<title>Early Start</title>
+		<desc>Start your day with all the information you need. This hour gives you the stories that will shape the next 24. On the agenda: U.S. politics and global affairs, what to expect in the business world, and key cultural and sporting events.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch711_early_start.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="711" start="20250424100000 +0000" stop="20250424110000 +0000">
 		<title>CNN This Morning</title>
