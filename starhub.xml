@@ -188,10 +188,6 @@
 		<display-name>beIN Sports 3</display-name>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/214_1920x1080_HTV.png?w=272" />
 	</channel>
-	<channel id="216">
-		<display-name>beIN Sports 5</display-name>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/216_1920x1080_HTV.png?w=272" />
-	</channel>
 	<channel id="221">
 		<display-name>Hub Premier 1</display-name>
 		<icon src="https://poster.starhubgo.com/Linear_Channels2/221_1920x1080_HTV.png?w=272" />
@@ -1576,8 +1572,8 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/105_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="105" start="20250423023000 +0000" stop="20250423030000 +0000">
-		<title>TBC</title>
-		<desc />
+		<title>Comedy Galatta Season 4 - EP 12</title>
+		<desc>Get ready to LOL with Comedy Galatta!</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/105_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="105" start="20250423030000 +0000" stop="20250423040000 +0000">
@@ -1696,8 +1692,8 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/105_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="105" start="20250424023000 +0000" stop="20250424030000 +0000">
-		<title>Arya - EP 25</title>
-		<desc>Satya desperately tries to explain himself to his ex-girlfriend, but she only scolds him, unwilling to hear excuses. Meanwhile, Rishi, consumed by guilt, attempts to apologize to Aunty Padma, Uma’s grieving mother, but she recoils in fear, still seeing him as the ruthless loan shark who tormented them. Elsewhere, Arya uncovers another shocking truth - Suresh had a secret second job. But why was he hiding it?</desc>
+		<title>Arya - EP 24</title>
+		<desc>Determined to turn his life around, Arjun makes a bold choice to complete his education. Meanwhile, Sham avoids going home, seeking refuge at Nikhil’s house, but he feels uncomfortable when Nikhil’s sister is around. Elsewhere, Satya’s past catches up with him in a heated confrontation with his ex’s family. With tensions escalating, one wrong move could send him straight back to prison. Will he walk away, or is history about to repeat itself?</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/105_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="105" start="20250424030000 +0000" stop="20250424040000 +0000">
@@ -2020,12 +2016,12 @@
 		<desc>(Dual language Chinese and Korean) Xu Minjing anonymously reports Jin Yingxin for unfairly giving recipes to Li Duojing, leading to Jin Yingxin's confession and resignation. Upon learning this, Jiang Zhongquan, suspecting Jin Yingxin created all the previous dishes due to Cui Shujing's inability to innovate.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/107_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="107" start="20250422173000 +0000" stop="20250422183500 +0000">
+	<programme channel="107" start="20250422173000 +0000" stop="20250422183000 +0000">
 		<title>A Good Supper - EP 38</title>
 		<desc>(Dual language Chinese and Korean) Cui Shujing attempts to coerce Jin Yingxin return to work via Li Duojing but she fails, resulting in Jin Yingxin's official resignation. Frustrated, Cui Shujing then threatens Zheng Qingxiu with damaging rumors to drive him and Jin Yingxin out of the village.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/107_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="107" start="20250422183500 +0000" stop="20250423030000 +0000">
+	<programme channel="107" start="20250422183000 +0000" stop="20250423030000 +0000">
 		<title>End of transmission</title>
 		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_channels2/107_1920x1080_HTV.png?w=341&amp;h=192" />
@@ -4667,42 +4663,42 @@
 	</programme>
 	<programme channel="128" start="20250423043000 +0000" stop="20250423050000 +0000">
 		<title>Suman Indori - EP 231</title>
-		<desc>Married to a rich politician, Suman faces several obstacles adjusting to her new life.</desc>
+		<desc>Suman gets Devika and Chadrakant arrested for their heinous crimes.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch128_suman_indori.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="128" start="20250423050000 +0000" stop="20250423053000 +0000">
 		<title>Megha Barsenge - EP 260</title>
-		<desc>After her being abandoned by her groom, Megha decides to live life on her own terms.</desc>
+		<desc>Megha and Arjun hide in the jungle from a tiger as Manoj chases after them.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch128_megha_barsenge.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="128" start="20250423053000 +0000" stop="20250423060000 +0000">
 		<title>Parineetii - EP 1092</title>
-		<desc>Fate plays a cruel trick on two best friends by tying their heartstrings to the same man.</desc>
+		<desc>Sanju reveals his plan for ruining Prithvi and Neeti to Pari and secures her support.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch128_parineetii.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="128" start="20250423060000 +0000" stop="20250423063000 +0000">
 		<title>Shiv Shakti: Tap Tyaag Taandav - EP 667</title>
-		<desc>Lord Shiva and his wife offer sacrifices and brave separation to care for humanity.</desc>
+		<desc>Nageshwar Mahadev gives Vasuki and Trishul to help Mahadev regain his memory.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch128_shiv_shakti_tap_tyaag_tandav.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="128" start="20250423063000 +0000" stop="20250423070000 +0000">
 		<title>Ram Bhavan - EP 84</title>
-		<desc>In a battle between evil and goodness, Isha motivates Om to confront his family.</desc>
+		<desc>Isha gains clarity after she observes Gayatri's diabolical side in the family.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch128_ram_bhavan.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="128" start="20250423070000 +0000" stop="20250423080000 +0000">
 		<title>Mangal Lakshmi - EP 420</title>
-		<desc>Mangal embarks on a quest in order to find Lakshmi a perfect match.</desc>
+		<desc>Mangal desperately saves Akshat from being trapped inside Adit's car.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch128_mangal_lakshmi.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="128" start="20250423080000 +0000" stop="20250423083000 +0000">
 		<title>Mannat Harr Khushi Paane Ki - EP 77</title>
-		<desc>Chef Mannat's dreams clash with her employer, who is her secret birth mother and nemesis.</desc>
+		<desc>Shalini gets her due after she slaps Bobby before he gets arrested.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch128_mannat_harr_khushi_paane_ki.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="128" start="20250423083000 +0000" stop="20250423090000 +0000">
 		<title>Doree - EP 66</title>
-		<desc>After being abandoned, a selfless six-year-old Doree gets taken in by a doting foster father.</desc>
+		<desc>Doree saves Mann after Rajnandini intentionally sets the lab on fire.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch128_doree.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="128" start="20250423090000 +0000" stop="20250423093000 +0000">
@@ -4722,167 +4718,167 @@
 	</programme>
 	<programme channel="128" start="20250423103000 +0000" stop="20250423110000 +0000">
 		<title>Suman Indori - EP 231</title>
-		<desc>Married to a rich politician, Suman faces several obstacles adjusting to her new life.</desc>
+		<desc>Suman gets Devika and Chadrakant arrested for their heinous crimes.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch128_suman_indori.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="128" start="20250423110000 +0000" stop="20250423113000 +0000">
 		<title>Megha Barsenge - EP 260</title>
-		<desc>After her being abandoned by her groom, Megha decides to live life on her own terms.</desc>
+		<desc>Megha and Arjun hide in the jungle from a tiger as Manoj chases after them.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch128_megha_barsenge.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="128" start="20250423113000 +0000" stop="20250423120000 +0000">
 		<title>Parineetii - EP 1092</title>
-		<desc>Fate plays a cruel trick on two best friends by tying their heartstrings to the same man.</desc>
+		<desc>Sanju reveals his plan for ruining Prithvi and Neeti to Pari and secures her support.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch128_parineetii.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="128" start="20250423120000 +0000" stop="20250423123000 +0000">
 		<title>Shiv Shakti: Tap Tyaag Taandav - EP 667</title>
-		<desc>Lord Shiva and his wife offer sacrifices and brave separation to care for humanity.</desc>
+		<desc>Nageshwar Mahadev gives Vasuki and Trishul to help Mahadev regain his memory.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch128_shiv_shakti_tap_tyaag_tandav.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="128" start="20250423123000 +0000" stop="20250423130000 +0000">
 		<title>Ram Bhavan - EP 84</title>
-		<desc>In a battle between evil and goodness, Isha motivates Om to confront his family.</desc>
+		<desc>Isha gains clarity after she observes Gayatri's diabolical side in the family.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch128_ram_bhavan.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="128" start="20250423130000 +0000" stop="20250423140000 +0000">
 		<title>Mangal Lakshmi - EP 420</title>
-		<desc>Mangal embarks on a quest in order to find Lakshmi a perfect match.</desc>
+		<desc>Mangal desperately saves Akshat from being trapped inside Adit's car.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch128_mangal_lakshmi.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="128" start="20250423140000 +0000" stop="20250423143000 +0000">
 		<title>Mannat Harr Khushi Paane Ki - EP 77</title>
-		<desc>Chef Mannat's dreams clash with her employer, who is her secret birth mother and nemesis.</desc>
+		<desc>Shalini gets her due after she slaps Bobby before he gets arrested.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch128_mannat_harr_khushi_paane_ki.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="128" start="20250423143000 +0000" stop="20250423150000 +0000">
 		<title>Doree - EP 66</title>
-		<desc>After being abandoned, a selfless six-year-old Doree gets taken in by a doting foster father.</desc>
+		<desc>Doree saves Mann after Rajnandini intentionally sets the lab on fire.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch128_doree.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="128" start="20250423150000 +0000" stop="20250423153000 +0000">
 		<title>Megha Barsenge - EP 260</title>
-		<desc>After her being abandoned by her groom, Megha decides to live life on her own terms.</desc>
+		<desc>Megha and Arjun hide in the jungle from a tiger as Manoj chases after them.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch128_megha_barsenge.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="128" start="20250423153000 +0000" stop="20250423160000 +0000">
 		<title>Mannat Harr Khushi Paane Ki - EP 77</title>
-		<desc>Chef Mannat's dreams clash with her employer, who is her secret birth mother and nemesis.</desc>
+		<desc>Shalini gets her due after she slaps Bobby before he gets arrested.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch128_mannat_harr_khushi_paane_ki.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="128" start="20250423160000 +0000" stop="20250423163000 +0000">
 		<title>Parineetii - EP 1092</title>
-		<desc>Fate plays a cruel trick on two best friends by tying their heartstrings to the same man.</desc>
+		<desc>Sanju reveals his plan for ruining Prithvi and Neeti to Pari and secures her support.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch128_parineetii.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="128" start="20250423163000 +0000" stop="20250423173000 +0000">
 		<title>Mangal Lakshmi - EP 420</title>
-		<desc>Mangal embarks on a quest in order to find Lakshmi a perfect match.</desc>
+		<desc>Mangal desperately saves Akshat from being trapped inside Adit's car.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch128_mangal_lakshmi.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="128" start="20250423173000 +0000" stop="20250423180000 +0000">
 		<title>Shiv Shakti: Tap Tyaag Taandav - EP 667</title>
-		<desc>Lord Shiva and his wife offer sacrifices and brave separation to care for humanity.</desc>
+		<desc>Nageshwar Mahadev gives Vasuki and Trishul to help Mahadev regain his memory.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch128_shiv_shakti_tap_tyaag_tandav.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="128" start="20250423180000 +0000" stop="20250423183000 +0000">
 		<title>Ram Bhavan - EP 84</title>
-		<desc>In a battle between evil and goodness, Isha motivates Om to confront his family.</desc>
+		<desc>Isha gains clarity after she observes Gayatri's diabolical side in the family.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch128_ram_bhavan.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="128" start="20250423183000 +0000" stop="20250423190000 +0000">
 		<title>Suman Indori - EP 231</title>
-		<desc>Married to a rich politician, Suman faces several obstacles adjusting to her new life.</desc>
+		<desc>Suman gets Devika and Chadrakant arrested for their heinous crimes.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch128_suman_indori.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="128" start="20250423190000 +0000" stop="20250423193000 +0000">
 		<title>Doree - EP 66</title>
-		<desc>After being abandoned, a selfless six-year-old Doree gets taken in by a doting foster father.</desc>
+		<desc>Doree saves Mann after Rajnandini intentionally sets the lab on fire.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch128_doree.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="128" start="20250423193000 +0000" stop="20250423203000 +0000">
 		<title>Mangal Lakshmi - EP 420</title>
-		<desc>Mangal embarks on a quest in order to find Lakshmi a perfect match.</desc>
+		<desc>Mangal desperately saves Akshat from being trapped inside Adit's car.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch128_mangal_lakshmi.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="128" start="20250423203000 +0000" stop="20250423210000 +0000">
 		<title>Suman Indori - EP 231</title>
-		<desc>Married to a rich politician, Suman faces several obstacles adjusting to her new life.</desc>
+		<desc>Suman gets Devika and Chadrakant arrested for their heinous crimes.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch128_suman_indori.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="128" start="20250423210000 +0000" stop="20250423213000 +0000">
 		<title>Parineetii - EP 1092</title>
-		<desc>Fate plays a cruel trick on two best friends by tying their heartstrings to the same man.</desc>
+		<desc>Sanju reveals his plan for ruining Prithvi and Neeti to Pari and secures her support.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch128_parineetii.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="128" start="20250423213000 +0000" stop="20250423220000 +0000">
 		<title>Megha Barsenge - EP 260</title>
-		<desc>After her being abandoned by her groom, Megha decides to live life on her own terms.</desc>
+		<desc>Megha and Arjun hide in the jungle from a tiger as Manoj chases after them.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch128_megha_barsenge.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="128" start="20250423220000 +0000" stop="20250423222000 +0000">
 		<title>Doree - EP 66</title>
-		<desc>After being abandoned, a selfless six-year-old Doree gets taken in by a doting foster father.</desc>
+		<desc>Doree saves Mann after Rajnandini intentionally sets the lab on fire.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch128_doree.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="128" start="20250423222000 +0000" stop="20250423225000 +0000">
 		<title>Shiv Shakti: Tap Tyaag Taandav - EP 667</title>
-		<desc>Lord Shiva and his wife offer sacrifices and brave separation to care for humanity.</desc>
+		<desc>Nageshwar Mahadev gives Vasuki and Trishul to help Mahadev regain his memory.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch128_shiv_shakti_tap_tyaag_tandav.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="128" start="20250423225000 +0000" stop="20250423232000 +0000">
 		<title>Ram Bhavan - EP 84</title>
-		<desc>In a battle between evil and goodness, Isha motivates Om to confront his family.</desc>
+		<desc>Isha gains clarity after she observes Gayatri's diabolical side in the family.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch128_ram_bhavan.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="128" start="20250423232000 +0000" stop="20250423235000 +0000">
 		<title>Parineetii - EP 1092</title>
-		<desc>Fate plays a cruel trick on two best friends by tying their heartstrings to the same man.</desc>
+		<desc>Sanju reveals his plan for ruining Prithvi and Neeti to Pari and secures her support.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch128_parineetii.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="128" start="20250423235000 +0000" stop="20250424001500 +0000">
 		<title>Suman Indori - EP 231</title>
-		<desc>Married to a rich politician, Suman faces several obstacles adjusting to her new life.</desc>
+		<desc>Suman gets Devika and Chadrakant arrested for their heinous crimes.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch128_suman_indori.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="128" start="20250424001500 +0000" stop="20250424011000 +0000">
 		<title>Mangal Lakshmi - EP 420</title>
-		<desc>Mangal embarks on a quest in order to find Lakshmi a perfect match.</desc>
+		<desc>Mangal desperately saves Akshat from being trapped inside Adit's car.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch128_mangal_lakshmi.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="128" start="20250424011000 +0000" stop="20250424014000 +0000">
 		<title>Doree - EP 66</title>
-		<desc>After being abandoned, a selfless six-year-old Doree gets taken in by a doting foster father.</desc>
+		<desc>Doree saves Mann after Rajnandini intentionally sets the lab on fire.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch128_doree.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="128" start="20250424014000 +0000" stop="20250424020000 +0000">
 		<title>Parineetii - EP 1092</title>
-		<desc>Fate plays a cruel trick on two best friends by tying their heartstrings to the same man.</desc>
+		<desc>Sanju reveals his plan for ruining Prithvi and Neeti to Pari and secures her support.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch128_parineetii.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="128" start="20250424020000 +0000" stop="20250424023000 +0000">
 		<title>Megha Barsenge - EP 260</title>
-		<desc>After her being abandoned by her groom, Megha decides to live life on her own terms.</desc>
+		<desc>Megha and Arjun hide in the jungle from a tiger as Manoj chases after them.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch128_megha_barsenge.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="128" start="20250424023000 +0000" stop="20250424030000 +0000">
 		<title>Ram Bhavan - EP 84</title>
-		<desc>In a battle between evil and goodness, Isha motivates Om to confront his family.</desc>
+		<desc>Isha gains clarity after she observes Gayatri's diabolical side in the family.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch128_ram_bhavan.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="128" start="20250424030000 +0000" stop="20250424033000 +0000">
 		<title>Suman Indori - EP 231</title>
-		<desc>Married to a rich politician, Suman faces several obstacles adjusting to her new life.</desc>
+		<desc>Suman gets Devika and Chadrakant arrested for their heinous crimes.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch128_suman_indori.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="128" start="20250424033000 +0000" stop="20250424040000 +0000">
 		<title>Mannat Harr Khushi Paane Ki - EP 77</title>
-		<desc>Chef Mannat's dreams clash with her employer, who is her secret birth mother and nemesis.</desc>
+		<desc>Shalini gets her due after she slaps Bobby before he gets arrested.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch128_mannat_harr_khushi_paane_ki.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="128" start="20250424040000 +0000" stop="20250424043000 +0000">
 		<title>Shiv Shakti: Tap Tyaag Taandav - EP 667</title>
-		<desc>Lord Shiva and his wife offer sacrifices and brave separation to care for humanity.</desc>
+		<desc>Nageshwar Mahadev gives Vasuki and Trishul to help Mahadev regain his memory.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch128_shiv_shakti_tap_tyaag_tandav.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="128" start="20250424043000 +0000" stop="20250424050000 +0000">
@@ -4897,7 +4893,7 @@
 	</programme>
 	<programme channel="128" start="20250424053000 +0000" stop="20250424060000 +0000">
 		<title>Parineetii - EP 1093</title>
-		<desc>Fate plays a cruel trick on two best friends by tying their heartstrings to the same man.</desc>
+		<desc>Pari is heartbroken to see Sanju deciding to take ulte phere with her.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch128_parineetii.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="128" start="20250424060000 +0000" stop="20250424063000 +0000">
@@ -4927,17 +4923,17 @@
 	</programme>
 	<programme channel="128" start="20250424090000 +0000" stop="20250424093000 +0000">
 		<title>Parineetii - EP 1092</title>
-		<desc>Fate plays a cruel trick on two best friends by tying their heartstrings to the same man.</desc>
+		<desc>Sanju reveals his plan for ruining Prithvi and Neeti to Pari and secures her support.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch128_parineetii.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="128" start="20250424093000 +0000" stop="20250424100000 +0000">
 		<title>Mannat Harr Khushi Paane Ki - EP 77</title>
-		<desc>Chef Mannat's dreams clash with her employer, who is her secret birth mother and nemesis.</desc>
+		<desc>Shalini gets her due after she slaps Bobby before he gets arrested.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch128_mannat_harr_khushi_paane_ki.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="128" start="20250424100000 +0000" stop="20250424103000 +0000">
 		<title>Ram Bhavan - EP 84</title>
-		<desc>In a battle between evil and goodness, Isha motivates Om to confront his family.</desc>
+		<desc>Isha gains clarity after she observes Gayatri's diabolical side in the family.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch128_ram_bhavan.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="128" start="20250424103000 +0000" stop="20250424110000 +0000">
@@ -4952,7 +4948,7 @@
 	</programme>
 	<programme channel="128" start="20250424113000 +0000" stop="20250424120000 +0000">
 		<title>Parineetii - EP 1093</title>
-		<desc>Fate plays a cruel trick on two best friends by tying their heartstrings to the same man.</desc>
+		<desc>Pari is heartbroken to see Sanju deciding to take ulte phere with her.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch128_parineetii.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="128" start="20250424120000 +0000" stop="20250424123000 +0000">
@@ -7460,12 +7456,12 @@
 		<desc>Mannar Mathai dreams of reviving his drama group with friends. Release Year: 2014 Director: Rohin Venkatesan</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=960&amp;h=540" />
 	</programme>
-	<programme channel="140" start="20250423043000 +0000" stop="20250423073000 +0000">
+	<programme channel="140" start="20250423043000 +0000" stop="20250423072000 +0000">
 		<title>Aravindhante Athidhikal</title>
 		<desc>Aravindan, left at a temple, raised by a hotelier, dreams of finding his mother. Release Year: 2018 Director: M. Mohanan</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=960&amp;h=540" />
 	</programme>
-	<programme channel="140" start="20250423073000 +0000" stop="20250423103000 +0000">
+	<programme channel="140" start="20250423072000 +0000" stop="20250423103000 +0000">
 		<title>Mambazhakkalam</title>
 		<desc>Chandran, compelled to work abroad to settle father's debts. Release Year: 2004 Director: Joshiy</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=960&amp;h=540" />
@@ -7475,22 +7471,22 @@
 		<desc>A CBI officer investigates the murder of a young woman in a haunted mansion years after the crime occurred. Release Year: 2005 Director: K. Madhu</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=960&amp;h=540" />
 	</programme>
-	<programme channel="140" start="20250423133000 +0000" stop="20250423163000 +0000">
+	<programme channel="140" start="20250423133000 +0000" stop="20250423164000 +0000">
 		<title>Christian Brothers</title>
 		<desc>Christy saves minister's daughter but gets involved in murder. Release Year: 2011 Director: Joshiy</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=960&amp;h=540" />
 	</programme>
-	<programme channel="140" start="20250423163000 +0000" stop="20250423190000 +0000">
+	<programme channel="140" start="20250423164000 +0000" stop="20250423192000 +0000">
 		<title>China Town</title>
 		<desc>Friends face local goon to reclaim casino. Release Year: 2011 Director: Meccartin, Raffi</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=960&amp;h=540" />
 	</programme>
-	<programme channel="140" start="20250423190000 +0000" stop="20250423220000 +0000">
+	<programme channel="140" start="20250423192000 +0000" stop="20250423212000 +0000">
 		<title>My Story</title>
 		<desc>ai and Tara fall in love with each other on the sets of their film. Release Year: 2018 Director: Roshni Dinaker</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=960&amp;h=540" />
 	</programme>
-	<programme channel="140" start="20250423220000 +0000" stop="20250423233000 +0000">
+	<programme channel="140" start="20250423212000 +0000" stop="20250423233000 +0000">
 		<title>Oozham</title>
 		<desc>After witnessing his family's murder over a video call, Surya vows to avenge their deaths. His fiancee, Gayathri, mourning her brother's death, is ready to assist him.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=960&amp;h=540" />
@@ -11469,46 +11465,6 @@
 		<title>Mini Match - UEFA Europa League 2024/25 Rangers vs Athletic Bilbao - QF,1st Leg</title>
 		<desc>Watch every round of the UEL as Europe's top clubs battle it out for the coveted prize at the San Mames Stadium, Bilbao</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch214_UEL_mini_match.jpg?w=960&amp;h=540" />
-	</programme>
-	<programme channel="216" start="20250422160000 +0000" stop="20250422220000 +0000">
-		<title>End of Transmission</title>
-		<desc />
-		<icon src="https://poster.starhubgo.com/Linear_channels2/216_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="216" start="20250422220000 +0000" stop="20250423040000 +0000">
-		<title>End of Transmission</title>
-		<desc />
-		<icon src="https://poster.starhubgo.com/Linear_channels2/216_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="216" start="20250423040000 +0000" stop="20250423100000 +0000">
-		<title>End of Transmission</title>
-		<desc />
-		<icon src="https://poster.starhubgo.com/Linear_channels2/216_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="216" start="20250423100000 +0000" stop="20250423160000 +0000">
-		<title>End of Transmission</title>
-		<desc />
-		<icon src="https://poster.starhubgo.com/Linear_channels2/216_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="216" start="20250423160000 +0000" stop="20250423220000 +0000">
-		<title>End of Transmission</title>
-		<desc />
-		<icon src="https://poster.starhubgo.com/Linear_channels2/216_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="216" start="20250423220000 +0000" stop="20250424040000 +0000">
-		<title>End of Transmission</title>
-		<desc />
-		<icon src="https://poster.starhubgo.com/Linear_channels2/216_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="216" start="20250424040000 +0000" stop="20250424100000 +0000">
-		<title>End of Transmission</title>
-		<desc />
-		<icon src="https://poster.starhubgo.com/Linear_channels2/216_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="216" start="20250424100000 +0000" stop="20250424160000 +0000">
-		<title>End of Transmission</title>
-		<desc />
-		<icon src="https://poster.starhubgo.com/Linear_channels2/216_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="221" start="20250422160000 +0000" stop="20250422163000 +0000">
 		<title>MATCH OFFICIALS MIC'D UP - TUES 22 APR</title>
