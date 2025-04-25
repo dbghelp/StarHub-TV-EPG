@@ -1586,12 +1586,12 @@
 		<desc>(Live) Tamil Seithi focuses primarily on local and international news, information and current affairs. _x000D_Catch the online news portal at http://seithi.mediacorp.sg/</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/105_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="105" start="20250425130000 +0000" stop="20250425133000 +0000">
+	<programme channel="105" start="20250425130000 +0000" stop="20250425134500 +0000">
 		<title>Party Political Broadcast 2025 - EP 1</title>
 		<desc>Political parties in Singapore General Election 2025 fielding six candidates or more, deliver the first party political broadcasts.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/105_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="105" start="20250425133000 +0000" stop="20250425140000 +0000">
+	<programme channel="105" start="20250425134500 +0000" stop="20250425140000 +0000">
 		<title>Thithikuthey - EP 1</title>
 		<desc>Get ready to indulge in a delightful dance of flavors on Vasantham's newest baking extravaganza! Eswari adds her charming flair while Chef Anand sprinkles his culinary magic as they assist our home baker in crafting Strawberry Cream Filled Horns. In a kitchen buzzing with excitement, every whisk stroke is a step closer to pastry perfection.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/105_1920x1080_HTV.png?w=341&amp;h=192" />
@@ -1919,6 +1919,11 @@
 	<programme channel="106" start="20250426060000 +0000" stop="20250426063000 +0000">
 		<title>Asia Now - EP 60</title>
 		<desc>(Live) Non-stop breaking stories, expert analysis and extensive news coverage every hour.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="106" start="20250426063000 +0000" stop="20250426070000 +0000">
+		<title>CNA Correspondent - EP 4</title>
+		<desc>Busan is South Korea’s second biggest city. But industrial decline and a youth exodus towards Seoul are threatening its existence. The port city will have to rebuild itself - or risk going extinct.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="106" start="20250426070000 +0000" stop="20250426073000 +0000">
@@ -5557,8 +5562,8 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/133_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="133" start="20250426013000 +0000" stop="20250426020000 +0000">
-		<title>THERIKKAVIDALAMA (Repeat Telecast)</title>
-		<desc>Therikkavidalama Sun TV Show</desc>
+		<title>ALL IN ALL AZHAGURAJA (Repeat Telecast)</title>
+		<desc>ALL IN ALL AZHAGURAJA (Repeat Telecast)</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/133_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="133" start="20250426020000 +0000" stop="20250426023000 +0000">
@@ -5567,8 +5572,8 @@
 		<icon src="https://poster.starhubgo.com/poster/ch25_news.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="133" start="20250426023000 +0000" stop="20250426030000 +0000">
-		<title>THERIKKAVIDALAMA (Repeat Telecast)</title>
-		<desc>Therikkavidalama Sun TV Show</desc>
+		<title>ALL IN ALL AZHAGURAJA (Repeat Telecast)</title>
+		<desc>ALL IN ALL AZHAGURAJA (Repeat Telecast)</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/133_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="133" start="20250426030000 +0000" stop="20250426033000 +0000">
@@ -5617,8 +5622,8 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/133_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="133" start="20250426073000 +0000" stop="20250426080000 +0000">
-		<title>Movie -</title>
-		<desc>Watch your favourite movies with all the drama and emotion on Sun TV.</desc>
+		<title>Movie - IRUTTU</title>
+		<desc>A police officer is tasked with investigating a series of bizarre deaths in a hilly town. However, while he works to solve the case, his family is haunted by unnatural events.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch25_movie.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="133" start="20250426080000 +0000" stop="20250426083000 +0000">
@@ -5627,8 +5632,8 @@
 		<icon src="https://poster.starhubgo.com/poster/ch25_news.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="133" start="20250426083000 +0000" stop="20250426103000 +0000">
-		<title>Movie Contd -</title>
-		<desc>Watch your favourite movies with all the drama and emotion on Sun TV.</desc>
+		<title>Movie Contd - IRUTTU</title>
+		<desc>A police officer is tasked with investigating a series of bizarre deaths in a hilly town. However, while he works to solve the case, his family is haunted by unnatural events.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch25_movie.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="133" start="20250426103000 +0000" stop="20250426110000 +0000">
@@ -7537,8 +7542,8 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/141_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="141" start="20250426043000 +0000" stop="20250426073000 +0000">
-		<title>MOVIE - SOPPANA SUNDARI (U)</title>
-		<desc>MOVIE - SOPPANA SUNDARI (U) Starring Aishwarya Rajesh, Lakshmi Prabha, Deepa, Karunakaran, Mime Gopi</desc>
+		<title>MOVIE - POO (U)</title>
+		<desc>MOVIE - POO (U) Starring Srikanth, Parvathy, Ram</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/141_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="141" start="20250426073000 +0000" stop="20250426080000 +0000">
@@ -7547,8 +7552,8 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/141_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="141" start="20250426080000 +0000" stop="20250426110000 +0000">
-		<title>MOVIE - KAZHUVETHI MOORKKAN (U/A)</title>
-		<desc>MOVIE - KAZHUVETHI MOORKKAN (U/A) Starring Arulnidhi Thamizharasu, Dushara Vijayan, Santhosh Prathap</desc>
+		<title>MOVIE - PARUTHI VEERAN (V/U)</title>
+		<desc>MOVIE - PARUTHI VEERAN (V/U) Starring Karthi, Priyamani, Saravanan, Ponvannan</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/141_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="141" start="20250426110000 +0000" stop="20250426120000 +0000">
@@ -7567,22 +7572,22 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/141_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="141" start="20250426133000 +0000" stop="20250426143000 +0000">
-		<title>Nadhaswaram - EP 808</title>
+		<title>Nadhaswaram - EP 814</title>
 		<desc>Story of Emotional family drama that depicts a gentle and respectable man who loves his family.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/141_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="141" start="20250426143000 +0000" stop="20250426150000 +0000">
-		<title>Gauri - EP 384</title>
+		<title>Gauri - EP 390</title>
 		<desc>A devotional mega series of A devotional mega series of Gauri is a child blessed by Goddess masani in maraiyanur village, two zameens of that village plans to kill gauri for their development, Finally what happened to guari and thet zameen is story</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/141_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="141" start="20250426150000 +0000" stop="20250426153000 +0000">
-		<title>Pavithra - EP 142</title>
+		<title>Pavithra - EP 148</title>
 		<desc>Mega Serial about the girl Pavithra who lost her parents and eventually returns to her grandmother Ramadevi's house, and what happened to their life</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/141_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="141" start="20250426153000 +0000" stop="20250426160000 +0000">
-		<title>Ullam Kollai Poguthada - EP 130</title>
+		<title>Ullam Kollai Poguthada - EP 136</title>
 		<desc>The show explores the worlds of Priya Sharma and Ram Kapoor, who accidentally discover love after getting married</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/141_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
@@ -9002,8 +9007,8 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20250424233000 +0000" stop="20250425000000 +0000">
-		<title>Best of DW Podcasts</title>
-		<desc>Select DW podcasts enrich the program with current analyses of world politics and its influence on our daily lives. There will also be space in the program for lively discussions about social standards and taboos.</desc>
+		<title>Berlin Briefing</title>
+		<desc>Is Crimea the key to peace in Ukraine? On today’s Berlin Briefing, we break down Donald Trump’s claim that President Zelenskyy is prolonging the war by resisting calls to cede the Ukrainian peninsula Crimea to Russia. With updates on a devastating attack in Kyiv, DW’s Nick Connelly provides firsthand insights.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20250425000000 +0000" stop="20250425000200 +0000">
@@ -9097,8 +9102,8 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20250425063000 +0000" stop="20250425070000 +0000">
-		<title>Best of DW Podcasts</title>
-		<desc>Select DW podcasts enrich the program with current analyses of world politics and its influence on our daily lives. There will also be space in the program for lively discussions about social standards and taboos.</desc>
+		<title>Berlin Briefing</title>
+		<desc>Is Crimea the key to peace in Ukraine? On today’s Berlin Briefing, we break down Donald Trump’s claim that President Zelenskyy is prolonging the war by resisting calls to cede the Ukrainian peninsula Crimea to Russia. With updates on a devastating attack in Kyiv, DW’s Nick Connelly provides firsthand insights.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20250425070000 +0000" stop="20250425073000 +0000">
@@ -9137,8 +9142,8 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20250425103000 +0000" stop="20250425110000 +0000">
-		<title>Best of DW Podcasts</title>
-		<desc>Select DW podcasts enrich the program with current analyses of world politics and its influence on our daily lives. There will also be space in the program for lively discussions about social standards and taboos.</desc>
+		<title>Berlin Briefing</title>
+		<desc>Is Crimea the key to peace in Ukraine? On today’s Berlin Briefing, we break down Donald Trump’s claim that President Zelenskyy is prolonging the war by resisting calls to cede the Ukrainian peninsula Crimea to Russia. With updates on a devastating attack in Kyiv, DW’s Nick Connelly provides firsthand insights.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20250425110000 +0000" stop="20250425113000 +0000">
@@ -9227,8 +9232,8 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20250425183000 +0000" stop="20250425190000 +0000">
-		<title>Best of DW Podcasts</title>
-		<desc>Select DW podcasts enrich the program with current analyses of world politics and its influence on our daily lives. There will also be space in the program for lively discussions about social standards and taboos.</desc>
+		<title>Berlin Briefing</title>
+		<desc>Is Crimea the key to peace in Ukraine? On today’s Berlin Briefing, we break down Donald Trump’s claim that President Zelenskyy is prolonging the war by resisting calls to cede the Ukrainian peninsula Crimea to Russia. With updates on a devastating attack in Kyiv, DW’s Nick Connelly provides firsthand insights.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20250425190000 +0000" stop="20250425190200 +0000">
@@ -10691,10 +10696,15 @@
 		<desc>Established in 2009, the Asia-Pacific Amateur Championship (AAC) grants the champion emerging from an elite 120-player field an invitation to compete in The Open and Masters Tournament.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_spotv2_logo.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="210" start="20250425180000 +0000" stop="20250425230500 +0000">
+	<programme channel="210" start="20250425180000 +0000" stop="20250425223500 +0000">
 		<title>2025 Augusta Masters</title>
 		<desc>First held in 1960, tournament participants and non-competing past champions contest a short, separate nine-hole layout in this part competition, part stress relief on the eve of the Masters.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_golf.jpg?w=960&amp;h=540" />
+	</programme>
+	<programme channel="210" start="20250425223500 +0000" stop="20250425230500 +0000">
+		<title>MotoGP 2025 Rewind: Qatar Airways GP of Qatar</title>
+		<desc>Rewind the action, behind-the-scenes and rider interviews at the MotoGP 2025 Grand Prix of Qatar</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch210_motogp.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="210" start="20250425230500 +0000" stop="20250426020000 +0000">
 		<title>MLB 2025: Regular season New York Yankees vs Toronto Blue Jays</title>
@@ -11698,7 +11708,7 @@
 	</programme>
 	<programme channel="221" start="20250426103000 +0000" stop="20250426112000 +0000">
 		<title>MATCHDAY LIVE (Live)</title>
-		<desc>Live match action from the latest match round of the Premier League, with insight, analysis, and reaction from our expert panel of studio guests.</desc>
+		<desc>The race for Champions League intensifies as Chelsea take on Everton in the early kick off before Newcastle against Ipswich headlines Goal Rush, with Glenn Hoddle and Tim Sherwood providing all the analysis and reaction.</desc>
 		<icon src="https://poster.starhubgo.com/poster/matchday_live_V2.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="221" start="20250426112000 +0000" stop="20250426135000 +0000">
@@ -11753,7 +11763,7 @@
 	</programme>
 	<programme channel="222" start="20250426050000 +0000" stop="20250426065500 +0000">
 		<title>Manchester City vs Aston Villa (MW34) - EP 331</title>
-		<desc>The 33rd season of the Premier League sees Manchester City defend its title against a host of teams keen for glory themselves. 20 teams are in the mix but only 1 champion will emerge ultimately.</desc>
+		<desc>Manchester City have won their last 14 Premier League home games against Aston Villa, scoring at least twice in each of the last 13. Their last defeat was in April 2007 under Stuart Pearce.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch221_MW34_MCIvAVL_25.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="222" start="20250426065500 +0000" stop="20250426072500 +0000">
@@ -11778,7 +11788,7 @@
 	</programme>
 	<programme channel="222" start="20250426085500 +0000" stop="20250426105000 +0000">
 		<title>Arsenal vs Crystal Palace (MW34) - EP 332</title>
-		<desc>The 33rd season of the Premier League sees Manchester City defend its title against a host of teams keen for glory themselves. 20 teams are in the mix but only 1 champion will emerge ultimately.</desc>
+		<desc>Arsenal have lost just three of their last 36 home Premier League matches (W26 D7), though two of those three have been in London derbies, both defeats to West Ham in December 2023 (0-2) and February this season (0-1).</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch221_MW34_ARSvCRY_25.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="222" start="20250426105000 +0000" stop="20250426112000 +0000">
@@ -11788,7 +11798,7 @@
 	</programme>
 	<programme channel="222" start="20250426112000 +0000" stop="20250426132000 +0000">
 		<title>Chelsea vs Everton (MW34) (Live) - EP 333</title>
-		<desc>The 33rd season of the Premier League sees Manchester City defend its title against a host of teams keen for glory themselves. 20 teams are in the mix but only 1 champion will emerge ultimately.</desc>
+		<desc>Chelsea are unbeaten in their last 29 Premier League home games against Everton since a 1-0 loss in November 1994 (W16 D13). It’s the Blues’ longest unbeaten home run against an opponent in their league history.</desc>
 		<icon src="https://poster.starhubgo.com/poster/chelsea_stadium.jpg?w=960" />
 	</programme>
 	<programme channel="222" start="20250426132000 +0000" stop="20250426135000 +0000">
@@ -11798,7 +11808,7 @@
 	</programme>
 	<programme channel="222" start="20250426135000 +0000" stop="20250426160000 +0000">
 		<title>Brighton and Hove Albion vs West Ham United (MW34) (Live) - EP 334</title>
-		<desc>The 33rd season of the Premier League sees Manchester City defend its title against a host of teams keen for glory themselves. 20 teams are in the mix but only 1 champion will emerge ultimately.</desc>
+		<desc>Brighton have only lost one of their 15 Premier League meetings with West Ham (W6 D8), though it was a 3-1 defeat in this exact fixture last season.</desc>
 		<icon src="https://poster.starhubgo.com/poster/brighton_stadium.jpg?w=960" />
 	</programme>
 	<programme channel="223" start="20250424160000 +0000" stop="20250424220000 +0000">
@@ -11843,7 +11853,7 @@
 	</programme>
 	<programme channel="223" start="20250426135000 +0000" stop="20250426160000 +0000">
 		<title>Southampton vs Fulham (MW34) (Live) - EP 336</title>
-		<desc>The 33rd season of the Premier League sees Manchester City defend its title against a host of teams keen for glory themselves. 20 teams are in the mix but only 1 champion will emerge ultimately.</desc>
+		<desc>Southampton were unbeaten in 21 home league games against Fulham between 1937 and 2021 (W15 D6), but lost the last such meeting 2-0 in May 2023, a result that confirmed their relegation from the Premier League.</desc>
 		<icon src="https://poster.starhubgo.com/poster/southampton_stadium.jpg?w=960" />
 	</programme>
 	<programme channel="224" start="20250424160000 +0000" stop="20250424220000 +0000">
@@ -11933,7 +11943,7 @@
 	</programme>
 	<programme channel="225" start="20250426135000 +0000" stop="20250426160000 +0000">
 		<title>Wolverhampton Wanderers vs Leicester City (MW34) (Live) - EP 337</title>
-		<desc>The 33rd season of the Premier League sees Manchester City defend its title against a host of teams keen for glory themselves. 20 teams are in the mix but only 1 champion will emerge ultimately.</desc>
+		<desc>Wolves have won each of their last five Premier League games, last having a longer run in the top-flight in September/October 1970 (6).</desc>
 		<icon src="https://poster.starhubgo.com/poster/wolverhampton_wanderers_stadium.jpg?w=960" />
 	</programme>
 	<programme channel="226" start="20250424160000 +0000" stop="20250424220000 +0000">
@@ -11978,7 +11988,7 @@
 	</programme>
 	<programme channel="226" start="20250426135000 +0000" stop="20250426160000 +0000">
 		<title>Newcastle United vs Ipswich Town (MW34) (Live) - EP 335</title>
-		<desc>The 33rd season of the Premier League sees Manchester City defend its title against a host of teams keen for glory themselves. 20 teams are in the mix but only 1 champion will emerge ultimately.</desc>
+		<desc>Following their 4-0 win at Portman Road in December, Newcastle are looking to complete their first league double over Ipswich since 1973-74.</desc>
 		<icon src="https://poster.starhubgo.com/poster/newcastle_stadium.jpg?w=960" />
 	</programme>
 	<programme channel="228" start="20250424160000 +0000" stop="20250424220000 +0000">
@@ -12063,12 +12073,12 @@
 	</programme>
 	<programme channel="232" start="20250426050000 +0000" stop="20250426065500 +0000">
 		<title>Manchester City vs Aston Villa (MW34) - EP 331</title>
-		<desc>The 33rd season of the Premier League sees Manchester City defend its title against a host of teams keen for glory themselves. 20 teams are in the mix but only 1 champion will emerge ultimately.</desc>
+		<desc>Manchester City have won their last 14 Premier League home games against Aston Villa, scoring at least twice in each of the last 13. Their last defeat was in April 2007 under Stuart Pearce.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch221_MW34_MCIvAVL_25.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="232" start="20250426065500 +0000" stop="20250426072500 +0000">
 		<title>PL Stories 2024/25 - EP 47</title>
-		<desc>We look back on the extraordinary career of Mohamed Salah, tracing his rise from a small village in Egypt to global football stardom. We speak to those closest to him to highlight his early years, struggles, and determination, shedding light on the pivota</desc>
+		<desc>We look back on the extraordinary career of Mohamed Salah, tracing his rise from a small village in Egypt to global football stardom. We speak to those closest to him to highlight his early years, struggles, and determination, shedding light on the pivotal moments that shaped his journey to becoming a Premier League legend with Liverpool.</desc>
 		<icon src="https://poster.starhubgo.com/poster/pl_stories_V2.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="232" start="20250426072500 +0000" stop="20250426075500 +0000">
@@ -12078,7 +12088,7 @@
 	</programme>
 	<programme channel="232" start="20250426075500 +0000" stop="20250426082500 +0000">
 		<title>Fantasy Show 2024/25 - EP 34</title>
-		<desc>Saka or Salah? Foden or Fernandes? Wilson or Watkins? Picking your Fantasy team is never easy but this season the Fantasy Show is on hand to help you with those big decisions. Fantasy experts will crunch the numbers and give their opinion on which Premier</desc>
+		<desc>Saka or Salah? Foden or Fernandes? Wilson or Watkins? Picking your Fantasy team is never easy but this season the Fantasy Show is on hand to help you with those big decisions. Fantasy experts will crunch the numbers and give their opinion on which Premier League stars you should be selecting ahead of each FPL Gameweek.</desc>
 		<icon src="https://poster.starhubgo.com/poster/fantasy_show_V2.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="232" start="20250426082500 +0000" stop="20250426085500 +0000">
@@ -12088,17 +12098,17 @@
 	</programme>
 	<programme channel="232" start="20250426085500 +0000" stop="20250426105000 +0000">
 		<title>Arsenal vs Crystal Palace (MW34) - EP 332</title>
-		<desc>The 33rd season of the Premier League sees Manchester City defend its title against a host of teams keen for glory themselves. 20 teams are in the mix but only 1 champion will emerge ultimately.</desc>
+		<desc>Arsenal have lost just three of their last 36 home Premier League matches (W26 D7), though two of those three have been in London derbies, both defeats to West Ham in December 2023 (0-2) and February this season (0-1).</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch221_MW34_ARSvCRY_25.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="232" start="20250426105000 +0000" stop="20250426112000 +0000">
 		<title>PL Stories 2024/25 - EP 47</title>
-		<desc>We look back on the extraordinary career of Mohamed Salah, tracing his rise from a small village in Egypt to global football stardom. We speak to those closest to him to highlight his early years, struggles, and determination, shedding light on the pivota</desc>
+		<desc>We look back on the extraordinary career of Mohamed Salah, tracing his rise from a small village in Egypt to global football stardom. We speak to those closest to him to highlight his early years, struggles, and determination, shedding light on the pivotal moments that shaped his journey to becoming a Premier League legend with Liverpool.</desc>
 		<icon src="https://poster.starhubgo.com/poster/pl_stories_V2.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="232" start="20250426112000 +0000" stop="20250426132000 +0000">
 		<title>Chelsea vs Everton (MW34) (Live) - EP 333</title>
-		<desc>The 33rd season of the Premier League sees Manchester City defend its title against a host of teams keen for glory themselves. 20 teams are in the mix but only 1 champion will emerge ultimately.</desc>
+		<desc>Chelsea are unbeaten in their last 29 Premier League home games against Everton since a 1-0 loss in November 1994 (W16 D13). It’s the Blues’ longest unbeaten home run against an opponent in their league history.</desc>
 		<icon src="https://poster.starhubgo.com/poster/chelsea_stadium.jpg?w=960" />
 	</programme>
 	<programme channel="232" start="20250426132000 +0000" stop="20250426135000 +0000">
@@ -12108,7 +12118,7 @@
 	</programme>
 	<programme channel="232" start="20250426135000 +0000" stop="20250426160000 +0000">
 		<title>Brighton and Hove Albion vs West Ham United (MW34) (Live) - EP 334</title>
-		<desc>The 33rd season of the Premier League sees Manchester City defend its title against a host of teams keen for glory themselves. 20 teams are in the mix but only 1 champion will emerge ultimately.</desc>
+		<desc>Brighton have only lost one of their 15 Premier League meetings with West Ham (W6 D8), though it was a 3-1 defeat in this exact fixture last season.</desc>
 		<icon src="https://poster.starhubgo.com/poster/brighton_stadium.jpg?w=960" />
 	</programme>
 	<programme channel="241" start="20250424160000 +0000" stop="20250424170000 +0000">
@@ -26032,39 +26042,39 @@
 		<icon src="https://poster.starhubgo.com/poster/ch711_cnn_newsroom.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="711" start="20250426060000 +0000" stop="20250426070000 +0000">
-		<title>CNN Newsroom</title>
+		<title>The Funeral of Pope Francis</title>
 		<desc>Live context and clarity to the day's top stories from around the world.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch711_cnn_newsroom.jpg?w=960&amp;h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch711_the_funeral_of_pope_francis.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="711" start="20250426070000 +0000" stop="20250426080000 +0000">
 		<title>The Funeral of Pope Francis</title>
 		<desc>The latest, up-to-date news stories from around the globe.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch711_cnn_generic.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch711_the_funeral_of_pope_francis.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="711" start="20250426080000 +0000" stop="20250426090000 +0000">
 		<title>The Funeral of Pope Francis</title>
 		<desc>The latest, up-to-date news stories from around the globe.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch711_cnn_generic.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch711_the_funeral_of_pope_francis.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="711" start="20250426090000 +0000" stop="20250426100000 +0000">
 		<title>The Funeral of Pope Francis</title>
 		<desc>The latest, up-to-date news stories from around the globe.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch711_cnn_generic.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch711_the_funeral_of_pope_francis.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="711" start="20250426100000 +0000" stop="20250426110000 +0000">
 		<title>The Funeral of Pope Francis</title>
 		<desc>The latest, up-to-date news stories from around the globe.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch711_cnn_generic.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch711_the_funeral_of_pope_francis.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="711" start="20250426110000 +0000" stop="20250426120000 +0000">
 		<title>The Funeral of Pope Francis</title>
 		<desc>The latest, up-to-date news stories from around the globe.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch711_cnn_generic.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch711_the_funeral_of_pope_francis.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="711" start="20250426120000 +0000" stop="20250426130000 +0000">
 		<title>The Funeral of Pope Francis</title>
 		<desc>The latest, up-to-date news stories from around the globe.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch711_cnn_generic.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch711_the_funeral_of_pope_francis.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="711" start="20250426130000 +0000" stop="20250426140000 +0000">
 		<title>Smerconish</title>
@@ -30318,7 +30328,7 @@
 	</programme>
 	<programme channel="812" start="20250425013000 +0000" stop="20250425020000 +0000">
 		<title>Today's Close-Up</title>
-		<desc>Dig deeper into current affairs with cutting-edge information and critical analysis on important issues confronting Japanese lives.</desc>
+		<desc>Japan's logistics industry is struggling with a new cap on truck driver working hours; the government is trying to address the issue, but some say the solution is for consumers to change their habits.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250425020000 +0000" stop="20250425023000 +0000">
@@ -30327,8 +30337,8 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250425023000 +0000" stop="20250425030000 +0000">
-		<title>Special Programme</title>
-		<desc>A wide range of topics featuring Japanese culture and society are introduced.</desc>
+		<title>Japan Delish</title>
+		<desc>Crisp, hot, and delicious Japanese gyoza also make great frozen food - find out how they make it happen!</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250425030000 +0000" stop="20250425033000 +0000">
@@ -30368,7 +30378,7 @@
 	</programme>
 	<programme channel="812" start="20250425063000 +0000" stop="20250425070000 +0000">
 		<title>Today's Close-Up</title>
-		<desc>Dig deeper into current affairs with cutting-edge information and critical analysis on important issues confronting Japanese lives.</desc>
+		<desc>Japan's logistics industry is struggling with a new cap on truck driver working hours; the government is trying to address the issue, but some say the solution is for consumers to change their habits.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250425070000 +0000" stop="20250425073000 +0000">
@@ -30377,8 +30387,8 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250425073000 +0000" stop="20250425080000 +0000">
-		<title>Special Programme</title>
-		<desc>A wide range of topics featuring Japanese culture and society are introduced.</desc>
+		<title>Japan Delish</title>
+		<desc>Crisp, hot, and delicious Japanese gyoza also make great frozen food - find out how they make it happen!</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250425080000 +0000" stop="20250425083000 +0000">
@@ -30428,7 +30438,7 @@
 	</programme>
 	<programme channel="812" start="20250425115500 +0000" stop="20250425120000 +0000">
 		<title>Chatroom Japan</title>
-		<desc>A spotlight on our diverse international community as we report on issues, speak to those involved, and get a fresh look at what it's like to live in Japan.</desc>
+		<desc>The number of traditional Japanese carpenters is dwindling, but American Jon Stollenmeyer is helping to keep their style of architecture alive.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250425120000 +0000" stop="20250425123000 +0000">
@@ -30438,7 +30448,7 @@
 	</programme>
 	<programme channel="812" start="20250425123000 +0000" stop="20250425130000 +0000">
 		<title>Today's Close-Up</title>
-		<desc>Dig deeper into current affairs with cutting-edge information and critical analysis on important issues confronting Japanese lives.</desc>
+		<desc>Japan's logistics industry is struggling with a new cap on truck driver working hours; the government is trying to address the issue, but some say the solution is for consumers to change their habits.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250425130000 +0000" stop="20250425133000 +0000">
@@ -30447,8 +30457,8 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250425133000 +0000" stop="20250425140000 +0000">
-		<title>Special Programme</title>
-		<desc>A wide range of topics featuring Japanese culture and society are introduced.</desc>
+		<title>Japan Delish</title>
+		<desc>Crisp, hot, and delicious Japanese gyoza also make great frozen food - find out how they make it happen!</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250425140000 +0000" stop="20250425143000 +0000">
@@ -30488,7 +30498,7 @@
 	</programme>
 	<programme channel="812" start="20250425173000 +0000" stop="20250425180000 +0000">
 		<title>Today's Close-Up</title>
-		<desc>Dig deeper into current affairs with cutting-edge information and critical analysis on important issues confronting Japanese lives.</desc>
+		<desc>Japan's logistics industry is struggling with a new cap on truck driver working hours; the government is trying to address the issue, but some say the solution is for consumers to change their habits.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250425180000 +0000" stop="20250425182800 +0000">
@@ -30517,8 +30527,8 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250425193000 +0000" stop="20250425200000 +0000">
-		<title>Special Programme</title>
-		<desc>A wide range of topics featuring Japanese culture and society are introduced.</desc>
+		<title>Japan Delish</title>
+		<desc>Crisp, hot, and delicious Japanese gyoza also make great frozen food - find out how they make it happen!</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250425200000 +0000" stop="20250425203000 +0000">
@@ -30548,7 +30558,7 @@
 	</programme>
 	<programme channel="812" start="20250425223000 +0000" stop="20250425230000 +0000">
 		<title>Today's Close-Up</title>
-		<desc>Dig deeper into current affairs with cutting-edge information and critical analysis on important issues confronting Japanese lives.</desc>
+		<desc>Japan's logistics industry is struggling with a new cap on truck driver working hours; the government is trying to address the issue, but some say the solution is for consumers to change their habits.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250425230000 +0000" stop="20250425231000 +0000">
@@ -30558,7 +30568,7 @@
 	</programme>
 	<programme channel="812" start="20250425231000 +0000" stop="20250425231500 +0000">
 		<title>Chatroom Japan</title>
-		<desc>A spotlight on our diverse international community as we report on issues, speak to those involved, and get a fresh look at what it's like to live in Japan.</desc>
+		<desc>The number of traditional Japanese carpenters is dwindling, but American Jon Stollenmeyer is helping to keep their style of architecture alive.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250425231500 +0000" stop="20250425233000 +0000">
