@@ -472,10 +472,6 @@
 		<display-name>TestChannel2</display-name>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/101_1920x1080_HTV.png?w=272" />
 	</channel>
-	<channel id="998">
-		<display-name>Test 998</display-name>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/101_1920x1080_HTV.png?w=272" />
-	</channel>
 	<programme channel="101" start="20250427160000 +0000" stop="20250427220000 +0000">
 		<title>Preview Channel</title>
 		<desc />
@@ -1317,7 +1313,7 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/103_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="103" start="20250429130000 +0000" stop="20250429140000 +0000">
-		<title>Singapore Votes 2025: The Political Forum</title>
+		<title>Singapore Votes 2025: The Political Debate</title>
 		<desc>(Live) Representatives from key political parties contesting in Singapore General Election 2025 share their views on geopolitics, jobs and the economy, and the cost of living, in this one-hour election special.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/103_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
@@ -10321,22 +10317,22 @@
 		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_Channels2/204_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="204" start="20250428220000 +0000" stop="20250429005000 +0000">
+	<programme channel="204" start="20250428220000 +0000" stop="20250429000500 +0000">
 		<title>End of Transmission</title>
 		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_Channels2/204_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="204" start="20250429005000 +0000" stop="20250429015000 +0000">
+	<programme channel="204" start="20250429000500 +0000" stop="20250429010500 +0000">
 		<title>ICC Champions Trophy 2025: M06 - Bangladesh vs New Zealand HLs</title>
 		<desc>The 9th edition of the ICC Champions Trophy will be hosted by Pakistan and United Arab Emirates from 19 February to 9 March 2025 and will be contested by the top eight ranked men's national teams qualified from the Cricket World Cup 2023.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ICCCT2025_GENERIC.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="204" start="20250429015000 +0000" stop="20250429055000 +0000">
+	<programme channel="204" start="20250429010500 +0000" stop="20250429050500 +0000">
 		<title>TATA Indian Premier League 2025: M06 - Rajasthan Royals vs Kolkata Knight Riders</title>
 		<desc>The 2025 Indian Premier League, a franchise Twenty20 cricket league held in India, returns for the 18th year, and will feature ten teams competing in 74 matches from 14 March to 25 May 2025.</desc>
 		<icon src="https://poster.starhubgo.com/poster/IPL2025_M06.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="204" start="20250429055000 +0000" stop="20250429095000 +0000">
+	<programme channel="204" start="20250429050500 +0000" stop="20250429095000 +0000">
 		<title>TATA Indian Premier League 2025: M30 - Lucknow Super Giants vs Chennai Super Kin</title>
 		<desc>The 2025 Indian Premier League, a franchise Twenty20 cricket league held in India, returns for the 18th year, and will feature ten teams competing in 74 matches from 14 March to 25 May 2025.</desc>
 		<icon src="https://poster.starhubgo.com/poster/IPL2025_M30.jpg?w=960&amp;h=540" />
@@ -10631,37 +10627,37 @@
 		<desc>Supercars delivers exhilarating and accessible motorsports-led entertainment to engaged and passionate fans.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch209_motorsports.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="209" start="20250429013000 +0000" stop="20250429033000 +0000">
+	<programme channel="209" start="20250429013000 +0000" stop="20250429033500 +0000">
 		<title>Supercars 2025 - ITM Taupo Super 440</title>
 		<desc>Supercars delivers exhilarating and accessible motorsports-led entertainment to engaged and passionate fans.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch209_motorsports.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="209" start="20250429033000 +0000" stop="20250429053000 +0000">
+	<programme channel="209" start="20250429033500 +0000" stop="20250429053000 +0000">
 		<title>ISUZU UTE A-League Men 24/25 Rd28 - Macarthur FC vs Melbourne Victory</title>
 		<desc>The ISUZU UTE A-League Men's is the top-division Men's soccer league in Australia. It consists of 13 teams, with the top four teams in the regular season then advance to the single-game knockout stage.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/209_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="209" start="20250429053000 +0000" stop="20250429063000 +0000">
+	<programme channel="209" start="20250429053000 +0000" stop="20250429062000 +0000">
 		<title>Formula E S11: Rd 6&amp;7 Monaco E-Prix</title>
 		<desc>Join us to witness the next generation of the ABB FIA Formula E World Championship as our drivers unleash their Gen3 challengers for the very first time.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch209_formula_e.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="209" start="20250429063000 +0000" stop="20250429090000 +0000">
+	<programme channel="209" start="20250429062000 +0000" stop="20250429085000 +0000">
 		<title>Major League Soccer 2025 Week 9 - Los Angeles FC vs St. Louis</title>
 		<desc>Back for its 30th season, the MLS features some of football’s top talent from around the globe. The league boasts 27 teams in the US and 3 teams in Canada.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/209_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="209" start="20250429090000 +0000" stop="20250429130000 +0000">
+	<programme channel="209" start="20250429085000 +0000" stop="20250429130000 +0000">
 		<title>2025 Asia Road Racing Championship Round 1 Thailand</title>
 		<desc>he FIM Asia Road Racing Championship is the regional motorcycle road racing championship for Asia, held since 1996.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch209_motorsports.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="209" start="20250429130000 +0000" stop="20250429140000 +0000">
+	<programme channel="209" start="20250429130000 +0000" stop="20250429135000 +0000">
 		<title>RSL Recap MW29</title>
 		<desc>Catch the ROSHN Saudi League weekly magazine show, bringing together prominent professional players from the Kingdom and all around the world.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/209_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="209" start="20250429140000 +0000" stop="20250429160000 +0000">
+	<programme channel="209" start="20250429135000 +0000" stop="20250429160000 +0000">
 		<title>2025 LOVB Inaugural Season: Finals Week 14 Quarter Final 1: Salt Lake vs Austin</title>
 		<desc>The inaugural season of the League One Volleyball (LOVB) featuring top talent from around the globe, this ground-breaking league that showcases the best of professional volleyball.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/209_1920x1080_HTV.png?w=341&amp;h=192" />
@@ -10726,12 +10722,7 @@
 		<desc>Established in 2009, the Asia-Pacific Amateur Championship (AAC) grants the champion emerging from an elite 120-player field an invitation to compete in The Open and Masters Tournament.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_spotv2_logo.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="210" start="20250428090000 +0000" stop="20250428093000 +0000">
-		<title>SailGP: Racing on the Edge</title>
-		<desc>Expect sheer emotion, state-of-the-art technology and incredible drama as elite athletes fly cutting-edge wingsailed catamarans in thrilling close-to-shore races in iconic venues across the globe.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch210_spotv2_logo.jpg?w=341&amp;h=192" />
-	</programme>
-	<programme channel="210" start="20250428093000 +0000" stop="20250428105500 +0000">
+	<programme channel="210" start="20250428090000 +0000" stop="20250428105500 +0000">
 		<title>MotoGP 2025 Round 5-Gran Premio Estrella Galicia 0,0 de Espana</title>
 		<desc>The 2025 MotoGP World Championship sees 22 of the world's best riders battle on 1000cc prototype machines, delivering over 250 horsepower and reaching speeds of 360kph across 22 thrilling Grands Prix in 18 countries.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_motogp.jpg?w=341&amp;h=192" />
@@ -10766,17 +10757,12 @@
 		<desc>The World Sailing Show feature news, profiles, and racing highlights from across the world of sailing.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_spotv2_logo.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="210" start="20250428180000 +0000" stop="20250428200000 +0000">
+	<programme channel="210" start="20250428180000 +0000" stop="20250428195000 +0000">
 		<title>2025 GTOUR Mixed 1st Tournament</title>
 		<desc>Launched in 2012, the Golfzon GTOUR is a series of professional men's and women's screen golf tournaments in South Korea.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_golf.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="210" start="20250428200000 +0000" stop="20250428203000 +0000">
-		<title>A-League Men 2024/25 Mini Match Rd27 Brisbane Roar FC vs Western United FC</title>
-		<desc>The ISUZU UTE A-League Men's is the top-division Men's soccer league in Australia. The top four teams in the regular season then advance to the single-game knockout stage.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch210_spotv2_logo.jpg?w=341&amp;h=192" />
-	</programme>
-	<programme channel="210" start="20250428203000 +0000" stop="20250428211500 +0000">
+	<programme channel="210" start="20250428195000 +0000" stop="20250428211500 +0000">
 		<title>MotoGP 2025 Round 5-Gran Premio Estrella Galicia 0,0 de Espana</title>
 		<desc>The 2025 MotoGP World Championship sees 22 of the world's best riders battle on 1000cc prototype machines, delivering over 250 horsepower and reaching speeds of 360kph across 22 thrilling Grands Prix in 18 countries.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_motogp.jpg?w=341&amp;h=192" />
@@ -10786,12 +10772,12 @@
 		<desc>The 2025 MotoGP World Championship sees 22 of the world's best riders battle on 1000cc prototype machines, delivering over 250 horsepower and reaching speeds of 360kph across 22 thrilling Grands Prix in 18 countries.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_motogp.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="210" start="20250428221000 +0000" stop="20250428231500 +0000">
+	<programme channel="210" start="20250428221000 +0000" stop="20250428225500 +0000">
 		<title>MotoGP 2025 Round 5-Gran Premio Estrella Galicia 0,0 de Espana</title>
 		<desc>The 2025 MotoGP World Championship sees 22 of the world's best riders battle on 1000cc prototype machines, delivering over 250 horsepower and reaching speeds of 360kph across 22 thrilling Grands Prix in 18 countries.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_motogp.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="210" start="20250428231500 +0000" stop="20250429000000 +0000">
+	<programme channel="210" start="20250428225500 +0000" stop="20250429000000 +0000">
 		<title>MotoGP 2025 Round 5-Gran Premio Estrella Galicia 0,0 de Espana</title>
 		<desc>The 2025 MotoGP World Championship sees 22 of the world's best riders battle on 1000cc prototype machines, delivering over 250 horsepower and reaching speeds of 360kph across 22 thrilling Grands Prix in 18 countries.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_motogp.jpg?w=341&amp;h=192" />
@@ -10801,12 +10787,12 @@
 		<desc>The 2025 MotoGP World Championship sees 22 of the world's best riders battle on 1000cc prototype machines, delivering over 250 horsepower and reaching speeds of 360kph across 22 thrilling Grands Prix in 18 countries.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_motogp.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="210" start="20250429005500 +0000" stop="20250429020000 +0000">
+	<programme channel="210" start="20250429005500 +0000" stop="20250429021500 +0000">
 		<title>MotoGP 2025 Round 5-Gran Premio Estrella Galicia 0,0 de Espana</title>
 		<desc>The 2025 MotoGP World Championship sees 22 of the world's best riders battle on 1000cc prototype machines, delivering over 250 horsepower and reaching speeds of 360kph across 22 thrilling Grands Prix in 18 countries.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_motogp.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="210" start="20250429020000 +0000" stop="20250429040000 +0000">
+	<programme channel="210" start="20250429021500 +0000" stop="20250429040000 +0000">
 		<title>ISUZU UTE A-League Men 2024/25 Rd 28 Auckland FC vs Perth Glory</title>
 		<desc>The ISUZU UTE A-League Men's is the top-division Men's soccer league in Australia. The top four teams in the regular season then advance to the single-game knockout stage.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_spotv2_logo.jpg?w=341&amp;h=192" />
@@ -10816,17 +10802,17 @@
 		<desc>Launched in 2012, the Golfzon GTOUR is a series of professional men's and women's screen golf tournaments in South Korea.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_golf.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="210" start="20250429060000 +0000" stop="20250429083000 +0000">
+	<programme channel="210" start="20250429060000 +0000" stop="20250429082000 +0000">
 		<title>MLB 2025: Regular season San Francisco Giants vs Milwaukee Brewers</title>
 		<desc>Major League Baseball is the most historic professional sports league consists of 30 member clubs in the U.S. and Canada, representing the highest level of professional baseball.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_baseball.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="210" start="20250429083000 +0000" stop="20250429090000 +0000">
+	<programme channel="210" start="20250429082000 +0000" stop="20250429085000 +0000">
 		<title>SailGP: Racing on the Edge</title>
 		<desc>Expect sheer emotion, state-of-the-art technology and incredible drama as elite athletes fly cutting-edge wingsailed catamarans in thrilling close-to-shore races in iconic venues across the globe.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_spotv2_logo.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="210" start="20250429090000 +0000" stop="20250429094500 +0000">
+	<programme channel="210" start="20250429085000 +0000" stop="20250429094500 +0000">
 		<title>MotoGP 2025 Round 5-Gran Premio Estrella Galicia 0,0 de Espana</title>
 		<desc>The 2025 MotoGP World Championship sees 22 of the world's best riders battle on 1000cc prototype machines, delivering over 250 horsepower and reaching speeds of 360kph across 22 thrilling Grands Prix in 18 countries.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_motogp.jpg?w=341&amp;h=192" />
@@ -10836,12 +10822,12 @@
 		<desc>The 2025 MotoGP World Championship sees 22 of the world's best riders battle on 1000cc prototype machines, delivering over 250 horsepower and reaching speeds of 360kph across 22 thrilling Grands Prix in 18 countries.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_motogp.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="210" start="20250429104000 +0000" stop="20250429114500 +0000">
+	<programme channel="210" start="20250429104000 +0000" stop="20250429115500 +0000">
 		<title>MotoGP 2025 Round 5-Gran Premio Estrella Galicia 0,0 de Espana</title>
 		<desc>The 2025 MotoGP World Championship sees 22 of the world's best riders battle on 1000cc prototype machines, delivering over 250 horsepower and reaching speeds of 360kph across 22 thrilling Grands Prix in 18 countries.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_motogp.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="210" start="20250429114500 +0000" stop="20250429123000 +0000">
+	<programme channel="210" start="20250429115500 +0000" stop="20250429123000 +0000">
 		<title>MotoGP 2025 Round 5-Gran Premio Estrella Galicia 0,0 de Espana</title>
 		<desc>The 2025 MotoGP World Championship sees 22 of the world's best riders battle on 1000cc prototype machines, delivering over 250 horsepower and reaching speeds of 360kph across 22 thrilling Grands Prix in 18 countries.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_motogp.jpg?w=341&amp;h=192" />
@@ -10851,12 +10837,12 @@
 		<desc>The 2025 MotoGP World Championship sees 22 of the world's best riders battle on 1000cc prototype machines, delivering over 250 horsepower and reaching speeds of 360kph across 22 thrilling Grands Prix in 18 countries.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_motogp.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="210" start="20250429132500 +0000" stop="20250429143000 +0000">
+	<programme channel="210" start="20250429132500 +0000" stop="20250429151500 +0000">
 		<title>MotoGP 2025 Round 5-Gran Premio Estrella Galicia 0,0 de Espana</title>
 		<desc>The 2025 MotoGP World Championship sees 22 of the world's best riders battle on 1000cc prototype machines, delivering over 250 horsepower and reaching speeds of 360kph across 22 thrilling Grands Prix in 18 countries.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_motogp.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="210" start="20250429143000 +0000" stop="20250429163000 +0000">
+	<programme channel="210" start="20250429151500 +0000" stop="20250429170000 +0000">
 		<title>ISUZU UTE A-League Men 2024/25 Rd 28 Auckland FC vs Perth Glory</title>
 		<desc>The ISUZU UTE A-League Men's is the top-division Men's soccer league in Australia. The top four teams in the regular season then advance to the single-game knockout stage.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_spotv2_logo.jpg?w=341&amp;h=192" />
@@ -26144,17 +26130,17 @@
 	<programme channel="711" start="20250427180000 +0000" stop="20250427190000 +0000">
 		<title>CNN Newsroom (CNN/US)</title>
 		<desc>Updates of the latest news from around the world.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch711_cnn_newsroom.jpg?w=960&amp;h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch711_cnn_news_central.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="711" start="20250427190000 +0000" stop="20250427200000 +0000">
 		<title>CNN Newsroom (CNN/US)</title>
 		<desc>Updates of the latest news from around the world.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch711_cnn_newsroom.jpg?w=960&amp;h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch711_cnn_news_central.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="711" start="20250427200000 +0000" stop="20250427210000 +0000">
 		<title>CNN Newsroom (CNN/US)</title>
 		<desc>Updates of the latest news from around the world.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch711_cnn_newsroom.jpg?w=960&amp;h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch711_cnn_news_central.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="711" start="20250427210000 +0000" stop="20250427213000 +0000">
 		<title>World Sport</title>
@@ -26169,7 +26155,7 @@
 	<programme channel="711" start="20250427220000 +0000" stop="20250427230000 +0000">
 		<title>CNN Newsroom (CNN/US)</title>
 		<desc>Updates of the latest news from around the world.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch711_cnn_newsroom.jpg?w=960&amp;h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch711_cnn_news_central.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="711" start="20250427230000 +0000" stop="20250428000000 +0000">
 		<title>CNN Newsroom (CNN/US)</title>
@@ -26349,7 +26335,7 @@
 	<programme channel="711" start="20250429020000 +0000" stop="20250429030000 +0000">
 		<title>CNN NewsNight</title>
 		<desc>Abby Phillip leads a roundtable discussion on the day's biggest stories and issues shaping our world.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch711_cnn_newsnight_with_abby_phillip.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch711_cnn_news_central.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="711" start="20250429030000 +0000" stop="20250429040000 +0000">
 		<title>Laura Coates Live</title>
@@ -26359,7 +26345,7 @@
 	<programme channel="711" start="20250429040000 +0000" stop="20250429044500 +0000">
 		<title>CNN Newsroom</title>
 		<desc>Live context and clarity to the day's top stories from around the world.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch711_cnn_newsroom.jpg?w=960&amp;h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch711_cnn_news_central.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="711" start="20250429044500 +0000" stop="20250429050000 +0000">
 		<title>World Sport</title>
@@ -26369,12 +26355,12 @@
 	<programme channel="711" start="20250429050000 +0000" stop="20250429060000 +0000">
 		<title>CNN Newsroom</title>
 		<desc>Live context and clarity to the day's top stories from around the world.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch711_cnn_newsroom.jpg?w=960&amp;h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch711_cnn_news_central.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="711" start="20250429060000 +0000" stop="20250429064500 +0000">
 		<title>CNN Newsroom</title>
 		<desc>Live context and clarity to the day's top stories from around the world.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch711_cnn_newsroom.jpg?w=960&amp;h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch711_cnn_news_central.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="711" start="20250429064500 +0000" stop="20250429070000 +0000">
 		<title>World Sport</title>
@@ -26384,7 +26370,7 @@
 	<programme channel="711" start="20250429070000 +0000" stop="20250429080000 +0000">
 		<title>CNN Newsroom</title>
 		<desc>Live context and clarity to the day's top stories from around the world.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch711_cnn_newsroom.jpg?w=960&amp;h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch711_cnn_news_central.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="711" start="20250429080000 +0000" stop="20250429090000 +0000">
 		<title>Amanpour</title>
@@ -33596,17 +33582,17 @@
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20250428170000 +0000" stop="20250428220000 +0000">
+	<programme channel="832" start="20250428170000 +0000" stop="20250428220400 +0000">
 		<title>Dragon TV Primetime News</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20250428220000 +0000" stop="20250428223000 +0000">
+	<programme channel="832" start="20250428220400 +0000" stop="20250428223500 +0000">
 		<title>New Entertainment</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20250428223000 +0000" stop="20250428230000 +0000">
+	<programme channel="832" start="20250428223500 +0000" stop="20250428230000 +0000">
 		<title>CARE ON THE WAY</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
