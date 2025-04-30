@@ -10778,37 +10778,32 @@
 		<icon src="https://poster.starhubgo.com/poster/ch211_ATPMASTERS1000.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="211" start="20250430160000 +0000" stop="20250430173000 +0000">
-		<title>ATP Tour 250 2025: Marseille Day 4 Borges v Bergs</title>
+		<title>ATP Tour 250 2025 Marseille Day 4 Borges v Bergs</title>
 		<desc>Exclusive coverage of the 2025 ATP Tour on beIN SPORTS as the world's best male players battle it out across the globe to be #1.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_ATPMASTERS250.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="211" start="20250430173000 +0000" stop="20250430190000 +0000">
-		<title>ATP Tour 250 2025: Marseille Day 4 Zhang v Hurkacz</title>
+	<programme channel="211" start="20250430173000 +0000" stop="20250430193000 +0000">
+		<title>ATP Tour 1000 2025 Madrid Day 8 Dimitrov v Diallo</title>
 		<desc>Exclusive coverage of the 2025 ATP Tour on beIN SPORTS as the world's best male players battle it out across the globe to be #1.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch211_ATPMASTERS250.jpg?w=341&amp;h=192" />
-	</programme>
-	<programme channel="211" start="20250430190000 +0000" stop="20250430193000 +0000">
-		<title>ATP Tour: This Week 2025</title>
-		<desc>Catch behind the scenes, interviews, tournament recaps, highlights of the ATP Tour on this weekly show.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch211_ATPTourGeneric.jpg?w=960&amp;h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch211_ATPMASTERS1000.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="211" start="20250430193000 +0000" stop="20250430213000 +0000">
-		<title>ATP Tour 1000 2025: Madrid QF 2</title>
+		<title>ATP Tour 1000 2025 Madrid Day 8 De Minaur v Musetti</title>
 		<desc>Exclusive coverage of the 2025 ATP Tour on beIN SPORTS as the world's best male players battle it out across the globe to be #1.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_ATPMASTERS1000.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="211" start="20250430213000 +0000" stop="20250430214000 +0000">
-		<title>ATP Doco Shorts (CC): Expert Analysis Chris Eubanks</title>
+		<title>ATP Doco Shorts (CC)</title>
 		<desc>In this series of features, we look back at some of the most memorable moments, rivalries, achievements and special features at ATP Masters events.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_atp_doco_shorts.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="211" start="20250430214000 +0000" stop="20250430230000 +0000">
-		<title>ATP Tour 250 2025: Marseille Day 4 Medvedev v Herbert</title>
+		<title>ATP Tour 250 2025 Marseille Day 4 Medvedev v Herbert</title>
 		<desc>Exclusive coverage of the 2025 ATP Tour on beIN SPORTS as the world's best male players battle it out across the globe to be #1.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_ATPMASTERS250.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="211" start="20250430230000 +0000" stop="20250501003000 +0000">
-		<title>ATP Tour 250 2025: Marseille Day 4 Struff v Grenier</title>
+		<title>ATP Tour 250 2025 Marseille Day 4 Struff v Grenier</title>
 		<desc>Exclusive coverage of the 2025 ATP Tour on beIN SPORTS as the world's best male players battle it out across the globe to be #1.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_ATPMASTERS250.jpg?w=341&amp;h=192" />
 	</programme>
@@ -11030,12 +11025,12 @@
 	<programme channel="213" start="20250430210000 +0000" stop="20250430220000 +0000">
 		<title>FIA World Rally Championship 2025: Rally Islas Canarias - SS15 Maspalosmas 1</title>
 		<desc>Join us for an epic motorsport adventure that takes drivers and their production-based cars through challenging terrain in the 53rd season of the World Rally Championship.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch213_fia_european_rally_championship.jpg?w=960&amp;h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch213_fia_wrc.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="213" start="20250430220000 +0000" stop="20250430233000 +0000">
 		<title>FIA World Rally Championship 2025: Rally Islas Canarias - SS18 Maspalosmas 2Wolf</title>
 		<desc>Join us for an epic motorsport adventure that takes drivers and their production-based cars through challenging terrain in the 53rd season of the World Rally Championship.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch213_fia_european_rally_championship.jpg?w=960&amp;h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch213_fia_wrc.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="213" start="20250430233000 +0000" stop="20250501000000 +0000">
 		<title>Fastzone 2025</title>
@@ -11247,10 +11242,15 @@
 		<desc>The most prestigious tournament in the world contested by top-division elite European clubs</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch214_UCL_live_match.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="214" start="20250430210000 +0000" stop="20250430214500 +0000">
+	<programme channel="214" start="20250430210000 +0000" stop="20250430213000 +0000">
 		<title>The UCL Review Show 2024/25 Barcelona vs Inter - SF, 1st Leg (Live)</title>
 		<desc>beIN's panel of football legends deliver their opinion on every game from this morning's UCL action</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch214_UEFA_champions_league_review_show.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="214" start="20250430213000 +0000" stop="20250430214500 +0000">
+		<title>UCL Classic Matches Barcelona vs Lyon (2001/12)</title>
+		<desc>Take a walk back in time and relive some of the most dramatic and remarkable moments in the UEFA Champions League</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch214_UCL_classic_matches.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="214" start="20250430214500 +0000" stop="20250430221500 +0000">
 		<title>Mini Match - UEFA Champions League 2024/25 Arsenal vs PSG - SF, 1st Leg</title>
@@ -32902,52 +32902,52 @@
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20250430151000 +0000" stop="20250430170000 +0000">
+	<programme channel="832" start="20250430151000 +0000" stop="20250430170200 +0000">
 		<title>Ai Romance</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20250430170000 +0000" stop="20250430180000 +0000">
+	<programme channel="832" start="20250430170200 +0000" stop="20250430180700 +0000">
 		<title>Dragon TV Primetime News</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20250430180000 +0000" stop="20250430190000 +0000">
+	<programme channel="832" start="20250430180700 +0000" stop="20250430184900 +0000">
 		<title>CHINA Now</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20250430190000 +0000" stop="20250430193000 +0000">
+	<programme channel="832" start="20250430184900 +0000" stop="20250430191400 +0000">
 		<title>Next Station</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20250430193000 +0000" stop="20250430210000 +0000">
+	<programme channel="832" start="20250430191400 +0000" stop="20250430210300 +0000">
 		<title>the city of musicals</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20250430210000 +0000" stop="20250430220000 +0000">
+	<programme channel="832" start="20250430210300 +0000" stop="20250430221000 +0000">
 		<title>A Green Trip</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20250430220000 +0000" stop="20250430223000 +0000">
+	<programme channel="832" start="20250430221000 +0000" stop="20250430223500 +0000">
 		<title>New Entertainment</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20250430223000 +0000" stop="20250430230000 +0000">
+	<programme channel="832" start="20250430223500 +0000" stop="20250430230000 +0000">
 		<title>CARE ON THE WAY</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20250430230000 +0000" stop="20250501010000 +0000">
+	<programme channel="832" start="20250430230000 +0000" stop="20250501000000 +0000">
 		<title>Dragon TV Morning News</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20250501010000 +0000" stop="20250501020000 +0000">
+	<programme channel="832" start="20250501000000 +0000" stop="20250501020400 +0000">
 		<title>A Green Trip</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
