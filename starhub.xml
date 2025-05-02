@@ -1234,7 +1234,7 @@
 	</programme>
 	<programme channel="103" start="20250503120000 +0000" stop="20250503200000 +0000">
 		<title>Singapore Votes 2025: The Results</title>
-		<desc>(Live) With the votes cast and ballots counted, don't miss the 'live' results of Singapore General Election 2025.</desc>
+		<desc>(Live) Singapore general election is being held amid a turbulent international situation and the issue of rising living costs has also attracted much attention from Singaporeans. Voters will cast their votes on May 3rd, who will win the 92 seats in parliament? We will track all the results with you.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/103_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="104" start="20250501160000 +0000" stop="20250501180000 +0000">
@@ -1693,8 +1693,8 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="106" start="20250502020000 +0000" stop="20250502030000 +0000">
-		<title>Insight - EP 16</title>
-		<desc>South Korea's has a population crisis, with Seoul at the centre. As opportunities and people get concentrated in Seoul, low birth rates and an aging population mean the countryside's becoming extinct.</desc>
+		<title>Heavyweight: Japan's Female Sumo Wrestlers</title>
+		<desc>At 18, Sakura is amongst the Japanese top female Sumo practitioners. As she angles for global domination, she wonders if it's time to shed the patriarchal norms that limit female participation.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="106" start="20250502030000 +0000" stop="20250502050000 +0000">
@@ -1717,12 +1717,12 @@
 		<desc>(Live) Non-stop breaking stories, expert analysis and extensive news coverage every hour.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="106" start="20250502080000 +0000" stop="20250502090000 +0000">
+	<programme channel="106" start="20250502080000 +0000" stop="20250502085900 +0000">
 		<title>No Ordinary Rescue S2 - EP 4</title>
 		<desc>More than 10 million people in China suffer from Alzheimer's, 500,000 are missing elderly. In a race against time, a group of volunteers in Beijing have come together to find the missing elderly.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="106" start="20250502090000 +0000" stop="20250502090200 +0000">
+	<programme channel="106" start="20250502085900 +0000" stop="20250502090200 +0000">
 		<title>Headline News - EP 103</title>
 		<desc>(Live) The latest top stories of the hour.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png?w=341&amp;h=192" />
@@ -6797,44 +6797,304 @@
 		<desc>Two high-school sweethearts navigate the ups and downs of their relationship as they pursue different paths in life, testing their love and commitment along the way. Will they make it?</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch656_zee_tamil_exclusive.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="139" start="20250501160000 +0000" stop="20250501220000 +0000">
-		<title>Information Not Available</title>
-		<desc />
+	<programme channel="139" start="20250501160000 +0000" stop="20250501163000 +0000">
+		<title>Teacher Amma</title>
+		<desc>Daily Soap</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/139_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="139" start="20250501220000 +0000" stop="20250502040000 +0000">
-		<title>Information Not Available</title>
-		<desc />
+	<programme channel="139" start="20250501163000 +0000" stop="20250501170000 +0000">
+		<title>Patharamattu</title>
+		<desc>Daily Soap</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/139_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="139" start="20250502040000 +0000" stop="20250502100000 +0000">
-		<title>Information Not Available</title>
-		<desc />
+	<programme channel="139" start="20250501170000 +0000" stop="20250501173000 +0000">
+		<title>Pavithram</title>
+		<desc>Daily Soap</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/139_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="139" start="20250502100000 +0000" stop="20250502160000 +0000">
-		<title>Information Not Available</title>
-		<desc />
+	<programme channel="139" start="20250501173000 +0000" stop="20250501180000 +0000">
+		<title>Mounaragam</title>
+		<desc>Daily Soap</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/139_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="139" start="20250502160000 +0000" stop="20250502220000 +0000">
-		<title>Information Not Available</title>
-		<desc />
+	<programme channel="139" start="20250501180000 +0000" stop="20250501183000 +0000">
+		<title>Ishttam Mathram</title>
+		<desc>Daily Soap</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/139_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="139" start="20250502220000 +0000" stop="20250503040000 +0000">
-		<title>Information Not Available</title>
-		<desc />
+	<programme channel="139" start="20250501183000 +0000" stop="20250501190000 +0000">
+		<title>Jaanakiyudeyum Abhiyudeyum Veedu</title>
+		<desc>Daily Soap</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/139_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="139" start="20250503040000 +0000" stop="20250503100000 +0000">
-		<title>Information Not Available</title>
-		<desc />
+	<programme channel="139" start="20250501190000 +0000" stop="20250501220000 +0000">
+		<title>Udayananu tharam</title>
+		<desc>Malayalam Feature Film</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/139_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="139" start="20250503100000 +0000" stop="20250503160000 +0000">
-		<title>Information Not Available</title>
-		<desc />
+	<programme channel="139" start="20250501220000 +0000" stop="20250501223000 +0000">
+		<title>Chandrikayil Aliyunnu Chandrakantham</title>
+		<desc>Daily Soap</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/139_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="139" start="20250501223000 +0000" stop="20250501230000 +0000">
+		<title>Patharamattu</title>
+		<desc>Daily Soap</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/139_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="139" start="20250501230000 +0000" stop="20250501233000 +0000">
+		<title>Ishttam Mathram</title>
+		<desc>Daily Soap</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/139_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="139" start="20250501233000 +0000" stop="20250502020000 +0000">
+		<title>Sherlock Toms</title>
+		<desc>Malayalam Feature Film</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/139_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="139" start="20250502020000 +0000" stop="20250502023000 +0000">
+		<title>Mounaragam</title>
+		<desc>Daily Soap</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/139_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="139" start="20250502023000 +0000" stop="20250502030000 +0000">
+		<title>Pavithram</title>
+		<desc>Daily Soap</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/139_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="139" start="20250502030000 +0000" stop="20250502033000 +0000">
+		<title>Snehakkoottu</title>
+		<desc>Daily Soap</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/139_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="139" start="20250502033000 +0000" stop="20250502040000 +0000">
+		<title>Patharamattu</title>
+		<desc>Daily Soap</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/139_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="139" start="20250502040000 +0000" stop="20250502043000 +0000">
+		<title>Ishttam Mathram</title>
+		<desc>Daily Soap</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/139_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="139" start="20250502043000 +0000" stop="20250502050000 +0000">
+		<title>Chempaneerpovu</title>
+		<desc>Daily Soap</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/139_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="139" start="20250502050000 +0000" stop="20250502073000 +0000">
+		<title>Sulaikha Manzil</title>
+		<desc>Malayalam Feature Film</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/139_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="139" start="20250502073000 +0000" stop="20250502080000 +0000">
+		<title>Teacher Amma</title>
+		<desc>Daily Soap</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/139_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="139" start="20250502080000 +0000" stop="20250502083000 +0000">
+		<title>Santhwanam-2</title>
+		<desc>Daily Soap</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/139_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="139" start="20250502083000 +0000" stop="20250502090000 +0000">
+		<title>Jaanakiyudeyum Abhiyudeyum Veedu</title>
+		<desc>Daily Soap</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/139_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="139" start="20250502090000 +0000" stop="20250502093000 +0000">
+		<title>Etho Janma Kalpanayil</title>
+		<desc>Daily Soap</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/139_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="139" start="20250502093000 +0000" stop="20250502100000 +0000">
+		<title>Amma Manassu(Dub . Fiction)</title>
+		<desc>Daily Soap</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/139_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="139" start="20250502100000 +0000" stop="20250502130000 +0000">
+		<title>Rorschach</title>
+		<desc>Malayalam Feature Film</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/139_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="139" start="20250502130000 +0000" stop="20250502133000 +0000">
+		<title>Chandrikayil Aliyunnu Chandrakantham</title>
+		<desc>Daily Soap</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/139_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="139" start="20250502133000 +0000" stop="20250502140000 +0000">
+		<title>Umamaheswaram (Dub)</title>
+		<desc>Daily Soap</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/139_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="139" start="20250502140000 +0000" stop="20250502143000 +0000">
+		<title>Geetha Govindam</title>
+		<desc>Daily Soap</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/139_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="139" start="20250502143000 +0000" stop="20250502150000 +0000">
+		<title>Snehakkoottu</title>
+		<desc>Daily Soap</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/139_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="139" start="20250502150000 +0000" stop="20250502153000 +0000">
+		<title>Santhwanam-2</title>
+		<desc>Daily Soap</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/139_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="139" start="20250502153000 +0000" stop="20250502160000 +0000">
+		<title>Chempaneerpovu</title>
+		<desc>Daily Soap</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/139_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="139" start="20250502160000 +0000" stop="20250502163000 +0000">
+		<title>Teacher Amma</title>
+		<desc>Daily Soap</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/139_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="139" start="20250502163000 +0000" stop="20250502170000 +0000">
+		<title>Patharamattu</title>
+		<desc>Daily Soap</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/139_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="139" start="20250502170000 +0000" stop="20250502173000 +0000">
+		<title>Pavithram</title>
+		<desc>Daily Soap</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/139_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="139" start="20250502173000 +0000" stop="20250502180000 +0000">
+		<title>Mounaragam</title>
+		<desc>Daily Soap</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/139_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="139" start="20250502180000 +0000" stop="20250502183000 +0000">
+		<title>Ishttam Mathram</title>
+		<desc>Daily Soap</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/139_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="139" start="20250502183000 +0000" stop="20250502190000 +0000">
+		<title>Jaanakiyudeyum Abhiyudeyum Veedu</title>
+		<desc>Daily Soap</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/139_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="139" start="20250502190000 +0000" stop="20250502220000 +0000">
+		<title>Varshangalkku shesham</title>
+		<desc>Malayalam Feature Film</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/139_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="139" start="20250502220000 +0000" stop="20250502223000 +0000">
+		<title>Chandrikayil Aliyunnu Chandrakantham</title>
+		<desc>Daily Soap</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/139_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="139" start="20250502223000 +0000" stop="20250502230000 +0000">
+		<title>Patharamattu</title>
+		<desc>Daily Soap</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/139_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="139" start="20250502230000 +0000" stop="20250502233000 +0000">
+		<title>Ishttam Mathram</title>
+		<desc>Daily Soap</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/139_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="139" start="20250502233000 +0000" stop="20250503020000 +0000">
+		<title>Sound Thoma</title>
+		<desc>Malayalam Feature Film</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/139_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="139" start="20250503020000 +0000" stop="20250503023000 +0000">
+		<title>Mounaragam</title>
+		<desc>Daily Soap</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/139_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="139" start="20250503023000 +0000" stop="20250503030000 +0000">
+		<title>Pavithram</title>
+		<desc>Daily Soap</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/139_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="139" start="20250503030000 +0000" stop="20250503033000 +0000">
+		<title>Snehakkoottu</title>
+		<desc>Daily Soap</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/139_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="139" start="20250503033000 +0000" stop="20250503040000 +0000">
+		<title>Patharamattu</title>
+		<desc>Daily Soap</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/139_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="139" start="20250503040000 +0000" stop="20250503043000 +0000">
+		<title>Ishttam Mathram</title>
+		<desc>Daily Soap</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/139_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="139" start="20250503043000 +0000" stop="20250503050000 +0000">
+		<title>Chempaneerpovu</title>
+		<desc>Daily Soap</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/139_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="139" start="20250503050000 +0000" stop="20250503073000 +0000">
+		<title>Thundu</title>
+		<desc>Malayalam Feature Film</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/139_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="139" start="20250503073000 +0000" stop="20250503080000 +0000">
+		<title>Teacher Amma</title>
+		<desc>Daily Soap</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/139_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="139" start="20250503080000 +0000" stop="20250503083000 +0000">
+		<title>Santhwanam-2</title>
+		<desc>Daily Soap</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/139_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="139" start="20250503083000 +0000" stop="20250503090000 +0000">
+		<title>Jaanakiyudeyum Abhiyudeyum Veedu</title>
+		<desc>Daily Soap</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/139_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="139" start="20250503090000 +0000" stop="20250503093000 +0000">
+		<title>Etho Janma Kalpanayil</title>
+		<desc>Daily Soap</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/139_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="139" start="20250503093000 +0000" stop="20250503100000 +0000">
+		<title>Amma Manassu(Dub . Fiction)</title>
+		<desc>Daily Soap</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/139_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="139" start="20250503100000 +0000" stop="20250503130000 +0000">
+		<title>Vishesham</title>
+		<desc>Malayalam Feature Film</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/139_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="139" start="20250503130000 +0000" stop="20250503133000 +0000">
+		<title>Star Singer Season 10 (Short Version)</title>
+		<desc>Musical Reality show</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/139_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="139" start="20250503133000 +0000" stop="20250503140000 +0000">
+		<title>Star Singer Season 10 (Short Version)</title>
+		<desc>Musical Reality show</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/139_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="139" start="20250503140000 +0000" stop="20250503143000 +0000">
+		<title>Umamaheswaram (Dub)</title>
+		<desc>Daily Soap</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/139_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="139" start="20250503143000 +0000" stop="20250503150000 +0000">
+		<title>Snehakkoottu</title>
+		<desc>Daily Soap</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/139_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="139" start="20250503150000 +0000" stop="20250503153000 +0000">
+		<title>Santhwanam-2</title>
+		<desc>Daily Soap</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/139_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="139" start="20250503153000 +0000" stop="20250503160000 +0000">
+		<title>Chempaneerpovu</title>
+		<desc>Daily Soap</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/139_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="140" start="20250501133000 +0000" stop="20250501163000 +0000">
@@ -10202,11 +10462,6 @@
 		<desc>Be sure to catch the inspirational power of surfing through the 2025 WSL Championship Tour &amp; Challenger Series.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/209_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="209" start="20250503013000 +0000" stop="20250503032000 +0000">
-		<title>ISUZU UTE A-League Men 24/25 Rd29 - Wellington Phoenix vs Perth Glory</title>
-		<desc>The ISUZU UTE A-League Men's is the top-division Men's soccer league in Australia. It consists of 13 teams, with the top four teams in the regular season then advance to the single-game knockout stage.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/209_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
 	<programme channel="209" start="20250503032000 +0000" stop="20250503052500 +0000">
 		<title>ROSHN Saudi League 2024/25 MD30 - Al Qadsiah vs Al Kholood</title>
 		<desc>Bringing together prominent professional players from the Kingdom and all around the world, the ROSHN Saudi League delivers weekly thrilling matches to spectators nationally and internationally.</desc>
@@ -10948,7 +11203,7 @@
 		<icon src="https://poster.starhubgo.com/poster/ch214_UECL_logo.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="214" start="20250502001000 +0000" stop="20250502020000 +0000">
-		<title>UEFA Conference League 2024/25 Djurgarden vs Chelsea - SF, 1st Leg</title>
+		<title>Djurgarden vs Chelsea - SF, 1st Leg</title>
 		<desc>The 2024-25 UEFA Conference League will be the fourth season of the UEFA Conference League, Europe's tertiary club football tournament. The final will be played at Stadion Wroclaw, Poland.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch214_UECL_logo.jpg?w=341&amp;h=192" />
 	</programme>
@@ -11459,7 +11714,7 @@
 	</programme>
 	<programme channel="222" start="20250503050000 +0000" stop="20250503070000 +0000">
 		<title>Manchester City vs Wolverhampton Wanderers (MW35) - EP 341</title>
-		<desc>The 33rd season of the Premier League sees Manchester City defend its title against a host of teams keen for glory themselves. 20 teams are in the mix but only 1 champion will emerge ultimately.</desc>
+		<desc>Wolves have won each of their last six Premier League games, the joint-longest winning run of any side this term. Only once have they ever won seven in a row in the top-flight, doing so in September/October 1946.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch221_MW35_MCIvWOL_25.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="222" start="20250503070000 +0000" stop="20250503080000 +0000">
@@ -11469,7 +11724,7 @@
 	</programme>
 	<programme channel="222" start="20250503080000 +0000" stop="20250503083000 +0000">
 		<title>PL Rewind 2024/25 - EP 19</title>
-		<desc>An evergreen strand that relives classic matches, seasons and moments in the company of those who starred in them. PL Rewind delves back into the Premier League arvchive in 'watch along' style.</desc>
+		<desc>Still the only team in Premier League history to throw away a 12-point lead, Les Ferdinand tells the story of Newcastle’s agonising  Run-In, where Kevin Keegan’s side were pipped to the title by Manchester United.</desc>
 		<icon src="https://poster.starhubgo.com/poster/pl_rewind_V2.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="222" start="20250503083000 +0000" stop="20250503090000 +0000">
@@ -11479,7 +11734,7 @@
 	</programme>
 	<programme channel="222" start="20250503090000 +0000" stop="20250503105500 +0000">
 		<title>Nottingham Forest vs Brentford (MW34) - EP 340</title>
-		<desc>The 33rd season of the Premier League sees Manchester City defend its title against a host of teams keen for glory themselves. 20 teams are in the mix but only 1 champion will emerge ultimately.</desc>
+		<desc>After winning four consecutive away league games against Nottingham Forest between 2014 and 2018, Brentford have won just one of their last five at the City Ground (D2 L2).</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch221_MW34_NFOvBRE_25.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="222" start="20250503105500 +0000" stop="20250503112500 +0000">
@@ -11489,22 +11744,22 @@
 	</programme>
 	<programme channel="222" start="20250503112500 +0000" stop="20250503132000 +0000">
 		<title>Manchester City vs Wolverhampton Wanderers (MW35) - EP 341</title>
-		<desc>The 33rd season of the Premier League sees Manchester City defend its title against a host of teams keen for glory themselves. 20 teams are in the mix but only 1 champion will emerge ultimately.</desc>
+		<desc>Wolves have won each of their last six Premier League games, the joint-longest winning run of any side this term. Only once have they ever won seven in a row in the top-flight, doing so in September/October 1946.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch221_MW35_MCIvWOL_25.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="222" start="20250503132000 +0000" stop="20250503135000 +0000">
 		<title>The Big Interview 2024/25 - EP 38</title>
-		<desc>Extended sit-downs and more informal ‘out and about’ interviews with the Premier League’s biggest stars, providing players with a platform to tell their story in their own words.</desc>
+		<desc>He was a Gunner through and through, from academy level to the first team, Emile Smith Rowe lived his dream of playing for Arsenal, the club he grew up supporting. Now at Fulham and injury-free, the 24-year-old is enjoying a new lease of life in West London. In this week’s Big Interview, Smith Rowe talks about his journey from grassroots to becoming a pro, what his parents had to sacrifice to help achieve his dream, as well as the difficult decision to leave Arsenal to further his career.</desc>
 		<icon src="https://poster.starhubgo.com/poster/the_big_interview_V2.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="222" start="20250503135000 +0000" stop="20250503155000 +0000">
 		<title>Leicester City vs Southampton (MW35) (Live) - EP 344</title>
-		<desc>The 33rd season of the Premier League sees Manchester City defend its title against a host of teams keen for glory themselves. 20 teams are in the mix but only 1 champion will emerge ultimately.</desc>
+		<desc>Southampton’s 80 goals conceded this season is their most in a single league campaign since 1971-72 (also 80), while they last shipped more in 1967-68 (83).</desc>
 		<icon src="https://poster.starhubgo.com/poster/leicester_city_stadium.jpg?w=960" />
 	</programme>
 	<programme channel="222" start="20250503155000 +0000" stop="20250503162000 +0000">
 		<title>PL Rewind 2024/25 - EP 19</title>
-		<desc>An evergreen strand that relives classic matches, seasons and moments in the company of those who starred in them. PL Rewind delves back into the Premier League arvchive in 'watch along' style.</desc>
+		<desc>Still the only team in Premier League history to throw away a 12-point lead, Les Ferdinand tells the story of Newcastle’s agonising  Run-In, where Kevin Keegan’s side were pipped to the title by Manchester United.</desc>
 		<icon src="https://poster.starhubgo.com/poster/pl_rewind_V2.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="223" start="20250501160000 +0000" stop="20250501220000 +0000">
@@ -11754,7 +12009,7 @@
 	</programme>
 	<programme channel="232" start="20250503050000 +0000" stop="20250503070000 +0000">
 		<title>Manchester City vs Wolverhampton Wanderers (MW35) - EP 341</title>
-		<desc>The 33rd season of the Premier League sees Manchester City defend its title against a host of teams keen for glory themselves. 20 teams are in the mix but only 1 champion will emerge ultimately.</desc>
+		<desc>Wolves have won each of their last six Premier League games, the joint-longest winning run of any side this term. Only once have they ever won seven in a row in the top-flight, doing so in September/October 1946.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch221_MW35_MCIvWOL_25.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="232" start="20250503070000 +0000" stop="20250503080000 +0000">
@@ -11764,7 +12019,7 @@
 	</programme>
 	<programme channel="232" start="20250503080000 +0000" stop="20250503083000 +0000">
 		<title>PL Rewind 2024/25 - EP 19</title>
-		<desc>An evergreen strand that relives classic matches, seasons and moments in the company of those who starred in them. PL Rewind delves back into the Premier League arvchive in 'watch along' style.</desc>
+		<desc>Still the only team in Premier League history to throw away a 12-point lead, Les Ferdinand tells the story of Newcastle’s agonising  Run-In, where Kevin Keegan’s side were pipped to the title by Manchester United.</desc>
 		<icon src="https://poster.starhubgo.com/poster/pl_rewind_V2.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="232" start="20250503083000 +0000" stop="20250503090000 +0000">
@@ -11774,7 +12029,7 @@
 	</programme>
 	<programme channel="232" start="20250503090000 +0000" stop="20250503105500 +0000">
 		<title>Nottingham Forest vs Brentford (MW34) - EP 340</title>
-		<desc>The 33rd season of the Premier League sees Manchester City defend its title against a host of teams keen for glory themselves. 20 teams are in the mix but only 1 champion will emerge ultimately.</desc>
+		<desc>After winning four consecutive away league games against Nottingham Forest between 2014 and 2018, Brentford have won just one of their last five at the City Ground (D2 L2).</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch221_MW34_NFOvBRE_25.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="232" start="20250503105500 +0000" stop="20250503112500 +0000">
@@ -11784,22 +12039,22 @@
 	</programme>
 	<programme channel="232" start="20250503112500 +0000" stop="20250503132000 +0000">
 		<title>Manchester City vs Wolverhampton Wanderers (MW35) - EP 341</title>
-		<desc>The 33rd season of the Premier League sees Manchester City defend its title against a host of teams keen for glory themselves. 20 teams are in the mix but only 1 champion will emerge ultimately.</desc>
+		<desc>Wolves have won each of their last six Premier League games, the joint-longest winning run of any side this term. Only once have they ever won seven in a row in the top-flight, doing so in September/October 1946.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch221_MW35_MCIvWOL_25.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="232" start="20250503132000 +0000" stop="20250503135000 +0000">
 		<title>The Big Interview 2024/25 - EP 38</title>
-		<desc>Extended sit-downs and more informal ‘out and about’ interviews with the Premier League’s biggest stars, providing players with a platform to tell their story in their own words.</desc>
+		<desc>He was a Gunner through and through, from academy level to the first team, Emile Smith Rowe lived his dream of playing for Arsenal, the club he grew up supporting. Now at Fulham and injury-free, the 24-year-old is enjoying a new lease of life in West London. In this week’s Big Interview, Smith Rowe talks about his journey from grassroots to becoming a pro, what his parents had to sacrifice to help achieve his dream, as well as the difficult decision to leave Arsenal to further his career.</desc>
 		<icon src="https://poster.starhubgo.com/poster/the_big_interview_V2.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="232" start="20250503135000 +0000" stop="20250503155000 +0000">
 		<title>Leicester City vs Southampton (MW35) (Live) - EP 344</title>
-		<desc>The 33rd season of the Premier League sees Manchester City defend its title against a host of teams keen for glory themselves. 20 teams are in the mix but only 1 champion will emerge ultimately.</desc>
+		<desc>Southampton’s 80 goals conceded this season is their most in a single league campaign since 1971-72 (also 80), while they last shipped more in 1967-68 (83).</desc>
 		<icon src="https://poster.starhubgo.com/poster/leicester_city_stadium.jpg?w=960" />
 	</programme>
 	<programme channel="232" start="20250503155000 +0000" stop="20250503162000 +0000">
 		<title>PL Rewind 2024/25 - EP 19</title>
-		<desc>An evergreen strand that relives classic matches, seasons and moments in the company of those who starred in them. PL Rewind delves back into the Premier League arvchive in 'watch along' style.</desc>
+		<desc>Still the only team in Premier League history to throw away a 12-point lead, Les Ferdinand tells the story of Newcastle’s agonising  Run-In, where Kevin Keegan’s side were pipped to the title by Manchester United.</desc>
 		<icon src="https://poster.starhubgo.com/poster/pl_rewind_V2.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="241" start="20250501160000 +0000" stop="20250501170000 +0000">
@@ -25124,7 +25379,7 @@
 	</programme>
 	<programme channel="711" start="20250503063000 +0000" stop="20250503070000 +0000">
 		<title>African Voices Changemakers</title>
-		<desc>From the sand mines of Batie, Cameroon to global stardom in the UFC and boxing rings, Francis Ngannou's journey is one of grit, resilience and purpose.</desc>
+		<desc>An international talent management agency fosters African footballers to play globally; a beauty queen's EdTech platform provides learning resources beyond her country's borders.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch711_african_voices_changemakers.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="711" start="20250503070000 +0000" stop="20250503074500 +0000">
@@ -25149,7 +25404,7 @@
 	</programme>
 	<programme channel="711" start="20250503100000 +0000" stop="20250503103000 +0000">
 		<title>African Voices Changemakers</title>
-		<desc>From the sand mines of Batie, Cameroon to global stardom in the UFC and boxing rings, Francis Ngannou's journey is one of grit, resilience and purpose.</desc>
+		<desc>An international talent management agency fosters African footballers to play globally; a beauty queen's EdTech platform provides learning resources beyond her country's borders.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch711_african_voices_changemakers.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="711" start="20250503103000 +0000" stop="20250503110000 +0000">
@@ -25163,9 +25418,9 @@
 		<icon src="https://poster.starhubgo.com/poster/ch711_cnn_this_morning.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="711" start="20250503120000 +0000" stop="20250503130000 +0000">
-		<title>First of All</title>
-		<desc>Victor Blackwell brings a fresh perspective on the week's news with a focus on stories affecting communities of color.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch711_first_of_all.jpg?w=341&amp;h=192" />
+		<title>CNN This Morning Weekend</title>
+		<desc>Start your day with Victor Blackwell bringing you the latest headlines and analysis.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch711_cnn_this_morning.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="711" start="20250503130000 +0000" stop="20250503140000 +0000">
 		<title>Smerconish</title>
