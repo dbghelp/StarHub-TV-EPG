@@ -1569,7 +1569,7 @@
 	</programme>
 	<programme channel="105" start="20250503180000 +0000" stop="20250503181500 +0000">
 		<title>GE2025 Seithi Live Update - EP 1</title>
-		<desc>(Live)</desc>
+		<desc>(Live) With the votes cast and ballots counted, don't miss the 'live' results of Singapore General Election 2025.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/105_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="105" start="20250503181500 +0000" stop="20250503184500 +0000">
@@ -1584,7 +1584,7 @@
 	</programme>
 	<programme channel="105" start="20250503190000 +0000" stop="20250503191500 +0000">
 		<title>GE2025 Seithi Live Update - EP 2</title>
-		<desc>(Live)</desc>
+		<desc>(Live) With the votes cast and ballots counted, don't miss the 'live' results of Singapore General Election 2025.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/105_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="105" start="20250503191500 +0000" stop="20250503194500 +0000">
@@ -1599,7 +1599,7 @@
 	</programme>
 	<programme channel="105" start="20250503200000 +0000" stop="20250503201500 +0000">
 		<title>GE2025 Seithi Live Update - EP 3</title>
-		<desc>(Live)</desc>
+		<desc>(Live) With the votes cast and ballots counted, don't miss the 'live' results of Singapore General Election 2025.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/105_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="105" start="20250503201500 +0000" stop="20250503204500 +0000">
@@ -1614,7 +1614,7 @@
 	</programme>
 	<programme channel="105" start="20250503210000 +0000" stop="20250503211500 +0000">
 		<title>GE2025 Seithi Live Update - EP 4</title>
-		<desc>(Live)</desc>
+		<desc>(Live) With the votes cast and ballots counted, don't miss the 'live' results of Singapore General Election 2025.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/105_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="105" start="20250503211500 +0000" stop="20250503214500 +0000">
@@ -1622,14 +1622,19 @@
 		<desc>Come along on the delicious, scrumptious, mouth-watering, mind-boggling food journey as our host, Spancer, eats his way through the culinary hotspots of southern and western India!</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/105_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="105" start="20250503214500 +0000" stop="20250503220000 +0000">
+	<programme channel="105" start="20250503214500 +0000" stop="20250503215500 +0000">
 		<title>Urban Vivasaayi - EP 1</title>
 		<desc>We travel to our neighbouring countries and find out how one man's poison is another man's treasure and Nithya whips up quick dishes to bring out these flavours.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/105_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
+	<programme channel="105" start="20250503215500 +0000" stop="20250503220000 +0000">
+		<title>End of transmission</title>
+		<desc />
+		<icon src="https://poster.starhubgo.com/Linear_channels2/105_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
 	<programme channel="105" start="20250503220000 +0000" stop="20250504010000 +0000">
 		<title>GE2025 Seithi Live Update - EP 5</title>
-		<desc>(Live)</desc>
+		<desc>(Live) With the votes cast and ballots counted, don't miss the 'live' results of Singapore General Election 2025.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/105_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="105" start="20250504010000 +0000" stop="20250504020000 +0000">
@@ -4413,19 +4418,19 @@
 		<icon src="https://poster.starhubgo.com/poster/ch128_megha_barsenge.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="128" start="20250503010000 +0000" stop="20250503013000 +0000">
-		<title>Suman Indori - EP 238</title>
-		<desc>Married to a rich politician, Suman faces several obstacles adjusting to her new life.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch128_suman_indori.jpg?w=960&amp;h=540" />
+		<title>Meri Bhavya Life - EP 1</title>
+		<desc>Two people having opposite personalities fall in love and navigate their differences.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch128_colors_logo.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="128" start="20250503013000 +0000" stop="20250503020000 +0000">
-		<title>Suman Indori - EP 239</title>
-		<desc>Married to a rich politician, Suman faces several obstacles adjusting to her new life.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch128_suman_indori.jpg?w=960&amp;h=540" />
+		<title>Meri Bhavya Life - EP 2</title>
+		<desc>Two people having opposite personalities fall in love and navigate their differences.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch128_colors_logo.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="128" start="20250503020000 +0000" stop="20250503023000 +0000">
-		<title>Suman Indori - EP 240</title>
-		<desc>Married to a rich politician, Suman faces several obstacles adjusting to her new life.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch128_suman_indori.jpg?w=960&amp;h=540" />
+		<title>Mannat Harr Khushi Paane Ki - EP 82</title>
+		<desc>Mannat decides to blackmail Aishwarya in order for her to testify against Bobby.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch128_mannat_harr_khushi_paane_ki.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="128" start="20250503023000 +0000" stop="20250503030000 +0000">
 		<title>Mannat Harr Khushi Paane Ki - EP 83</title>
@@ -4448,18 +4453,18 @@
 		<icon src="https://poster.starhubgo.com/poster/ch128_shiv_shakti_tap_tyaag_tandav.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="128" start="20250503043000 +0000" stop="20250503050000 +0000">
-		<title>Suman Indori - EP 241</title>
-		<desc>Married to a rich politician, Suman faces several obstacles adjusting to her new life.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch128_suman_indori.jpg?w=960&amp;h=540" />
+		<title>Megha Barsenge - EP 270</title>
+		<desc>Megha secretly brings Arjun back to life after hanging him by the rope.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch128_megha_barsenge.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="128" start="20250503050000 +0000" stop="20250503053000 +0000">
-		<title>Megha Barsenge - EP 270</title>
-		<desc>After her being abandoned by her groom, Megha decides to live life on her own terms.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch128_megha_barsenge.jpg?w=341&amp;h=192" />
+		<title>Meri Bhavya Life - EP 3</title>
+		<desc>Two people having opposite personalities fall in love and navigate their differences.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch128_colors_logo.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="128" start="20250503053000 +0000" stop="20250503060000 +0000">
 		<title>Parineetii - EP 1102</title>
-		<desc>Fate plays a cruel trick on two best friends by tying their heartstrings to the same man.</desc>
+		<desc>As Neeti nears the groom swap, Sanju decides to hold Daljeet as a hostage.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch128_parineetii.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="128" start="20250503060000 +0000" stop="20250503063000 +0000">
@@ -4469,7 +4474,7 @@
 	</programme>
 	<programme channel="128" start="20250503063000 +0000" stop="20250503070000 +0000">
 		<title>Ram Bhavan - EP 94</title>
-		<desc>In a battle between evil and goodness, Isha motivates Om to confront his family.</desc>
+		<desc>Gayatri makes a scheme to make sure Isha creates a bluder and loses her job.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch128_ram_bhavan.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="128" start="20250503070000 +0000" stop="20250503083000 +0000">
@@ -4479,7 +4484,7 @@
 	</programme>
 	<programme channel="128" start="20250503083000 +0000" stop="20250503093000 +0000">
 		<title>Mangal Lakshmi - EP 430</title>
-		<desc>Mangal embarks on a quest in order to find Lakshmi a perfect match.</desc>
+		<desc>Mangal defends Adit in front of Kapil after he admits the truth about the blast.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch128_mangal_lakshmi.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="128" start="20250503093000 +0000" stop="20250503100000 +0000">
@@ -4493,18 +4498,18 @@
 		<icon src="https://poster.starhubgo.com/poster/ch128_ram_bhavan.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="128" start="20250503103000 +0000" stop="20250503110000 +0000">
-		<title>Suman Indori - EP 241</title>
-		<desc>Married to a rich politician, Suman faces several obstacles adjusting to her new life.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch128_suman_indori.jpg?w=960&amp;h=540" />
+		<title>Megha Barsenge - EP 270</title>
+		<desc>Megha secretly brings Arjun back to life after hanging him by the rope.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch128_megha_barsenge.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="128" start="20250503110000 +0000" stop="20250503113000 +0000">
-		<title>Megha Barsenge - EP 270</title>
-		<desc>After her being abandoned by her groom, Megha decides to live life on her own terms.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch128_megha_barsenge.jpg?w=341&amp;h=192" />
+		<title>Meri Bhavya Life - EP 3</title>
+		<desc>Two people having opposite personalities fall in love and navigate their differences.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch128_colors_logo.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="128" start="20250503113000 +0000" stop="20250503120000 +0000">
 		<title>Parineetii - EP 1102</title>
-		<desc>Fate plays a cruel trick on two best friends by tying their heartstrings to the same man.</desc>
+		<desc>As Neeti nears the groom swap, Sanju decides to hold Daljeet as a hostage.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch128_parineetii.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="128" start="20250503120000 +0000" stop="20250503123000 +0000">
@@ -4514,7 +4519,7 @@
 	</programme>
 	<programme channel="128" start="20250503123000 +0000" stop="20250503130000 +0000">
 		<title>Ram Bhavan - EP 94</title>
-		<desc>In a battle between evil and goodness, Isha motivates Om to confront his family.</desc>
+		<desc>Gayatri makes a scheme to make sure Isha creates a bluder and loses her job.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch128_ram_bhavan.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="128" start="20250503130000 +0000" stop="20250503143000 +0000">
@@ -4524,7 +4529,7 @@
 	</programme>
 	<programme channel="128" start="20250503143000 +0000" stop="20250503153000 +0000">
 		<title>Mangal Lakshmi - EP 430</title>
-		<desc>Mangal embarks on a quest in order to find Lakshmi a perfect match.</desc>
+		<desc>Mangal defends Adit in front of Kapil after he admits the truth about the blast.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch128_mangal_lakshmi.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="128" start="20250503153000 +0000" stop="20250503160000 +0000">
@@ -4534,12 +4539,12 @@
 	</programme>
 	<programme channel="128" start="20250503160000 +0000" stop="20250503163000 +0000">
 		<title>Parineetii - EP 1102</title>
-		<desc>Fate plays a cruel trick on two best friends by tying their heartstrings to the same man.</desc>
+		<desc>As Neeti nears the groom swap, Sanju decides to hold Daljeet as a hostage.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch128_parineetii.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="128" start="20250503163000 +0000" stop="20250503173000 +0000">
 		<title>Mangal Lakshmi - EP 430</title>
-		<desc>Mangal embarks on a quest in order to find Lakshmi a perfect match.</desc>
+		<desc>Mangal defends Adit in front of Kapil after he admits the truth about the blast.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch128_mangal_lakshmi.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="128" start="20250503173000 +0000" stop="20250503180000 +0000">
@@ -4549,13 +4554,13 @@
 	</programme>
 	<programme channel="128" start="20250503180000 +0000" stop="20250503183000 +0000">
 		<title>Ram Bhavan - EP 94</title>
-		<desc>In a battle between evil and goodness, Isha motivates Om to confront his family.</desc>
+		<desc>Gayatri makes a scheme to make sure Isha creates a bluder and loses her job.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch128_ram_bhavan.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="128" start="20250503183000 +0000" stop="20250503190000 +0000">
-		<title>Suman Indori - EP 241</title>
-		<desc>Married to a rich politician, Suman faces several obstacles adjusting to her new life.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch128_suman_indori.jpg?w=960&amp;h=540" />
+		<title>Meri Bhavya Life - EP 3</title>
+		<desc>Two people having opposite personalities fall in love and navigate their differences.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch128_colors_logo.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="128" start="20250503190000 +0000" stop="20250503193000 +0000">
 		<title>Shiv-Shakti Tap..Tyaag..Tandav - EP 677</title>
@@ -4564,7 +4569,7 @@
 	</programme>
 	<programme channel="128" start="20250503193000 +0000" stop="20250503200000 +0000">
 		<title>Ram Bhavan - EP 94</title>
-		<desc>In a battle between evil and goodness, Isha motivates Om to confront his family.</desc>
+		<desc>Gayatri makes a scheme to make sure Isha creates a bluder and loses her job.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch128_ram_bhavan.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="128" start="20250503200000 +0000" stop="20250503203000 +0000">
@@ -4573,22 +4578,22 @@
 		<icon src="https://poster.starhubgo.com/poster/ch128_mannat_harr_khushi_paane_ki.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="128" start="20250503203000 +0000" stop="20250503210000 +0000">
-		<title>Suman Indori - EP 241</title>
-		<desc>Married to a rich politician, Suman faces several obstacles adjusting to her new life.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch128_suman_indori.jpg?w=960&amp;h=540" />
+		<title>Meri Bhavya Life - EP 3</title>
+		<desc>Two people having opposite personalities fall in love and navigate their differences.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch128_colors_logo.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="128" start="20250503210000 +0000" stop="20250503213000 +0000">
 		<title>Parineetii - EP 1102</title>
-		<desc>Fate plays a cruel trick on two best friends by tying their heartstrings to the same man.</desc>
+		<desc>As Neeti nears the groom swap, Sanju decides to hold Daljeet as a hostage.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch128_parineetii.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="128" start="20250503213000 +0000" stop="20250503220000 +0000">
 		<title>Megha Barsenge - EP 270</title>
-		<desc>After her being abandoned by her groom, Megha decides to live life on her own terms.</desc>
+		<desc>Megha secretly brings Arjun back to life after hanging him by the rope.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch128_megha_barsenge.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="128" start="20250503220000 +0000" stop="20250503223000 +0000">
-		<title>Shiv Shakti: Tap Tyaag Taandav - EP 675</title>
+		<title>Shiv-Shakti Tap..Tyaag..Tandav - EP 675</title>
 		<desc>Lord Shiva and his wife offer sacrifices and brave separation to care for humanity.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch128_shiv_shakti_tap_tyaag_tandav.jpg?w=341&amp;h=192" />
 	</programme>
@@ -4636,11 +4641,6 @@
 		<title>Desi Beat - EP 50</title>
 		<desc>The host explores the lifestyle of South Asians in the UK and prepares easy delicacies.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch128_desi_beat.jpg?w=341&amp;h=192" />
-	</programme>
-	<programme channel="128" start="20250504040000 +0000" stop="20250504043000 +0000">
-		<title>Shiv-Shakti Tap..Tyaag..Tandav - EP 677</title>
-		<desc>Lord Shiva and Goddess Paravati navigate their union and perform duties for humanity.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch128_shiv_shakti_tap_tyaag_tandav.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="128" start="20250504043000 +0000" stop="20250504050000 +0000">
 		<title>Suman Indori - EP 242</title>
@@ -6897,12 +6897,12 @@
 		<desc>Padmanabhan's mayoral corruption triggers unexpected challenges within the city. Release Year: 2013 Director: Viji Thampi</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=960&amp;h=540" />
 	</programme>
-	<programme channel="140" start="20250503073000 +0000" stop="20250503103000 +0000">
+	<programme channel="140" start="20250503073000 +0000" stop="20250503103500 +0000">
 		<title>Baba Kalyani</title>
 		<desc>Baba Kalyani, a police officer, investigates a terrorist plot in Kochi while facing off against old enemies seeking revenge. Release Year: 2006 Director: Shaji Kailas Awards: Asianet Film Award for Best Male Playback Singer</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=960&amp;h=540" />
 	</programme>
-	<programme channel="140" start="20250503103000 +0000" stop="20250503133000 +0000">
+	<programme channel="140" start="20250503103500 +0000" stop="20250503133000 +0000">
 		<title>Aravindhante Athidhikal</title>
 		<desc>Aravindan, left at a temple, raised by a hotelier, dreams of finding his mother. Release Year: 2018 Director: M. Mohanan</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=960&amp;h=540" />
@@ -6912,17 +6912,17 @@
 		<desc>A gritty tale of ambition, loyalty, and survival, where a determined protagonist navigates the challenges of crime, power, and betrayal in pursuit of justice and redemption.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=960&amp;h=540" />
 	</programme>
-	<programme channel="140" start="20250503163000 +0000" stop="20250503190000 +0000">
+	<programme channel="140" start="20250503163000 +0000" stop="20250503193000 +0000">
 		<title>Christian Brothers</title>
 		<desc>Christy saves minister's daughter but gets involved in murder. Release Year: 2011 Director: Joshiy</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=960&amp;h=540" />
 	</programme>
-	<programme channel="140" start="20250503190000 +0000" stop="20250503220000 +0000">
+	<programme channel="140" start="20250503193000 +0000" stop="20250503213000 +0000">
 		<title>Paviyettante Madhurachooral</title>
 		<desc>A childless couple spends their time teaching in a small village of Kerala. However, their life changes on the arrival of a 15-year-old teenager. Release Year: 2018 Director: Sreekrishnan</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=960&amp;h=540" />
 	</programme>
-	<programme channel="140" start="20250503220000 +0000" stop="20250503233000 +0000">
+	<programme channel="140" start="20250503213000 +0000" stop="20250503233000 +0000">
 		<title>Parthan kanda paralokam</title>
 		<desc>Parthasarathy is loved for his selflessness but falls for his rival's daughter, unaware of her hidden agenda. Release Year: 2008</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=960&amp;h=540" />
@@ -8574,7 +8574,7 @@
 	</programme>
 	<programme channel="153" start="20250503003000 +0000" stop="20250503010000 +0000">
 		<title>REV</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+		<desc>Is the Audi RS 6 GT worth its price of €220,000? We find out. Think getting your driver's license is tough? Germany’s test is one of the toughest. And solo traveler Pelumi Nubi drives 10,000 km from London to Lagos.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20250503010000 +0000" stop="20250503011500 +0000">
@@ -8583,13 +8583,13 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20250503011500 +0000" stop="20250503013000 +0000">
-		<title>Best of DW-online Content</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+		<title>Interview</title>
+		<desc>Germany's NATO ambassador von Geyr warns against Russia in an interview with DW. In view of Russia's attack on Ukraine, which violates international law, the atmosphere within NATO is worried, but also prudent and determined. Russia wants to "dominate rat</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20250503013000 +0000" stop="20250503020000 +0000">
 		<title>Tomorrow Today</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+		<desc>Vegan egg substitutes that look and taste almost like the real thing. Renewable fuels based on biowaste. How farmland soils can absorb and store carbon dioxide. The tricky business of recycling solar panels. And: What is plasma, and how is it made?</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20250503020000 +0000" stop="20250503020200 +0000">
@@ -8599,12 +8599,12 @@
 	</programme>
 	<programme channel="153" start="20250503020200 +0000" stop="20250503021500 +0000">
 		<title>Shift</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+		<desc>H&amp;M is creating digital clones of their models. The US government is reportedly building a master database to track immigrants. And Meta is accused of monopolizing the social media landscape. Find out more on SHIFT.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20250503021500 +0000" stop="20250503030000 +0000">
 		<title>DocFilm</title>
-		<desc>Frontex. For many, a name bound up with scandals, cover-ups and human rights violations. Headlines like these long tarnished the EU’s border protection agency’s reputation. But now, it’s trying to wipe the slate clean with a new boss, a new image and greater transparency.</desc>
+		<desc>Frontex. For many, a name bound up with scandals, cover-ups and human rights violations. Headlines like these long tarnished the EU’s border protection agency’s reputation. But now, it’s trying to wipe the slate clean with a new boss, a new image and grea</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20250503030000 +0000" stop="20250503031500 +0000">
@@ -8613,8 +8613,8 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20250503031500 +0000" stop="20250503033000 +0000">
-		<title>Best of DW-online Content</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+		<title>Travel</title>
+		<desc>Few places evoke oppression and isolation as strongly as the former Stasi prison in Berlin Hohenschönhausen. For over 35 years, thousands of individuals were detained here as part of an authoritarian regime. Now functioning as a museum, this former Stasi</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20250503033000 +0000" stop="20250503040000 +0000">
@@ -8629,12 +8629,12 @@
 	</programme>
 	<programme channel="153" start="20250503041500 +0000" stop="20250503043000 +0000">
 		<title>Shift</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+		<desc>H&amp;M is creating digital clones of their models. The US government is reportedly building a master database to track immigrants. And Meta is accused of monopolizing the social media landscape. Find out more on SHIFT.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20250503043000 +0000" stop="20250503050000 +0000">
 		<title>Euromaxx</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+		<desc>How conductor Joana Mallwitz attracts more people to the concert hall. Plus: Studying in Cambridge. And: Istanbul's street food classic Kumpir.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20250503050000 +0000" stop="20250503050200 +0000">
@@ -8644,7 +8644,7 @@
 	</programme>
 	<programme channel="153" start="20250503050200 +0000" stop="20250503053000 +0000">
 		<title>Arts Unveiled</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+		<desc>Eighty years ago, on May 8, 1945, Germany’s Wehrmacht surrendered. For Europe, it marked the end of World War II. But what happened next? Was there really a "Zero Hour"? And what traces of 12 years of Nazi rule remain today?</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20250503053000 +0000" stop="20250503060000 +0000">
@@ -8658,13 +8658,13 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20250503061500 +0000" stop="20250503063000 +0000">
-		<title>Best of DW-online Content</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+		<title>Travel</title>
+		<desc>Few places evoke oppression and isolation as strongly as the former Stasi prison in Berlin Hohenschönhausen. For over 35 years, thousands of individuals were detained here as part of an authoritarian regime. Now functioning as a museum, this former Stasi</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20250503063000 +0000" stop="20250503070000 +0000">
 		<title>REV</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+		<desc>Is the Audi RS 6 GT worth its price of €220,000? We find out. Think getting your driver's license is tough? Germany’s test is one of the toughest. And solo traveler Pelumi Nubi drives 10,000 km from London to Lagos.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20250503070000 +0000" stop="20250503071500 +0000">
@@ -8674,12 +8674,12 @@
 	</programme>
 	<programme channel="153" start="20250503071500 +0000" stop="20250503073000 +0000">
 		<title>Sports Life</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+		<desc>From the streets of Afghanistan into the ring. Shoaib Akhtar is not just a boxer, but also fighting his way through life into a new society. A refugee turned pro boxer. But how did he make it here in Germany?</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20250503073000 +0000" stop="20250503080000 +0000">
 		<title>Tomorrow Today</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+		<desc>Vegan egg substitutes that look and taste almost like the real thing. Renewable fuels based on biowaste. How farmland soils can absorb and store carbon dioxide. The tricky business of recycling solar panels. And: What is plasma, and how is it made?</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20250503080000 +0000" stop="20250503081500 +0000">
@@ -8689,7 +8689,7 @@
 	</programme>
 	<programme channel="153" start="20250503081500 +0000" stop="20250503090000 +0000">
 		<title>DocFilm</title>
-		<desc>How much artificial intelligence and surveillance can our society tolerate? AI surveillance is already part of our everyday lives and brings many benefits. But what are the potential risks? And at what point does it jeopardize individual freedom?</desc>
+		<desc>Most of Germany’s rivers are in poor condition. Pollutants from industry and agriculture contaminate the water and lead to algal blooms and species die-offs. Environmental advocates and riverbank residents are fighting for more protection for waterways.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20250503090000 +0000" stop="20250503091500 +0000">
@@ -8699,12 +8699,12 @@
 	</programme>
 	<programme channel="153" start="20250503091500 +0000" stop="20250503093000 +0000">
 		<title>Sports Life</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+		<desc>From the streets of Afghanistan into the ring. Shoaib Akhtar is not just a boxer, but also fighting his way through life into a new society. A refugee turned pro boxer. But how did he make it here in Germany?</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20250503093000 +0000" stop="20250503100000 +0000">
 		<title>In Good Shape</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+		<desc>Excessive skincare and hair styling is ineffective and potentially counterproductive - leaving lackluster hair and pimples. Over-brushing can also be a source of harm. In Good Shape with top tips to ensure you stay looking good.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20250503100000 +0000" stop="20250503101500 +0000">
@@ -8714,7 +8714,7 @@
 	</programme>
 	<programme channel="153" start="20250503101500 +0000" stop="20250503103000 +0000">
 		<title>Shift</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+		<desc>H&amp;M is creating digital clones of their models. The US government is reportedly building a master database to track immigrants. And Meta is accused of monopolizing the social media landscape. Find out more on SHIFT.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20250503103000 +0000" stop="20250503120000 +0000">
@@ -8729,12 +8729,12 @@
 	</programme>
 	<programme channel="153" start="20250503121500 +0000" stop="20250503123000 +0000">
 		<title>Shift</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+		<desc>H&amp;M is creating digital clones of their models. The US government is reportedly building a master database to track immigrants. And Meta is accused of monopolizing the social media landscape. Find out more on SHIFT.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20250503123000 +0000" stop="20250503130000 +0000">
 		<title>Euromaxx</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+		<desc>How conductor Joana Mallwitz attracts more people to the concert hall. Plus: Studying in Cambridge. And: Istanbul's street food classic Kumpir.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20250503130000 +0000" stop="20250503131500 +0000">
@@ -8754,7 +8754,7 @@
 	</programme>
 	<programme channel="153" start="20250503141500 +0000" stop="20250503143000 +0000">
 		<title>Reporter</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+		<desc>A 17-year-old Polish forced laborer was executed by the Nazis in 1942. It was Stefan Weger's great-grandmother who testified against him.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20250503143000 +0000" stop="20250503150000 +0000">
@@ -8768,13 +8768,13 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20250503151500 +0000" stop="20250503153000 +0000">
-		<title>Best of DW-online Content</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+		<title>Planet A</title>
+		<desc>Our planet is warming, ice sheets are melting, and oceans are rising at an alarming rate. Around the world, city dwellers are scrambling to stay afloat - by raising walls and buildings, rewilding land, and relocating to higher grounds. What are the most p</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20250503153000 +0000" stop="20250503160000 +0000">
 		<title>Euromaxx</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+		<desc>How conductor Joana Mallwitz attracts more people to the concert hall. Plus: Studying in Cambridge. And: Istanbul's street food classic Kumpir.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20250503160000 +0000" stop="20250503161500 +0000">
@@ -8784,7 +8784,7 @@
 	</programme>
 	<programme channel="153" start="20250503161500 +0000" stop="20250503163000 +0000">
 		<title>Sports Life</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+		<desc>From the streets of Afghanistan into the ring. Shoaib Akhtar is not just a boxer, but also fighting his way through life into a new society. A refugee turned pro boxer. But how did he make it here in Germany?</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20250503163000 +0000" stop="20250503170000 +0000">
@@ -8799,7 +8799,7 @@
 	</programme>
 	<programme channel="153" start="20250503171500 +0000" stop="20250503173000 +0000">
 		<title>Shift</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+		<desc>H&amp;M is creating digital clones of their models. The US government is reportedly building a master database to track immigrants. And Meta is accused of monopolizing the social media landscape. Find out more on SHIFT.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20250503173000 +0000" stop="20250503180000 +0000">
@@ -8814,7 +8814,7 @@
 	</programme>
 	<programme channel="153" start="20250503181500 +0000" stop="20250503183000 +0000">
 		<title>Reporter</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+		<desc>A 17-year-old Polish forced laborer was executed by the Nazis in 1942. It was Stefan Weger's great-grandmother who testified against him.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20250503183000 +0000" stop="20250503190000 +0000">
@@ -8839,12 +8839,12 @@
 	</programme>
 	<programme channel="153" start="20250503201500 +0000" stop="20250503203000 +0000">
 		<title>Reporter</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+		<desc>A 17-year-old Polish forced laborer was executed by the Nazis in 1942. It was Stefan Weger's great-grandmother who testified against him.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20250503203000 +0000" stop="20250503210000 +0000">
 		<title>Afrimaxx</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+		<desc>This time, host Seitebatso Khomari, is exploring the stunning landscapes in Clarens, South Africa. Plus, a Congolese at the Eurovision Song Contest, a tasteful duo from Durban and a Kenyan unscrambling Africa.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20250503210000 +0000" stop="20250503211500 +0000">
@@ -8854,7 +8854,7 @@
 	</programme>
 	<programme channel="153" start="20250503211500 +0000" stop="20250503213000 +0000">
 		<title>Shift</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+		<desc>H&amp;M is creating digital clones of their models. The US government is reportedly building a master database to track immigrants. And Meta is accused of monopolizing the social media landscape. Find out more on SHIFT.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20250503213000 +0000" stop="20250503230000 +0000">
@@ -8869,12 +8869,12 @@
 	</programme>
 	<programme channel="153" start="20250503231500 +0000" stop="20250503233000 +0000">
 		<title>Sports Life</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+		<desc>From the streets of Afghanistan into the ring. Shoaib Akhtar is not just a boxer, but also fighting his way through life into a new society. A refugee turned pro boxer. But how did he make it here in Germany?</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20250503233000 +0000" stop="20250504000000 +0000">
 		<title>Tomorrow Today</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+		<desc>Vegan egg substitutes that look and taste almost like the real thing. Renewable fuels based on biowaste. How farmland soils can absorb and store carbon dioxide. The tricky business of recycling solar panels. And: What is plasma, and how is it made?</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20250504000000 +0000" stop="20250504000200 +0000">
@@ -9352,35 +9352,60 @@
 		<desc>A young man follows his newlywed neighbour Mythili from Chennai to Goa when she moves there with her husband Raghunandan. He ends up kidnapping Mythili when his obsession takes a drastic turn.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/159_1920x1080_HTV.png?w=960&amp;h=540" />
 	</programme>
-	<programme channel="159" start="20250502200000 +0000" stop="20250502220000 +0000">
-		<title>Information Not Available</title>
-		<desc />
-		<icon src="https://poster.starhubgo.com/Linear_channels2/159_1920x1080_HTV.png?w=960&amp;h=540" />
+	<programme channel="159" start="20250502200000 +0000" stop="20250502223000 +0000">
+		<title>Movie - Thullum Kaalam</title>
+		<desc>Movie starring Pandiarajan, Vineetha, Rajeev, Tharika and is directed by Sarana, Produced by Lakshmi Shankar Movies.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch159_ktv_hd_logo.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="159" start="20250502220000 +0000" stop="20250503040000 +0000">
-		<title>Information Not Available</title>
-		<desc />
-		<icon src="https://poster.starhubgo.com/Linear_channels2/159_1920x1080_HTV.png?w=960&amp;h=540" />
+	<programme channel="159" start="20250502223000 +0000" stop="20250503010000 +0000">
+		<title>Movie - Udhayamagiradhu</title>
+		<desc>A Girl Becomes A Dancer When Her Mother Falls Ill, But Is Exploited By The Rich Villagers. She Takes Refuge Under A Revered Figure, But He Too Falters. She Then Decides To Start Life Afresh.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch159_ktv_hd_logo.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="159" start="20250503040000 +0000" stop="20250503100000 +0000">
-		<title>Information Not Available</title>
-		<desc />
-		<icon src="https://poster.starhubgo.com/Linear_channels2/159_1920x1080_HTV.png?w=960&amp;h=540" />
+	<programme channel="159" start="20250503010000 +0000" stop="20250503013000 +0000">
+		<title>Fillers</title>
+		<desc>Fillers</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch159_ktv_hd_logo.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="159" start="20250503100000 +0000" stop="20250503160000 +0000">
-		<title>Information Not Available</title>
-		<desc />
-		<icon src="https://poster.starhubgo.com/Linear_channels2/159_1920x1080_HTV.png?w=960&amp;h=540" />
+	<programme channel="159" start="20250503013000 +0000" stop="20250503043000 +0000">
+		<title>Movie - Chennai 600028</title>
+		<desc>The Sharks team never wins the local cricket tournament. However, things take a turn when Raghu, a player from the opposition team, decides to join them.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch159_ktv_hd_logo.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="159" start="20250503160000 +0000" stop="20250503220000 +0000">
-		<title>Information Not Available</title>
-		<desc />
-		<icon src="https://poster.starhubgo.com/Linear_channels2/159_1920x1080_HTV.png?w=960&amp;h=540" />
+	<programme channel="159" start="20250503043000 +0000" stop="20250503073000 +0000">
+		<title>Movie - Varavu Ettana Selavu Pathana</title>
+		<desc>An honest government clerk leads a happy life with his wife and two kids until a corrupt politician moves near his house. The clerk's wife is so influenced with the politician's lifestyle that she tries to emulate it, this causes unrest in her life.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch159_ktv_hd_logo.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="159" start="20250503220000 +0000" stop="20250504040000 +0000">
-		<title>Information Not Available</title>
-		<desc />
-		<icon src="https://poster.starhubgo.com/Linear_channels2/159_1920x1080_HTV.png?w=960&amp;h=540" />
+	<programme channel="159" start="20250503073000 +0000" stop="20250503103000 +0000">
+		<title>Movie - Nee Varuvai Ena</title>
+		<desc>Ganesh falls for his extremely caring and helpful new neighbour, Nandini, who lives in a house opposite to his. But, when Ganesh and his parents put forth a marriage proposal, she turns them down.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch159_ktv_hd_logo.jpg?w=960&amp;h=540" />
+	</programme>
+	<programme channel="159" start="20250503103000 +0000" stop="20250503133000 +0000">
+		<title>Movie - Vanchinathan</title>
+		<desc>A cop, who can go to any means to arrest a criminal, is challenged by a popular newspaper owner, who always prints chaotic news. He was the eye witness to the murder done by the newspaper owner but he cannot prove it.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch159_ktv_hd_logo.jpg?w=960&amp;h=540" />
+	</programme>
+	<programme channel="159" start="20250503133000 +0000" stop="20250503170000 +0000">
+		<title>Movie - Pokkiri</title>
+		<desc>Tamizh, a hardcore criminal who does dirty jobs for money, falls in love with Sruthi, a charming girl, who hates his violent nature. Soon, a turn of events reveals his true purpose and identity.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch159_ktv_hd_logo.jpg?w=960&amp;h=540" />
+	</programme>
+	<programme channel="159" start="20250503170000 +0000" stop="20250503200000 +0000">
+		<title>Movie - Acham Enbathu Madamayada</title>
+		<desc>Rajinikanth and Leela, a young couple, embark on a road trip. However, little do they know that unfortunate instances are going to put their lives at stake.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch159_ktv_hd_logo.jpg?w=960&amp;h=540" />
+	</programme>
+	<programme channel="159" start="20250503200000 +0000" stop="20250503223000 +0000">
+		<title>Movie - Ullam</title>
+		<desc>Raja, an introvert, falls in love with Kavitha, who helped him to become an extrovert. Things turn chaotic when Raja comes to know about Kavitha's dark past.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch159_ktv_hd_logo.jpg?w=960&amp;h=540" />
+	</programme>
+	<programme channel="159" start="20250503223000 +0000" stop="20250504010000 +0000">
+		<title>Movie - Unarchigal</title>
+		<desc>Amruta's father struggles to find a suitable match for her, which is tough because of an astrological flaw in her zodiac. When she finally gets married, the groom steals her jewelry and abandons her on the first night.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch159_ktv_hd_logo.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="159" start="20250504040000 +0000" stop="20250504100000 +0000">
 		<title>Information Not Available</title>
@@ -26183,9 +26208,9 @@
 		<icon src="https://poster.starhubgo.com/poster/ch724_arts24.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="724" start="20250503000000 +0000" stop="20250503001500 +0000">
-		<title>The News</title>
+		<title>News</title>
 		<desc>Watch the latest international top stories, The News every 30 minutes with the emphasis on debate, dialogue, role of cultural differences, analytics of key events all over the world, comments, hot topics of the day, reports.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch724_the_news.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch724_news.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="724" start="20250503001500 +0000" stop="20250503003000 +0000">
 		<title>People And Profit</title>
@@ -26193,9 +26218,9 @@
 		<icon src="https://poster.starhubgo.com/poster/ch724_people_and_profit.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="724" start="20250503003000 +0000" stop="20250503004500 +0000">
-		<title>The News</title>
+		<title>News</title>
 		<desc>Watch the latest international top stories, The News every 30 minutes with the emphasis on debate, dialogue, role of cultural differences, analytics of key events all over the world, comments, hot topics of the day, reports.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch724_the_news.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch724_news.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="724" start="20250503004500 +0000" stop="20250503010000 +0000">
 		<title>Eye on Africa</title>
@@ -26203,9 +26228,9 @@
 		<icon src="https://poster.starhubgo.com/poster/ch724_eye_on_africa.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="724" start="20250503010000 +0000" stop="20250503011000 +0000">
-		<title>The News</title>
+		<title>News</title>
 		<desc>Watch the latest international top stories, The News every 30 minutes with the emphasis on debate, dialogue, role of cultural differences, analytics of key events all over the world, comments, hot topics of the day, reports.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch724_the_news.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch724_news.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="724" start="20250503011000 +0000" stop="20250503020000 +0000">
 		<title>The World This Week</title>
@@ -26213,9 +26238,9 @@
 		<icon src="https://poster.starhubgo.com/poster/ch724_the_world_this_week.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="724" start="20250503020000 +0000" stop="20250503021500 +0000">
-		<title>The News</title>
+		<title>News</title>
 		<desc>Watch the latest international top stories, The News every 30 minutes with the emphasis on debate, dialogue, role of cultural differences, analytics of key events all over the world, comments, hot topics of the day, reports.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch724_the_news.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch724_news.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="724" start="20250503021500 +0000" stop="20250503023000 +0000">
 		<title>Across Africa</title>
@@ -26223,9 +26248,9 @@
 		<icon src="https://poster.starhubgo.com/poster/ch724_across_africa.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="724" start="20250503023000 +0000" stop="20250503024500 +0000">
-		<title>The News</title>
+		<title>News</title>
 		<desc>Watch the latest international top stories, The News every 30 minutes with the emphasis on debate, dialogue, role of cultural differences, analytics of key events all over the world, comments, hot topics of the day, reports.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch724_the_news.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch724_news.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="724" start="20250503024500 +0000" stop="20250503030000 +0000">
 		<title>Scoop</title>
@@ -26233,9 +26258,9 @@
 		<icon src="https://poster.starhubgo.com/poster/ch724_scoop.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="724" start="20250503030000 +0000" stop="20250503031500 +0000">
-		<title>The News</title>
+		<title>News</title>
 		<desc>Watch the latest international top stories, The News every 30 minutes with the emphasis on debate, dialogue, role of cultural differences, analytics of key events all over the world, comments, hot topics of the day, reports.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch724_the_news.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch724_news.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="724" start="20250503031500 +0000" stop="20250503033000 +0000">
 		<title>Eye on Africa</title>
@@ -26243,9 +26268,9 @@
 		<icon src="https://poster.starhubgo.com/poster/ch724_eye_on_africa.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="724" start="20250503033000 +0000" stop="20250503034500 +0000">
-		<title>The News</title>
+		<title>News</title>
 		<desc>Watch the latest international top stories, The News every 30 minutes with the emphasis on debate, dialogue, role of cultural differences, analytics of key events all over the world, comments, hot topics of the day, reports.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch724_the_news.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch724_news.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="724" start="20250503034500 +0000" stop="20250503040000 +0000">
 		<title>Arts24</title>
@@ -26253,9 +26278,9 @@
 		<icon src="https://poster.starhubgo.com/poster/ch724_arts24.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="724" start="20250503040000 +0000" stop="20250503042000 +0000">
-		<title>The News</title>
+		<title>News</title>
 		<desc>Watch the latest international top stories, The News every 30 minutes with the emphasis on debate, dialogue, role of cultural differences, analytics of key events all over the world, comments, hot topics of the day, reports.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch724_the_news.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch724_news.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="724" start="20250503042000 +0000" stop="20250503043000 +0000">
 		<title>Sports Sunday</title>
@@ -26263,14 +26288,14 @@
 		<icon src="https://poster.starhubgo.com/poster/ch724_sports_sunday.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="724" start="20250503043000 +0000" stop="20250503050000 +0000">
-		<title>The News</title>
+		<title>News</title>
 		<desc>Watch the latest international top stories, The News every 30 minutes with the emphasis on debate, dialogue, role of cultural differences, analytics of key events all over the world, comments, hot topics of the day, reports.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch724_the_news.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch724_news.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="724" start="20250503050000 +0000" stop="20250503051200 +0000">
-		<title>The News</title>
+		<title>News</title>
 		<desc>Watch the latest international top stories, The News every 30 minutes with the emphasis on debate, dialogue, role of cultural differences, analytics of key events all over the world, comments, hot topics of the day, reports.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch724_the_news.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch724_news.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="724" start="20250503051200 +0000" stop="20250503060000 +0000">
 		<title>The World This Week</title>
@@ -26278,19 +26303,19 @@
 		<icon src="https://poster.starhubgo.com/poster/ch724_the_world_this_week.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="724" start="20250503060000 +0000" stop="20250503063000 +0000">
-		<title>The News</title>
+		<title>News</title>
 		<desc>Watch the latest international top stories, The News every 30 minutes with the emphasis on debate, dialogue, role of cultural differences, analytics of key events all over the world, comments, hot topics of the day, reports.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch724_the_news.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch724_news.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="724" start="20250503063000 +0000" stop="20250503070000 +0000">
-		<title>The News</title>
+		<title>News</title>
 		<desc>Watch the latest international top stories, The News every 30 minutes with the emphasis on debate, dialogue, role of cultural differences, analytics of key events all over the world, comments, hot topics of the day, reports.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch724_the_news.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch724_news.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="724" start="20250503070000 +0000" stop="20250503071500 +0000">
-		<title>The News</title>
+		<title>News</title>
 		<desc>Watch the latest international top stories, The News every 30 minutes with the emphasis on debate, dialogue, role of cultural differences, analytics of key events all over the world, comments, hot topics of the day, reports.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch724_the_news.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch724_news.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="724" start="20250503071500 +0000" stop="20250503073000 +0000">
 		<title>Guest of the day</title>
@@ -26298,19 +26323,19 @@
 		<icon src="https://poster.starhubgo.com/poster/ch724_guest_of_the_day.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="724" start="20250503073000 +0000" stop="20250503080000 +0000">
-		<title>The News</title>
+		<title>News</title>
 		<desc>Watch the latest international top stories, The News every 30 minutes with the emphasis on debate, dialogue, role of cultural differences, analytics of key events all over the world, comments, hot topics of the day, reports.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch724_the_news.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch724_news.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="724" start="20250503080000 +0000" stop="20250503081400 +0000">
-		<title>The News</title>
+		<title>News</title>
 		<desc>Watch the latest international top stories, The News every 30 minutes with the emphasis on debate, dialogue, role of cultural differences, analytics of key events all over the world, comments, hot topics of the day, reports.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch724_the_news.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch724_news.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="724" start="20250503081400 +0000" stop="20250503081500 +0000">
-		<title>The News</title>
+		<title>News</title>
 		<desc>Watch the latest international top stories, The News every 30 minutes with the emphasis on debate, dialogue, role of cultural differences, analytics of key events all over the world, comments, hot topics of the day, reports.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch724_the_news.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch724_news.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="724" start="20250503081500 +0000" stop="20250503083000 +0000">
 		<title>Access Asia</title>
@@ -26318,14 +26343,14 @@
 		<icon src="https://poster.starhubgo.com/poster/ch724_access_asia.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="724" start="20250503083000 +0000" stop="20250503084400 +0000">
-		<title>The News</title>
+		<title>News</title>
 		<desc>Watch the latest international top stories, The News every 30 minutes with the emphasis on debate, dialogue, role of cultural differences, analytics of key events all over the world, comments, hot topics of the day, reports.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch724_the_news.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch724_news.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="724" start="20250503084400 +0000" stop="20250503084500 +0000">
-		<title>The News</title>
+		<title>News</title>
 		<desc>Watch the latest international top stories, The News every 30 minutes with the emphasis on debate, dialogue, role of cultural differences, analytics of key events all over the world, comments, hot topics of the day, reports.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch724_the_news.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch724_news.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="724" start="20250503084500 +0000" stop="20250503085100 +0000">
 		<title>The Observers</title>
@@ -26338,14 +26363,14 @@
 		<icon src="https://poster.starhubgo.com/poster/ch724_focus.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="724" start="20250503090000 +0000" stop="20250503090900 +0000">
-		<title>The News</title>
+		<title>News</title>
 		<desc>Watch the latest international top stories, The News every 30 minutes with the emphasis on debate, dialogue, role of cultural differences, analytics of key events all over the world, comments, hot topics of the day, reports.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch724_the_news.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch724_news.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="724" start="20250503090900 +0000" stop="20250503091000 +0000">
-		<title>The News</title>
+		<title>News</title>
 		<desc>Watch the latest international top stories, The News every 30 minutes with the emphasis on debate, dialogue, role of cultural differences, analytics of key events all over the world, comments, hot topics of the day, reports.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch724_the_news.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch724_news.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="724" start="20250503091000 +0000" stop="20250503093000 +0000">
 		<title>Revisited</title>
@@ -26353,14 +26378,14 @@
 		<icon src="https://poster.starhubgo.com/poster/ch724_revisited.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="724" start="20250503093000 +0000" stop="20250503093900 +0000">
-		<title>The News</title>
+		<title>News</title>
 		<desc>Watch the latest international top stories, The News every 30 minutes with the emphasis on debate, dialogue, role of cultural differences, analytics of key events all over the world, comments, hot topics of the day, reports.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch724_the_news.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch724_news.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="724" start="20250503093900 +0000" stop="20250503094000 +0000">
-		<title>The News</title>
+		<title>News</title>
 		<desc>Watch the latest international top stories, The News every 30 minutes with the emphasis on debate, dialogue, role of cultural differences, analytics of key events all over the world, comments, hot topics of the day, reports.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch724_the_news.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch724_news.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="724" start="20250503094000 +0000" stop="20250503095500 +0000">
 		<title>Le Paris des arts</title>
@@ -26373,14 +26398,14 @@
 		<icon src="https://poster.starhubgo.com/poster/ch724_short_cuts.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="724" start="20250503100000 +0000" stop="20250503101400 +0000">
-		<title>The News</title>
+		<title>News</title>
 		<desc>Watch the latest international top stories, The News every 30 minutes with the emphasis on debate, dialogue, role of cultural differences, analytics of key events all over the world, comments, hot topics of the day, reports.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch724_the_news.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch724_news.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="724" start="20250503101400 +0000" stop="20250503101500 +0000">
-		<title>The News</title>
+		<title>News</title>
 		<desc>Watch the latest international top stories, The News every 30 minutes with the emphasis on debate, dialogue, role of cultural differences, analytics of key events all over the world, comments, hot topics of the day, reports.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch724_the_news.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch724_news.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="724" start="20250503101500 +0000" stop="20250503103000 +0000">
 		<title>Arts24</title>
@@ -26388,14 +26413,14 @@
 		<icon src="https://poster.starhubgo.com/poster/ch724_arts24.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="724" start="20250503103000 +0000" stop="20250503104500 +0000">
-		<title>The News</title>
+		<title>News</title>
 		<desc>Watch the latest international top stories, The News every 30 minutes with the emphasis on debate, dialogue, role of cultural differences, analytics of key events all over the world, comments, hot topics of the day, reports.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch724_the_news.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch724_news.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="724" start="20250503104500 +0000" stop="20250503104600 +0000">
-		<title>The News</title>
+		<title>News</title>
 		<desc>Watch the latest international top stories, The News every 30 minutes with the emphasis on debate, dialogue, role of cultural differences, analytics of key events all over the world, comments, hot topics of the day, reports.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch724_the_news.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch724_news.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="724" start="20250503104600 +0000" stop="20250503105100 +0000">
 		<title>Focus</title>
@@ -26408,9 +26433,9 @@
 		<icon src="https://poster.starhubgo.com/poster/ch724_sports.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="724" start="20250503110000 +0000" stop="20250503111500 +0000">
-		<title>The News</title>
+		<title>News</title>
 		<desc>Watch the latest international top stories, The News every 30 minutes with the emphasis on debate, dialogue, role of cultural differences, analytics of key events all over the world, comments, hot topics of the day, reports.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch724_the_news.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch724_news.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="724" start="20250503111500 +0000" stop="20250503113000 +0000">
 		<title>Guest of the day</title>
@@ -26418,9 +26443,9 @@
 		<icon src="https://poster.starhubgo.com/poster/ch724_guest_of_the_day.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="724" start="20250503113000 +0000" stop="20250503114500 +0000">
-		<title>The News</title>
+		<title>News</title>
 		<desc>Watch the latest international top stories, The News every 30 minutes with the emphasis on debate, dialogue, role of cultural differences, analytics of key events all over the world, comments, hot topics of the day, reports.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch724_the_news.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch724_news.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="724" start="20250503114500 +0000" stop="20250503120000 +0000">
 		<title>The 51 Percent</title>
@@ -26428,9 +26453,9 @@
 		<icon src="https://poster.starhubgo.com/poster/ch724_the_51_percent.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="724" start="20250503120000 +0000" stop="20250503121500 +0000">
-		<title>The News</title>
+		<title>News</title>
 		<desc>Watch the latest international top stories, The News every 30 minutes with the emphasis on debate, dialogue, role of cultural differences, analytics of key events all over the world, comments, hot topics of the day, reports.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch724_the_news.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch724_news.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="724" start="20250503121500 +0000" stop="20250503123000 +0000">
 		<title>A Week in France</title>
@@ -26438,9 +26463,9 @@
 		<icon src="https://poster.starhubgo.com/poster/ch724_a_week_in_france.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="724" start="20250503123000 +0000" stop="20250503124500 +0000">
-		<title>The News</title>
+		<title>News</title>
 		<desc>Watch the latest international top stories, The News every 30 minutes with the emphasis on debate, dialogue, role of cultural differences, analytics of key events all over the world, comments, hot topics of the day, reports.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch724_the_news.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch724_news.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="724" start="20250503124500 +0000" stop="20250503130000 +0000">
 		<title>The Reporter's Week</title>
@@ -26448,14 +26473,14 @@
 		<icon src="https://poster.starhubgo.com/poster/ch724_the_reporters_week.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="724" start="20250503130000 +0000" stop="20250503130900 +0000">
-		<title>The News</title>
+		<title>News</title>
 		<desc>Watch the latest international top stories, The News every 30 minutes with the emphasis on debate, dialogue, role of cultural differences, analytics of key events all over the world, comments, hot topics of the day, reports.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch724_the_news.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch724_news.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="724" start="20250503130900 +0000" stop="20250503131000 +0000">
-		<title>The News</title>
+		<title>News</title>
 		<desc>Watch the latest international top stories, The News every 30 minutes with the emphasis on debate, dialogue, role of cultural differences, analytics of key events all over the world, comments, hot topics of the day, reports.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch724_the_news.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch724_news.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="724" start="20250503131000 +0000" stop="20250503132500 +0000">
 		<title>Le Paris des arts</title>
@@ -26468,14 +26493,14 @@
 		<icon src="https://poster.starhubgo.com/poster/ch724_short_cuts.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="724" start="20250503133000 +0000" stop="20250503133900 +0000">
-		<title>The News</title>
+		<title>News</title>
 		<desc>Watch the latest international top stories, The News every 30 minutes with the emphasis on debate, dialogue, role of cultural differences, analytics of key events all over the world, comments, hot topics of the day, reports.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch724_the_news.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch724_news.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="724" start="20250503133900 +0000" stop="20250503134000 +0000">
-		<title>The News</title>
+		<title>News</title>
 		<desc>Watch the latest international top stories, The News every 30 minutes with the emphasis on debate, dialogue, role of cultural differences, analytics of key events all over the world, comments, hot topics of the day, reports.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch724_the_news.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch724_news.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="724" start="20250503134000 +0000" stop="20250503140000 +0000">
 		<title>Revisited</title>
@@ -26483,14 +26508,14 @@
 		<icon src="https://poster.starhubgo.com/poster/ch724_revisited.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="724" start="20250503140000 +0000" stop="20250503141400 +0000">
-		<title>The News</title>
+		<title>News</title>
 		<desc>Watch the latest international top stories, The News every 30 minutes with the emphasis on debate, dialogue, role of cultural differences, analytics of key events all over the world, comments, hot topics of the day, reports.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch724_the_news.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch724_news.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="724" start="20250503141400 +0000" stop="20250503141500 +0000">
-		<title>The News</title>
+		<title>News</title>
 		<desc>Watch the latest international top stories, The News every 30 minutes with the emphasis on debate, dialogue, role of cultural differences, analytics of key events all over the world, comments, hot topics of the day, reports.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch724_the_news.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch724_news.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="724" start="20250503141500 +0000" stop="20250503142100 +0000">
 		<title>French Connections</title>
@@ -26503,14 +26528,14 @@
 		<icon src="https://poster.starhubgo.com/poster/ch724_fashion.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="724" start="20250503143000 +0000" stop="20250503144400 +0000">
-		<title>The News</title>
+		<title>News</title>
 		<desc>Watch the latest international top stories, The News every 30 minutes with the emphasis on debate, dialogue, role of cultural differences, analytics of key events all over the world, comments, hot topics of the day, reports.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch724_the_news.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch724_news.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="724" start="20250503144400 +0000" stop="20250503144500 +0000">
-		<title>The News</title>
+		<title>News</title>
 		<desc>Watch the latest international top stories, The News every 30 minutes with the emphasis on debate, dialogue, role of cultural differences, analytics of key events all over the world, comments, hot topics of the day, reports.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch724_the_news.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch724_news.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="724" start="20250503144500 +0000" stop="20250503150000 +0000">
 		<title>Arts24</title>
@@ -26518,14 +26543,14 @@
 		<icon src="https://poster.starhubgo.com/poster/ch724_arts24.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="724" start="20250503150000 +0000" stop="20250503151400 +0000">
-		<title>The News</title>
+		<title>News</title>
 		<desc>Watch the latest international top stories, The News every 30 minutes with the emphasis on debate, dialogue, role of cultural differences, analytics of key events all over the world, comments, hot topics of the day, reports.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch724_the_news.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch724_news.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="724" start="20250503151400 +0000" stop="20250503151500 +0000">
-		<title>The News</title>
+		<title>News</title>
 		<desc>Watch the latest international top stories, The News every 30 minutes with the emphasis on debate, dialogue, role of cultural differences, analytics of key events all over the world, comments, hot topics of the day, reports.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch724_the_news.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch724_news.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="724" start="20250503151500 +0000" stop="20250503153000 +0000">
 		<title>Across Africa</title>
@@ -26533,14 +26558,14 @@
 		<icon src="https://poster.starhubgo.com/poster/ch724_across_africa.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="724" start="20250503153000 +0000" stop="20250503154400 +0000">
-		<title>The News</title>
+		<title>News</title>
 		<desc>Watch the latest international top stories, The News every 30 minutes with the emphasis on debate, dialogue, role of cultural differences, analytics of key events all over the world, comments, hot topics of the day, reports.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch724_the_news.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch724_news.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="724" start="20250503154400 +0000" stop="20250503154500 +0000">
-		<title>The News</title>
+		<title>News</title>
 		<desc>Watch the latest international top stories, The News every 30 minutes with the emphasis on debate, dialogue, role of cultural differences, analytics of key events all over the world, comments, hot topics of the day, reports.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch724_the_news.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch724_news.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="724" start="20250503154500 +0000" stop="20250503160000 +0000">
 		<title>Tete a tete</title>
@@ -26548,9 +26573,9 @@
 		<icon src="https://poster.starhubgo.com/poster/ch724_tete_a_tete.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="724" start="20250503160000 +0000" stop="20250503161500 +0000">
-		<title>The News</title>
+		<title>News</title>
 		<desc>Watch the latest international top stories, The News every 30 minutes with the emphasis on debate, dialogue, role of cultural differences, analytics of key events all over the world, comments, hot topics of the day, reports.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch724_the_news.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch724_news.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="724" start="20250503161500 +0000" stop="20250503163000 +0000">
 		<title>Top Story</title>
@@ -26558,9 +26583,9 @@
 		<icon src="https://poster.starhubgo.com/poster/ch724_top_story.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="724" start="20250503163000 +0000" stop="20250503164500 +0000">
-		<title>The News</title>
+		<title>News</title>
 		<desc>Watch the latest international top stories, The News every 30 minutes with the emphasis on debate, dialogue, role of cultural differences, analytics of key events all over the world, comments, hot topics of the day, reports.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch724_the_news.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch724_news.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="724" start="20250503164500 +0000" stop="20250503170000 +0000">
 		<title>Global Grid</title>
@@ -26568,14 +26593,14 @@
 		<icon src="https://poster.starhubgo.com/poster/ch724_global_grid.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="724" start="20250503170000 +0000" stop="20250503171300 +0000">
-		<title>The News</title>
+		<title>News</title>
 		<desc>Watch the latest international top stories, The News every 30 minutes with the emphasis on debate, dialogue, role of cultural differences, analytics of key events all over the world, comments, hot topics of the day, reports.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch724_the_news.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch724_news.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="724" start="20250503171300 +0000" stop="20250503171500 +0000">
-		<title>The News</title>
+		<title>News</title>
 		<desc>Watch the latest international top stories, The News every 30 minutes with the emphasis on debate, dialogue, role of cultural differences, analytics of key events all over the world, comments, hot topics of the day, reports.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch724_the_news.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch724_news.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="724" start="20250503171500 +0000" stop="20250503173000 +0000">
 		<title>Talking Europe</title>
@@ -26583,14 +26608,14 @@
 		<icon src="https://poster.starhubgo.com/poster/ch724_talking_europe.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="724" start="20250503173000 +0000" stop="20250503174300 +0000">
-		<title>The News</title>
+		<title>News</title>
 		<desc>Watch the latest international top stories, The News every 30 minutes with the emphasis on debate, dialogue, role of cultural differences, analytics of key events all over the world, comments, hot topics of the day, reports.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch724_the_news.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch724_news.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="724" start="20250503174300 +0000" stop="20250503174500 +0000">
-		<title>The News</title>
+		<title>News</title>
 		<desc>Watch the latest international top stories, The News every 30 minutes with the emphasis on debate, dialogue, role of cultural differences, analytics of key events all over the world, comments, hot topics of the day, reports.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch724_the_news.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch724_news.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="724" start="20250503174500 +0000" stop="20250503180000 +0000">
 		<title>Talking Europe</title>
@@ -26598,14 +26623,14 @@
 		<icon src="https://poster.starhubgo.com/poster/ch724_talking_europe.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="724" start="20250503180000 +0000" stop="20250503181500 +0000">
-		<title>The News</title>
+		<title>News</title>
 		<desc>Watch the latest international top stories, The News every 30 minutes with the emphasis on debate, dialogue, role of cultural differences, analytics of key events all over the world, comments, hot topics of the day, reports.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch724_the_news.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch724_news.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="724" start="20250503181500 +0000" stop="20250503181600 +0000">
-		<title>The News</title>
+		<title>News</title>
 		<desc>Watch the latest international top stories, The News every 30 minutes with the emphasis on debate, dialogue, role of cultural differences, analytics of key events all over the world, comments, hot topics of the day, reports.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch724_the_news.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch724_news.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="724" start="20250503181600 +0000" stop="20250503182200 +0000">
 		<title>French Connections</title>
@@ -26618,14 +26643,14 @@
 		<icon src="https://poster.starhubgo.com/poster/ch724_focus.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="724" start="20250503183000 +0000" stop="20250503184500 +0000">
-		<title>The News</title>
+		<title>News</title>
 		<desc>Watch the latest international top stories, The News every 30 minutes with the emphasis on debate, dialogue, role of cultural differences, analytics of key events all over the world, comments, hot topics of the day, reports.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch724_the_news.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch724_news.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="724" start="20250503184500 +0000" stop="20250503184600 +0000">
-		<title>The News</title>
+		<title>News</title>
 		<desc>Watch the latest international top stories, The News every 30 minutes with the emphasis on debate, dialogue, role of cultural differences, analytics of key events all over the world, comments, hot topics of the day, reports.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch724_the_news.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch724_news.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="724" start="20250503184600 +0000" stop="20250503190000 +0000">
 		<title>France In Focus</title>
@@ -26633,9 +26658,9 @@
 		<icon src="https://poster.starhubgo.com/poster/ch724_france_in_focus.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="724" start="20250503190000 +0000" stop="20250503191500 +0000">
-		<title>The News</title>
+		<title>News</title>
 		<desc>Watch the latest international top stories, The News every 30 minutes with the emphasis on debate, dialogue, role of cultural differences, analytics of key events all over the world, comments, hot topics of the day, reports.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch724_the_news.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch724_news.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="724" start="20250503191500 +0000" stop="20250503192100 +0000">
 		<title>Global Grid</title>
@@ -26648,9 +26673,9 @@
 		<icon src="https://poster.starhubgo.com/poster/ch724_sports_sunday.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="724" start="20250503193000 +0000" stop="20250503194500 +0000">
-		<title>The News</title>
+		<title>News</title>
 		<desc>Watch the latest international top stories, The News every 30 minutes with the emphasis on debate, dialogue, role of cultural differences, analytics of key events all over the world, comments, hot topics of the day, reports.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch724_the_news.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch724_news.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="724" start="20250503194500 +0000" stop="20250503200000 +0000">
 		<title>A Week in France</title>
@@ -26658,9 +26683,9 @@
 		<icon src="https://poster.starhubgo.com/poster/ch724_a_week_in_france.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="724" start="20250503200000 +0000" stop="20250503201500 +0000">
-		<title>The News</title>
+		<title>News</title>
 		<desc>Watch the latest international top stories, The News every 30 minutes with the emphasis on debate, dialogue, role of cultural differences, analytics of key events all over the world, comments, hot topics of the day, reports.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch724_the_news.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch724_news.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="724" start="20250503201500 +0000" stop="20250503203000 +0000">
 		<title>Reporters</title>
@@ -26668,9 +26693,9 @@
 		<icon src="https://poster.starhubgo.com/poster/ch724_reporters.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="724" start="20250503203000 +0000" stop="20250503204500 +0000">
-		<title>The News</title>
+		<title>News</title>
 		<desc>Watch the latest international top stories, The News every 30 minutes with the emphasis on debate, dialogue, role of cultural differences, analytics of key events all over the world, comments, hot topics of the day, reports.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch724_the_news.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch724_news.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="724" start="20250503204500 +0000" stop="20250503210000 +0000">
 		<title>The Reporter's Week</title>
@@ -26678,14 +26703,14 @@
 		<icon src="https://poster.starhubgo.com/poster/ch724_the_reporters_week.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="724" start="20250503210000 +0000" stop="20250503211500 +0000">
-		<title>The News</title>
+		<title>News</title>
 		<desc>Watch the latest international top stories, The News every 30 minutes with the emphasis on debate, dialogue, role of cultural differences, analytics of key events all over the world, comments, hot topics of the day, reports.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch724_the_news.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch724_news.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="724" start="20250503211500 +0000" stop="20250503211600 +0000">
-		<title>The News</title>
+		<title>News</title>
 		<desc>Watch the latest international top stories, The News every 30 minutes with the emphasis on debate, dialogue, role of cultural differences, analytics of key events all over the world, comments, hot topics of the day, reports.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch724_the_news.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch724_news.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="724" start="20250503211600 +0000" stop="20250503213000 +0000">
 		<title>Sports Sunday</title>
@@ -26693,14 +26718,14 @@
 		<icon src="https://poster.starhubgo.com/poster/ch724_sports_sunday.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="724" start="20250503213000 +0000" stop="20250503214500 +0000">
-		<title>The News</title>
+		<title>News</title>
 		<desc>Watch the latest international top stories, The News every 30 minutes with the emphasis on debate, dialogue, role of cultural differences, analytics of key events all over the world, comments, hot topics of the day, reports.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch724_the_news.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch724_news.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="724" start="20250503214500 +0000" stop="20250503214600 +0000">
-		<title>The News</title>
+		<title>News</title>
 		<desc>Watch the latest international top stories, The News every 30 minutes with the emphasis on debate, dialogue, role of cultural differences, analytics of key events all over the world, comments, hot topics of the day, reports.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch724_the_news.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch724_news.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="724" start="20250503214600 +0000" stop="20250503220000 +0000">
 		<title>Arts24</title>
@@ -26708,9 +26733,9 @@
 		<icon src="https://poster.starhubgo.com/poster/ch724_arts24.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="724" start="20250503220000 +0000" stop="20250503221500 +0000">
-		<title>The News</title>
+		<title>News</title>
 		<desc>Watch the latest international top stories, The News every 30 minutes with the emphasis on debate, dialogue, role of cultural differences, analytics of key events all over the world, comments, hot topics of the day, reports.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch724_the_news.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch724_news.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="724" start="20250503221500 +0000" stop="20250503222100 +0000">
 		<title>French Connections</title>
@@ -26723,9 +26748,9 @@
 		<icon src="https://poster.starhubgo.com/poster/ch724_fashion.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="724" start="20250503223000 +0000" stop="20250503224500 +0000">
-		<title>The News</title>
+		<title>News</title>
 		<desc>Watch the latest international top stories, The News every 30 minutes with the emphasis on debate, dialogue, role of cultural differences, analytics of key events all over the world, comments, hot topics of the day, reports.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch724_the_news.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch724_news.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="724" start="20250503224500 +0000" stop="20250503230000 +0000">
 		<title>Tete a tete</title>
@@ -26733,9 +26758,9 @@
 		<icon src="https://poster.starhubgo.com/poster/ch724_tete_a_tete.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="724" start="20250503230000 +0000" stop="20250503231500 +0000">
-		<title>The News</title>
+		<title>News</title>
 		<desc>Watch the latest international top stories, The News every 30 minutes with the emphasis on debate, dialogue, role of cultural differences, analytics of key events all over the world, comments, hot topics of the day, reports.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch724_the_news.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch724_news.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="724" start="20250503231500 +0000" stop="20250503232100 +0000">
 		<title>The Observers</title>
@@ -26748,9 +26773,9 @@
 		<icon src="https://poster.starhubgo.com/poster/ch724_focus.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="724" start="20250503233000 +0000" stop="20250503234500 +0000">
-		<title>The News</title>
+		<title>News</title>
 		<desc>Watch the latest international top stories, The News every 30 minutes with the emphasis on debate, dialogue, role of cultural differences, analytics of key events all over the world, comments, hot topics of the day, reports.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch724_the_news.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch724_news.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="724" start="20250503234500 +0000" stop="20250504000000 +0000">
 		<title>Arts24</title>
@@ -26758,9 +26783,9 @@
 		<icon src="https://poster.starhubgo.com/poster/ch724_arts24.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="724" start="20250504000000 +0000" stop="20250504001200 +0000">
-		<title>The News</title>
+		<title>News</title>
 		<desc>Watch the latest international top stories, The News every 30 minutes with the emphasis on debate, dialogue, role of cultural differences, analytics of key events all over the world, comments, hot topics of the day, reports.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch724_the_news.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch724_news.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="724" start="20250504001200 +0000" stop="20250504003000 +0000">
 		<title>Le Paris des arts</title>
@@ -28722,11 +28747,6 @@
 		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="811" start="20250502205600 +0000" stop="20250502210000 +0000">
-		<title>World Weather</title>
-		<desc>Weather information of the different areas around the world.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
 	<programme channel="811" start="20250502210000 +0000" stop="20250502211000 +0000">
 		<title>News</title>
 		<desc>The latest up-to-date news from Tokyo.</desc>
@@ -28750,11 +28770,6 @@
 	<programme channel="811" start="20250502223000 +0000" stop="20250502225300 +0000">
 		<title>Holiday Interview "Imada Mio"</title>
 		<desc>Interviewing public figures from various fields about their starting point and how it remains etched into their memory.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="811" start="20250502225300 +0000" stop="20250502225500 +0000">
-		<title>Mini Program</title>
-		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="811" start="20250502225500 +0000" stop="20250502230000 +0000">
@@ -28937,9 +28952,14 @@
 		<desc>Weather information of the different areas around the world.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="811" start="20250503115000 +0000" stop="20250503120500 +0000">
+	<programme channel="811" start="20250503115000 +0000" stop="20250503120000 +0000">
 		<title>News</title>
 		<desc>The latest up-to-date news from Tokyo.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="811" start="20250503120000 +0000" stop="20250503120500 +0000">
+		<title>News &amp; Weather</title>
+		<desc>The latest up-to-date news and nationwide weather information.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="811" start="20250503120500 +0000" stop="20250503125500 +0000">
@@ -29023,7 +29043,7 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="811" start="20250503184500 +0000" stop="20250503193500 +0000">
-		<title>NHK Special"Human Body III" Part 1:The Origin of Life, Wonderland inside Cells(R</title>
+		<title>NHK Special "Human Body III" Part 1: The Origin of Life, Wonderland inside Cells</title>
 		<desc>A documentary based on timely subjects famous for its dignity and in-depth reporting.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
@@ -29110,11 +29130,6 @@
 	<programme channel="811" start="20250504000000 +0000" stop="20250504010000 +0000">
 		<title>History Detective: 100 Years of Broadcasting in Japan Encore "Goto Shinpei"</title>
 		<desc>A historical documentary program starring an actor Sato Jiro as a boss of a history detective agency. Conducting on-site investigations and scientific simulations, Jiro and his detective team dig into and uncover the truth from historic mystery.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="811" start="20250504010000 +0000" stop="20250504010500 +0000">
-		<title>News &amp; Weather</title>
-		<desc>The latest up-to-date news and nationwide weather information.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="811" start="20250504010500 +0000" stop="20250504015000 +0000">
@@ -29327,9 +29342,14 @@
 		<desc>A Japanese hospital has succeeded in having chronic spinal cord injury patients walk without crutches in daily life by using two types of robotic devices in rehabilitation.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="812" start="20250502193000 +0000" stop="20250502200000 +0000">
-		<title>NHK World Selection</title>
-		<desc>A selection of acclaimed programmes from NHK's domestic channels dubbed into English.</desc>
+	<programme channel="812" start="20250502193000 +0000" stop="20250502195000 +0000">
+		<title>Time-Lapse Journey</title>
+		<desc>Journey to the great northern land of Japan: Hokkaido. Its scenery changes dramatically throughout the year. Witness the beauty of Hokkaido through time-lapse photography.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="812" start="20250502195000 +0000" stop="20250502200000 +0000">
+		<title>Nun's Seasonal Calendar</title>
+		<desc>In this episode, we learn about rikka and shoman, two dates of early summer. The temple chefs teach us how to make kimpira stir-fry with itadori and mehari-zushi (eye-popping sushi).</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250502200000 +0000" stop="20250502203000 +0000">
@@ -29388,8 +29408,8 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250503001000 +0000" stop="20250503010000 +0000">
-		<title>Documentary 360</title>
-		<desc>This flagship documentary series offers must-see episodes on politics, the economy, social trends, science and the environment in Japan and beyond.</desc>
+		<title>Witnesses to Cambodian Genocide</title>
+		<desc>Fifty years after the Cambodian Genocide, survivors - both victims and those involved in the killings - reflect on how and why Cambodians turned against one another and on the deep scars left behind.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250503010000 +0000" stop="20250503011000 +0000">
@@ -29453,8 +29473,8 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250503045500 +0000" stop="20250503050000 +0000">
-		<title>NHK World TV Special Programme</title>
-		<desc>NHK World-Japan presents news, current affairs, and documentaries focusing on Japan and Asia.</desc>
+		<title>Treasure Box Japan: Osaka</title>
+		<desc>Famed for the speed and power of its float pulling, the Kishiwada Danjiri Festival is a dynamic spectacle - this episode highlights the two-day festival and the passion of those involved.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250503050000 +0000" stop="20250503051000 +0000">
@@ -29473,8 +29493,8 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250503055500 +0000" stop="20250503060000 +0000">
-		<title>Short Programme</title>
-		<desc>NHK World-Japan presents a variety of short programmes focusing on Japan and Asia.</desc>
+		<title>Designing Thread</title>
+		<desc>Yamagata / Nakui Naoko (Book Designer): Thread for traditional 'shina' fabric takes a year to make - ultrafine mohair is also made here with a 60-year-old device. Nakui admires the hunt to improve.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250503060000 +0000" stop="20250503061000 +0000">
@@ -29483,8 +29503,8 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250503061000 +0000" stop="20250503070000 +0000">
-		<title>Documentary 360</title>
-		<desc>This flagship documentary series offers must-see episodes on politics, the economy, social trends, science and the environment in Japan and beyond.</desc>
+		<title>Witnesses to Cambodian Genocide</title>
+		<desc>Fifty years after the Cambodian Genocide, survivors - both victims and those involved in the killings - reflect on how and why Cambodians turned against one another and on the deep scars left behind.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250503070000 +0000" stop="20250503071000 +0000">
@@ -29513,8 +29533,8 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250503085500 +0000" stop="20250503090000 +0000">
-		<title>NHK World TV Special Programme</title>
-		<desc>NHK World-Japan presents news, current affairs, and documentaries focusing on Japan and Asia.</desc>
+		<title>Treasure Box Japan: Osaka</title>
+		<desc>Famed for the speed and power of its float pulling, the Kishiwada Danjiri Festival is a dynamic spectacle - this episode highlights the two-day festival and the passion of those involved.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250503090000 +0000" stop="20250503091000 +0000">
@@ -29568,8 +29588,8 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250503115500 +0000" stop="20250503120000 +0000">
-		<title>Short Programme</title>
-		<desc>NHK World-Japan presents a variety of short programmes focusing on Japan and Asia.</desc>
+		<title>Designing Thread</title>
+		<desc>Yamagata / Nakui Naoko (Book Designer): Thread for traditional 'shina' fabric takes a year to make - ultrafine mohair is also made here with a 60-year-old device. Nakui admires the hunt to improve.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250503120000 +0000" stop="20250503121000 +0000">
@@ -29578,8 +29598,8 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250503121000 +0000" stop="20250503130000 +0000">
-		<title>Documentary 360</title>
-		<desc>This flagship documentary series offers must-see episodes on politics, the economy, social trends, science and the environment in Japan and beyond.</desc>
+		<title>Witnesses to Cambodian Genocide</title>
+		<desc>Fifty years after the Cambodian Genocide, survivors - both victims and those involved in the killings - reflect on how and why Cambodians turned against one another and on the deep scars left behind.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250503130000 +0000" stop="20250503131000 +0000">
@@ -29648,8 +29668,8 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250503165500 +0000" stop="20250503170000 +0000">
-		<title>NHK World TV Special Programme</title>
-		<desc>NHK World-Japan presents news, current affairs, and documentaries focusing on Japan and Asia.</desc>
+		<title>Treasure Box Japan: Osaka</title>
+		<desc>Famed for the speed and power of its float pulling, the Kishiwada Danjiri Festival is a dynamic spectacle - this episode highlights the two-day festival and the passion of those involved.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250503170000 +0000" stop="20250503171000 +0000">
@@ -29668,8 +29688,8 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250503175500 +0000" stop="20250503180000 +0000">
-		<title>Short Programme</title>
-		<desc>NHK World-Japan presents a variety of short programmes focusing on Japan and Asia.</desc>
+		<title>Designing Thread</title>
+		<desc>Yamagata / Nakui Naoko (Book Designer): Thread for traditional 'shina' fabric takes a year to make - ultrafine mohair is also made here with a 60-year-old device. Nakui admires the hunt to improve.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250503180000 +0000" stop="20250503181000 +0000">
@@ -29678,8 +29698,8 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250503181000 +0000" stop="20250503190000 +0000">
-		<title>Documentary 360</title>
-		<desc>This flagship documentary series offers must-see episodes on politics, the economy, social trends, science and the environment in Japan and beyond.</desc>
+		<title>Witnesses to Cambodian Genocide</title>
+		<desc>Fifty years after the Cambodian Genocide, survivors - both victims and those involved in the killings - reflect on how and why Cambodians turned against one another and on the deep scars left behind.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250503190000 +0000" stop="20250503191000 +0000">
@@ -29748,8 +29768,8 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250503225500 +0000" stop="20250503230000 +0000">
-		<title>Short Programme</title>
-		<desc>NHK World-Japan presents a variety of short programmes focusing on Japan and Asia.</desc>
+		<title>Designing Thread</title>
+		<desc>Yamagata / Nakui Naoko (Book Designer): Thread for traditional 'shina' fabric takes a year to make - ultrafine mohair is also made here with a 60-year-old device. Nakui admires the hunt to improve.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250503230000 +0000" stop="20250503231000 +0000">
@@ -29768,8 +29788,8 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250503235500 +0000" stop="20250504000000 +0000">
-		<title>NHK World TV Special Programme</title>
-		<desc>NHK World-Japan presents news, current affairs, and documentaries focusing on Japan and Asia.</desc>
+		<title>Treasure Box Japan: Osaka</title>
+		<desc>Famed for the speed and power of its float pulling, the Kishiwada Danjiri Festival is a dynamic spectacle - this episode highlights the two-day festival and the passion of those involved.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250504000000 +0000" stop="20250504001000 +0000">
