@@ -1542,12 +1542,12 @@
 		<desc>Arun gives up on his dream of becoming a filmmaker and takes up the job of a police officer after his father's death. He then attempts to track down a psychotic killer who targets schoolgirls.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/105_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="105" start="20250504170000 +0000" stop="20250504173000 +0000">
+	<programme channel="105" start="20250504170000 +0000" stop="20250504172500 +0000">
 		<title>Seithi - EP 33</title>
 		<desc>Tamil Seithi focuses primarily on local and international news, information and current affairs. _x000D_Catch the online news portal at http://seithi.mediacorp.sg/</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/105_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="105" start="20250504173000 +0000" stop="20250505010000 +0000">
+	<programme channel="105" start="20250504172500 +0000" stop="20250505010000 +0000">
 		<title>End of transmission</title>
 		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_channels2/105_1920x1080_HTV.png?w=341&amp;h=192" />
@@ -10782,10 +10782,15 @@
 		<desc>Superbike World Championship also known as WorldSBK, is a silhouette road racing series based on heavily modified production sports motorcycles.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_sbk_motul.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="210" start="20250505210000 +0000" stop="20250505221500 +0000">
+	<programme channel="210" start="20250505210000 +0000" stop="20250505220000 +0000">
 		<title>WorldSBK 2025: Rd4 Acerbis Italian Round</title>
 		<desc>Superbike World Championship also known as WorldSBK, is a silhouette road racing series based on heavily modified production sports motorcycles.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_sbk_motul.jpg?w=960&amp;h=540" />
+	</programme>
+	<programme channel="210" start="20250505220000 +0000" stop="20250505221500 +0000">
+		<title>Thai League 1 24/25 Matchday 22 Highlights Buriram United vs BG Pathum United</title>
+		<desc>Bringing together prominent professional players from the region, Thai League 1 delivers weekly thrilling matches with 16 teams competing for the crown.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch210_spotv2_logo.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="210" start="20250505221500 +0000" stop="20250505230500 +0000">
 		<title>WorldWCR2025: Rd2 Acerbis Italian Round</title>
@@ -11442,20 +11447,30 @@
 		<desc>Official magazine show blends match highlights and interviews, epic moments and fascinating features from across Europe</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch214_UCL_magazine_show.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="214" start="20250505101000 +0000" stop="20250505121000 +0000">
+	<programme channel="214" start="20250505101000 +0000" stop="20250505131000 +0000">
 		<title>Arsenal TV Classic 2024/25 Arsenal vs Hull - FA Cup 2013/14</title>
 		<desc>Enjoy every classic Gunners match encounter frm Arsenal TV on beIN Sports</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch214_arsenal_tv.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="214" start="20250505121000 +0000" stop="20250505141000 +0000">
+	<programme channel="214" start="20250505131000 +0000" stop="20250505151000 +0000">
 		<title>Arsenal TV 2024/25 Arsenal vs Bournemouth</title>
 		<desc>Enjoy every Arsenal match from the Premier League, FA Cup and Carabao Cup and friendlies, from Arsenal TV on beIN SPORTS</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch214_arsenal_tv.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="214" start="20250505141000 +0000" stop="20250505160000 +0000">
-		<title>UEFA Champions League 2024/25 Barcelona vs Inter - SF, 1st Leg</title>
-		<desc>The most prestigious tournament in the world contested by top-division elite European clubs</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch214_UCL_full_match.jpg?w=341&amp;h=192" />
+	<programme channel="214" start="20250505151000 +0000" stop="20250505152000 +0000">
+		<title>UCL Classic Matches Barcelona vs Arsenal (2005/06)</title>
+		<desc>Take a walk back in time and relive some of the most dramatic and remarkable moments in the UEFA Champions League</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch214_UCL_classic_matches.jpg?w=960&amp;h=540" />
+	</programme>
+	<programme channel="214" start="20250505152000 +0000" stop="20250505153000 +0000">
+		<title>UCL Classic Matches Barcelona vs Lyon (2001/12)</title>
+		<desc>Take a walk back in time and relive some of the most dramatic and remarkable moments in the UEFA Champions League</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch214_UCL_classic_matches.jpg?w=960&amp;h=540" />
+	</programme>
+	<programme channel="214" start="20250505153000 +0000" stop="20250505160000 +0000">
+		<title>UEFA Champions League Magazine Show 2024/25</title>
+		<desc>Official magazine show blends match highlights and interviews, epic moments and fascinating features from across Europe</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch214_UCL_magazine_show.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="214" start="20250505160000 +0000" stop="20250505175000 +0000">
 		<title>UEFA Conference League 2024/25 Real Betis vs Fiorentina - SF, 1st Leg</title>
@@ -23807,6 +23822,76 @@
 		<desc>Harris Faulkner continues the conversation on the days news with roundtable discussions and interviews</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch241_TheFaulknerFocus.jpg?w=341&amp;h=192" />
 	</programme>
+	<programme channel="703" start="20250504160000 +0000" stop="20250504163000 +0000">
+		<title>News Hour with Jonathan Samuels</title>
+		<desc>A comprehensive round-up of the days biggest news stories, including analysis and insight from Sky News correspondents.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/703_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="703" start="20250504163000 +0000" stop="20250504170000 +0000">
+		<title>News Hour with Jonathan Samuels</title>
+		<desc>A comprehensive round-up of the days biggest news stories, including analysis and insight from Sky News correspondents.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/703_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="703" start="20250504170000 +0000" stop="20250504173000 +0000">
+		<title>News Hour with Jonathan Samuels</title>
+		<desc>A comprehensive round-up of the days biggest news stories, including analysis and insight from Sky News correspondents.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/703_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="703" start="20250504173000 +0000" stop="20250504180000 +0000">
+		<title>News Hour with Jonathan Samuels</title>
+		<desc>A comprehensive round-up of the days biggest news stories, including analysis and insight from Sky News correspondents.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/703_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="703" start="20250504180000 +0000" stop="20250504183000 +0000">
+		<title>Sky News</title>
+		<desc>A comprehensive round-up of the main news stories from across the UK and around the world.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/703_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="703" start="20250504183000 +0000" stop="20250504190000 +0000">
+		<title>Trevor Phillips: Highlights</title>
+		<desc>Another chance to see the key interviews from Sunday Morning with Trevor Phillips.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/703_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="703" start="20250504190000 +0000" stop="20250504193000 +0000">
+		<title>Sky News</title>
+		<desc>A comprehensive round-up of the main news stories of the day from the UK and around the world.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/703_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="703" start="20250504193000 +0000" stop="20250504200000 +0000">
+		<title>UK Tonight Highlights</title>
+		<desc>Another chance to see the big interviews this week on UK Tonight with Sarah-Jane Mee.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/703_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="703" start="20250504200000 +0000" stop="20250504203000 +0000">
+		<title>Sky News</title>
+		<desc>A comprehensive round-up of the main news stories of the day from the UK and around the world.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/703_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="703" start="20250504203000 +0000" stop="20250504210000 +0000">
+		<title>The World with Yalda Hakim</title>
+		<desc>Eyewitness reports, interviews and analysis on the big stories around the world with Yalda Hakim.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/703_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="703" start="20250504210000 +0000" stop="20250504213000 +0000">
+		<title>News at 10 with Gillian Joseph</title>
+		<desc>A comprehensive round-up of the main news stories of the day from the UK and around the world.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/703_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="703" start="20250504213000 +0000" stop="20250504220000 +0000">
+		<title>Press Preview</title>
+		<desc>A lively look at some of the stories that are featuring in tomorrow morning's newspapers.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/703_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="703" start="20250504220000 +0000" stop="20250504223000 +0000">
+		<title>Sky News</title>
+		<desc>The main news of the day with reports and analysis from Sky News correspondents in the UK and around the world.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/703_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="703" start="20250504223000 +0000" stop="20250504230000 +0000">
+		<title>Press Preview</title>
+		<desc>A review of tomorrow's newspapers with a panel of guests and passionate debate about the stories they cover.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/703_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
 	<programme channel="703" start="20250504230000 +0000" stop="20250505000000 +0000">
 		<title>Sky News</title>
 		<desc>News reports on the big stories from the UK and around the world.</desc>
@@ -24025,6 +24110,136 @@
 	<programme channel="703" start="20250506000000 +0000" stop="20250506010000 +0000">
 		<title>Sky News</title>
 		<desc>A round up of all the latest news from the UK and around the world, including the Press Preview.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/703_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="703" start="20250506010000 +0000" stop="20250506020000 +0000">
+		<title>Sky News</title>
+		<desc>A round up of all the latest news from the UK and around the world, including the Press Preview.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/703_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="703" start="20250506020000 +0000" stop="20250506030000 +0000">
+		<title>Sky News</title>
+		<desc>A round up of all the latest news from the UK and around the world, including the Press Preview.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/703_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="703" start="20250506030000 +0000" stop="20250506040000 +0000">
+		<title>Sky News</title>
+		<desc>A round up of all the latest news from the UK and around the world, including the Press Preview.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/703_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="703" start="20250506040000 +0000" stop="20250506050000 +0000">
+		<title>Sky News</title>
+		<desc>A round up of all the latest news from the UK and around the world, including the Press Preview.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/703_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="703" start="20250506050000 +0000" stop="20250506053000 +0000">
+		<title>Breakfast</title>
+		<desc>All the big stories of the morning plus news making interviews, analysis, sport and weather.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/703_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="703" start="20250506053000 +0000" stop="20250506060000 +0000">
+		<title>Breakfast</title>
+		<desc>All the big stories of the morning plus news making interviews, analysis, sport and weather.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/703_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="703" start="20250506060000 +0000" stop="20250506063000 +0000">
+		<title>Breakfast</title>
+		<desc>All the big stories of the morning plus news making interviews, analysis and eyewitness reports from around the world.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/703_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="703" start="20250506063000 +0000" stop="20250506070000 +0000">
+		<title>Breakfast</title>
+		<desc>All the big stories of the morning plus news making interviews, analysis and eyewitness reports from around the world.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/703_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="703" start="20250506070000 +0000" stop="20250506073000 +0000">
+		<title>Breakfast</title>
+		<desc>All the big stories of the morning plus news making interviews, analysis and eyewitness reports from around the world.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/703_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="703" start="20250506073000 +0000" stop="20250506080000 +0000">
+		<title>Breakfast</title>
+		<desc>All the big stories of the morning plus news making interviews, analysis and eyewitness reports from around the world.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/703_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="703" start="20250506080000 +0000" stop="20250506083000 +0000">
+		<title>Breakfast</title>
+		<desc>All the big stories of the morning plus news making interviews, analysis and eyewitness reports from around the world.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/703_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="703" start="20250506083000 +0000" stop="20250506090000 +0000">
+		<title>Breakfast</title>
+		<desc>All the big stories of the morning plus news making interviews, analysis and eyewitness reports from around the world.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/703_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="703" start="20250506090000 +0000" stop="20250506093000 +0000">
+		<title>Sky News Today</title>
+		<desc>Breaking news, developing stories and live events from Sky News correspondents in the UK and around the world.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/703_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="703" start="20250506093000 +0000" stop="20250506100000 +0000">
+		<title>Sky News Today</title>
+		<desc>Breaking news, developing stories and live events from Sky News correspondents in the UK and around the world.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/703_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="703" start="20250506100000 +0000" stop="20250506103000 +0000">
+		<title>Sky News Today</title>
+		<desc>Breaking news, developing stories and live events from Sky News correspondents in the UK and around the world.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/703_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="703" start="20250506103000 +0000" stop="20250506110000 +0000">
+		<title>Business Live</title>
+		<desc>Interviews, insight and analysis on the big business and economic stories of the day.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/703_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="703" start="20250506110000 +0000" stop="20250506113000 +0000">
+		<title>Sky News Today with Jayne Secker</title>
+		<desc>The latest breaking news stories with reports and analysis from Sky News correspondents in the UK and around the world.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/703_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="703" start="20250506113000 +0000" stop="20250506120000 +0000">
+		<title>Sky News Today with Saima Mohsin</title>
+		<desc>The latest breaking news stories with reports and analysis from Sky News correspondents in the UK and around the world.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/703_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="703" start="20250506120000 +0000" stop="20250506123000 +0000">
+		<title>Sky News Today with Jayne Secker</title>
+		<desc>The latest breaking news stories with reports and analysis from Sky News correspondents in the UK and around the world.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/703_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="703" start="20250506123000 +0000" stop="20250506130000 +0000">
+		<title>Sky News Today with Jayne Secker</title>
+		<desc>The latest breaking news stories with reports and analysis from Sky News correspondents in the UK and around the world.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/703_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="703" start="20250506130000 +0000" stop="20250506133000 +0000">
+		<title>Sky News with Kamali Melbourne</title>
+		<desc>Breaking news, developing stories and live events from Sky News correspondents in the UK and around the world.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/703_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="703" start="20250506133000 +0000" stop="20250506140000 +0000">
+		<title>Sky News with Kamali Melbourne</title>
+		<desc>Breaking news, developing stories and live events from Sky News correspondents in the UK and around the world.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/703_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="703" start="20250506140000 +0000" stop="20250506143000 +0000">
+		<title>Sky News with Kamali Melbourne</title>
+		<desc>Breaking news, developing stories and live events from Sky News correspondents in the UK and around the world.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/703_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="703" start="20250506143000 +0000" stop="20250506150000 +0000">
+		<title>Sky News with Kamali Melbourne</title>
+		<desc>Breaking news, developing stories and live events from Sky News correspondents in the UK and around the world.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/703_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="703" start="20250506150000 +0000" stop="20250506153000 +0000">
+		<title>Sky News with Kamali Melbourne</title>
+		<desc>Breaking news, developing stories and live events from Sky News correspondents in the UK and around the world.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/703_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="703" start="20250506153000 +0000" stop="20250506160000 +0000">
+		<title>Business Live</title>
+		<desc>Interviews, insight and analysis on the big business and economic stories of the day.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/703_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="704" start="20250504154500 +0000" stop="20250504160500 +0000">
@@ -32889,7 +33104,7 @@
 	</programme>
 	<programme channel="827" start="20250505020000 +0000" stop="20250505030000 +0000">
 		<title>Extraordinary</title>
-		<desc>Extraordinary is an educational program. Moreover it is the first Chinese language puzzle competition program that gathers top middle school students from all over Taiwan. Chinese culture is extensive and profound. Please stay tuned to our program "Extraordinary" and see how interesting we turn Chinese culture into!</desc>
+		<desc>Stay tuned to more great programmes on CTI TV.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch827_extraordinary.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="827" start="20250505030000 +0000" stop="20250505040000 +0000">
