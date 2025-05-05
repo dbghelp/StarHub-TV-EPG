@@ -11410,7 +11410,7 @@
 	<programme channel="214" start="20250505013000 +0000" stop="20250505032000 +0000">
 		<title>UEFA Europa League 2024/25 Tottenham vs Bodo/Glimt -SF, 1st Leg</title>
 		<desc>The 54th season of the UEL as Europe's elite clubs compete in this premier football tournament</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch214_UEL_full_match.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch214_UEL_generic.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="214" start="20250505032000 +0000" stop="20250505042000 +0000">
 		<title>UEFA Europa/Conference League Magazine Show 2024/25</title>
@@ -11440,7 +11440,7 @@
 	<programme channel="214" start="20250505075000 +0000" stop="20250505094000 +0000">
 		<title>UEFA Europa League 2024/25 Athletic Bilbao vs Man United -SF, 1st Leg</title>
 		<desc>The 54th season of the UEL as Europe's elite clubs compete in this premier football tournament</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch214_UEL_full_match.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch214_UEL_generic.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="214" start="20250505094000 +0000" stop="20250505101000 +0000">
 		<title>UEFA Champions League Magazine Show 2024/25</title>
@@ -11507,17 +11507,12 @@
 		<desc>Take a walk back in time and relive some of the most dramatic and remarkable moments in the UEFA Champions League</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch214_UCL_classic_matches.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="214" start="20250505215000 +0000" stop="20250505225000 +0000">
-		<title>UCL Classic Matches Celtic vs Juventus (2001/02)</title>
-		<desc>Take a walk back in time and relive some of the most dramatic and remarkable moments in the UEFA Champions League</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch214_UCL_classic_matches.jpg?w=960&amp;h=540" />
-	</programme>
-	<programme channel="214" start="20250505225000 +0000" stop="20250505232000 +0000">
+	<programme channel="214" start="20250505215000 +0000" stop="20250505222000 +0000">
 		<title>Mini Match - UEFA Conference League 2024/25 Real Betis vs Fiorentina - SF,1st Le</title>
 		<desc>Watch every round of the UEFA Conference League action, Europe's tertiary club football tournament where teams battle it out for the Finals at the Stadion Wroclaw, Poland</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch214_UECL_logo.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="214" start="20250505232000 +0000" stop="20250506011000 +0000">
+	<programme channel="214" start="20250505222000 +0000" stop="20250506001000 +0000">
 		<title>UEFA Conference League 2024/25 Djurgarden vs Chelsea - SF, 1st Leg</title>
 		<desc>The 2024-25 UEFA Conference League will be the fourth season of the UEFA Conference League, Europe's tertiary club football tournament. The final will be played at Stadion Wroclaw, Poland.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch214_UECL_logo.jpg?w=341&amp;h=192" />
