@@ -1640,7 +1640,7 @@
 	</programme>
 	<programme channel="105" start="20250507133000 +0000" stop="20250507140000 +0000">
 		<title>Ethiroli S22 - EP 4</title>
-		<desc>Ethiroli S22</desc>
+		<desc>Despite global uncertainties, high cost of living and a new leadership, PAP took a landslide victory in the General Elections 2025. What contributed to this clean mandate? What fell short for the opposition parties? We explore these questions in this special General Election Results reactionary episode.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/105_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="105" start="20250507140000 +0000" stop="20250507143000 +0000">
@@ -1775,7 +1775,7 @@
 	</programme>
 	<programme channel="105" start="20250508153000 +0000" stop="20250508160000 +0000">
 		<title>Ethiroli S22 - EP 4</title>
-		<desc>Ethiroli S22</desc>
+		<desc>Despite global uncertainties, high cost of living and a new leadership, PAP took a landslide victory in the General Elections 2025. What contributed to this clean mandate? What fell short for the opposition parties? We explore these questions in this special General Election Results reactionary episode.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/105_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="106" start="20250506160000 +0000" stop="20250506160300 +0000">
@@ -7229,12 +7229,12 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/139_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="139" start="20250507133000 +0000" stop="20250507140000 +0000">
-		<title>Umamaheswaram (Dub)</title>
+		<title>Geetha Govindam</title>
 		<desc>Daily Soap</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/139_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="139" start="20250507140000 +0000" stop="20250507143000 +0000">
-		<title>Geetha Govindam</title>
+		<title>Umamaheswaram (Dub)</title>
 		<desc>Daily Soap</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/139_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
@@ -7379,12 +7379,12 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/139_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="139" start="20250508133000 +0000" stop="20250508140000 +0000">
-		<title>Umamaheswaram (Dub)</title>
+		<title>Geetha Govindam</title>
 		<desc>Daily Soap</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/139_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="139" start="20250508140000 +0000" stop="20250508143000 +0000">
-		<title>Geetha Govindam</title>
+		<title>Umamaheswaram (Dub)</title>
 		<desc>Daily Soap</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/139_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
@@ -10553,12 +10553,17 @@
 		<desc>Bringing together prominent professional players from the Kingdom and all around the world, the ROSHN Saudi League delivers weekly thrilling matches to spectators nationally and internationally.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/209_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="209" start="20250506200000 +0000" stop="20250506210000 +0000">
+	<programme channel="209" start="20250506200000 +0000" stop="20250506205000 +0000">
 		<title>WSL Replay: 2025 Rip Curl Pro Bells Beach Finals Day</title>
 		<desc>Be sure to catch the inspirational power of surfing through the 2025 WSL Championship Tour &amp; Challenger Series.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/209_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="209" start="20250506210000 +0000" stop="20250506220000 +0000">
+	<programme channel="209" start="20250506205000 +0000" stop="20250506215000 +0000">
+		<title>Formula E S11: Round 7 Monaco E-Prix</title>
+		<desc>Join us to witness the next generation of the ABB FIA Formula E World Championship as our drivers unleash their Gen3 challengers for the very first time.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch209_formula_e.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="209" start="20250506215000 +0000" stop="20250506235000 +0000">
 		<title>Formula E S11: Round 7 Monaco E-Prix</title>
 		<desc>Join us to witness the next generation of the ABB FIA Formula E World Championship as our drivers unleash their Gen3 challengers for the very first time.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch209_formula_e.jpg?w=341&amp;h=192" />
@@ -10668,9 +10673,14 @@
 		<desc>Join us to witness the next generation of the ABB FIA Formula E World Championship as our drivers unleash their Gen3 challengers for the very first time.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch209_formula_e.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="209" start="20250508113000 +0000" stop="20250508140000 +0000">
+	<programme channel="209" start="20250508113000 +0000" stop="20250508133500 +0000">
 		<title>Major League Soccer 2025 Week 10 - Kansas City vs LA Galaxy</title>
 		<desc>Back for its 30th season, the MLS features some of football’s top talent from around the globe. The league boasts 27 teams in the US and 3 teams in Canada.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/209_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="209" start="20250508133500 +0000" stop="20250508140000 +0000">
+		<title>A-League Men 24/25 Mini Match Rd29 CC Mariners vs Brisbane Roar</title>
+		<desc>The ISUZU UTE A-League Men's is the top-division Men's soccer league in Australia. It consists of 13 teams, with the top four teams in the regular season then advance to the single-game knockout stage</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/209_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="209" start="20250508140000 +0000" stop="20250508143000 +0000">
@@ -11755,7 +11765,7 @@
 	</programme>
 	<programme channel="221" start="20250508123000 +0000" stop="20250508130000 +0000">
 		<title>THE BIG INTERVIEW - EP 39</title>
-		<desc>Extended sit-downs and more informal 'out and about' interviews with the Premier League's biggest stars, providing players with a platform to tell their story in their own words.</desc>
+		<desc>From starting out playing rugby to winning multiple FA Cups with Arsenal, Aaron Ramsey talks to The Big Interview about the importance of grassroots football, the grounding that helped him pave the way to becoming a professional.</desc>
 		<icon src="https://poster.starhubgo.com/poster/the_big_interview_V2.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="221" start="20250508130000 +0000" stop="20250508133000 +0000">
