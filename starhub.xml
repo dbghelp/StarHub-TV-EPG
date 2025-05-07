@@ -164,10 +164,6 @@
 		<display-name>Hub Sports 6</display-name>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/206_1920x1080_HTV.png?w=272" />
 	</channel>
-	<channel id="207">
-		<display-name>Hub Sports 7</display-name>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/207_1920x1080_HTV.png?w=272" />
-	</channel>
 	<channel id="209">
 		<display-name>SPOTV</display-name>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/209_1920x1080_HTV.png?w=272" />
@@ -1493,8 +1489,8 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/104_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="104" start="20250508070000 +0000" stop="20250508073000 +0000">
-		<title>Detik Semasa - EP 4</title>
-		<desc>The program analyses and dissect issues of concern to the Malay/Muslim Singaporeans - be it at the community level, national, regional or global. Apart from raising awareness, each DETIK episode hopes to set viewers thinking and make informed decisions on matters that can impact their lives.</desc>
+		<title>Hard to Heart S4 - EP 6</title>
+		<desc>The latest season gets hotter with famous artists, about their ups and downs while being involved in local art careers._x000D__x000D_ Epi 1. Sharifah Sakinah, Epi 2. Ikmal Amri, Epi 3. Shuib, Epi 4. Ning Baizura, Epi 5. Rozita Che Wan, Epi 6. Maya Karin, Epi 7. Bad Indigo, Epi 8. Tauke Jambu, Epi 9. Zarina Zainuddin. _x000D_Epi 10. Aina Abdul, Epi 11. Mamat Exist, Epi 12. Jalalludin Hasan and Epi 13. Afdlin Shauki</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/104_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="104" start="20250508073000 +0000" stop="20250508080000 +0000">
@@ -1759,7 +1755,7 @@
 	</programme>
 	<programme channel="105" start="20250508133000 +0000" stop="20250508140000 +0000">
 		<title>Thayamma Yenna Kaapaathuu! - EP 8</title>
-		<desc>The host is a passionate backpacker who decides to give himself two weeks to travel across the world. Before he leaves, his grandmother shoves onto him an additional luggage of spices,masala and pickles for him to whip up tasty Indian food while overseas. However, he secretly leaves behind the masala luggage. Thaayamma yells after him that he will need it but he exclaims that he can survive on anything! Things change when he reaches his first stop - Hungary.</desc>
+		<desc>In North Macedonia, Karthick escapes to the secluded Grizzly Igloo - a mountain hideout for those craving solitude and stunning valley views. But the real adventure begins when he tries his hand at cooking prawn biryani in the wild... only for it to turn into a hilariously epic disaster.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/105_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="105" start="20250508140000 +0000" stop="20250508143000 +0000">
@@ -2027,7 +2023,7 @@
 		<desc>(Dual language Chinese and Korean) Cui Shujing and others congratulate Jin Yingxin on finding her father. Cui Chengcan knows that Cui Shujing is behind it again and has tricked everyone. She tricks Jin Yingxin to believes that her birth father is dead, which makes her very sad.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/107_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="107" start="20250506173000 +0000" stop="20250506183500 +0000">
+	<programme channel="107" start="20250506173000 +0000" stop="20250506183000 +0000">
 		<title>A Good Supper - EP 58</title>
 		<desc>(Dual language Chinese and Korean) Xu Minjing collaborates with Cui Shujing ‘s lie, claiming Jin Yingxin is just making use of Jiang Zhongquan, which leads the latter kicks her out of the family. With nowhere to go, Jin Yingxin seeks Zheng Qingxiu’s help but is rejected until Li Duojing takes her in.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/107_1920x1080_HTV.png?w=341&amp;h=192" />
@@ -4292,22 +4288,17 @@
 		<desc>The king of stand-up comedy, Kapil Sharma, is joined with special celebrity guests each week to entertain viewers in this Indian Hindi talk show.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/127_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="127" start="20250506170000 +0000" stop="20250506180000 +0000">
+	<programme channel="127" start="20250506170000 +0000" stop="20250506183000 +0000">
 		<title>Masterchef India 2025 - EP 11</title>
 		<desc>MasterChef India is back with a new season. Chef Vikas Khanna, Ranveer Brar, and Pooja Dhingra mentor passionate home cooks in epic culinary battles</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/127_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="127" start="20250506180000 +0000" stop="20250506183000 +0000">
-		<title>Spice Up- Cooking Show - EP 6</title>
-		<desc>Whether it's friends over for dinner or the traditional motherly food. Each episode Poonam will make the tastiest dishes for every scenario.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/127_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="127" start="20250506183000 +0000" stop="20250506193000 +0000">
+	<programme channel="127" start="20250506183000 +0000" stop="20250506192900 +0000">
 		<title>Radhika Dil Se - EP 41</title>
 		<desc>A young woman hopes to find a life partner who does not judge her by her outward appearance and instead loves her for her inner beauty, nature, and values in life.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/127_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="127" start="20250506193000 +0000" stop="20250506200000 +0000">
+	<programme channel="127" start="20250506192900 +0000" stop="20250506200000 +0000">
 		<title>Pehla Pyaar - EP 16</title>
 		<desc>Murli Sharma relocates to Patna from Ratlam with his family. While he struggles with disconnect and isolation from his peers, he encounters Nandini and their blossoming friendship turns into love</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/127_1920x1080_HTV.png?w=341&amp;h=192" />
@@ -4327,7 +4318,7 @@
 		<desc>Watch as the C.I.D team solve yet another case in this award winning and longest running crime show.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/127_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="127" start="20250506223000 +0000" stop="20250506233000 +0000">
+	<programme channel="127" start="20250506223000 +0000" stop="20250506235900 +0000">
 		<title>Masterchef India 2025 - EP 11</title>
 		<desc>MasterChef India is back with a new season. Chef Vikas Khanna, Ranveer Brar, and Pooja Dhingra mentor passionate home cooks in epic culinary battles</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/127_1920x1080_HTV.png?w=341&amp;h=192" />
@@ -4467,14 +4458,9 @@
 		<desc>Murli Sharma relocates to Patna from Ratlam with his family. While he struggles with disconnect and isolation from his peers, he encounters Nandini and their blossoming friendship turns into love</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/127_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="127" start="20250508013000 +0000" stop="20250508023000 +0000">
+	<programme channel="127" start="20250508013000 +0000" stop="20250508030000 +0000">
 		<title>Masterchef India 2025 - EP 12</title>
 		<desc>MasterChef India is back with a new season. Chef Vikas Khanna, Ranveer Brar, and Pooja Dhingra mentor passionate home cooks in epic culinary battles</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/127_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="127" start="20250508023000 +0000" stop="20250508030000 +0000">
-		<title>Spice Up- Cooking Show - EP 7</title>
-		<desc>Whether it's friends over for dinner or the traditional motherly food. Each episode Poonam will make the tastiest dishes for every scenario.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/127_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="127" start="20250508030000 +0000" stop="20250508040000 +0000">
@@ -4492,19 +4478,19 @@
 		<desc>Murli Sharma relocates to Patna from Ratlam with his family. While he struggles with disconnect and isolation from his peers, he encounters Nandini and their blossoming friendship turns into love</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/127_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
+	<programme channel="127" start="20250508060000 +0000" stop="20250508063000 +0000">
+		<title>Shirdi Wale Sai Baba - EP 13</title>
+		<desc>Witness the life and teachings of Sai Baba, through his numerous acts of kindness &amp; honesty that helps the people overcome struggles by emphasizing values such as righteousness, forgiveness &amp; faith</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/127_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
 	<programme channel="127" start="20250508063000 +0000" stop="20250508070000 +0000">
 		<title>Pehla Pyaar - EP 18</title>
 		<desc>Murli Sharma relocates to Patna from Ratlam with his family. While he struggles with disconnect and isolation from his peers, he encounters Nandini and their blossoming friendship turns into love</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/127_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="127" start="20250508070000 +0000" stop="20250508080000 +0000">
+	<programme channel="127" start="20250508070000 +0000" stop="20250508083000 +0000">
 		<title>Masterchef India 2025 - EP 13</title>
 		<desc>MasterChef India is back with a new season. Chef Vikas Khanna, Ranveer Brar, and Pooja Dhingra mentor passionate home cooks in epic culinary battles</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/127_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="127" start="20250508080000 +0000" stop="20250508083000 +0000">
-		<title>Spice Up- Cooking Show - EP 8</title>
-		<desc>Whether it's friends over for dinner or the traditional motherly food. Each episode Poonam will make the tastiest dishes for every scenario.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/127_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="127" start="20250508083000 +0000" stop="20250508093000 +0000">
@@ -4527,14 +4513,9 @@
 		<desc>Murli Sharma relocates to Patna from Ratlam with his family. While he struggles with disconnect and isolation from his peers, he encounters Nandini and their blossoming friendship turns into love</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/127_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="127" start="20250508120000 +0000" stop="20250508130000 +0000">
+	<programme channel="127" start="20250508120000 +0000" stop="20250508133000 +0000">
 		<title>Masterchef India 2025 - EP 13</title>
 		<desc>MasterChef India is back with a new season. Chef Vikas Khanna, Ranveer Brar, and Pooja Dhingra mentor passionate home cooks in epic culinary battles</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/127_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="127" start="20250508130000 +0000" stop="20250508133000 +0000">
-		<title>Spice Up- Cooking Show - EP 8</title>
-		<desc>Whether it's friends over for dinner or the traditional motherly food. Each episode Poonam will make the tastiest dishes for every scenario.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/127_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="127" start="20250508133000 +0000" stop="20250508143000 +0000">
@@ -4559,12 +4540,12 @@
 	</programme>
 	<programme channel="128" start="20250506160000 +0000" stop="20250506163000 +0000">
 		<title>Parineetii - EP 1105</title>
-		<desc>Fate plays a cruel trick on two best friends by tying their heartstrings to the same man.</desc>
+		<desc>Prithvi mocks Ambika as Sanju, Neeti and Pari get trapped inside a burning building.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch128_parineetii.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="128" start="20250506163000 +0000" stop="20250506173000 +0000">
 		<title>Mangal Lakshmi - EP 433</title>
-		<desc>Mangal embarks on a quest in order to find Lakshmi a perfect match.</desc>
+		<desc>Akshat decides to surprise Mangal as he decides to meet her at the office.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch128_mangal_lakshmi.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="128" start="20250506173000 +0000" stop="20250506180000 +0000">
@@ -4589,7 +4570,7 @@
 	</programme>
 	<programme channel="128" start="20250506193000 +0000" stop="20250506203000 +0000">
 		<title>Mangal Lakshmi - EP 433</title>
-		<desc>Mangal embarks on a quest in order to find Lakshmi a perfect match.</desc>
+		<desc>Akshat decides to surprise Mangal as he decides to meet her at the office.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch128_mangal_lakshmi.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="128" start="20250506203000 +0000" stop="20250506210000 +0000">
@@ -4599,7 +4580,7 @@
 	</programme>
 	<programme channel="128" start="20250506210000 +0000" stop="20250506213000 +0000">
 		<title>Parineetii - EP 1105</title>
-		<desc>Fate plays a cruel trick on two best friends by tying their heartstrings to the same man.</desc>
+		<desc>Prithvi mocks Ambika as Sanju, Neeti and Pari get trapped inside a burning building.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch128_parineetii.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="128" start="20250506213000 +0000" stop="20250506220000 +0000">
@@ -4624,7 +4605,7 @@
 	</programme>
 	<programme channel="128" start="20250506232000 +0000" stop="20250506235000 +0000">
 		<title>Parineetii - EP 1105</title>
-		<desc>Fate plays a cruel trick on two best friends by tying their heartstrings to the same man.</desc>
+		<desc>Prithvi mocks Ambika as Sanju, Neeti and Pari get trapped inside a burning building.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch128_parineetii.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="128" start="20250506235000 +0000" stop="20250507001500 +0000">
@@ -4854,27 +4835,27 @@
 	</programme>
 	<programme channel="128" start="20250508001500 +0000" stop="20250508011000 +0000">
 		<title>Mangal Lakshmi - EP 434</title>
-		<desc>Mangal embarks on a quest in order to find Lakshmi a perfect match.</desc>
+		<desc>Kusum discovers Mangal is working as Adit's boss at their workplace.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch128_mangal_lakshmi.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="128" start="20250508011000 +0000" stop="20250508014000 +0000">
 		<title>Doree - EP 76</title>
-		<desc>After being abandoned, a selfless six-year-old Doree gets taken in by a doting foster father.</desc>
+		<desc>Doree finds out about Deep's plan to poison Mann with sedative laced kheer.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch128_doree.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="128" start="20250508014000 +0000" stop="20250508020000 +0000">
 		<title>Parineetii - EP 1106</title>
-		<desc>Fate plays a cruel trick on two best friends by tying their heartstrings to the same man.</desc>
+		<desc>Sanju becomes gravely injured as he gets struck on his head while saving Pari.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch128_parineetii.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="128" start="20250508020000 +0000" stop="20250508023000 +0000">
 		<title>Megha Barsenge - EP 274</title>
-		<desc>After her being abandoned by her groom, Megha decides to live life on her own terms.</desc>
+		<desc>Manoj gets furious at Manu after his food gets replaced and throws it at him.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch128_megha_barsenge.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="128" start="20250508023000 +0000" stop="20250508030000 +0000">
 		<title>Ram Bhavan - EP 98</title>
-		<desc>In a battle between evil and goodness, Isha motivates Om to confront his family.</desc>
+		<desc>Gayatri plans to sabotage Om's exams as she sends the flying squad.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch128_ram_bhavan.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="128" start="20250508030000 +0000" stop="20250508033000 +0000">
@@ -4884,7 +4865,7 @@
 	</programme>
 	<programme channel="128" start="20250508033000 +0000" stop="20250508040000 +0000">
 		<title>Mannat Harr Khushi Paane Ki - EP 87</title>
-		<desc>Chef Mannat's dreams clash with her employer, who is her secret birth mother and nemesis.</desc>
+		<desc>Aishwarya follows Mannat and Vikrant as they chase after Sunita.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch128_mannat_harr_khushi_paane_ki.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="128" start="20250508040000 +0000" stop="20250508043000 +0000">
@@ -4934,17 +4915,17 @@
 	</programme>
 	<programme channel="128" start="20250508090000 +0000" stop="20250508093000 +0000">
 		<title>Parineetii - EP 1106</title>
-		<desc>Fate plays a cruel trick on two best friends by tying their heartstrings to the same man.</desc>
+		<desc>Sanju becomes gravely injured as he gets struck on his head while saving Pari.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch128_parineetii.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="128" start="20250508093000 +0000" stop="20250508100000 +0000">
 		<title>Mannat Harr Khushi Paane Ki - EP 87</title>
-		<desc>Chef Mannat's dreams clash with her employer, who is her secret birth mother and nemesis.</desc>
+		<desc>Aishwarya follows Mannat and Vikrant as they chase after Sunita.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch128_mannat_harr_khushi_paane_ki.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="128" start="20250508100000 +0000" stop="20250508103000 +0000">
 		<title>Ram Bhavan - EP 98</title>
-		<desc>In a battle between evil and goodness, Isha motivates Om to confront his family.</desc>
+		<desc>Gayatri plans to sabotage Om's exams as she sends the flying squad.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch128_ram_bhavan.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="128" start="20250508103000 +0000" stop="20250508110000 +0000">
@@ -7014,12 +6995,12 @@
 	</programme>
 	<programme channel="138" start="20250508003000 +0000" stop="20250508030000 +0000">
 		<title>Oru Pakka Kathai</title>
-		<desc>Oru Pakka Kathai</desc>
+		<desc>Meera and Saravanan's marriage is approved with a condition: Meera must work after graduation. However, her pregnancy throws their plans into disarray, leading to unexpected changes. Release Year: 2020 Director: Balaji Tharaneetharan</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch656_zee_tamil_exclusive.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="138" start="20250508030000 +0000" stop="20250508033000 +0000">
 		<title>KCKC - Vadacurry - EP 42</title>
-		<desc>KCKC - Vadacurry</desc>
+		<desc>Satish, a new medical rep, finds a phone. Happy at first, he soon faces trouble. His relationship with his girlfriend, Naveena, changes because of the phone.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch656_zee_tamil_exclusive.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="138" start="20250508033000 +0000" stop="20250508040000 +0000">
@@ -7054,7 +7035,7 @@
 	</programme>
 	<programme channel="138" start="20250508063000 +0000" stop="20250508090000 +0000">
 		<title>Thangaraja</title>
-		<desc>Thangaraja</desc>
+		<desc>A man's brother is killed. Seeking justice, he disguises himself as a criminal on the run. He infiltrates the killer's world, determined to avenge his brother's death.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch656_zee_tamil_exclusive.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="138" start="20250508090000 +0000" stop="20250508093000 +0000">
@@ -7509,7 +7490,7 @@
 	</programme>
 	<programme channel="140" start="20250508103000 +0000" stop="20250508133000 +0000">
 		<title>Kumbalangi Nights</title>
-		<desc>Saji, Bonny, Bobby, and Franky reconcile amidst life's unexpected challenges. Release Year: 2019 Director: Madhu C. Narayanan Awards: Kerala State Film Award for Best Music Director, Kerala State Film Award for Best Film with Popular Appeal and Aesthetic</desc>
+		<desc>Saji, Bonny, Bobby, and Franky reconcile amidst life's unexpected challenges. Release Year: 2019 Director: Madhu C. Narayanan Awards: Kerala State Film Award for Best Music Director, Kerala State Film Award for Best Film with Popular Appeal and Aesthetic Value, Kerala State Film Award for Best Art Director, Kerala State Film Award for Best Character Actor</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=960&amp;h=540" />
 	</programme>
 	<programme channel="140" start="20250508133000 +0000" stop="20250508163000 +0000">
@@ -10557,46 +10538,6 @@
 		<desc>The Myrtle Beach Classic, a PGA Tour event sponsored by Visit Myrtle Beach, debuted in 2024 is the first PGA Tour event in Myrtle Beach history, and is the first major professional golf tournament to the Grand Strand in 24 years. It is played at the Dunes Golf and Beach Club in the Myrtle Beach, South Carolina. The event will feature a purse of $3.9 million with 300 FedExCup points awarded to the champion.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch201_pga_tour.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="207" start="20250506160000 +0000" stop="20250506220000 +0000">
-		<title>End of Transmission</title>
-		<desc>End of Transmission</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/207_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="207" start="20250506220000 +0000" stop="20250507040000 +0000">
-		<title>End of Transmission</title>
-		<desc>End of Transmission</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/207_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="207" start="20250507040000 +0000" stop="20250507100000 +0000">
-		<title>End of Transmission</title>
-		<desc>End of Transmission</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/207_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="207" start="20250507100000 +0000" stop="20250507160000 +0000">
-		<title>End of Transmission</title>
-		<desc>End of Transmission</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/207_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="207" start="20250507160000 +0000" stop="20250507220000 +0000">
-		<title>End of Transmission</title>
-		<desc>End of Transmission</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/207_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="207" start="20250507220000 +0000" stop="20250508040000 +0000">
-		<title>End of Transmission</title>
-		<desc>End of Transmission</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/207_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="207" start="20250508040000 +0000" stop="20250508100000 +0000">
-		<title>End of Transmission</title>
-		<desc>End of Transmission</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/207_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="207" start="20250508100000 +0000" stop="20250508160000 +0000">
-		<title>End of Transmission</title>
-		<desc>End of Transmission</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/207_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
 	<programme channel="209" start="20250506141000 +0000" stop="20250506161000 +0000">
 		<title>ROSHN Saudi League 2024/25 MD30 - Al Qadsiah vs Al Kholood</title>
 		<desc>Bringing together prominent professional players from the Kingdom and all around the world, the ROSHN Saudi League delivers weekly thrilling matches to spectators nationally and internationally.</desc>
@@ -11368,7 +11309,7 @@
 		<icon src="https://poster.starhubgo.com/poster/ch214_UCL_preview_show.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="214" start="20250506185500 +0000" stop="20250506210000 +0000">
-		<title>UEFA Champions League 2024/25 Inter vs Barcelona - SF, 2nd Leg (Live)</title>
+		<title>Inter vs Barcelona - SF, 2nd Leg (Live)</title>
 		<desc>The most prestigious tournament in the world contested by top-division elite European clubs</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch214_UCL_live_match.jpg?w=960&amp;h=540" />
 	</programme>
@@ -11392,75 +11333,60 @@
 		<desc>Relive all the heart stopping action and goals galore from the UEFA Youth League Finals</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch214_UYL_logo.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="214" start="20250506231500 +0000" stop="20250507010500 +0000">
+	<programme channel="214" start="20250506231500 +0000" stop="20250507014500 +0000">
 		<title>UEFA Champions League 2024/25 Inter vs Barcelona - SF, 2nd Leg</title>
 		<desc>The most prestigious tournament in the world contested by top-division elite European clubs</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch214_UCL_full_match.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="214" start="20250507010500 +0000" stop="20250507025500 +0000">
+	<programme channel="214" start="20250507014500 +0000" stop="20250507033500 +0000">
 		<title>UEFA Conference League 2024/25 Djurgarden vs Chelsea - SF, 1st Leg</title>
 		<desc>The 2024-25 UEFA Conference League will be the fourth season of the UEFA Conference League, Europe's tertiary club football tournament. The final will be played at Stadion Wroclaw, Poland.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch214_UECL_logo.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="214" start="20250507025500 +0000" stop="20250507032500 +0000">
+	<programme channel="214" start="20250507033500 +0000" stop="20250507060000 +0000">
+		<title>UEFA Champions League 2024/25 Inter vs Barcelona - SF, 2nd Leg</title>
+		<desc>The most prestigious tournament in the world contested by top-division elite European clubs</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch214_UCL_full_match.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="214" start="20250507060000 +0000" stop="20250507063000 +0000">
 		<title>The UCL Review Show 2024/25 Inter vs Barcelona - SF, 2nd Leg</title>
 		<desc>beIN's panel of football legends deliver their opinion on every game from this morning's UCL action</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch214_UEFA_champions_league_review_show.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="214" start="20250507032500 +0000" stop="20250507034000 +0000">
-		<title>UCL/UEL Series - How We Conquered</title>
-		<desc>A series of stories that encapsulate the very definition of overcoming adversity, when no one gives you a chance of succeeding, when all hope is lost - these tales tell of moments in UEFA competition history when a team surprised world football against all the odds</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch214_UEL_series.jpg?w=960&amp;h=540" />
-	</programme>
-	<programme channel="214" start="20250507034000 +0000" stop="20250507053000 +0000">
-		<title>UEFA Champions League 2024/25 Inter vs Barcelona - SF, 2nd Leg</title>
-		<desc>The most prestigious tournament in the world contested by top-division elite European clubs</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch214_UCL_full_match.jpg?w=341&amp;h=192" />
-	</programme>
-	<programme channel="214" start="20250507053000 +0000" stop="20250507072000 +0000">
+	<programme channel="214" start="20250507063000 +0000" stop="20250507082000 +0000">
 		<title>UEFA Europa League 2024/25 Athletic Bilbao vs Man United -SF, 1st Leg</title>
 		<desc>The 54th season of the UEL as Europe's elite clubs compete in this premier football tournament</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch214_UEL_generic.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="214" start="20250507072000 +0000" stop="20250507074000 +0000">
-		<title>UCL/UEL Series - How We Conquered</title>
-		<desc>A series of stories that encapsulate the very definition of overcoming adversity, when no one gives you a chance of succeeding, when all hope is lost - these tales tell of moments in UEFA competition history when a team surprised world football against all the odds</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch214_UEL_series.jpg?w=960&amp;h=540" />
-	</programme>
-	<programme channel="214" start="20250507074000 +0000" stop="20250507081000 +0000">
-		<title>UEFA Youth League Highlights 2024/25</title>
-		<desc>Relive all the heart stopping action and goals galore from the UEFA Youth League Finals</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch214_UYL_logo.jpg?w=960&amp;h=540" />
-	</programme>
-	<programme channel="214" start="20250507081000 +0000" stop="20250507100000 +0000">
+	<programme channel="214" start="20250507082000 +0000" stop="20250507101000 +0000">
 		<title>UEFA Europa League 2024/25 Tottenham vs Bodo/Glimt -SF, 1st Leg</title>
 		<desc>The 54th season of the UEL as Europe's elite clubs compete in this premier football tournament</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch214_UEL_generic.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="214" start="20250507100000 +0000" stop="20250507103000 +0000">
+	<programme channel="214" start="20250507101000 +0000" stop="20250507104000 +0000">
 		<title>UEFA Champions League Highlights 2024/25</title>
 		<desc>Don’t miss any of the action with the official UEFA Champions League highlights show</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch214_UCL_hIghlights.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="214" start="20250507103000 +0000" stop="20250507122000 +0000">
+	<programme channel="214" start="20250507104000 +0000" stop="20250507123000 +0000">
 		<title>UEFA Europa League 2024/25 Athletic Bilbao vs Man United -SF, 1st Leg</title>
 		<desc>The 54th season of the UEL as Europe's elite clubs compete in this premier football tournament</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch214_UEL_generic.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="214" start="20250507122000 +0000" stop="20250507141000 +0000">
+	<programme channel="214" start="20250507123000 +0000" stop="20250507145500 +0000">
 		<title>UEFA Champions League 2024/25 Inter vs Barcelona - SF, 2nd Leg</title>
 		<desc>The most prestigious tournament in the world contested by top-division elite European clubs</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch214_UCL_full_match.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="214" start="20250507141000 +0000" stop="20250507144000 +0000">
+	<programme channel="214" start="20250507145500 +0000" stop="20250507152500 +0000">
 		<title>UEFA Champions League Highlights 2024/25</title>
 		<desc>Don’t miss any of the action with the official UEFA Champions League highlights show</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch214_UCL_hIghlights.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="214" start="20250507144000 +0000" stop="20250507154000 +0000">
-		<title>UEFA Europa/Conference League Magazine Show 2024/25</title>
-		<desc>Match highlights, interviews, epic moments and fascinating features from across Europe</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch214_UECL_logo.jpg?w=341&amp;h=192" />
+	<programme channel="214" start="20250507152500 +0000" stop="20250507154000 +0000">
+		<title>UCL Classic Matches Arsenal vs Man Utd (2008/09)</title>
+		<desc>Take a walk back in time and relive some of the most dramatic and remarkable moments in the UEFA Champions League</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch214_UCL_classic_matches.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="214" start="20250507154000 +0000" stop="20250507173000 +0000">
 		<title>UEFA Champions League 2024/25 Arsenal vs PSG - SF, 1st Leg</title>
@@ -23691,6 +23617,11 @@
 		<title>The Ingraham Angle</title>
 		<desc>Laura Ingraham discusses the issues our counrty is in turmoil about</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch241_TheIngrahamAngle.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="702" start="20250508090000 +0000" stop="20250508100000 +0000">
+		<title>FOX &amp; Friends First</title>
+		<desc>FOX &amp; Friends First delivers headlines viewers may have missed overnight, along with a preview of the day ahead by covering the latest news in politics, business and entertainment.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch241_FOXFriendsFirst.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="702" start="20250508100000 +0000" stop="20250508110000 +0000">
 		<title>FOX &amp; Friends</title>
