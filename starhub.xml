@@ -1318,7 +1318,7 @@
 	</programme>
 	<programme channel="103" start="20250509123000 +0000" stop="20250509130000 +0000">
 		<title>Frontline - EP 4</title>
-		<desc>Frontline is a weekly investigative current affairs programme that aims to address issues closest to the hearts of Singaporeans.</desc>
+		<desc>In the recent general election, 16 newcomers aged 40 and below are elected to Parliament. What fresh perspectives can they bring? Are they confident of serving Singaporeans of all ages?</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/103_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="103" start="20250509130000 +0000" stop="20250509140000 +0000">
@@ -11221,52 +11221,47 @@
 		<desc>Catch up with all the best bits from the weekend's race.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch213_formula1_highlights.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="213" start="20250509082000 +0000" stop="20250509101000 +0000">
+	<programme channel="213" start="20250509082000 +0000" stop="20250509101500 +0000">
 		<title>LaLiga 2024/25: Alaves vs Atletico Madrid</title>
 		<desc>Extensive coverage from every round of the Spanish LaLiga, Spain's top division of football with the World's biggest teams.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch213_laliga.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="213" start="20250509101000 +0000" stop="20250509102500 +0000">
+	<programme channel="213" start="20250509101500 +0000" stop="20250509103000 +0000">
 		<title>Bundesliga Clubs 2024/25</title>
 		<desc>An introduction to every unique Bundesliga club in a detailed profile including "the Team", "Club DNA", "Memorable Moments" &amp; "The Stadium"</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch213_bundesliga_clubs.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="213" start="20250509102500 +0000" stop="20250509105500 +0000">
+	<programme channel="213" start="20250509103000 +0000" stop="20250509110000 +0000">
 		<title>Mini Match - Bundesliga 2024/25: Freiburg vs Leverkusen</title>
 		<desc>Watch every game of the season live as the top German football clubs battle it out in the Bundesliga, Germany's top division of football.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch213_mini_match_bundesliga.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="213" start="20250509105500 +0000" stop="20250509112500 +0000">
+	<programme channel="213" start="20250509110000 +0000" stop="20250509113000 +0000">
 		<title>Bundesliga Weekly 2024/25</title>
 		<desc>Weekly preview show with all relevant information on upcoming matches and the latest news from the Bundesliga</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch213_bundesliga_weekly.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="213" start="20250509112500 +0000" stop="20250509115500 +0000">
+	<programme channel="213" start="20250509113000 +0000" stop="20250509120000 +0000">
 		<title>LaLiga Show 2024/25</title>
 		<desc>Your weekly preview of all the upcoming games from LaLiga EA Sports, Spain's top division of football.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch213_laliga_show.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="213" start="20250509115500 +0000" stop="20250509123000 +0000">
+	<programme channel="213" start="20250509120000 +0000" stop="20250509123500 +0000">
 		<title>F1 Academy Race 2025: F1 ACADEMY RACING SERIES, ROUND 3 MIAMI, 2025 Race 1</title>
 		<desc>Catch all the action from the F1 ACADEMY, an all-female single-seater racing series.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch213_f1_academy_race.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="213" start="20250509123000 +0000" stop="20250509130500 +0000">
-		<title>F1 Academy Race 2025: F1 ACADEMY RACING SERIES, ROUND 3 MIAMI, 2025 Race 2</title>
-		<desc>Catch all the action from the F1 ACADEMY, an all-female single-seater racing series.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch213_f1_academy_race.jpg?w=341&amp;h=192" />
-	</programme>
-	<programme channel="213" start="20250509130500 +0000" stop="20250509133500 +0000">
+	<programme channel="213" start="20250509123500 +0000" stop="20250509130500 +0000">
 		<title>Formula 1 Sprint Race 2025: FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2025</title>
 		<desc>beIN Sports brings you live and exclusive coverage of the 2025 Formula 1 World Championship.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch213_formula_1_sprint_race.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="213" start="20250509133500 +0000" stop="20250509141000 +0000">
+	<programme channel="213" start="20250509130500 +0000" stop="20250509134000 +0000">
 		<title>Formula 1 Highlights 2025</title>
 		<desc>Catch up with all the best bits from the weekend's race.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch213_formula1_highlights.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="213" start="20250509141000 +0000" stop="20250509144000 +0000">
+	<programme channel="213" start="20250509134000 +0000" stop="20250509141000 +0000">
 		<title>F1 Academy Highlights 2025</title>
 		<desc>F1 ACADEMY is an all-female single-seater racing series, Catch up with all the best bits from the weekend's race.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch213_f1_academy_highlights.jpg?w=960&amp;h=540" />
@@ -11486,6 +11481,11 @@
 		<desc>The 2024-25 UEFA Conference League will be the fourth season of the UEFA Conference League, Europe's tertiary club football tournament. The final will be played at Stadion Wroclaw, Poland.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch214_UECL_logo.jpg?w=341&amp;h=192" />
 	</programme>
+	<programme channel="217" start="20250507160000 +0000" stop="20250507220000 +0000">
+		<title>No Transmission</title>
+		<desc />
+		<icon src="https://poster.starhubgo.com/Linear_Channels2/217_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
 	<programme channel="217" start="20250507220000 +0000" stop="20250508040000 +0000">
 		<title>No Transmission</title>
 		<desc />
@@ -11507,6 +11507,16 @@
 		<icon src="https://poster.starhubgo.com/Linear_Channels2/217_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="217" start="20250508220000 +0000" stop="20250509040000 +0000">
+		<title>No Transmission</title>
+		<desc />
+		<icon src="https://poster.starhubgo.com/Linear_Channels2/217_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="217" start="20250509040000 +0000" stop="20250509100000 +0000">
+		<title>No Transmission</title>
+		<desc />
+		<icon src="https://poster.starhubgo.com/Linear_Channels2/217_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="217" start="20250509100000 +0000" stop="20250509160000 +0000">
 		<title>No Transmission</title>
 		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_Channels2/217_1920x1080_HTV.png?w=341&amp;h=192" />
