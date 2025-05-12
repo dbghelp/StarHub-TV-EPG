@@ -10657,12 +10657,12 @@
 		<icon src="https://poster.starhubgo.com/poster/ch211_ATPMASTERS1000.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="211" start="20250512023000 +0000" stop="20250512040000 +0000">
-		<title>ATP Tour 1000 2025: Rome Day 5 Match 3</title>
+		<title>ATP Tour 1000 2025: Rome Day 5 Alcaraz v Djere</title>
 		<desc>Exclusive coverage of the 2025 ATP Tour on beIN SPORTS as the world's best male players battle it out across the globe to be #1.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_ATPMASTERS1000.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="211" start="20250512040000 +0000" stop="20250512053000 +0000">
-		<title>ATP Tour 1000 2025: Rome Day 5 Match 4</title>
+		<title>ATP Tour 1000 2025: Rome Day 5 Fils v Tsitsipas</title>
 		<desc>Exclusive coverage of the 2025 ATP Tour on beIN SPORTS as the world's best male players battle it out across the globe to be #1.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_ATPMASTERS1000.jpg?w=960&amp;h=540" />
 	</programme>
@@ -10672,17 +10672,17 @@
 		<icon src="https://poster.starhubgo.com/poster/ch211_ATPTourGeneric.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="211" start="20250512060000 +0000" stop="20250512073000 +0000">
-		<title>ATP Tour 1000 2025: Rome Day 5 Match 5</title>
+		<title>ATP Tour 1000 2025: Rome Day 5 Rune v Moutet</title>
 		<desc>Exclusive coverage of the 2025 ATP Tour on beIN SPORTS as the world's best male players battle it out across the globe to be #1.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_ATPMASTERS1000.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="211" start="20250512073000 +0000" stop="20250512090000 +0000">
-		<title>ATP Tour 1000 2025: Rome Day 5 Match 6</title>
+		<title>ATP Tour 1000 2025: Rome Day 5 Alcaraz v Djere</title>
 		<desc>Exclusive coverage of the 2025 ATP Tour on beIN SPORTS as the world's best male players battle it out across the globe to be #1.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_ATPMASTERS1000.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="211" start="20250512090000 +0000" stop="20250512110000 +0000">
-		<title>ATP Tour 1000 2025: Rome Day 6 Match 1</title>
+		<title>ATP Tour 1000 2025: Rome Day 6 De Minaur v Dellien</title>
 		<desc>Exclusive coverage of the 2025 ATP Tour on beIN SPORTS as the world's best male players battle it out across the globe to be #1.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_ATPMASTERS1000.jpg?w=960&amp;h=540" />
 	</programme>
@@ -10692,7 +10692,7 @@
 		<icon src="https://poster.starhubgo.com/poster/ch211_ATPMASTERS1000.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="211" start="20250512130000 +0000" stop="20250512150000 +0000">
-		<title>ATP Tour 1000 2025: Rome Day 6 Match 3</title>
+		<title>ATP Tour 1000 2025: Rome Day 6 Sinner v De Jong</title>
 		<desc>Exclusive coverage of the 2025 ATP Tour on beIN SPORTS as the world's best male players battle it out across the globe to be #1.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_ATPMASTERS1000.jpg?w=960&amp;h=540" />
 	</programme>
@@ -25986,10 +25986,15 @@
 		<desc>Max Foster has a definitive roundup of the day's top stories, giving you the urgent need-to-know context, plus a deeper dive into the questions sparking debate around the world.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch711_cnn_generic.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="711" start="20250512200000 +0000" stop="20250512210000 +0000">
+	<programme channel="711" start="20250512200000 +0000" stop="20250512204500 +0000">
 		<title>Quest Means Business</title>
 		<desc>Richard Quest speaks to the top names in global business to bring viewers the bottom line.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch711_quest_means_business.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="711" start="20250512204500 +0000" stop="20250512210000 +0000">
+		<title>Connecting Africa</title>
+		<desc>With an abundance of natural resources, Africa is tapping into its clean energy potential to boost access to power, like solar, wind, and geothermal power.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch711_connecting_africa.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="711" start="20250512210000 +0000" stop="20250512213000 +0000">
 		<title>The Lead</title>
