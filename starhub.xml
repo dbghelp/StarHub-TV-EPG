@@ -4898,7 +4898,7 @@
 	</programme>
 	<programme channel="128" start="20250515050000 +0000" stop="20250515053000 +0000">
 		<title>Meri Bhavya Life - EP 15</title>
-		<desc>Two people having opposite personalities fall in love and navigate their differences.</desc>
+		<desc>Rishank discovers the truth behind the theft after Nitin informs him about it.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch128_meri_bhavya_life.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="128" start="20250515053000 +0000" stop="20250515060000 +0000">
@@ -4953,7 +4953,7 @@
 	</programme>
 	<programme channel="128" start="20250515110000 +0000" stop="20250515113000 +0000">
 		<title>Meri Bhavya Life - EP 15</title>
-		<desc>Two people having opposite personalities fall in love and navigate their differences.</desc>
+		<desc>Rishank discovers the truth behind the theft after Nitin informs him about it.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch128_meri_bhavya_life.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="128" start="20250515113000 +0000" stop="20250515120000 +0000">
@@ -7508,7 +7508,7 @@
 	</programme>
 	<programme channel="140" start="20250515043000 +0000" stop="20250515073000 +0000">
 		<title>Premam</title>
-		<desc>George's heartbreak leads to a new relationship with Malar, shaping his journey. Release Year: 2015 Director: Alphonse Puthren Awards: Asianet Comedy Awards 2015 -Best Comedy Pair, Best Comedy Dialogue, Best Comical Scene Song, Asianet Film Awards 2016 - Most Popular Film</desc>
+		<desc>George's heartbreak leads to a new relationship with Malar, shaping his journey. Release Year: 2015 Director: Alphonse Puthren Awards: Asianet Comedy Awards 2015 -Best Comedy Pair, Best Comedy Dialogue, Best Comical Scene Song, Asianet Film Awards 2016 -</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=960&amp;h=540" />
 	</programme>
 	<programme channel="140" start="20250515073000 +0000" stop="20250515103000 +0000">
@@ -10436,17 +10436,17 @@
 		<desc>The 9th edition of the ICC Champions Trophy will be hosted by Pakistan and United Arab Emirates from 19 February to 9 March 2025 and will be contested by the top eight ranked men's national teams qualified from the Cricket World Cup 2023.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ICCCT2025_GENERIC.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="204" start="20250514020000 +0000" stop="20250514060000 +0000">
+	<programme channel="204" start="20250514001500 +0000" stop="20250514044500 +0000">
 		<title>TATA Indian Premier League 2025: M21 - Kolkata Knight Riders vs Lucknow Super Gi</title>
 		<desc>The 2025 Indian Premier League, a franchise Twenty20 cricket league held in India, returns for the 18th year, and will feature ten teams competing in 74 matches from 14 March to 25 May 2025.</desc>
 		<icon src="https://poster.starhubgo.com/poster/IPL2025_M21.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="204" start="20250514060000 +0000" stop="20250514100000 +0000">
+	<programme channel="204" start="20250514044500 +0000" stop="20250514092000 +0000">
 		<title>TATA Indian Premier League 2025: M45 - Mumbai Indians vs Lucknow Super Giants</title>
 		<desc>The 2025 Indian Premier League, a franchise Twenty20 cricket league held in India, returns for the 18th year, and will feature ten teams competing in 74 matches from 14 March to 25 May 2025.</desc>
 		<icon src="https://poster.starhubgo.com/poster/IPL2025_M45.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="204" start="20250514100000 +0000" stop="20250514140000 +0000">
+	<programme channel="204" start="20250514092000 +0000" stop="20250514140000 +0000">
 		<title>TATA Indian Premier League 2025: M52 - Royal Challengers Bengaluru vs Chennai Su</title>
 		<desc>The 2025 Indian Premier League, a franchise Twenty20 cricket league held in India, returns for the 18th year, and will feature ten teams competing in 74 matches from 14 March to 25 May 2025.</desc>
 		<icon src="https://poster.starhubgo.com/poster/IPL2025_M52.jpg?w=960&amp;h=540" />
@@ -30374,6 +30374,11 @@
 	<programme channel="811" start="20250515015000 +0000" stop="20250515021700 +0000">
 		<title>Today's Close-up (R)</title>
 		<desc>The program flexibly probes into a wide range of topics from the NHK’s unique point of view.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="811" start="20250515021700 +0000" stop="20250515022000 +0000">
+		<title>Mini Program</title>
+		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="811" start="20250515022000 +0000" stop="20250515025000 +0000">
