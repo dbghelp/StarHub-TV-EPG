@@ -216,9 +216,25 @@
 		<display-name>Hub Premier 6</display-name>
 		<icon src="https://poster.starhubgo.com/Linear_Channels2/226_1920x1080_HTV.png?w=272" />
 	</channel>
+	<channel id="227">
+		<display-name>Hub Premier 7</display-name>
+		<icon src="https://poster.starhubgo.com/Linear_Channels2/227_1920x1080_HTV.png?w=272" />
+	</channel>
 	<channel id="228">
 		<display-name>Hub Premier 8</display-name>
 		<icon src="https://poster.starhubgo.com/Linear_Channels2/228_1920x1080_HTV.png?w=272" />
+	</channel>
+	<channel id="229">
+		<display-name>Hub Premier 9</display-name>
+		<icon src="https://poster.starhubgo.com/Linear_Channels2/229_1920x1080_HTV.png?w=272" />
+	</channel>
+	<channel id="230">
+		<display-name>Hub Premier 10</display-name>
+		<icon src="https://poster.starhubgo.com/Linear_Channels2/230_1920x1080_HTV.png?w=272" />
+	</channel>
+	<channel id="231">
+		<display-name>Hub Premier 11</display-name>
+		<icon src="https://poster.starhubgo.com/Linear_Channels2/231_1920x1080_HTV.png?w=272" />
 	</channel>
 	<channel id="232">
 		<display-name>Hub Premier 2 (4K)</display-name>
@@ -10887,7 +10903,7 @@
 		<icon src="https://poster.starhubgo.com/poster/ch211_ATPMASTERS1000.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="211" start="20250515150000 +0000" stop="20250515163000 +0000">
-		<title>ATP Tour 1000 2025: Rome QF 2</title>
+		<title>ATP Tour 1000 2025: Rome QF 2 Zverev v Musetti</title>
 		<desc>Exclusive coverage of the 2025 ATP Tour on beIN SPORTS as the world's best male players battle it out across the globe to be #1.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_ATPMASTERS1000.jpg?w=960&amp;h=540" />
 	</programme>
@@ -10897,7 +10913,7 @@
 		<icon src="https://poster.starhubgo.com/poster/ch211_ATPTourGeneric.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="211" start="20250515170000 +0000" stop="20250515190000 +0000">
-		<title>ATP Tour 1000 2025: Rome QF 4</title>
+		<title>ATP Tour 1000 2025: Rome QF 4 Sinner v Ruud</title>
 		<desc>Exclusive coverage of the 2025 ATP Tour on beIN SPORTS as the world's best male players battle it out across the globe to be #1.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_ATPMASTERS1000.jpg?w=960&amp;h=540" />
 	</programme>
@@ -11122,7 +11138,7 @@
 		<icon src="https://poster.starhubgo.com/poster/ch213_mutv.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="213" start="20250515192500 +0000" stop="20250515213000 +0000">
-		<title>LaLiga 2024/25: Getafe vs Athletic Bilbao (Live)</title>
+		<title>LaLiga 2024/25: Espanyol vs Barcelona (Live)</title>
 		<desc>Extensive coverage from every round of the Spanish LaLiga, Spain's top division of football with the World's biggest teams.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch213_laliga.jpg?w=960&amp;h=540" />
 	</programme>
@@ -11142,7 +11158,7 @@
 		<icon src="https://poster.starhubgo.com/poster/ch213_formula_regional_european_championship_highlights.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="213" start="20250515230000 +0000" stop="20250516005000 +0000">
-		<title>Total U-20 Africa Cup of Nations, Egypt 2025: SF 1</title>
+		<title>Total U-20 Africa Cup of Nations, Egypt 2025: South Africa vs Nigeria - SF 1</title>
 		<desc>beIN SPORTS brings you coverage from the 18th edition of the U-20 Africa Cup of Nations hosted by Ivory Coast. The biennial African international youth football tournament organized by the Confederation of African Football.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch213_u20_africa_cup_of_nations_egypt_2025.jpg?w=960&amp;h=540" />
 	</programme>
@@ -12041,6 +12057,31 @@
 		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_Channels2/226_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
+	<programme channel="227" start="20250514220000 +0000" stop="20250515040000 +0000">
+		<title>End Of Transmission</title>
+		<desc />
+		<icon src="https://poster.starhubgo.com/Linear_Channels2/227_1920x1080_HTV.png?w=960&amp;h=540" />
+	</programme>
+	<programme channel="227" start="20250515040000 +0000" stop="20250515100000 +0000">
+		<title>End Of Transmission</title>
+		<desc />
+		<icon src="https://poster.starhubgo.com/Linear_Channels2/227_1920x1080_HTV.png?w=960&amp;h=540" />
+	</programme>
+	<programme channel="227" start="20250515100000 +0000" stop="20250515160000 +0000">
+		<title>End Of Transmission</title>
+		<desc />
+		<icon src="https://poster.starhubgo.com/Linear_Channels2/227_1920x1080_HTV.png?w=960&amp;h=540" />
+	</programme>
+	<programme channel="227" start="20250515160000 +0000" stop="20250515220000 +0000">
+		<title>End Of Transmission</title>
+		<desc />
+		<icon src="https://poster.starhubgo.com/Linear_Channels2/227_1920x1080_HTV.png?w=960&amp;h=540" />
+	</programme>
+	<programme channel="227" start="20250515220000 +0000" stop="20250516040000 +0000">
+		<title>End Of Transmission</title>
+		<desc />
+		<icon src="https://poster.starhubgo.com/Linear_Channels2/227_1920x1080_HTV.png?w=960&amp;h=540" />
+	</programme>
 	<programme channel="228" start="20250514160000 +0000" stop="20250514220000 +0000">
 		<title>End of Transmission</title>
 		<desc />
@@ -12080,6 +12121,81 @@
 		<title>End of Transmission</title>
 		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_Channels2/228_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="229" start="20250514220000 +0000" stop="20250515040000 +0000">
+		<title>End of Transmission</title>
+		<desc />
+		<icon src="https://poster.starhubgo.com/Linear_Channels2/229_1920x1080_HTV.png?w=960&amp;h=540" />
+	</programme>
+	<programme channel="229" start="20250515040000 +0000" stop="20250515100000 +0000">
+		<title>End of Transmission</title>
+		<desc />
+		<icon src="https://poster.starhubgo.com/Linear_Channels2/229_1920x1080_HTV.png?w=960&amp;h=540" />
+	</programme>
+	<programme channel="229" start="20250515100000 +0000" stop="20250515160000 +0000">
+		<title>End of Transmission</title>
+		<desc />
+		<icon src="https://poster.starhubgo.com/Linear_Channels2/229_1920x1080_HTV.png?w=960&amp;h=540" />
+	</programme>
+	<programme channel="229" start="20250515160000 +0000" stop="20250515220000 +0000">
+		<title>End of Transmission</title>
+		<desc />
+		<icon src="https://poster.starhubgo.com/Linear_Channels2/229_1920x1080_HTV.png?w=960&amp;h=540" />
+	</programme>
+	<programme channel="229" start="20250515220000 +0000" stop="20250516040000 +0000">
+		<title>End of Transmission</title>
+		<desc />
+		<icon src="https://poster.starhubgo.com/Linear_Channels2/229_1920x1080_HTV.png?w=960&amp;h=540" />
+	</programme>
+	<programme channel="230" start="20250514220000 +0000" stop="20250515040000 +0000">
+		<title>End of Transmission</title>
+		<desc />
+		<icon src="https://poster.starhubgo.com/Linear_Channels2/230_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="230" start="20250515040000 +0000" stop="20250515100000 +0000">
+		<title>End of Transmission</title>
+		<desc />
+		<icon src="https://poster.starhubgo.com/Linear_Channels2/230_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="230" start="20250515100000 +0000" stop="20250515160000 +0000">
+		<title>End of Transmission</title>
+		<desc />
+		<icon src="https://poster.starhubgo.com/Linear_Channels2/230_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="230" start="20250515160000 +0000" stop="20250515220000 +0000">
+		<title>End of Transmission</title>
+		<desc />
+		<icon src="https://poster.starhubgo.com/Linear_Channels2/230_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="230" start="20250515220000 +0000" stop="20250516040000 +0000">
+		<title>End of Transmission</title>
+		<desc />
+		<icon src="https://poster.starhubgo.com/Linear_Channels2/230_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="231" start="20250514220000 +0000" stop="20250515040000 +0000">
+		<title>End of Transmission</title>
+		<desc />
+		<icon src="https://poster.starhubgo.com/Linear_Channels2/231_1920x1080_HTV.png?w=960&amp;h=540" />
+	</programme>
+	<programme channel="231" start="20250515040000 +0000" stop="20250515100000 +0000">
+		<title>End of Transmission</title>
+		<desc />
+		<icon src="https://poster.starhubgo.com/Linear_Channels2/231_1920x1080_HTV.png?w=960&amp;h=540" />
+	</programme>
+	<programme channel="231" start="20250515100000 +0000" stop="20250515160000 +0000">
+		<title>End of Transmission</title>
+		<desc />
+		<icon src="https://poster.starhubgo.com/Linear_Channels2/231_1920x1080_HTV.png?w=960&amp;h=540" />
+	</programme>
+	<programme channel="231" start="20250515160000 +0000" stop="20250515220000 +0000">
+		<title>End of Transmission</title>
+		<desc />
+		<icon src="https://poster.starhubgo.com/Linear_Channels2/231_1920x1080_HTV.png?w=960&amp;h=540" />
+	</programme>
+	<programme channel="231" start="20250515220000 +0000" stop="20250516040000 +0000">
+		<title>End of Transmission</title>
+		<desc />
+		<icon src="https://poster.starhubgo.com/Linear_Channels2/231_1920x1080_HTV.png?w=960&amp;h=540" />
 	</programme>
 	<programme channel="232" start="20250514160000 +0000" stop="20250514220000 +0000">
 		<title>End of Transmission</title>
