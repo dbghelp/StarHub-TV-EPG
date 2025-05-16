@@ -5486,19 +5486,14 @@
 		<desc>It's a morning talk show which hosts celebrities &amp; professionals from all walks of life who share their valuable expertise on varied topics. Enjoy a delightful start to your day with a healthy dose of information and entertainment.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch25_vanakkam_thamizha.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="133" start="20250517000000 +0000" stop="20250517003000 +0000">
-		<title>NINAITHALE INIKKUM(Repeat Telecast)</title>
+	<programme channel="133" start="20250517000000 +0000" stop="20250517013000 +0000">
+		<title>Naanum Rowdy Dhaan (Repeat)</title>
 		<desc>Rewind to the glitz, glam, and excitement of Natchathira Kondattam - a grand celebration with your beloved Sun TV icons.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/133_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="133" start="20250517003000 +0000" stop="20250517013000 +0000">
-		<title>NANGA READY NREENGA READYA (Repeat Telecast)</title>
-		<desc>This game show features three celeb divas of your favourite Sun TV families, with a line-up of small-screen stars competing against each other in weekly face-offs to win the ultimate jackpot.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/133_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
 	<programme channel="133" start="20250517013000 +0000" stop="20250517020000 +0000">
-		<title>THERIKKAVIDALAMA (Repeat Telecast)</title>
-		<desc>Therikkavidalama Sun TV Show</desc>
+		<title>Naanga Ready Neenga Readyaa (Repeat)</title>
+		<desc>Join us to watch two of your favourite Sun TV families sing, dance, and take on exciting games for a shot at winning golden biscuits, all while being judged by two celebrity stars.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/133_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="133" start="20250517020000 +0000" stop="20250517023000 +0000">
@@ -5507,8 +5502,8 @@
 		<icon src="https://poster.starhubgo.com/poster/ch25_news.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="133" start="20250517023000 +0000" stop="20250517030000 +0000">
-		<title>THERIKKAVIDALAMA (Repeat Telecast)</title>
-		<desc>Therikkavidalama Sun TV Show</desc>
+		<title>Naanga Ready Neenga Readyaa (Repeat)</title>
+		<desc>Join us to watch two of your favourite Sun TV families sing, dance, and take on exciting games for a shot at winning golden biscuits, all while being judged by two celebrity stars.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/133_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="133" start="20250517030000 +0000" stop="20250517033000 +0000">
@@ -5557,8 +5552,8 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/133_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="133" start="20250517073000 +0000" stop="20250517080000 +0000">
-		<title>Movie -</title>
-		<desc>Watch your favourite movies with all the drama and emotion on Sun TV.</desc>
+		<title>Movie - NIMIRNTHU NILL</title>
+		<desc>Aravindan Sivasamy, an orphan, is raised with high moral values but faces difficulty in the real world. He decides to lead a crusade against corruption but attracts the ire of powerful people.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch25_movie.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="133" start="20250517080000 +0000" stop="20250517083000 +0000">
@@ -5567,8 +5562,8 @@
 		<icon src="https://poster.starhubgo.com/poster/ch25_news.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="133" start="20250517083000 +0000" stop="20250517103000 +0000">
-		<title>Movie Contd -</title>
-		<desc>Watch your favourite movies with all the drama and emotion on Sun TV.</desc>
+		<title>Movie Contd - NIMIRNTHU NILL</title>
+		<desc>Aravindan Sivasamy, an orphan, is raised with high moral values but faces difficulty in the real world. He decides to lead a crusade against corruption but attracts the ire of powerful people.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch25_movie.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="133" start="20250517103000 +0000" stop="20250517110000 +0000">
@@ -25077,153 +25072,138 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/708_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="708" start="20250516220000 +0000" stop="20250516230000 +0000">
-		<title>Bloomberg Technology</title>
-		<desc>The only daily news programme focused exclusively on technology, innovation and the future of business. Hosted by Ed Ludlow from San Francisco and Caroline Hyde in New York.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/708_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="708" start="20250516230000 +0000" stop="20250517000000 +0000">
 		<title>Bloomberg Wall Street Week</title>
 		<desc>A weekly program telling the stories of capitalism from around the world, hosted by David Westin in New York.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/708_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="708" start="20250516230000 +0000" stop="20250516233000 +0000">
+		<title>Quantum Marketing</title>
+		<desc>Stephan Pretorious, chief technology officer of WPP, unpacks the world of generative artificial intelligence and its potential impact, both positive and negative, on marketing.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/708_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="708" start="20250516233000 +0000" stop="20250517000000 +0000">
+		<title>Quantum Marketing</title>
+		<desc>From immersive experiences to live streaming, National Women's Soccer League Chief Marketing and Commercial Officer Julie Haddon discusses the opportunities for growing women's professional sports.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/708_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="708" start="20250517000000 +0000" stop="20250517003000 +0000">
-		<title>Leaders with Lacqua</title>
-		<desc>Francine Lacqua interviews some of the most influential people on the planet.</desc>
+		<title>The Deal with Alex Rodriguez and Jason Kelly</title>
+		<desc>Alex and Jason sit with Georgia Tech Athletics Director J Batt during March Madness to discuss the buzz around college athletics, including NIL and the transfer portal.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/708_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="708" start="20250517003000 +0000" stop="20250517010000 +0000">
-		<title>Athlete | Empire: Alex Rodriguez</title>
-		<desc>Former baseball pro Alex Rodriguez quietly built a real estate empire over 20 years. Now, after retiring from baseball, he's accelerating his transformation from former athlete to investor and owner.</desc>
+		<title>Bloomberg Chief Future Officer</title>
+		<desc>BBVA CFO Luisa Gomez Bravo spearheads the Spanish bank's efforts to drive growth through digital innovation, expansion in corporate investment banking.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/708_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="708" start="20250517010000 +0000" stop="20250517013000 +0000">
-		<title>Bloomberg Studio 1.0</title>
-		<desc>Roblox CEO &amp; Co-Founder David Baszucki. Bloomberg talks to David Baszucki about the success of the online gaming platform, Roblox.</desc>
+		<title>The David Rubenstein Show</title>
+		<desc>Ajay Banga, World Bank Group President. Philanthropist and financier David Rubenstein uncovers inside stories from the most influential minds in business.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/708_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="708" start="20250517013000 +0000" stop="20250517020000 +0000">
-		<title>Leaders with Lacqua</title>
-		<desc>Francine Lacqua interviews some of the most influential people on the planet.</desc>
+		<title>Bloomberg Originals</title>
+		<desc>Exploring every angle of climate change, technology, finance, sports and beyond, Bloomberg Originals is business as you've never seen it.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/708_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="708" start="20250517020000 +0000" stop="20250517023000 +0000">
-		<title>The David Rubenstein Show</title>
-		<desc>Philanthropist and financier David Rubenstein uncovers inside stories from the most influential minds in business.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/708_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="708" start="20250517023000 +0000" stop="20250517030000 +0000">
-		<title>Bloomberg Studio 1.0</title>
-		<desc>Roblox CEO &amp; Co-Founder David Baszucki. Bloomberg talks to David Baszucki about the success of the online gaming platform, Roblox.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/708_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="708" start="20250517030000 +0000" stop="20250517040000 +0000">
+	<programme channel="708" start="20250517020000 +0000" stop="20250517030000 +0000">
 		<title>Bloomberg Wall Street Week</title>
 		<desc>A weekly program telling the stories of capitalism from around the world, hosted by David Westin in New York.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/708_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="708" start="20250517040000 +0000" stop="20250517043000 +0000">
-		<title>Leaders with Lacqua</title>
-		<desc>Francine Lacqua interviews some of the most influential people on the planet.</desc>
+	<programme channel="708" start="20250517030000 +0000" stop="20250517033000 +0000">
+		<title>Bloomberg Next Africa</title>
+		<desc>A monthly deep dive into Africa's biggest stories through a Bloomberg lens, discussing key steps taken to help deliver on Africa's quest of bridging the gap with global powers.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/708_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="708" start="20250517043000 +0000" stop="20250517050000 +0000">
-		<title>Bloomberg Studio 1.0</title>
-		<desc>Roblox CEO &amp; Co-Founder David Baszucki. Bloomberg talks to David Baszucki about the success of the online gaming platform, Roblox.</desc>
+	<programme channel="708" start="20250517033000 +0000" stop="20250517040000 +0000">
+		<title>Momentum</title>
+		<desc>Amid Seoul's pulsating energy, Haslinda Amin reveals an architectural renaissance that's reshaping the city, blending tradition with innovation while providing the world a new wave to follow.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/708_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="708" start="20250517050000 +0000" stop="20250517053000 +0000">
-		<title>Leaders with Lacqua</title>
-		<desc>Francine Lacqua interviews some of the most influential people on the planet.</desc>
+	<programme channel="708" start="20250517040000 +0000" stop="20250517050000 +0000">
+		<title>Bloomberg Investigates</title>
+		<desc>The demand for human eggs is booming, giving rise to a largely unregulated and dangerous marketplace. In India, we meet a teenage girl caught up in this fertility underworld.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/708_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="708" start="20250517053000 +0000" stop="20250517060000 +0000">
-		<title>Bloomberg Wealth with David Rubenstein</title>
-		<desc>Renowned financier and philanthropist David Rubenstein talks with the world's most successful investors, who share their investing strategies and tactics.</desc>
+	<programme channel="708" start="20250517050000 +0000" stop="20250517060000 +0000">
+		<title>Bloomberg Investigates</title>
+		<desc>With A Woman. In Kampala, a group of midwives help vulnerable mothers give birth for free. Nearby, a major for-profit hospital is out of reach for most of the community.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/708_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="708" start="20250517060000 +0000" stop="20250517063000 +0000">
-		<title>Bloomberg Wealth with David Rubenstein</title>
-		<desc>Renowned financier and philanthropist David Rubenstein talks with the world's most successful investors, who share their investing strategies and tactics.</desc>
+		<title>Best of Bloomberg Invest 2025</title>
+		<desc>Key moments from the Bloomberg Invest 2025 conference.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/708_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="708" start="20250517063000 +0000" stop="20250517070000 +0000">
-		<title>Athlete | Empire: Alex Rodriguez</title>
-		<desc>Former baseball pro Alex Rodriguez quietly built a real estate empire over 20 years. Now, after retiring from baseball, he's accelerating his transformation from former athlete to investor and owner.</desc>
+		<title>Bloomberg Investigates</title>
+		<desc>How a US government agency set out to prove suppliers to research labs were importing wild monkeys from Cambodia with false paperwork.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/708_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="708" start="20250517070000 +0000" stop="20250517073000 +0000">
-		<title>Bloomberg Studio 1.0</title>
-		<desc>Roblox CEO &amp; Co-Founder David Baszucki. Bloomberg talks to David Baszucki about the success of the online gaming platform, Roblox.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/708_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="708" start="20250517073000 +0000" stop="20250517080000 +0000">
-		<title>Bloomberg Studio 1.0</title>
-		<desc>Roblox CEO &amp; Co-Founder David Baszucki. Bloomberg talks to David Baszucki about the success of the online gaming platform, Roblox.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/708_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="708" start="20250517080000 +0000" stop="20250517090000 +0000">
+	<programme channel="708" start="20250517070000 +0000" stop="20250517080000 +0000">
 		<title>Bloomberg Wall Street Week</title>
 		<desc>A weekly program telling the stories of capitalism from around the world, hosted by David Westin in New York.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/708_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="708" start="20250517090000 +0000" stop="20250517093000 +0000">
-		<title>Leaders with Lacqua</title>
-		<desc>Francine Lacqua interviews some of the most influential people on the planet.</desc>
+	<programme channel="708" start="20250517080000 +0000" stop="20250517083000 +0000">
+		<title>Bloomberg Next Africa</title>
+		<desc>A monthly deep dive into Africa's biggest stories through a Bloomberg lens, discussing key steps taken to help deliver on Africa's quest of bridging the gap with global powers.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/708_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="708" start="20250517093000 +0000" stop="20250517100000 +0000">
-		<title>Bloomberg Studio 1.0</title>
-		<desc>Roblox CEO &amp; Co-Founder David Baszucki. Bloomberg talks to David Baszucki about the success of the online gaming platform, Roblox.</desc>
+	<programme channel="708" start="20250517083000 +0000" stop="20250517090000 +0000">
+		<title>Quantum Marketing</title>
+		<desc>From immersive experiences to live streaming, National Women's Soccer League Chief Marketing and Commercial Officer Julie Haddon discusses the opportunities for growing women's professional sports.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/708_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="708" start="20250517100000 +0000" stop="20250517103000 +0000">
-		<title>Bloomberg Wealth with David Rubenstein</title>
-		<desc>Renowned financier and philanthropist David Rubenstein talks with the world's most successful investors, who share their investing strategies and tactics.</desc>
+	<programme channel="708" start="20250517090000 +0000" stop="20250517100000 +0000">
+		<title>Bloomberg Investigates</title>
+		<desc>The demand for human eggs is booming, giving rise to a largely unregulated and dangerous marketplace. In India, we meet a teenage girl caught up in this fertility underworld.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/708_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="708" start="20250517103000 +0000" stop="20250517110000 +0000">
-		<title>Leaders with Lacqua</title>
-		<desc>Francine Lacqua interviews some of the most influential people on the planet.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/708_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="708" start="20250517110000 +0000" stop="20250517120000 +0000">
+	<programme channel="708" start="20250517100000 +0000" stop="20250517110000 +0000">
 		<title>Bloomberg Wall Street Week</title>
 		<desc>A weekly program telling the stories of capitalism from around the world, hosted by David Westin in New York.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/708_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="708" start="20250517110000 +0000" stop="20250517113000 +0000">
+		<title>The Deal with Alex Rodriguez and Jason Kelly</title>
+		<desc>Alex and Jason sit with Georgia Tech Athletics Director J Batt during March Madness to discuss the buzz around college athletics, including NIL and the transfer portal.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/708_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="708" start="20250517113000 +0000" stop="20250517120000 +0000">
+		<title>Bloomberg Chief Future Officer</title>
+		<desc>BBVA CFO Luisa Gomez Bravo spearheads the Spanish bank's efforts to drive growth through digital innovation, expansion in corporate investment banking.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/708_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="708" start="20250517120000 +0000" stop="20250517123000 +0000">
-		<title>Bloomberg Green</title>
-		<desc>Climate change is the defining story of our time. Bloomberg Green brings you the news, science, and data to understand it in full. Hosted by Kailey Leinz.</desc>
+		<title>Best of Bloomberg Invest 2025</title>
+		<desc>Key moments from the Bloomberg Invest 2025 conference.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/708_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="708" start="20250517123000 +0000" stop="20250517130000 +0000">
-		<title>Athlete | Empire: Alex Rodriguez</title>
-		<desc>Former baseball pro Alex Rodriguez quietly built a real estate empire over 20 years. Now, after retiring from baseball, he's accelerating his transformation from former athlete to investor and owner.</desc>
+		<title>Bloomberg Originals</title>
+		<desc>Exploring every angle of climate change, technology, finance, sports and beyond, Bloomberg Originals is business as you've never seen it.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/708_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="708" start="20250517130000 +0000" stop="20250517133000 +0000">
-		<title>Leaders with Lacqua</title>
-		<desc>Francine Lacqua interviews some of the most influential people on the planet.</desc>
+		<title>The David Rubenstein Show</title>
+		<desc>Ajay Banga, World Bank Group President. Philanthropist and financier David Rubenstein uncovers inside stories from the most influential minds in business.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/708_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="708" start="20250517133000 +0000" stop="20250517140000 +0000">
-		<title>Bloomberg Studio 1.0</title>
-		<desc>Roblox CEO &amp; Co-Founder David Baszucki. Bloomberg talks to David Baszucki about the success of the online gaming platform, Roblox.</desc>
+		<title>Bloomberg Primer</title>
+		<desc>Geothermal has been the underdog of the energy industry - but that may be about to change as new startups use fracking technologies to expand potential geothermal sites.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/708_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="708" start="20250517140000 +0000" stop="20250517143000 +0000">
-		<title>The David Rubenstein Show</title>
-		<desc>Philanthropist and financier David Rubenstein uncovers inside stories from the most influential minds in business.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/708_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="708" start="20250517143000 +0000" stop="20250517150000 +0000">
-		<title>Bloomberg Wealth with David Rubenstein</title>
-		<desc>Renowned financier and philanthropist David Rubenstein talks with the world's most successful investors, who share their investing strategies and tactics.</desc>
+	<programme channel="708" start="20250517140000 +0000" stop="20250517150000 +0000">
+		<title>Bloomberg Wall Street Week</title>
+		<desc>A weekly program telling the stories of capitalism from around the world, hosted by David Westin in New York.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/708_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="708" start="20250517150000 +0000" stop="20250517160000 +0000">
-		<title>Bloomberg Wall Street Week</title>
-		<desc>A weekly program telling the stories of capitalism from around the world, hosted by David Westin in New York.</desc>
+		<title>Bloomberg Investigates</title>
+		<desc>The demand for human eggs is booming, giving rise to a largely unregulated and dangerous marketplace. In India, we meet a teenage girl caught up in this fertility underworld.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/708_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="709" start="20250515160000 +0000" stop="20250515163000 +0000">
@@ -29963,7 +29943,7 @@
 	</programme>
 	<programme channel="812" start="20250515173000 +0000" stop="20250515180000 +0000">
 		<title>Today's Close-Up</title>
-		<desc>Dig deeper into current affairs with cutting-edge information and critical analysis on important issues confronting Japanese lives.</desc>
+		<desc>More than four years after Japan started rolling out COVID vaccines, thousands continue to suffer ill effects from their inoculations and those who seek help face red tape and delays - we examine why.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250515180000 +0000" stop="20250515182800 +0000">
@@ -30028,7 +30008,7 @@
 	</programme>
 	<programme channel="812" start="20250515223000 +0000" stop="20250515230000 +0000">
 		<title>Today's Close-Up</title>
-		<desc>Dig deeper into current affairs with cutting-edge information and critical analysis on important issues confronting Japanese lives.</desc>
+		<desc>More than four years after Japan started rolling out COVID vaccines, thousands continue to suffer ill effects from their inoculations and those who seek help face red tape and delays - we examine why.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250515230000 +0000" stop="20250515233000 +0000">
@@ -30063,7 +30043,7 @@
 	</programme>
 	<programme channel="812" start="20250516013000 +0000" stop="20250516020000 +0000">
 		<title>Today's Close-Up</title>
-		<desc>Dig deeper into current affairs with cutting-edge information and critical analysis on important issues confronting Japanese lives.</desc>
+		<desc>Japan's home-visit care for the elderly is in crisis due to staff shortages and recent cuts in funding - foreign workers and stronger ties between providers may help, but the issue remains urgent.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250516020000 +0000" stop="20250516023000 +0000">
@@ -30118,7 +30098,7 @@
 	</programme>
 	<programme channel="812" start="20250516063000 +0000" stop="20250516070000 +0000">
 		<title>Today's Close-Up</title>
-		<desc>Dig deeper into current affairs with cutting-edge information and critical analysis on important issues confronting Japanese lives.</desc>
+		<desc>Japan's home-visit care for the elderly is in crisis due to staff shortages and recent cuts in funding - foreign workers and stronger ties between providers may help, but the issue remains urgent.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250516070000 +0000" stop="20250516073000 +0000">
@@ -30193,7 +30173,7 @@
 	</programme>
 	<programme channel="812" start="20250516123000 +0000" stop="20250516130000 +0000">
 		<title>Today's Close-Up</title>
-		<desc>Dig deeper into current affairs with cutting-edge information and critical analysis on important issues confronting Japanese lives.</desc>
+		<desc>Japan's home-visit care for the elderly is in crisis due to staff shortages and recent cuts in funding - foreign workers and stronger ties between providers may help, but the issue remains urgent.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250516130000 +0000" stop="20250516133000 +0000">
@@ -30213,7 +30193,7 @@
 	</programme>
 	<programme channel="812" start="20250516143000 +0000" stop="20250516150000 +0000">
 		<title>Design X Stories</title>
-		<desc>Crafts, fashion, products, buildings and food: explore a diverse range of Japanese designs and the ideas and values of their creators as our presenters visit designers at work to reveal new stories.</desc>
+		<desc>Today's theme: Wrapping. The art of wrapping and tying is a culture in Japan displaying beauty and thoughtfulness - it elevates content and shows care. Join us for a rediscovery of wrapping design.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250516150000 +0000" stop="20250516153000 +0000">
@@ -30248,7 +30228,7 @@
 	</programme>
 	<programme channel="812" start="20250516173000 +0000" stop="20250516180000 +0000">
 		<title>Today's Close-Up</title>
-		<desc>Dig deeper into current affairs with cutting-edge information and critical analysis on important issues confronting Japanese lives.</desc>
+		<desc>Japan's home-visit care for the elderly is in crisis due to staff shortages and recent cuts in funding - foreign workers and stronger ties between providers may help, but the issue remains urgent.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250516180000 +0000" stop="20250516182800 +0000">
@@ -30288,7 +30268,7 @@
 	</programme>
 	<programme channel="812" start="20250516203000 +0000" stop="20250516210000 +0000">
 		<title>Design X Stories</title>
-		<desc>Crafts, fashion, products, buildings and food: explore a diverse range of Japanese designs and the ideas and values of their creators as our presenters visit designers at work to reveal new stories.</desc>
+		<desc>Today's theme: Wrapping. The art of wrapping and tying is a culture in Japan displaying beauty and thoughtfulness - it elevates content and shows care. Join us for a rediscovery of wrapping design.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250516210000 +0000" stop="20250516213000 +0000">
@@ -30308,7 +30288,7 @@
 	</programme>
 	<programme channel="812" start="20250516223000 +0000" stop="20250516230000 +0000">
 		<title>Today's Close-Up</title>
-		<desc>Dig deeper into current affairs with cutting-edge information and critical analysis on important issues confronting Japanese lives.</desc>
+		<desc>Japan's home-visit care for the elderly is in crisis due to staff shortages and recent cuts in funding - foreign workers and stronger ties between providers may help, but the issue remains urgent.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250516230000 +0000" stop="20250516231000 +0000">
@@ -30383,7 +30363,7 @@
 	</programme>
 	<programme channel="812" start="20250517031000 +0000" stop="20250517034000 +0000">
 		<title>Design X Stories</title>
-		<desc>Crafts, fashion, products, buildings and food: explore a diverse range of Japanese designs and the ideas and values of their creators as our presenters visit designers at work to reveal new stories.</desc>
+		<desc>Today's theme: Wrapping. The art of wrapping and tying is a culture in Japan displaying beauty and thoughtfulness - it elevates content and shows care. Join us for a rediscovery of wrapping design.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250517034000 +0000" stop="20250517035000 +0000">
@@ -30513,7 +30493,7 @@
 	</programme>
 	<programme channel="812" start="20250517091000 +0000" stop="20250517094000 +0000">
 		<title>Design X Stories</title>
-		<desc>Crafts, fashion, products, buildings and food: explore a diverse range of Japanese designs and the ideas and values of their creators as our presenters visit designers at work to reveal new stories.</desc>
+		<desc>Today's theme: Wrapping. The art of wrapping and tying is a culture in Japan displaying beauty and thoughtfulness - it elevates content and shows care. Join us for a rediscovery of wrapping design.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250517094000 +0000" stop="20250517095000 +0000">
@@ -30593,7 +30573,7 @@
 	</programme>
 	<programme channel="812" start="20250517141000 +0000" stop="20250517144000 +0000">
 		<title>Biz Stream</title>
-		<desc>This upbeat programme combines business and economic news with in-depth feature stories that give you a closer look at the latest trends within Japan and around the world.</desc>
+		<desc>From mushroom waste-eating beetles to an anti-reflective film based on the properties of a moth's eye, this episode features insect-inspired business ideas.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250517144000 +0000" stop="20250517145000 +0000">
@@ -32706,87 +32686,97 @@
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20250517023000 +0000" stop="20250517031000 +0000">
+	<programme channel="832" start="20250517001500 +0000" stop="20250517011400 +0000">
+		<title>A Green Trip</title>
+		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="832" start="20250517011400 +0000" stop="20250517022100 +0000">
 		<title>Super Diva</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20250517031000 +0000" stop="20250517033500 +0000">
+	<programme channel="832" start="20250517022100 +0000" stop="20250517024600 +0000">
 		<title>CARE ON THE WAY</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20250517033500 +0000" stop="20250517040000 +0000">
+	<programme channel="832" start="20250517024600 +0000" stop="20250517031100 +0000">
 		<title>Next Station</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20250517040000 +0000" stop="20250517043000 +0000">
+	<programme channel="832" start="20250517031100 +0000" stop="20250517033800 +0000">
 		<title>China Archaeology Weekly</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20250517043000 +0000" stop="20250517051000 +0000">
+	<programme channel="832" start="20250517033800 +0000" stop="20250517041800 +0000">
 		<title>Amazing 2 cities</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20250517051000 +0000" stop="20250517060000 +0000">
+	<programme channel="832" start="20250517041800 +0000" stop="20250517051000 +0000">
 		<title>futuer china</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20250517060000 +0000" stop="20250517070000 +0000">
+	<programme channel="832" start="20250517051000 +0000" stop="20250517061100 +0000">
 		<title>A Green Trip</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20250517070000 +0000" stop="20250517080000 +0000">
+	<programme channel="832" start="20250517061100 +0000" stop="20250517071800 +0000">
 		<title>Ai Romance</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20250517080000 +0000" stop="20250517090000 +0000">
+	<programme channel="832" start="20250517071800 +0000" stop="20250517082500 +0000">
 		<title>Super Diva</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20250517090000 +0000" stop="20250517093500 +0000">
+	<programme channel="832" start="20250517082500 +0000" stop="20250517085000 +0000">
 		<title>CARE ON THE WAY</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20250517093500 +0000" stop="20250517100000 +0000">
+	<programme channel="832" start="20250517085000 +0000" stop="20250517091500 +0000">
 		<title>Next Station</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20250517100000 +0000" stop="20250517110000 +0000">
+	<programme channel="832" start="20250517091500 +0000" stop="20250517100000 +0000">
+		<title>Amazing 2 cities</title>
+		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="832" start="20250517100000 +0000" stop="20250517105800 +0000">
 		<title>Dragon TV Primetime News</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20250517110000 +0000" stop="20250517114000 +0000">
+	<programme channel="832" start="20250517105800 +0000" stop="20250517115700 +0000">
 		<title>A Green Trip</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20250517114000 +0000" stop="20250517133000 +0000">
+	<programme channel="832" start="20250517115700 +0000" stop="20250517134300 +0000">
 		<title>futuer china</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20250517133000 +0000" stop="20250517143000 +0000">
+	<programme channel="832" start="20250517134300 +0000" stop="20250517145000 +0000">
 		<title>Ai Romance</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20250517143000 +0000" stop="20250517153000 +0000">
+	<programme channel="832" start="20250517145000 +0000" stop="20250517154900 +0000">
 		<title>A Green Trip</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20250517153000 +0000" stop="20250517163000 +0000">
+	<programme channel="832" start="20250517154900 +0000" stop="20250517164100 +0000">
 		<title>futuer china</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
