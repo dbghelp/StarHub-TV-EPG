@@ -216,25 +216,9 @@
 		<display-name>Hub Premier 6</display-name>
 		<icon src="https://poster.starhubgo.com/Linear_Channels2/226_1920x1080_HTV.png?w=272" />
 	</channel>
-	<channel id="227">
-		<display-name>Hub Premier 7</display-name>
-		<icon src="https://poster.starhubgo.com/Linear_Channels2/227_1920x1080_HTV.png?w=272" />
-	</channel>
 	<channel id="228">
 		<display-name>Hub Premier 8</display-name>
 		<icon src="https://poster.starhubgo.com/Linear_Channels2/228_1920x1080_HTV.png?w=272" />
-	</channel>
-	<channel id="229">
-		<display-name>Hub Premier 9</display-name>
-		<icon src="https://poster.starhubgo.com/Linear_Channels2/229_1920x1080_HTV.png?w=272" />
-	</channel>
-	<channel id="230">
-		<display-name>Hub Premier 10</display-name>
-		<icon src="https://poster.starhubgo.com/Linear_Channels2/230_1920x1080_HTV.png?w=272" />
-	</channel>
-	<channel id="231">
-		<display-name>Hub Premier 11</display-name>
-		<icon src="https://poster.starhubgo.com/Linear_Channels2/231_1920x1080_HTV.png?w=272" />
 	</channel>
 	<channel id="232">
 		<display-name>Hub Premier 2 (4K)</display-name>
@@ -11987,46 +11971,6 @@
 		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_Channels2/226_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="227" start="20250515160000 +0000" stop="20250515220000 +0000">
-		<title>End Of Transmission</title>
-		<desc />
-		<icon src="https://poster.starhubgo.com/Linear_Channels2/227_1920x1080_HTV.png?w=960&amp;h=540" />
-	</programme>
-	<programme channel="227" start="20250515220000 +0000" stop="20250516040000 +0000">
-		<title>End Of Transmission</title>
-		<desc />
-		<icon src="https://poster.starhubgo.com/Linear_Channels2/227_1920x1080_HTV.png?w=960&amp;h=540" />
-	</programme>
-	<programme channel="227" start="20250516040000 +0000" stop="20250516100000 +0000">
-		<title>End Of Transmission</title>
-		<desc />
-		<icon src="https://poster.starhubgo.com/Linear_Channels2/227_1920x1080_HTV.png?w=960&amp;h=540" />
-	</programme>
-	<programme channel="227" start="20250516100000 +0000" stop="20250516160000 +0000">
-		<title>End Of Transmission</title>
-		<desc />
-		<icon src="https://poster.starhubgo.com/Linear_Channels2/227_1920x1080_HTV.png?w=960&amp;h=540" />
-	</programme>
-	<programme channel="227" start="20250516160000 +0000" stop="20250516220000 +0000">
-		<title>End Of Transmission</title>
-		<desc />
-		<icon src="https://poster.starhubgo.com/Linear_Channels2/227_1920x1080_HTV.png?w=960&amp;h=540" />
-	</programme>
-	<programme channel="227" start="20250516220000 +0000" stop="20250517040000 +0000">
-		<title>End Of Transmission</title>
-		<desc />
-		<icon src="https://poster.starhubgo.com/Linear_Channels2/227_1920x1080_HTV.png?w=960&amp;h=540" />
-	</programme>
-	<programme channel="227" start="20250517040000 +0000" stop="20250517100000 +0000">
-		<title>End Of Transmission</title>
-		<desc />
-		<icon src="https://poster.starhubgo.com/Linear_Channels2/227_1920x1080_HTV.png?w=960&amp;h=540" />
-	</programme>
-	<programme channel="227" start="20250517100000 +0000" stop="20250517160000 +0000">
-		<title>End Of Transmission</title>
-		<desc />
-		<icon src="https://poster.starhubgo.com/Linear_Channels2/227_1920x1080_HTV.png?w=960&amp;h=540" />
-	</programme>
 	<programme channel="228" start="20250515160000 +0000" stop="20250515220000 +0000">
 		<title>End of Transmission</title>
 		<desc />
@@ -12066,126 +12010,6 @@
 		<title>End of Transmission</title>
 		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_Channels2/228_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="229" start="20250515160000 +0000" stop="20250515220000 +0000">
-		<title>End of Transmission</title>
-		<desc />
-		<icon src="https://poster.starhubgo.com/Linear_Channels2/229_1920x1080_HTV.png?w=960&amp;h=540" />
-	</programme>
-	<programme channel="229" start="20250515220000 +0000" stop="20250516040000 +0000">
-		<title>End of Transmission</title>
-		<desc />
-		<icon src="https://poster.starhubgo.com/Linear_Channels2/229_1920x1080_HTV.png?w=960&amp;h=540" />
-	</programme>
-	<programme channel="229" start="20250516040000 +0000" stop="20250516100000 +0000">
-		<title>End of Transmission</title>
-		<desc />
-		<icon src="https://poster.starhubgo.com/Linear_Channels2/229_1920x1080_HTV.png?w=960&amp;h=540" />
-	</programme>
-	<programme channel="229" start="20250516100000 +0000" stop="20250516160000 +0000">
-		<title>End of Transmission</title>
-		<desc />
-		<icon src="https://poster.starhubgo.com/Linear_Channels2/229_1920x1080_HTV.png?w=960&amp;h=540" />
-	</programme>
-	<programme channel="229" start="20250516160000 +0000" stop="20250516220000 +0000">
-		<title>End of Transmission</title>
-		<desc />
-		<icon src="https://poster.starhubgo.com/Linear_Channels2/229_1920x1080_HTV.png?w=960&amp;h=540" />
-	</programme>
-	<programme channel="229" start="20250516220000 +0000" stop="20250517040000 +0000">
-		<title>End of Transmission</title>
-		<desc />
-		<icon src="https://poster.starhubgo.com/Linear_Channels2/229_1920x1080_HTV.png?w=960&amp;h=540" />
-	</programme>
-	<programme channel="229" start="20250517040000 +0000" stop="20250517100000 +0000">
-		<title>End of Transmission</title>
-		<desc />
-		<icon src="https://poster.starhubgo.com/Linear_Channels2/229_1920x1080_HTV.png?w=960&amp;h=540" />
-	</programme>
-	<programme channel="229" start="20250517100000 +0000" stop="20250517160000 +0000">
-		<title>End of Transmission</title>
-		<desc />
-		<icon src="https://poster.starhubgo.com/Linear_Channels2/229_1920x1080_HTV.png?w=960&amp;h=540" />
-	</programme>
-	<programme channel="230" start="20250515160000 +0000" stop="20250515220000 +0000">
-		<title>End of Transmission</title>
-		<desc />
-		<icon src="https://poster.starhubgo.com/Linear_Channels2/230_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="230" start="20250515220000 +0000" stop="20250516040000 +0000">
-		<title>End of Transmission</title>
-		<desc />
-		<icon src="https://poster.starhubgo.com/Linear_Channels2/230_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="230" start="20250516040000 +0000" stop="20250516100000 +0000">
-		<title>End of Transmission</title>
-		<desc />
-		<icon src="https://poster.starhubgo.com/Linear_Channels2/230_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="230" start="20250516100000 +0000" stop="20250516160000 +0000">
-		<title>End of Transmission</title>
-		<desc />
-		<icon src="https://poster.starhubgo.com/Linear_Channels2/230_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="230" start="20250516160000 +0000" stop="20250516220000 +0000">
-		<title>End of Transmission</title>
-		<desc />
-		<icon src="https://poster.starhubgo.com/Linear_Channels2/230_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="230" start="20250516220000 +0000" stop="20250517040000 +0000">
-		<title>End of Transmission</title>
-		<desc />
-		<icon src="https://poster.starhubgo.com/Linear_Channels2/230_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="230" start="20250517040000 +0000" stop="20250517100000 +0000">
-		<title>End of Transmission</title>
-		<desc />
-		<icon src="https://poster.starhubgo.com/Linear_Channels2/230_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="230" start="20250517100000 +0000" stop="20250517160000 +0000">
-		<title>End of Transmission</title>
-		<desc />
-		<icon src="https://poster.starhubgo.com/Linear_Channels2/230_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="231" start="20250515160000 +0000" stop="20250515220000 +0000">
-		<title>End of Transmission</title>
-		<desc />
-		<icon src="https://poster.starhubgo.com/Linear_Channels2/231_1920x1080_HTV.png?w=960&amp;h=540" />
-	</programme>
-	<programme channel="231" start="20250515220000 +0000" stop="20250516040000 +0000">
-		<title>End of Transmission</title>
-		<desc />
-		<icon src="https://poster.starhubgo.com/Linear_Channels2/231_1920x1080_HTV.png?w=960&amp;h=540" />
-	</programme>
-	<programme channel="231" start="20250516040000 +0000" stop="20250516100000 +0000">
-		<title>End of Transmission</title>
-		<desc />
-		<icon src="https://poster.starhubgo.com/Linear_Channels2/231_1920x1080_HTV.png?w=960&amp;h=540" />
-	</programme>
-	<programme channel="231" start="20250516100000 +0000" stop="20250516160000 +0000">
-		<title>End of Transmission</title>
-		<desc />
-		<icon src="https://poster.starhubgo.com/Linear_Channels2/231_1920x1080_HTV.png?w=960&amp;h=540" />
-	</programme>
-	<programme channel="231" start="20250516160000 +0000" stop="20250516220000 +0000">
-		<title>End of Transmission</title>
-		<desc />
-		<icon src="https://poster.starhubgo.com/Linear_Channels2/231_1920x1080_HTV.png?w=960&amp;h=540" />
-	</programme>
-	<programme channel="231" start="20250516220000 +0000" stop="20250517040000 +0000">
-		<title>End of Transmission</title>
-		<desc />
-		<icon src="https://poster.starhubgo.com/Linear_Channels2/231_1920x1080_HTV.png?w=960&amp;h=540" />
-	</programme>
-	<programme channel="231" start="20250517040000 +0000" stop="20250517100000 +0000">
-		<title>End of Transmission</title>
-		<desc />
-		<icon src="https://poster.starhubgo.com/Linear_Channels2/231_1920x1080_HTV.png?w=960&amp;h=540" />
-	</programme>
-	<programme channel="231" start="20250517100000 +0000" stop="20250517160000 +0000">
-		<title>End of Transmission</title>
-		<desc />
-		<icon src="https://poster.starhubgo.com/Linear_Channels2/231_1920x1080_HTV.png?w=960&amp;h=540" />
 	</programme>
 	<programme channel="232" start="20250515160000 +0000" stop="20250515220000 +0000">
 		<title>End of Transmission</title>
@@ -32837,48 +32661,48 @@
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20250516153000 +0000" stop="20250516170000 +0000">
+	<programme channel="832" start="20250516153000 +0000" stop="20250516171700 +0000">
 		<title>go fighting</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20250516170000 +0000" stop="20250516180000 +0000">
+	<programme channel="832" start="20250516171700 +0000" stop="20250516181600 +0000">
 		<title>Dragon TV Primetime News</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20250516180000 +0000" stop="20250516183000 +0000">
+	<programme channel="832" start="20250516181600 +0000" stop="20250516184100 +0000">
 		<title>Searching for flavor</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20250516183000 +0000" stop="20250516190000 +0000">
+	<programme channel="832" start="20250516184100 +0000" stop="20250516191000 +0000">
 		<title>I LOVE SHANGHAI</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20250516190000 +0000" stop="20250516220000 +0000">
+	<programme channel="832" start="20250516191000 +0000" stop="20250516211000 +0000">
 		<title>Cheer up!small shops</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20250516220000 +0000" stop="20250516223000 +0000">
+	<programme channel="832" start="20250516211000 +0000" stop="20250516221000 +0000">
+		<title>A Green Trip</title>
+		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="832" start="20250516221000 +0000" stop="20250516223500 +0000">
 		<title>New Entertainment</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20250516223000 +0000" stop="20250516230000 +0000">
+	<programme channel="832" start="20250516223500 +0000" stop="20250516230000 +0000">
 		<title>CARE ON THE WAY</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20250516230000 +0000" stop="20250517010000 +0000">
+	<programme channel="832" start="20250516230000 +0000" stop="20250517001500 +0000">
 		<title>Dragon TV Morning News</title>
-		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="832" start="20250517010000 +0000" stop="20250517023000 +0000">
-		<title>A Green Trip</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
