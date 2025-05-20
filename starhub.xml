@@ -10173,7 +10173,7 @@
 		<icon src="https://poster.starhubgo.com/poster/ch201_wta_tour.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="201" start="20250520150000 +0000" stop="20250520153000 +0000">
-		<title>Hologic WTA Tour 2025 Highlights</title>
+		<title>Hologic WTA Tour 2025 H/Ls</title>
 		<desc>Catch all the best moments from the clay courts at the Foro Italico in Rome, Italy.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch201_wta_tour.jpg?w=960&amp;h=540" />
 	</programme>
@@ -10377,15 +10377,25 @@
 		<desc>End of Transmission</desc>
 		<icon src="https://poster.starhubgo.com/Linear_Channels2/203_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="203" start="20250520100000 +0000" stop="20250520130000 +0000">
+	<programme channel="203" start="20250520100000 +0000" stop="20250520123000 +0000">
 		<title>PGA Tour Champions 2025</title>
 		<desc>The Tradition is an event on the PGA Tour Champions. First staged 36 years ago in 1989, the PGA Tour recognizes the event as one of the five senior major golf championships. It is the only senior major where the winner does not earn an exemption into a PGA Tour or European Tour event.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch203_pga_tour_cship.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="203" start="20250520130000 +0000" stop="20250520160000 +0000">
+	<programme channel="203" start="20250520123000 +0000" stop="20250520150000 +0000">
 		<title>PGA Tour Champions 2025</title>
 		<desc>The Tradition is an event on the PGA Tour Champions. First staged 36 years ago in 1989, the PGA Tour recognizes the event as one of the five senior major golf championships. It is the only senior major where the winner does not earn an exemption into a PGA Tour or European Tour event.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch203_pga_tour_cship.jpg?w=960&amp;h=540" />
+	</programme>
+	<programme channel="203" start="20250520150000 +0000" stop="20250520153000 +0000">
+		<title>Korn Ferry Presents</title>
+		<desc />
+		<icon src="https://poster.starhubgo.com/poster/ch203_korn_ferry_tour.jpg?w=960&amp;h=540" />
+	</programme>
+	<programme channel="203" start="20250520153000 +0000" stop="20250520160000 +0000">
+		<title>PGA Tour: The Cut 2025</title>
+		<desc>The CUT is a weekly show that highlights the PGA TOUR lifestyle inside and outside the ropes, telling the unique stories of the game's top names, as well as the up-and-coming stars on TOUR.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch203_PGA_Tour_the_cut.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="203" start="20250520160000 +0000" stop="20250520220000 +0000">
 		<title>End of Transmission</title>
@@ -10667,15 +10677,10 @@
 		<desc>Join us to witness the next generation of the ABB FIA Formula E World Championship as our drivers unleash their Gen3 challengers for the very first time.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch209_formula_e.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="209" start="20250520210000 +0000" stop="20250520233000 +0000">
+	<programme channel="209" start="20250520210000 +0000" stop="20250521000500 +0000">
 		<title>Formula E S11: Round 9 Tokyo E-Prix</title>
 		<desc>Join us to witness the next generation of the ABB FIA Formula E World Championship as our drivers unleash their Gen3 challengers for the very first time.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch209_formula_e.jpg?w=341&amp;h=192" />
-	</programme>
-	<programme channel="209" start="20250520233000 +0000" stop="20250521013000 +0000">
-		<title>ISUZU UTE A-League Men 24/25 Semi-Final 1: 1st Leg Western United FC vs Melbourn</title>
-		<desc>The ISUZU UTE A-League Men's is the top-division Men's soccer league in Australia. It consists of 13 teams, with the top four teams in the regular season then advance to the single-game knockout stage.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/209_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="209" start="20250521013000 +0000" stop="20250521023000 +0000">
 		<title>2025 WorldSBK Championship Round 5</title>
