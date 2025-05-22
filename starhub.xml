@@ -7532,12 +7532,12 @@
 		<desc>A magical pen by their antique collector grandfather changes Ryan's life. Release Year: 2013 Director: Rojin Thomas, Shanil Muhammed</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=960&amp;h=540" />
 	</programme>
-	<programme channel="140" start="20250522043000 +0000" stop="20250522073000 +0000">
+	<programme channel="140" start="20250522043000 +0000" stop="20250522073500 +0000">
 		<title>Dhrona (2010)</title>
 		<desc>A realtor buys a spooky house, and dies oddly; brother investigates with magic! Release Year: 2010 Director: Shaji Kailas</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=960&amp;h=540" />
 	</programme>
-	<programme channel="140" start="20250522073000 +0000" stop="20250522103000 +0000">
+	<programme channel="140" start="20250522073500 +0000" stop="20250522103000 +0000">
 		<title>Thanneer Mathan dinangal</title>
 		<desc>Jaison's crush on Keerthy entangles with teacher Ravi, sparking turmoil. Release Year: 2019 Director: Girish A.D.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=960&amp;h=540" />
@@ -7552,17 +7552,17 @@
 		<desc>A gritty tale of ambition, loyalty, and survival, where a determined protagonist navigates the challenges of crime, power, and betrayal in pursuit of justice and redemption. Release Year: 2024 Director: Jithin Laal</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=960&amp;h=540" />
 	</programme>
-	<programme channel="140" start="20250522163000 +0000" stop="20250522190000 +0000">
+	<programme channel="140" start="20250522163000 +0000" stop="20250522190500 +0000">
 		<title>Mumbai Police</title>
 		<desc>ACP Antony Moses hunts a killer, but memory loss complicates the investigation. Release Year: 2013 Director: RoSShan Andrrews</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=960&amp;h=540" />
 	</programme>
-	<programme channel="140" start="20250522190000 +0000" stop="20250522220000 +0000">
+	<programme channel="140" start="20250522190500 +0000" stop="20250522210500 +0000">
 		<title>Nizhal</title>
 		<desc>John recover from a traumatic accident and crosses paths with Nithin, a young boy. Release Year: 2021 Director: Appu N. Bhattathiri</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=960&amp;h=540" />
 	</programme>
-	<programme channel="140" start="20250522220000 +0000" stop="20250522233000 +0000">
+	<programme channel="140" start="20250522210500 +0000" stop="20250522233000 +0000">
 		<title>Pokkiri Simon</title>
 		<desc>Simon loves Tamil star Vijay, but his obsession worries his ambitious parents. Release Year: 2017 Director: Jijo Antony</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=960&amp;h=540" />
@@ -20994,12 +20994,12 @@
 	</programme>
 	<programme channel="511" start="20250522225000 +0000" stop="20250522234500 +0000">
 		<title>S.W.A.T. (Season 8) - EP 21</title>
-		<desc>Inspired by the television series and the feature film, S.W.A.T. stars Shemar Moore as a locally born and raised S.W.A.T. sergeant newly tasked to run a specialized tactical unit that is the last stop in law enforcement in Los Angeles.</desc>
+		<desc>When an auto carrier truck is hijacked by a high-speed crew, an old rivalry reignites for Hondo, on Part one of the series finale "S.W.A.T".</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch511_swat_8.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="511" start="20250522234500 +0000" stop="20250523004000 +0000">
 		<title>S.W.A.T. (Season 8) - EP 22</title>
-		<desc>Inspired by the television series and the feature film, S.W.A.T. stars Shemar Moore as a locally born and raised S.W.A.T. sergeant newly tasked to run a specialized tactical unit that is the last stop in law enforcement in Los Angeles.</desc>
+		<desc>Hondo and 20-Squad race to stop Russian mercenaries who've rigged L.A. with explosives in Part two of the series finale of "S.W.A.T.".</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch511_swat_8.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="511" start="20250523004000 +0000" stop="20250523013000 +0000">
@@ -23302,40 +23302,60 @@
 		<desc>The latest news from the BBC.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch701_BBC_news.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="701" start="20250522003000 +0000" stop="20250522010000 +0000">
-		<title>The Interview: Yungblud: My Generation</title>
-		<desc>Pop-punk sensation Yungblud sits down with Laura Kuenssberg and tells all on his new album, his musical heroes, the downside of fame and shares his own previously undisclosed political ambitions!</desc>
+	<programme channel="701" start="20250522003000 +0000" stop="20250522004500 +0000">
+		<title>Business Today</title>
+		<desc>Business Today. Bringing the latest business news and up-to-date informed analysis from Singapore and around the world.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch701_BBC_news.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="701" start="20250522004500 +0000" stop="20250522010000 +0000">
+		<title>Sportsday</title>
+		<desc>A round-up of the day's sporting action, plus talking points, analysis and original journalism.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch701_sports_day.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="701" start="20250522010000 +0000" stop="20250522013000 +0000">
 		<title>Newsday</title>
 		<desc>Live from Singapore, the latest international news from the BBC.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch701_newsday.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="701" start="20250522013000 +0000" stop="20250522020000 +0000">
-		<title>The Media Show</title>
-		<desc>A global, topical weekly show that lifts the hood on the entertainment and news business. The Media Show explores the companies and personalities who command our attention.</desc>
+	<programme channel="701" start="20250522013000 +0000" stop="20250522014500 +0000">
+		<title>Business Today</title>
+		<desc>Business Today. Bringing the latest business news and up-to-date informed analysis from Singapore and around the world.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch701_BBC_news.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="701" start="20250522014500 +0000" stop="20250522020000 +0000">
+		<title>Sportsday</title>
+		<desc>A round-up of the day's sporting action, plus talking points, analysis and original journalism.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch701_sports_day.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="701" start="20250522020000 +0000" stop="20250522023000 +0000">
 		<title>Newsday</title>
 		<desc>Live from Singapore, the latest international news from the BBC.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch701_newsday.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="701" start="20250522023000 +0000" stop="20250522030000 +0000">
-		<title>Blood Parliament</title>
-		<desc>In 2024, a protest at Kenya's legislature was ended by the gunfire of security forces. To this day, those shooters' faces have remained hidden. BBC World Service exposes the men responsible.</desc>
+	<programme channel="701" start="20250522023000 +0000" stop="20250522024500 +0000">
+		<title>Business Today</title>
+		<desc>Business Today. Bringing the latest business news and up-to-date informed analysis from Singapore and around the world.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch701_BBC_news.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="701" start="20250522024500 +0000" stop="20250522030000 +0000">
+		<title>Sportsday</title>
+		<desc>A round-up of the day's sporting action, plus talking points, analysis and original journalism.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch701_sports_day.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="701" start="20250522030000 +0000" stop="20250522033000 +0000">
 		<title>Newsday</title>
 		<desc>Live from Singapore, the latest international news from the BBC.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch701_newsday.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="701" start="20250522033000 +0000" stop="20250522040000 +0000">
-		<title>Tech Now</title>
-		<desc>Alasdair Keane visits the McLaren Technology Centre to see how the Formula 1 team is using recycled materials in its cars, as it aims to make the sport more sustainable.</desc>
+	<programme channel="701" start="20250522033000 +0000" stop="20250522034500 +0000">
+		<title>Business Today</title>
+		<desc>Business Today. Bringing the latest business news and up-to-date informed analysis from Singapore and around the world.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch701_BBC_news.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="701" start="20250522034500 +0000" stop="20250522040000 +0000">
+		<title>Sportsday</title>
+		<desc>A round-up of the day's sporting action, plus talking points, analysis and original journalism.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch701_sports_day.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="701" start="20250522040000 +0000" stop="20250522043000 +0000">
 		<title>BBC News</title>
@@ -23552,40 +23572,60 @@
 		<desc>The latest news from the BBC.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch701_BBC_news.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="701" start="20250523003000 +0000" stop="20250523010000 +0000">
-		<title>The Media Show</title>
-		<desc>A global, topical weekly show that lifts the hood on the entertainment and news business. The Media Show explores the companies and personalities who command our attention.</desc>
+	<programme channel="701" start="20250523003000 +0000" stop="20250523004500 +0000">
+		<title>Business Today</title>
+		<desc>Business Today. Bringing the latest business news and up-to-date informed analysis from Singapore and around the world.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch701_BBC_news.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="701" start="20250523004500 +0000" stop="20250523010000 +0000">
+		<title>Sportsday</title>
+		<desc>A round-up of the day's sporting action, plus talking points, analysis and original journalism.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch701_sports_day.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="701" start="20250523010000 +0000" stop="20250523013000 +0000">
 		<title>Newsday</title>
 		<desc>Live from Singapore, the latest international news from the BBC.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch701_newsday.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="701" start="20250523013000 +0000" stop="20250523020000 +0000">
-		<title>Tech Now</title>
-		<desc>Alasdair Keane visits the McLaren Technology Centre to see how the Formula 1 team is using recycled materials in its cars, as it aims to make the sport more sustainable.</desc>
+	<programme channel="701" start="20250523013000 +0000" stop="20250523014500 +0000">
+		<title>Business Today</title>
+		<desc>Business Today. Bringing the latest business news and up-to-date informed analysis from Singapore and around the world.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch701_BBC_news.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="701" start="20250523014500 +0000" stop="20250523020000 +0000">
+		<title>Sportsday</title>
+		<desc>A round-up of the day's sporting action, plus talking points, analysis and original journalism.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch701_sports_day.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="701" start="20250523020000 +0000" stop="20250523023000 +0000">
 		<title>Newsday</title>
 		<desc>Live from Singapore, the latest international news from the BBC.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch701_newsday.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="701" start="20250523023000 +0000" stop="20250523030000 +0000">
-		<title>The Interview: Yungblud: My Generation</title>
-		<desc>Pop-punk sensation Yungblud sits down with Laura Kuenssberg and tells all on his new album, his musical heroes, the downside of fame and shares his own previously undisclosed political ambitions!</desc>
+	<programme channel="701" start="20250523023000 +0000" stop="20250523024500 +0000">
+		<title>Business Today</title>
+		<desc>Business Today. Bringing the latest business news and up-to-date informed analysis from Singapore and around the world.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch701_BBC_news.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="701" start="20250523024500 +0000" stop="20250523030000 +0000">
+		<title>Sportsday</title>
+		<desc>A round-up of the day's sporting action, plus talking points, analysis and original journalism.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch701_sports_day.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="701" start="20250523030000 +0000" stop="20250523033000 +0000">
 		<title>Newsday</title>
 		<desc>Live from Singapore, the latest international news from the BBC.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch701_newsday.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="701" start="20250523033000 +0000" stop="20250523040000 +0000">
-		<title>Talking Business</title>
-		<desc>Examining the business stories and economic trends that are re-shaping our world.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch701_talking_business.jpg?w=341&amp;h=192" />
+	<programme channel="701" start="20250523033000 +0000" stop="20250523034500 +0000">
+		<title>Business Today</title>
+		<desc>Business Today. Bringing the latest business news and up-to-date informed analysis from Singapore and around the world.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch701_BBC_news.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="701" start="20250523034500 +0000" stop="20250523040000 +0000">
+		<title>Sportsday</title>
+		<desc>A round-up of the day's sporting action, plus talking points, analysis and original journalism.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch701_sports_day.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="701" start="20250523040000 +0000" stop="20250523043000 +0000">
 		<title>BBC News</title>
