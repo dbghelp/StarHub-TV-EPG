@@ -1787,19 +1787,19 @@
 		<desc>The story of how a newly appointed headmistress reforms everyone in a government school and also how she safeguards the school and the students from external issues.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/105_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="105" start="20250523110000 +0000" stop="20250523120000 +0000">
-		<title>King of Culinary Raja Kaiya Vecha - EP 6</title>
-		<desc>Following the success of the Mandarin version of King of Culinary Seasons 1 and 2, this popular cooking competition returns across multiple channels and platforms, Raja Kaiya Vecha, a unique cooking competition that seeks out amateur cooks to pit against top local chefs for a chance to win up to S$20000 and achieve their culinary dreams. Get ready for a fun &amp; fiery cook-off as the home decides who they want to compete against and what signature dishes they will be preparing for the competition.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/105_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="105" start="20250523120000 +0000" stop="20250523123000 +0000">
+	<programme channel="105" start="20250523110000 +0000" stop="20250523113000 +0000">
 		<title>Indian Beat S16 - EP 8</title>
 		<desc>Indian Beat S16</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/105_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="105" start="20250523123000 +0000" stop="20250523130000 +0000">
+	<programme channel="105" start="20250523113000 +0000" stop="20250523120000 +0000">
 		<title>Seithi - EP 52</title>
 		<desc>(Live) Tamil Seithi focuses primarily on local and international news, information and current affairs. _x000D_Catch the online news portal at http://seithi.mediacorp.sg/</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/105_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="105" start="20250523120000 +0000" stop="20250523130000 +0000">
+		<title>Swearing-In Ceremony: Singapore Prime Minister and Ministers</title>
+		<desc>(Live) The Swearing-In Ceremony of the Prime Minister and Ministers at the Istana.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/105_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="105" start="20250523130000 +0000" stop="20250523140000 +0000">
@@ -2022,19 +2022,29 @@
 		<desc>(Live) Spotlight on East Asia, a region steeped in history and now helping to write the future of our world. We'll break down the key stories and explain why they matter.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="106" start="20250523110000 +0000" stop="20250523120000 +0000">
-		<title>Secret Lives Of Livestreamers - EP 2</title>
-		<desc>In part two of the series, we continue to follow three livestreamers from China, Indonesia and Singapore, to find out what comes after the fame, and to see their struggles to stay on top.</desc>
+	<programme channel="106" start="20250523110000 +0000" stop="20250523114500 +0000">
+		<title>The Beauty Of Tenacity - EP 2</title>
+		<desc>Former curator Yang Chang Man's role in preserving Singapore's Zoological Reference Collection made it possible for millennials like Iffah Iesa to continue learning from and adding to the collection.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="106" start="20250523120000 +0000" stop="20250523130000 +0000">
+	<programme channel="106" start="20250523114500 +0000" stop="20250523120000 +0000">
 		<title>Asia Tonight - EP 53</title>
 		<desc>(Live) CNA correspondents bring you the top stories of the day with 'live' reports and interviews to keep you up-to-date on the day’s events.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="106" start="20250523130000 +0000" stop="20250523140000 +0000">
-		<title>The Future Proofers - EP 1</title>
-		<desc>Follow two trailblazing mayors in Bangkok and Quezon City as they try to change how their citizens dispose trash, to ensure the cities' survival. It's a race against time as monsoon season hits.</desc>
+	<programme channel="106" start="20250523120000 +0000" stop="20250523130000 +0000">
+		<title>Swearing-In Ceremony: Singapore Prime Minister and Ministers</title>
+		<desc>(Live) The Swearing-In Ceremony of the Prime Minister and Ministers at the Istana. (With English subtitles)</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="106" start="20250523130000 +0000" stop="20250523133000 +0000">
+		<title>Asia Tonight - EP 54</title>
+		<desc>(Live) CNA correspondents bring you the top stories of the day with 'live' reports and interviews to keep you up-to-date on the day’s events.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="106" start="20250523133000 +0000" stop="20250523140000 +0000">
+		<title>CNA Correspondent - EP 41</title>
+		<desc>Thousands of lanterns are released into the night sky during one of Thailand's prettiest festivals. But there are opposing forces trying to both preserve and end this practice.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="106" start="20250523140000 +0000" stop="20250523150000 +0000">
@@ -4914,7 +4924,7 @@
 	</programme>
 	<programme channel="128" start="20250523023000 +0000" stop="20250523030000 +0000">
 		<title>Ram Bhavan - EP 113</title>
-		<desc>In a battle between evil and goodness, Isha motivates Om to confront his family.</desc>
+		<desc>Isha, a charming and brave woman, faces challenges and tackles them on her own.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch128_ram_bhavan.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="128" start="20250523030000 +0000" stop="20250523033000 +0000">
@@ -4934,7 +4944,7 @@
 	</programme>
 	<programme channel="128" start="20250523043000 +0000" stop="20250523050000 +0000">
 		<title>Megha Barsenge - EP 290</title>
-		<desc>After being abandoned by her groom, Megha decides to live life on her own terms.</desc>
+		<desc>Manoj captures Arjun and asks him about Megha and the rest of the family.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch128_megha_barsenge.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="128" start="20250523050000 +0000" stop="20250523053000 +0000">
@@ -4944,7 +4954,7 @@
 	</programme>
 	<programme channel="128" start="20250523053000 +0000" stop="20250523060000 +0000">
 		<title>Parineetii - EP 1122</title>
-		<desc>Fate plays a cruel trick on two best friends by tying their heartstrings to the same man.</desc>
+		<desc>Pari eventually agrees to marry Prithivi in order to save Sanju from facing jail time.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch128_parineetii.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="128" start="20250523060000 +0000" stop="20250523063000 +0000">
@@ -4954,22 +4964,22 @@
 	</programme>
 	<programme channel="128" start="20250523063000 +0000" stop="20250523070000 +0000">
 		<title>Ram Bhavan - EP 114</title>
-		<desc>In a battle between evil and goodness, Isha motivates Om to confront his family.</desc>
+		<desc>Tara asks Isha to help her find her sister, Sitara, after she goes missing.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch128_ram_bhavan.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="128" start="20250523070000 +0000" stop="20250523080000 +0000">
 		<title>Mangal Lakshmi - EP 450</title>
-		<desc>Mangal sets off on a journey to find an ideal match for Lakshmi.</desc>
+		<desc>Mangal discovers Adit and Ishana trapped under a underground cell by the captors.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch128_mangal_lakshmi.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="128" start="20250523080000 +0000" stop="20250523083000 +0000">
 		<title>Mannat Harr Khushi Paane Ki - EP 99</title>
-		<desc>Chef Mannat's dreams clash with her employer, who is her secret birth mother and nemesis.</desc>
+		<desc>Neetu gaslights Vikrant into believing that Mannat is at fault for his health.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch128_mannat_harr_khushi_paane_ki.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="128" start="20250523083000 +0000" stop="20250523090000 +0000">
 		<title>Doree - EP 88</title>
-		<desc>After being abandoned, a selfless six-year-old Doree gets taken in by a doting foster father.</desc>
+		<desc>Doree vows to prove Mann's innocence as she saves him from going to jail.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch128_doree.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="128" start="20250523090000 +0000" stop="20250523093000 +0000">
@@ -4984,12 +4994,12 @@
 	</programme>
 	<programme channel="128" start="20250523100000 +0000" stop="20250523103000 +0000">
 		<title>Ram Bhavan - EP 113</title>
-		<desc>In a battle between evil and goodness, Isha motivates Om to confront his family.</desc>
+		<desc>Isha, a charming and brave woman, faces challenges and tackles them on her own.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch128_ram_bhavan.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="128" start="20250523103000 +0000" stop="20250523110000 +0000">
 		<title>Megha Barsenge - EP 290</title>
-		<desc>After being abandoned by her groom, Megha decides to live life on her own terms.</desc>
+		<desc>Manoj captures Arjun and asks him about Megha and the rest of the family.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch128_megha_barsenge.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="128" start="20250523110000 +0000" stop="20250523113000 +0000">
@@ -4999,7 +5009,7 @@
 	</programme>
 	<programme channel="128" start="20250523113000 +0000" stop="20250523120000 +0000">
 		<title>Parineetii - EP 1122</title>
-		<desc>Fate plays a cruel trick on two best friends by tying their heartstrings to the same man.</desc>
+		<desc>Pari eventually agrees to marry Prithivi in order to save Sanju from facing jail time.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch128_parineetii.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="128" start="20250523120000 +0000" stop="20250523123000 +0000">
@@ -5009,32 +5019,32 @@
 	</programme>
 	<programme channel="128" start="20250523123000 +0000" stop="20250523130000 +0000">
 		<title>Ram Bhavan - EP 114</title>
-		<desc>In a battle between evil and goodness, Isha motivates Om to confront his family.</desc>
+		<desc>Tara asks Isha to help her find her sister, Sitara, after she goes missing.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch128_ram_bhavan.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="128" start="20250523130000 +0000" stop="20250523140000 +0000">
 		<title>Mangal Lakshmi - EP 450</title>
-		<desc>Mangal sets off on a journey to find an ideal match for Lakshmi.</desc>
+		<desc>Mangal discovers Adit and Ishana trapped under a underground cell by the captors.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch128_mangal_lakshmi.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="128" start="20250523140000 +0000" stop="20250523143000 +0000">
 		<title>Mannat Harr Khushi Paane Ki - EP 99</title>
-		<desc>Chef Mannat's dreams clash with her employer, who is her secret birth mother and nemesis.</desc>
+		<desc>Neetu gaslights Vikrant into believing that Mannat is at fault for his health.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch128_mannat_harr_khushi_paane_ki.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="128" start="20250523143000 +0000" stop="20250523150000 +0000">
 		<title>Doree - EP 88</title>
-		<desc>After being abandoned, a selfless six-year-old Doree gets taken in by a doting foster father.</desc>
+		<desc>Doree vows to prove Mann's innocence as she saves him from going to jail.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch128_doree.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="128" start="20250523150000 +0000" stop="20250523153000 +0000">
 		<title>Megha Barsenge - EP 290</title>
-		<desc>After being abandoned by her groom, Megha decides to live life on her own terms.</desc>
+		<desc>Manoj captures Arjun and asks him about Megha and the rest of the family.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch128_megha_barsenge.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="128" start="20250523153000 +0000" stop="20250523160000 +0000">
 		<title>Mannat Harr Khushi Paane Ki - EP 99</title>
-		<desc>Chef Mannat's dreams clash with her employer, who is her secret birth mother and nemesis.</desc>
+		<desc>Neetu gaslights Vikrant into believing that Mannat is at fault for his health.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch128_mannat_harr_khushi_paane_ki.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="130" start="20250521140000 +0000" stop="20250521163000 +0000">
@@ -5258,53 +5268,53 @@
 		<icon src="https://poster.starhubgo.com/poster/ch132_chathur_mukham.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="132" start="20250521170000 +0000" stop="20250521173000 +0000">
-		<title>Shiva Shakthi Thiruvilayadal - EP 457</title>
-		<desc>Lord Shiva and his wife, Goddess Parvati, navigate their relationship and duties and offer sacrifices and brave separation to selflessly care for humanity.</desc>
+		<title>Shiva Shakthi Thiruvilayadal - EP 455</title>
+		<desc>Goddess Parvati strives to steer her son Jalandar away from his destructive course.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch132_shiva_shakthi_thiruvilayadal.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="132" start="20250521173000 +0000" stop="20250521180000 +0000">
-		<title>Shiva Shakthi Thiruvilayadal - EP 458</title>
-		<desc>Lord Shiva and his wife, Goddess Parvati, navigate their relationship and duties and offer sacrifices and brave separation to selflessly care for humanity.</desc>
+		<title>Shiva Shakthi Thiruvilayadal - EP 456</title>
+		<desc>Lords Ganesha and Karthikeya, face a daunting task to curb Jalandar's unbridled ambition.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch132_shiva_shakthi_thiruvilayadal.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="132" start="20250521180000 +0000" stop="20250521183000 +0000">
 		<title>Kuberan</title>
-		<desc>A producer is indebted to a ruthless moneylender but refuses to pay his dues. As a result, the latter decides to make his life miserable.</desc>
+		<desc>Sidharthan helps Pooja to fight her past and move forward in life.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch132_kuberan.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="132" start="20250521183000 +0000" stop="20250521203000 +0000">
 		<title>Kuberan</title>
-		<desc>A producer is indebted to a ruthless moneylender but refuses to pay his dues. As a result, the latter decides to make his life miserable.</desc>
+		<desc>Sidharthan helps Pooja to fight her past and move forward in life.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch132_kuberan.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="132" start="20250521203000 +0000" stop="20250521210000 +0000">
-		<title>Anu - EP 27</title>
-		<desc>A woman sacrifices her ambitions and goals to raise her family. However, after feeling dejected at not receiving recognition for her sacrifices and trials, she decides to live on her own terms.</desc>
+		<title>Anu - EP 26</title>
+		<desc>Anu assumes that Dhruva's phone got damaged while he was attempting to save her.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch132_anu.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="132" start="20250521210000 +0000" stop="20250521213000 +0000">
 		<title>Kaakkum Deivam Kali - EP 115</title>
-		<desc>Despite trying his best, Jalandhar fails to find out who Mahadeva is. Later, when he gets into a fight with the asuras, he sees that Parvathi is there to save the villagers.</desc>
+		<desc>When the demon king Shumbha wages a war on Kailash, Parvati channels Goddess Kali.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch132_kaakkum_deivam_kali.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="132" start="20250521213000 +0000" stop="20250521220000 +0000">
 		<title>Kaakkum Deivam Kali - EP 116</title>
-		<desc>On Rishi Usana's request, Jalandhar agrees to lead the asuras without hesitation on the condition that Usana helps him with Parvathi.</desc>
+		<desc>When the demon king Shumbha wages a war on Kailash, Parvati channels Goddess Kali.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch132_kaakkum_deivam_kali.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="132" start="20250521220000 +0000" stop="20250521223000 +0000">
-		<title>Vetri Vinayakar - EP 431</title>
-		<desc>When Lord Shiva beheads Ganesha, unaware that he is his son, Goddess Parvati asks Shiva to resurrect him. Later, Ganesha emerges as one of the most worshipped deities in the Hindu pantheon.</desc>
+		<title>Vetri Vinayagar - EP 430</title>
+		<desc>A religious scholar provides a detailed discourse on various spiritual teachings to devotees.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch132_vetri_vinayakar.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="132" start="20250521223000 +0000" stop="20250521230000 +0000">
-		<title>Shiva Shakthi Thiruvilayadal - EP 457</title>
-		<desc>Lord Shiva and his wife, Goddess Parvati, navigate their relationship and duties and offer sacrifices and brave separation to selflessly care for humanity.</desc>
+		<title>Shiva Shakthi Thiruvilayadal - EP 455</title>
+		<desc>Goddess Parvati strives to steer her son Jalandar away from his destructive course.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch132_shiva_shakthi_thiruvilayadal.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="132" start="20250521230000 +0000" stop="20250521233000 +0000">
-		<title>Shiva Shakthi Thiruvilayadal - EP 458</title>
-		<desc>Lord Shiva and his wife, Goddess Parvati, navigate their relationship and duties and offer sacrifices and brave separation to selflessly care for humanity.</desc>
+		<title>Shiva Shakthi Thiruvilayadal - EP 456</title>
+		<desc>Lords Ganesha and Karthikeya, face a daunting task to curb Jalandar's unbridled ambition.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch132_shiva_shakthi_thiruvilayadal.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="132" start="20250521233000 +0000" stop="20250522000000 +0000">
@@ -5463,88 +5473,63 @@
 		<icon src="https://poster.starhubgo.com/poster/ch132_mayil.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="132" start="20250523003000 +0000" stop="20250523010000 +0000">
-		<title>Anu - EP 28</title>
-		<desc>A woman sacrifices her ambitions and goals to raise her family. However, after feeling dejected at not receiving recognition for her sacrifices and trials, she decides to live on her own terms.</desc>
+		<title>Anu - EP 27</title>
+		<desc>Dhruva ventures into a romantic day at Anu's home, braving the presence of her father.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch132_anu.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="132" start="20250523010000 +0000" stop="20250523023000 +0000">
-		<title>Bigg Boss - EP 89</title>
-		<desc>Celebrities live in an isolated house cut off from the rest of the world. They have to compete in challenging tasks to avoid elimination and win the grand prize.</desc>
+		<title>Bigg Boss Tamil - EP 89</title>
+		<desc>Contestants live in an isolated house and perform assigned tasks to win the cash prize.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch132_bigg_boss.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="132" start="20250523023000 +0000" stop="20250523050000 +0000">
 		<title>Dharma Chakra</title>
-		<desc>A young man and girl who are medical students fall in love with each other. However, when they are about to get married, he disappears leaving a heartbroken fiancee behind.</desc>
+		<desc>A young man abandons his fiancee just before their wedding due to inexplicable reasons.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch132_dharma_chakra.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="132" start="20250523050000 +0000" stop="20250523053000 +0000">
-		<title>Shiva Shakthi Thiruvilayadal - EP 459</title>
-		<desc>Lord Shiva and his wife, Goddess Parvati, navigate their relationship and duties and offer sacrifices and brave separation to selflessly care for humanity.</desc>
+		<title>Shiva Shakthi Thiruvilayadal - EP 457</title>
+		<desc>Jalandha confronts Lord Shiva, pitting his fierce devotion against divine authority.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch132_shiva_shakthi_thiruvilayadal.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="132" start="20250523053000 +0000" stop="20250523060000 +0000">
-		<title>Shiva Shakthi Thiruvilayadal - EP 460</title>
-		<desc>Lord Shiva and his wife, Goddess Parvati, navigate their relationship and duties and offer sacrifices and brave separation to selflessly care for humanity.</desc>
+		<title>Shiva Shakthi Thiruvilayadal - EP 458</title>
+		<desc>Jalandhar rallies his army, preparing for a fierce battle against Lord Shiva.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch132_shiva_shakthi_thiruvilayadal.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="132" start="20250523060000 +0000" stop="20250523083000 +0000">
 		<title>Aval</title>
-		<desc>Living a peaceful life in the mountains, Krishnakanth and Lakshmi welcome their new neighbours, the D'Costas. When their eldest daughter, Jenny, invites unwanted elements in the house, terror ensues.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch132_aval.jpg?w=960&amp;h=540" />
+		<desc>A successful media anchor finds herself naked in her empty office.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch132_anu.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="132" start="20250523083000 +0000" stop="20250523090000 +0000">
-		<title>Anu - EP 28</title>
-		<desc>A woman sacrifices her ambitions and goals to raise her family. However, after feeling dejected at not receiving recognition for her sacrifices and trials, she decides to live on her own terms.</desc>
+		<title>Anu - EP 27</title>
+		<desc>Dhruva ventures into a romantic day at Anu's home, braving the presence of her father.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch132_anu.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="132" start="20250523090000 +0000" stop="20250523093000 +0000">
 		<title>Kaakkum Deivam Kali - EP 119</title>
-		<desc>Pleased with Vrinda's devotion, Parvathi appears before her. Later, Vrinda requests Parvathi to turn her husband-to-be into an immortal.</desc>
+		<desc>When the demon king Shumbha wages a war on Kailash, Parvati channels Goddess Kali.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch132_kaakkum_deivam_kali.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="132" start="20250523093000 +0000" stop="20250523100000 +0000">
 		<title>Kaakkum Deivam Kali - EP 120</title>
-		<desc>Jalandhar learns about Parvathi's blessings to Vrinda and plans to marry her to protect himself from Mahakaali. However, when he expresses his desire to Vrinda she refuses.</desc>
+		<desc>When the demon king Shumbha wages a war on Kailash, Parvati channels Goddess Kali.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch132_kaakkum_deivam_kali.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="132" start="20250523100000 +0000" stop="20250523103000 +0000">
-		<title>Vetri Vinayakar - EP 433</title>
-		<desc>When Lord Shiva beheads Ganesha, unaware that he is his son, Goddess Parvati asks Shiva to resurrect him. Later, Ganesha emerges as one of the most worshipped deities in the Hindu pantheon.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch132_vetri_vinayakar.jpg?w=960&amp;h=540" />
-	</programme>
-	<programme channel="132" start="20250523103000 +0000" stop="20250523110000 +0000">
-		<title>Shiva Shakthi Thiruvilayadal - EP 461</title>
-		<desc>Lord Shiva and his wife, Goddess Parvati, navigate their relationship and duties and offer sacrifices and brave separation to selflessly care for humanity.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch132_shiva_shakthi_thiruvilayadal.jpg?w=341&amp;h=192" />
-	</programme>
-	<programme channel="132" start="20250523110000 +0000" stop="20250523113000 +0000">
-		<title>Shiva Shakthi Thiruvilayadal - EP 462</title>
-		<desc>Lord Shiva and his wife, Goddess Parvati, navigate their relationship and duties and offer sacrifices and brave separation to selflessly care for humanity.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch132_shiva_shakthi_thiruvilayadal.jpg?w=341&amp;h=192" />
-	</programme>
-	<programme channel="132" start="20250523113000 +0000" stop="20250523120000 +0000">
-		<title>Kadhala Kadhala - EP 44</title>
-		<desc>A show that is dramatic in nature.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch132_kadhala_kadhala.jpg?w=341&amp;h=192" />
-	</programme>
-	<programme channel="132" start="20250523120000 +0000" stop="20250523123000 +0000">
-		<title>Mayil - EP 50</title>
-		<desc>Imlie, a smart village belle, is forced to marry a journalist after they seek shelter in a hut during heavy rains. On reaching the city, she realises that her husband is engaged to be married.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch132_mayil.jpg?w=960&amp;h=540" />
-	</programme>
-	<programme channel="132" start="20250523123000 +0000" stop="20250523130000 +0000">
-		<title>Anu - EP 29</title>
-		<desc>A woman sacrifices her ambitions and goals to raise her family. However, after feeling dejected at not receiving recognition for her sacrifices and trials, she decides to live on her own terms.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch132_anu.jpg?w=960&amp;h=540" />
+	<programme channel="132" start="20250523100000 +0000" stop="20250523130000 +0000">
+		<title>Ghajinikanth</title>
+		<desc>Rajinikanth, a forgetful man, struggles to hide his condition from the woman he loves.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch132_tba.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="132" start="20250523130000 +0000" stop="20250523143000 +0000">
-		<title>Bigg Boss - EP 90</title>
-		<desc>Celebrities live in an isolated house cut off from the rest of the world. They have to compete in challenging tasks to avoid elimination and win the grand prize.</desc>
+		<title>Bigg Boss Tamil - EP 90</title>
+		<desc>Contestants live in an isolated house and perform assigned tasks to win the cash prize.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch132_bigg_boss.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="132" start="20250523143000 +0000" stop="20250523170000 +0000">
 		<title>Chiruthai Puli</title>
-		<desc>A young boy witnesses his father's murder and vows to avenge his death. Years later, he arrives in Bangkok to find his father's killers but, in the meantime, falls in love.</desc>
+		<desc>A boy's vow to avenge his father's death leads him to Bangkok where he finds true love.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch132_chiruthai_puli.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="133" start="20250521160000 +0000" stop="20250521163000 +0000">
@@ -8477,6 +8462,11 @@
 		<desc>A young man gets entangled in a kidnap-for-ransom situation. He offers the kidnappers all his hard-earned money to save the victim, believing that her wealthy Filipino-Chinese family could easily repay him, or so he thought.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch144_cant_buy_me_love.jpg?w=960&amp;h=540" />
 	</programme>
+	<programme channel="144" start="20250523030000 +0000" stop="20250523033000 +0000">
+		<title>Ang Iyo Ay Sa Akin</title>
+		<desc>Marissa and Ellice are best friends who hail from different worlds: Ellice is from an influential family, while Marissa is a simple lass living with her mother Lucing. The two are inseparable until one night, a gruesome crime changes their destinies.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/144_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
 	<programme channel="144" start="20250523033000 +0000" stop="20250523040000 +0000">
 		<title>BRGY Season 3</title>
 		<desc>BRGY features interesting and humorous stories about Filipinos and businesses in North America.</desc>
@@ -8512,12 +8502,12 @@
 		<desc>A young man gets entangled in a kidnap-for-ransom situation. He offers the kidnappers all his hard-earned money to save the victim, believing that her wealthy Filipino-Chinese family could easily repay him, or so he thought.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch144_cant_buy_me_love.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="144" start="20250523084500 +0000" stop="20250523093000 +0000">
+	<programme channel="144" start="20250523084500 +0000" stop="20250523091500 +0000">
 		<title>Goin' Bulilit S15</title>
 		<desc>This comical spin-off of the 80s comedy programme Goin' Bananas is currently the Philippines' most successful children's comedy show, created and directed by one of Goin' Bananas' original stars, Bobot Mortiz.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/144_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="144" start="20250523093000 +0000" stop="20250523103000 +0000">
+	<programme channel="144" start="20250523091500 +0000" stop="20250523103000 +0000">
 		<title>Bayanihan: Healing As One A BRGY Special</title>
 		<desc>TFC continues to bring you the best of Filipino TV, movie and event entertainment, as well as timely news information that directly impacts your community!</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/144_1920x1080_HTV.png?w=341&amp;h=192" />
@@ -10948,12 +10938,12 @@
 		<icon src="https://poster.starhubgo.com/poster/ch211_ATPMASTERS500.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="211" start="20250522160000 +0000" stop="20250522180000 +0000">
-		<title>ATP Tour 500 2025: Hamburg QF 4</title>
+		<title>ATP Tour 250 2025: Geneva QF 3 Djokovic v Arnaldi</title>
 		<desc>Exclusive coverage of the 2025 ATP Tour on beIN SPORTS as the world's best male players battle it out across the globe to be #1.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_ATPMASTERS500.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="211" start="20250522180000 +0000" stop="20250522200000 +0000">
-		<title>ATP Tour 250 2025: Geneva QF 4</title>
+		<title>ATP Tour 250 2025: Geneva QF 4 Popyrin v Norrie</title>
 		<desc>Exclusive coverage of the 2025 ATP Tour on beIN SPORTS as the world's best male players battle it out across the globe to be #1.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_ATPMASTERS250.jpg?w=341&amp;h=192" />
 	</programme>
@@ -10973,12 +10963,12 @@
 		<icon src="https://poster.starhubgo.com/poster/ch211_ATPMASTERS500.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="211" start="20250522220000 +0000" stop="20250522233000 +0000">
-		<title>ATP Tour 250 2025: Geneva QF 1</title>
+		<title>ATP Tour 250 2025: Geneva QF 1 Khachanov Ofner</title>
 		<desc>Exclusive coverage of the 2025 ATP Tour on beIN SPORTS as the world's best male players battle it out across the globe to be #1.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_ATPMASTERS250.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="211" start="20250522233000 +0000" stop="20250523010000 +0000">
-		<title>ATP Tour 250 2025: Geneva QF 2</title>
+		<title>ATP Tour 250 2025: Geneva QF 2 Fritz v Hurkacz</title>
 		<desc>Exclusive coverage of the 2025 ATP Tour on beIN SPORTS as the world's best male players battle it out across the globe to be #1.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_ATPMASTERS250.jpg?w=341&amp;h=192" />
 	</programme>
@@ -10988,7 +10978,7 @@
 		<icon src="https://poster.starhubgo.com/poster/ch211_ATPTourGeneric.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="211" start="20250523013000 +0000" stop="20250523030000 +0000">
-		<title>ATP Tour 250 2025: Geneva QF 3</title>
+		<title>ATP Tour 250 2025: Geneva QF 4 Popyrin v Norrie</title>
 		<desc>Exclusive coverage of the 2025 ATP Tour on beIN SPORTS as the world's best male players battle it out across the globe to be #1.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_ATPMASTERS250.jpg?w=341&amp;h=192" />
 	</programme>
@@ -10998,22 +10988,22 @@
 		<icon src="https://poster.starhubgo.com/poster/ch211_roland_garros.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="211" start="20250523040000 +0000" stop="20250523053000 +0000">
-		<title>ATP Tour 250 2025: Geneva QF 4</title>
+		<title>ATP Tour 250 2025: Geneva QF 3 Djokovic v Arnaldi</title>
 		<desc>Exclusive coverage of the 2025 ATP Tour on beIN SPORTS as the world's best male players battle it out across the globe to be #1.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_ATPMASTERS250.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="211" start="20250523053000 +0000" stop="20250523070000 +0000">
-		<title>ATP Tour 500 2025: Hamburg QF 1</title>
+		<title>ATP Tour 500 2025: Hamburg QF 1 Lehecka v Etcheverry</title>
 		<desc>Exclusive coverage of the 2025 ATP Tour on beIN SPORTS as the world's best male players battle it out across the globe to be #1.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_ATPMASTERS500.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="211" start="20250523070000 +0000" stop="20250523083000 +0000">
-		<title>ATP Tour 500 2025: Hamburg QF 2</title>
+		<title>ATP Tour 500 2025: Hamburg QF 2 Cobolli v Bautista Agut</title>
 		<desc>Exclusive coverage of the 2025 ATP Tour on beIN SPORTS as the world's best male players battle it out across the globe to be #1.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_ATPMASTERS500.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="211" start="20250523083000 +0000" stop="20250523100000 +0000">
-		<title>ATP Tour 500 2025: Hamburg QF 3</title>
+		<title>ATP Tour 500 2025: Hamburg QF 3 Rublev v Darderi</title>
 		<desc>Exclusive coverage of the 2025 ATP Tour on beIN SPORTS as the world's best male players battle it out across the globe to be #1.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_ATPMASTERS500.jpg?w=341&amp;h=192" />
 	</programme>
@@ -11023,7 +11013,7 @@
 		<icon src="https://poster.starhubgo.com/poster/ch211_ATPTourGeneric.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="211" start="20250523103000 +0000" stop="20250523120000 +0000">
-		<title>ATP Tour 500 2025: Hamburg QF 4</title>
+		<title>ATP Tour 500 2025: Hamburg QF 4 Auger-Aliassime v Muller</title>
 		<desc>Exclusive coverage of the 2025 ATP Tour on beIN SPORTS as the world's best male players battle it out across the globe to be #1.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_ATPMASTERS500.jpg?w=341&amp;h=192" />
 	</programme>
@@ -11320,7 +11310,7 @@
 	<programme channel="213" start="20250523123800 +0000" stop="20250523130800 +0000">
 		<title>FIA European Truck Racing Championship Highlights 2025</title>
 		<desc>Catch all the non-stop tumbling action from the European Truck Racing Championships, packed into a 30-mins thrilling highlight program</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch213_fia_european_truck_racing_championship_highlights_2021.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch213_fia_european_rally_championship_highlights.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="213" start="20250523130800 +0000" stop="20250523135000 +0000">
 		<title>FIA Formula 2 Championship Qualifying 2025: Monte Carlo, Monaco (Live)</title>
@@ -11842,6 +11832,21 @@
 		<desc>Beautiful! was the reaction from Morato when he first set eyes on The City Ground. Having joined Nottingham Forest last summer, the Brazilian sits down with The Big Interview in the final week of what's been a remarkable season. The 23-year-old shares his thoughts about Forest's fortunes under Nuno Espirito Santo, his career journey to England and how losing his sister to cancer when she was just 18 has impacted his life.</desc>
 		<icon src="https://poster.starhubgo.com/poster/the_big_interview_V2.jpg?w=341&amp;h=192" />
 	</programme>
+	<programme channel="221" start="20250523003000 +0000" stop="20250523010000 +0000">
+		<title>PL STORIES - EP 51</title>
+		<desc>As the curtain comes down on Everton's time at Goodison Park, PL Stories takes a poignant look back at one of English football's most iconic grounds. For over 130 years, Goodison has been more than just a stadium; it's been a home, a fortress, and the stage for countless moments of triumph, heartbreak, and unforgettable drama.</desc>
+		<icon src="https://poster.starhubgo.com/poster/pl_stories_V2.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="221" start="20250523010000 +0000" stop="20250523013000 +0000">
+		<title>PL STORIES - EP 50</title>
+		<desc>We follow New Zealand striker Chris Wood during a crucial World Cup Qualifier on home soil, at the peak of one of the most impressive seasons of his career. Back in his hometown, we meet the family, coaches and friends who helped shape the player and the person he's become. From humble beginnings to Premier League mainstay, Wood reflects on the pressures he's faced, the pride of leading his country, and the mindset that's driven him every step of the way.</desc>
+		<icon src="https://poster.starhubgo.com/poster/pl_stories_V2.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="221" start="20250523013000 +0000" stop="20250523023000 +0000">
+		<title>THE CATCH-UP SHOW - EP 40</title>
+		<desc>All the very best of the week's programming and digital content from another action-packed Premier League match round.</desc>
+		<icon src="https://poster.starhubgo.com/poster/the_catch_up_show_V2.jpg?w=960&amp;h=540" />
+	</programme>
 	<programme channel="221" start="20250523023000 +0000" stop="20250523030000 +0000">
 		<title>NETBUSTERS - EP 37</title>
 		<desc>Relive the best action from the Premier League with this fast-paced ISO angle highlights show, featuring every game and every goal from each matchround.</desc>
@@ -11859,13 +11864,18 @@
 	</programme>
 	<programme channel="221" start="20250523043000 +0000" stop="20250523050000 +0000">
 		<title>THE BIG INTERVIEW - EP 41</title>
-		<desc>Extended sit-downs and more informal 'out and about' interviews with the Premier League's biggest stars, providing players with a platform to tell their story in their own words.</desc>
+		<desc>Beautiful! was the reaction from Morato when he first set eyes on The City Ground. Having joined Nottingham Forest last summer, the Brazilian sits down with The Big Interview in the final week of what's been a remarkable season. The 23-year-old shares his thoughts about Forest's fortunes under Nuno Espirito Santo, his career journey to England and how losing his sister to cancer when she was just 18 has impacted his life.</desc>
 		<icon src="https://poster.starhubgo.com/poster/the_big_interview_V2.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="221" start="20250523050000 +0000" stop="20250523060000 +0000">
 		<title>THE CATCH-UP SHOW - EP 40</title>
 		<desc>All the very best of the week's programming and digital content from another action-packed Premier League match round.</desc>
 		<icon src="https://poster.starhubgo.com/poster/the_catch_up_show_V2.jpg?w=960&amp;h=540" />
+	</programme>
+	<programme channel="221" start="20250523060000 +0000" stop="20250523070000 +0000">
+		<title>PL GOATS - EP 5</title>
+		<desc>Premier League legend Tim Howard takes on the ultimate challenge, ranking the 10 greatest US players to play in the Premier League. But there's a twist; from his carefully selected list, he must crown one as the Ultimate Premier League USA GOAT.</desc>
+		<icon src="https://poster.starhubgo.com/poster/pl_goats_V2.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="221" start="20250523070000 +0000" stop="20250523080000 +0000">
 		<title>PL STORIES - EP 42</title>
@@ -11879,7 +11889,7 @@
 	</programme>
 	<programme channel="221" start="20250523083000 +0000" stop="20250523090000 +0000">
 		<title>THE BIG INTERVIEW - EP 41</title>
-		<desc>Extended sit-downs and more informal 'out and about' interviews with the Premier League's biggest stars, providing players with a platform to tell their story in their own words.</desc>
+		<desc>Beautiful! was the reaction from Morato when he first set eyes on The City Ground. Having joined Nottingham Forest last summer, the Brazilian sits down with The Big Interview in the final week of what's been a remarkable season. The 23-year-old shares his thoughts about Forest's fortunes under Nuno Espirito Santo, his career journey to England and how losing his sister to cancer when she was just 18 has impacted his life.</desc>
 		<icon src="https://poster.starhubgo.com/poster/the_big_interview_V2.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="221" start="20250523090000 +0000" stop="20250523093000 +0000">
@@ -11903,19 +11913,19 @@
 		<icon src="https://poster.starhubgo.com/poster/welcome_to_the_weekend_V2.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="221" start="20250523120000 +0000" stop="20250523123000 +0000">
-		<title>PL REWIND - EP 20</title>
-		<desc>Manchester City v QPR on the final day of the 2011/12 season will forever be remembered as the most dramatic of finales to a Premier League season. Shaun Wright-Phillips and Joleon Lescott offer the perspective from both sides, with the final day drama at the Etihad set in the context of Manchester City's Run-In and their pursuit of a first Premier League Title.</desc>
-		<icon src="https://poster.starhubgo.com/poster/pl_rewind_V2.jpg?w=341&amp;h=192" />
+		<title>UNDER THE SKIN - NOTTINGHAM FOREST</title>
+		<desc>This documentary celebrates the incredible, rollercoaster ride of Nottingham Forest Showcasing the club's fans, culture and traditions, we see how Forest's return to European football was achieved by reconnecting with the legacy of Brian Clough.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch221_generic_premier_league_yellow9.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="221" start="20250523123000 +0000" stop="20250523133000 +0000">
 		<title>PL GOATS - EP 5</title>
-		<desc>With Tim Howard. PL GOATs provides a fresh take on one of the oldest conversations in sport - just who is the greatest? Our panel will discuss and then decide with the help of archive, stats and first-hand testimony. Each episode focuses on a classic Premier League fan debate.</desc>
+		<desc>Premier League legend Tim Howard takes on the ultimate challenge, ranking the 10 greatest US players to play in the Premier League. But there's a twist; from his carefully selected list, he must crown one as the Ultimate Premier League USA GOAT.</desc>
 		<icon src="https://poster.starhubgo.com/poster/pl_goats_V2.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="221" start="20250523133000 +0000" stop="20250523140000 +0000">
-		<title>THE BIG INTERVIEW - EP 41</title>
-		<desc>Extended sit-downs and more informal 'out and about' interviews with the Premier League's biggest stars, providing players with a platform to tell their story in their own words.</desc>
-		<icon src="https://poster.starhubgo.com/poster/the_big_interview_V2.jpg?w=341&amp;h=192" />
+		<title>PL STORIES - EP 30</title>
+		<desc>PL Stories delves into the nail-biting relegation 'Great Escapes' in Premier League History. Through exclusive interviews with the players and managers caught in the heart of the battle, we relive the tension, resilience, and ultimate victories that defined these unforgettable moments.</desc>
+		<icon src="https://poster.starhubgo.com/poster/pl_stories_V2.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="221" start="20250523140000 +0000" stop="20250523143000 +0000">
 		<title>FANTASY SHOW - FRI 23 MAY</title>
@@ -11929,7 +11939,7 @@
 	</programme>
 	<programme channel="221" start="20250523153000 +0000" stop="20250523160000 +0000">
 		<title>PREVIEW - FRI 23 MAY</title>
-		<desc>A tightly packed look-ahead to the forthcoming matchround with a mix of player interviews and special features.</desc>
+		<desc>This week Preview helps bring the Premier League season to a thrilling close, with Newcastle, Chelsea, City, Villa and Forest battling it out for European places.</desc>
 		<icon src="https://poster.starhubgo.com/poster/pl_preview_V2.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="222" start="20250521160000 +0000" stop="20250521220000 +0000">
@@ -12163,12 +12173,12 @@
 		<icon src="https://poster.starhubgo.com/Linear_Channels2/227_1920x1080_HTV.png?w=960&amp;h=540" />
 	</programme>
 	<programme channel="227" start="20250523040000 +0000" stop="20250523100000 +0000">
-		<title>End Of Transmission</title>
+		<title>End of Transmission</title>
 		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_Channels2/227_1920x1080_HTV.png?w=960&amp;h=540" />
 	</programme>
 	<programme channel="227" start="20250523100000 +0000" stop="20250523160000 +0000">
-		<title>End Of Transmission</title>
+		<title>End of Transmission</title>
 		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_Channels2/227_1920x1080_HTV.png?w=960&amp;h=540" />
 	</programme>
@@ -30203,8 +30213,8 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="811" start="20250522064000 +0000" stop="20250522065000 +0000">
-		<title>Mimicries--Natural Science for Kids</title>
-		<desc>Stimulating children's intellectual curiosity by observing similar animals and plants in nature.</desc>
+		<title>Points at Issue</title>
+		<desc>Specialists from different fields will make commentaries on current event issues.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="811" start="20250522065000 +0000" stop="20250522065500 +0000">
@@ -30393,7 +30403,7 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="811" start="20250522202500 +0000" stop="20250522205300 +0000">
-		<title>Journeys in Japan (B)</title>
+		<title>Journeys in Japan Encore (B)</title>
 		<desc>English-speaking visitors travel the length of Japan, exploring the local culture, meeting the people and offering travel hints rarely found in guidebooks. Get to know useful travel tips!</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
@@ -31224,7 +31234,7 @@
 	</programme>
 	<programme channel="815" start="20250521190500 +0000" stop="20250521194500 +0000">
 		<title>Queen's House - EP 13</title>
-		<desc>A revenge story about a woman in the top 1% starting over from the ground up to reclaim her stolen life and find her true 'home'. A passionate drama of people striving to regain the true meaning of life.</desc>
+		<desc>This revenge story is about a woman in the top one per cent who starts over from the ground up to reclaim her stolen life and find her true 'home'. A passionate drama about people striving to regain the true meaning of life.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch815_queens_house.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="815" start="20250521194500 +0000" stop="20250521210000 +0000">
@@ -31234,7 +31244,7 @@
 	</programme>
 	<programme channel="815" start="20250521210000 +0000" stop="20250521221500 +0000">
 		<title>Problem Child in House - EP 3</title>
-		<desc>In a society that puts the spotlight on the smart guys only, there are people who do not have a grain of common sense. In this knowledge-talk show, these problematic people get locked up in a rooftop house and are allowed to go home only if they get 10 questions right.</desc>
+		<desc>In a society that puts the spotlight on the smart guys, there are people who do not have a grain of common sense! In this knowledge-talk show, these people get locked up in a rooftop house and are allowed to go home only if they get 10 questions right!</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch815_problem_child_in_house.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="815" start="20250521221500 +0000" stop="20250521223000 +0000">
@@ -31399,7 +31409,7 @@
 	</programme>
 	<programme channel="815" start="20250523010000 +0000" stop="20250523014000 +0000">
 		<title>Queen's House - EP 14</title>
-		<desc>A revenge story about a woman in the top 1% starting over from the ground up to reclaim her stolen life and find her true 'home'. A passionate drama of people striving to regain the true meaning of life.</desc>
+		<desc>This revenge story is about a woman in the top one per cent who starts over from the ground up to reclaim her stolen life and find her true 'home'. A passionate drama about people striving to regain the true meaning of life.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch815_queens_house.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="815" start="20250523014000 +0000" stop="20250523022000 +0000">
@@ -31469,7 +31479,7 @@
 	</programme>
 	<programme channel="815" start="20250523121000 +0000" stop="20250523125000 +0000">
 		<title>Queen's House - EP 15</title>
-		<desc>A revenge story about a woman in the top 1% starting over from the ground up to reclaim her stolen life and find her true 'home'. A passionate drama of people striving to regain the true meaning of life.</desc>
+		<desc>This revenge story is about a woman in the top one per cent who starts over from the ground up to reclaim her stolen life and find her true 'home'. A passionate drama about people striving to regain the true meaning of life.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch815_queens_house.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="815" start="20250523125000 +0000" stop="20250523140500 +0000">
