@@ -10442,7 +10442,12 @@
 		<desc>Catch the ROSHN Saudi League weekly magazine show, bringing together prominent professional players from the Kingdom and all around the world.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/209_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="209" start="20250523080000 +0000" stop="20250523113000 +0000">
+	<programme channel="209" start="20250523080000 +0000" stop="20250523084000 +0000">
+		<title>World Table Tennis Championships Finals 2025</title>
+		<desc>The event marks a special return as Doha hosts the World Championships for the second time, 21 years after making history as the first-ever Middle Eastern host in 2004.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch209_table_tennis.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="209" start="20250523084000 +0000" stop="20250523113000 +0000">
 		<title>World Table Tennis Championships Finals 2025</title>
 		<desc>The event marks a special return as Doha hosts the World Championships for the second time, 21 years after making history as the first-ever Middle Eastern host in 2004.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch209_table_tennis.jpg?w=341&amp;h=192" />
@@ -10517,11 +10522,6 @@
 		<desc>Be sure to catch the inspirational power of surfing through the 2025 WSL Championship Tour &amp; Challenger Series.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/209_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="209" start="20250524090000 +0000" stop="20250524120000 +0000">
-		<title>World Table Tennis Championships Finals 2025</title>
-		<desc>The event marks a special return as Doha hosts the World Championships for the second time, 21 years after making history as the first-ever Middle Eastern host in 2004.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch209_table_tennis.jpg?w=341&amp;h=192" />
-	</programme>
 	<programme channel="209" start="20250524120000 +0000" stop="20250524130000 +0000">
 		<title>Formula E S11: Round 8 Tokyo E-Prix</title>
 		<desc>Join us to witness the next generation of the ABB FIA Formula E World Championship as our drivers unleash their Gen3 challengers for the very first time.</desc>
@@ -10557,25 +10557,15 @@
 		<desc>Qatar Fans Story | Yamaha Assessment 2025 | MotoGP Legends on Ducati | In Conversation: Maverick Vinales | Workshop: Tyre Pressure</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_motogp.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="210" start="20250522233000 +0000" stop="20250523040000 +0000">
+	<programme channel="210" start="20250522233000 +0000" stop="20250523042000 +0000">
 		<title>World Table Tennis Championships Finals 2025</title>
 		<desc>The event marks a special return as Doha hosts the World Championships for the second time, 21 years after making history as the first-ever Middle Eastern host in 2004.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_table_tennis.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="210" start="20250523040000 +0000" stop="20250523073000 +0000">
+	<programme channel="210" start="20250523042000 +0000" stop="20250523085500 +0000">
 		<title>World Table Tennis Championships Finals 2025</title>
 		<desc>The event marks a special return as Doha hosts the World Championships for the second time, 21 years after making history as the first-ever Middle Eastern host in 2004.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_table_tennis.jpg?w=341&amp;h=192" />
-	</programme>
-	<programme channel="210" start="20250523073000 +0000" stop="20250523081500 +0000">
-		<title>2025 MotoE Rd1 Michelin Grand Prix de France</title>
-		<desc>14 races, seven events and seven different countries see the electric class take on its biggest ever season with Championship status.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch210_motorsports.jpg?w=341&amp;h=192" />
-	</programme>
-	<programme channel="210" start="20250523081500 +0000" stop="20250523085500 +0000">
-		<title>2025 MotoE Rd1 Michelin Grand Prix de France</title>
-		<desc>14 races, seven events and seven different countries see the electric class take on its biggest ever season with Championship status.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch210_motorsports.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="210" start="20250523085500 +0000" stop="20250523094000 +0000">
 		<title>MotoGP 2025 Round 7 - Tissot British Grand Prix</title>
@@ -10753,7 +10743,7 @@
 		<icon src="https://poster.starhubgo.com/poster/ch211_ATPTourGeneric.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="211" start="20250523013000 +0000" stop="20250523030000 +0000">
-		<title>ATP Tour 250 2025: Geneva QF 4 Popyrin v Norrie</title>
+		<title>ATP Tour 250 2025 Geneva QF 4 Popyrin v Norrie</title>
 		<desc>Exclusive coverage of the 2025 ATP Tour on beIN SPORTS as the world's best male players battle it out across the globe to be #1.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_ATPMASTERS250.jpg?w=341&amp;h=192" />
 	</programme>
@@ -10763,24 +10753,24 @@
 		<icon src="https://poster.starhubgo.com/poster/ch211_roland_garros.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="211" start="20250523040000 +0000" stop="20250523053000 +0000">
-		<title>ATP Tour 250 2025: Geneva QF 3 Djokovic v Arnaldi</title>
+		<title>ATP Tour 250 2025 Geneva QF 3 Djokovic v Arnaldi</title>
 		<desc>Exclusive coverage of the 2025 ATP Tour on beIN SPORTS as the world's best male players battle it out across the globe to be #1.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_ATPMASTERS250.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="211" start="20250523053000 +0000" stop="20250523070000 +0000">
-		<title>ATP Tour 500 2025: Hamburg QF 1 Lehecka v Etcheverry</title>
+		<title>ATP Tour 500 2025 Hamburg QF 1 Lehecka v Etcheverry</title>
 		<desc>Exclusive coverage of the 2025 ATP Tour on beIN SPORTS as the world's best male players battle it out across the globe to be #1.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch211_ATPMASTERS500.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch211_ATPMASTERS250.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="211" start="20250523070000 +0000" stop="20250523083000 +0000">
-		<title>ATP Tour 500 2025: Hamburg QF 2 Cobolli v Bautista Agut</title>
+		<title>ATP Tour 500 2025 Hamburg QF 2 Cobolli v Bautista Agut</title>
 		<desc>Exclusive coverage of the 2025 ATP Tour on beIN SPORTS as the world's best male players battle it out across the globe to be #1.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch211_ATPMASTERS500.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch211_ATPMASTERS250.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="211" start="20250523083000 +0000" stop="20250523100000 +0000">
-		<title>ATP Tour 500 2025: Hamburg QF 3 Rublev v Darderi</title>
+		<title>ATP Tour 500 2025 Hamburg QF 3 Rublev v Darderi</title>
 		<desc>Exclusive coverage of the 2025 ATP Tour on beIN SPORTS as the world's best male players battle it out across the globe to be #1.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch211_ATPMASTERS500.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch211_ATPMASTERS250.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="211" start="20250523100000 +0000" stop="20250523103000 +0000">
 		<title>ATP Tour: This Week 2025</title>
@@ -10788,24 +10778,24 @@
 		<icon src="https://poster.starhubgo.com/poster/ch211_ATPTourGeneric.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="211" start="20250523103000 +0000" stop="20250523120000 +0000">
-		<title>ATP Tour 500 2025: Hamburg QF 4 Auger-Aliassime v Muller</title>
-		<desc>Exclusive coverage of the 2025 ATP Tour on beIN SPORTS as the world's best male players battle it out across the globe to be #1.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch211_ATPMASTERS500.jpg?w=341&amp;h=192" />
-	</programme>
-	<programme channel="211" start="20250523120000 +0000" stop="20250523133000 +0000">
-		<title>ATP Tour 250 2025: Geneva SF 1</title>
+		<title>ATP Tour 500 2025 Hamburg QF 4 Auger-Aliassime v Muller</title>
 		<desc>Exclusive coverage of the 2025 ATP Tour on beIN SPORTS as the world's best male players battle it out across the globe to be #1.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_ATPMASTERS250.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="211" start="20250523133000 +0000" stop="20250523153000 +0000">
-		<title>ATP Tour 500 2025: Hamburg SF 1</title>
+	<programme channel="211" start="20250523120000 +0000" stop="20250523140000 +0000">
+		<title>ATP Tour 250 2025 Geneva SF 1 Hurkacz v Ofner</title>
 		<desc>Exclusive coverage of the 2025 ATP Tour on beIN SPORTS as the world's best male players battle it out across the globe to be #1.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch211_ATPMASTERS500.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch211_ATPMASTERS250.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="211" start="20250523140000 +0000" stop="20250523153000 +0000">
+		<title>ATP Tour 250 2025 Geneva SF 2 Djokovic v Norrie</title>
+		<desc>Exclusive coverage of the 2025 ATP Tour on beIN SPORTS as the world's best male players battle it out across the globe to be #1.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch211_ATPMASTERS250.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="211" start="20250523153000 +0000" stop="20250523173000 +0000">
-		<title>ATP Tour 500 2025: Hamburg SF 2</title>
+		<title>ATP Tour 500 2025 Hamburg SF 2 Rublev v Auger-Aliassime</title>
 		<desc>Exclusive coverage of the 2025 ATP Tour on beIN SPORTS as the world's best male players battle it out across the globe to be #1.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch211_ATPMASTERS500.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch211_ATPMASTERS250.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="211" start="20250523173000 +0000" stop="20250523180000 +0000">
 		<title>ATP Tour: This Week 2025</title>
@@ -10815,17 +10805,17 @@
 	<programme channel="211" start="20250523180000 +0000" stop="20250523193000 +0000">
 		<title>ATP Tour 500 2025: Rotterdam Day 3 Medvedev v Bellucci</title>
 		<desc>Exclusive coverage of the 2025 ATP Tour on beIN SPORTS as the world's best male players battle it out across the globe to be #1.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch211_ATPMASTERS500.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch211_ATPMASTERS250.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="211" start="20250523193000 +0000" stop="20250523210000 +0000">
 		<title>ATP Tour 500 2025: Rotterdam Day 4 De Minaur v Mensik</title>
 		<desc>Exclusive coverage of the 2025 ATP Tour on beIN SPORTS as the world's best male players battle it out across the globe to be #1.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch211_ATPMASTERS500.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch211_ATPMASTERS250.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="211" start="20250523210000 +0000" stop="20250523223000 +0000">
 		<title>ATP Tour 500 2025: Rotterdam Day 4 Rublev v Marozsan</title>
 		<desc>Exclusive coverage of the 2025 ATP Tour on beIN SPORTS as the world's best male players battle it out across the globe to be #1.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch211_ATPMASTERS500.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch211_ATPMASTERS250.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="211" start="20250523223000 +0000" stop="20250523230000 +0000">
 		<title>ATP Tour: This Week 2025</title>
@@ -34989,7 +34979,7 @@
 	</programme>
 	<programme channel="996" start="20250523083000 +0000" stop="20250523090000 +0000">
 		<title>Lifecyclopedia</title>
-		<desc>TVB Jade brings you endless entertainment with concurrent dramas and sitcoms, as well as the latest news, variety and infotainment programmes from TVB.</desc>
+		<desc>In Lifecyclopeidia, Tony Hung leads children to face various out-of-school experiences, with the programme revolving around life topics such as gender, life and death, and more, allowing everyone to appreciate the answers through exploration.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch838_lifecyclopedia.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="996" start="20250523090000 +0000" stop="20250523093000 +0000">
