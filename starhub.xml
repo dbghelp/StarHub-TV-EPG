@@ -1744,7 +1744,7 @@
 	</programme>
 	<programme channel="105" start="20250528133000 +0000" stop="20250528140000 +0000">
 		<title>Ethiroli S22 - EP 6</title>
-		<desc>Ethiroli S22</desc>
+		<desc>Once considered a side hustle or a stopgap, freelancing has now become a full-time career choice for many Singaporeans. What’s the appeal? Is there any financial, emotional and social impact ?</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/105_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="105" start="20250528140000 +0000" stop="20250528143000 +0000">
@@ -1762,9 +1762,14 @@
 		<desc>Spancer feels like a pampered bridegroom this week...but no, he isn't getting married! He is just getting to enjoy the delicacies that make up the "Mappilla" cuisine of the Kerala Muslim community of Kozhikode. _x000D__x000D_Join him and get your taste buds tickled, on THINNA THINNA AASAI at 9.30 pm tonight, only on Vasantham and mewatch.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/105_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="105" start="20250528153000 +0000" stop="20250528160000 +0000">
+	<programme channel="105" start="20250528153000 +0000" stop="20250528155500 +0000">
 		<title>Seithi - EP 57</title>
 		<desc>Tamil Seithi focuses primarily on local and international news, information and current affairs. _x000D_Catch the online news portal at http://seithi.mediacorp.sg/</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/105_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="105" start="20250528155500 +0000" stop="20250529010000 +0000">
+		<title>End of transmission</title>
+		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_channels2/105_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="106" start="20250526160000 +0000" stop="20250526160300 +0000">
@@ -10742,12 +10747,12 @@
 		<desc>The R&amp;G British Talent Cup is one of the showcase support races to the Bennetts British Superbike Championship, fully focused on developing the stars of the future in the Road to MotoGP™ programme.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_motorsports.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="210" start="20250527120000 +0000" stop="20250527140000 +0000">
+	<programme channel="210" start="20250527120000 +0000" stop="20250527140500 +0000">
 		<title>ROSHN Saudi League 2024-25 Matchday 34 Al Ittihad vs Damac</title>
 		<desc>Bringing together prominent professional players from the Kingdom and all around the world, the ROSHN Saudi League delivers weekly thrilling matches to spectators nationally and internationally.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_spotv2_logo.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="210" start="20250527140000 +0000" stop="20250527163000 +0000">
+	<programme channel="210" start="20250527140500 +0000" stop="20250527163000 +0000">
 		<title>MLB 2025: Regular season Cleveland Guardians vs Los Angeles Dodgers</title>
 		<desc>Major League Baseball is the most historic professional sports league consists of 30 member clubs in the U.S. and Canada, representing the highest level of professional baseball.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_baseball.jpg?w=341&amp;h=192" />
@@ -11583,9 +11588,9 @@
 		<icon src="https://poster.starhubgo.com/poster/pl_review_V2.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="221" start="20250527063000 +0000" stop="20250527073000 +0000">
-		<title>FANZONE - MON 26 MAY</title>
-		<desc>This is the show that puts international fans at the heart of the Premier League conversation. A phone-in for the digital generation, fans from around the world join our studio discussion via camera phones and weblinks to have their say about their teams and their favourite players.</desc>
-		<icon src="https://poster.starhubgo.com/poster/fan_zone_V2.jpg?w=960&amp;h=540" />
+		<title>PL MASTERCLASS - EP 2</title>
+		<desc>Some of the Premier League's biggest stars take us onto the pitch to discuss the techniques and thought processes that allow them to perform at the highest level. Featuring Milos Kerkez, Thomas Frank, Adam Wharton and Cole Palmer.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch221_pl_masterclass.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="221" start="20250527073000 +0000" stop="20250527080000 +0000">
 		<title>NETBUSTERS - EP 38</title>
@@ -11618,9 +11623,9 @@
 		<icon src="https://poster.starhubgo.com/poster/pl_review_V2.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="221" start="20250527120000 +0000" stop="20250527130000 +0000">
-		<title>FANZONE - MON 26 MAY</title>
-		<desc>This is the show that puts international fans at the heart of the Premier League conversation. A phone-in for the digital generation, fans from around the world join our studio discussion via camera phones and weblinks to have their say about their teams and their favourite players.</desc>
-		<icon src="https://poster.starhubgo.com/poster/fan_zone_V2.jpg?w=960&amp;h=540" />
+		<title>PL MASTERCLASS - EP 1</title>
+		<desc>Some of the Premier League's biggest stars take us onto the pitch to discuss the techniques and thought processes that allow them to perform at the highest level. Featuring Rodri, Chris Wood, Enzo Maresca, Cameron Archer with Maxwel Cornet and James Tarkowski.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch221_pl_masterclass.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="221" start="20250527130000 +0000" stop="20250527133000 +0000">
 		<title>NETBUSTERS - EP 38</title>
@@ -11654,7 +11659,7 @@
 	</programme>
 	<programme channel="221" start="20250527170000 +0000" stop="20250527180000 +0000">
 		<title>PL MOMENTS - EP 15</title>
-		<desc>PL Moments combines archive and first person testimony to revisit the very best games, goals, players and performances from the last 30 years.</desc>
+		<desc>Steve McManaman revisits ten standout moments from his Premier League career, from his breakthrough at Anfield to unforgettable solo goals and Merseyside derby magic. With flair, humour and personal insight, PL Moments takes you inside the story of one of the Premier League's most creative and entertaining players.</desc>
 		<icon src="https://poster.starhubgo.com/poster/PL_Moments_V2.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="221" start="20250527180000 +0000" stop="20250527183000 +0000">
@@ -11694,7 +11699,7 @@
 	</programme>
 	<programme channel="221" start="20250527230000 +0000" stop="20250528000000 +0000">
 		<title>PL MOMENTS - EP 15</title>
-		<desc>PL Moments combines archive and first person testimony to revisit the very best games, goals, players and performances from the last 30 years.</desc>
+		<desc>Steve McManaman revisits ten standout moments from his Premier League career, from his breakthrough at Anfield to unforgettable solo goals and Merseyside derby magic. With flair, humour and personal insight, PL Moments takes you inside the story of one of the Premier League's most creative and entertaining players.</desc>
 		<icon src="https://poster.starhubgo.com/poster/PL_Moments_V2.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="221" start="20250528000000 +0000" stop="20250528010000 +0000">
@@ -11712,10 +11717,15 @@
 		<desc>Each Premier League game from the 2024/25 season condensed into an individual 26-minute highlights show.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch221_MW38_SOUvARS_25.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="221" start="20250528020000 +0000" stop="20250528030000 +0000">
-		<title>FANZONE - MON 26 MAY</title>
-		<desc>This is the show that puts international fans at the heart of the Premier League conversation. A phone-in for the digital generation, fans from around the world join our studio discussion via camera phones and weblinks to have their say about their teams and their favourite players.</desc>
-		<icon src="https://poster.starhubgo.com/poster/fan_zone_V2.jpg?w=960&amp;h=540" />
+	<programme channel="221" start="20250528020000 +0000" stop="20250528023000 +0000">
+		<title>NETBUSTERS - EP 38</title>
+		<desc>Relive the best action from the Premier League with this fast-paced ISO angle highlights show, featuring every game and every goal from each matchround.</desc>
+		<icon src="https://poster.starhubgo.com/poster/netbusters_V2.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="221" start="20250528023000 +0000" stop="20250528030000 +0000">
+		<title>MATCH HIGHLIGHTS 24/25 MW38 Tottenham Hotspur v Brighton &amp; Hove Albion</title>
+		<desc>Each Premier League game from the 2024/25 season condensed into an individual 26-minute highlights show.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch221_MW38_TOTvBHA_25.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="221" start="20250528030000 +0000" stop="20250528040000 +0000">
 		<title>REVIEW - MON 26 MAY</title>
@@ -11734,7 +11744,7 @@
 	</programme>
 	<programme channel="221" start="20250528053000 +0000" stop="20250528063000 +0000">
 		<title>PL MOMENTS - EP 15</title>
-		<desc>PL Moments combines archive and first person testimony to revisit the very best games, goals, players and performances from the last 30 years.</desc>
+		<desc>Steve McManaman revisits ten standout moments from his Premier League career, from his breakthrough at Anfield to unforgettable solo goals and Merseyside derby magic. With flair, humour and personal insight, PL Moments takes you inside the story of one of the Premier League's most creative and entertaining players.</desc>
 		<icon src="https://poster.starhubgo.com/poster/PL_Moments_V2.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="221" start="20250528063000 +0000" stop="20250528070000 +0000">
@@ -11779,7 +11789,7 @@
 	</programme>
 	<programme channel="221" start="20250528110000 +0000" stop="20250528120000 +0000">
 		<title>PL MOMENTS - EP 15</title>
-		<desc>PL Moments combines archive and first person testimony to revisit the very best games, goals, players and performances from the last 30 years.</desc>
+		<desc>Steve McManaman revisits ten standout moments from his Premier League career, from his breakthrough at Anfield to unforgettable solo goals and Merseyside derby magic. With flair, humour and personal insight, PL Moments takes you inside the story of one of the Premier League's most creative and entertaining players.</desc>
 		<icon src="https://poster.starhubgo.com/poster/PL_Moments_V2.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="221" start="20250528120000 +0000" stop="20250528123000 +0000">
@@ -12822,42 +12832,37 @@
 		<desc>The 2025 Super Rugby featuring teams from Australia, Fiji, New Zealand and a combined team from Samoa, Tonga and other Pacific Island nations.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch207_premier_sports.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="247" start="20250528053000 +0000" stop="20250528063000 +0000">
-		<title>NRL Try Time</title>
-		<desc>A round-up of all the tries and key moments from the latest round of fixtures in the 2025 NRL Premiership.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch207_premier_sports.jpg?w=341&amp;h=192" />
-	</programme>
-	<programme channel="247" start="20250528063000 +0000" stop="20250528083000 +0000">
+	<programme channel="247" start="20250528053000 +0000" stop="20250528073000 +0000">
 		<title>Champions Cup Northampton v Bordeaux</title>
 		<desc>Coverage of the Investec Champions Cup Final as Northampton Saints and Bordeaux Begles face off at the Principality Stadium with the prestigious trophy on the line.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch207_premier_sports.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="247" start="20250528083000 +0000" stop="20250528090000 +0000">
+	<programme channel="247" start="20250528073000 +0000" stop="20250528080000 +0000">
 		<title>5 &amp; 6 Nations Classics 2004 - Scotland v France</title>
 		<desc>A look at some of the best matches in the history of rugby's Six Nations.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch207_premier_sports.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="247" start="20250528090000 +0000" stop="20250528105000 +0000">
+	<programme channel="247" start="20250528080000 +0000" stop="20250528095000 +0000">
 		<title>NRL Roosters v Sharks</title>
 		<desc>Coverage of the 2025 NRL season featuring the brightest stars in Rugby League.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch207_premier_sports.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="247" start="20250528105000 +0000" stop="20250528124000 +0000">
-		<title>NRL Warriors v Raiders</title>
-		<desc>Coverage of the 2025 NRL season featuring the brightest stars in Rugby League.</desc>
+	<programme channel="247" start="20250528095000 +0000" stop="20250528125000 +0000">
+		<title>LIVE State Of Origin LIVE Queensland v New South Wales</title>
+		<desc>The 2025 State of Origin series will be the 44th annual best-of-three series between the Queensland and New South Wales rugby league teams.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch207_premier_sports.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="247" start="20250528124000 +0000" stop="20250528130000 +0000">
+	<programme channel="247" start="20250528125000 +0000" stop="20250528131000 +0000">
 		<title>AFL Highlights Carlton v GWS Giants</title>
 		<desc>Catch all the standout moments from the latest matches of the 2025 Toyota AFL Premiership Season.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch207_premier_sports.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="247" start="20250528130000 +0000" stop="20250528133000 +0000">
+	<programme channel="247" start="20250528131000 +0000" stop="20250528134000 +0000">
 		<title>5 &amp; 6 Nations Classics 2009 - Italy v Ireland</title>
 		<desc>A look at some of the best matches in the history of rugby's Six Nations.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch207_premier_sports.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="247" start="20250528133000 +0000" stop="20250528152000 +0000">
+	<programme channel="247" start="20250528134000 +0000" stop="20250528152000 +0000">
 		<title>Super League Warrington v Hull KR</title>
 		<desc>Coverage of the top level of British Rugby League, the Betfred Super League.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch207_premier_sports.jpg?w=341&amp;h=192" />
