@@ -1213,7 +1213,7 @@
 	</programme>
 	<programme channel="103" start="20250529120000 +0000" stop="20250529130000 +0000">
 		<title>The Indigenous - EP 1</title>
-		<desc />
+		<desc>Explorer Hazelle travels to "Land of the Blue Sky" - Mongolia to visit the last reindeer-herding Dukha tribe. Before heading north, she experiences the lively Naadam Festival. She then ventures deep into the forests of Tsagaannuur to meet a Dukha family. In this isolated wilderness, unexpected challenges and discoveries await.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/103_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="103" start="20250529130000 +0000" stop="20250529140000 +0000">
@@ -1568,7 +1568,7 @@
 	</programme>
 	<programme channel="105" start="20250529013000 +0000" stop="20250529020000 +0000">
 		<title>Neo - EP 10</title>
-		<desc>Rocky is a 10 year old boy living in the current digital era with his parents pinning high hopes on his academic results. Children his age nowadays face not only academic stress from family but as well as peer pressure. They tend to rely on the digital world to relieve their stress from the real world. _x000D_One day, Rocky quarrels with his parents and left house for the playground where he meets another boy his age, NEO.</desc>
+		<desc>Back home Rocky’s parents were shocked to learn about their family members not knowing one another well. Neo reveals that all these are happening because of gadgets. Next day, when everyone is awake, they realize all their gadgets are missing. Interactions start to take place, and slowly everyone understands each other well.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/105_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="105" start="20250529020000 +0000" stop="20250529023000 +0000">
@@ -1638,7 +1638,7 @@
 	</programme>
 	<programme channel="105" start="20250529120000 +0000" stop="20250529123000 +0000">
 		<title>Neo - EP 11</title>
-		<desc>Rocky is a 10 year old boy living in the current digital era with his parents pinning high hopes on his academic results. Children his age nowadays face not only academic stress from family but as well as peer pressure. They tend to rely on the digital world to relieve their stress from the real world. _x000D_One day, Rocky quarrels with his parents and left house for the playground where he meets another boy his age, NEO.</desc>
+		<desc>Rocky and Vicky decides to get a brand-new bicycle together. Rocky approaches his dad to ask him to get him a new bicycle. However, his mother rejects his request as he already owns a bicycle. Rocky decides to get a new bicycle with his own savings.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/105_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="105" start="20250529123000 +0000" stop="20250529130000 +0000">
@@ -4923,7 +4923,7 @@
 	</programme>
 	<programme channel="130" start="20250527170000 +0000" stop="20250527200000 +0000">
 		<title>Love Hostel</title>
-		<desc>Film traces the journey of a spirited young couple, being hunted by a ruthless mercenary. Will the star-crossed lovers find their fairy-tale ending? Release Year: 2022 Director: Shanker Raman Awards: 2023 WinnerJury's Choice Award- Best Performance by an</desc>
+		<desc>Film traces the journey of a spirited young couple, being hunted by a ruthless mercenary. Will the star-crossed lovers find their fairy-tale ending? Release Year: 2022 Director: Shanker Raman Awards: 2023 WinnerJury's Choice Award- Best Performance by an Actor Negative Role- Bobby Deol, 2022 WinnerSpecial Mention- Director- Shanker Raman, 2023 WinnerSpecial Award- Breakthrough Performer of the Year- Sanya Malhotra</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch130_zee_cinema_logo.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="130" start="20250527200000 +0000" stop="20250527230000 +0000">
@@ -7383,7 +7383,7 @@
 	</programme>
 	<programme channel="140" start="20250527210000 +0000" stop="20250527233000 +0000">
 		<title>Yugapurushan</title>
-		<desc>Sree Narayan Guru abolishes caste, leads Kerala reform for state change.</desc>
+		<desc>Sree Narayan Guru abolishes caste, leads Kerala reform for state change. Release Year: 2010 Director: R. Sukumaran Awards: Kerala State Film Awards: Special Jury Award Film Category: For the film itself, Best Makeup Artist: Pattanam Rasheed for his work in 'Yugapurushan', Special Jury Mention Acting: Thalaivasal Vijay, for his portrayal of Sree Narayana Guru, Best Costume Designer: S. B. Satheeshan for 'Yugapurushan' and 'Makaramanju'.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=960&amp;h=540" />
 	</programme>
 	<programme channel="140" start="20250527233000 +0000" stop="20250528013500 +0000">
@@ -12261,6 +12261,16 @@
 		<desc>Catch all the standout moments from the latest matches of the 2025 Toyota AFL Premiership Season.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch207_premier_sports.jpg?w=341&amp;h=192" />
 	</programme>
+	<programme channel="247" start="20250529021000 +0000" stop="20250529023000 +0000">
+		<title>AFL Highlights Essendon v Richmond</title>
+		<desc>Catch all the standout moments from the latest matches of the 2025 Toyota AFL Premiership Season.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch207_premier_sports.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="247" start="20250529023000 +0000" stop="20250529025000 +0000">
+		<title>AFL Highlights Geelong v Bulldogs</title>
+		<desc>Catch all the standout moments from the latest matches of the 2025 Toyota AFL Premiership Season.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch207_premier_sports.jpg?w=341&amp;h=192" />
+	</programme>
 	<programme channel="247" start="20250529025000 +0000" stop="20250529044500 +0000">
 		<title>EPCR Challenge Cup Bath v Lyon</title>
 		<desc>Coverage of the EPCR Challenge Cup Final as Bath Rugby and Lyon Olympique Universitaire Rugby compete for silverware at the Principality Stadium.</desc>
@@ -12276,14 +12286,19 @@
 		<desc>The 2025 Super Rugby featuring teams from Australia, Fiji, New Zealand and a combined team from Samoa, Tonga and other Pacific Island nations.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch207_premier_sports.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="247" start="20250529083000 +0000" stop="20250529093000 +0000">
+	<programme channel="247" start="20250529083000 +0000" stop="20250529085000 +0000">
+		<title>AFL Highlights Carlton v GWS Giants</title>
+		<desc>Catch all the standout moments from the latest matches of the 2025 Toyota AFL Premiership Season.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch207_premier_sports.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="247" start="20250529085000 +0000" stop="20250529093000 +0000">
 		<title>NRL Try Time</title>
 		<desc>A round-up of all the tries and key moments from the latest round of fixtures in the 2025 NRL Premiership.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch207_premier_sports.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="247" start="20250529093000 +0000" stop="20250529123000 +0000">
 		<title>LIVE Women's SOO LIVE New South Wales v Queensland</title>
-		<desc>The 2025 State of Origin series will be the 44th annual best-of-three series between the Queensland and New South Wales rugby league teams.</desc>
+		<desc>Experience the thrill and rush right here as we deliver some of the most exciting sports action from around the world!</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch207_premier_sports.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="247" start="20250529123000 +0000" stop="20250529143000 +0000">
@@ -23028,7 +23043,7 @@
 	</programme>
 	<programme channel="701" start="20250529013000 +0000" stop="20250529020000 +0000">
 		<title>The Media Show</title>
-		<desc>A global, topical weekly show that lifts the hood on the entertainment and news business. The Media Show explores the companies and personalities who command our attention.</desc>
+		<desc>What next for the BBC as its star football presenter leaves after controversial social media post? Also, how journalistic transparency is changing long-standing secrecy at family courts in England.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch701_BBC_news.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="701" start="20250529020000 +0000" stop="20250529023000 +0000">
