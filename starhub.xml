@@ -858,7 +858,7 @@
 	</programme>
 	<programme channel="102" start="20250530133000 +0000" stop="20250530140000 +0000">
 		<title>On The Red Dot - EP 3</title>
-		<desc>On The Red Dot offers weekly in-depth analysis and discussion on key issues and events that matter to Singaporeans.</desc>
+		<desc>After a complaint about his Samsui woman mural, American artist Sean Dunston faced backlash. But after 15 years here, he's painting local icons. When does a foreigner stop being one?</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="102" start="20250530140000 +0000" stop="20250530163000 +0000">
@@ -6262,9 +6262,9 @@
 		<icon src="https://poster.starhubgo.com/poster/ch135_sindhu_bairavi_kacheri_arambam.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="135" start="20250530023000 +0000" stop="20250530043000 +0000">
-		<title>Cooku With Comali S06 - EP 7</title>
-		<desc>The episode includes cooking tasks where contestants must prepare dishes under humorous and tricky conditions created by their Comali partners.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch135_cooku_with_comali_s06.jpg?w=960&amp;h=540" />
+		<title>Cooku With Comali - EP 7</title>
+		<desc>The host pairs entertainment industry personalities with comedians to cook up impressive dishes for judgment.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch135_cooku_with_comali.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="135" start="20250530043000 +0000" stop="20250530050000 +0000">
 		<title>Aha Kalyanam Dum Dum Dum - EP 557</title>
@@ -6568,7 +6568,7 @@
 	</programme>
 	<programme channel="137" start="20250530000000 +0000" stop="20250530003000 +0000">
 		<title>Thirai Flix - EP 1</title>
-		<desc />
+		<desc>An entertainment-based programme.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/137_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="137" start="20250530003000 +0000" stop="20250530010000 +0000">
@@ -10802,19 +10802,24 @@
 		<icon src="https://poster.starhubgo.com/poster/ch213_roland_garros.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="213" start="20250529200000 +0000" stop="20250529203000 +0000">
-		<title>Premier Padel 2025 (Join In Progress): Buenos Aires P1 Day 3 Match 4 (Live)</title>
+		<title>Premier Padel 2025 (Join In Progress): Buenos Aires P1 Day 3 Match 5 (Live)</title>
 		<desc>The official global Padel tour. Catch world's top players battle it out across the globe.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch213_premier_padel.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="213" start="20250529203000 +0000" stop="20250529220000 +0000">
-		<title>Premier Padel 2025: Buenos Aires P1 Day 3 Match 5 (Live)</title>
-		<desc>The official global Padel tour. Catch world's top players battle it out across the globe.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch213_premier_padel.jpg?w=341&amp;h=192" />
-	</programme>
-	<programme channel="213" start="20250529220000 +0000" stop="20250529233500 +0000">
+	<programme channel="213" start="20250529203000 +0000" stop="20250529220500 +0000">
 		<title>Premier Padel 2025: Buenos Aires P1 Day 3 Match 6 (Live)</title>
 		<desc>The official global Padel tour. Catch world's top players battle it out across the globe.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch213_premier_padel.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="213" start="20250529220500 +0000" stop="20250529223500 +0000">
+		<title>Bundesliga Special 2024/25</title>
+		<desc>Unique insights and behind the scenes stories about Bundesliga clubs and players.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch213_bundesliga_special.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="213" start="20250529223500 +0000" stop="20250529233500 +0000">
+		<title>LaLiga 2 Highlights 2024/25</title>
+		<desc>Catch all the highlights from the latest round of games in LaLiga 2, Spain's second divison of football.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch213_laliga_2_highlights.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="213" start="20250529233500 +0000" stop="20250530000500 +0000">
 		<title>LaLiga Talking Football 2024/25</title>
@@ -10957,7 +10962,7 @@
 		<icon src="https://poster.starhubgo.com/poster/ch214_UECL_preview_show.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="214" start="20250528185500 +0000" stop="20250528210000 +0000">
-		<title>UEFA Conference League 2024/25 Real Betis vs Chelsea - Final (Live)</title>
+		<title>Real Betis vs Chelsea - Final (Live)</title>
 		<desc>The 2024-25 UEFA Conference League will be the fourth season of the UEFA Conference League, Europe's tertiary club football tournament. The final will be played at Stadion Wroclaw, Poland.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch214_UECL_live_match.jpg?w=341&amp;h=192" />
 	</programme>
@@ -20081,94 +20086,84 @@
 		<desc>SVU and 2-7 discover serial rapes and murders of marginalized women, leading Carisi and ADA Price to pursue multiple charges against a suspect.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch509_Law_Order_Special_Victims_Unit_S26.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="509" start="20250530001500 +0000" stop="20250530010000 +0000">
+	<programme channel="509" start="20250530004000 +0000" stop="20250530012500 +0000">
 		<title>Law &amp; Order: Special Victims Unit S26 - EP 20</title>
-		<desc />
+		<desc>SVU investigates if a car theft involving a young girl in the backseat was random or a planned kidnapping.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch509_Law_Order_Special_Victims_Unit_S26.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="509" start="20250530010000 +0000" stop="20250530014000 +0000">
+	<programme channel="509" start="20250530012500 +0000" stop="20250530021000 +0000">
 		<title>Law &amp; Order: Special Victims Unit S26 - EP 21</title>
-		<desc />
+		<desc>When an assault at gunpoint is witnessed through a neighboring window, the squad scrambles to locate the victim to confirm she's safe; a threat to extort the victim's family leads to a shocking suspect.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch509_Law_Order_Special_Victims_Unit_S26.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="509" start="20250530014000 +0000" stop="20250530022500 +0000">
+	<programme channel="509" start="20250530021000 +0000" stop="20250530025500 +0000">
 		<title>Law &amp; Order: Special Victims Unit S26 - EP 22</title>
-		<desc />
+		<desc>Benson investigates a string of sexual assaults targeting local female psychiatrists; the squad celebrates a promotion.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch509_Law_Order_Special_Victims_Unit_S26.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="509" start="20250530022500 +0000" stop="20250530041000 +0000">
+	<programme channel="509" start="20250530025500 +0000" stop="20250530044500 +0000">
 		<title>The Nanny Diaries</title>
 		<desc>A recent college graduate takes on a nannying job in a snobby New York penthouse that requires more parenting than she could have ever imagined.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch509_The_Nanny_Diaries.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="509" start="20250530041000 +0000" stop="20250530050000 +0000">
+	<programme channel="509" start="20250530044500 +0000" stop="20250530053500 +0000">
 		<title>Next Level Chef S4 - EP 7</title>
 		<desc>The chefs work together to create a cohesive five-course meal, with the help of a few surprise sous chefs. To succeed in this challenge, the chefs must count on one another's culinary and communication skills.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch509_Next_Level_Chef_S4.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="509" start="20250530050000 +0000" stop="20250530055000 +0000">
+	<programme channel="509" start="20250530053500 +0000" stop="20250530062500 +0000">
 		<title>Next Level Chef S4 - EP 8</title>
-		<desc />
+		<desc>The remaining chefs are tasked with oven roasting, steaming or deep frying.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch509_Next_Level_Chef_S4.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="509" start="20250530055000 +0000" stop="20250530063500 +0000">
+	<programme channel="509" start="20250530062500 +0000" stop="20250530071000 +0000">
 		<title>The Tonight Show Starring Jimmy Fallon S12 - EP 115</title>
 		<desc>Emmy and Grammy Award-winning comedian Jimmy Fallon brings his unique high-energy comedy to the storied 60-year NBC franchise with his welcoming interview style, love of audience participation, spot-on impersonations and innovative sketches.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch509_The_Tonight_Show_Starring_Jimmy_Fallon_S12.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="509" start="20250530063500 +0000" stop="20250530072000 +0000">
+	<programme channel="509" start="20250530071000 +0000" stop="20250530075500 +0000">
 		<title>Late Night With Seth Meyers S12 - EP 93</title>
 		<desc>Late Night with Seth Meyers is executive produced by the Emmy Award-winning Lorne Michaels and is home to A-list celebrity guests, memorable comedy and the best in musical talent.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch509_Late_Night_With_Seth_Meyers_S12.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="509" start="20250530072000 +0000" stop="20250530081500 +0000">
-		<title>Poker Face S2 - EP 2</title>
-		<desc />
-		<icon src="https://poster.starhubgo.com/poster/ch509_Poker_Face_S2.jpg?w=341&amp;h=192" />
-	</programme>
-	<programme channel="509" start="20250530081500 +0000" stop="20250530091000 +0000">
+	<programme channel="509" start="20250530075500 +0000" stop="20250530084000 +0000">
 		<title>Poker Face S2 - EP 3</title>
-		<desc />
+		<desc>Caught between the mob and the FBI, Charlie must cobble together the truth of who is working for whom, using her talents to find a rat, or possibly a mole.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch509_Poker_Face_S2.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="509" start="20250530091000 +0000" stop="20250530110000 +0000">
+	<programme channel="509" start="20250530084000 +0000" stop="20250530103000 +0000">
 		<title>Marry Me</title>
 		<desc>A betrayed pop star (Jennifer Lopez), slated to marry her pop star fiancé (Maluma) on stage, instead marries a stranger from the audience - a high school math teacher (Owen Wilson).</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch509_Marry_Me.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="509" start="20250530110000 +0000" stop="20250530114500 +0000">
+	<programme channel="509" start="20250530103000 +0000" stop="20250530120000 +0000">
+		<title>Flamenco Jazz Festival Japan - The Gala</title>
+		<desc>A breathtaking fusion of flamenco and jazz performed in the sacred hall of the oldest Zen temple in Japan - Historical Significance: Kenchoji Temple, founded in 1253 by Hojo Tokiyori, the fifth regent of the Kamakura Shogunate.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/509_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="509" start="20250530120000 +0000" stop="20250530133000 +0000">
+		<title>Flamenco Jazz Festival Japan - The Gala</title>
+		<desc>A breathtaking fusion of flamenco and jazz performed in the sacred hall of the oldest Zen temple in Japan - Historical Significance: Kenchoji Temple, founded in 1253 by Hojo Tokiyori, the fifth regent of the Kamakura Shogunate.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/509_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="509" start="20250530133000 +0000" stop="20250530141500 +0000">
 		<title>NCIS S22 - EP 1</title>
 		<desc>NCIS searches for a missing undercover agent in the midst of an active hostage situation.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch509_NCIS_S22.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="509" start="20250530114500 +0000" stop="20250530123000 +0000">
+	<programme channel="509" start="20250530141500 +0000" stop="20250530150000 +0000">
 		<title>NCIS S22 - EP 2</title>
 		<desc>As Vance prepares to host diplomatic talks with Venezuela, the team is called in to investigate the dead body of one of his inside men.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch509_NCIS_S22.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="509" start="20250530123000 +0000" stop="20250530131500 +0000">
+	<programme channel="509" start="20250530150000 +0000" stop="20250530154500 +0000">
 		<title>NCIS S22 - EP 3</title>
 		<desc>NCIS is called in to investigate when a lieutenant returns home on Halloween Eve to find a surprise party being thrown for someone else at his home.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch509_NCIS_S22.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="509" start="20250530131500 +0000" stop="20250530140000 +0000">
+	<programme channel="509" start="20250530154500 +0000" stop="20250530163000 +0000">
 		<title>NCIS S22 - EP 4</title>
 		<desc>After receiving intelligence on deadly threats to multiple locations that could lead to a catastrophic war, NCIS is called in to try to neutralize the danger.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch509_NCIS_S22.jpg?w=960&amp;h=540" />
-	</programme>
-	<programme channel="509" start="20250530140000 +0000" stop="20250530144500 +0000">
-		<title>NCIS S22 - EP 5</title>
-		<desc>NCIS works with the CIA to discover what secrets are being kept by Captain Butler, an elderly former spy with dementia.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch509_NCIS_S22.jpg?w=960&amp;h=540" />
-	</programme>
-	<programme channel="509" start="20250530144500 +0000" stop="20250530153000 +0000">
-		<title>NCIS S22 - EP 6</title>
-		<desc>Things become tense when Knight is assigned to protect his wife after the home of a high-level defense contractor is attacked.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch509_NCIS_S22.jpg?w=960&amp;h=540" />
-	</programme>
-	<programme channel="509" start="20250530153000 +0000" stop="20250530161500 +0000">
-		<title>NCIS S22 - EP 7</title>
-		<desc>Torres receives intel from a confidential informant regarding top secret naval information that's at risk of being sold.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch509_NCIS_S22.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="511" start="20250528153500 +0000" stop="20250528163000 +0000">
