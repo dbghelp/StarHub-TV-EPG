@@ -10586,20 +10586,15 @@
 		<desc>Watch every round of the UCL as Europe's elite clubs battle it out for the most prestigious trophy in club football at Allianz Arena, Munich</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch214_UCL_mini_match.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="214" start="20250601180000 +0000" stop="20250601190000 +0000">
-		<title>UEFA Champions League Highlights 2024/25</title>
-		<desc>Don’t miss any of the action with the official UEFA Champions League highlights show</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch214_UCL_hIghlights.jpg?w=960&amp;h=540" />
-	</programme>
-	<programme channel="214" start="20250601190000 +0000" stop="20250601200000 +0000">
-		<title>UEFA Europa/Conference League Highlights 2024/25</title>
-		<desc>Don’t miss any of the action with the official UEFA Europa &amp; Conference League highlights show</desc>
+	<programme channel="214" start="20250601180000 +0000" stop="20250601183000 +0000">
+		<title>Mini Match - UEFA Conference League 2024/25 Real Betis vs Chelsea - Final</title>
+		<desc>Watch every round of the UEFA Conference League action, Europe's tertiary club football tournament where teams battle it out for the Finals at the Stadion Wroclaw, Poland</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch214_UECL_logo.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="214" start="20250601200000 +0000" stop="20250601203000 +0000">
-		<title>Mini Match - UEFA Champions League 2024/25 PSG vs Inter - Final</title>
-		<desc>Watch every round of the UCL as Europe's elite clubs battle it out for the most prestigious trophy in club football at Allianz Arena, Munich</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch214_UCL_mini_match.jpg?w=960&amp;h=540" />
+	<programme channel="214" start="20250601183000 +0000" stop="20250601203000 +0000">
+		<title>PSG Victory Celebrations</title>
+		<desc />
+		<icon src="https://poster.starhubgo.com/poster/ch214_psg_tv.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="214" start="20250601203000 +0000" stop="20250601210000 +0000">
 		<title>Mini Match - UEFA Europa League 2024/25 Tottenham vs Man United - Final</title>
