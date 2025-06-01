@@ -5087,9 +5087,9 @@
 		<icon src="https://poster.starhubgo.com/poster/ch132_lakshmi_narayana_namo_namaha.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="132" start="20250601070000 +0000" stop="20250601100000 +0000">
-		<title>RDX</title>
+		<title>RDX: Robert Dony Xavier</title>
 		<desc>After several years, an attack on their family reunites Robert, Dony and Xavier.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch132_rdx.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch132_rdx_robert_dony_xavier.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="132" start="20250601100000 +0000" stop="20250601130000 +0000">
 		<title>Tamizh Padam 2</title>
@@ -5148,12 +5148,12 @@
 	</programme>
 	<programme channel="132" start="20250602050000 +0000" stop="20250602053000 +0000">
 		<title>Shiva Shakthi Thiruvilayadal - EP 465</title>
-		<desc>Lord Shiva and Goddess Parvati navigate their relationship while caring for humanity.</desc>
+		<desc>Shukracharya disregards Lord Shiva's warnings and revives Mahishasur who turns on him.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch132_shiva_shakthi_thiruvilayadal.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="132" start="20250602053000 +0000" stop="20250602060000 +0000">
 		<title>Shiva Shakthi Thiruvilayadal - EP 466</title>
-		<desc>Lord Shiva and Goddess Parvati navigate their relationship while caring for humanity.</desc>
+		<desc>Mahishasur requests the spirit of his mother to confront Adishakti.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch132_shiva_shakthi_thiruvilayadal.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="132" start="20250602060000 +0000" stop="20250602083000 +0000">
@@ -5183,7 +5183,7 @@
 	</programme>
 	<programme channel="132" start="20250602103000 +0000" stop="20250602110000 +0000">
 		<title>Shiva Shakthi Thiruvilayadal - EP 467</title>
-		<desc>Lord Shiva and Goddess Parvati navigate their relationship while caring for humanity.</desc>
+		<desc>The curse of Mahishasur's mother allows him the faculties necessary to conquer the world.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch132_shiva_shakthi_thiruvilayadal.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="132" start="20250602110000 +0000" stop="20250602113000 +0000">
@@ -6817,8 +6817,8 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/139_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="140" start="20250531133000 +0000" stop="20250531163000 +0000">
-		<title>ARM</title>
-		<desc>A gritty tale of ambition, loyalty, and survival, where a determined protagonist navigates the challenges of crime, power, and betrayal in pursuit of justice and redemption. Release Year: 2024 Director: Jithin Laal</desc>
+		<title>A.R.M.</title>
+		<desc>A.R.M.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=960&amp;h=540" />
 	</programme>
 	<programme channel="140" start="20250531163000 +0000" stop="20250531192000 +0000">
@@ -10307,7 +10307,7 @@
 		<icon src="https://poster.starhubgo.com/poster/ch213_the_ucl_preview_show_202425.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="213" start="20250531185500 +0000" stop="20250531210000 +0000">
-		<title>UEFA Champions League 2024/25: PSG vs Inter - Final (Live)</title>
+		<title>PSG vs Inter - Final (Live)</title>
 		<desc>The most prestigious tournament in the world contested by top-division elite European clubs</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch213_uefa_champions_league_live.jpg?w=960&amp;h=540" />
 	</programme>
@@ -10466,15 +10466,15 @@
 		<desc>Enjoy every Liverpool classic encounters from LFCTV on beIN SPORTS</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch213_lfctv_classic.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="213" start="20250602004500 +0000" stop="20250602020000 +0000">
-		<title>LFCTV Classic 2024/25: Man United vs Liverpool 2024/25</title>
-		<desc>Enjoy every Liverpool classic encounters from LFCTV on beIN SPORTS</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch213_lfctv_classic.jpg?w=341&amp;h=192" />
-	</programme>
-	<programme channel="213" start="20250602020000 +0000" stop="20250602023000 +0000">
+	<programme channel="213" start="20250602004500 +0000" stop="20250602011500 +0000">
 		<title>LFC Trending 2024/25</title>
 		<desc>The official LFCTV weekly magazine program featuring news, stories, videos and social media highlights from across Liverpool football club, its players and supporters</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch213_lfc_trending.jpg?w=960&amp;h=540" />
+	</programme>
+	<programme channel="213" start="20250602011500 +0000" stop="20250602023000 +0000">
+		<title>LFCTV Classic 2024/25: Man United vs Liverpool 2024/25</title>
+		<desc>Enjoy every Liverpool classic encounters from LFCTV on beIN SPORTS</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch213_lfctv_classic.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="213" start="20250602023000 +0000" stop="20250602030500 +0000">
 		<title>Formula 1 Highlights 2025</title>
