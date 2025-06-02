@@ -10336,15 +10336,25 @@
 		<desc>The 2025 Indian Premier League, a franchise Twenty20 cricket league held in India, returns for the 18th year, and will feature ten teams competing in 74 matches from 14 March to 25 May 2025.</desc>
 		<icon src="https://poster.starhubgo.com/poster/IPL2025_M68.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="204" start="20250603042500 +0000" stop="20250603090000 +0000">
+	<programme channel="204" start="20250603031500 +0000" stop="20250603075000 +0000">
 		<title>TATA Indian Premier League 2025: M69 - Punjab Kings vs Mumbai Indians</title>
 		<desc>The 2025 Indian Premier League, a franchise Twenty20 cricket league held in India, returns for the 18th year, and will feature ten teams competing in 74 matches from 14 March to 25 May 2025.</desc>
 		<icon src="https://poster.starhubgo.com/poster/IPL2025_M69.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="204" start="20250603090000 +0000" stop="20250603135000 +0000">
+	<programme channel="204" start="20250603075000 +0000" stop="20250603124000 +0000">
 		<title>TATA Indian Premier League 2025: M73 - Qualifier 2 - Punjab Kings vs Mumbai Indi</title>
 		<desc>The 2025 Indian Premier League, a franchise Twenty20 cricket league held in India, returns for the 18th year, and will feature ten teams competing in 74 matches from 14 March to 25 May 2025.</desc>
 		<icon src="https://poster.starhubgo.com/poster/IPL2025_M73.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="204" start="20250603124000 +0000" stop="20250603131500 +0000">
+		<title>TATA Indian Premier League 2025: Closing Ceremony</title>
+		<desc>The 2025 Indian Premier League, a franchise Twenty20 cricket league held in India, returns for the 18th year, and will feature ten teams competing in 74 matches from 14 March to 25 May 2025.</desc>
+		<icon src="https://poster.starhubgo.com/poster/IPL2025.jpg?w=960&amp;h=540" />
+	</programme>
+	<programme channel="204" start="20250603131500 +0000" stop="20250603135000 +0000">
+		<title>ICC Champions Trophy 2025: M15 - Final - India vs New Zealand HLs</title>
+		<desc>The 9th edition of the ICC Champions Trophy will be hosted by Pakistan and United Arab Emirates from 19 February to 9 March 2025 and will be contested by the top eight ranked men's national teams qualified from the Cricket World Cup 2023.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ICCCT2025_GENERIC.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="204" start="20250603135000 +0000" stop="20250603180000 +0000">
 		<title>TATA Indian Premier League 2025: M74 - Final - Royal Challengers Bengaluru vs Pu</title>
@@ -10916,25 +10926,20 @@
 		<desc>beIN Sports brings you exclusive coverage of the 2025 Formula 3 Championship.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch213_formula_3_feature_race.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="213" start="20250603045000 +0000" stop="20250603053500 +0000">
-		<title>FIA Formula 2 Championship Practice 2025: Barcelona, Spain</title>
+	<programme channel="213" start="20250603045000 +0000" stop="20250603055000 +0000">
+		<title>FIA Formula 2 Championship Feature Race 2025: Barcelona, Spain</title>
 		<desc>beIN Sports brings you live and exclusive coverage of the 2025 Formula 2 Championship.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch213_fia_formula_2_championship_practice.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch213_formula _2_feature_race.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="213" start="20250603053500 +0000" stop="20250603061000 +0000">
+	<programme channel="213" start="20250603055000 +0000" stop="20250603062500 +0000">
 		<title>Formula 1 Highlights 2025</title>
 		<desc>Catch up with all the best bits from the weekend's race.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch213_formula1_highlights.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="213" start="20250603061000 +0000" stop="20250603071000 +0000">
+	<programme channel="213" start="20250603062500 +0000" stop="20250603072500 +0000">
 		<title>Ferrari Challenge Europe Highlights 2025</title>
 		<desc>Catch the highlights of all the rounds of the Ferrari Challenge Europe 2025.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch213_ferrari_challenge_europe_highlights.jpg?w=960&amp;h=540" />
-	</programme>
-	<programme channel="213" start="20250603071000 +0000" stop="20250603072500 +0000">
-		<title>MUTV: Top 20 Goals</title>
-		<desc>Catch our collection of Manchester United Top 20 Goals, matches, moments and more, from the Red Devils MUTV archives.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch213_mutv.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="213" start="20250603072500 +0000" stop="20250603075500 +0000">
 		<title>FIA European Rally Championship Highlights 2025</title>
@@ -11116,29 +11121,14 @@
 		<desc>The most prestigious tournament in the world contested by top-division elite European clubs</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch214_UCL_full_match.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="217" start="20250601135000 +0000" stop="20250601180000 +0000">
-		<title>TATA IPL 2025: Qualifier 2, TATA IPL 2025 (Live)</title>
-		<desc>Watch live coverage of Qualifier 2 of TATA IPL 2025.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_Channels2/217_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="217" start="20250601180000 +0000" stop="20250601214600 +0000">
-		<title>India tour of Sri Lanka, 2024: SL v IND 3rd T20I</title>
-		<desc>Watch the replay of the 3rd T20I of the India Tour of Sri Lanka 2024 between Sri Lanka and India.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_Channels2/217_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="217" start="20250601214600 +0000" stop="20250601222700 +0000">
-		<title>TATA IPL 2025 Highlights: Qualifier 2, TATA IPL 2025</title>
-		<desc>Watch highlights of Qualifier 2 of TATA IPL 2025.</desc>
+	<programme channel="217" start="20250601160000 +0000" stop="20250601220000 +0000">
+		<title>No Transmission</title>
+		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_Channels2/217_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="217" start="20250601220000 +0000" stop="20250602040000 +0000">
 		<title>No Transmission</title>
 		<desc />
-		<icon src="https://poster.starhubgo.com/Linear_Channels2/217_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="217" start="20250601222700 +0000" stop="20250601230700 +0000">
-		<title>Bangladesh tour of Pakistan, 2025 Highlights: PAK v BAN, 3rd T20I</title>
-		<desc>Watch highlights of the 4th T20I of the Pakistan Tour of Bangladesh 2025 between Pakistan and Bangladesh.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_Channels2/217_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="217" start="20250602040000 +0000" stop="20250602100000 +0000">
@@ -11161,95 +11151,20 @@
 		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_Channels2/217_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="217" start="20250603004600 +0000" stop="20250603012700 +0000">
-		<title>TATA IPL 2025 H/Ls: M62 CSK v RR, TATA IPL 2025</title>
-		<desc>Watch highlights of Match 62 of TATA IPL 2025 between Chennai Super Kings and Rajasthan Royals.</desc>
+	<programme channel="217" start="20250603040000 +0000" stop="20250603100000 +0000">
+		<title>No Transmission</title>
+		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_Channels2/217_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="217" start="20250603012700 +0000" stop="20250603015800 +0000">
-		<title>TATA IPL 2025 H/Ls: Qualifier 1 PBKS v RCB, TATA IPL 2025</title>
-		<desc>Watch highlights of Qualifier 1 of TATA IPL 2025 between Punjab Kings and Royal Challengers Bengaluru.</desc>
+	<programme channel="217" start="20250603100000 +0000" stop="20250603160000 +0000">
+		<title>No Transmission</title>
+		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_Channels2/217_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="217" start="20250603015800 +0000" stop="20250603024500 +0000">
-		<title>TATA IPL 2025 H/Ls: Eliminator GT v MI, TATA IPL 2025</title>
-		<desc>Watch highlights of the Eliminator of TATA IPL 2025 between Gujarat Titans and Mumbai Indians.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_Channels2/217_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="217" start="20250603024500 +0000" stop="20250603032600 +0000">
-		<title>TATA IPL 2025 H/Ls: Qualifier 2 PBKS v MI, TATA IPL 2025</title>
-		<desc>Watch highlights of Qualifier 2 of TATA IPL 2025 between Punjab Kings and Mumbai Indians</desc>
-		<icon src="https://poster.starhubgo.com/Linear_Channels2/217_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="217" start="20250603032600 +0000" stop="20250603040900 +0000">
-		<title>West Indies tour of Sri Lanka, 2024 H/Ls: SL v WI, 3rd ODI</title>
-		<desc>Watch highlights of the 3rd ODI of the West Indies Tour of Sri Lanka 2024 between Sri Lanka and West Indies.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_Channels2/217_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="217" start="20250603040900 +0000" stop="20250603044800 +0000">
-		<title>England tour of India, 2025 H/Ls: IND v ENG, 1st T20I</title>
-		<desc>Watch highlights of the 1st T20I of the England Tour of India 2025 between India and England.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_Channels2/217_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="217" start="20250603044800 +0000" stop="20250603052800 +0000">
-		<title>West Indies tour of Sri Lanka, 2024 H/Ls: SL v WI, 3rd T20I</title>
-		<desc>Watch highlights of the 3rd T20I of the West Indies Tour of Sri Lanka 2024 between Sri Lanka and West Indies.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_Channels2/217_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="217" start="20250603052800 +0000" stop="20250603060500 +0000">
-		<title>England tour of India, 2025 H/Ls: IND v ENG, 2nd T20I</title>
-		<desc>Watch highlights of the 2nd T20I of the England Tour of India 2025 between India and England.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_Channels2/217_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="217" start="20250603060500 +0000" stop="20250603065100 +0000">
-		<title>Bangladesh tour of Pakistan, 2025 H/Ls: PAK v BAN, 1st T20I</title>
-		<desc>Watch highlights of the 1st T20I of the Pakistan Tour of Bangladesh 2025 between Pakistan and Bangladesh.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_Channels2/217_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="217" start="20250603065100 +0000" stop="20250603073100 +0000">
-		<title>England tour of India, 2025 H/Ls: IND v ENG, 3rd T20I</title>
-		<desc>Watch highlights of the 3rd T20I of the England Tour of India 2025 between India and England.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_Channels2/217_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="217" start="20250603073100 +0000" stop="20250603081400 +0000">
-		<title>TATA IPL 2025 H/Ls: M2 SRH v RR, TATA IPL 2025</title>
-		<desc>Watch highlights of Match 2 of TATA IPL 2025 between Sunrisers Hyderabad and Rajasthan Royals.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_Channels2/217_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="217" start="20250603081400 +0000" stop="20250603085800 +0000">
-		<title>TATA IPL 2025 H/Ls: M22 PBKS v CSK, TATA IPL 2025</title>
-		<desc>Watch highlights of Match 22 of TATA IPL 2025 between Punjab Kings and Chennai Super Kings.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_Channels2/217_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="217" start="20250603085800 +0000" stop="20250603094300 +0000">
-		<title>TATA IPL 2025 H/Ls: M47 RR v GT, TATA IPL 2025</title>
-		<desc>Watch highlights of Match 47 of TATA IPL 2025 between Rajasthan Royals and Gujarat Titans.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_Channels2/217_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="217" start="20250603094300 +0000" stop="20250603103200 +0000">
-		<title>TATA IPL 2025 H/Ls: M27 SRH v PBKS, TATA IPL 2025</title>
-		<desc>Watch highlights of Match 27 of TATA IPL 2025 between Sunrisers Hyderabad and Punjab Kings.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_Channels2/217_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="217" start="20250603103200 +0000" stop="20250603111400 +0000">
-		<title>England tour of India, 2025 H/Ls: IND v ENG, 4th T20I</title>
-		<desc>Watch highlights of the 4th T20I of the England Tour of India 2025 between India and England.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_Channels2/217_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="217" start="20250603111400 +0000" stop="20250603115000 +0000">
-		<title>Australia tour of Sri Lanka, 2025 H/Ls: SL v AUS, 2nd ODI</title>
-		<desc>Watch highlights of the 2nd ODI of the Australia Tour of Sri Lanka 2025 between Sri Lanka and Australia.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_Channels2/217_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="217" start="20250603115000 +0000" stop="20250603135000 +0000">
-		<title>West Indies tour of England, 2025: ENG v WI, 3rd ODI (Live)</title>
-		<desc>Watch live action from the 3rd ODI of the West Indies Tour of England 2025 between England and West Indies.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_Channels2/217_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="217" start="20250603135000 +0000" stop="20250603180000 +0000">
-		<title>TATA IPL 2025: Final, TATA IPL 2025 (Live)</title>
-		<desc>Watch live coverage of the Final of TATA IPL 2025.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_Channels2/217_1920x1080_HTV.png?w=341&amp;h=192" />
+	<programme channel="218" start="20250601160000 +0000" stop="20250601220000 +0000">
+		<title>No Transmission</title>
+		<desc />
+		<icon src="https://poster.starhubgo.com/Linear_Channels2/218_1920x1080_HTV.png?w=960&amp;h=540" />
 	</programme>
 	<programme channel="218" start="20250601220000 +0000" stop="20250602040000 +0000">
 		<title>No Transmission</title>
@@ -11272,6 +11187,16 @@
 		<icon src="https://poster.starhubgo.com/Linear_Channels2/218_1920x1080_HTV.png?w=960&amp;h=540" />
 	</programme>
 	<programme channel="218" start="20250602220000 +0000" stop="20250603040000 +0000">
+		<title>No Transmission</title>
+		<desc />
+		<icon src="https://poster.starhubgo.com/Linear_Channels2/218_1920x1080_HTV.png?w=960&amp;h=540" />
+	</programme>
+	<programme channel="218" start="20250603040000 +0000" stop="20250603100000 +0000">
+		<title>No Transmission</title>
+		<desc />
+		<icon src="https://poster.starhubgo.com/Linear_Channels2/218_1920x1080_HTV.png?w=960&amp;h=540" />
+	</programme>
+	<programme channel="218" start="20250603100000 +0000" stop="20250603160000 +0000">
 		<title>No Transmission</title>
 		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_Channels2/218_1920x1080_HTV.png?w=960&amp;h=540" />
@@ -25672,7 +25597,7 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/709_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="709" start="20250603080000 +0000" stop="20250603090000 +0000">
-		<title>The Deal with Alex Rodriguez and Jason Kelly</title>
+		<title>The Deal with Alex Rodriguez and Jason Kelly S3 - EP 3</title>
 		<desc>The Commanders DC Deal with Josh Harris. 26North founder and Washington Commanders owner Josh Harris talks about the team's recent stadium deal in DC and his mindset on team ownership.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/709_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
@@ -29676,24 +29601,24 @@
 		<desc>This is a story based on the lives of Yanase Takashi (Kitamura Takumi), the creator of "Anpanman," a famous Japanese anime character, and his wife Nobu (Imada Mio). It depicts how two individuals overcame countless hardships to create "Anpanman," embodying the idea of 'justice that never wavers,' and inspiring love and courage that make the joy of living well up from within.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="811" start="20250601231500 +0000" stop="20250602005400 +0000">
+	<programme channel="811" start="20250601231500 +0000" stop="20250601235500 +0000">
 		<title>asaichi</title>
 		<desc>Looking into topical information ranging from social issues to entertainment news through the eyes of the general public.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="811" start="20250602005400 +0000" stop="20250602005500 +0000">
-		<title>World Weather</title>
-		<desc>Weather information of the different areas around the world.</desc>
+	<programme channel="811" start="20250601235500 +0000" stop="20250602000000 +0000">
+		<title>News &amp; Weather</title>
+		<desc>The latest up-to-date news and nationwide weather information.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="811" start="20250602005500 +0000" stop="20250602010000 +0000">
-		<title>Exercise for Everyone</title>
-		<desc>An easy-to-do exercise program for everyone from children to the elderly.</desc>
+	<programme channel="811" start="20250602000000 +0000" stop="20250602010000 +0000">
+		<title>Rokkaku Seiji's Nomitetsu Railroad Trip: Dosan Line &amp; Tosa Kuroshio Railway (R)</title>
+		<desc>An actor Rokkaku Seiji, who loves both train and liquor, travels around Japan by rail. He stops over at stations he likes and explores the streets. Enjoy the fun-filled railroad trip with the music he selects!</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="811" start="20250602010000 +0000" stop="20250602010500 +0000">
-		<title>News &amp; Weather</title>
-		<desc>The latest up-to-date news and nationwide weather information.</desc>
+		<title>Exercise for Everyone</title>
+		<desc>An easy-to-do exercise program for everyone from children to the elderly.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="811" start="20250602010500 +0000" stop="20250602015300 +0000">
@@ -29712,7 +29637,7 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="811" start="20250602020500 +0000" stop="20250602025000 +0000">
-		<title>Drama 10 "Happiness Comes from Eating, Sleeping and Waiting" Eps. 9（Final） (R)</title>
+		<title>Drama 10 "Happiness Comes from Eating, Sleeping and Waiting" Eps. 9 (Final)(R)</title>
 		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
@@ -29751,12 +29676,17 @@
 		<desc>This is a story based on the lives of Yanase Takashi (Kitamura Takumi), the creator of "Anpanman," a famous Japanese anime character, and his wife Nobu (Imada Mio). It depicts how two individuals overcame countless hardships to create "Anpanman," embodying the idea of 'justice that never wavers,' and inspiring love and courage that make the joy of living well up from within.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="811" start="20250602040000 +0000" stop="20250602040500 +0000">
-		<title>News</title>
-		<desc>The latest up-to-date news from Tokyo.</desc>
+	<programme channel="811" start="20250602040000 +0000" stop="20250602045500 +0000">
+		<title>Classical Music Club</title>
+		<desc>Enjoy chamber music performed by first-class Japanese musicians as well as chamber orchestra and soloists from overseas.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="811" start="20250602040500 +0000" stop="20250602055000 +0000">
+	<programme channel="811" start="20250602045500 +0000" stop="20250602051500 +0000">
+		<title>World's Magnificent Sight Journey</title>
+		<desc />
+		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="811" start="20250602051500 +0000" stop="20250602055000 +0000">
 		<title>News Around Japan</title>
 		<desc>Program introduces the latest news from all over Japan.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
