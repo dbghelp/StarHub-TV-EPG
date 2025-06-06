@@ -10582,12 +10582,12 @@
 		<icon src="https://poster.starhubgo.com/poster/ch211_roland_garros.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="211" start="20250606154500 +0000" stop="20250606164500 +0000">
-		<title>Roland Garros Documentaries And Review The King’s Palace: Rafa Nadal &amp; Roland-Ga</title>
+		<title>Roland Garros Documentaries And Review</title>
 		<desc>Rewind past action, key moments and interviews over the years from top players.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_roland_garros.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="211" start="20250606164500 +0000" stop="20250606200000 +0000">
-		<title>Roland Garros 2025: Men's Singles SF 2</title>
+		<title>Roland Garros 2025: Men's Singles SF 2 Sinner v Djokovic</title>
 		<desc>Roland-Garros is the second Grand Slam on the annual tennis calendar and is the only one played on clay.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_roland_garros.jpg?w=960&amp;h=540" />
 	</programme>
@@ -10597,12 +10597,12 @@
 		<icon src="https://poster.starhubgo.com/poster/ch211_roland_garros.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="211" start="20250606203000 +0000" stop="20250606230000 +0000">
-		<title>Best of RG 2025: Men’s Singles SF 1</title>
+		<title>Best of RG 2025: Men’s Singles SF 1 Alcaraz v Musetti</title>
 		<desc>Catch the Best Matches from the Roland Garros 2025.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_roland_garros.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="211" start="20250606230000 +0000" stop="20250607013000 +0000">
-		<title>Best of RG 2025: Men’s Singles SF 2</title>
+		<title>Best of RG 2025: Men’s Singles SF 2 Sinner v Djokovic</title>
 		<desc>Catch the Best Matches from the Roland Garros 2025.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_roland_garros.jpg?w=960&amp;h=540" />
 	</programme>
@@ -27157,7 +27157,7 @@
 		<icon src="https://poster.starhubgo.com/poster/ch724_news.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="724" start="20250606071600 +0000" stop="20250606073000 +0000">
-		<title>Tete e tete</title>
+		<title>Tete a tete</title>
 		<desc>An interview with a personality from the world of economics, politics, culture or diplomacy.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch724_tete_a_tete.jpg?w=960&amp;h=540" />
 	</programme>
@@ -27332,7 +27332,7 @@
 		<icon src="https://poster.starhubgo.com/poster/ch724_news.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="724" start="20250606131600 +0000" stop="20250606133000 +0000">
-		<title>Tete e tete</title>
+		<title>Tete a tete</title>
 		<desc>An interview with a personality from the world of economics, politics, culture or diplomacy.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch724_tete_a_tete.jpg?w=960&amp;h=540" />
 	</programme>
@@ -27482,7 +27482,7 @@
 		<icon src="https://poster.starhubgo.com/poster/ch724_news.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="724" start="20250606191500 +0000" stop="20250606193000 +0000">
-		<title>Tete e tete</title>
+		<title>Tete a tete</title>
 		<desc>An interview with a personality from the world of economics, politics, culture or diplomacy.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch724_tete_a_tete.jpg?w=960&amp;h=540" />
 	</programme>
@@ -29626,29 +29626,34 @@
 		<desc>This is a story based on the lives of Yanase Takashi (Kitamura Takumi), the creator of "Anpanman," a famous Japanese anime character, and his wife Nobu (Imada Mio). It depicts how two individuals overcame countless hardships to create "Anpanman," embodying the idea of 'justice that never wavers,' and inspiring love and courage that make the joy of living well up from within.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="811" start="20250606040000 +0000" stop="20250606040500 +0000">
-		<title>News</title>
-		<desc>The latest up-to-date news from Tokyo.</desc>
+	<programme channel="811" start="20250606040000 +0000" stop="20250606045500 +0000">
+		<title>Classical Music Club</title>
+		<desc>Enjoy chamber music performed by first-class Japanese musicians as well as chamber orchestra and soloists from overseas.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="811" start="20250606040500 +0000" stop="20250606055000 +0000">
-		<title>News Around Japan</title>
-		<desc>Program introduces the latest news from all over Japan.</desc>
+	<programme channel="811" start="20250606045500 +0000" stop="20250606050000 +0000">
+		<title>TV Exercise</title>
+		<desc>Short program to introduce physical exercise for the young and old.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="811" start="20250606055000 +0000" stop="20250606055500 +0000">
+	<programme channel="811" start="20250606050000 +0000" stop="20250606052800 +0000">
+		<title>Journeys in Japan Encore (B) (R)</title>
+		<desc>English-speaking visitors travel the length of Japan, exploring the local culture, meeting the people and offering travel hints rarely found in guidebooks. Get to know useful travel tips!</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="811" start="20250606052800 +0000" stop="20250606055500 +0000">
+		<title>JAPAN DELISH</title>
+		<desc />
+		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="811" start="20250606055500 +0000" stop="20250606060000 +0000">
 		<title>World Weather</title>
 		<desc>Weather information of the different areas around the world.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="811" start="20250606055500 +0000" stop="20250606060000 +0000">
-		<title>World's Magnificent Sight Journey</title>
-		<desc />
-		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
 	<programme channel="811" start="20250606060000 +0000" stop="20250606061000 +0000">
-		<title>News &amp; Weather</title>
-		<desc>The latest up-to-date news and nationwide weather information.</desc>
+		<title>Train Driver's Cab View Mini</title>
+		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="811" start="20250606061000 +0000" stop="20250606063000 +0000">
@@ -29916,11 +29921,6 @@
 		<desc>The latest up-to-date news and nationwide weather information.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="811" start="20250607010500 +0000" stop="20250607013200 +0000">
-		<title>JAPAN DELISH</title>
-		<desc />
-		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
 	<programme channel="811" start="20250607013200 +0000" stop="20250607013800 +0000">
 		<title>Mini Program</title>
 		<desc />
@@ -29989,11 +29989,6 @@
 	<programme channel="811" start="20250607070000 +0000" stop="20250607074500 +0000">
 		<title>Explore Japanese Roots with the Lost Bone (R)</title>
 		<desc>Last spring, the long-lost bone of the "Yomigahama Man" was rediscovered after half a century. Unearthed in 1969 in Sakaiminato City, it was dated by archaeologist Naora Nobuo to be between 20,000 and 50,000 years old. Though once hailed as Japan’s oldest human remains, it was never accepted by academia and eventually went missing. The relic left behind by Naora, who was admired even by author Matsumoto Seicho, is now in the hands of Kaifu Yosuke and other leading anthropologists in Japan.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="811" start="20250607074500 +0000" stop="20250607080000 +0000">
-		<title>Train Driver's Cab View Mini</title>
-		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="811" start="20250607080000 +0000" stop="20250607082400 +0000">
@@ -30213,7 +30208,7 @@
 	</programme>
 	<programme channel="812" start="20250605233000 +0000" stop="20250606000000 +0000">
 		<title>Lunch On!</title>
-		<desc>More than just a meal! Enjoy lunch around Japan, learning about people's lives and workplaces and the stories behind workers' daily meals.</desc>
+		<desc>In this special episode, we meet new employees working in various fields and hear their most memorable lunch stories, including a man from a sporting goods company running his first full marathon.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250606000000 +0000" stop="20250606003000 +0000">
@@ -30233,7 +30228,7 @@
 	</programme>
 	<programme channel="812" start="20250606013000 +0000" stop="20250606020000 +0000">
 		<title>Today's Close-Up</title>
-		<desc>Dig deeper into current affairs with cutting-edge information and critical analysis on important issues confronting Japanese lives.</desc>
+		<desc>Solitary death is a rising phenomenon among young adults in Japan - it often appears to result from self-neglect due to loneliness and isolation. We look at what can be done to tackle the issue.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250606020000 +0000" stop="20250606023000 +0000">
@@ -30288,7 +30283,7 @@
 	</programme>
 	<programme channel="812" start="20250606063000 +0000" stop="20250606070000 +0000">
 		<title>Today's Close-Up</title>
-		<desc>Dig deeper into current affairs with cutting-edge information and critical analysis on important issues confronting Japanese lives.</desc>
+		<desc>Solitary death is a rising phenomenon among young adults in Japan - it often appears to result from self-neglect due to loneliness and isolation. We look at what can be done to tackle the issue.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250606070000 +0000" stop="20250606073000 +0000">
@@ -30348,7 +30343,7 @@
 	</programme>
 	<programme channel="812" start="20250606114300 +0000" stop="20250606115500 +0000">
 		<title>Impacts: Climates Change the World</title>
-		<desc>NHK World-Japan presents a variety of short programmes focusing on Japan and Asia.</desc>
+		<desc>The low-elevation South Pacific islands are seriously threatened by sea level rise due to global warming - attempts are underway to raise them with nature-based solutions using star sand and coral.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250606115500 +0000" stop="20250606120000 +0000">
@@ -30363,7 +30358,7 @@
 	</programme>
 	<programme channel="812" start="20250606123000 +0000" stop="20250606130000 +0000">
 		<title>Today's Close-Up</title>
-		<desc>Dig deeper into current affairs with cutting-edge information and critical analysis on important issues confronting Japanese lives.</desc>
+		<desc>Solitary death is a rising phenomenon among young adults in Japan - it often appears to result from self-neglect due to loneliness and isolation. We look at what can be done to tackle the issue.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250606130000 +0000" stop="20250606133000 +0000">
@@ -30418,7 +30413,7 @@
 	</programme>
 	<programme channel="812" start="20250606173000 +0000" stop="20250606180000 +0000">
 		<title>Today's Close-Up</title>
-		<desc>Dig deeper into current affairs with cutting-edge information and critical analysis on important issues confronting Japanese lives.</desc>
+		<desc>Solitary death is a rising phenomenon among young adults in Japan - it often appears to result from self-neglect due to loneliness and isolation. We look at what can be done to tackle the issue.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250606180000 +0000" stop="20250606182800 +0000">
@@ -30433,7 +30428,7 @@
 	</programme>
 	<programme channel="812" start="20250606184300 +0000" stop="20250606185500 +0000">
 		<title>Impacts: Climates Change the World</title>
-		<desc>NHK World-Japan presents a variety of short programmes focusing on Japan and Asia.</desc>
+		<desc>The low-elevation South Pacific islands are seriously threatened by sea level rise due to global warming - attempts are underway to raise them with nature-based solutions using star sand and coral.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250606185500 +0000" stop="20250606190000 +0000">
@@ -30483,7 +30478,7 @@
 	</programme>
 	<programme channel="812" start="20250606223000 +0000" stop="20250606230000 +0000">
 		<title>Today's Close-Up</title>
-		<desc>Dig deeper into current affairs with cutting-edge information and critical analysis on important issues confronting Japanese lives.</desc>
+		<desc>Solitary death is a rising phenomenon among young adults in Japan - it often appears to result from self-neglect due to loneliness and isolation. We look at what can be done to tackle the issue.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250606230000 +0000" stop="20250606231000 +0000">
