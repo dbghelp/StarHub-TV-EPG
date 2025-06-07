@@ -9566,15 +9566,15 @@
 		<desc>The Challenge Series features the key events on the European Challenge Tour. In keeping with the profile of the Tour’s players, the programming has a more youth orientated and dynamic look and feel to the typical golf shows. The content provides close up profiles with the future stars, life-style features, as well as all the exciting final day action from the event.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch203_Hotel_Planner_Tour.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="203" start="20250607113000 +0000" stop="20250607160000 +0000">
+	<programme channel="203" start="20250607113000 +0000" stop="20250607143000 +0000">
+		<title>PGA Tour 2025</title>
+		<desc>The Canadian Open is a professional golf tournament in Canada. It is co-organized by Golf Canada and the PGA Tour. It was first played 121 years ago in 1904, and has been held annually since then, except for during World War I, World War II and the COVID-19 pandemic. It is the third oldest continuously running tournament on the tour, after The Open Championship and the U.S. Open.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch203_PGA_TOUR.jpg?w=960&amp;h=540" />
+	</programme>
+	<programme channel="203" start="20250607143000 +0000" stop="20250607190000 +0000">
 		<title>DP World Tour 2025</title>
 		<desc>The Dutch Open is an annual golf tournament played in the Netherlands, and has been part of the European Tour's schedule since the Tour was inaugurated in 1972. Founded in 1912, the tournament began as the Dutch Open, before a variety of sponsors resulted in numerous name changes over the years. It is widely recognised as one of the best tournaments on the DP World Tour and is renowned for its relaxed atmosphere, as well as its activities for all ages.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch203_dp_world_tour.jpg?w=960&amp;h=540" />
-	</programme>
-	<programme channel="203" start="20250607160000 +0000" stop="20250607190000 +0000">
-		<title>End of Transmission</title>
-		<desc>End of Transmission</desc>
-		<icon src="https://poster.starhubgo.com/Linear_Channels2/203_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="203" start="20250607190000 +0000" stop="20250607220000 +0000">
 		<title>LPGA Tour 2025</title>
