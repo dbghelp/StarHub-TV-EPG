@@ -164,14 +164,6 @@
 		<display-name>Hub Sports 6</display-name>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/206_1920x1080_HTV.png?w=272" />
 	</channel>
-	<channel id="207">
-		<display-name>Hub Sports 7</display-name>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/207_1920x1080_HTV.png?w=272" />
-	</channel>
-	<channel id="208">
-		<display-name>Hub Sports 8</display-name>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/208_1920x1080_HTV.png?w=272" />
-	</channel>
 	<channel id="209">
 		<display-name>SPOTV</display-name>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/209_1920x1080_HTV.png?w=272" />
@@ -9916,7 +9908,7 @@
 	</programme>
 	<programme channel="159" start="20250608170000 +0000" stop="20250608200000 +0000">
 		<title>Movie - Tamil Selvanum Thaniyar Anjalum</title>
-		<desc>When Tamilselvan, a courier boy, witnesses an assault on a social activist to whom he had to deliver a package, he learns it contains the evidence to a racket wherein doctors abort foetuses through an abortion-inducing pill.</desc>
+		<desc>When Tamilselvan, a courier boy, witnesses an assault on a social activist who he had to deliver a package to, he learns that it contains the evidence to a racket wherein doctors abort foetuses through a pill.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch159_ktv_hd_logo.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="159" start="20250608200000 +0000" stop="20250608223000 +0000">
@@ -9976,7 +9968,7 @@
 	</programme>
 	<programme channel="159" start="20250610010000 +0000" stop="20250610013000 +0000">
 		<title>Fillers</title>
-		<desc>Fillers</desc>
+		<desc>KTV HD presents you round-the-clock Kollywood movies, from the latest blockbusters to classics of the yesteryear!</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch159_ktv_hd_logo.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="159" start="20250610013000 +0000" stop="20250610043000 +0000">
@@ -10001,7 +9993,7 @@
 	</programme>
 	<programme channel="159" start="20250610133000 +0000" stop="20250610170000 +0000">
 		<title>Movie - Kaththi Sandai</title>
-		<desc>Arjun plays modern-day Robin Hood when he steals black money from two corrupt government officials and uses it to develop the remote village he hails from.</desc>
+		<desc>Arjun plays modern-day Robin Hood when he steals money from two corrupt government officials and uses it to develop the remote village he hails from.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch159_ktv_hd_logo.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="201" start="20250608160000 +0000" stop="20250608170000 +0000">
@@ -10468,31 +10460,6 @@
 		<title>End of Transmission</title>
 		<desc>End of Transmission</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/206_1920x1080_HTV.png?w=960&amp;h=540" />
-	</programme>
-	<programme channel="207" start="20250608220000 +0000" stop="20250609040000 +0000">
-		<title>End of Transmission</title>
-		<desc>End of Transmission</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/207_1920x1080_HTV.png?w=960&amp;h=540" />
-	</programme>
-	<programme channel="207" start="20250609040000 +0000" stop="20250609100000 +0000">
-		<title>End of Transmission</title>
-		<desc>End of Transmission</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/207_1920x1080_HTV.png?w=960&amp;h=540" />
-	</programme>
-	<programme channel="207" start="20250609100000 +0000" stop="20250609160000 +0000">
-		<title>End of Transmission</title>
-		<desc>End of Transmission</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/207_1920x1080_HTV.png?w=960&amp;h=540" />
-	</programme>
-	<programme channel="207" start="20250609160000 +0000" stop="20250609220000 +0000">
-		<title>End of Transmission</title>
-		<desc>End of Transmission</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/207_1920x1080_HTV.png?w=960&amp;h=540" />
-	</programme>
-	<programme channel="207" start="20250609220000 +0000" stop="20250610040000 +0000">
-		<title>End of Transmission</title>
-		<desc>End of Transmission</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/207_1920x1080_HTV.png?w=960&amp;h=540" />
 	</programme>
 	<programme channel="209" start="20250608153000 +0000" stop="20250608170000 +0000">
 		<title>SPOTV ENCORE: The Championships, Wimbledon 2024</title>
