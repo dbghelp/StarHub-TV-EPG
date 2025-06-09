@@ -6103,7 +6103,7 @@
 	</programme>
 	<programme channel="135" start="20250609080000 +0000" stop="20250609083000 +0000">
 		<title>Thendrale Mella Pesu - EP 1</title>
-		<desc>Thendrale Mella Pesu</desc>
+		<desc>A bold, independent young woman faces life fearlessly. But despite her strength, she hides an inner fear of marriage that slowly begins to challenge her beliefs and choices.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch135_thendrale_mella_pesu.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="135" start="20250609083000 +0000" stop="20250609090000 +0000">
@@ -6223,7 +6223,7 @@
 	</programme>
 	<programme channel="135" start="20250609200000 +0000" stop="20250609203000 +0000">
 		<title>Thendrale Mella Pesu - EP 1</title>
-		<desc>Thendrale Mella Pesu</desc>
+		<desc>A bold, independent young woman faces life fearlessly. But despite her strength, she hides an inner fear of marriage that slowly begins to challenge her beliefs and choices.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch135_thendrale_mella_pesu.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="135" start="20250609203000 +0000" stop="20250609210000 +0000">
@@ -30002,8 +30002,8 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="811" start="20250609032800 +0000" stop="20250609033000 +0000">
-		<title>Mini Program</title>
-		<desc />
+		<title>News</title>
+		<desc>The latest up-to-date news from Tokyo.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="811" start="20250609033000 +0000" stop="20250609034500 +0000">
@@ -30016,14 +30016,29 @@
 		<desc>This is a story based on the lives of Yanase Takashi (Kitamura Takumi), the creator of "Anpanman," a famous Japanese anime character, and his wife Nobu (Imada Mio). It depicts how two individuals overcame countless hardships to create "Anpanman," embodying the idea of 'justice that never wavers,' and inspiring love and courage that make the joy of living well up from within.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="811" start="20250609040000 +0000" stop="20250609040500 +0000">
-		<title>News</title>
-		<desc>The latest up-to-date news from Tokyo.</desc>
+	<programme channel="811" start="20250609040000 +0000" stop="20250609044000 +0000">
+		<title>Connect for the Future (R)</title>
+		<desc>Featuring distinguished programs ranging from entertainment shows to documentaries.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="811" start="20250609040500 +0000" stop="20250609055000 +0000">
-		<title>News Around Japan</title>
-		<desc>Program introduces the latest news from all over Japan.</desc>
+	<programme channel="811" start="20250609044000 +0000" stop="20250609044500 +0000">
+		<title>TV Exercise</title>
+		<desc>Short program to introduce physical exercise for the young and old.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="811" start="20250609044500 +0000" stop="20250609054000 +0000">
+		<title>Classical Music Club</title>
+		<desc>Enjoy chamber music performed by first-class Japanese musicians as well as chamber orchestra and soloists from overseas.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="811" start="20250609054000 +0000" stop="20250609054500 +0000">
+		<title>Japan Genesis: Pilgrimage to the Land of the Gods 5min.</title>
+		<desc />
+		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="811" start="20250609054500 +0000" stop="20250609055000 +0000">
+		<title>Mini Program</title>
+		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="811" start="20250609055000 +0000" stop="20250609055500 +0000">
@@ -30037,8 +30052,8 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="811" start="20250609060000 +0000" stop="20250609061000 +0000">
-		<title>News &amp; Weather</title>
-		<desc>The latest up-to-date news and nationwide weather information.</desc>
+		<title>Natural Grandeur of the East Mini</title>
+		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="811" start="20250609061000 +0000" stop="20250609063500 +0000">
@@ -30122,7 +30137,7 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="811" start="20250609105700 +0000" stop="20250609114300 +0000">
-		<title>Tsurube's Salute to Families "Suzuki Fuku in Higashihiroshima City, Hiroshima Pr</title>
+		<title>Tsurube's Salute to Families"Suzuki Fuku in Higashihiroshima City,Hiroshima Pref</title>
 		<desc>Veteran rakugo storyteller Shofukutei Tsurube travels across Japan with a personality, introducing families they meet along the way.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
@@ -30252,7 +30267,7 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="811" start="20250609191500 +0000" stop="20250609200000 +0000">
-		<title>Tsurube's Salute to Families "Suzuki Fuku in Higashihiroshima City, Hiroshima Pr</title>
+		<title>Tsurube's Salute to Families"Suzuki Fuku in Higashihiroshima City, Hiroshima Pre</title>
 		<desc>Veteran rakugo storyteller Shofukutei Tsurube travels across Japan with a personality, introducing families they meet along the way.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
