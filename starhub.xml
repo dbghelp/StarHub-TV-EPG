@@ -164,6 +164,14 @@
 		<display-name>Hub Sports 6</display-name>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/206_1920x1080_HTV.png?w=272" />
 	</channel>
+	<channel id="207">
+		<display-name>Hub Sports 7</display-name>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/207_1920x1080_HTV.png?w=272" />
+	</channel>
+	<channel id="208">
+		<display-name>Hub Sports 8</display-name>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/208_1920x1080_HTV.png?w=272" />
+	</channel>
 	<channel id="209">
 		<display-name>SPOTV</display-name>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/209_1920x1080_HTV.png?w=272" />
@@ -9923,12 +9931,12 @@
 	</programme>
 	<programme channel="159" start="20250609010000 +0000" stop="20250609013000 +0000">
 		<title>Fillers</title>
-		<desc>Fillers</desc>
+		<desc>KTV HD presents you round-the-clock Kollywood movies, from the latest blockbusters to classics of the yesteryear!</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch159_ktv_hd_logo.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="159" start="20250609013000 +0000" stop="20250609043000 +0000">
 		<title>Movie - Kannal Pesava</title>
-		<desc>A popular music director, starts recollecting his past when a film director comes to explain him a song situation. He falls in love with a singer who ignores him at first but then starts loving him.</desc>
+		<desc>A popular music director begins recollecting his past when a film director comes to explain to him about a song situation. He falls for a singer who ignores him at first, but then starts loving him back.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch159_ktv_hd_logo.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="159" start="20250609043000 +0000" stop="20250609073000 +0000">
@@ -9958,12 +9966,12 @@
 	</programme>
 	<programme channel="159" start="20250609200000 +0000" stop="20250609223000 +0000">
 		<title>Movie - Galatta Ganapathy</title>
-		<desc>A man gets married to a woman but when he brings her home, his mother demands dowry from her. However, things take a turn when he learns that she is a sub-inspector.</desc>
+		<desc>A man gets married to a woman but when he brings her home, his mother demands dowry from her. Things take a turn when he learns that she is a sub-inspector.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch159_ktv_hd_logo.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="159" start="20250609223000 +0000" stop="20250610010000 +0000">
 		<title>Movie - Padhavi Paduthum Paadu</title>
-		<desc>A political satire based on a forest bandit and a sandalwood smuggler with a difference. The bandit gets amnesty and enters politics to clean the corrupt system.</desc>
+		<desc>A political satire based on a forest bandit and a sandalwood smuggler with a difference. The bandit gets amnesty and enters politics to clean up the corrupt system.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch159_ktv_hd_logo.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="159" start="20250610010000 +0000" stop="20250610013000 +0000">
@@ -10460,6 +10468,31 @@
 		<title>End of Transmission</title>
 		<desc>End of Transmission</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/206_1920x1080_HTV.png?w=960&amp;h=540" />
+	</programme>
+	<programme channel="207" start="20250608220000 +0000" stop="20250609040000 +0000">
+		<title>End of Transmission</title>
+		<desc>End of Transmission</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/207_1920x1080_HTV.png?w=960&amp;h=540" />
+	</programme>
+	<programme channel="207" start="20250609040000 +0000" stop="20250609100000 +0000">
+		<title>End of Transmission</title>
+		<desc>End of Transmission</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/207_1920x1080_HTV.png?w=960&amp;h=540" />
+	</programme>
+	<programme channel="207" start="20250609100000 +0000" stop="20250609160000 +0000">
+		<title>End of Transmission</title>
+		<desc>End of Transmission</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/207_1920x1080_HTV.png?w=960&amp;h=540" />
+	</programme>
+	<programme channel="207" start="20250609160000 +0000" stop="20250609220000 +0000">
+		<title>End of Transmission</title>
+		<desc>End of Transmission</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/207_1920x1080_HTV.png?w=960&amp;h=540" />
+	</programme>
+	<programme channel="207" start="20250609220000 +0000" stop="20250610040000 +0000">
+		<title>End of Transmission</title>
+		<desc>End of Transmission</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/207_1920x1080_HTV.png?w=960&amp;h=540" />
 	</programme>
 	<programme channel="209" start="20250608153000 +0000" stop="20250608170000 +0000">
 		<title>SPOTV ENCORE: The Championships, Wimbledon 2024</title>
@@ -10981,15 +11014,15 @@
 		<desc>The matadors of the road are back with a vengeance! 1,000 horsepower and a seeming disregard for their trucks' bodywork provide fascinating action in a king-size battle royal!</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch213_fia_truck_racing_championship.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="213" start="20250609043000 +0000" stop="20250609053000 +0000">
-		<title>FIA European Truck Racing Championship 2025: Slovakiaring Race 4</title>
-		<desc>The matadors of the road are back with a vengeance! 1,000 horsepower and a seeming disregard for their trucks' bodywork provide fascinating action in a king-size battle royal!</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch213_fia_truck_racing_championship.jpg?w=341&amp;h=192" />
-	</programme>
-	<programme channel="213" start="20250609053000 +0000" stop="20250609070000 +0000">
+	<programme channel="213" start="20250609043000 +0000" stop="20250609060000 +0000">
 		<title>FIA World Rally Championship 2025: Rally Italia Sardegna - SS16 Porto San Paolo</title>
 		<desc>Join us for an epic motorsport adventure that takes drivers and their production-based cars through challenging terrain in the 53rd season of the World Rally Championship.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch213_fia_wrc.jpg?w=960&amp;h=540" />
+	</programme>
+	<programme channel="213" start="20250609060000 +0000" stop="20250609070000 +0000">
+		<title>LaLiga Specials 2024/25</title>
+		<desc>beIN Sports brings you exclusive programming from Spain's LaLiga, featuring some of the biggest clubs and players in world football.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch213_laliga_specials.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="213" start="20250609070000 +0000" stop="20250609090000 +0000">
 		<title>LaLiga 2 Playoffs 2024/25: Racing de Santander vs Mirandes</title>
@@ -11026,15 +11059,15 @@
 		<desc>Enjoy documentaries and other special programming from LFCTV on beIN SPORTS</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch213_ltctv_specials.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="213" start="20250609151500 +0000" stop="20250609163000 +0000">
-		<title>LFCTV Classic 2024/25: Liverpool vs Chelsea 2024/25</title>
-		<desc>Enjoy every Liverpool classic encounters from LFCTV on beIN SPORTS</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch213_lfctv_classic.jpg?w=341&amp;h=192" />
-	</programme>
-	<programme channel="213" start="20250609163000 +0000" stop="20250609170000 +0000">
+	<programme channel="213" start="20250609151500 +0000" stop="20250609154500 +0000">
 		<title>LFC Trending 2024/25</title>
 		<desc>The official LFCTV weekly magazine program featuring news, stories, videos and social media highlights from across Liverpool football club, its players and supporters</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch213_lfc_trending.jpg?w=960&amp;h=540" />
+	</programme>
+	<programme channel="213" start="20250609154500 +0000" stop="20250609170000 +0000">
+		<title>LFCTV Classic 2024/25: Liverpool vs Chelsea 2024/25</title>
+		<desc>Enjoy every Liverpool classic encounters from LFCTV on beIN SPORTS</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch213_lfctv_classic.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="213" start="20250609170000 +0000" stop="20250609203000 +0000">
 		<title>Ultimate Pool 2025: Group 2 Pairs Cup (Live)</title>
