@@ -22221,14 +22221,34 @@
 		<desc>In-depth coverage and analysis of the ongoing war in Ukraine.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch701_BBC_news.jpg?w=341&amp;h=192" />
 	</programme>
+	<programme channel="701" start="20250614160000 +0000" stop="20250614170000 +0000">
+		<title>BBC News</title>
+		<desc>The latest news from the BBC.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch701_BBC_news.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="701" start="20250614170000 +0000" stop="20250614173000 +0000">
+		<title>BBC News</title>
+		<desc>The latest news from the BBC.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch701_BBC_news.jpg?w=341&amp;h=192" />
+	</programme>
 	<programme channel="701" start="20250614173000 +0000" stop="20250614180000 +0000">
 		<title>Unspun World with John Simpson</title>
 		<desc>Unspun World provides an unvarnished version of the week's major global news stories - reliable, honest and essential viewing with the BBC's world affairs editor John Simpson.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch701_unspun_world_with_john_simpson.jpg?w=960&amp;h=540" />
 	</programme>
+	<programme channel="701" start="20250614180000 +0000" stop="20250614183000 +0000">
+		<title>BBC News</title>
+		<desc>The latest news from the BBC.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch701_BBC_news.jpg?w=341&amp;h=192" />
+	</programme>
 	<programme channel="701" start="20250614183000 +0000" stop="20250614190000 +0000">
 		<title>Tech Now</title>
 		<desc>Could nuclear fusion supply endless clean energy? Nick Kwek visits the Fuse testing lab in Montreal - a startup with the goal of using nuclear fusion to solve the world's energy problems.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch701_BBC_news.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="701" start="20250614190000 +0000" stop="20250614193000 +0000">
+		<title>BBC News</title>
+		<desc>The latest news from the BBC.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch701_BBC_news.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="701" start="20250614193000 +0000" stop="20250614200000 +0000">
@@ -22303,7 +22323,7 @@
 	</programme>
 	<programme channel="701" start="20250615033000 +0000" stop="20250615040000 +0000">
 		<title>The Interview</title>
-		<desc>Up close, personal and in-depth with the biggest names.</desc>
+		<desc>Bodybuilder, movie star and former California Governor Arnold Schwarzenegger talks to Laura Kuenssberg about four decades in the limelight, his plan to tackle climate change - and terminate pollution.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch701_BBC_news.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="701" start="20250615040000 +0000" stop="20250615043000 +0000">
@@ -22418,7 +22438,7 @@
 	</programme>
 	<programme channel="701" start="20250615153000 +0000" stop="20250615160000 +0000">
 		<title>The Interview</title>
-		<desc>Up close, personal and in-depth with the biggest names.</desc>
+		<desc>Bodybuilder, movie star and former California Governor Arnold Schwarzenegger talks to Laura Kuenssberg about four decades in the limelight, his plan to tackle climate change - and terminate pollution.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch701_BBC_news.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="702" start="20250613160000 +0000" stop="20250613170000 +0000">
