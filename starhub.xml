@@ -1278,7 +1278,7 @@
 	</programme>
 	<programme channel="103" start="20250615153000 +0000" stop="20250615160000 +0000">
 		<title>Frontline - EP 8</title>
-		<desc>Frontline is a weekly investigative current affairs programme that aims to address issues closest to the hearts of Singaporeans.</desc>
+		<desc>Singapore’s tourism receipts in 2024 is a record high, exceeding pre-Covid level in 2019. Post-pandemic, what makes Singapore tick as a tourist destination? What uniquely local experiences can we offer?</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/103_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="104" start="20250613160000 +0000" stop="20250614010000 +0000">
@@ -6862,8 +6862,8 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=960&amp;h=540" />
 	</programme>
 	<programme channel="140" start="20250615103000 +0000" stop="20250615133000 +0000">
-		<title>Itti Mani made in China</title>
-		<desc>Ittymaani helps Annamma and faces trouble. Release Year: 2019 Director: Jibi Joju</desc>
+		<title>Ittymaani: Made in China</title>
+		<desc>Ittymaani runs a business of spurious products. He tries to help Annamma. Release Year: 2019 Director: Jibi Joju</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=960&amp;h=540" />
 	</programme>
 	<programme channel="140" start="20250615133000 +0000" stop="20250615163000 +0000">
@@ -9251,10 +9251,10 @@
 		<desc>Unaware that Lakshmi is his friend Anand's fiancee, Karthik ends up sending her a love letter. Things turn ugly when Anand suspects Lakshmi of infidelity after getting married to her.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch159_ktv_hd_logo.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="159" start="20250613200000 +0000" stop="20250613220000 +0000">
-		<title>Information Not Available</title>
-		<desc />
-		<icon src="https://poster.starhubgo.com/Linear_channels2/159_1920x1080_HTV.png?w=960&amp;h=540" />
+	<programme channel="159" start="20250613200000 +0000" stop="20250613223000 +0000">
+		<title>Movie - Naangal</title>
+		<desc>Two competing police officers, Keerthi and Naveen, try to outdo each other while investigating a roadside murder. Things get complicated and the officers take each other to court.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch159_ktv_hd_logo.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="159" start="20250613223000 +0000" stop="20250614010000 +0000">
 		<title>Movie - Enn Iniya Pon Nilave</title>
@@ -9306,15 +9306,35 @@
 		<desc>Jollyman is directed by KK Muthukumaar, and stars Pandiyarajan, Varshini, Abhinayashri and Music by Soundaryan</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch159_ktv_hd_logo.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="159" start="20250615040000 +0000" stop="20250615100000 +0000">
-		<title>Information Not Available</title>
-		<desc />
-		<icon src="https://poster.starhubgo.com/Linear_channels2/159_1920x1080_HTV.png?w=960&amp;h=540" />
+	<programme channel="159" start="20250615010000 +0000" stop="20250615013000 +0000">
+		<title>Fillers</title>
+		<desc>Fillers</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch159_ktv_hd_logo.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="159" start="20250615100000 +0000" stop="20250615160000 +0000">
-		<title>Information Not Available</title>
-		<desc />
-		<icon src="https://poster.starhubgo.com/Linear_channels2/159_1920x1080_HTV.png?w=960&amp;h=540" />
+	<programme channel="159" start="20250615013000 +0000" stop="20250615043000 +0000">
+		<title>Movie - Ethiri</title>
+		<desc>Subramani poses as a goon to evict bachelor tenants from a Brahmin's house but instead helps one of them kidnap his lover from her marriage. However, chaos ensues when he kidnaps the wrong girl.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch159_ktv_hd_logo.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="159" start="20250615043000 +0000" stop="20250615073000 +0000">
+		<title>Movie - Bogan</title>
+		<desc>Vikram, a police officer, is investigating robberies in a jewelery shop and a bank, which seem like an inside job until he realizes that the person involved is someone he knows.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch159_ktv_hd_logo.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="159" start="20250615073000 +0000" stop="20250615103000 +0000">
+		<title>Movie - Kalakalappu 2</title>
+		<desc>Raghu learns about his father's ancestral property, which is taken care by Srinivas. When Ganesh cheats both of them, they visit Karaikudi to get hold of Ganesh and recover their money.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch159_ktv_hd_logo.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="159" start="20250615103000 +0000" stop="20250615133000 +0000">
+		<title>Movie - Soorarai Pottru</title>
+		<desc>Maara, a young man from a remote village, dreams of launching his own airline service. However, he must overcome several obstacles and challenges in order to be successful in his quest.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch159_ktv_hd_logo.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="159" start="20250615133000 +0000" stop="20250615170000 +0000">
+		<title>Movie - Naan Mirumagai Maara</title>
+		<desc>Sound engineer Bhoominathan's violent crime crusade against his brother's brutal murderers earns the wrath of their enraged mercenary head. Will he succeed in his battle to save his family from the horde of mercenaries?</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch159_ktv_hd_logo.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="201" start="20250613150000 +0000" stop="20250613190000 +0000">
 		<title>Hologic WTA Tour 2025</title>
