@@ -1541,7 +1541,7 @@
 		<desc>Catch the latest local and international news on Suria.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/104_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="105" start="20250616160000 +0000" stop="20250617010000 +0000">
+	<programme channel="105" start="20250616155500 +0000" stop="20250617010000 +0000">
 		<title>End of transmission</title>
 		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_channels2/105_1920x1080_HTV.png?w=341&amp;h=192" />
@@ -10962,47 +10962,57 @@
 		<icon src="https://poster.starhubgo.com/poster/ch211_ATPMASTERS500.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="211" start="20250617020000 +0000" stop="20250617033000 +0000">
-		<title>ATP Tour 500 2025: Queen's Day 1 Match 3</title>
+		<title>ATP Tour 500 2025 Queen's Day 1 Mensik v Norrie</title>
 		<desc>Exclusive coverage of the 2025 ATP Tour on beIN SPORTS as the world's best male players battle it out across the globe to be #1.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_ATPMASTERS500.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="211" start="20250617033000 +0000" stop="20250617050000 +0000">
-		<title>ATP Tour 500 2025: Queen's Day 1 Match 4</title>
+	<programme channel="211" start="20250617033000 +0000" stop="20250617045000 +0000">
+		<title>ATP Tour 500 2025 Queen's Day 1 Fearnley v Bolt</title>
 		<desc>Exclusive coverage of the 2025 ATP Tour on beIN SPORTS as the world's best male players battle it out across the globe to be #1.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_ATPMASTERS500.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="211" start="20250617050000 +0000" stop="20250617063000 +0000">
-		<title>ATP Tour 500 2025: Halle Day 1 Match 2</title>
+	<programme channel="211" start="20250617045000 +0000" stop="20250617060500 +0000">
+		<title>ATP Tour 500 2025 Halle Day 1 Medvedev v Altmaier</title>
 		<desc>Exclusive coverage of the 2025 ATP Tour on beIN SPORTS as the world's best male players battle it out across the globe to be #1.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_ATPMASTERS500.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="211" start="20250617063000 +0000" stop="20250617080000 +0000">
-		<title>ATP Tour 500 2025: Halle Day 1 Match 3</title>
+	<programme channel="211" start="20250617060500 +0000" stop="20250617071500 +0000">
+		<title>ATP Tour 500 2025 Halle Day 1 Muller v Bublik</title>
 		<desc>Exclusive coverage of the 2025 ATP Tour on beIN SPORTS as the world's best male players battle it out across the globe to be #1.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_ATPMASTERS500.jpg?w=960&amp;h=540" />
+	</programme>
+	<programme channel="211" start="20250617071500 +0000" stop="20250617073000 +0000">
+		<title>ATP Doco Shorts (CC) Sinner Feature</title>
+		<desc>In this series of features, we look back at some of the most memorable moments, rivalries, achievements and special features at ATP Masters events.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch211_atp_doco_shorts.jpg?w=960&amp;h=540" />
+	</programme>
+	<programme channel="211" start="20250617073000 +0000" stop="20250617080000 +0000">
+		<title>Mini Match - Roland Garros 2025 Men's Singles Final Sinner v Alcaraz</title>
+		<desc>Roland-Garros is the second Grand Slam on the annual tennis calendar and is the only one played on clay.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch211_roland_garros.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="211" start="20250617080000 +0000" stop="20250617093000 +0000">
-		<title>ATP Tour 500 2025: Halle Day 1 Match 4</title>
+		<title>ATP Tour 500 2025 Halle Day 1 Tsitsipas v Darderi</title>
 		<desc>Exclusive coverage of the 2025 ATP Tour on beIN SPORTS as the world's best male players battle it out across the globe to be #1.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_ATPMASTERS500.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="211" start="20250617093000 +0000" stop="20250617113000 +0000">
-		<title>ATP Tour 500 2025: Halle Day 2 Match 1</title>
+		<title>ATP Tour 500 2025 Halle Day 2 Rublev v Ofner</title>
 		<desc>Exclusive coverage of the 2025 ATP Tour on beIN SPORTS as the world's best male players battle it out across the globe to be #1.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_ATPMASTERS500.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="211" start="20250617113000 +0000" stop="20250617133000 +0000">
-		<title>ATP Tour 500 2025: Halle Day 2 Match 2</title>
+		<title>ATP Tour 500 2025 Halle Day 2 Cobolli v Fonseca</title>
 		<desc>Exclusive coverage of the 2025 ATP Tour on beIN SPORTS as the world's best male players battle it out across the globe to be #1.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_ATPMASTERS500.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="211" start="20250617133000 +0000" stop="20250617153000 +0000">
-		<title>ATP Tour 500 2025: Halle Day 2 Match 3</title>
+		<title>ATP Tour 500 2025 Halle Day 2 Sinner v Hanfmann</title>
 		<desc>Exclusive coverage of the 2025 ATP Tour on beIN SPORTS as the world's best male players battle it out across the globe to be #1.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_ATPMASTERS500.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="211" start="20250617153000 +0000" stop="20250617173000 +0000">
-		<title>ATP Tour 500 2025: Halle Day 2 Match 4</title>
+		<title>ATP Tour 500 2025 Halle Day 2 Sonego v Struff</title>
 		<desc>Exclusive coverage of the 2025 ATP Tour on beIN SPORTS as the world's best male players battle it out across the globe to be #1.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_ATPMASTERS500.jpg?w=960&amp;h=540" />
 	</programme>
