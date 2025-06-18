@@ -164,6 +164,14 @@
 		<display-name>Hub Sports 6</display-name>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/206_1920x1080_HTV.png?w=272" />
 	</channel>
+	<channel id="207">
+		<display-name>Hub Sports 7</display-name>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/207_1920x1080_HTV.png?w=272" />
+	</channel>
+	<channel id="208">
+		<display-name>Hub Sports 8</display-name>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/208_1920x1080_HTV.png?w=272" />
+	</channel>
 	<channel id="209">
 		<display-name>SPOTV</display-name>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/209_1920x1080_HTV.png?w=272" />
@@ -6228,12 +6236,12 @@
 	</programme>
 	<programme channel="135" start="20250618000000 +0000" stop="20250618003000 +0000">
 		<title>Pandian Stores Thanthai Sol Mikka Mandhi - EP 508</title>
-		<desc>Pandian's life is centered around his large, close-knit family. But when his children get involved with dangerous rivals, will their strong family bonds survive the challenges?</desc>
+		<desc>Pandian's life is centered around his large, closeknit family. But when his children get involved with dangerous rivals, will their strong family bonds survive the challenges?</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch135_pandian_stores_thanthai_sol_mikka_mandhi.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="135" start="20250618003000 +0000" stop="20250618010000 +0000">
 		<title>Ayyanar Thunai - EP 115</title>
-		<desc>In a bid to escape her ill-fate, Nila becomes the daughter-in-law of a family with a tainted past. Can she restore their lost hope, or will it shatter hers?</desc>
+		<desc>In a bid to escape her illfate, Nila becomes the daughterinlaw of a family with a tainted past. Can she restore their lost hope, or will it shatter hers?</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch135_ayyanar_thunai.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="135" start="20250618010000 +0000" stop="20250618013000 +0000">
@@ -6252,28 +6260,28 @@
 		<icon src="https://poster.starhubgo.com/poster/ch135_sindhu_bairavi_kacheri_arambam.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="135" start="20250618023000 +0000" stop="20250618040000 +0000">
-		<title>Oom Solriya Oohm Solriya-Yes Or Miss S03 - EP 16</title>
+		<title>Oom Solriya Oohm SolriyaYes Or Miss S03 - EP 16</title>
 		<desc>Priyanka and Ma Ka Pa Anand present a unique game show where celebrities navigate mind games, accumulate points, and select enticing prizes for victory.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch135_oom_solriya_oohm_solriyayes_or_miss_s03.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="135" start="20250618040000 +0000" stop="20250618043000 +0000">
 		<title>Baagyalatchumi Illatharisiyin Kadhai S01 - EP 1431</title>
-		<desc>The drama depicts Bhagyalakshmi's journey, a housewife reclaiming her self-respect, showcasing her sacrifices and the significance of a homemaker.</desc>
+		<desc>The drama depicts Bhagyalakshmi's journey, a housewife reclaiming her selfrespect, showcasing her sacrifices and the significance of a homemaker.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch135_baagyalatchumi_illatharisiyin_kadhai.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="135" start="20250618043000 +0000" stop="20250618050000 +0000">
 		<title>Aha Kalyanam Dum Dum Dum - EP 570</title>
-		<desc>An ambitious Mahalaxmi's life takes a u-turn when she is forced to marry Surya, a businessman. Stark opposites in nature, will love bloom between the couple?</desc>
+		<desc>An ambitious Mahalaxmi's life takes a uturn when she is forced to marry Surya, a businessman. Stark opposites in nature, will love bloom between the couple?</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch135_aha_kalyanam_dum_dum_dum.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="135" start="20250618050000 +0000" stop="20250618053000 +0000">
 		<title>Pandian Stores Thanthai Sol Mikka Mandhi - EP 508</title>
-		<desc>Pandian's life is centered around his large, close-knit family. But when his children get involved with dangerous rivals, will their strong family bonds survive the challenges?</desc>
+		<desc>Pandian's life is centered around his large, closeknit family. But when his children get involved with dangerous rivals, will their strong family bonds survive the challenges?</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch135_pandian_stores_thanthai_sol_mikka_mandhi.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="135" start="20250618053000 +0000" stop="20250618060000 +0000">
 		<title>Ayyanar Thunai - EP 115</title>
-		<desc>In a bid to escape her ill-fate, Nila becomes the daughter-in-law of a family with a tainted past. Can she restore their lost hope, or will it shatter hers?</desc>
+		<desc>In a bid to escape her illfate, Nila becomes the daughterinlaw of a family with a tainted past. Can she restore their lost hope, or will it shatter hers?</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch135_ayyanar_thunai.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="135" start="20250618060000 +0000" stop="20250618063000 +0000">
@@ -6287,7 +6295,7 @@
 		<icon src="https://poster.starhubgo.com/poster/ch135_chinna_marumagal_panirendaam_vaguppu.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="135" start="20250618070000 +0000" stop="20250618073000 +0000">
-		<title>Sakthivel - Theeyaai Oru Theeraakkaadhal - EP 471</title>
+		<title>Sakthivel Theeyaai Oru Theeraakkaadhal - EP 471</title>
 		<desc>Shakthi an aspiring professor, is coerced into marriage weds Velan to teach him a lesson. Her brother marries Velan's sister for her protection. Shakthi's journey in Velan's patriarchal family.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch135_sakthivel_theeyaai_oru_theeraakkaadhal.jpg?w=341&amp;h=192" />
 	</programme>
@@ -6298,12 +6306,12 @@
 	</programme>
 	<programme channel="135" start="20250618080000 +0000" stop="20250618083000 +0000">
 		<title>Thendrale Mella Pesu - EP 9</title>
-		<desc>Ilamathi, a bold widow, wins a bullock cart race, sparking love and rivalry between a rowdy and an honest cop-unaware of her hidden sorrow. Who will win her heart?</desc>
+		<desc>Ilamathi is stuck between a brave cop and a bad goon. This love triangle is dangerous. Can her heart handle the trouble? She must choose between the two men.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch135_thendrale_mella_pesu.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="135" start="20250618083000 +0000" stop="20250618090000 +0000">
-		<title>Dhanam - Ungalil Oruthi - EP 103</title>
-		<desc>A debt-ridden man's attempt to report smugglers for a reward backfires, leading to a dangerous pursuit as the criminals seek revenge on him.</desc>
+		<title>Dhanam Ungalil Oruthi - EP 103</title>
+		<desc>A debtridden man's attempt to report smugglers for a reward backfires, leading to a dangerous pursuit as the criminals seek revenge on him.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch135_dhanam_ungalil_oruthi.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="135" start="20250618090000 +0000" stop="20250618093000 +0000">
@@ -6318,17 +6326,17 @@
 	</programme>
 	<programme channel="135" start="20250618100000 +0000" stop="20250618103000 +0000">
 		<title>Aha Kalyanam Dum Dum Dum - EP 571</title>
-		<desc>An ambitious Mahalaxmi's life takes a u-turn when she is forced to marry Surya, a businessman. Stark opposites in nature, will love bloom between the couple?</desc>
+		<desc>An ambitious Mahalaxmi's life takes a uturn when she is forced to marry Surya, a businessman. Stark opposites in nature, will love bloom between the couple?</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch135_aha_kalyanam_dum_dum_dum.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="135" start="20250618103000 +0000" stop="20250618110000 +0000">
 		<title>Poongatru Thirumbuma - EP 38</title>
-		<desc>A woman endures a psychologically abusive marriage shaped by her husband's struggles. The story traces her emotional pain, challenges, resilience, and her journey to self-discovery.</desc>
+		<desc>A woman endures a psychologically abusive marriage shaped by her husband's struggles. The story traces her emotional pain, challenges, resilience, and her journey to selfdiscovery.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch135_poongatru_thirumbuma.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="135" start="20250618110000 +0000" stop="20250618113000 +0000">
 		<title>Baagyalatchumi Illatharisiyin Kadhai S01 - EP 1432</title>
-		<desc>The drama depicts Bhagyalakshmi's journey, a housewife reclaiming her self-respect, showcasing her sacrifices and the significance of a homemaker.</desc>
+		<desc>The drama depicts Bhagyalakshmi's journey, a housewife reclaiming her selfrespect, showcasing her sacrifices and the significance of a homemaker.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch135_baagyalatchumi_illatharisiyin_kadhai.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="135" start="20250618113000 +0000" stop="20250618120000 +0000">
@@ -6338,12 +6346,12 @@
 	</programme>
 	<programme channel="135" start="20250618120000 +0000" stop="20250618123000 +0000">
 		<title>Pandian Stores Thanthai Sol Mikka Mandhi - EP 509</title>
-		<desc>Pandian's life is centered around his large, close-knit family. But when his children get involved with dangerous rivals, will their strong family bonds survive the challenges?</desc>
+		<desc>Pandian's life is centered around his large, closeknit family. But when his children get involved with dangerous rivals, will their strong family bonds survive the challenges?</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch135_pandian_stores_thanthai_sol_mikka_mandhi.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="135" start="20250618123000 +0000" stop="20250618130000 +0000">
 		<title>Ayyanar Thunai - EP 116</title>
-		<desc>In a bid to escape her ill-fate, Nila becomes the daughter-in-law of a family with a tainted past. Can she restore their lost hope, or will it shatter hers?</desc>
+		<desc>In a bid to escape her illfate, Nila becomes the daughterinlaw of a family with a tainted past. Can she restore their lost hope, or will it shatter hers?</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch135_ayyanar_thunai.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="135" start="20250618130000 +0000" stop="20250618133000 +0000">
@@ -6363,12 +6371,12 @@
 	</programme>
 	<programme channel="135" start="20250618143000 +0000" stop="20250618150000 +0000">
 		<title>Poongatru Thirumbuma - EP 38</title>
-		<desc>A woman endures a psychologically abusive marriage shaped by her husband's struggles. The story traces her emotional pain, challenges, resilience, and her journey to self-discovery.</desc>
+		<desc>A woman endures a psychologically abusive marriage shaped by her husband's struggles. The story traces her emotional pain, challenges, resilience, and her journey to selfdiscovery.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch135_poongatru_thirumbuma.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="135" start="20250618150000 +0000" stop="20250618153000 +0000">
 		<title>Baagyalatchumi Illatharisiyin Kadhai S01 - EP 1432</title>
-		<desc>The drama depicts Bhagyalakshmi's journey, a housewife reclaiming her self-respect, showcasing her sacrifices and the significance of a homemaker.</desc>
+		<desc>The drama depicts Bhagyalakshmi's journey, a housewife reclaiming her selfrespect, showcasing her sacrifices and the significance of a homemaker.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch135_baagyalatchumi_illatharisiyin_kadhai.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="135" start="20250618153000 +0000" stop="20250618160000 +0000">
@@ -6378,12 +6386,12 @@
 	</programme>
 	<programme channel="135" start="20250618160000 +0000" stop="20250618163000 +0000">
 		<title>Pandian Stores Thanthai Sol Mikka Mandhi - EP 509</title>
-		<desc>Pandian's life is centered around his large, close-knit family. But when his children get involved with dangerous rivals, will their strong family bonds survive the challenges?</desc>
+		<desc>Pandian's life is centered around his large, closeknit family. But when his children get involved with dangerous rivals, will their strong family bonds survive the challenges?</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch135_pandian_stores_thanthai_sol_mikka_mandhi.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="135" start="20250618163000 +0000" stop="20250618170000 +0000">
 		<title>Ayyanar Thunai - EP 116</title>
-		<desc>In a bid to escape her ill-fate, Nila becomes the daughter-in-law of a family with a tainted past. Can she restore their lost hope, or will it shatter hers?</desc>
+		<desc>In a bid to escape her illfate, Nila becomes the daughterinlaw of a family with a tainted past. Can she restore their lost hope, or will it shatter hers?</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch135_ayyanar_thunai.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="135" start="20250618170000 +0000" stop="20250618173000 +0000">
@@ -6403,11 +6411,11 @@
 	</programme>
 	<programme channel="135" start="20250618183000 +0000" stop="20250618190000 +0000">
 		<title>Poongatru Thirumbuma - EP 38</title>
-		<desc>A woman endures a psychologically abusive marriage shaped by her husband's struggles. The story traces her emotional pain, challenges, resilience, and her journey to self-discovery.</desc>
+		<desc>A woman endures a psychologically abusive marriage shaped by her husband's struggles. The story traces her emotional pain, challenges, resilience, and her journey to selfdiscovery.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch135_poongatru_thirumbuma.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="135" start="20250618190000 +0000" stop="20250618193000 +0000">
-		<title>Sakthivel - Theeyaai Oru Theeraakkaadhal - EP 471</title>
+		<title>Sakthivel Theeyaai Oru Theeraakkaadhal - EP 471</title>
 		<desc>Shakthi an aspiring professor, is coerced into marriage weds Velan to teach him a lesson. Her brother marries Velan's sister for her protection. Shakthi's journey in Velan's patriarchal family.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch135_sakthivel_theeyaai_oru_theeraakkaadhal.jpg?w=341&amp;h=192" />
 	</programme>
@@ -6418,12 +6426,12 @@
 	</programme>
 	<programme channel="135" start="20250618200000 +0000" stop="20250618203000 +0000">
 		<title>Thendrale Mella Pesu - EP 9</title>
-		<desc>Ilamathi, a bold widow, wins a bullock cart race, sparking love and rivalry between a rowdy and an honest cop-unaware of her hidden sorrow. Who will win her heart?</desc>
+		<desc>Ilamathi is stuck between a brave cop and a bad goon. This love triangle is dangerous. Can her heart handle the trouble? She must choose between the two men.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch135_thendrale_mella_pesu.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="135" start="20250618203000 +0000" stop="20250618210000 +0000">
-		<title>Dhanam - Ungalil Oruthi - EP 103</title>
-		<desc>A debt-ridden man's attempt to report smugglers for a reward backfires, leading to a dangerous pursuit as the criminals seek revenge on him.</desc>
+		<title>Dhanam Ungalil Oruthi - EP 103</title>
+		<desc>A debtridden man's attempt to report smugglers for a reward backfires, leading to a dangerous pursuit as the criminals seek revenge on him.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch135_dhanam_ungalil_oruthi.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="135" start="20250618210000 +0000" stop="20250618213000 +0000">
@@ -6438,17 +6446,17 @@
 	</programme>
 	<programme channel="135" start="20250618220000 +0000" stop="20250618223000 +0000">
 		<title>Aha Kalyanam Dum Dum Dum - EP 571</title>
-		<desc>An ambitious Mahalaxmi's life takes a u-turn when she is forced to marry Surya, a businessman. Stark opposites in nature, will love bloom between the couple?</desc>
+		<desc>An ambitious Mahalaxmi's life takes a uturn when she is forced to marry Surya, a businessman. Stark opposites in nature, will love bloom between the couple?</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch135_aha_kalyanam_dum_dum_dum.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="135" start="20250618223000 +0000" stop="20250618230000 +0000">
 		<title>Poongatru Thirumbuma - EP 38</title>
-		<desc>A woman endures a psychologically abusive marriage shaped by her husband's struggles. The story traces her emotional pain, challenges, resilience, and her journey to self-discovery.</desc>
+		<desc>A woman endures a psychologically abusive marriage shaped by her husband's struggles. The story traces her emotional pain, challenges, resilience, and her journey to selfdiscovery.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch135_poongatru_thirumbuma.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="135" start="20250618230000 +0000" stop="20250618233000 +0000">
 		<title>Baagyalatchumi Illatharisiyin Kadhai S01 - EP 1432</title>
-		<desc>The drama depicts Bhagyalakshmi's journey, a housewife reclaiming her self-respect, showcasing her sacrifices and the significance of a homemaker.</desc>
+		<desc>The drama depicts Bhagyalakshmi's journey, a housewife reclaiming her selfrespect, showcasing her sacrifices and the significance of a homemaker.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch135_baagyalatchumi_illatharisiyin_kadhai.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="135" start="20250618233000 +0000" stop="20250619000000 +0000">
@@ -6458,7 +6466,7 @@
 	</programme>
 	<programme channel="135" start="20250619000000 +0000" stop="20250619003000 +0000">
 		<title>Pandian Stores Thanthai Sol Mikka Mandhi - EP 509</title>
-		<desc>Pandian's life is centered around his large, close-knit family. But when his children get involved with dangerous rivals, will their strong family bonds survive the challenges?</desc>
+		<desc>Pandian's life is centered around his large, closeknit family. But when his children get involved with dangerous rivals, will their strong family bonds survive the challenges?</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch135_pandian_stores_thanthai_sol_mikka_mandhi.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="135" start="20250619003000 +0000" stop="20250619010000 +0000">
@@ -7541,12 +7549,12 @@
 		<desc>In this movie, three stories intertwine: a budding romance between students, a villain's chilling narrative, and the adventures of two friends, culminating in a captivating plot.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=960&amp;h=540" />
 	</programme>
-	<programme channel="140" start="20250618013000 +0000" stop="20250618043000 +0000">
-		<title>Mannar Mathai Speaking - 2</title>
-		<desc>Mannar Mathai dreams of reviving his drama group with friends. Release Year: 2014 Director: Rohin Venkatesan</desc>
+	<programme channel="140" start="20250618013000 +0000" stop="20250618042500 +0000">
+		<title>Mannar Mathai Speaking 2</title>
+		<desc>Mannar Mathai dreams of reviving his drama group with friends. Release Year: 2014</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=960&amp;h=540" />
 	</programme>
-	<programme channel="140" start="20250618043000 +0000" stop="20250618073000 +0000">
+	<programme channel="140" start="20250618042500 +0000" stop="20250618073000 +0000">
 		<title>Ennum Eppozhum</title>
 		<desc>Vineeth, a lazy reporter, forms an unexpected bond with Deepa. Release Year: 2015 Director: Sathyan Anthikad Awards: Kerala State Film Awards: Best Male Singer: P. Jayachandran for the song 'Malarvaka Kombathu'</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=960&amp;h=540" />
@@ -7571,12 +7579,12 @@
 		<desc>Rich feared Kayamkulam Kochunni and poor revered him as Robin Hood. Release Year: 2018 Director: RoSShan Andrrews</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=960&amp;h=540" />
 	</programme>
-	<programme channel="140" start="20250618190000 +0000" stop="20250618220000 +0000">
+	<programme channel="140" start="20250618190000 +0000" stop="20250618211000 +0000">
 		<title>Again Kasarkkode Khadarbhai</title>
 		<desc>A group of artists performs in a prison, but when a vengeful inmate is found murdered the next day, they become the prime suspects in the shocking crime. Release Year: 2010 Director: Thulasidas</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=960&amp;h=540" />
 	</programme>
-	<programme channel="140" start="20250618220000 +0000" stop="20250618233000 +0000">
+	<programme channel="140" start="20250618211000 +0000" stop="20250618233000 +0000">
 		<title>Poomaram</title>
 		<desc>Gautam and Irene and rival college leaders find love? Release Year: 2018 Director: Abrid Shine</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=960&amp;h=540" />
@@ -10621,6 +10629,31 @@
 		<desc>End of Transmission</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/206_1920x1080_HTV.png?w=960&amp;h=540" />
 	</programme>
+	<programme channel="207" start="20250617220000 +0000" stop="20250618040000 +0000">
+		<title>End of Transmission</title>
+		<desc>End of Transmission</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/207_1920x1080_HTV.png?w=960&amp;h=540" />
+	</programme>
+	<programme channel="207" start="20250618040000 +0000" stop="20250618100000 +0000">
+		<title>End of Transmission</title>
+		<desc>End of Transmission</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/207_1920x1080_HTV.png?w=960&amp;h=540" />
+	</programme>
+	<programme channel="207" start="20250618100000 +0000" stop="20250618160000 +0000">
+		<title>End of Transmission</title>
+		<desc>End of Transmission</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/207_1920x1080_HTV.png?w=960&amp;h=540" />
+	</programme>
+	<programme channel="207" start="20250618160000 +0000" stop="20250618220000 +0000">
+		<title>End of Transmission</title>
+		<desc>End of Transmission</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/207_1920x1080_HTV.png?w=960&amp;h=540" />
+	</programme>
+	<programme channel="207" start="20250618220000 +0000" stop="20250619040000 +0000">
+		<title>End of Transmission</title>
+		<desc>End of Transmission</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/207_1920x1080_HTV.png?w=960&amp;h=540" />
+	</programme>
 	<programme channel="209" start="20250617160000 +0000" stop="20250617170000 +0000">
 		<title>24-25 PSA World Tour - GillenMarkets British Open</title>
 		<desc>The PSA World Tour tournaments are some of the most prestigious events on the men's and women's tour. The best-performing players will qualify for the annual Men's and Women's Finals.</desc>
@@ -12481,24 +12514,24 @@
 		<desc>The curtain comes down on another thrilling season of Premiership Rugby where Bath Rugby and the Tigers battle it out for the title.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch207_premier_sports.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="247" start="20250618061000 +0000" stop="20250618064000 +0000">
-		<title>5 &amp; 6 Nations Classics 2003 - Italy v France</title>
-		<desc>A look at some of the best matches in the history of rugby's Six Nations.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch207_premier_sports.jpg?w=341&amp;h=192" />
-	</programme>
-	<programme channel="247" start="20250618064000 +0000" stop="20250618074000 +0000">
+	<programme channel="247" start="20250618061000 +0000" stop="20250618071000 +0000">
 		<title>NRL Try Time</title>
 		<desc>A round-up of all the tries and key moments from the latest round of fixtures in the 2025 NRL Premiership.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch207_premier_sports.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="247" start="20250618074000 +0000" stop="20250618093000 +0000">
+	<programme channel="247" start="20250618071000 +0000" stop="20250618090000 +0000">
 		<title>State Of Origin Queensland v New South Wales</title>
-		<desc>The 2025 State of Origin series will be the 44th annual best-of-three series between the Queensland and New South Wales rugby league teams.</desc>
+		<desc>Game 1 of the 2025 State of Origin series which is the 44th annual best-of-three series between the Queensland and New South Wales rugby league teams.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch207_premier_sports.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="247" start="20250618093000 +0000" stop="20250618123000 +0000">
+	<programme channel="247" start="20250618090000 +0000" stop="20250618121000 +0000">
 		<title>LIVE State Of Origin LIVE Queensland v New South Wales</title>
-		<desc>The 2025 State of Origin series will be the 44th annual best-of-three series between the Queensland and New South Wales rugby league teams.</desc>
+		<desc>Game 2 of the 2025 State of Origin series which is the 44th annual best-of-three series between the Queensland and New South Wales rugby league teams.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch207_premier_sports.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="247" start="20250618121000 +0000" stop="20250618123000 +0000">
+		<title>AFL Highlights West Coast v Carlton</title>
+		<desc>Catch all the standout moments from the latest matches of the 2025 Toyota AFL Premiership Season.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch207_premier_sports.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="247" start="20250618123000 +0000" stop="20250618130000 +0000">
@@ -12548,7 +12581,7 @@
 	</programme>
 	<programme channel="247" start="20250618171000 +0000" stop="20250618190000 +0000">
 		<title>State Of Origin Queensland v New South Wales</title>
-		<desc>The 2025 State of Origin series will be the 44th annual best-of-three series between the Queensland and New South Wales rugby league teams.</desc>
+		<desc>Game 2 of the 2025 State of Origin series which is the 44th annual best-of-three series between the Queensland and New South Wales rugby league teams.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch207_premier_sports.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="247" start="20250618190000 +0000" stop="20250618210000 +0000">
@@ -12568,7 +12601,7 @@
 	</programme>
 	<programme channel="247" start="20250619000000 +0000" stop="20250619015000 +0000">
 		<title>State Of Origin Queensland v New South Wales</title>
-		<desc>The 2025 State of Origin series will be the 44th annual best-of-three series between the Queensland and New South Wales rugby league teams.</desc>
+		<desc>Game 2 of the 2025 State of Origin series which is the 44th annual best-of-three series between the Queensland and New South Wales rugby league teams.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch207_premier_sports.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="247" start="20250619015000 +0000" stop="20250619034000 +0000">
@@ -12613,11 +12646,6 @@
 	</programme>
 	<programme channel="247" start="20250619091000 +0000" stop="20250619093000 +0000">
 		<title>AFL Highlights Port Adelaide v Melbourne</title>
-		<desc>Catch all the standout moments from the latest matches of the 2025 Toyota AFL Premiership Season.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch207_premier_sports.jpg?w=341&amp;h=192" />
-	</programme>
-	<programme channel="247" start="20250619093000 +0000" stop="20250619095000 +0000">
-		<title>AFL Highlights West Coast v Carlton</title>
 		<desc>Catch all the standout moments from the latest matches of the 2025 Toyota AFL Premiership Season.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch207_premier_sports.jpg?w=341&amp;h=192" />
 	</programme>
