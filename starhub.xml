@@ -10360,7 +10360,7 @@
 		<icon src="https://poster.starhubgo.com/poster/ch209_motorsports.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="209" start="20250620085500 +0000" stop="20250620100000 +0000">
-		<title>Formula E S11: Round 12 Jakarta E-Prix</title>
+		<title>Formula E S11: Rd12 2025 Sarinah Jakarta E-Prix</title>
 		<desc>Join us to witness the next generation of the ABB FIA Formula E World Championship as our drivers unleash their Gen3 challengers for the very first time.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch209_formula_e.jpg?w=960&amp;h=540" />
 	</programme>
@@ -10372,12 +10372,12 @@
 	<programme channel="209" start="20250620133000 +0000" stop="20250620142500 +0000">
 		<title>2025 SLS Championship Tour - Santa Monica</title>
 		<desc>From the streets to the league, the SLS features professional street skateboarders competing for the largest monetary prize in the history of skateboarding</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/209_1920x1080_HTV.png?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch209_spotv.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="209" start="20250620142500 +0000" stop="20250620150000 +0000">
 		<title>2025 SLS Championship Tour - Santa Monica</title>
 		<desc>From the streets to the league, the SLS features professional street skateboarders competing for the largest monetary prize in the history of skateboarding</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/209_1920x1080_HTV.png?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch209_spotv.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="209" start="20250620150000 +0000" stop="20250620190000 +0000">
 		<title>WTT Star Contender Ljubljana 2025</title>
@@ -10387,12 +10387,12 @@
 	<programme channel="209" start="20250620190000 +0000" stop="20250620193000 +0000">
 		<title>Spotv Encore: Major League Soccer 2025</title>
 		<desc>Major League Soccer kicks off with stunning goals, dramatic finishes, star performances, and surprise result, setting the stage for an action-packed season ahead.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/209_1920x1080_HTV.png?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch209_spotv.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="209" start="20250620193000 +0000" stop="20250620200000 +0000">
 		<title>SPOTV Encore: RSL Matchweek 14</title>
 		<desc>Catch the thrilling highlights and key moments, including top goals, dramatic saves, and game-changing plays from the week’s fixtures in the RSL.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/209_1920x1080_HTV.png?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch209_spotv.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="209" start="20250620200000 +0000" stop="20250621002500 +0000">
 		<title>WTT Star Contender Ljubljana 2025</title>
@@ -25589,11 +25589,6 @@
 		<desc>Jake Tapper covers all the day's top stories around the country and the globe, from politics to money, sports to popular culture.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch711_the_lead_with_jake_tapper.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="711" start="20250619213000 +0000" stop="20250619220000 +0000">
-		<title>World Sport</title>
-		<desc>Daily sports show features major stories and issues making news in the world of sports.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch711_world_sport.jpg?w=341&amp;h=192" />
-	</programme>
 	<programme channel="711" start="20250619220000 +0000" stop="20250619230000 +0000">
 		<title>The Brief with Jim Sciutto</title>
 		<desc>The best of CNN's reporting from correspondents across the world, to guide global audiences through the fast-paced news cycle with insight, analysis and hard-hitting interviews.</desc>
@@ -25624,30 +25619,20 @@
 		<desc>Laura Coates goes inside the story with a relentless pursuit of the facts.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch711_laura_coates_live.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="711" start="20250620040000 +0000" stop="20250620044500 +0000">
+	<programme channel="711" start="20250620040000 +0000" stop="20250620050000 +0000">
 		<title>CNN Newsroom</title>
 		<desc>Live context and clarity to the day's top stories from around the world.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch711_cnn_newsroom.jpg?w=960&amp;h=540" />
-	</programme>
-	<programme channel="711" start="20250620044500 +0000" stop="20250620050000 +0000">
-		<title>World Sport</title>
-		<desc>Daily sports show features major stories and issues making news in the world of sports.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch711_world_sport.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="711" start="20250620050000 +0000" stop="20250620060000 +0000">
 		<title>CNN Newsroom</title>
 		<desc>Live context and clarity to the day's top stories from around the world.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch711_cnn_newsroom.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="711" start="20250620060000 +0000" stop="20250620064500 +0000">
+	<programme channel="711" start="20250620060000 +0000" stop="20250620070000 +0000">
 		<title>CNN Newsroom</title>
 		<desc>Live context and clarity to the day's top stories from around the world.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch711_cnn_newsroom.jpg?w=960&amp;h=540" />
-	</programme>
-	<programme channel="711" start="20250620064500 +0000" stop="20250620070000 +0000">
-		<title>World Sport</title>
-		<desc>Daily sports show features major stories and issues making news in the world of sports.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch711_world_sport.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="711" start="20250620070000 +0000" stop="20250620080000 +0000">
 		<title>CNN Newsroom</title>
@@ -25655,9 +25640,9 @@
 		<icon src="https://poster.starhubgo.com/poster/ch711_cnn_newsroom.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="711" start="20250620080000 +0000" stop="20250620090000 +0000">
-		<title>Amanpour</title>
-		<desc>Christiane Amanpour provides her powerful interview skills and provocative analysis on global stories that matter to you.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch711_amanpour.jpg?w=341&amp;h=192" />
+		<title>Early Start</title>
+		<desc>The news you need, first thing. Rahel Solomon has you covered with the latest headlines.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch711_early_start.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="711" start="20250620090000 +0000" stop="20250620100000 +0000">
 		<title>Early Start</title>
