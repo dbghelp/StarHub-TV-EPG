@@ -10794,12 +10794,12 @@
 		<desc>Major League Baseball is the most historic professional sports league consists of 30 member clubs in the U.S. and Canada, representing the highest level of professional baseball.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_baseball.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="210" start="20250623020000 +0000" stop="20250623033000 +0000">
+	<programme channel="210" start="20250623020000 +0000" stop="20250623031500 +0000">
 		<title>2025 FIA TCR World Tour Monza</title>
 		<desc>The world's premier touring car racing competition gains FIA recognition from 2024 and consists of seven events across Europe, Africa, North America, South America and Asia.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_motorsports.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="210" start="20250623033000 +0000" stop="20250623045500 +0000">
+	<programme channel="210" start="20250623031500 +0000" stop="20250623045500 +0000">
 		<title>MotoGP 2025 Round 9- Brembo Grand Prix of Italy</title>
 		<desc>The 2025 MotoGP World Championship sees 22 of the world's best riders battle on 1000cc prototype machines, delivering over 250 horsepower and reaching speeds of 360kph across 22 thrilling Grands Prix in 18 countries.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_motogp.jpg?w=341&amp;h=192" />
@@ -10844,15 +10844,10 @@
 		<desc>The 2025 MotoGP World Championship sees 22 of the world's best riders battle on 1000cc prototype machines, delivering over 250 horsepower and reaching speeds of 360kph across 22 thrilling Grands Prix in 18 countries.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_motogp.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="210" start="20250623154000 +0000" stop="20250623173000 +0000">
+	<programme channel="210" start="20250623154000 +0000" stop="20250623180000 +0000">
 		<title>MotoGP 2025 Round 9- Brembo Grand Prix of Italy</title>
 		<desc>The 2025 MotoGP World Championship sees 22 of the world's best riders battle on 1000cc prototype machines, delivering over 250 horsepower and reaching speeds of 360kph across 22 thrilling Grands Prix in 18 countries.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_motogp.jpg?w=341&amp;h=192" />
-	</programme>
-	<programme channel="210" start="20250623173000 +0000" stop="20250623180000 +0000">
-		<title>2025 Le Tour Auto</title>
-		<desc>From Paris to Nice, this 34th edition brought together over 240 historic vehicles, offering a unique spectacle mixing motor sport, heritage and tradition.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch210_motorsports.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="210" start="20250623180000 +0000" stop="20250623200000 +0000">
 		<title>ROSHN Saudi League 2024-25 Matchday 27 Al Nassr vs Al Riyadh</title>
@@ -26251,35 +26246,30 @@ our phones to exploring the growing area of digital clones</desc>
 		<desc>Updates of the latest news from around the world.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch711_cnn_newsroom.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="711" start="20250623010000 +0000" stop="20250623020000 +0000">
-		<title>Fareed Zakaria GPS</title>
-		<desc>Fareed Zakaria brings viewers his insights and analysis, and interviews world leaders, artists, scientists, business leaders, global affairs analysts and other cultural observers for the 'Global Public Square.'</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch711_fareed_zakaria_gps.jpg?w=341&amp;h=192" />
+	<programme channel="711" start="20250623010000 +0000" stop="20250623013000 +0000">
+		<title>Inside Africa</title>
+		<desc>Introducing the innovators and entrepreneurs looking to combat food insecurity and change what we eat in Africa.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch711_inside_africa.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="711" start="20250623013000 +0000" stop="20250623020000 +0000">
+		<title>Connecting Africa</title>
+		<desc>As Cote d'Ivoire cements its position as a regional trade and business hub, Abidjan Port plays a vital role in driving intra-African commerce across the West African region.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch711_connecting_africa.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="711" start="20250623020000 +0000" stop="20250623023000 +0000">
 		<title>African Voices Playmakers</title>
 		<desc>Congolese striker Christian Benteke, DC United captain; Senegalese striker Jamal Thiare of Atlanta United; Seattle Sounders' Cameroonian defender Nouhou Tolo.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch711_african_voices_playmakers.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="711" start="20250623023000 +0000" stop="20250623024500 +0000">
-		<title>Marketplace Europe</title>
-		<desc>How cutting-edge medical technologies have become big business across the continent with London-based logistics company Apian and Dutch conglomerate Philips.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch711_marketplace_europe.jpg?w=341&amp;h=192" />
-	</programme>
-	<programme channel="711" start="20250623024500 +0000" stop="20250623030000 +0000">
-		<title>Marketplace Asia</title>
-		<desc>On the ground at Auto China with some of the key industry players; a rare look inside the factory of Zeekr, an EV spinoff of one of China's largest car brands, Geely.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch711_marketplace_asia.jpg?w=341&amp;h=192" />
-	</programme>
-	<programme channel="711" start="20250623030000 +0000" stop="20250623033000 +0000">
+	<programme channel="711" start="20250623023000 +0000" stop="20250623030000 +0000">
 		<title>Inside Africa</title>
 		<desc>We follow renowned garden designer Leon Kluge as he prepares to represent South Africa at the RHS Chelsea Flower Show and the stories of those bringing the fynbos biome to life.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch711_inside_africa.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="711" start="20250623033000 +0000" stop="20250623040000 +0000">
-		<title>Inside Africa</title>
-		<desc>Introducing the innovators and entrepreneurs looking to combat food insecurity and change what we eat in Africa.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch711_inside_africa.jpg?w=341&amp;h=192" />
+	<programme channel="711" start="20250623030000 +0000" stop="20250623040000 +0000">
+		<title>CNN Newsroom</title>
+		<desc>Live context and clarity to the day's top stories from around the world.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch711_cnn_newsroom.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="711" start="20250623040000 +0000" stop="20250623044500 +0000">
 		<title>CNN Newsroom</title>
@@ -26312,9 +26302,9 @@ our phones to exploring the growing area of digital clones</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch711_cnn_newsroom.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="711" start="20250623080000 +0000" stop="20250623090000 +0000">
-		<title>The Amanpour Hour</title>
-		<desc>Christiane Amanpour, CNN's chief international anchor, brings valuable insight to the biggest global and domestic news stories of the week.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch711_the_amanpour_hour.jpg?w=960&amp;h=540" />
+		<title>Early Start</title>
+		<desc>The news you need, first thing. Rahel Solomon has you covered with the latest headlines.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch711_early_start.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="711" start="20250623090000 +0000" stop="20250623100000 +0000">
 		<title>Early Start</title>
@@ -26426,11 +26416,6 @@ our phones to exploring the growing area of digital clones</desc>
 		<desc>Laura Coates goes inside the story with a relentless pursuit of the facts.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch711_laura_coates_live.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="711" start="20250624040000 +0000" stop="20250624044500 +0000">
-		<title>CNN Newsroom</title>
-		<desc>Live context and clarity to the day's top stories from around the world.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch711_cnn_newsroom.jpg?w=960&amp;h=540" />
-	</programme>
 	<programme channel="711" start="20250624044500 +0000" stop="20250624050000 +0000">
 		<title>World Sport</title>
 		<desc>Daily sports show features major stories and issues making news in the world of sports.</desc>
@@ -26460,11 +26445,6 @@ our phones to exploring the growing area of digital clones</desc>
 		<title>Amanpour</title>
 		<desc>Christiane Amanpour provides her powerful interview skills and provocative analysis on global stories that matter to you.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch711_amanpour.jpg?w=341&amp;h=192" />
-	</programme>
-	<programme channel="711" start="20250624090000 +0000" stop="20250624100000 +0000">
-		<title>Early Start</title>
-		<desc>Start your day with all the information you need. This hour gives you the stories that will shape the next 24. On the agenda: U.S. politics and global affairs, what to expect in the business world, and key cultural and sporting events.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch711_early_start.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="711" start="20250624100000 +0000" stop="20250624110000 +0000">
 		<title>CNN This Morning</title>
