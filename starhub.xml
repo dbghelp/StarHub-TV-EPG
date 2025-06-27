@@ -1226,7 +1226,7 @@
 	</programme>
 	<programme channel="103" start="20250628033000 +0000" stop="20250628040000 +0000">
 		<title>Focus - EP 10</title>
-		<desc>Focus provides timely reports and analyses on international news and current affairs from Singapore's perspective.</desc>
+		<desc>What are the key significances of Prime Minister Lawrence Wong’s official visit to China this week? After assuming the presidency again in January this year, Donald Trump has been reshaping the White House with a "golden aesthetic".</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/103_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="103" start="20250628040000 +0000" stop="20250628050000 +0000">
@@ -2286,7 +2286,7 @@
 	</programme>
 	<programme channel="107" start="20250628060000 +0000" stop="20250628070000 +0000">
 		<title>Life's Perfectionists S16 - EP 9</title>
-		<desc>(Dual language Mandarin and Korean) This programme introduces individuals who are outstanding in their respective fields of work. Find out how the featured individuals rose to the top of their leagues based on hard work and enthusiasm.</desc>
+		<desc>(Dual language Chinese and Korean) This programme introduces individuals who are outstanding in their respective fields of work. Find out how the featured individuals rose to the top of their leagues based on hard work and enthusiasm.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/107_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="107" start="20250628070000 +0000" stop="20250628080000 +0000">
@@ -4816,7 +4816,7 @@
 	</programme>
 	<programme channel="128" start="20250628020000 +0000" stop="20250628023000 +0000">
 		<title>Meri Bhavya Life - EP 58</title>
-		<desc>Two people having opposite personalities fall in love and navigate their differences.</desc>
+		<desc>Bhavya gets heartbroken after she discovers a video of Rishank and Neha together.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch128_meri_bhavya_life.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="128" start="20250628023000 +0000" stop="20250628030000 +0000">
@@ -4881,7 +4881,7 @@
 	</programme>
 	<programme channel="128" start="20250628100000 +0000" stop="20250628103000 +0000">
 		<title>Noyontara - EP 18</title>
-		<desc>Noyontara's spirit-seeing gift reveals veiled mysteries and family secrets.</desc>
+		<desc>Noyontara shows a sigh of relief after she realises that her ghost seeing gift is gone.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch128_colors_logo.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="128" start="20250628103000 +0000" stop="20250628110000 +0000">
@@ -10399,10 +10399,15 @@
 		<desc>The Squash Tour Finals is the end of season championship which sees the top eight point-scoring players qualify for the end of season playoffs and compete to determine the champions.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch209_spotv.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="209" start="20250627010000 +0000" stop="20250627090000 +0000">
+	<programme channel="209" start="20250627010000 +0000" stop="20250627080500 +0000">
 		<title>Wimbledon Qualifying Competition 2025</title>
 		<desc>Held one week prior to The Championships, the Wimbledon Qualifying Competition is comprised of Gentlemen’s and Ladies’ Singles knock-out tournaments to determine the final Main Draw places.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch209_wimbledon.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="209" start="20250627080500 +0000" stop="20250627090000 +0000">
+		<title>Formula E S11: Rd5 Miami City E-Prix</title>
+		<desc>Join us to witness the next generation of the ABB FIA Formula E World Championship as our drivers unleash their Gen3 challengers for the very first time.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch209_formula_e.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="209" start="20250627090000 +0000" stop="20250627100000 +0000">
 		<title>2025 Isle Of Man TT</title>
@@ -11861,7 +11866,7 @@
 	</programme>
 	<programme channel="221" start="20250628103000 +0000" stop="20250628110000 +0000">
 		<title>PL STORIES - EP 2</title>
-		<desc>We chart the rise of Portuguese star Rúben Dias, from his early days in Portugal to the heart of Manchester City's defence. We meet the family, friends, and coaches who shaped his journey, offering a rare glimpse into the upbringing and mindset that forged a Premier League leader. Then, in Manchester, Rúben reflects on his career so far, his impact at City, and the values that continue to drive him on.</desc>
+		<desc>We chart the rise of Portuguese star Ruben Dias, from his early days in Portugal to the heart of Manchester City's defence. We meet the family, friends, and coaches who shaped his journey, offering a rare glimpse into the upbringing and mindset that forged a Premier League leader. Then, in Manchester, Ruben reflects on his career so far, his impact at City, and the values that continue to drive him on.</desc>
 		<icon src="https://poster.starhubgo.com/poster/pl_stories_V2.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="221" start="20250628110000 +0000" stop="20250628120000 +0000">
@@ -23241,7 +23246,7 @@
 	</programme>
 	<programme channel="701" start="20250628033000 +0000" stop="20250628040000 +0000">
 		<title>The Media Show</title>
-		<desc>A global, topical weekly show that lifts the hood on the entertainment and news business. The Media Show explores the companies and personalities who command our attention.</desc>
+		<desc>BBC Persian journalists report threats from Iran; Hong Kong media freedoms under scrutiny; Netflix tries live TV in France; Tattle Life's founder revealed after libel court battle.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch701_BBC_news.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="701" start="20250628040000 +0000" stop="20250628043000 +0000">
@@ -23261,7 +23266,7 @@
 	</programme>
 	<programme channel="701" start="20250628053000 +0000" stop="20250628060000 +0000">
 		<title>Ukrainecast</title>
-		<desc>Unspun World provides an unvarnished version of the week's major global news stories - reliable, honest and essential viewing with the BBC's world affairs editor John Simpson.</desc>
+		<desc>In-depth coverage and analysis of the ongoing war in Ukraine.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch701_BBC_news.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="701" start="20250628060000 +0000" stop="20250628063000 +0000">
@@ -23316,7 +23321,7 @@
 	</programme>
 	<programme channel="701" start="20250628113000 +0000" stop="20250628120000 +0000">
 		<title>Unspun World with John Simpson</title>
-		<desc>Unspun World provides an unvarnished version of the week's major global news stories - reliable, honest and essential viewing with the BBC's world affairs editor John Simpson.</desc>
+		<desc>This week John Simpson analyses whether the Iranian regime has successfully weathered the storm caused by the attacks by Israel and the United States.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch701_unspun_world_with_john_simpson.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="701" start="20250628120000 +0000" stop="20250628123000 +0000">
@@ -23346,7 +23351,7 @@
 	</programme>
 	<programme channel="701" start="20250628143000 +0000" stop="20250628150000 +0000">
 		<title>The Media Show</title>
-		<desc>A global, topical weekly show that lifts the hood on the entertainment and news business. The Media Show explores the companies and personalities who command our attention.</desc>
+		<desc>BBC Persian journalists report threats from Iran; Hong Kong media freedoms under scrutiny; Netflix tries live TV in France; Tattle Life's founder revealed after libel court battle.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch701_BBC_news.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="701" start="20250628150000 +0000" stop="20250628153000 +0000">
