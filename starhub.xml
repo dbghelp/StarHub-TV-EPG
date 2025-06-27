@@ -1111,7 +1111,7 @@
 	</programme>
 	<programme channel="103" start="20250627123000 +0000" stop="20250627130000 +0000">
 		<title>Frontline - EP 10</title>
-		<desc>Frontline is a weekly investigative current affairs programme that aims to address issues closest to the hearts of Singaporeans.</desc>
+		<desc>With Jetstar Asia’s impending closure, travellers and staff face growing uncertainty. How are they making plans for their holiday and employment respectively? Amid rising costs and fierce competition, what are the struggles for low-cost carriers?</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/103_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="103" start="20250627130000 +0000" stop="20250627140000 +0000">
@@ -10459,10 +10459,15 @@
 		<desc>The Squash Tour Finals is the end of season championship which sees the top eight point-scoring players qualify for the end of season playoffs and compete to determine the champions.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch209_spotv.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="209" start="20250628013000 +0000" stop="20250628090000 +0000">
+	<programme channel="209" start="20250628013000 +0000" stop="20250628083000 +0000">
 		<title>Wimbledon Qualifying Competition 2025</title>
 		<desc>Held one week prior to The Championships, the Wimbledon Qualifying Competition is comprised of Gentlemen’s and Ladies’ Singles knock-out tournaments to determine the final Main Draw places.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch209_wimbledon.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="209" start="20250628083000 +0000" stop="20250628090000 +0000">
+		<title>SPOTV Encore: RSL Matchweek 12</title>
+		<desc>Catch the thrilling highlights and key moments, including top goals, dramatic saves, and game-changing plays from the week’s fixtures in the RSL.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/209_1920x1080_HTV.png?w=960&amp;h=540" />
 	</programme>
 	<programme channel="209" start="20250628090000 +0000" stop="20250628100000 +0000">
 		<title>2025 Isle Of Man TT</title>
@@ -21815,9 +21820,9 @@
 		<icon src="https://poster.starhubgo.com/poster/ch601_CashOut_S1.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="601" start="20250627130000 +0000" stop="20250627150500 +0000">
-		<title>Aquaman And The Lost Kingdom</title>
-		<desc>Failing to defeat Aquaman previously, Black Manta, driven by the need to avenge his father's death, returns to take Aquaman down once and for all.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch601_Aquaman_and_the_lost_kingdom.jpg?w=960&amp;h=540" />
+		<title>The Fall Guy</title>
+		<desc>A stuntman working a movie production is hired to find the missing lead actor, instead, he gets framed for a murder.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch601_The_Fall_Guy.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="601" start="20250627150500 +0000" stop="20250627165000 +0000">
 		<title>Dirty Angels</title>
@@ -33189,48 +33194,48 @@
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20250627153000 +0000" stop="20250627170000 +0000">
+	<programme channel="832" start="20250627153000 +0000" stop="20250627172700 +0000">
 		<title>go fighting</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20250627170000 +0000" stop="20250627180000 +0000">
+	<programme channel="832" start="20250627172700 +0000" stop="20250627184700 +0000">
 		<title>Dragon TV Primetime News</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20250627180000 +0000" stop="20250627183000 +0000">
+	<programme channel="832" start="20250627184700 +0000" stop="20250627191200 +0000">
 		<title>Searching for flavor</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20250627183000 +0000" stop="20250627190000 +0000">
+	<programme channel="832" start="20250627191200 +0000" stop="20250627193700 +0000">
 		<title>I LOVE SHANGHAI</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20250627190000 +0000" stop="20250627220000 +0000">
+	<programme channel="832" start="20250627193700 +0000" stop="20250627211200 +0000">
 		<title>Cheer up!small shops</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20250627220000 +0000" stop="20250627223000 +0000">
+	<programme channel="832" start="20250627211200 +0000" stop="20250627221000 +0000">
+		<title>A Green Trip</title>
+		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="832" start="20250627221000 +0000" stop="20250627223500 +0000">
 		<title>New Entertainment</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20250627223000 +0000" stop="20250627230000 +0000">
+	<programme channel="832" start="20250627223500 +0000" stop="20250627230000 +0000">
 		<title>CARE ON THE WAY</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="832" start="20250627230000 +0000" stop="20250628010000 +0000">
 		<title>Dragon TV Morning News</title>
-		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="832" start="20250628010000 +0000" stop="20250628023000 +0000">
-		<title>A Green Trip</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
@@ -33406,7 +33411,7 @@
 	</programme>
 	<programme channel="838" start="20250627030000 +0000" stop="20250627040000 +0000">
 		<title>Prism Breaker - EP 4</title>
-		<desc>United by a commitment to justice, Senior Inspector Chow Chun-kit, Senior ICAC Investigator Ko Ho-yin and Deputy Director of Public Prosecutions Lau Yu-fan bring their expertise and personal struggles to the fight against a powerful criminal syndicate led by Tai Cho-fuk.</desc>
+		<desc>United by a commitment to justice, Senior Inspector Chow Chun-kit, Senior ICAC Investigator Ko Ho-yin and Deputy Director of Public Prosecutions Lau Yu-fan bring their expertise and personal struggles to the fight against a powerful criminal syndicate led</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch838_prism_breaker.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="838" start="20250627040000 +0000" stop="20250627043000 +0000">
@@ -33486,7 +33491,7 @@
 	</programme>
 	<programme channel="838" start="20250627123000 +0000" stop="20250627133000 +0000">
 		<title>Prism Breaker - EP 5</title>
-		<desc>United by a commitment to justice, Senior Inspector Chow Chun-kit, Senior ICAC Investigator Ko Ho-yin and Deputy Director of Public Prosecutions Lau Yu-fan bring their expertise and personal struggles to the fight against a powerful criminal syndicate led by Tai Cho-fuk.</desc>
+		<desc>United by a commitment to justice, Senior Inspector Chow Chun-kit, Senior ICAC Investigator Ko Ho-yin and Deputy Director of Public Prosecutions Lau Yu-fan bring their expertise and personal struggles to the fight against a powerful criminal syndicate led</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch838_prism_breaker_still_ep5.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="838" start="20250627133000 +0000" stop="20250627143000 +0000">
@@ -33526,7 +33531,7 @@
 	</programme>
 	<programme channel="838" start="20250627173000 +0000" stop="20250627183000 +0000">
 		<title>Prism Breaker &amp; What's On Today - EP 5</title>
-		<desc>United by a commitment to justice, Senior Inspector Chow Chun-kit, Senior ICAC Investigator Ko Ho-yin and Deputy Director of Public Prosecutions Lau Yu-fan bring their expertise and personal struggles to the fight against a powerful criminal syndicate led by Tai Cho-fuk.</desc>
+		<desc>United by a commitment to justice, Senior Inspector Chow Chun-kit, Senior ICAC Investigator Ko Ho-yin and Deputy Director of Public Prosecutions Lau Yu-fan bring their expertise and personal struggles to the fight against a powerful criminal syndicate led</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch838_prism_breaker.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="838" start="20250627183000 +0000" stop="20250627190000 +0000">
@@ -35151,7 +35156,7 @@
 	</programme>
 	<programme channel="996" start="20250627030000 +0000" stop="20250627040000 +0000">
 		<title>Prism Breaker - EP 4</title>
-		<desc>United by a commitment to justice, Senior Inspector Chow Chun-kit, Senior ICAC Investigator Ko Ho-yin and Deputy Director of Public Prosecutions Lau Yu-fan bring their expertise and personal struggles to the fight against a powerful criminal syndicate led by Tai Cho-fuk.</desc>
+		<desc>United by a commitment to justice, Senior Inspector Chow Chun-kit, Senior ICAC Investigator Ko Ho-yin and Deputy Director of Public Prosecutions Lau Yu-fan bring their expertise and personal struggles to the fight against a powerful criminal syndicate led</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch838_prism_breaker.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="996" start="20250627040000 +0000" stop="20250627043000 +0000">
@@ -35231,7 +35236,7 @@
 	</programme>
 	<programme channel="996" start="20250627123000 +0000" stop="20250627133000 +0000">
 		<title>Prism Breaker - EP 5</title>
-		<desc>United by a commitment to justice, Senior Inspector Chow Chun-kit, Senior ICAC Investigator Ko Ho-yin and Deputy Director of Public Prosecutions Lau Yu-fan bring their expertise and personal struggles to the fight against a powerful criminal syndicate led by Tai Cho-fuk.</desc>
+		<desc>United by a commitment to justice, Senior Inspector Chow Chun-kit, Senior ICAC Investigator Ko Ho-yin and Deputy Director of Public Prosecutions Lau Yu-fan bring their expertise and personal struggles to the fight against a powerful criminal syndicate led</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch838_prism_breaker_still_ep5.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="996" start="20250627133000 +0000" stop="20250627143000 +0000">
@@ -35271,7 +35276,7 @@
 	</programme>
 	<programme channel="996" start="20250627173000 +0000" stop="20250627183000 +0000">
 		<title>Prism Breaker &amp; What's On Today - EP 5</title>
-		<desc>United by a commitment to justice, Senior Inspector Chow Chun-kit, Senior ICAC Investigator Ko Ho-yin and Deputy Director of Public Prosecutions Lau Yu-fan bring their expertise and personal struggles to the fight against a powerful criminal syndicate led by Tai Cho-fuk.</desc>
+		<desc>United by a commitment to justice, Senior Inspector Chow Chun-kit, Senior ICAC Investigator Ko Ho-yin and Deputy Director of Public Prosecutions Lau Yu-fan bring their expertise and personal struggles to the fight against a powerful criminal syndicate led</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch838_prism_breaker.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="996" start="20250627183000 +0000" stop="20250627190000 +0000">
