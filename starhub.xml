@@ -26039,30 +26039,30 @@
 		<desc>Updates of the latest news from around the world.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch711_cnn_newsroom.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="711" start="20250630010000 +0000" stop="20250630020000 +0000">
-		<title>TBD</title>
-		<desc>The latest, up-to-date news stories from around the globe.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch711_cnn_generic.jpg?w=341&amp;h=192" />
-	</programme>
-	<programme channel="711" start="20250630020000 +0000" stop="20250630023000 +0000">
+	<programme channel="711" start="20250630010000 +0000" stop="20250630013000 +0000">
 		<title>African Voices Changemakers</title>
 		<desc>Larry Madowo sits down with Nigerian-American star Rotimi and Tanzanian pop sensation Vanessa Mdee in their first-ever joint interview.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch711_african_voices_changemakers.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="711" start="20250630023000 +0000" stop="20250630030000 +0000">
+	<programme channel="711" start="20250630013000 +0000" stop="20250630020000 +0000">
 		<title>Connecting Africa</title>
 		<desc>As Cote d'Ivoire cements its position as a regional trade and business hub, Abidjan Port plays a vital role in driving intra-African commerce across the West African region.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch711_connecting_africa.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="711" start="20250630030000 +0000" stop="20250630033000 +0000">
+	<programme channel="711" start="20250630020000 +0000" stop="20250630023000 +0000">
 		<title>Inside Africa</title>
 		<desc>We follow renowned garden designer Leon Kluge as he prepares to represent South Africa at the RHS Chelsea Flower Show and the stories of those bringing the fynbos biome to life.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch711_inside_africa.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="711" start="20250630033000 +0000" stop="20250630040000 +0000">
+	<programme channel="711" start="20250630023000 +0000" stop="20250630030000 +0000">
 		<title>Inside Africa</title>
 		<desc>Introducing the innovators and entrepreneurs looking to combat food insecurity and change what we eat in Africa.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch711_inside_africa.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="711" start="20250630030000 +0000" stop="20250630040000 +0000">
+		<title>CNN Newsroom</title>
+		<desc>Live context and clarity to the day's top stories from around the world.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch711_cnn_newsroom.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="711" start="20250630040000 +0000" stop="20250630044500 +0000">
 		<title>CNN Newsroom</title>
@@ -26095,9 +26095,9 @@
 		<icon src="https://poster.starhubgo.com/poster/ch711_cnn_newsroom.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="711" start="20250630080000 +0000" stop="20250630090000 +0000">
-		<title>The Amanpour Hour</title>
-		<desc>Christiane Amanpour, CNN's chief international anchor, brings valuable insight to the biggest global and domestic news stories of the week.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch711_the_amanpour_hour.jpg?w=960&amp;h=540" />
+		<title>Early Start</title>
+		<desc>The news you need, first thing. Rahel Solomon has you covered with the latest headlines.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch711_early_start.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="711" start="20250630090000 +0000" stop="20250630100000 +0000">
 		<title>Early Start</title>
@@ -26214,11 +26214,6 @@
 		<desc>Laura Coates goes inside the story with a relentless pursuit of the facts.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch711_laura_coates_live.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="711" start="20250701040000 +0000" stop="20250701044500 +0000">
-		<title>CNN Newsroom</title>
-		<desc>Live context and clarity to the day's top stories from around the world.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch711_cnn_newsroom.jpg?w=960&amp;h=540" />
-	</programme>
 	<programme channel="711" start="20250701044500 +0000" stop="20250701050000 +0000">
 		<title>World Sport</title>
 		<desc>Daily sports show features major stories and issues making news in the world of sports.</desc>
@@ -26248,11 +26243,6 @@
 		<title>Amanpour</title>
 		<desc>Christiane Amanpour provides her powerful interview skills and provocative analysis on global stories that matter to you.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch711_amanpour.jpg?w=341&amp;h=192" />
-	</programme>
-	<programme channel="711" start="20250701090000 +0000" stop="20250701100000 +0000">
-		<title>Early Start</title>
-		<desc>The news you need, first thing. Rahel Solomon has you covered with the latest headlines.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch711_early_start.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="711" start="20250701100000 +0000" stop="20250701110000 +0000">
 		<title>CNN This Morning</title>
