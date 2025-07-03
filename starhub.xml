@@ -8262,7 +8262,7 @@
 	<programme channel="144" start="20250705111500 +0000" stop="20250705123000 +0000">
 		<title>Idol Kids Philippines (Sat)</title>
 		<desc>Filipino talent takes centre stage as kiddie hopefuls showcase their vocals and win hearts with stories of courage and big dreams! The first-ever Idol Kids Philippines features a powerhouse panel of judges - Regine Velasquez-Alcasid, Angeline Quinto, Juan Karlos and Gary Valenciano.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/144_1920x1080_HTV.png?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch144_idol_kids_philippines.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="144" start="20250705123000 +0000" stop="20250705131500 +0000">
 		<title>Love In 40 Days</title>
@@ -8277,7 +8277,7 @@
 	<programme channel="144" start="20250705143000 +0000" stop="20250705164500 +0000">
 		<title>Ang Tanging Pamilya</title>
 		<desc>Charlie is finally engaged to her long-distance boyfriend Prince, but Charlie's parents Dindo and Sunshine get in the way of wedding preparations.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/144_1920x1080_HTV.png?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch144_ang_tanging_pamilya.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="145" start="20250703160000 +0000" stop="20250703180000 +0000">
 		<title>Tubusin Mo Ng Dugo</title>
@@ -10414,6 +10414,11 @@
 		<desc>Be sure to catch the inspirational power of surfing through the 2025 WSL Championship Tour &amp; Challenger Series.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/209_1920x1080_HTV.png?w=960&amp;h=540" />
 	</programme>
+	<programme channel="209" start="20250704220000 +0000" stop="20250704230000 +0000">
+		<title>Lexus Trestle Pro Finals Day</title>
+		<desc>Be sure to catch the inspirational power of surfing through the 2025 WSL Championship Tour &amp; Challenger Series.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/209_1920x1080_HTV.png?w=960&amp;h=540" />
+	</programme>
 	<programme channel="209" start="20250704230000 +0000" stop="20250705000000 +0000">
 		<title>The Championships, Wimbledon 2025</title>
 		<desc>Widely regarded as the world's most prestigious tennis tournament, the best players on the planet descend on the hallowed grass courts of Wimbledon to vie for the game's holy grail</desc>
@@ -10424,15 +10429,10 @@
 		<desc>Catch the thrilling action of the PPA Pickleball Tour Asia: Malaysia Open 2025, featuring top international players battling for championship glory in fast-paced, high-stakes matches.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/209_1920x1080_HTV.png?w=960&amp;h=540" />
 	</programme>
-	<programme channel="209" start="20250705051000 +0000" stop="20250705060000 +0000">
-		<title>Formula E S11: Rd12 2025 Sarinah Jakarta E-Prix</title>
-		<desc>Join us to witness the next generation of the ABB FIA Formula E World Championship as our drivers unleash their Gen3 challengers for the very first time.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch209_formula_e.jpg?w=960&amp;h=540" />
-	</programme>
-	<programme channel="209" start="20250705060000 +0000" stop="20250705062500 +0000">
-		<title>Formula E S11: Rd12 2025 Sarinah Jakarta E-Prix</title>
-		<desc>Join us to witness the next generation of the ABB FIA Formula E World Championship as our drivers unleash their Gen3 challengers for the very first time.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch209_formula_e.jpg?w=960&amp;h=540" />
+	<programme channel="209" start="20250705051000 +0000" stop="20250705062500 +0000">
+		<title>The Championships, Wimbledon 2025</title>
+		<desc>Widely regarded as the world's most prestigious tennis tournament, the best players on the planet descend on the hallowed grass courts of Wimbledon to vie for the game's holy grail</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch209_wimbledon.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="209" start="20250705062500 +0000" stop="20250705083000 +0000">
 		<title>Football Friendly 2025 Match 3: Australia vs Panama</title>
@@ -29475,7 +29475,7 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/808_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="808" start="20250705130000 +0000" stop="20250705140000 +0000">
-		<title>The Six Cities War Behind The Scenes</title>
+		<title>The Hidden Front: Taiwan's Six-Metro Mayoral Race</title>
 		<desc>TVBS News investigates Taiwan’s 2026 mayoral race, revealing hidden strategies and key political players.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/808_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
