@@ -5814,7 +5814,12 @@
 		<desc>The popular cooking show is back! New cooks will face fun challenges and exciting surprises. Who will win? Tune in to see! It's a fresh season of tasty competition.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch135_cooku_with_comali_s06.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="135" start="20250705150000 +0000" stop="20250705163000 +0000">
+	<programme channel="135" start="20250705150000 +0000" stop="20250705160000 +0000">
+		<title>Neeya Naana - EP 950</title>
+		<desc>A talk show with a difference - every week a topic is chosen and two groups of people representing extreme ends talk about their views.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch135_neeya_naana.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="135" start="20250705160000 +0000" stop="20250705163000 +0000">
 		<title>Neeya Naana - EP 950</title>
 		<desc>A talk show with a difference - every week a topic is chosen and two groups of people representing extreme ends talk about their views.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch135_neeya_naana.jpg?w=341&amp;h=192" />
@@ -5925,9 +5930,9 @@
 		<icon src="https://poster.starhubgo.com/poster/ch135_cooku_with_comali_s06.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="135" start="20250706150000 +0000" stop="20250706160000 +0000">
-		<title>Oom Solriya Oohm Solriya-Yes Or Miss S03 - EP 20</title>
-		<desc>Priyanka and Ma Ka Pa Anand present a unique game show where celebrities navigate mind games, accumulate points, and select enticing prizes for victory.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch135_oom_solriya_oohm_solriyayes_or_miss_s03.jpg?w=960&amp;h=540" />
+		<title>Sound Party - EP 2</title>
+		<desc>In a playful battle, beloved male and female stars compete in entertaining games. This boys versus girls showdown promises laughter and surprises as they vie for a special trophy.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch135_sound_party.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="136" start="20250704160000 +0000" stop="20250704190000 +0000">
 		<title>Priyam</title>
@@ -6774,12 +6779,12 @@
 		<desc>A director betrayed by a friend who steals his script casts a dubious actor. Release Year: 2005 Director: RoSShan Andrrews Awards: Asianet Film Awards - Best Script Writer Sreenivasan</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=960&amp;h=540" />
 	</programme>
-	<programme channel="140" start="20250705073000 +0000" stop="20250705103000 +0000">
+	<programme channel="140" start="20250705073000 +0000" stop="20250705104000 +0000">
 		<title>Naran</title>
 		<desc>Velayudhan is adored by all, while Gopinathan plots to control the village. Release Year: 2005 Director: Joshiy</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=960&amp;h=540" />
 	</programme>
-	<programme channel="140" start="20250705103000 +0000" stop="20250705133000 +0000">
+	<programme channel="140" start="20250705104000 +0000" stop="20250705133000 +0000">
 		<title>Vaazha</title>
 		<desc>Four friends labeled as 'losers' tackle societal and parental pressures in adulthood, embarking on a heartfelt journey of self-discovery and acceptance, proving that love conquers all. Release Year: 2024 Director: Anand Menen</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=960&amp;h=540" />
@@ -6789,12 +6794,12 @@
 		<desc>A gangster boss enjoys drinks with his crew but steps in to protect three college students from their troublesome seniors, blending chaos with unexpected loyalty. Release Year: 2024 Director: Jithu Madhavan</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=960&amp;h=540" />
 	</programme>
-	<programme channel="140" start="20250705163000 +0000" stop="20250705192000 +0000">
+	<programme channel="140" start="20250705163000 +0000" stop="20250705193000 +0000">
 		<title>Oru Marubhoomikkadha</title>
 		<desc>Madhavan's life gets crazy when he's caught in a girl's fake kidnapping. Release Year: 2011 Director: Priyadarshan</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=960&amp;h=540" />
 	</programme>
-	<programme channel="140" start="20250705192000 +0000" stop="20250705213000 +0000">
+	<programme channel="140" start="20250705193000 +0000" stop="20250705213000 +0000">
 		<title>Take Off</title>
 		<desc>In 2014, a group of Malayali nurses were taken hostage by terrorists in Tikrit, Iraq. This movie tells the gripping story of their harrowing experience and resilience. Release Year: 2017 Director: Mahesh Narayanan</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=960&amp;h=540" />
@@ -9589,20 +9594,15 @@
 		<desc>The BMW International Open is an annual men's professional golf tournament on the European Tour held in Germany. It is the country's only DP World Tour tournament and will be played at the Golfclub München Eichenried. The tournament is founded in 1989 and golfers will compete for the prize purse of USD$2.5 million.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch203_dp_world_tour.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="203" start="20250705153000 +0000" stop="20250705160000 +0000">
-		<title>The HotelPlanner Tour Series 2025</title>
-		<desc>The Challenge Series features the key events on the European Challenge Tour. In keeping with the profile of the Tour’s players, the programming has a more youth orientated and dynamic look and feel to the typical golf shows. The content provides close up profiles with the future stars, life-style features, as well as all the exciting final day action from the event.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch203_Hotel_Planner_Tour.jpg?w=960&amp;h=540" />
-	</programme>
-	<programme channel="203" start="20250705160000 +0000" stop="20250705170000 +0000">
-		<title>End of Transmission</title>
-		<desc>End of Transmission</desc>
-		<icon src="https://poster.starhubgo.com/Linear_Channels2/203_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="203" start="20250705170000 +0000" stop="20250705220000 +0000">
+	<programme channel="203" start="20250705153000 +0000" stop="20250705200000 +0000">
 		<title>PGA Tour 2025</title>
 		<desc>The John Deere Classic is a professional golf tournament on the PGA Tour. It is played annually in July, usually the week before The Open Championship, at TPC Deere Run in the Quad Cities community of Silvis, Illinois. The tournament began as the Quad Cities Open in 1971 as a "satellite event" on the PGA Tour, and became an official tour event in 1972.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch203_PGA_TOUR.jpg?w=960&amp;h=540" />
+	</programme>
+	<programme channel="203" start="20250705200000 +0000" stop="20250705220000 +0000">
+		<title>End of Transmission</title>
+		<desc>End of Transmission</desc>
+		<icon src="https://poster.starhubgo.com/Linear_Channels2/203_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="203" start="20250705220000 +0000" stop="20250706040000 +0000">
 		<title>End of Transmission</title>
@@ -22154,9 +22154,14 @@
 		<desc>In-depth coverage and analysis of the ongoing war in Ukraine.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch701_BBC_news.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="701" start="20250705160000 +0000" stop="20250705170000 +0000">
+	<programme channel="701" start="20250705160000 +0000" stop="20250705163000 +0000">
 		<title>BBC News</title>
 		<desc>The latest news from the BBC.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch701_BBC_news.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="701" start="20250705163000 +0000" stop="20250705170000 +0000">
+		<title>Political Thinking with Nick Robinson</title>
+		<desc>The Prime Minister sits down with Nick Robinson in Downing Street to mark a year in Power.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch701_BBC_news.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="701" start="20250705170000 +0000" stop="20250705173000 +0000">
@@ -22370,8 +22375,8 @@
 		<icon src="https://poster.starhubgo.com/poster/ch701_BBC_news.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="701" start="20250706153000 +0000" stop="20250706160000 +0000">
-		<title>The Great Ticket Rip-Off</title>
-		<desc>After all the commotion over Oasis tickets, reporter Steffan Powell delves into the murky world of ticket touts.</desc>
+		<title>Political Thinking with Nick Robinson</title>
+		<desc>The Prime Minister sits down with Nick Robinson in Downing Street to mark a year in Power.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch701_BBC_news.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="702" start="20250704160000 +0000" stop="20250704170000 +0000">
