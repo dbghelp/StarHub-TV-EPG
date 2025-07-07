@@ -11025,7 +11025,7 @@
 		<icon src="https://poster.starhubgo.com/poster/ch213_fia_european_rally_championship_highlights.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="213" start="20250707185000 +0000" stop="20250707210000 +0000">
-		<title>Total Women's Africa Cup of Nations, Morocco 2024: Mali vs Tanzania (Live)</title>
+		<title>Total Women's Africa Cup of Nations, Morocco 2024: Mali vs Tanzania</title>
 		<desc>beIN SPORTS brings you coverage from the 15th edition of the Africa Women Cup of Nations in Morocco.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch213_womens_afcon_morocco_2024.jpg?w=341&amp;h=192" />
 	</programme>
@@ -29784,9 +29784,19 @@
 		<desc>Looking into topical information ranging from social issues to entertainment news through the eyes of the general public.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="811" start="20250707000500 +0000" stop="20250707005500 +0000">
+	<programme channel="811" start="20250707000500 +0000" stop="20250707005000 +0000">
 		<title>History Detective "Food Culture in Edo Period" (R)</title>
 		<desc>A historical documentary program starring an actor Sato Jiro as a boss of a history detective agency. Conducting on-site investigations and scientific simulations, Jiro and his detective team dig into and uncover the truth from historic mystery.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="811" start="20250707005000 +0000" stop="20250707005400 +0000">
+		<title>Mini Program</title>
+		<desc />
+		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="811" start="20250707005400 +0000" stop="20250707005500 +0000">
+		<title>World Weather</title>
+		<desc>Weather information of the different areas around the world.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="811" start="20250707005500 +0000" stop="20250707010000 +0000">
@@ -30119,9 +30129,14 @@
 		<desc>Difficult to understand medical care is easily explained in this program as well as tips on healthcare.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="811" start="20250707202500 +0000" stop="20250707205600 +0000">
+	<programme channel="811" start="20250707202500 +0000" stop="20250707205200 +0000">
 		<title>Recharge Your Knowledge with Children's News (R)</title>
 		<desc>A new-style children's news program by Michopa and Sasaki Nozomi is born! It explains the news that children have questions about in an easy-to-understand way.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="811" start="20250707205200 +0000" stop="20250707205600 +0000">
+		<title>Mini Program</title>
+		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="811" start="20250707205600 +0000" stop="20250707210000 +0000">
@@ -30169,16 +30184,6 @@
 		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="811" start="20250708005000 +0000" stop="20250708005400 +0000">
-		<title>Mini Program</title>
-		<desc />
-		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="811" start="20250708005400 +0000" stop="20250708005500 +0000">
-		<title>World Weather</title>
-		<desc>Weather information of the different areas around the world.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
 	<programme channel="811" start="20250708005500 +0000" stop="20250708010000 +0000">
 		<title>Exercise for Everyone</title>
 		<desc>An easy-to-do exercise program for everyone from children to the elderly.</desc>
@@ -30197,11 +30202,6 @@
 	<programme channel="811" start="20250708015000 +0000" stop="20250708021700 +0000">
 		<title>Today's Close-up (R)</title>
 		<desc>The program flexibly probes into a wide range of topics from the NHK’s unique point of view.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="811" start="20250708021700 +0000" stop="20250708022000 +0000">
-		<title>Mini Program</title>
-		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="811" start="20250708022000 +0000" stop="20250708025000 +0000">
