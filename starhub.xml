@@ -164,14 +164,6 @@
 		<display-name>Hub Sports 6</display-name>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/206_1920x1080_HTV.png?w=272" />
 	</channel>
-	<channel id="207">
-		<display-name>Hub Sports 7</display-name>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/207_1920x1080_HTV.png?w=272" />
-	</channel>
-	<channel id="208">
-		<display-name>Hub Sports 8</display-name>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/208_1920x1080_HTV.png?w=272" />
-	</channel>
 	<channel id="209">
 		<display-name>SPOTV</display-name>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/209_1920x1080_HTV.png?w=272" />
@@ -10693,46 +10685,6 @@
 		<title>End of Transmission</title>
 		<desc>End of Transmission</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/206_1920x1080_HTV.png?w=960&amp;h=540" />
-	</programme>
-	<programme channel="207" start="20250707160000 +0000" stop="20250707220000 +0000">
-		<title>End of Transmission</title>
-		<desc>End of Transmission</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/207_1920x1080_HTV.png?w=960&amp;h=540" />
-	</programme>
-	<programme channel="207" start="20250707220000 +0000" stop="20250708040000 +0000">
-		<title>End of Transmission</title>
-		<desc>End of Transmission</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/207_1920x1080_HTV.png?w=960&amp;h=540" />
-	</programme>
-	<programme channel="207" start="20250708040000 +0000" stop="20250708100000 +0000">
-		<title>End of Transmission</title>
-		<desc>End of Transmission</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/207_1920x1080_HTV.png?w=960&amp;h=540" />
-	</programme>
-	<programme channel="207" start="20250708100000 +0000" stop="20250708160000 +0000">
-		<title>End of Transmission</title>
-		<desc>End of Transmission</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/207_1920x1080_HTV.png?w=960&amp;h=540" />
-	</programme>
-	<programme channel="207" start="20250708160000 +0000" stop="20250708220000 +0000">
-		<title>End of Transmission</title>
-		<desc>End of Transmission</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/207_1920x1080_HTV.png?w=960&amp;h=540" />
-	</programme>
-	<programme channel="207" start="20250708220000 +0000" stop="20250709040000 +0000">
-		<title>End of Transmission</title>
-		<desc>End of Transmission</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/207_1920x1080_HTV.png?w=960&amp;h=540" />
-	</programme>
-	<programme channel="207" start="20250709040000 +0000" stop="20250709100000 +0000">
-		<title>End of Transmission</title>
-		<desc>End of Transmission</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/207_1920x1080_HTV.png?w=960&amp;h=540" />
-	</programme>
-	<programme channel="207" start="20250709100000 +0000" stop="20250709160000 +0000">
-		<title>End of Transmission</title>
-		<desc>End of Transmission</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/207_1920x1080_HTV.png?w=960&amp;h=540" />
 	</programme>
 	<programme channel="209" start="20250707122500 +0000" stop="20250707210000 +0000">
 		<title>The Championships, Wimbledon 2025 - Day 8 (Centre Court)</title>
