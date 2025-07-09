@@ -1493,7 +1493,7 @@
 	</programme>
 	<programme channel="104" start="20250709123000 +0000" stop="20250709130000 +0000">
 		<title>Detik Semasa - EP 7</title>
-		<desc>The program analyses and dissect issues of concern to the Malay/Muslim Singaporeans - be it at the community level, national, regional or global. Apart from raising awareness, each DETIK episode hopes to set viewers thinking and make informed decisions on matters that can impact their lives.</desc>
+		<desc>What does it take to keep the legacy of traditional cuisine alive and thriving? Popular nasi padang restaurants, Hjh Maimunah and Sabar Menanti which has now expanded to the heartlands believe it all lies in the perfect blend of tradition and adaptation.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/104_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="104" start="20250709130000 +0000" stop="20250709133000 +0000">
@@ -1558,7 +1558,7 @@
 	</programme>
 	<programme channel="104" start="20250710070000 +0000" stop="20250710073000 +0000">
 		<title>Detik Semasa - EP 7</title>
-		<desc>The program analyses and dissect issues of concern to the Malay/Muslim Singaporeans - be it at the community level, national, regional or global. Apart from raising awareness, each DETIK episode hopes to set viewers thinking and make informed decisions on matters that can impact their lives.</desc>
+		<desc>What does it take to keep the legacy of traditional cuisine alive and thriving? Popular nasi padang restaurants, Hjh Maimunah and Sabar Menanti which has now expanded to the heartlands believe it all lies in the perfect blend of tradition and adaptation.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/104_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="104" start="20250710073000 +0000" stop="20250710080000 +0000">
@@ -5183,12 +5183,12 @@
 	</programme>
 	<programme channel="130" start="20250708163000 +0000" stop="20250708170000 +0000">
 		<title>100 Percent South Indian - EP 12</title>
-		<desc>Chef Rakesh Raghunathan showcases some delicious South Indian recipes and demonstrates the traditional way of preparing these dishes.</desc>
+		<desc>Chef Rakesh Raghunathan explores South Indian cities, blending tradition with modernity through music, food, and culture while engaging with North Indian families in his hometown.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch130_zee_cinema_logo.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="130" start="20250708170000 +0000" stop="20250708200000 +0000">
-		<title>Parmanu: The Story of Pokhran</title>
-		<desc>A dedicated government official puts his career in jeopardy by insisting that India become a nuclear power, a goal that powerful forces resist. Release Year: 2018 Director: Abhishek Sharma</desc>
+		<title>Parmanu - The Story Of Pokhran</title>
+		<desc>A look at India's second confidential nuclear test series at Pokhran led by Dr. APJ Abdul Kalam, during the time of PM Atal Bihari Vajpayee's tenure. Release Year: 2018 Director: Abhishek Sharma</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch130_zee_cinema_logo.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="130" start="20250708200000 +0000" stop="20250708230000 +0000">
@@ -5217,8 +5217,8 @@
 		<icon src="https://poster.starhubgo.com/poster/ch130_zee_cinema_logo.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="130" start="20250709110000 +0000" stop="20250709140000 +0000">
-		<title>Parmanu: The Story of Pokhran</title>
-		<desc>A dedicated government official puts his career in jeopardy by insisting that India become a nuclear power, a goal that powerful forces resist. Release Year: 2018 Director: Abhishek Sharma</desc>
+		<title>Parmanu - The Story Of Pokhran</title>
+		<desc>A look at India's second confidential nuclear test series at Pokhran led by Dr. APJ Abdul Kalam, during the time of PM Atal Bihari Vajpayee's tenure. Release Year: 2018 Director: Abhishek Sharma</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch130_zee_cinema_logo.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="130" start="20250709140000 +0000" stop="20250709163000 +0000">
@@ -5237,8 +5237,8 @@
 		<icon src="https://poster.starhubgo.com/poster/ch130_zee_cinema_logo.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="130" start="20250709200000 +0000" stop="20250709230000 +0000">
-		<title>Ghayaal</title>
-		<desc>Ajay is framed by Balwant Rai for his brother's murder and sent to prison. Later, he befriends three convicts and sets out to seek revenge against Balwant Rai.</desc>
+		<title>Ghayal</title>
+		<desc>Ghayal</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch130_zee_cinema_logo.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="130" start="20250709230000 +0000" stop="20250710020000 +0000">
@@ -10726,10 +10726,25 @@
 		<desc>Widely regarded as the world's most prestigious tennis tournament, the best players on the planet descend on the hallowed grass courts of Wimbledon to vie for the game's holy grail</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch209_wimbledon.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="209" start="20250709030000 +0000" stop="20250709113000 +0000">
+	<programme channel="209" start="20250709030000 +0000" stop="20250709081500 +0000">
 		<title>The Championships, Wimbledon 2025 - Day 9 (Centre Court)</title>
 		<desc>Widely regarded as the world's most prestigious tennis tournament, the best players on the planet descend on the hallowed grass courts of Wimbledon to vie for the game's holy grail</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch209_wimbledon.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="209" start="20250709081500 +0000" stop="20250709091500 +0000">
+		<title>2025 Isle Of Man TT</title>
+		<desc>The Isle of Man turns into motorcycle nirvana as the world’s greatest road racers gather to test themselves against the incredible ‘Mountain Course’.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch209_motorsports.jpg?w=960&amp;h=540" />
+	</programme>
+	<programme channel="209" start="20250709091500 +0000" stop="20250709101000 +0000">
+		<title>UIM E1 World Championship 2025 HLs</title>
+		<desc>Immerse in the UIM E1 World Championship presented by PIF, a realm where relentless innovation, marine preservation, and exhilarating races converge, unveiling a new chapter in water sports.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/209_1920x1080_HTV.png?w=960&amp;h=540" />
+	</programme>
+	<programme channel="209" start="20250709101000 +0000" stop="20250709113000 +0000">
+		<title>24-25 SmartCentres PSA Squash Tour Finals</title>
+		<desc>The PSA World Tour tournaments are some of the most prestigious events on the men's and women's tour. The best-performing players will qualify for the annual Men's and Women's Finals.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/209_1920x1080_HTV.png?w=960&amp;h=540" />
 	</programme>
 	<programme channel="209" start="20250709113000 +0000" stop="20250709122500 +0000">
 		<title>The Championships, Wimbledon 2025</title>
@@ -12147,7 +12162,7 @@
 		<icon src="https://poster.starhubgo.com/Linear_Channels2/222_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="241" start="20250708160000 +0000" stop="20250708170000 +0000">
-		<title>TF2 - The Fighter David vs. Goliath</title>
+		<title>TF2 - The Fighter</title>
 		<desc>In this episode, the athletes travel to the Constantia Insurance head office to compete in a fight pick challenge. Final quarterfinal fights are chosen. A dramatic KO is witnessed in the TF2 Hexagon.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/241_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
@@ -12187,7 +12202,7 @@
 		<icon src="https://poster.starhubgo.com/poster/ch241_MMA_30.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="241" start="20250708220000 +0000" stop="20250708230000 +0000">
-		<title>TF2 - The Fighter David vs. Goliath</title>
+		<title>TF2 - The Fighter</title>
 		<desc>In this episode, the athletes travel to the Constantia Insurance head office to compete in a fight pick challenge. Final quarterfinal fights are chosen. A dramatic KO is witnessed in the TF2 Hexagon.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/241_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
@@ -12227,7 +12242,7 @@
 		<icon src="https://poster.starhubgo.com/poster/ch241_MMA_30.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="241" start="20250709040000 +0000" stop="20250709050000 +0000">
-		<title>TF2 - The Fighter David vs. Goliath</title>
+		<title>TF2 - The Fighter</title>
 		<desc>In this episode, the athletes travel to the Constantia Insurance head office to compete in a fight pick challenge. Final quarterfinal fights are chosen. A dramatic KO is witnessed in the TF2 Hexagon.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/241_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
@@ -12267,7 +12282,7 @@
 		<icon src="https://poster.starhubgo.com/poster/ch241_MMA_30.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="241" start="20250709100000 +0000" stop="20250709110000 +0000">
-		<title>TF2 - The Fighter David vs. Goliath</title>
+		<title>TF2 - The Fighter</title>
 		<desc>In this episode, the athletes travel to the Constantia Insurance head office to compete in a fight pick challenge. Final quarterfinal fights are chosen. A dramatic KO is witnessed in the TF2 Hexagon.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/241_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
