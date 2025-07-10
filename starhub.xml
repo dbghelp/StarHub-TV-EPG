@@ -1208,7 +1208,7 @@
 	</programme>
 	<programme channel="103" start="20250710143000 +0000" stop="20250710150000 +0000">
 		<title>Focus - EP 12</title>
-		<desc>Focus provides timely reports and analyses on international news and current affairs from Singapore's perspective.</desc>
+		<desc>The dispute over an ancient temple between Thailand and Cambodia has escalated. The content of a phone call that has been made public have brought the relationship between Thailand and Cambodia to a freezing point, resulting in losses for both sides. US President Trump is deeply involved in the situation in the Middle East. What is his plan in mind for the Middle East? How will the situation in the Middle East affect Singapore?</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/103_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="103" start="20250710150000 +0000" stop="20250710160000 +0000">
@@ -2276,12 +2276,12 @@
 		<desc>(Dual language Mandarin and Korean) Nan Taixi finds out about important evidence against Nan Taiheng hidden in Yang Wanxiu’s room and starts searching for it. Yu Zhihuan helps her, finds the proof in a CD, and tricks Nan Taiheng by showing him the USB drive.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/107_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="107" start="20250710173000 +0000" stop="20250710182500 +0000">
+	<programme channel="107" start="20250710173000 +0000" stop="20250710183000 +0000">
 		<title>The Secret House - EP 75</title>
 		<desc>(Dual language Mandarin and Korean) Nan Taiheng tries to escape with the money but is knocked unconscious by a flowerpot and taken to the hospital. After waking up, he steals Yu Zhihuan’s car but is mistaken for Yu Zhihuan and seriously injured by a killer sent by Xian Shuzhen.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/107_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="107" start="20250710182500 +0000" stop="20250711030000 +0000">
+	<programme channel="107" start="20250710183000 +0000" stop="20250711030000 +0000">
 		<title>End of transmission</title>
 		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_channels2/107_1920x1080_HTV.png?w=341&amp;h=192" />
@@ -7462,7 +7462,7 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/139_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="139" start="20250710233000 +0000" stop="20250711020000 +0000">
-		<title>Movie</title>
+		<title>Masters</title>
 		<desc>Malayalam Feature Film</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/139_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
@@ -7576,49 +7576,54 @@
 		<desc>When a parking spot frays the relationship between two neighbours of different generations and world views.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=960&amp;h=540" />
 	</programme>
-	<programme channel="140" start="20250709220000 +0000" stop="20250710003000 +0000">
-		<title>World Famous Lover</title>
-		<desc>An anthology of love stories from different societal perspectives, showcasing the diverse nature of love.</desc>
+	<programme channel="140" start="20250709233000 +0000" stop="20250710013000 +0000">
+		<title>Vikrithi</title>
+		<desc>Young man mistakenly posts photo of sleeping passenger online, thinking he's drunk. Unaware of consequences, chaos ensues. Release Year: 2019 Director: Emcy Joseph</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=960&amp;h=540" />
 	</programme>
-	<programme channel="140" start="20250710003000 +0000" stop="20250710033000 +0000">
-		<title>TBA</title>
-		<desc>TBA</desc>
+	<programme channel="140" start="20250710013000 +0000" stop="20250710043500 +0000">
+		<title>Srungaravelan</title>
+		<desc>Kannan falls in love with Radhu, the daughter of a ruthless gangster. To marry her, he must face danger and overcome numerous challenges posed by her father's deadly past. Release Year: 2013 Director: Jose Thomas</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=960&amp;h=540" />
 	</programme>
-	<programme channel="140" start="20250710033000 +0000" stop="20250710063000 +0000">
-		<title>TBA</title>
-		<desc>TBA</desc>
+	<programme channel="140" start="20250710043500 +0000" stop="20250710073000 +0000">
+		<title>Romeo</title>
+		<desc>Samantha meets Kittu in Rome, he persuades her to go to India with him, resulting in unforeseen circumstances. Release Year: 2007 Director: Rajasenan</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=960&amp;h=540" />
 	</programme>
-	<programme channel="140" start="20250710063000 +0000" stop="20250710093000 +0000">
-		<title>TBA</title>
-		<desc>TBA</desc>
+	<programme channel="140" start="20250710073000 +0000" stop="20250710103000 +0000">
+		<title>Sunday Holiday</title>
+		<desc>Unni, an aspiring scriptwriter, pitches his story to a hospitalized director. Release Year: 2017 Director: Jis Joy</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=960&amp;h=540" />
 	</programme>
-	<programme channel="140" start="20250710093000 +0000" stop="20250710123000 +0000">
-		<title>TBA</title>
-		<desc>TBA</desc>
+	<programme channel="140" start="20250710103000 +0000" stop="20250710133000 +0000">
+		<title>Lucky Baskhar</title>
+		<desc>Baskhar Kumar's life spirals after embezzling bank funds in 1992 Bombay, leading to a thrilling journey of crime, ambition, and ultimate redemption for his family.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=960&amp;h=540" />
 	</programme>
-	<programme channel="140" start="20250710123000 +0000" stop="20250710153000 +0000">
-		<title>TBA</title>
-		<desc>TBA</desc>
+	<programme channel="140" start="20250710133000 +0000" stop="20250710163000 +0000">
+		<title>Neru</title>
+		<desc>Sara, a blind sculptor, seeks justice after a traumatic experience, navigating the complex legal system and her own inner strength to find resolution. Release Year: 2023 Director: Jeethu Joseph</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=960&amp;h=540" />
 	</programme>
-	<programme channel="140" start="20250710153000 +0000" stop="20250710163000 +0000">
-		<title>TBA</title>
-		<desc>TBA</desc>
+	<programme channel="140" start="20250710163000 +0000" stop="20250710191500 +0000">
+		<title>Action Hero Biju</title>
+		<desc>Biju posted as the sub-inspector in Cochin has to handle notorious criminals. Release Year: 2016 Director: Abrid Shine</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=960&amp;h=540" />
 	</programme>
-	<programme channel="140" start="20250710163000 +0000" stop="20250710220000 +0000">
-		<title>Information Not Available</title>
-		<desc />
+	<programme channel="140" start="20250710191500 +0000" stop="20250710214000 +0000">
+		<title>Alexander The Great</title>
+		<desc>The miniseries delves into the life and accomplishments of Alexander the Great Release Year: 2010 Director: Murali Nagavally</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=960&amp;h=540" />
 	</programme>
-	<programme channel="140" start="20250710220000 +0000" stop="20250711040000 +0000">
-		<title>Information Not Available</title>
-		<desc />
+	<programme channel="140" start="20250710214000 +0000" stop="20250710233000 +0000">
+		<title>Kandahar</title>
+		<desc>Major Mahadevan leads his unit in a mission to combat an international terrorist organization that has hijacked a plane. Release Year: 2010 Director: Major Ravi Awards: Asianet Film Awards 2010 - Best Feature Film on National Integration Award - Major Ravi</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=960&amp;h=540" />
+	</programme>
+	<programme channel="140" start="20250710233000 +0000" stop="20250711013000 +0000">
+		<title>Dhamaka</title>
+		<desc>Two lookalikes love the same girl, causing a problem. Release Year: 2020 Director: Omar Lulu</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=960&amp;h=540" />
 	</programme>
 	<programme channel="140" start="20250711040000 +0000" stop="20250711100000 +0000">
@@ -23126,16 +23131,6 @@
 		<desc>A regular panel of guests from across the political spectrum discuss the biggest international stories of the day.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch701_the_context.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="701" start="20250709200000 +0000" stop="20250709203000 +0000">
-		<title>The Context</title>
-		<desc>Special coverage from Washington DC and London, focusing on President Trump's second term.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch701_the_context.jpg?w=960&amp;h=540" />
-	</programme>
-	<programme channel="701" start="20250709203000 +0000" stop="20250709210000 +0000">
-		<title>The Context</title>
-		<desc>Special coverage from Washington DC and London, focusing on President Trump's second term.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch701_the_context.jpg?w=960&amp;h=540" />
-	</programme>
 	<programme channel="701" start="20250709210000 +0000" stop="20250709213000 +0000">
 		<title>BBC World News America</title>
 		<desc>In-depth reports on the major international and US news of the day presented from Washington DC.</desc>
@@ -23178,7 +23173,7 @@
 	</programme>
 	<programme channel="701" start="20250710013000 +0000" stop="20250710020000 +0000">
 		<title>The Media Show</title>
-		<desc>A global, topical weekly show that lifts the hood on the entertainment and news business. The Media Show explores the companies and personalities who command our attention.</desc>
+		<desc>Gaza documentary pulled by BBC over impartiality concerns; Glastonbury coverage criticised; Tim Franks speaks on bias and identity; Formula One's media legacy and missing archive revisited.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch701_BBC_news.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="701" start="20250710020000 +0000" stop="20250710023000 +0000">
@@ -23198,7 +23193,7 @@
 	</programme>
 	<programme channel="701" start="20250710033000 +0000" stop="20250710040000 +0000">
 		<title>Tech Now</title>
-		<desc>Ione Wells explores how tech is helping Chile's kidnapped children trace their birth families. Alasdair Keane meets the Rotterdam startup producing a greener alternative to cement.</desc>
+		<desc>Ione Wells explores the search for Chile's stolen children, decades after they were taken during the country's military dictatorship, and asks if tech can help families find answers.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch701_BBC_news.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="701" start="20250710040000 +0000" stop="20250710043000 +0000">
@@ -23377,12 +23372,12 @@
 		<icon src="https://poster.starhubgo.com/poster/ch701_the_context.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="701" start="20250710200000 +0000" stop="20250710203000 +0000">
-		<title>The Context</title>
+		<title>The Context USA</title>
 		<desc>Special coverage from Washington DC and London, focusing on President Trump's second term.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch701_the_context.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="701" start="20250710203000 +0000" stop="20250710210000 +0000">
-		<title>The Context</title>
+		<title>The Context USA</title>
 		<desc>Special coverage from Washington DC and London, focusing on President Trump's second term.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch701_the_context.jpg?w=960&amp;h=540" />
 	</programme>
