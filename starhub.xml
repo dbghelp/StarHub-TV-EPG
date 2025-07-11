@@ -1293,7 +1293,7 @@
 	</programme>
 	<programme channel="103" start="20250713153000 +0000" stop="20250713160000 +0000">
 		<title>Frontline - EP 12</title>
-		<desc>Frontline is a weekly investigative current affairs programme that aims to address issues closest to the hearts of Singaporeans.</desc>
+		<desc>From 1 July 2025, bicycles and non-motorised personal mobility devices (PMDs) are banned from pedestrian-only paths, while personal mobility aids (PMAs) under a speed limit are still allowed. How are pedestrians and cyclists including delivery riders taking it?</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/103_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="104" start="20250711160000 +0000" stop="20250712010000 +0000">
@@ -7691,10 +7691,15 @@
 		<desc>Global achievers and everyday heroes reveal the triumphs, struggles and inspiring journeys of overseas Filipinos across Europe.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/144_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="144" start="20250712010000 +0000" stop="20250712020000 +0000">
+	<programme channel="144" start="20250712010000 +0000" stop="20250712013000 +0000">
 		<title>Tulong Ko Pasa Mo</title>
 		<desc>Fill your weekends with joy and inspiration on this public service programme.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch144_tulong_ko_pasa_mo.jpg?w=960&amp;h=540" />
+	</programme>
+	<programme channel="144" start="20250712013000 +0000" stop="20250712020000 +0000">
+		<title>Darna</title>
+		<desc>Narda, an emergency medical technician and a loving breadwinner to the Custodio family, is destined to become the next protector of the powerful stone that enables her to transform into a superhero who has special abilities to help those in danger.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch144_darna.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="144" start="20250712020000 +0000" stop="20250712023000 +0000">
 		<title>Tao Po</title>
@@ -7706,32 +7711,27 @@
 		<desc>Enjoy the best expressed views with award-winning journalist Bev Llorente.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/144_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="144" start="20250712030000 +0000" stop="20250712040000 +0000">
-		<title>Darna</title>
-		<desc>Narda, an emergency medical technician and a loving breadwinner to the Custodio family, is destined to become the next protector of the powerful stone that enables her to transform into a superhero who has special abilities to help those in danger.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch144_darna.jpg?w=960&amp;h=540" />
-	</programme>
-	<programme channel="144" start="20250712040000 +0000" stop="20250712063000 +0000">
+	<programme channel="144" start="20250712030000 +0000" stop="20250712053000 +0000">
 		<title>It's Showtime (Sat) LIVE</title>
 		<desc>Hosted by an all-star cast, It's Showtime is a variety show unlike any other. Watch as people from all over come on stage to showcase their skills and creativity in this one-of-a-kind talent show full of fun and prizes.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch144_showtime.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="144" start="20250712063000 +0000" stop="20250712070000 +0000">
+	<programme channel="144" start="20250712053000 +0000" stop="20250712060000 +0000">
 		<title>Pamilya Talk With Tita Jing S3</title>
 		<desc>Jing Castaneda dishes out advice regarding matters close to the heart.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/144_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="144" start="20250712070000 +0000" stop="20250712073000 +0000">
+	<programme channel="144" start="20250712060000 +0000" stop="20250712063000 +0000">
 		<title>Astig Vegan S2</title>
 		<desc>Find out how to prepare some of the best vegan Filipino dishes on this show.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/144_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="144" start="20250712073000 +0000" stop="20250712080000 +0000">
+	<programme channel="144" start="20250712063000 +0000" stop="20250712070000 +0000">
 		<title>Wow</title>
 		<desc>TFC continues to bring you the best of Filipino TV, movie and event entertainment, as well as timely news information that directly impacts your community!</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/144_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="144" start="20250712080000 +0000" stop="20250712084500 +0000">
+	<programme channel="144" start="20250712070000 +0000" stop="20250712084500 +0000">
 		<title>Home Away From Home S3</title>
 		<desc>This lifestyle programme celebrates Filipino stories abroad as it chronicles Filipino communities all over the world and explores cultural exchanges of Filipinos in their home away from home.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/144_1920x1080_HTV.png?w=341&amp;h=192" />
@@ -7769,7 +7769,7 @@
 	<programme channel="144" start="20250712143000 +0000" stop="20250712163000 +0000">
 		<title>Ang Babae Sa Septic Tank</title>
 		<desc>Jocelyn, Rainier, and Bingbong are set on making an Oscar-worthy film. They set out to do a quick pre-production as a courtesy call to their lead actress played by Eugene Domingo, and a through inspection of their film's major location, the Payatas dumpsite.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/144_1920x1080_HTV.png?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch144_ang_babae_sa_septic_tank.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="144" start="20250712163000 +0000" stop="20250712183000 +0000">
 		<title>It's Showtime</title>
@@ -7829,7 +7829,7 @@
 	<programme channel="144" start="20250713020000 +0000" stop="20250713040000 +0000">
 		<title>Ang Babae Sa Septic Tank</title>
 		<desc>Jocelyn, Rainier, and Bingbong are set on making an Oscar-worthy film. They set out to do a quick pre-production as a courtesy call to their lead actress played by Eugene Domingo, and a through inspection of their film's major location, the Payatas dumpsite.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/144_1920x1080_HTV.png?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch144_ang_babae_sa_septic_tank.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="144" start="20250713040000 +0000" stop="20250713061500 +0000">
 		<title>ASAP Live</title>
