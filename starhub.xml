@@ -7396,17 +7396,17 @@
 		<desc>Boney loves Stefy and wants to marry her. However, Stefy's mother's ghost disapproves of Boney and haunts her. Boney must overcome this ghostly obstacle to win Stefy's hand. Release Year: 2024 Director: Vaishakh Elans</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=960&amp;h=540" />
 	</programme>
-	<programme channel="140" start="20250711163000 +0000" stop="20250711190000 +0000">
+	<programme channel="140" start="20250711163000 +0000" stop="20250711190500 +0000">
 		<title>Baba Kalyani</title>
 		<desc>Baba Kalyani, a police officer, investigates a terrorist plot in Kochi while facing off against old enemies seeking revenge. Release Year: 2006 Director: Shaji Kailas Awards: Asianet Film Award for Best Male Playback Singer</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=960&amp;h=540" />
 	</programme>
-	<programme channel="140" start="20250711190000 +0000" stop="20250711220000 +0000">
+	<programme channel="140" start="20250711190500 +0000" stop="20250711213000 +0000">
 		<title>Rappakal</title>
 		<desc>Saraswathiyamma and Krishnan unite to save their home from scheming relatives in a heartwarming tale. Release Year: 2005</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=960&amp;h=540" />
 	</programme>
-	<programme channel="140" start="20250711220000 +0000" stop="20250711233000 +0000">
+	<programme channel="140" start="20250711213000 +0000" stop="20250711233000 +0000">
 		<title>Novel</title>
 		<desc>Sethunath confesses love, sharing obstacles faced with journalist Aneesa. Release Year: 2008 Director: East Coast Vijayan</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=960&amp;h=540" />
@@ -25471,9 +25471,14 @@
 		<desc>The only daily live technology program with a focus on breaking news, market-moving reporting and analysis of global technology companies and stories.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/708_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="708" start="20250711160000 +0000" stop="20250711170000 +0000">
-		<title>Bloomberg Markets: European Close</title>
-		<desc>Analysing the major market moving stories across the day in Europe, hearing from the biggest newsmakers, and showcasing the unrivalled expertise of Bloomberg News.</desc>
+	<programme channel="708" start="20250711160000 +0000" stop="20250711163000 +0000">
+		<title>Bloomberg Real Yield</title>
+		<desc>Sonali Basak discusses stories from the fixed income world with the biggest names in the field.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/708_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="708" start="20250711163000 +0000" stop="20250711170000 +0000">
+		<title>Bloomberg Markets</title>
+		<desc>Bloomberg Markets is focused on bringing you the most important global business and breaking markets news and information as it happens.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/708_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="708" start="20250711170000 +0000" stop="20250711180000 +0000">
@@ -25481,39 +25486,39 @@
 		<desc>Bloomberg Balance of Power focuses on politics and policies on Capitol Hill, in President Trump's administration, the federal agencies and the courts.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/708_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="708" start="20250711180000 +0000" stop="20250711183000 +0000">
-		<title>Bloomberg Real Yield</title>
-		<desc>Sonali Basak discusses stories from the fixed income world with the biggest names in the field.</desc>
+	<programme channel="708" start="20250711180000 +0000" stop="20250711190000 +0000">
+		<title>Bloomberg Businessweek Daily</title>
+		<desc>Carol Massar and Tim Stenovec bring you reporting from the magazine that helps global leaders stay ahead, plus insight on the people, companies and trends shaping today's complex economy.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/708_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="708" start="20250711183000 +0000" stop="20250711190000 +0000">
-		<title>Bloomberg Markets</title>
-		<desc>Bloomberg Markets is focused on bringing you the most important global business and breaking markets news and information as it happens.</desc>
+	<programme channel="708" start="20250711190000 +0000" stop="20250711210000 +0000">
+		<title>Bloomberg The Close</title>
+		<desc>Alix Steel, Romaine Bostick and Scarlet Fu own the market-moving breaking news around the closing bell in this must-watch daily program to get an edge on equities, earnings and the economy.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/708_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="708" start="20250711190000 +0000" stop="20250711213000 +0000">
-		<title>Bloomberg Markets: The Close</title>
-		<desc>Romaine Bostick, Alix Steel and Scarlet Fu break down the day's top stories and trading action around the close.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/708_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="708" start="20250711213000 +0000" stop="20250711220000 +0000">
-		<title>Bloomberg Markets: What'd You Miss?</title>
-		<desc>Bloomberg TV's flagship markets programme, providing key insights, analysis and context at the market close. It's a highly intelligent look at the markets that misses nothing.</desc>
+	<programme channel="708" start="20250711210000 +0000" stop="20250711220000 +0000">
+		<title>Bloomberg: Balance of Power</title>
+		<desc>Bloomberg Balance of Power focuses on politics and policies on Capitol Hill, in President Trump's administration, the federal agencies and the courts.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/708_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="708" start="20250711220000 +0000" stop="20250711230000 +0000">
-		<title>Bloomberg Technology</title>
-		<desc>The only daily news programme focused exclusively on technology, innovation and the future of business. Hosted by Ed Ludlow from San Francisco and Caroline Hyde in New York.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/708_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="708" start="20250711230000 +0000" stop="20250712000000 +0000">
 		<title>Bloomberg Wall Street Week</title>
 		<desc>A weekly program telling the stories of capitalism from around the world, hosted by David Westin in New York.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/708_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="708" start="20250712000000 +0000" stop="20250712003000 +0000">
-		<title>Leaders with Lacqua</title>
-		<desc>Francine Lacqua interviews some of the most influential people on the planet.</desc>
+	<programme channel="708" start="20250711230000 +0000" stop="20250711233000 +0000">
+		<title>Best Of the Qatar Economic Forum, Powered by Bloomberg</title>
+		<desc>This special Bloomberg programme brings together some of the world's most influential thinkers, policy makers and business leaders to tackle the major issues facing the world.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/708_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="708" start="20250711233000 +0000" stop="20250712000000 +0000">
+		<title>Bloomberg Tech Summit</title>
+		<desc>Leaders from across tech and business discuss how to navigate today's hazards and create opportunities. Guests include Google's Sundar Pichai, Meta's Andrew Bosworth, and Uber's Dara Khosrowshahi.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/708_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="708" start="20250712000000 +0000" stop="20250712010000 +0000">
+		<title>Bloomberg Investigates</title>
+		<desc>IM Academy sold a dream of financial freedom. But behind the luxury lifestyles and Instagram hype, thousands found themselves inside a multi-level marketing maze that left many broke.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/708_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="708" start="20250712003000 +0000" stop="20250712010000 +0000">
@@ -28407,7 +28412,7 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/801_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="801" start="20250711090000 +0000" stop="20250711091000 +0000">
-		<title>Nostalgia</title>
+		<title>Nostalgia - Pian Duan Zhan Bo</title>
 		<desc>Nostalgia aims to represent Chinese traditional culture by revealing life in villages in the way of story-telling.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/801_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
@@ -28497,7 +28502,7 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/801_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="801" start="20250711175000 +0000" stop="20250711180000 +0000">
-		<title>Nostalgia</title>
+		<title>Nostalgia - Pian Duan Zhan Bo</title>
 		<desc>Nostalgia aims to represent Chinese traditional culture by revealing life in villages in the way of story-telling.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/801_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
