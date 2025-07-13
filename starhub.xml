@@ -9492,7 +9492,7 @@
 		<icon src="https://poster.starhubgo.com/poster/ch201_wta_tour.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="201" start="20250712230000 +0000" stop="20250713043000 +0000">
-		<title>HSBC BWF World Tour 2025 US Open (Super 300): Finals</title>
+		<title>HSBC BWF World Tour 2025</title>
 		<desc>HSBC BWF World Tour is the eighth season of the BWF World Tour of badminton, a circuit of 31 tournaments that lead up to the World Tour Finals tournament. The tour features five levels, with different levels of prize money in each of the tournaments.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch201_bwf_world_tour.jpg?w=960&amp;h=540" />
 	</programme>
@@ -9507,19 +9507,29 @@
 		<icon src="https://poster.starhubgo.com/poster/ch201_BadmintonWeekly.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="201" start="20250713050000 +0000" stop="20250713100000 +0000">
-		<title>HSBC BWF World Tour 2025 Canada Open (Super 300): Finals</title>
+		<title>HSBC BWF World Tour 2025</title>
 		<desc>HSBC BWF World Tour is the eighth season of the BWF World Tour of badminton, a circuit of 31 tournaments that lead up to the World Tour Finals tournament. The tour features five levels, with different levels of prize money in each of the tournaments.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch201_bwf_world_tour.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="201" start="20250713100000 +0000" stop="20250713133000 +0000">
-		<title>World Cup of Darts 2025</title>
-		<desc>The 2025 World Cup of Darts is the 15th edition of the PDC World Cup of Darts and it is staged by the Professional Darts Corporation. It will take place at the Eissporthalle in Frankfurt, Germany. The tournament consists of 40 teams and the total prize money is to remain at £450,000.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch201_2025BetVictorWorldCupofDartsLogo.jpg?w=960&amp;h=540" />
+	<programme channel="201" start="20250713100000 +0000" stop="20250713120000 +0000">
+		<title>Hologic WTA Tour 2025</title>
+		<desc>The Queen’s Club in London plays host to the HSBC Championships - with the tour returning to the annual tournament at the WTA 500-level after more than 50 years. The stunning outdoor venue in West Kensington is known for holding this long-standing annual grass court event, which was first played in 1889.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch201_wta_tour.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="201" start="20250713133000 +0000" stop="20250713190000 +0000">
+	<programme channel="201" start="20250713120000 +0000" stop="20250713180000 +0000">
 		<title>DP World Tour 2025</title>
 		<desc>The Genesis Scottish Open is a professional golf tournament in Scotland, and is one of 5 tournaments that are part of the Rolex Series. The tournament was established in 1972 and became a Rolex Series event in 2017. Beginning in 2022, the tournament was sponsored by Genesis.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch201_dp_world_tour.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="201" start="20250713180000 +0000" stop="20250713183000 +0000">
+		<title>Hologic WTA Tour 2025 H/Ls</title>
+		<desc>Catch all the thrills and spills from the Khalifa International Tennis and Squash Complex in Doha, Qatar.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch201_wta_tour.jpg?w=960&amp;h=540" />
+	</programme>
+	<programme channel="201" start="20250713183000 +0000" stop="20250713190000 +0000">
+		<title>Hologic WTA Tour 2025 H/Ls</title>
+		<desc>Catch all the thrills and spills from the Dubai Duty Free tennis stadium in Dubai, United Arab Emirates.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch201_wta_tour.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="201" start="20250713190000 +0000" stop="20250713193000 +0000">
 		<title>ASO Cycling Programming 2025</title>
