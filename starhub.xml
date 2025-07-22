@@ -164,6 +164,10 @@
 		<display-name>Hub Sports 6</display-name>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/206_1920x1080_HTV.png?w=272" />
 	</channel>
+	<channel id="207">
+		<display-name>Hub Sports 7</display-name>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/207_1920x1080_HTV.png?w=272" />
+	</channel>
 	<channel id="209">
 		<display-name>SPOTV</display-name>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/209_1920x1080_HTV.png?w=272" />
@@ -419,6 +423,10 @@
 	<channel id="838">
 		<display-name>TVB Jade HD</display-name>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/838_1920x1080_HTV.png?w=272" />
+	</channel>
+	<channel id="852">
+		<display-name>Hub Ruyi</display-name>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/852_1920x1080_HTV.png?w=272" />
 	</channel>
 	<channel id="855">
 		<display-name>Hub VVDrama</display-name>
@@ -10605,6 +10613,31 @@
 		<title>Hologic WTA Tour 2025</title>
 		<desc>Co-founded by Arthur Ashe, Donald Dell, and John A. Harris, the Mubadala Citi DC Open in Washington, DC, is one of the oldest and most prestigious tournaments in tennis. Held annually in Rock Creek Park since its founding, the Mubadala Citi DC Open is also the longest-running pro tennis event to be held in an equal-access public park.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch201_wta_tour.jpg?w=960&amp;h=540" />
+	</programme>
+	<programme channel="207" start="20250721220000 +0000" stop="20250722040000 +0000">
+		<title>End of Transmission</title>
+		<desc>End of Transmission</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/207_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="207" start="20250722040000 +0000" stop="20250722100000 +0000">
+		<title>End of Transmission</title>
+		<desc>End of Transmission</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/207_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="207" start="20250722100000 +0000" stop="20250722160000 +0000">
+		<title>End of Transmission</title>
+		<desc>End of Transmission</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/207_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="207" start="20250722160000 +0000" stop="20250722220000 +0000">
+		<title>End of Transmission</title>
+		<desc>End of Transmission</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/207_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="207" start="20250722220000 +0000" stop="20250723040000 +0000">
+		<title>End of Transmission</title>
+		<desc>End of Transmission</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/207_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="209" start="20250721160000 +0000" stop="20250721180000 +0000">
 		<title>Football Friendly 2025 Match 4: Australia vs Panama</title>
