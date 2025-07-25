@@ -10349,10 +10349,15 @@
 		<desc>Top SimRacers combine for seven breathtaking SimRacing events in early 2025.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch213_dtm_esports_championship.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="213" start="20250726013500 +0000" stop="20250726022000 +0000">
+	<programme channel="213" start="20250726013500 +0000" stop="20250726020500 +0000">
 		<title>FIA Formula 3 Championship Practice 2025: Spa-Francorchamps, Belgium</title>
 		<desc>beIN Sports brings you exclusive coverage of the 2025 Formula 3 Championship.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch213_fia_formula_3_championship_practice.jpg?w=960&amp;h=540" />
+	</programme>
+	<programme channel="213" start="20250726020500 +0000" stop="20250726022000 +0000">
+		<title>LaLiga Club Classic Archive: Barcelona vs Real Madrid - 2023/24</title>
+		<desc>Rewind the clock and witness LaLiga's greatest moments.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch213_laliga_classics_archive.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="213" start="20250726022000 +0000" stop="20250726030500 +0000">
 		<title>FIA Formula 2 Championship Practice 2025: Spa-Francorchamps, Belgium</title>
@@ -10621,7 +10626,7 @@
 	</programme>
 	<programme channel="214" start="20250725210000 +0000" stop="20250725213000 +0000">
 		<title>Epic Series Global MTB 2025</title>
-		<desc>The Epic Series embodies the most exhilarating, rewarding and beautiful MTB stage races on the planet. The Documentary Series gives fascinating insights into the physical and psychological border crossings. Each chapter will contain exhilarating race reports and interesting backgrounds in the form of rider profiles, tech talks and a rare look behind the scenes of our sport.</desc>
+		<desc>The Epic Series embodies the most exhilarating, rewarding and beautiful MTB stage races on the planet. The Documentary Series gives fascinating insights into the physical and psychological border crossings. Each chapter will contain exhilarating race repo</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch214_epic_series_global_mtb.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="214" start="20250725213000 +0000" stop="20250725220000 +0000">
@@ -10842,7 +10847,7 @@
 	<programme channel="217" start="20250726065800 +0000" stop="20250726080000 +0000">
 		<title>Pakistan ODI Tri-Series, 2025 H/Ls: PAK ODI Tri-Series, 2025 M1: PAK vs NZ</title>
 		<desc>Watch the highlights from Match 1 of the Pakistan ODI Tri-Series 2025 - Pakistan vs New Zealand.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_Channels2/217_1920x1080_HTV.png?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch217_PAKODITRISeries2025.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="217" start="20250726080000 +0000" stop="20250726095000 +0000">
 		<title>India tour of England, 2025 H/Ls: ENG v IND, 4th Test</title>
@@ -10850,7 +10855,7 @@
 		<icon src="https://poster.starhubgo.com/poster/ch217_IndiaTourOfEngland2025.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="217" start="20250726095000 +0000" stop="20250726173000 +0000">
-		<title>India tour of England, 2025: England v India, 4th Test, Day 4 (Live) (Live)</title>
+		<title>India tour of England, 2025: England v India, 4th Test, Day 4 (Live)</title>
 		<desc>Watch the live coverage from the 4th Test between England and India.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch217_IndiaTourOfEngland2025.jpg?w=960&amp;h=540" />
 	</programme>
@@ -10862,22 +10867,22 @@
 	<programme channel="217" start="20250726182500 +0000" stop="20250726191300 +0000">
 		<title>IPL 2025 H/Ls: Eliminator GT v MI, TATA IPL 2025</title>
 		<desc>Watch the highlights from the Eliminator - Gujarat Titans vs Mumbai Indians, TATA IPL 2025.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_Channels2/217_1920x1080_HTV.png?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch217_IPLTATA.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="217" start="20250726191300 +0000" stop="20250726195100 +0000">
 		<title>IPL 2025 H/Ls: Qualifier 2 PBKS v MI, TATA IPL 2025</title>
 		<desc>Watch the highlights from Qualifier 2 - Punjab Kings vs Mumbai Indians, TATA IPL 2025.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_Channels2/217_1920x1080_HTV.png?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch217_IPLTATA.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="217" start="20250726195100 +0000" stop="20250726203600 +0000">
 		<title>IPL 2025 H/Ls: Final RCB v PBKS, TATA IPL 2025</title>
 		<desc>Watch the highlights from the Final - Royal Challengers Bangalore vs Punjab Kings, TATA IPL 2025.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_Channels2/217_1920x1080_HTV.png?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch217_IPLTATA.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="217" start="20250726203600 +0000" stop="20250726213800 +0000">
 		<title>Pakistan ODI Tri-Series, 2025 H/Ls: PAK ODI Tri-Series, 2025 M1: PAK vs NZ</title>
 		<desc>Watch the highlights from Match 1 of the Pakistan ODI Tri-Series 2025 - Pakistan vs New Zealand.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_Channels2/217_1920x1080_HTV.png?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch217_PAKODITRISeries2025.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="217" start="20250726213800 +0000" stop="20250726221800 +0000">
 		<title>Australia tour of West Indies, 2025 H/Ls: WI vs AUS, 1st T20I</title>
@@ -10890,7 +10895,7 @@
 		<icon src="https://poster.starhubgo.com/poster/ch217_AustraliaTourOfWestIndies2025.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="217" start="20250726225000 +0000" stop="20250727030000 +0000">
-		<title>Australia tour of West Indies, 2025: West Indies vs Australia, 4th T20I (Live) (</title>
+		<title>Australia tour of West Indies, 2025: West Indies vs Australia, 4th T20I (Live)</title>
 		<desc>Watch the live coverage from the 4th T20I between West Indies and Australia.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch217_AustraliaTourOfWestIndies2025.jpg?w=341&amp;h=192" />
 	</programme>
@@ -10922,7 +10927,7 @@
 	<programme channel="217" start="20250727063000 +0000" stop="20250727071400 +0000">
 		<title>IPL 2025 H/Ls: Final RCB v PBKS, TATA IPL 2025</title>
 		<desc>Watch the highlights from the Final - Royal Challengers Bangalore vs Punjab Kings, TATA IPL 2025.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_Channels2/217_1920x1080_HTV.png?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch217_IPLTATA.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="217" start="20250727071400 +0000" stop="20250727095000 +0000">
 		<title>India tour of England, 2025 H/Ls: ENG v IND, 4th Test</title>
@@ -10930,7 +10935,7 @@
 		<icon src="https://poster.starhubgo.com/poster/ch217_IndiaTourOfEngland2025.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="217" start="20250727095000 +0000" stop="20250727173000 +0000">
-		<title>India tour of England, 2025: England v India, 4th Test, Day 5 (Live) (Live)</title>
+		<title>India tour of England, 2025: England v India, 4th Test, Day 5 (Live)</title>
 		<desc>Watch the live coverage from the 4th Test between England and India.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch217_IndiaTourOfEngland2025.jpg?w=960&amp;h=540" />
 	</programme>
