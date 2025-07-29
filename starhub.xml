@@ -164,10 +164,6 @@
 		<display-name>Hub Sports 6</display-name>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/206_1920x1080_HTV.png?w=272" />
 	</channel>
-	<channel id="207">
-		<display-name>Hub Sports 7</display-name>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/207_1920x1080_HTV.png?w=272" />
-	</channel>
 	<channel id="209">
 		<display-name>SPOTV</display-name>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/209_1920x1080_HTV.png?w=272" />
@@ -864,14 +860,14 @@
 		<desc>The stakes are higher than ever for Ash, Goh, and Chloe as they advance toward their goals! As the Pokemon World Coronation Series tournament heats up, intensive training is in store for Ash, Pikachu, and their Pokemon friends.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="102" start="20250730070000 +0000" stop="20250730073000 +0000">
-		<title>Wheel Of Fortune S41 - EP 7997</title>
-		<desc>Pat Sajak hosts his final season of Wheel of Fortune.</desc>
+	<programme channel="102" start="20250730070000 +0000" stop="20250730072900 +0000">
+		<title>Stars In Style S8 - EP 9</title>
+		<desc>Stars in Style cover all the important looks and shapes from the biggest celebs. The hottest trends in fashion, beauty and lifestyle with expert tips and opinions.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="102" start="20250730073000 +0000" stop="20250730080000 +0000">
-		<title>Provocative - EP 106</title>
-		<desc>Caleb catches Melody asking Linda one too many questions about using the supplements and suspects her of a cover up. Sivan learns that Viknesh has a serious blood disorder.</desc>
+	<programme channel="102" start="20250730072900 +0000" stop="20250730080000 +0000">
+		<title>Films &amp; Stars - EP 16</title>
+		<desc>Films and Stars cover the hottest events from the big screen every week.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="102" start="20250730080000 +0000" stop="20250730083000 +0000">
@@ -895,7 +891,7 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="102" start="20250730110000 +0000" stop="20250730113000 +0000">
-		<title>Wheel Of Fortune S41 - EP 7998</title>
+		<title>Wheel Of Fortune S41 - EP 7997</title>
 		<desc>Pat Sajak hosts his final season of Wheel of Fortune.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
@@ -910,8 +906,8 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="102" start="20250730123000 +0000" stop="20250730130000 +0000">
-		<title>Provocative - EP 107</title>
-		<desc>Farisha sympathises when Irfan tells her of his plight with Nadrah and he uses it to gain an edge over Nadrah. Hui Qing and Tony assume that Sivan has disappeared to avoid facing Viknesh’s hefty medical bills.</desc>
+		<title>Provocative - EP 106</title>
+		<desc>Caleb catches Melody asking Linda one too many questions about using the supplements and suspects her of a cover up. Sivan learns that Viknesh has a serious blood disorder.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="102" start="20250730130000 +0000" stop="20250730133000 +0000">
@@ -10006,12 +10002,12 @@
 	</programme>
 	<programme channel="159" start="20250728223000 +0000" stop="20250729010000 +0000">
 		<title>Movie - En Sahiye</title>
-		<desc>En Sakhiye is a 2000 Tamil-language romantic thriller film directed by the duo Ravi-Raja. The film stars newcomers Devaraj, Divya and Prabhu Sekhar, with K. Rajan</desc>
+		<desc>En Sakhiye is a 2000 Tamil-language romantic thriller film directed by the duo Ravi-Raja. The film stars newcomers Devaraj, Divya and Prabhu Sekhar, with K. Rajan.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch159_ktv_hd_logo.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="159" start="20250729010000 +0000" stop="20250729013000 +0000">
 		<title>Fillers</title>
-		<desc>Fillers</desc>
+		<desc>KTV HD presents you round-the-clock Kollywood movies, from the latest blockbusters to classics of the yesteryear!</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch159_ktv_hd_logo.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="159" start="20250729013000 +0000" stop="20250729043000 +0000">
@@ -10026,7 +10022,7 @@
 	</programme>
 	<programme channel="159" start="20250729073000 +0000" stop="20250729103000 +0000">
 		<title>Movie - Thaai Veedu</title>
-		<desc>A rich man owns an antique sword which is the family's heirloom; another man makes several unsuccessful attempts to steal this. He then employs the rich man's long lost sun to steal it, but the truth is revealed in time.</desc>
+		<desc>A rich man owns an antique sword which is the family's heirloom; another man makes several unsuccessful attempts to steal it. He then employs the rich man's long-lost son to steal it, but the truth is revealed in time.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch159_ktv_hd_logo.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="159" start="20250729103000 +0000" stop="20250729133000 +0000">
@@ -10041,28 +10037,48 @@
 	</programme>
 	<programme channel="159" start="20250729170000 +0000" stop="20250729200000 +0000">
 		<title>Movie - Naan Avan Illai 2</title>
-		<desc>Maria, a young girl, blindly believes and proclaims that Ananmalai is a saint. Hell breaks loose when three girls approach and tell her that they are victims of his deceit.</desc>
+		<desc>Maria, a young girl, blindly believes and proclaims that Ananmalai is a saint. All hell breaks loose when three girls approach and tell her that they are victims of his deceit.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch159_ktv_hd_logo.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="159" start="20250729200000 +0000" stop="20250729223000 +0000">
 		<title>Movie - Enakkaga Kaathiru</title>
-		<desc>Movie starring Suman, Sumalatha, Bhanuchander, Nisha, Malini and directed by PS Nivas.</desc>
+		<desc>This movie stars Suman, Sumalatha, Bhanuchander, Nisha and Malini, and is directed by PS Nivas.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch159_ktv_hd_logo.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="159" start="20250729223000 +0000" stop="20250730010000 +0000">
 		<title>Movie - Enga Ooru Rasathi</title>
-		<desc>Enga Ooru Rasathi is a 1980 Indian Tamil-language film, directed and produced by N. S. Rajendran. The film stars Sudhakar, Raadhika, Goundamani and S. R. Vijaya. The film had musical score by Gangai Amaran.</desc>
+		<desc>Enga Ooru Rasathi is a 1980 Indian Tamil-language film directed and produced by N. S. Rajendran. The film stars Sudhakar, Raadhika, Goundamani and S. R. Vijaya. The film had a musical score by Gangai Amaran.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch159_ktv_hd_logo.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="159" start="20250730040000 +0000" stop="20250730100000 +0000">
-		<title>Information Not Available</title>
-		<desc />
-		<icon src="https://poster.starhubgo.com/Linear_channels2/159_1920x1080_HTV.png?w=960&amp;h=540" />
+	<programme channel="159" start="20250730010000 +0000" stop="20250730013000 +0000">
+		<title>Fillers</title>
+		<desc>Fillers</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch159_ktv_hd_logo.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="159" start="20250730100000 +0000" stop="20250730160000 +0000">
-		<title>Information Not Available</title>
-		<desc />
-		<icon src="https://poster.starhubgo.com/Linear_channels2/159_1920x1080_HTV.png?w=960&amp;h=540" />
+	<programme channel="159" start="20250730013000 +0000" stop="20250730043000 +0000">
+		<title>Movie - Veedu Manaivi Makkal</title>
+		<desc>A middle-class family struggles to survive in an extremely demanding society and earn enough to live a comfortable life.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch159_ktv_hd_logo.jpg?w=960&amp;h=540" />
+	</programme>
+	<programme channel="159" start="20250730043000 +0000" stop="20250730073000 +0000">
+		<title>Movie - Chatriya Vamsam</title>
+		<desc>Bobby has long since been in a feud with the village headman, Satyamurthy. However, Satyamurthy's brother is killed in an altercation with Bobby and the former is determined to exact revenge.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch159_ktv_hd_logo.jpg?w=960&amp;h=540" />
+	</programme>
+	<programme channel="159" start="20250730073000 +0000" stop="20250730103000 +0000">
+		<title>Movie - Vidukathai</title>
+		<desc>Anandhi is raised by her father who is a fearless man. Neelakandan, a 40-year-old bachelor who is a tenant, becomes the only comforting factor when her father dies.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch159_ktv_hd_logo.jpg?w=960&amp;h=540" />
+	</programme>
+	<programme channel="159" start="20250730103000 +0000" stop="20250730133000 +0000">
+		<title>Movie - Nam Nadu (New)</title>
+		<desc>Muthazhagu, an honest youth leader, opposes his corrupt politician father, Aalavandhar, who aspires to become the chief minister by bullying the villagers.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch159_ktv_hd_logo.jpg?w=960&amp;h=540" />
+	</programme>
+	<programme channel="159" start="20250730133000 +0000" stop="20250730170000 +0000">
+		<title>Movie - Chinna Goundar</title>
+		<desc>The village head is a man who sticks to honesty while making judgements. However, when he falls prey to a conspiracy, he bravely fights to ensure that justice prevails in his village.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch159_ktv_hd_logo.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="201" start="20250728150000 +0000" stop="20250728170000 +0000">
 		<title>Hologic WTA Tour 2025</title>
@@ -10624,46 +10640,6 @@
 		<desc>End of Transmission</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/206_1920x1080_HTV.png?w=960&amp;h=540" />
 	</programme>
-	<programme channel="207" start="20250728160000 +0000" stop="20250728220000 +0000">
-		<title>End of Transmission</title>
-		<desc>End of Transmission</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/207_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="207" start="20250728220000 +0000" stop="20250729040000 +0000">
-		<title>End of Transmission</title>
-		<desc>End of Transmission</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/207_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="207" start="20250729040000 +0000" stop="20250729100000 +0000">
-		<title>End of Transmission</title>
-		<desc>End of Transmission</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/207_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="207" start="20250729100000 +0000" stop="20250729160000 +0000">
-		<title>End of Transmission</title>
-		<desc>End of Transmission</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/207_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="207" start="20250729160000 +0000" stop="20250729220000 +0000">
-		<title>End of Transmission</title>
-		<desc>End of Transmission</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/207_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="207" start="20250729220000 +0000" stop="20250730040000 +0000">
-		<title>End of Transmission</title>
-		<desc>End of Transmission</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/207_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="207" start="20250730040000 +0000" stop="20250730100000 +0000">
-		<title>End of Transmission</title>
-		<desc>End of Transmission</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/207_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="207" start="20250730100000 +0000" stop="20250730160000 +0000">
-		<title>End of Transmission</title>
-		<desc>End of Transmission</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/207_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
 	<programme channel="209" start="20250728130000 +0000" stop="20250728170000 +0000">
 		<title>2025 Asia Road Racing Championship Round 3 Japan</title>
 		<desc>The FIM Asia Road Racing Championship is the regional motorcycle road racing championship for Asia, held since 1996.</desc>
@@ -10935,47 +10911,47 @@
 		<icon src="https://poster.starhubgo.com/poster/ch211_atp_tour_review_show.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="211" start="20250729040000 +0000" stop="20250729053000 +0000">
-		<title>ATP Tour 1000 2025: Toronto Day 2 Match 1</title>
+		<title>ATP Tour 1000 2025 Toronto Day 2 Goffin v McDonald</title>
 		<desc>Exclusive coverage of the 2025 ATP Tour on beIN SPORTS as the world's best male players battle it out across the globe to be #1.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_ATPMASTERS1000.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="211" start="20250729053000 +0000" stop="20250729070000 +0000">
-		<title>ATP Tour 1000 2025: Toronto Day 2 Match 2</title>
+		<title>ATP Tour 1000 2025 Toronto Day 2 Carreno Busta v Draxl</title>
 		<desc>Exclusive coverage of the 2025 ATP Tour on beIN SPORTS as the world's best male players battle it out across the globe to be #1.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_ATPMASTERS1000.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="211" start="20250729070000 +0000" stop="20250729083000 +0000">
-		<title>ATP Tour 1000 2025: Toronto Day 2 Match 3</title>
+		<title>ATP Tour 1000 2025 Toronto Day 2 Schoolkate v Fonseca</title>
 		<desc>Exclusive coverage of the 2025 ATP Tour on beIN SPORTS as the world's best male players battle it out across the globe to be #1.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_ATPMASTERS1000.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="211" start="20250729083000 +0000" stop="20250729093000 +0000">
-		<title>ATP Tour Review Show 2025</title>
+		<title>ATP Tour Review Show 2025 Washington</title>
 		<desc>A look back at the best of the action from the tournament.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_atp_tour_review_show.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="211" start="20250729093000 +0000" stop="20250729110000 +0000">
-		<title>ATP Tour 1000 2025: Toronto Day 2 Match 4</title>
+		<title>ATP Tour 1000 2025 Toronto Day 2 Goffin v McDonald</title>
 		<desc>Exclusive coverage of the 2025 ATP Tour on beIN SPORTS as the world's best male players battle it out across the globe to be #1.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_ATPMASTERS1000.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="211" start="20250729110000 +0000" stop="20250729123000 +0000">
-		<title>ATP Tour 1000 2025: Toronto Day 2 Match 5</title>
+		<title>ATP Tour 1000 2025 Toronto Day 2 Carreno Busta v Draxl</title>
 		<desc>Exclusive coverage of the 2025 ATP Tour on beIN SPORTS as the world's best male players battle it out across the globe to be #1.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_ATPMASTERS1000.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="211" start="20250729123000 +0000" stop="20250729140000 +0000">
-		<title>ATP Tour 1000 2025: Toronto Day 2 Match 6</title>
+		<title>ATP Tour 1000 2025 Toronto Day 2 Rinderknech v Galarneau</title>
 		<desc>Exclusive coverage of the 2025 ATP Tour on beIN SPORTS as the world's best male players battle it out across the globe to be #1.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_ATPMASTERS1000.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="211" start="20250729140000 +0000" stop="20250729150000 +0000">
-		<title>ATP Tour Review Show 2025</title>
+		<title>ATP Tour Review Show 2025 Washington</title>
 		<desc>A look back at the best of the action from the tournament.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_atp_tour_review_show.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="211" start="20250729150000 +0000" stop="20250729163000 +0000">
-		<title>ATP Tour 1000 2025: Toronto Day 3 Match 1</title>
+		<title>ATP Tour 1000 2025 Toronto Day 3 Humbert v Nava</title>
 		<desc>Exclusive coverage of the 2025 ATP Tour on beIN SPORTS as the world's best male players battle it out across the globe to be #1.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_ATPMASTERS1000.jpg?w=341&amp;h=192" />
 	</programme>
@@ -33154,12 +33130,12 @@
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20250728162100 +0000" stop="20250728171900 +0000">
+	<programme channel="832" start="20250728162100 +0000" stop="20250728170000 +0000">
 		<title>Searching for flavor</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20250728171900 +0000" stop="20250728220000 +0000">
+	<programme channel="832" start="20250728170000 +0000" stop="20250728220000 +0000">
 		<title>Dragon TV Primetime News</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
