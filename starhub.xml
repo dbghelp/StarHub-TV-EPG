@@ -1182,7 +1182,7 @@
 	</programme>
 	<programme channel="103" start="20250802060000 +0000" stop="20250802063000 +0000">
 		<title>Kongfulicious S4 - EP 6</title>
-		<desc />
+		<desc>Visit the most popular super night markets in six China cities. Stroll through the night market, experience the colorful night life; taste the food, looking for spicy and fresh jianghu flavor. Stroll and eat while watching the night market storm clouds.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/103_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="103" start="20250802063000 +0000" stop="20250802064400 +0000">
@@ -10591,12 +10591,12 @@
 		<icon src="https://poster.starhubgo.com/poster/ch211_ATPMASTERS1000.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="211" start="20250802010000 +0000" stop="20250802030000 +0000">
-		<title>ATP Tour 1000 2025: Toronto Day 6 Match 6</title>
+		<title>ATP Tour 1000 2025: Toronto Day 6 Shelton v Nakashima</title>
 		<desc>Exclusive coverage of the 2025 ATP Tour on beIN SPORTS as the world's best male players battle it out across the globe to be #1.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_ATPMASTERS1000.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="211" start="20250802030000 +0000" stop="20250802043000 +0000">
-		<title>ATP Tour 1000 2025: Toronto Day 6 Match 1</title>
+		<title>ATP Tour 1000 2025: Toronto Day 6 Mensik v Davidovich Fokina</title>
 		<desc>Exclusive coverage of the 2025 ATP Tour on beIN SPORTS as the world's best male players battle it out across the globe to be #1.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_ATPMASTERS1000.jpg?w=341&amp;h=192" />
 	</programme>
@@ -10631,7 +10631,7 @@
 		<icon src="https://poster.starhubgo.com/poster/ch211_atp_tour_review_show.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="211" start="20250802120000 +0000" stop="20250802133000 +0000">
-		<title>ATP Tour 1000 2025: Toronto Day 6 Match 6</title>
+		<title>ATP Tour 1000 2025: Toronto Day 6 Shelton v Nakashima</title>
 		<desc>Exclusive coverage of the 2025 ATP Tour on beIN SPORTS as the world's best male players battle it out across the globe to be #1.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_ATPMASTERS1000.jpg?w=341&amp;h=192" />
 	</programme>
@@ -10825,25 +10825,25 @@
 		<desc>Thrilling racing from the most demanding events around the globe, Gearing Up heads to the toughest events and gets on-board with the sport's heroic drivers.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch213_gearing_up.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="213" start="20250801175000 +0000" stop="20250801185000 +0000">
-		<title>DTM Highlights 2025</title>
-		<desc>Catch the highlights from every round of the 2025 DTM.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch213_dtm_highlights.jpg?w=341&amp;h=192" />
-	</programme>
-	<programme channel="213" start="20250801185000 +0000" stop="20250801213000 +0000">
+	<programme channel="213" start="20250801175000 +0000" stop="20250801203000 +0000">
 		<title>DTM Esports Championship 2025</title>
 		<desc>Top SimRacers combine for seven breathtaking SimRacing events in early 2025.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch213_dtm_esports_championship.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="213" start="20250801213000 +0000" stop="20250801220000 +0000">
-		<title>Motorsport Events Highlights 2025</title>
-		<desc>Catch the highlights of driving skills, confidence, ability and what it takes to establish a career in motor sport and build a world-class reputation.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch213_motorsport_events_highlights.jpg?w=960&amp;h=540" />
+	<programme channel="213" start="20250801203000 +0000" stop="20250801210000 +0000">
+		<title>Fastzone 2025</title>
+		<desc>Covering everything from prototypes to endurance racing, karting to airplanes and even some real oddities.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch213_fastzone.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="213" start="20250801220000 +0000" stop="20250801223000 +0000">
-		<title>Porsche Mobil 1 Supercup Highlights 2025</title>
-		<desc>Catch up on all the action from the Porsche Mobil 1 Supercup in this 30-min highlights.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch213_porsche_mobil_1_supercup_highlights.jpg?w=960&amp;h=540" />
+	<programme channel="213" start="20250801210000 +0000" stop="20250801213000 +0000">
+		<title>Formula Regional European Championship Highlights 2025</title>
+		<desc>Catch the highlights of all the races of Formula Regional European Championship this season.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch213_formula_regional_european_cship_race_highlights.jpg?w=960&amp;h=540" />
+	</programme>
+	<programme channel="213" start="20250801213000 +0000" stop="20250801223000 +0000">
+		<title>Goodwood Highlights 2025</title>
+		<desc>Watch wheel-to-wheel racing in some of the world's most valuable and historic cars, bringing more than a century of world class motorsport and motoring together to celebrate the past, present and future of mobility.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch213_goodwood_highlights.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="213" start="20250801223000 +0000" stop="20250801233000 +0000">
 		<title>Formula 1 Practice 2025: FORMULA 1 LENOVO HUNGARIAN GRAND PRIX 2025 Practice 1</title>
@@ -11470,6 +11470,11 @@
 		<desc>Watch live action from Day 3 of the 5th Test between England and India.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch217_IndiaTourOfEngland2025.jpg?w=960&amp;h=540" />
 	</programme>
+	<programme channel="218" start="20250731160000 +0000" stop="20250731220000 +0000">
+		<title>No Transmission</title>
+		<desc />
+		<icon src="https://poster.starhubgo.com/Linear_Channels2/218_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
 	<programme channel="218" start="20250731220000 +0000" stop="20250801040000 +0000">
 		<title>No Transmission</title>
 		<desc />
@@ -11491,6 +11496,16 @@
 		<icon src="https://poster.starhubgo.com/Linear_Channels2/218_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="218" start="20250801220000 +0000" stop="20250802040000 +0000">
+		<title>No Transmission</title>
+		<desc />
+		<icon src="https://poster.starhubgo.com/Linear_Channels2/218_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="218" start="20250802040000 +0000" stop="20250802100000 +0000">
+		<title>No Transmission</title>
+		<desc />
+		<icon src="https://poster.starhubgo.com/Linear_Channels2/218_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="218" start="20250802100000 +0000" stop="20250802160000 +0000">
 		<title>No Transmission</title>
 		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_Channels2/218_1920x1080_HTV.png?w=341&amp;h=192" />
@@ -29501,8 +29516,8 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/808_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="808" start="20250802130000 +0000" stop="20250802140000 +0000">
-		<title>2100 Hot Topics</title>
-		<desc>Don't miss the latest highlights and interviews from Taiwan and around the world.</desc>
+		<title>The Inflation Era</title>
+		<desc>Soaring prices, stagnant wages-Taiwan feels the squeeze of inflation. From baby formula to daily meals, TVBS investigates how rising costs are reshaping everyday life</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/808_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="808" start="20250802140000 +0000" stop="20250802150000 +0000">
@@ -29846,7 +29861,7 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="811" start="20250801153000 +0000" stop="20250801161300 +0000">
-		<title>Samurai Drama "Sinbei--A Samurai With a Child" Eps. 4 (R)</title>
+		<title>Samurai Drama Selections "Sinbei--A Samurai With a Child" Eps. 4 (R)</title>
 		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
@@ -30251,8 +30266,8 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250731223000 +0000" stop="20250731225000 +0000">
-		<title>NHK World TV Special Programme</title>
-		<desc>NHK World-Japan presents news, current affairs, and documentaries focusing on Japan and Asia.</desc>
+		<title>The A-Bomb Experience</title>
+		<desc>In a world with 10,000 nuclear weapons and endless conflict, what if an atomic bomb were dropped? This show visualises the A-bomb's impact through a man's testimony of being exposed in Hiroshima.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250731225000 +0000" stop="20250731230000 +0000">
@@ -30286,8 +30301,8 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250801013000 +0000" stop="20250801020000 +0000">
-		<title>NHK World TV Special Programme</title>
-		<desc>NHK World-Japan presents news, current affairs, and documentaries focusing on Japan and Asia.</desc>
+		<title>Iwata's Grandma</title>
+		<desc>Why does Iwata's grandma refuse to be in photos? This animation documentary is based on a picture book about the atomic bomb tragedy but conveys kindness and hope rather than fear and anxiety.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250801020000 +0000" stop="20250801023000 +0000">
@@ -30295,9 +30310,14 @@
 		<desc>NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="812" start="20250801023000 +0000" stop="20250801030000 +0000">
-		<title>NHK World Selection</title>
-		<desc>A selection of acclaimed programmes from NHK's domestic channels dubbed into English.</desc>
+	<programme channel="812" start="20250801023000 +0000" stop="20250801025000 +0000">
+		<title>Time-Lapse Journey</title>
+		<desc>The world comes alive in a different way after sunset, with bright city lights or the glow of a 24-hour industrial complex. See how the scenery changes through the night with time-lapse photography.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="812" start="20250801025000 +0000" stop="20250801030000 +0000">
+		<title>Nun's Seasonal Calendar</title>
+		<desc>In this episode, we learn about risshu and shosho, two dates of early autumn. The temple chefs show us how to prepare dishes using winter melon and share their recipe for a Japanese-style ratatouille.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250801030000 +0000" stop="20250801033000 +0000">
@@ -30307,7 +30327,7 @@
 	</programme>
 	<programme channel="812" start="20250801033000 +0000" stop="20250801040000 +0000">
 		<title>Japan Railway Journal</title>
-		<desc>Discover the secrets of Japan's railways, from the newest technologies and systems in use, to travel tips and must-see places.</desc>
+		<desc>Railway news from the first half of 2025 - from new technologies to farewell runs, join us as we take a look at the latest railway trends and major stories from across Japan.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250801040000 +0000" stop="20250801043000 +0000">
@@ -30336,8 +30356,8 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250801063000 +0000" stop="20250801070000 +0000">
-		<title>NHK World TV Special Programme</title>
-		<desc>NHK World-Japan presents news, current affairs, and documentaries focusing on Japan and Asia.</desc>
+		<title>Iwata's Grandma</title>
+		<desc>Why does Iwata's grandma refuse to be in photos? This animation documentary is based on a picture book about the atomic bomb tragedy but conveys kindness and hope rather than fear and anxiety.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250801070000 +0000" stop="20250801073000 +0000">
@@ -30345,9 +30365,14 @@
 		<desc>This daily news programme picks up the key news stories of the past 24 hours from Japan and around Asia.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="812" start="20250801073000 +0000" stop="20250801080000 +0000">
-		<title>NHK World Selection</title>
-		<desc>A selection of acclaimed programmes from NHK's domestic channels dubbed into English.</desc>
+	<programme channel="812" start="20250801073000 +0000" stop="20250801075000 +0000">
+		<title>Time-Lapse Journey</title>
+		<desc>The world comes alive in a different way after sunset, with bright city lights or the glow of a 24-hour industrial complex. See how the scenery changes through the night with time-lapse photography.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="812" start="20250801075000 +0000" stop="20250801080000 +0000">
+		<title>Nun's Seasonal Calendar</title>
+		<desc>In this episode, we learn about risshu and shosho, two dates of early autumn. The temple chefs show us how to prepare dishes using winter melon and share their recipe for a Japanese-style ratatouille.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250801080000 +0000" stop="20250801083000 +0000">
@@ -30367,7 +30392,7 @@
 	</programme>
 	<programme channel="812" start="20250801093000 +0000" stop="20250801100000 +0000">
 		<title>Japan Railway Journal</title>
-		<desc>Discover the secrets of Japan's railways, from the newest technologies and systems in use, to travel tips and must-see places.</desc>
+		<desc>Railway news from the first half of 2025 - from new technologies to farewell runs, join us as we take a look at the latest railway trends and major stories from across Japan.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250801100000 +0000" stop="20250801103000 +0000">
@@ -30406,8 +30431,8 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250801123000 +0000" stop="20250801130000 +0000">
-		<title>NHK World TV Special Programme</title>
-		<desc>NHK World-Japan presents news, current affairs, and documentaries focusing on Japan and Asia.</desc>
+		<title>Iwata's Grandma</title>
+		<desc>Why does Iwata's grandma refuse to be in photos? This animation documentary is based on a picture book about the atomic bomb tragedy but conveys kindness and hope rather than fear and anxiety.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250801130000 +0000" stop="20250801133000 +0000">
@@ -30415,9 +30440,14 @@
 		<desc>NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="812" start="20250801133000 +0000" stop="20250801140000 +0000">
-		<title>NHK World Selection</title>
-		<desc>A selection of acclaimed programmes from NHK's domestic channels dubbed into English.</desc>
+	<programme channel="812" start="20250801133000 +0000" stop="20250801135000 +0000">
+		<title>Time-Lapse Journey</title>
+		<desc>The world comes alive in a different way after sunset, with bright city lights or the glow of a 24-hour industrial complex. See how the scenery changes through the night with time-lapse photography.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="812" start="20250801135000 +0000" stop="20250801140000 +0000">
+		<title>Nun's Seasonal Calendar</title>
+		<desc>In this episode, we learn about risshu and shosho, two dates of early autumn. The temple chefs show us how to prepare dishes using winter melon and share their recipe for a Japanese-style ratatouille.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250801140000 +0000" stop="20250801143000 +0000">
@@ -30427,7 +30457,7 @@
 	</programme>
 	<programme channel="812" start="20250801143000 +0000" stop="20250801150000 +0000">
 		<title>Design X Stories</title>
-		<desc>Crafts, fashion, products, buildings and food: explore a diverse range of Japanese designs and the ideas and values of their creators as our presenters visit designers at work to reveal new stories.</desc>
+		<desc>EXPO 2025 Part 2 - Designing the Future: A two-part series on EXPO 2025 and its theme, Designing Future Society for Our Lives. Meet the people taking on challenges for a better future.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250801150000 +0000" stop="20250801153000 +0000">
@@ -30456,8 +30486,8 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250801173000 +0000" stop="20250801180000 +0000">
-		<title>NHK World TV Special Programme</title>
-		<desc>NHK World-Japan presents news, current affairs, and documentaries focusing on Japan and Asia.</desc>
+		<title>Iwata's Grandma</title>
+		<desc>Why does Iwata's grandma refuse to be in photos? This animation documentary is based on a picture book about the atomic bomb tragedy but conveys kindness and hope rather than fear and anxiety.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250801180000 +0000" stop="20250801182800 +0000">
@@ -30477,7 +30507,7 @@
 	</programme>
 	<programme channel="812" start="20250801185500 +0000" stop="20250801190000 +0000">
 		<title>Ukiyo-e Edo-Life</title>
-		<desc>Centuries ago, Tokyo was known as Edo - more than a million people enjoyed life in this city, and they live on in ukiyo-e woodblock prints. Take a deep dive into ukiyo-e and explore old Tokyo's soul.</desc>
+		<desc>Sudden Shower: Caught in an evening shower, Edo townspeople scramble across a bridge in search of shelter; on the river beyond, a lone figure steers his boat unfazed by the rain. Where is he going?</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250801190000 +0000" stop="20250801193000 +0000">
@@ -30485,9 +30515,14 @@
 		<desc>iPS cells are being used to treat eye diseases to address donor shortages. We explore advancements made in Japan, such as the transplantation of iPS cell-derived corneal cells and retinal sheets.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="812" start="20250801193000 +0000" stop="20250801200000 +0000">
-		<title>NHK World Selection</title>
-		<desc>A selection of acclaimed programmes from NHK's domestic channels dubbed into English.</desc>
+	<programme channel="812" start="20250801193000 +0000" stop="20250801195000 +0000">
+		<title>Time-Lapse Journey</title>
+		<desc>The world comes alive in a different way after sunset, with bright city lights or the glow of a 24-hour industrial complex. See how the scenery changes through the night with time-lapse photography.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="812" start="20250801195000 +0000" stop="20250801200000 +0000">
+		<title>Nun's Seasonal Calendar</title>
+		<desc>In this episode, we learn about risshu and shosho, two dates of early autumn. The temple chefs show us how to prepare dishes using winter melon and share their recipe for a Japanese-style ratatouille.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250801200000 +0000" stop="20250801203000 +0000">
@@ -30497,7 +30532,7 @@
 	</programme>
 	<programme channel="812" start="20250801203000 +0000" stop="20250801210000 +0000">
 		<title>Design X Stories</title>
-		<desc>Crafts, fashion, products, buildings and food: explore a diverse range of Japanese designs and the ideas and values of their creators as our presenters visit designers at work to reveal new stories.</desc>
+		<desc>EXPO 2025 Part 2 - Designing the Future: A two-part series on EXPO 2025 and its theme, Designing Future Society for Our Lives. Meet the people taking on challenges for a better future.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250801210000 +0000" stop="20250801213000 +0000">
@@ -30516,8 +30551,8 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250801223000 +0000" stop="20250801230000 +0000">
-		<title>NHK World TV Special Programme</title>
-		<desc>NHK World-Japan presents news, current affairs, and documentaries focusing on Japan and Asia.</desc>
+		<title>Iwata's Grandma</title>
+		<desc>Why does Iwata's grandma refuse to be in photos? This animation documentary is based on a picture book about the atomic bomb tragedy but conveys kindness and hope rather than fear and anxiety.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250801230000 +0000" stop="20250801231000 +0000">
@@ -30537,7 +30572,7 @@
 	</programme>
 	<programme channel="812" start="20250801233000 +0000" stop="20250802000000 +0000">
 		<title>Japanology Plus</title>
-		<desc>Deep dives into cultural phenomena with Peter Barakan, a bilingual British broadcaster based in Japan since 1974 - Peter discovers something new about Japan in every episode.</desc>
+		<desc>Johan Nordstrom, a film scholar from Sweden, specialises in early Japanese cinema - he tells us about movies from over a century ago and Japan's unique tradition of live narration for silent films.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250802000000 +0000" stop="20250802001000 +0000">
@@ -30556,8 +30591,8 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250802011000 +0000" stop="20250802015500 +0000">
-		<title>Broadcasters' Eye</title>
-		<desc>We bring you prestigious award-winning programmes produced by broadcasters across Japan in this series.</desc>
+		<title>No More Hibakusha No More Nagasaki</title>
+		<desc>This film follows the lives and words of three people - two atomic bomb survivors and a young ally - to convey a powerful wish: make Nagasaki the last place to experience the horrors of the atom bomb.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250802015500 +0000" stop="20250802020000 +0000">
@@ -30571,13 +30606,13 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250802021000 +0000" stop="20250802025500 +0000">
-		<title>Train Cruise</title>
-		<desc>Criss-cross Japan by rail - enjoy an amazing diversity of nature and scenery across the four seasons, exploring both the well-known and the hidden Japan.</desc>
+		<title>Hiroshima's Streetcars of Peace</title>
+		<desc>The streetcar that survived the atom bomb and still runs today is a symbol of Hiroshima's recovery - travel 20km to visit two UNESCO World Heritage Sites, the Atomic Bomb Dome and Itsukushima Jinja.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250802025500 +0000" stop="20250802030000 +0000">
 		<title>Japanology Plus mini</title>
-		<desc>NHK World-Japan presents a variety of short programmes focusing on Japan and Asia.</desc>
+		<desc>Japanology Plus' explores Japanese life and culture - in this digest, we look at the significance of cats in Japan.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250802030000 +0000" stop="20250802031000 +0000">
@@ -30587,7 +30622,7 @@
 	</programme>
 	<programme channel="812" start="20250802031000 +0000" stop="20250802034000 +0000">
 		<title>Design X Stories</title>
-		<desc>Crafts, fashion, products, buildings and food: explore a diverse range of Japanese designs and the ideas and values of their creators as our presenters visit designers at work to reveal new stories.</desc>
+		<desc>EXPO 2025 Part 2 - Designing the Future: A two-part series on EXPO 2025 and its theme, Designing Future Society for Our Lives. Meet the people taking on challenges for a better future.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250802034000 +0000" stop="20250802035000 +0000">
@@ -30606,13 +30641,13 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250802041000 +0000" stop="20250802044000 +0000">
-		<title>Time and Tide</title>
-		<desc>This programme transcends time to detail extraordinary historical events in Japan and the world - join NHK World-Japan on a journey that reveals the truth behind some of the turning points of history.</desc>
+		<title>Samurai Castles</title>
+		<desc>A castle 200km north of Tokyo was a battleground in Japan's last civil war in the mid-19th century - modern warfare did not bring it down. We look at the secrets to the its strengths and its lords.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250802044000 +0000" stop="20250802050000 +0000">
 		<title>My Street Piano</title>
-		<desc>NHK World-Japan presents a variety of short programmes focusing on Japan and Asia.</desc>
+		<desc>Kanazawa City in Ishikawa Prefecture is a known castle town - in one commercial area sits a piano which passers-by love to visit and play from the heart.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250802050000 +0000" stop="20250802051000 +0000">
@@ -30621,8 +30656,8 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250802051000 +0000" stop="20250802053500 +0000">
-		<title>NHK World TV Special Programme</title>
-		<desc>NHK World-Japan presents news, current affairs, and documentaries focusing on Japan and Asia.</desc>
+		<title>Message to the Future</title>
+		<desc>PORNOGRAFFITTI make a song for NHK Hiroshima to convey efforts for peace 80 years on from its atomic bombing; we cover their struggle, from meeting survivors who inspire the lyrics to its recording.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250802053500 +0000" stop="20250802054000 +0000">
@@ -30632,12 +30667,12 @@
 	</programme>
 	<programme channel="812" start="20250802054000 +0000" stop="20250802055500 +0000">
 		<title>Bosai: Science That Can Save Your Life</title>
-		<desc>Japan has a long history of natural disasters - Bosai explores how to overcome them and save lives with the power of science.</desc>
+		<desc>Mount Fuji's Threat to Tokyo: Mount Fuji is known for its repeated eruptions - after 300 years of silence, we can expect another eruption soon. Learn how to protect yourself from volcanic disasters.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250802055500 +0000" stop="20250802060000 +0000">
-		<title>Short Programme</title>
-		<desc>NHK World-Japan presents a variety of short programmes focusing on Japan and Asia.</desc>
+		<title>Designer-Less Design</title>
+		<desc>Graphic designer Kikuchi Atsuki is drawn to enamelware that reflects the creators' own instincts - he talks about the appeal of designs made and used by the same person.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250802060000 +0000" stop="20250802061000 +0000">
@@ -30656,8 +30691,8 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250802071000 +0000" stop="20250802075500 +0000">
-		<title>Broadcasters' Eye</title>
-		<desc>We bring you prestigious award-winning programmes produced by broadcasters across Japan in this series.</desc>
+		<title>No More Hibakusha No More Nagasaki</title>
+		<desc>This film follows the lives and words of three people - two atomic bomb survivors and a young ally - to convey a powerful wish: make Nagasaki the last place to experience the horrors of the atom bomb.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250802075500 +0000" stop="20250802080000 +0000">
@@ -30671,13 +30706,13 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250802081000 +0000" stop="20250802084000 +0000">
-		<title>Time and Tide</title>
-		<desc>This programme transcends time to detail extraordinary historical events in Japan and the world - join NHK World-Japan on a journey that reveals the truth behind some of the turning points of history.</desc>
+		<title>Samurai Castles</title>
+		<desc>A castle 200km north of Tokyo was a battleground in Japan's last civil war in the mid-19th century - modern warfare did not bring it down. We look at the secrets to the its strengths and its lords.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250802084000 +0000" stop="20250802090000 +0000">
 		<title>My Street Piano</title>
-		<desc>NHK World-Japan presents a variety of short programmes focusing on Japan and Asia.</desc>
+		<desc>Kanazawa City in Ishikawa Prefecture is a known castle town - in one commercial area sits a piano which passers-by love to visit and play from the heart.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250802090000 +0000" stop="20250802091000 +0000">
@@ -30687,7 +30722,7 @@
 	</programme>
 	<programme channel="812" start="20250802091000 +0000" stop="20250802094000 +0000">
 		<title>Design X Stories</title>
-		<desc>Crafts, fashion, products, buildings and food: explore a diverse range of Japanese designs and the ideas and values of their creators as our presenters visit designers at work to reveal new stories.</desc>
+		<desc>EXPO 2025 Part 2 - Designing the Future: A two-part series on EXPO 2025 and its theme, Designing Future Society for Our Lives. Meet the people taking on challenges for a better future.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250802094000 +0000" stop="20250802095000 +0000">
@@ -30706,13 +30741,13 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250802101000 +0000" stop="20250802105500 +0000">
-		<title>Train Cruise</title>
-		<desc>Criss-cross Japan by rail - enjoy an amazing diversity of nature and scenery across the four seasons, exploring both the well-known and the hidden Japan.</desc>
+		<title>Hiroshima's Streetcars of Peace</title>
+		<desc>The streetcar that survived the atom bomb and still runs today is a symbol of Hiroshima's recovery - travel 20km to visit two UNESCO World Heritage Sites, the Atomic Bomb Dome and Itsukushima Jinja.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250802105500 +0000" stop="20250802110000 +0000">
 		<title>Japanology Plus mini</title>
-		<desc>NHK World-Japan presents a variety of short programmes focusing on Japan and Asia.</desc>
+		<desc>Japanology Plus' explores Japanese life and culture - in this digest, we look at the significance of cats in Japan.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250802110000 +0000" stop="20250802111000 +0000">
@@ -30721,8 +30756,8 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250802111000 +0000" stop="20250802113500 +0000">
-		<title>NHK World TV Special Programme</title>
-		<desc>NHK World-Japan presents news, current affairs, and documentaries focusing on Japan and Asia.</desc>
+		<title>Message to the Future</title>
+		<desc>PORNOGRAFFITTI make a song for NHK Hiroshima to convey efforts for peace 80 years on from its atomic bombing; we cover their struggle, from meeting survivors who inspire the lyrics to its recording.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250802113500 +0000" stop="20250802114000 +0000">
@@ -30732,12 +30767,12 @@
 	</programme>
 	<programme channel="812" start="20250802114000 +0000" stop="20250802115500 +0000">
 		<title>Bosai: Science That Can Save Your Life</title>
-		<desc>Japan has a long history of natural disasters - Bosai explores how to overcome them and save lives with the power of science.</desc>
+		<desc>Mount Fuji's Threat to Tokyo: Mount Fuji is known for its repeated eruptions - after 300 years of silence, we can expect another eruption soon. Learn how to protect yourself from volcanic disasters.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250802115500 +0000" stop="20250802120000 +0000">
-		<title>Short Programme</title>
-		<desc>NHK World-Japan presents a variety of short programmes focusing on Japan and Asia.</desc>
+		<title>Designer-Less Design</title>
+		<desc>Graphic designer Kikuchi Atsuki is drawn to enamelware that reflects the creators' own instincts - he talks about the appeal of designs made and used by the same person.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250802120000 +0000" stop="20250802121000 +0000">
@@ -30756,8 +30791,8 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250802131000 +0000" stop="20250802135500 +0000">
-		<title>Broadcasters' Eye</title>
-		<desc>We bring you prestigious award-winning programmes produced by broadcasters across Japan in this series.</desc>
+		<title>No More Hibakusha No More Nagasaki</title>
+		<desc>This film follows the lives and words of three people - two atomic bomb survivors and a young ally - to convey a powerful wish: make Nagasaki the last place to experience the horrors of the atom bomb.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250802135500 +0000" stop="20250802140000 +0000">
@@ -30772,7 +30807,7 @@
 	</programme>
 	<programme channel="812" start="20250802141000 +0000" stop="20250802144000 +0000">
 		<title>Biz Stream</title>
-		<desc>This programme focuses on the latest Japanese business trends, corporate strategies and technologies - we look behind the scenes and discuss their global impact from various perspectives.</desc>
+		<desc>From finding business successors to preserving prized recipes, this episode focuses on ensuring the survival of companies and products that are at risk of disappearing.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250802144000 +0000" stop="20250802145000 +0000">
@@ -30791,13 +30826,13 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250802151000 +0000" stop="20250802155500 +0000">
-		<title>Train Cruise</title>
-		<desc>Criss-cross Japan by rail - enjoy an amazing diversity of nature and scenery across the four seasons, exploring both the well-known and the hidden Japan.</desc>
+		<title>Hiroshima's Streetcars of Peace</title>
+		<desc>The streetcar that survived the atom bomb and still runs today is a symbol of Hiroshima's recovery - travel 20km to visit two UNESCO World Heritage Sites, the Atomic Bomb Dome and Itsukushima Jinja.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250802155500 +0000" stop="20250802160000 +0000">
 		<title>Japanology Plus mini</title>
-		<desc>NHK World-Japan presents a variety of short programmes focusing on Japan and Asia.</desc>
+		<desc>Japanology Plus' explores Japanese life and culture - in this digest, we look at the significance of cats in Japan.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="815" start="20250731154000 +0000" stop="20250731165500 +0000">
