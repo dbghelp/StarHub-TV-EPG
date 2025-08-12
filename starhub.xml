@@ -200,9 +200,17 @@
 		<display-name>Hub Premier 2 (HD)</display-name>
 		<icon src="https://poster.starhubgo.com/Linear_Channels2/222_1920x1080_HTV.png?w=272" />
 	</channel>
+	<channel id="223">
+		<display-name>Hub Premier 3</display-name>
+		<icon src="https://poster.starhubgo.com/Linear_Channels2/223_1920x1080_HTV.png?w=272" />
+	</channel>
 	<channel id="224">
 		<display-name>Hub Premier 4</display-name>
 		<icon src="https://poster.starhubgo.com/Linear_Channels2/224_1920x1080_HTV.png?w=272" />
+	</channel>
+	<channel id="228">
+		<display-name>Hub Premier 8</display-name>
+		<icon src="https://poster.starhubgo.com/Linear_Channels2/228_1920x1080_HTV.png?w=272" />
 	</channel>
 	<channel id="232">
 		<display-name>Hub Premier 2 (4K)</display-name>
@@ -729,17 +737,17 @@
 		<desc>From how to cook fish perfectly to balancing flavours and reimagining leftovers to save money and reduce waste, the new series will see Mark share a whole new set of recipes.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="102" start="20250812100000 +0000" stop="20250812110000 +0000">
+	<programme channel="102" start="20250812100000 +0000" stop="20250812105500 +0000">
 		<title>Lingo UK S3 - EP 13</title>
 		<desc>Lingo is the fast paced word-play game that keeps on innovating for new audiences, with its mix of skill, tension, humour and the chance to win big cash prizes. Teams are pitted against each other in a battle to fill in the blanks and find words.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="102" start="20250812110000 +0000" stop="20250812113000 +0000">
+	<programme channel="102" start="20250812105500 +0000" stop="20250812112000 +0000">
 		<title>Wheel Of Fortune S41 - EP 8003</title>
 		<desc>Pat Sajak hosts his final season of Wheel of Fortune.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="102" start="20250812113000 +0000" stop="20250812123000 +0000">
+	<programme channel="102" start="20250812112000 +0000" stop="20250812123000 +0000">
 		<title>The Maverick Academy - EP 3</title>
 		<desc>The Maverick Academy is an exciting new series that celebrates the passion and resilience of aspiring chef entrepreneurs across Asia. Guided by esteemed Michelin chef Alvin Leung, witness the transformative journey of eight talented individuals.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png?w=341&amp;h=192" />
@@ -1581,11 +1589,11 @@
 	</programme>
 	<programme channel="104" start="20250813123000 +0000" stop="20250813130000 +0000">
 		<title>Detik Semasa - EP 10</title>
-		<desc>The program analyses and dissect issues of concern to the Malay/Muslim Singaporeans - be it at the community level, national, regional or global. Apart from raising awareness, each DETIK episode hopes to set viewers thinking and make informed decisions on matters that can impact their lives.</desc>
+		<desc>DETIK explores whether Singapore is still a "paper chase" society. With the emergence of AI and current job market, should Singaporeans be more inclined to gain specific set of skills to make them relevant and irreplacable. We dive into whether the pursuit of qualifications continue to shape career aspirations in today’s society.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/104_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="104" start="20250813130000 +0000" stop="20250813133000 +0000">
-		<title>Di Sini Di Suatu Masa - EP 1</title>
+		<title>Di Sini, Pada Suatu Masa - EP 1</title>
 		<desc>Di Sini Di Suatu Masa is an info-ed series where we unearth stories of Malay neighbourhoods of yesteryears. We go on a journey to discover the historical blueprint of some of our neighbourhoods and trace it to the present. The focus of the series is the Malay enclaves that past generations of the community called home.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/104_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
@@ -5006,17 +5014,17 @@
 	</programme>
 	<programme channel="128" start="20250813043000 +0000" stop="20250813050000 +0000">
 		<title>Parineetii - EP 1204</title>
-		<desc>Fate plays a cruel trick on two best friends by tying their heartstrings to the same man.</desc>
+		<desc>Neeti hits Nisha for carelessness as the guests fall sick due to the food poisoned by her.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch128_parineetii.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="128" start="20250813050000 +0000" stop="20250813053000 +0000">
 		<title>Dhaakad Beera - EP 20</title>
-		<desc>A young boy vows to safeguard his little sister against societal oppression.</desc>
+		<desc>Bawridevi threatens to kill Bela's father if she doesn't comply with her demands.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch128_dhaakad_beera.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="128" start="20250813053000 +0000" stop="20250813060000 +0000">
 		<title>Mannat Harr Khushi Paane Ki - EP 157</title>
-		<desc>Chef Mannat's dreams clash with her employer, who is her secret birth mother and nemesis.</desc>
+		<desc>Mannat firmly determines to lodge a police report against Anirudh but Aish refuses.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch128_mannat_harr_khushi_paane_ki.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="128" start="20250813060000 +0000" stop="20250813063000 +0000">
@@ -5026,17 +5034,17 @@
 	</programme>
 	<programme channel="128" start="20250813063000 +0000" stop="20250813070000 +0000">
 		<title>Noyontara - EP 65</title>
-		<desc>Noyontara's spirit-seeing gift reveals veiled mysteries and family secrets.</desc>
+		<desc>When Surjo forgets the date of Shaoli's birthday, he feels regretful.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch128_colors_logo.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="128" start="20250813070000 +0000" stop="20250813080000 +0000">
 		<title>Mangal Lakshmi - EP 532</title>
-		<desc>Mangal sets off on a journey to find an ideal match for Lakshmi.</desc>
+		<desc>Mangal tells Kapil she would never doubt him but another false marriage will shatter her.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch128_mangal_lakshmi.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="128" start="20250813080000 +0000" stop="20250813083000 +0000">
 		<title>Manpasand Ki Shaadi - EP 2</title>
-		<desc>Aarohi spots Abhishek and believes he's the one she is supposed to marry.</desc>
+		<desc>Aarohi, with only a month to select a groom, sets up a dating profile on the internet.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch128_colors_logo.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="128" start="20250813083000 +0000" stop="20250813090000 +0000">
@@ -5061,17 +5069,17 @@
 	</programme>
 	<programme channel="128" start="20250813103000 +0000" stop="20250813110000 +0000">
 		<title>Parineetii - EP 1204</title>
-		<desc>Fate plays a cruel trick on two best friends by tying their heartstrings to the same man.</desc>
+		<desc>Neeti hits Nisha for carelessness as the guests fall sick due to the food poisoned by her.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch128_parineetii.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="128" start="20250813110000 +0000" stop="20250813113000 +0000">
 		<title>Dhaakad Beera - EP 20</title>
-		<desc>A young boy vows to safeguard his little sister against societal oppression.</desc>
+		<desc>Bawridevi threatens to kill Bela's father if she doesn't comply with her demands.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch128_dhaakad_beera.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="128" start="20250813113000 +0000" stop="20250813120000 +0000">
 		<title>Mannat Harr Khushi Paane Ki - EP 157</title>
-		<desc>Chef Mannat's dreams clash with her employer, who is her secret birth mother and nemesis.</desc>
+		<desc>Mannat firmly determines to lodge a police report against Anirudh but Aish refuses.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch128_mannat_harr_khushi_paane_ki.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="128" start="20250813120000 +0000" stop="20250813123000 +0000">
@@ -5081,32 +5089,32 @@
 	</programme>
 	<programme channel="128" start="20250813123000 +0000" stop="20250813130000 +0000">
 		<title>Noyontara - EP 65</title>
-		<desc>Noyontara's spirit-seeing gift reveals veiled mysteries and family secrets.</desc>
+		<desc>When Surjo forgets the date of Shaoli's birthday, he feels regretful.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch128_colors_logo.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="128" start="20250813130000 +0000" stop="20250813140000 +0000">
 		<title>Mangal Lakshmi - EP 532</title>
-		<desc>Mangal sets off on a journey to find an ideal match for Lakshmi.</desc>
+		<desc>Mangal tells Kapil she would never doubt him but another false marriage will shatter her.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch128_mangal_lakshmi.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="128" start="20250813140000 +0000" stop="20250813143000 +0000">
 		<title>Manpasand Ki Shaadi - EP 2</title>
-		<desc>Aarohi spots Abhishek and believes he's the one she is supposed to marry.</desc>
+		<desc>Aarohi, with only a month to select a groom, sets up a dating profile on the internet.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch128_colors_logo.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="128" start="20250813143000 +0000" stop="20250813150000 +0000">
 		<title>Mannat Harr Khushi Paane Ki - EP 157</title>
-		<desc>Chef Mannat's dreams clash with her employer, who is her secret birth mother and nemesis.</desc>
+		<desc>Mannat firmly determines to lodge a police report against Anirudh but Aish refuses.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch128_mannat_harr_khushi_paane_ki.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="128" start="20250813150000 +0000" stop="20250813153000 +0000">
 		<title>Dhaakad Beera - EP 20</title>
-		<desc>A young boy vows to safeguard his little sister against societal oppression.</desc>
+		<desc>Bawridevi threatens to kill Bela's father if she doesn't comply with her demands.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch128_dhaakad_beera.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="128" start="20250813153000 +0000" stop="20250813160000 +0000">
 		<title>Noyontara - EP 65</title>
-		<desc>Noyontara's spirit-seeing gift reveals veiled mysteries and family secrets.</desc>
+		<desc>When Surjo forgets the date of Shaoli's birthday, he feels regretful.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch128_colors_logo.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="130" start="20250811160000 +0000" stop="20250811190000 +0000">
@@ -10514,22 +10522,22 @@
 		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_Channels2/204_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="204" start="20250812220000 +0000" stop="20250813001500 +0000">
+	<programme channel="204" start="20250812220000 +0000" stop="20250812231500 +0000">
 		<title>End of Transmission</title>
 		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_Channels2/204_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="204" start="20250813001500 +0000" stop="20250813042000 +0000">
+	<programme channel="204" start="20250812231500 +0000" stop="20250813032000 +0000">
 		<title>TATA Indian Premier League 2025: M38 - Mumbai Indians vs Chennai Super Kings</title>
 		<desc>The 2025 Indian Premier League, a franchise Twenty20 cricket league held in India, returns for the 18th year, and will feature ten teams competing in 74 matches from 14 March to 25 May 2025.</desc>
 		<icon src="https://poster.starhubgo.com/poster/IPL2025_M38.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="204" start="20250813042000 +0000" stop="20250813072000 +0000">
+	<programme channel="204" start="20250813032000 +0000" stop="20250813063500 +0000">
 		<title>The Hundred Women 2025: M09 - MO vs LS</title>
 		<desc>The 2025 The Hundred season will be the fifth season of The Hundred, a professional franchise 100-ball cricket tournament involving eight women's teams located in major cities across United Kingdom.</desc>
 		<icon src="https://poster.starhubgo.com/poster/TH2025.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="204" start="20250813072000 +0000" stop="20250813101500 +0000">
+	<programme channel="204" start="20250813063500 +0000" stop="20250813101500 +0000">
 		<title>The Hundred Men 2025: M09 - MO vs LS</title>
 		<desc>The 2025 The Hundred season will be the fifth season of The Hundred, a professional franchise 100-ball cricket tournament involving eight men's teams located in major cities across United Kingdom.</desc>
 		<icon src="https://poster.starhubgo.com/poster/TH2025.jpg?w=960&amp;h=540" />
@@ -12189,6 +12197,46 @@
 		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_Channels2/222_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
+	<programme channel="223" start="20250811160000 +0000" stop="20250811220000 +0000">
+		<title>End of Transmission</title>
+		<desc />
+		<icon src="https://poster.starhubgo.com/Linear_Channels2/223_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="223" start="20250811220000 +0000" stop="20250812040000 +0000">
+		<title>End of Transmission</title>
+		<desc />
+		<icon src="https://poster.starhubgo.com/Linear_Channels2/223_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="223" start="20250812040000 +0000" stop="20250812100000 +0000">
+		<title>End of Transmission</title>
+		<desc />
+		<icon src="https://poster.starhubgo.com/Linear_Channels2/223_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="223" start="20250812100000 +0000" stop="20250812160000 +0000">
+		<title>End of Transmission</title>
+		<desc />
+		<icon src="https://poster.starhubgo.com/Linear_Channels2/223_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="223" start="20250812160000 +0000" stop="20250812220000 +0000">
+		<title>End of Transmission</title>
+		<desc />
+		<icon src="https://poster.starhubgo.com/Linear_Channels2/223_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="223" start="20250812220000 +0000" stop="20250813040000 +0000">
+		<title>End of Transmission</title>
+		<desc />
+		<icon src="https://poster.starhubgo.com/Linear_Channels2/223_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="223" start="20250813040000 +0000" stop="20250813100000 +0000">
+		<title>End of Transmission</title>
+		<desc />
+		<icon src="https://poster.starhubgo.com/Linear_Channels2/223_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="223" start="20250813100000 +0000" stop="20250813160000 +0000">
+		<title>End of Transmission</title>
+		<desc />
+		<icon src="https://poster.starhubgo.com/Linear_Channels2/223_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
 	<programme channel="224" start="20250811160000 +0000" stop="20250811220000 +0000">
 		<title>End of Transmission</title>
 		<desc />
@@ -12228,6 +12276,46 @@
 		<title>End of Transmission</title>
 		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_Channels2/224_1920x1080_HTV.png?w=960&amp;h=540" />
+	</programme>
+	<programme channel="228" start="20250811160000 +0000" stop="20250811220000 +0000">
+		<title>End of Transmission</title>
+		<desc />
+		<icon src="https://poster.starhubgo.com/Linear_Channels2/228_1920x1080_HTV.png?w=960&amp;h=540" />
+	</programme>
+	<programme channel="228" start="20250811220000 +0000" stop="20250812040000 +0000">
+		<title>End of Transmission</title>
+		<desc />
+		<icon src="https://poster.starhubgo.com/Linear_Channels2/228_1920x1080_HTV.png?w=960&amp;h=540" />
+	</programme>
+	<programme channel="228" start="20250812040000 +0000" stop="20250812100000 +0000">
+		<title>End of Transmission</title>
+		<desc />
+		<icon src="https://poster.starhubgo.com/Linear_Channels2/228_1920x1080_HTV.png?w=960&amp;h=540" />
+	</programme>
+	<programme channel="228" start="20250812100000 +0000" stop="20250812160000 +0000">
+		<title>End of Transmission</title>
+		<desc />
+		<icon src="https://poster.starhubgo.com/Linear_Channels2/228_1920x1080_HTV.png?w=960&amp;h=540" />
+	</programme>
+	<programme channel="228" start="20250812160000 +0000" stop="20250812220000 +0000">
+		<title>End of Transmission</title>
+		<desc />
+		<icon src="https://poster.starhubgo.com/Linear_Channels2/228_1920x1080_HTV.png?w=960&amp;h=540" />
+	</programme>
+	<programme channel="228" start="20250812220000 +0000" stop="20250813040000 +0000">
+		<title>End of Transmission</title>
+		<desc />
+		<icon src="https://poster.starhubgo.com/Linear_Channels2/228_1920x1080_HTV.png?w=960&amp;h=540" />
+	</programme>
+	<programme channel="228" start="20250813040000 +0000" stop="20250813100000 +0000">
+		<title>End of Transmission</title>
+		<desc />
+		<icon src="https://poster.starhubgo.com/Linear_Channels2/228_1920x1080_HTV.png?w=960&amp;h=540" />
+	</programme>
+	<programme channel="228" start="20250813100000 +0000" stop="20250813160000 +0000">
+		<title>End of Transmission</title>
+		<desc />
+		<icon src="https://poster.starhubgo.com/Linear_Channels2/228_1920x1080_HTV.png?w=960&amp;h=540" />
 	</programme>
 	<programme channel="232" start="20250811160000 +0000" stop="20250811220000 +0000">
 		<title>End of Transmission</title>
@@ -33559,10 +33647,15 @@
 		<desc>The show invites younger generations to talk about relationship, career, entertainment, current affairs, and all the other popular topics that they care and complain about.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch828_chop_chop_show.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="828" start="20250812160000 +0000" stop="20250812180000 +0000">
-		<title>Shao Kang's War Room</title>
-		<desc>Shao Kang's War Room is a Talkshow hosted by Zhao Shao Kang. This programme combines TVBS News source and Mr. Zhao's rich political and media background, to analyse important news deeply.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch828_shao_kang's_war_room.jpg?w=341&amp;h=192" />
+	<programme channel="828" start="20250812160000 +0000" stop="20250812170000 +0000">
+		<title>Global Focus</title>
+		<desc>Bringing you the latest political, economy, information technology and breaking news around the world.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch828_global_focus.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="828" start="20250812170000 +0000" stop="20250812180000 +0000">
+		<title>All About Health</title>
+		<desc>How well do you know your body? What should you eat to be healthy and energetic? Are health tips available online reliable? Tune in to this programme as the hosts give you all the answers!</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch828_all_about_health.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="828" start="20250812180000 +0000" stop="20250812190000 +0000">
 		<title>Global Golden Line</title>
@@ -33595,9 +33688,9 @@
 		<icon src="https://poster.starhubgo.com/poster/ch828_all_about_health.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="828" start="20250813000000 +0000" stop="20250813010000 +0000">
-		<title>Shao Kang's War Room</title>
-		<desc>Shao Kang's War Room is a Talkshow hosted by Zhao Shao Kang. This programme combines TVBS News source and Mr. Zhao's rich political and media background, to analyse important news deeply.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch828_shao_kang's_war_room.jpg?w=341&amp;h=192" />
+		<title>Global Golden Line</title>
+		<desc>It is the first professional reality car show, providing concrete evaluations of cars on the market, the deepest appreciation for classic cars, the hottest trends in the motoring world, and analysis of the latest auto tech trends.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch828_golden_global_line.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="828" start="20250813010000 +0000" stop="20250813020000 +0000">
 		<title>Queen</title>
@@ -35484,10 +35577,15 @@
 		<desc>The show invites younger generations to talk about relationship, career, entertainment, current affairs, and all the other popular topics that they care and complain about.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch828_chop_chop_show.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="993" start="20250812160000 +0000" stop="20250812180000 +0000">
-		<title>Shao Kang's War Room</title>
-		<desc>Shao Kang's War Room is a Talkshow hosted by Zhao Shao Kang. This programme combines TVBS News source and Mr. Zhao's rich political and media background, to analyse important news deeply.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch828_shao_kang's_war_room.jpg?w=341&amp;h=192" />
+	<programme channel="993" start="20250812160000 +0000" stop="20250812170000 +0000">
+		<title>Global Focus</title>
+		<desc>Bringing you the latest political, economy, information technology and breaking news around the world.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch828_global_focus.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="993" start="20250812170000 +0000" stop="20250812180000 +0000">
+		<title>All About Health</title>
+		<desc>How well do you know your body? What should you eat to be healthy and energetic? Are health tips available online reliable? Tune in to this programme as the hosts give you all the answers!</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch828_all_about_health.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="993" start="20250812180000 +0000" stop="20250812190000 +0000">
 		<title>Global Golden Line</title>
@@ -35520,9 +35618,9 @@
 		<icon src="https://poster.starhubgo.com/poster/ch828_all_about_health.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="993" start="20250813000000 +0000" stop="20250813010000 +0000">
-		<title>Shao Kang's War Room</title>
-		<desc>Shao Kang's War Room is a Talkshow hosted by Zhao Shao Kang. This programme combines TVBS News source and Mr. Zhao's rich political and media background, to analyse important news deeply.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch828_shao_kang's_war_room.jpg?w=341&amp;h=192" />
+		<title>Global Golden Line</title>
+		<desc>It is the first professional reality car show, providing concrete evaluations of cars on the market, the deepest appreciation for classic cars, the hottest trends in the motoring world, and analysis of the latest auto tech trends.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch828_golden_global_line.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="993" start="20250813010000 +0000" stop="20250813020000 +0000">
 		<title>Queen</title>
