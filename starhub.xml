@@ -2074,7 +2074,7 @@
 	</programme>
 	<programme channel="106" start="20250814130000 +0000" stop="20250814140000 +0000">
 		<title>Insight - EP 17</title>
-		<desc>Insight investigates and analyses topical issues that impact Asia and the rest of the world._x000D_</desc>
+		<desc>On Aug 12, President Trump approved the extension of the trade truce between US and China for another 90 days, keeping tariffs from skyrocketing for now. Can China outlast the US in trade tensions?</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="106" start="20250814140000 +0000" stop="20250814150000 +0000">
@@ -4684,7 +4684,7 @@
 	</programme>
 	<programme channel="128" start="20250812173000 +0000" stop="20250812180000 +0000">
 		<title>Shiv-Shakti Tap..Tyaag..Tandav - EP 778</title>
-		<desc>Lord Shiva and Goddess Paravati navigate their union and perform duties for humanity.</desc>
+		<desc>Malla discovers Mhalsa and Martand digging on the mountainside.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch128_shiv_shakti_tap_tyaag_tandav.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="128" start="20250812180000 +0000" stop="20250812183000 +0000">
@@ -4729,7 +4729,7 @@
 	</programme>
 	<programme channel="128" start="20250812222000 +0000" stop="20250812225000 +0000">
 		<title>Shiv-Shakti Tap..Tyaag..Tandav - EP 778</title>
-		<desc>Lord Shiva and Goddess Paravati navigate their union and perform duties for humanity.</desc>
+		<desc>Malla discovers Mhalsa and Martand digging on the mountainside.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch128_shiv_shakti_tap_tyaag_tandav.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="128" start="20250812225000 +0000" stop="20250812232000 +0000">
@@ -4979,7 +4979,7 @@
 	</programme>
 	<programme channel="128" start="20250814020000 +0000" stop="20250814023000 +0000">
 		<title>Shiv-Shakti Tap..Tyaag..Tandav - EP 779</title>
-		<desc>Lord Shiva and Goddess Paravati navigate their union and perform duties for humanity.</desc>
+		<desc>Malla conducts a sinister ritual on Martand during his mountain excavation.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch128_shiv_shakti_tap_tyaag_tandav.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="128" start="20250814023000 +0000" stop="20250814030000 +0000">
@@ -6195,7 +6195,7 @@
 	<programme channel="135" start="20250812203000 +0000" stop="20250812210000 +0000">
 		<title>Magale En Marumagale - EP 2</title>
 		<desc>Magale En Marumagale</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch135_vijaylogo.jpg?w=960&amp;h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch135_magale_en_marumagale.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="135" start="20250812210000 +0000" stop="20250812213000 +0000">
 		<title>Dhanam - Ungalil Oruthi - EP 150</title>
@@ -6295,7 +6295,7 @@
 	<programme channel="135" start="20250813083000 +0000" stop="20250813090000 +0000">
 		<title>Magale En Marumagale - EP 3</title>
 		<desc>Magale En Marumagale</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch135_vijaylogo.jpg?w=960&amp;h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch135_magale_en_marumagale.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="135" start="20250813090000 +0000" stop="20250813093000 +0000">
 		<title>Dhanam - Ungalil Oruthi - EP 151</title>
@@ -6405,7 +6405,7 @@
 	<programme channel="135" start="20250813203000 +0000" stop="20250813210000 +0000">
 		<title>Magale En Marumagale - EP 3</title>
 		<desc>Magale En Marumagale</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch135_vijaylogo.jpg?w=960&amp;h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch135_magale_en_marumagale.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="135" start="20250813210000 +0000" stop="20250813213000 +0000">
 		<title>Dhanam - Ungalil Oruthi - EP 151</title>
@@ -6505,7 +6505,7 @@
 	<programme channel="135" start="20250814083000 +0000" stop="20250814090000 +0000">
 		<title>Magale En Marumagale - EP 4</title>
 		<desc>Magale En Marumagale</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch135_vijaylogo.jpg?w=960&amp;h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch135_magale_en_marumagale.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="135" start="20250814090000 +0000" stop="20250814093000 +0000">
 		<title>Dhanam - Ungalil Oruthi - EP 152</title>
@@ -11187,6 +11187,11 @@
 		<desc>beIN SPORTS brings you coverage from the 18th edition of the U-20 Africa Cup of Nations hosted by Ivory Coast. The biennial African international youth football tournament organized by the Confederation of African Football.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch213_u20_africa_cup_of_nations_egypt_2025.jpg?w=341&amp;h=192" />
 	</programme>
+	<programme channel="213" start="20250814024000 +0000" stop="20250814031000 +0000">
+		<title>LaLiga Specials 2024/25</title>
+		<desc>beIN Sports brings you exclusive programming from Spain's LaLiga, featuring some of the biggest clubs and players in world football.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch213_laliga_specials.jpg?w=960&amp;h=540" />
+	</programme>
 	<programme channel="213" start="20250814031000 +0000" stop="20250814034000 +0000">
 		<title>LaLiga Specials 2024/25</title>
 		<desc>beIN Sports brings you exclusive programming from Spain's LaLiga, featuring some of the biggest clubs and players in world football.</desc>
@@ -11195,7 +11200,7 @@
 	<programme channel="213" start="20250814034000 +0000" stop="20250814061500 +0000">
 		<title>LaLiga 2 Playoffs 2024/25: Real Oviedo vs Mirandes</title>
 		<desc>Extensive coverage from LaLiga 2, Spain's second division of football.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch213_laliga_2.jpg?w=960&amp;h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch213_laliga_2_playoffs.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="213" start="20250814061500 +0000" stop="20250814063000 +0000">
 		<title>LaLiga Match Highlights 2024/25 Girona vs Athletic Bilbao</title>
@@ -11253,7 +11258,7 @@
 		<icon src="https://poster.starhubgo.com/poster/ch213_fastzone.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="214" start="20250812160000 +0000" stop="20250812163000 +0000">
-		<title>Mini Match - UEFA Europa League 2024/25: AZ Alkmaar vs Roma - MD7</title>
+		<title>Mini Match - UEFA Europa League 2024/25 AZ Alkmaar vs Roma - MD7</title>
 		<desc>Watch every round of the UEL as Europe's top clubs battle it out for the coveted prize at the San Mames Stadium, Bilbao</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch214_UEL_mini_match.jpg?w=960&amp;h=540" />
 	</programme>
@@ -11268,9 +11273,9 @@
 		<icon src="https://poster.starhubgo.com/poster/ch214_premier_padel.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="214" start="20250812165300 +0000" stop="20250812190000 +0000">
-		<title>TotalEnergies African Nations C'ship, KE-TZ-UG 2024: Sudan vs Nigeria (Live)</title>
+		<title>TotalEnergies African Nations C'ship, KE-TZ-UG 2024 Sudan vs Nigeria (Live)</title>
 		<desc>Watch the 8th edition of the African Nations Championship, showcasing only the best local based players from the respective national leagues.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch214_total_africa_cup_of_nations_cote_divoire.jpg?w=960&amp;h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch214_caf_champions_league.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="214" start="20250812190000 +0000" stop="20250812193000 +0000">
 		<title>Epic Series Global MTB 2025</title>
@@ -11283,14 +11288,19 @@
 		<icon src="https://poster.starhubgo.com/poster/ch214_premier_padel.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="214" start="20250812194000 +0000" stop="20250812213000 +0000">
-		<title>UEFA Europa League 2024/25: Union Saint-Gilloise vs Nice - MD6</title>
+		<title>UEFA Europa League 2024/25 Union Saint-Gilloise vs Nice - MD6</title>
 		<desc>The 54th season of the UEL as Europe's elite clubs compete in this premier football tournament</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch214_UEL_full_match.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="214" start="20250812213000 +0000" stop="20250812231500 +0000">
-		<title>UEFA Champions League 2024/25: Brest vs PSV - MD6</title>
+	<programme channel="214" start="20250812213000 +0000" stop="20250812232000 +0000">
+		<title>UEFA Champions League 2024/25 Brest vs PSV - MD6</title>
 		<desc>The most prestigious tournament in the world contested by top-division elite European clubs</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch214_UCL_full_match.jpg?w=960&amp;h=540" />
+	</programme>
+	<programme channel="214" start="20250812232000 +0000" stop="20250812234000 +0000">
+		<title>MUTV: One Love</title>
+		<desc>Go behind the scenes with some of our most dedicated supporters’ clubs, to uncover the fascinating stories, experiences and sacrifices these fans make to follow the club.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch214_mutv.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="214" start="20250812234000 +0000" stop="20250813024500 +0000">
 		<title>Ultimate Pool 2025</title>
@@ -11423,27 +11433,27 @@
 		<icon src="https://poster.starhubgo.com/poster/ch214_premier_padel.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="214" start="20250814005000 +0000" stop="20250814024000 +0000">
-		<title>Bundesliga 2024/25: Werder Bremen vs Bochum</title>
+		<title>Bundesliga 2024/25 Werder Bremen vs Bochum</title>
 		<desc>Watch every game of the season live as the top German football clubs battle it out in the Bundesliga, Germany's top division of football.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch214_bundesliga.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="214" start="20250814024000 +0000" stop="20250814043000 +0000">
-		<title>UEFA Europa League 2024/25: Ajax vs Lazio - MD6</title>
+		<title>UEFA Europa League 2024/25 Ajax vs Lazio - MD6</title>
 		<desc>The 54th season of the UEL as Europe's elite clubs compete in this premier football tournament</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch214_UEL_full_match.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="214" start="20250814043000 +0000" stop="20250814062000 +0000">
-		<title>Bundesliga 2024/25: Mainz vs Wolfsburg</title>
+		<title>Bundesliga 2024/25 Mainz vs Wolfsburg</title>
 		<desc>Watch every game of the season live as the top German football clubs battle it out in the Bundesliga, Germany's top division of football.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch214_bundesliga.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="214" start="20250814062000 +0000" stop="20250814081000 +0000">
-		<title>Total Women's Africa Cup of Nations, Morocco 2024: Zambia vs Senegal</title>
+		<title>Total Women's Africa Cup of Nations, Morocco 2024 Zambia vs Senegal</title>
 		<desc>beIN SPORTS brings you coverage from the 15th edition of the Africa Women Cup of Nations in Morocco.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch214_Womens_AFCON_Morocco_2024.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="214" start="20250814081000 +0000" stop="20250814100000 +0000">
-		<title>Bundesliga 2024/25: Frankfurt vs Heidenheim 1846</title>
+		<title>Bundesliga 2024/25 Frankfurt vs Heidenheim 1846</title>
 		<desc>Watch every game of the season live as the top German football clubs battle it out in the Bundesliga, Germany's top division of football.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch214_bundesliga.jpg?w=960&amp;h=540" />
 	</programme>
@@ -11452,15 +11462,15 @@
 		<desc>Weekly preview show with all relevant information on upcoming matches and the latest news from the Bundesliga</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch214_bundesliga_weekly.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="214" start="20250814103000 +0000" stop="20250814122800 +0000">
-		<title>UEFA Super Cup 2025: PSG vs Tottenham</title>
+	<programme channel="214" start="20250814103000 +0000" stop="20250814123000 +0000">
+		<title>UEFA Super Cup 2025 PSG vs Tottenham</title>
 		<desc>The 2025 UEFA Super Cup is in its 50th edition and will be contested by the reigning champions of the UEFA Champions League and UEFA Europa League.The match will be played at the Stadio Fruili in Udine, Italy</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch214_UEFA_super_cup.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="214" start="20250814122800 +0000" stop="20250814132500 +0000">
-		<title>UEFA Super Cup Review Show 2025 PSG vs Tottenham</title>
-		<desc>beIN's panel of global football legends deliver their expert opinion on the UEFA Super Cup action</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch214_UEFA_super_cup.jpg?w=341&amp;h=192" />
+	<programme channel="214" start="20250814123000 +0000" stop="20250814132500 +0000">
+		<title>Goodwood Highlights 2025</title>
+		<desc>Watch wheel-to-wheel racing in some of the world’s most valuable and historic cars, bringing more than a century of world class motorsport and motoring together to celebrate the past, present and future of mobility.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch214_goodwood_highlights.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="214" start="20250814132500 +0000" stop="20250814135300 +0000">
 		<title>Bundesliga Weekly 2025/26</title>
@@ -11468,9 +11478,9 @@
 		<icon src="https://poster.starhubgo.com/poster/ch214_bundesliga_weekly.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="214" start="20250814135300 +0000" stop="20250814160000 +0000">
-		<title>TotalEnergies African Nations C'ship, KE-TZ-UG 2024: Morocco vs Zambia (Live)</title>
+		<title>TotalEnergies African Nations C'ship, KE-TZ-UG 2024 Morocco vs Zambia (Live)</title>
 		<desc>Watch the 8th edition of the African Nations Championship, showcasing only the best local based players from the respective national leagues.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch214_total_africa_cup_of_nations_cote_divoire.jpg?w=960&amp;h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch214_caf_champions_league.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="217" start="20250812131500 +0000" stop="20250812211600 +0000">
 		<title>Pakistan tour of West Indies, 2025: WI v PAK, 3rd ODI (Live)</title>
