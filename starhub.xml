@@ -5910,7 +5910,7 @@
 	<programme channel="135" start="20250815183000 +0000" stop="20250815211500 +0000">
 		<title>Sweetheart</title>
 		<desc>Sweetheart</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch135_vijaylogo.jpg?w=960&amp;h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch135_sweetheart.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="135" start="20250815211500 +0000" stop="20250816000000 +0000">
 		<title>Amaran</title>
@@ -6000,7 +6000,7 @@
 	<programme channel="135" start="20250816093000 +0000" stop="20250816100000 +0000">
 		<title>Vanakkam Singapore S01 - EP 1</title>
 		<desc>Vanakkam Singapore S01</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch135_vijaylogo.jpg?w=960&amp;h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch135_vanakkam_singapore_s01.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="135" start="20250816100000 +0000" stop="20250816103000 +0000">
 		<title>Star Talk With Vinay (South Meets North) - S02 - EP 3</title>
@@ -23097,9 +23097,34 @@
 		<desc>The biggest African and international stories from the BBC.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch701_focus_on_africa.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="701" start="20250815170000 +0000" stop="20250815230000 +0000">
+	<programme channel="701" start="20250815170000 +0000" stop="20250815180000 +0000">
 		<title>Trump-Putin: The Summit</title>
-		<desc>Sumi Somaskanda is live in Anchorage, Alaska, as US President Donald Trump meets Russia’s President Putin for a summit on the war in Ukraine.</desc>
+		<desc>Sumi Somaskanda is live in Anchorage, Alaska, as US President Donald Trump meets Russia's President Putin for a summit on the war in Ukraine.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch701_BBC_news.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="701" start="20250815180000 +0000" stop="20250815190000 +0000">
+		<title>Trump-Putin: The Summit</title>
+		<desc>Sumi Somaskanda is live in Anchorage, Alaska, as US President Donald Trump meets Russia's President Putin for a summit on the war in Ukraine.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch701_BBC_news.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="701" start="20250815190000 +0000" stop="20250815200000 +0000">
+		<title>Trump-Putin: The Summit</title>
+		<desc>Sumi Somaskanda is live in Anchorage, Alaska, as US President Donald Trump meets Russia's President Putin for a summit on the war in Ukraine.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch701_BBC_news.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="701" start="20250815200000 +0000" stop="20250815210000 +0000">
+		<title>Trump-Putin: The Summit</title>
+		<desc>Sumi Somaskanda is live in Anchorage, Alaska, as US President Donald Trump meets Russia's President Putin for a summit on the war in Ukraine.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch701_BBC_news.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="701" start="20250815210000 +0000" stop="20250815220000 +0000">
+		<title>Trump-Putin: The Summit</title>
+		<desc>Sumi Somaskanda is live in Anchorage, Alaska, as US President Donald Trump meets Russia's President Putin for a summit on the war in Ukraine.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch701_BBC_news.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="701" start="20250815220000 +0000" stop="20250815230000 +0000">
+		<title>Trump-Putin: The Summit</title>
+		<desc>Sumi Somaskanda is live in Anchorage, Alaska, as US President Donald Trump meets Russia's President Putin for a summit on the war in Ukraine.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch701_BBC_news.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="701" start="20250815230000 +0000" stop="20250815233000 +0000">
@@ -23214,7 +23239,7 @@
 	</programme>
 	<programme channel="701" start="20250816103000 +0000" stop="20250816110000 +0000">
 		<title>Talking Business</title>
-		<desc>Examining the business stories and economic trends that are re-shaping our world.</desc>
+		<desc>Ben Thompson talks to some of the people leading the way on adapting our cities to the growing climate-related threats of fire, flood and famine.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch701_talking_business.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="701" start="20250816110000 +0000" stop="20250816113000 +0000">
@@ -23223,8 +23248,8 @@
 		<icon src="https://poster.starhubgo.com/poster/ch701_BBC_news.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="701" start="20250816113000 +0000" stop="20250816120000 +0000">
-		<title>Ukrainecast</title>
-		<desc>In-depth coverage and analysis of the ongoing war in Ukraine.</desc>
+		<title>Radical with Amol Rajan</title>
+		<desc>Bellingcat founder Eliot Higgins explains why he thinks a lack of trust has led to a crisis of democracy and how disinformation spreads online.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch701_BBC_news.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="701" start="20250816120000 +0000" stop="20250816123000 +0000">
@@ -33525,7 +33550,7 @@
 	<programme channel="838" start="20250816120000 +0000" stop="20250816123000 +0000">
 		<title>Miss Hong Kong Pageant 2025 - Penang Moments</title>
 		<desc>TVB Jade brings you endless entertainment with concurrent dramas and sitcoms, as well as the latest news, variety and infotainment programmes from TVB.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch838_tvb_logo.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch838_miss_hk_pageant_2025_penang_moments.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="838" start="20250816123000 +0000" stop="20250816143000 +0000">
 		<title>On His Majesty's Secret Service</title>
@@ -35505,7 +35530,7 @@
 	<programme channel="996" start="20250816120000 +0000" stop="20250816123000 +0000">
 		<title>Miss Hong Kong Pageant 2025 - Penang Moments</title>
 		<desc>TVB Jade brings you endless entertainment with concurrent dramas and sitcoms, as well as the latest news, variety and infotainment programmes from TVB.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch838_tvb_logo.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch838_miss_hk_pageant_2025_penang_moments.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="996" start="20250816123000 +0000" stop="20250816143000 +0000">
 		<title>On His Majesty's Secret Service</title>
