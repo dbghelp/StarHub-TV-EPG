@@ -5682,14 +5682,9 @@
 		<desc>This news programme chronicles the latest events, developments, inventions, discoveries and happenings around the world.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch25_news.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="133" start="20250814233000 +0000" stop="20250815000000 +0000">
-		<title>Vanakkam Thamizha</title>
+	<programme channel="133" start="20250814233000 +0000" stop="20250815003000 +0000">
+		<title>NAGAICHUVAI GALATTA</title>
 		<desc>It's a morning talk show which hosts celebrities &amp; professionals from all walks of life who share their valuable expertise on varied topics. Enjoy a delightful start to your day with a healthy dose of information and entertainment.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch25_vanakkam_thamizha.jpg?w=960&amp;h=540" />
-	</programme>
-	<programme channel="133" start="20250815000000 +0000" stop="20250815003000 +0000">
-		<title>ETHIRNEECHAL THODARGIRADHU</title>
-		<desc>Urged by her father, Janani is always a high achiever. But her marriage into a patriarchal family dashes her dream of a career. Thus begins Janani's arduous journey towards empowering her family's oppressed women to unleash their power.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/133_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="133" start="20250815003000 +0000" stop="20250815013000 +0000">
@@ -18710,7 +18705,7 @@
 	<programme channel="427" start="20250813233000 +0000" stop="20250814000000 +0000">
 		<title>The Moroccan Chronicles - EP 1</title>
 		<desc>Rafe visits Chefchaouen and is instantly besotted with the city, much to the confusion of the locals who are baffled by his eccentricities.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch427_logo.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch427_TheMoroccanChronicles.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="427" start="20250814000000 +0000" stop="20250814003000 +0000">
 		<title>World Heritage - EP 11</title>
@@ -18745,7 +18740,7 @@
 	<programme channel="427" start="20250814030000 +0000" stop="20250814033000 +0000">
 		<title>Viajar Mexico - EP 8</title>
 		<desc>Charlie shows the best ways to navigate the vibrant culinary scene of Mexico’s gastronomic capital, Oaxaca.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch427_logo.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch427_ViajarMexico.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="427" start="20250814033000 +0000" stop="20250814040000 +0000">
 		<title>10 Days Sri Lanka - EP 2</title>
@@ -18775,7 +18770,7 @@
 	<programme channel="427" start="20250814060000 +0000" stop="20250814063000 +0000">
 		<title>Viajar Mexico - EP 9</title>
 		<desc>From greenery and culture to spiritual power, Charlie reveals the things that make some of Mexico’s towns ‘Pueblo Magicos’.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch427_logo.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch427_ViajarMexico.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="427" start="20250814063000 +0000" stop="20250814070000 +0000">
 		<title>10 Days Sri Lanka - EP 3</title>
@@ -18805,7 +18800,7 @@
 	<programme channel="427" start="20250814090000 +0000" stop="20250814093000 +0000">
 		<title>Viajar Mexico - EP 10</title>
 		<desc>Enter Charlie Rubio: a bona fide Mexican, who is here to reveal all the wonderful things that make Mexico his favorite place in the world.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch427_logo.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch427_ViajarMexico.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="427" start="20250814093000 +0000" stop="20250814100000 +0000">
 		<title>10 Days Sri Lanka - EP 4</title>
@@ -18835,7 +18830,7 @@
 	<programme channel="427" start="20250814120000 +0000" stop="20250814123000 +0000">
 		<title>The Moroccan Chronicles - EP 1</title>
 		<desc>Rafe visits Chefchaouen and is instantly besotted with the city, much to the confusion of the locals who are baffled by his eccentricities.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch427_logo.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch427_TheMoroccanChronicles.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="427" start="20250814123000 +0000" stop="20250814130000 +0000">
 		<title>Boarding Pass - EP 12</title>
@@ -18850,12 +18845,12 @@
 	<programme channel="427" start="20250814133000 +0000" stop="20250814140000 +0000">
 		<title>Indonesia's Romantic Getaway - EP 1</title>
 		<desc>Bali is a paradise for romance but what connects Sangeeta and Manish to the island in an unforgettable way is an ancient cleansing ritual.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch427_logo.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch427_IndonesiasRomanticGetaway.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="427" start="20250814140000 +0000" stop="20250814143000 +0000">
 		<title>The Moroccan Chronicles - EP 2</title>
 		<desc>The imperial city of Fes, with its richly evocative attractions, makes Rafe feel like he is in a movie...with a plot twist right around the corner.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch427_logo.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch427_TheMoroccanChronicles.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="427" start="20250814143000 +0000" stop="20250814150000 +0000">
 		<title>World Heritage - EP 4</title>
@@ -18880,12 +18875,12 @@
 	<programme channel="427" start="20250814163000 +0000" stop="20250814170000 +0000">
 		<title>Indonesia's Romantic Getaway - EP 1</title>
 		<desc>Bali is a paradise for romance but what connects Sangeeta and Manish to the island in an unforgettable way is an ancient cleansing ritual.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch427_logo.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch427_IndonesiasRomanticGetaway.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="427" start="20250814170000 +0000" stop="20250814173000 +0000">
 		<title>The Moroccan Chronicles - EP 2</title>
 		<desc>The imperial city of Fes, with its richly evocative attractions, makes Rafe feel like he is in a movie...with a plot twist right around the corner.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch427_logo.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch427_TheMoroccanChronicles.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="427" start="20250814173000 +0000" stop="20250814180000 +0000">
 		<title>World Heritage - EP 4</title>
@@ -18905,12 +18900,12 @@
 	<programme channel="427" start="20250814190000 +0000" stop="20250814193000 +0000">
 		<title>Indonesia's Romantic Getaway - EP 3</title>
 		<desc>Amidst ancient temples and misty morning hills, Sangeeta and Manish step into Borobudur’s timeless embrace, where history and serenity intertwine.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch427_logo.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch427_IndonesiasRomanticGetaway.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="427" start="20250814193000 +0000" stop="20250814200000 +0000">
 		<title>The Moroccan Chronicles - EP 4</title>
 		<desc>The evocative city of Marrakech has long provided great artists with inspiration, but will it be able to give Rafe the adventure he seeks?</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch427_logo.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch427_TheMoroccanChronicles.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="427" start="20250814200000 +0000" stop="20250814201500 +0000">
 		<title>Heritage - EP 12</title>
@@ -18950,12 +18945,12 @@
 	<programme channel="427" start="20250814230000 +0000" stop="20250814233000 +0000">
 		<title>Indonesia's Romantic Getaway - EP 1</title>
 		<desc>Bali is a paradise for romance but what connects Sangeeta and Manish to the island in an unforgettable way is an ancient cleansing ritual.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch427_logo.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch427_IndonesiasRomanticGetaway.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="427" start="20250814233000 +0000" stop="20250815000000 +0000">
 		<title>The Moroccan Chronicles - EP 2</title>
 		<desc>The imperial city of Fes, with its richly evocative attractions, makes Rafe feel like he is in a movie...with a plot twist right around the corner.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch427_logo.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch427_TheMoroccanChronicles.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="427" start="20250815000000 +0000" stop="20250815003000 +0000">
 		<title>World Heritage - EP 4</title>
