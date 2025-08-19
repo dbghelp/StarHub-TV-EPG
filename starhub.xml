@@ -4994,7 +4994,7 @@
 	</programme>
 	<programme channel="128" start="20250820063000 +0000" stop="20250820070000 +0000">
 		<title>Noyontara - EP 72</title>
-		<desc>Noyontara's spirit-seeing gift reveals veiled mysteries and family secrets.</desc>
+		<desc>In order to rescue Surjo, Noyontara swears to locate the treasure and expose Lata.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch128_colors_logo.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="128" start="20250820070000 +0000" stop="20250820080000 +0000">
@@ -5049,7 +5049,7 @@
 	</programme>
 	<programme channel="128" start="20250820123000 +0000" stop="20250820130000 +0000">
 		<title>Noyontara - EP 72</title>
-		<desc>Noyontara's spirit-seeing gift reveals veiled mysteries and family secrets.</desc>
+		<desc>In order to rescue Surjo, Noyontara swears to locate the treasure and expose Lata.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch128_colors_logo.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="128" start="20250820130000 +0000" stop="20250820140000 +0000">
@@ -5074,7 +5074,7 @@
 	</programme>
 	<programme channel="128" start="20250820153000 +0000" stop="20250820160000 +0000">
 		<title>Noyontara - EP 72</title>
-		<desc>Noyontara's spirit-seeing gift reveals veiled mysteries and family secrets.</desc>
+		<desc>In order to rescue Surjo, Noyontara swears to locate the treasure and expose Lata.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch128_colors_logo.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="130" start="20250818160000 +0000" stop="20250818190000 +0000">
@@ -10419,7 +10419,7 @@
 	</programme>
 	<programme channel="203" start="20250820100000 +0000" stop="20250820110000 +0000">
 		<title>DP World Tour 2025</title>
-		<desc>Take an exclusive, behind the scenes look at the DP World Tour as each Rolex Series event in 2025 is chronicled from Monday through to Sunday. Unfiltered offers inside access to the preparations of some of the world's best golfers, their interactions with celebrities during the popular Pro-Am, encounters with friends and family and fascinating conversations, offering a revealing insight into the evolving story of a championship week.</desc>
+		<desc>Take an exclusive, behind the scenes look at the DP World Tour as each Rolex Series event in 2025 is chronicled from Monday through to Sunday. Unfiltered offers inside access to the preparations of some of the world's best golfers, their interactions with</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch203_dp_world_tour.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="203" start="20250820110000 +0000" stop="20250820120000 +0000">
@@ -10502,12 +10502,12 @@
 		<desc>The 2025 Indian Premier League, a franchise Twenty20 cricket league held in India, returns for the 18th year, and will feature ten teams competing in 74 matches from 14 March to 25 May 2025.</desc>
 		<icon src="https://poster.starhubgo.com/poster/IPL2025_M46.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="204" start="20250820041500 +0000" stop="20250820071500 +0000">
+	<programme channel="204" start="20250820035000 +0000" stop="20250820074500 +0000">
 		<title>The Hundred Women 2025: M19 - SB vs OI</title>
 		<desc>The 2025 The Hundred season will be the fifth season of The Hundred, a professional franchise 100-ball cricket tournament involving eight women's teams located in major cities across United Kingdom.</desc>
 		<icon src="https://poster.starhubgo.com/poster/TH2025.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="204" start="20250820071500 +0000" stop="20250820101500 +0000">
+	<programme channel="204" start="20250820074500 +0000" stop="20250820101500 +0000">
 		<title>The Hundred Men 2025: M19 - SB vs OI</title>
 		<desc>The 2025 The Hundred season will be the fifth season of The Hundred, a professional franchise 100-ball cricket tournament involving eight men's teams located in major cities across United Kingdom.</desc>
 		<icon src="https://poster.starhubgo.com/poster/TH2025.jpg?w=960&amp;h=540" />
@@ -21768,14 +21768,14 @@
 		<icon src="https://poster.starhubgo.com/poster/ch519_gilligan_island.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="519" start="20250820130000 +0000" stop="20250820140000 +0000">
-		<title>CSI S5 - EP 1</title>
-		<desc>A feverish night in Las Vegas results in one dead male in an alien suit, one more dead male in a bathtub, one dead female with two suspicous men at the scene, and another dead male with a polaroid of yet another dead male.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch519_csi_s5.jpg?w=341&amp;h=192" />
-	</programme>
-	<programme channel="519" start="20250820140000 +0000" stop="20250820150000 +0000">
 		<title>Mission Impossible S4 - EP 1</title>
 		<desc>Leonard Nimoy formerly of the Star Trek series and guest star Dina Merrill join the Impossible Missions Force to fight a mind-destroying drug that could enslave the free world in the first of a two-part episode.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch519_mission_impossible_s4.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="519" start="20250820140000 +0000" stop="20250820150000 +0000">
+		<title>CSI S5 - EP 1</title>
+		<desc>A feverish night in Las Vegas results in one dead male in an alien suit, one more dead male in a bathtub, one dead female with two suspicous men at the scene, and another dead male with a polaroid of yet another dead male.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch519_csi_s5.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="519" start="20250820150000 +0000" stop="20250820160000 +0000">
 		<title>Law &amp; Order: Special Victims Unit S9 - EP 1</title>
@@ -31383,7 +31383,7 @@
 		<icon src="https://poster.starhubgo.com/poster/ch815_good_luck.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="815" start="20250819121000 +0000" stop="20250819125000 +0000">
-		<title>Queen's House - EP 76</title>
+		<title>Queen's House - EP 75</title>
 		<desc>This revenge story is about a woman in the top one per cent who starts over from the ground up to reclaim her stolen life and find her true 'home'. A passionate drama about people striving to regain the true meaning of life.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch815_queens_house.jpg?w=341&amp;h=192" />
 	</programme>
@@ -31418,7 +31418,7 @@
 		<icon src="https://poster.starhubgo.com/poster/ch815_good_luck.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="815" start="20250819190500 +0000" stop="20250819194500 +0000">
-		<title>Queen's House - EP 76</title>
+		<title>Queen's House - EP 75</title>
 		<desc>This revenge story is about a woman in the top one per cent who starts over from the ground up to reclaim her stolen life and find her true 'home'. A passionate drama about people striving to regain the true meaning of life.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch815_queens_house.jpg?w=341&amp;h=192" />
 	</programme>
@@ -31535,7 +31535,7 @@
 	<programme channel="815" start="20250820125000 +0000" stop="20250820140500 +0000">
 		<title>2023 Drama Special</title>
 		<desc>Short but impactful, KBS Drama Special presents high-quality single episode dramas involving at times serious social messages, unique emotions and perspectives, staying abreast of modern viewership.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch815_2023_drama_special.jpg?w=960&amp;h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch815_drama_special.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="815" start="20250820140500 +0000" stop="20250820152000 +0000">
 		<title>Problem Child in House - EP 16</title>
