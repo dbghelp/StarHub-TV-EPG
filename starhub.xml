@@ -999,7 +999,7 @@
 	</programme>
 	<programme channel="102" start="20250822133000 +0000" stop="20250822140000 +0000">
 		<title>On The Red Dot - EP 15</title>
-		<desc>I Am a Hawker: Bib Gourmand Edition follows Singapore’s most celebrated hawkers-those who’ve earned and fight to keep their Michelin Bib Gourmand. Each episode spotlights one hawker’s journey through tradition, innovation, and the relentless pressure of holding that title, revealing the personal stakes, sacrifices, and resilience behind every award-winning dish.</desc>
+		<desc>Selamat Datang Warong Pak Sapari became the first hawker to win a Michelin Bib for mee soto and mee rebus. As it expands, can 57-year-old Sumadi Sapari keep his father’s recipe authentic?</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="102" start="20250822140000 +0000" stop="20250822161000 +0000">
@@ -10577,10 +10577,15 @@
 		<desc>The series consists of four driver classifications and five classes of vehicles: GT3, GT4 and Touring Car, consisting of TCR homologated cars, as well as separate TC and TCA classes.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch209_motorsports.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="209" start="20250821040000 +0000" stop="20250821083000 +0000">
+	<programme channel="209" start="20250821040000 +0000" stop="20250821073500 +0000">
 		<title>WTT Europe Smash Sweden 2025</title>
-		<desc>WTT Star Contenders consist of 6 events throughout the year, which serve as the platform for the next best in the world to earn ranking points to make the step up into the WTT Champions Series.</desc>
+		<desc>Europe Smash - Sweden 2025 brings elite table tennis to Swedish shores, with WTT Grand Smash action set to light up European soil for the first time.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch209_wtt.jpg?w=960&amp;h=540" />
+	</programme>
+	<programme channel="209" start="20250821073500 +0000" stop="20250821083000 +0000">
+		<title>UIM E1 World Championship 2025 HLs</title>
+		<desc>Immerse in the UIM E1 World Championship presented by PIF, a realm where relentless innovation, marine preservation, and exhilarating races converge, unveiling a new chapter in water sports.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/209_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="209" start="20250821083000 +0000" stop="20250821100000 +0000">
 		<title>GT World Challenge Australia 2025, Sandown</title>
@@ -10703,9 +10708,14 @@
 		<icon src="https://poster.starhubgo.com/poster/ch210_baseball.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="210" start="20250822021500 +0000" stop="20250822024500 +0000">
-		<title>MotoGP 2025 Rewind - Grand Prix of Austria</title>
-		<desc>Recap the action, behind-the-scenes and rider interviews at the MotoGP 2025.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch210_motogp.jpg?w=341&amp;h=192" />
+		<title>WorldSBK 2025 Rewind: Rd8 Hungarian Round</title>
+		<desc>Superbike World Championship also known as WorldSBK, is a silhouette road racing series based on heavily modified production sports motorcycles.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch210_sbk_motul.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="210" start="20250822024500 +0000" stop="20250822054500 +0000">
+		<title>2025 US Open Mixed Doubles Championship</title>
+		<desc>The finest tennis players on the planet lock horns on the hard-courts of Flushing Meadows in pursuit of the sport's toughest title at the fourth and final Grand Slam of the year.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch210_us_open.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="210" start="20250822054500 +0000" stop="20250822065500 +0000">
 		<title>Drew Gibson in Focus</title>
@@ -10713,17 +10723,17 @@
 		<icon src="https://poster.starhubgo.com/poster/ch210_motorsports.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="210" start="20250822065500 +0000" stop="20250822074000 +0000">
-		<title>MotoGP 2025 Round 14- Grand Prix of Hungary</title>
+		<title>MotoGP 2025 Round 14- Michelin Grand Prix of Hungary</title>
 		<desc>The 2025 MotoGP sees 22 of the world's best riders battle on 1000cc prototype machines, delivering over 250hp and reaching speeds of 360kph across 22 thrilling Grands Prix in 18 countries.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_motogp.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="210" start="20250822074000 +0000" stop="20250822083500 +0000">
-		<title>MotoGP 2025 Round 14- Grand Prix of Hungary</title>
+		<title>MotoGP 2025 Round 14- Michelin Grand Prix of Hungary</title>
 		<desc>The 2025 MotoGP sees 22 of the world's best riders battle on 1000cc prototype machines, delivering over 250hp and reaching speeds of 360kph across 22 thrilling Grands Prix in 18 countries.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_motogp.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="210" start="20250822083500 +0000" stop="20250822100000 +0000">
-		<title>MotoGP 2025 Round 14- Grand Prix of Hungary</title>
+		<title>MotoGP 2025 Round 14- Michelin Grand Prix of Hungary</title>
 		<desc>The 2025 MotoGP sees 22 of the world's best riders battle on 1000cc prototype machines, delivering over 250hp and reaching speeds of 360kph across 22 thrilling Grands Prix in 18 countries.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_motogp.jpg?w=341&amp;h=192" />
 	</programme>
@@ -10733,29 +10743,29 @@
 		<icon src="https://poster.starhubgo.com/poster/ch210_spotv2_logo.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="210" start="20250822111000 +0000" stop="20250822115500 +0000">
-		<title>MotoGP 2025 Round 14- Grand Prix of Hungary</title>
+		<title>MotoGP 2025 Round 14- Michelin Grand Prix of Hungary</title>
 		<desc>The 2025 MotoGP sees 22 of the world's best riders battle on 1000cc prototype machines, delivering over 250hp and reaching speeds of 360kph across 22 thrilling Grands Prix in 18 countries.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_motogp.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="210" start="20250822115500 +0000" stop="20250822125000 +0000">
-		<title>MotoGP 2025 Round 14- Grand Prix of Hungary</title>
+		<title>MotoGP 2025 Round 14- Michelin Grand Prix of Hungary</title>
 		<desc>The 2025 MotoGP sees 22 of the world's best riders battle on 1000cc prototype machines, delivering over 250hp and reaching speeds of 360kph across 22 thrilling Grands Prix in 18 countries.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_motogp.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="210" start="20250822125000 +0000" stop="20250822141000 +0000">
-		<title>MotoGP 2025 Round 14- Grand Prix of Hungary</title>
+	<programme channel="210" start="20250822125000 +0000" stop="20250822141500 +0000">
+		<title>MotoGP 2025 Round 14- Michelin Grand Prix of Hungary</title>
 		<desc>The 2025 MotoGP sees 22 of the world's best riders battle on 1000cc prototype machines, delivering over 250hp and reaching speeds of 360kph across 22 thrilling Grands Prix in 18 countries.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_motogp.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="210" start="20250822141000 +0000" stop="20250822145500 +0000">
-		<title>Formula E Creators Challenge</title>
-		<desc>Featuring 11 creators including Sergio Aguero, Brooklyn Beckham, and Supercar Blondie paired with championship drivers, testing their skills of driving the Gen 3 Evo current championship car.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch210_formula_e.jpg?w=960&amp;h=540" />
-	</programme>
-	<programme channel="210" start="20250822145500 +0000" stop="20250822160000 +0000">
+	<programme channel="210" start="20250822141500 +0000" stop="20250822150000 +0000">
 		<title>2025 MotoE Rd 4 GP of Hungary</title>
 		<desc>14 races, seven events and seven different countries see the electric class take on its biggest ever season with Championship status.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_motorsports.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="210" start="20250822150000 +0000" stop="20250822160000 +0000">
+		<title>SailGP S5: Rolex Germany Sassnitz</title>
+		<desc>Adrenaline-fueled races, legendary global locations, rival national teams and record-breaking speeds. SailGP is the most exciting racing on water - Powered By Nature.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch210_spotv2_logo.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="211" start="20250820160000 +0000" stop="20250820170000 +0000">
 		<title>ATP Tour Review Show 2025</title>
@@ -11840,7 +11850,7 @@
 	<programme channel="221" start="20250821030000 +0000" stop="20250821033000 +0000">
 		<title>PL STORIES - EP 12</title>
 		<desc>We follow the remarkable journey of Olivier Giroud, from his Premier League days with Arsenal and Chelsea to Champions League glory and beyond. A World Cup winner known for his elegance and resilience, Giroud's career has taken him from London to Milan, then to LA, and now back home with a move to Lille. As he begins this new chapter, we reflect on the highs, the hurdles, and the legacy of one of football's most underrated and enduring strikers.</desc>
-		<icon src="https://poster.starhubgo.com/poster/pl_stories_V2.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/pl_stories_2025_26_ep12.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="221" start="20250821033000 +0000" stop="20250821040000 +0000">
 		<title>PL STORIES - EP 38</title>
@@ -11870,7 +11880,7 @@
 	<programme channel="221" start="20250821070000 +0000" stop="20250821073000 +0000">
 		<title>PL STORIES - EP 12</title>
 		<desc>We follow the remarkable journey of Olivier Giroud, from his Premier League days with Arsenal and Chelsea to Champions League glory and beyond. A World Cup winner known for his elegance and resilience, Giroud's career has taken him from London to Milan, then to LA, and now back home with a move to Lille. As he begins this new chapter, we reflect on the highs, the hurdles, and the legacy of one of football's most underrated and enduring strikers.</desc>
-		<icon src="https://poster.starhubgo.com/poster/pl_stories_V2.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/pl_stories_2025_26_ep12.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="221" start="20250821073000 +0000" stop="20250821080000 +0000">
 		<title>PL STORIES - EP 38</title>
@@ -11905,7 +11915,7 @@
 	<programme channel="221" start="20250821120000 +0000" stop="20250821123000 +0000">
 		<title>PL STORIES - EP 12</title>
 		<desc>We follow the remarkable journey of Olivier Giroud, from his Premier League days with Arsenal and Chelsea to Champions League glory and beyond. A World Cup winner known for his elegance and resilience, Giroud's career has taken him from London to Milan, then to LA, and now back home with a move to Lille. As he begins this new chapter, we reflect on the highs, the hurdles, and the legacy of one of football's most underrated and enduring strikers.</desc>
-		<icon src="https://poster.starhubgo.com/poster/pl_stories_V2.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/pl_stories_2025_26_ep12.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="221" start="20250821123000 +0000" stop="20250821130000 +0000">
 		<title>THE BIG INTERVIEW - EP 2</title>
@@ -11955,7 +11965,7 @@
 	<programme channel="221" start="20250821183000 +0000" stop="20250821190000 +0000">
 		<title>PL STORIES - EP 12</title>
 		<desc>We follow the remarkable journey of Olivier Giroud, from his Premier League days with Arsenal and Chelsea to Champions League glory and beyond. A World Cup winner known for his elegance and resilience, Giroud's career has taken him from London to Milan, then to LA, and now back home with a move to Lille. As he begins this new chapter, we reflect on the highs, the hurdles, and the legacy of one of football's most underrated and enduring strikers.</desc>
-		<icon src="https://poster.starhubgo.com/poster/pl_stories_V2.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/pl_stories_2025_26_ep12.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="221" start="20250821190000 +0000" stop="20250821200000 +0000">
 		<title>PL MOMENTS - EP 1</title>
@@ -18183,14 +18193,14 @@
 		<icon src="https://poster.starhubgo.com/poster/ch407_great_asian_railway_journeys.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="407" start="20250822062500 +0000" stop="20250822071500 +0000">
-		<title>Where the Wild Men Are with Ben Fogle (S11) - EP 4</title>
-		<desc>Ben meets a family at the start of their new life, undertaking an ambitious renovation of a dilapidated farmhouse in a Bulgarian village, discovering how crucial this fresh start is for them.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch407_where_the_wild_men_are_with_ben_fogle_s11jpg?w=341&amp;h=192" />
-	</programme>
-	<programme channel="407" start="20250822071500 +0000" stop="20250822080500 +0000">
 		<title>Secrets of the Superfactories (S2) - EP 8</title>
 		<desc>From travel to glass and plastic. The UK transports the double decker bus in to the 21st century. India use cutting edge technology to keep us safe on the roads. Slovenia shows us how to produce high quality cut glass and America recycles plastic waste on an epic scale.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch407_secrets_of_the_superfactoriesS2.jpg?w=960&amp;h=540" />
+	</programme>
+	<programme channel="407" start="20250822071500 +0000" stop="20250822080500 +0000">
+		<title>Where the Wild Men Are with Ben Fogle (S11) - EP 4</title>
+		<desc>Ben meets a family at the start of their new life, undertaking an ambitious renovation of a dilapidated farmhouse in a Bulgarian village, discovering how crucial this fresh start is for them.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch407_where_the_wild_men_are_with_ben_fogle_s11jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="407" start="20250822080500 +0000" stop="20250822083000 +0000">
 		<title>Food Factory (S1) - EP 13</title>
@@ -25897,6 +25907,11 @@
 		<desc>Live from Tokyo and Sydney with Shery Ahn and Haidi Stroud-Watts, getting insight and analysis from newsmakers and industry leaders on the biggest stories shaping markets.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/708_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
+	<programme channel="708" start="20250822003000 +0000" stop="20250822010000 +0000">
+		<title>Bloomberg Tech: Asia</title>
+		<desc>Exclusive access to emerging voices and important stories shaping the future of tech worldwide. Hosted by Shery Ahn in Tokyo and Annabelle Droulers in Hong Kong.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/708_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
 	<programme channel="708" start="20250822010000 +0000" stop="20250822030000 +0000">
 		<title>Bloomberg: The China Show</title>
 		<desc>Your definitive source for news and analysis on the world's second-biggest economy. Hosted by Yvonne Man and David Ingles.</desc>
@@ -25939,7 +25954,7 @@
 	</programme>
 	<programme channel="708" start="20250822130000 +0000" stop="20250822150000 +0000">
 		<title>Bloomberg Surveillance Live from Jackson Hole</title>
-		<desc>Bloomberg Surveillance, live from Jackson Hole.</desc>
+		<desc>Special programming from the annual Jackson Hole Economic Policy Symposium. The annual gathering draws top central bankers, policymakers, and economists shaping global monetary policy.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/708_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="708" start="20250822150000 +0000" stop="20250822160000 +0000">
@@ -26148,7 +26163,7 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/709_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="709" start="20250822030000 +0000" stop="20250822033000 +0000">
-		<title>The Circuit with Emily Chang</title>
+		<title>The Circuit with Emily Chang 3 - EP 7</title>
 		<desc>Emily Chang meets power lawyer Alex Spiro to discuss how he navigates the high-stakes world of litigation on behalf of famous clients.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/709_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
