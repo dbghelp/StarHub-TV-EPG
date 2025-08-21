@@ -10667,15 +10667,30 @@
 		<desc>The 2025 MotoGP sees 22 of the world's best riders battle on 1000cc prototype machines, delivering over 250hp and reaching speeds of 360kph across 22 thrilling Grands Prix in 18 countries.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_motogp.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="210" start="20250821063000 +0000" stop="20250821143000 +0000">
-		<title>2025 US Open Qualifying Tournament</title>
-		<desc>The US Open Qualifying Tournament consists of 128 men and 128 women competing for the final 32 entries in the 2025 US Open singles draws.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch210_us_open.jpg?w=341&amp;h=192" />
+	<programme channel="210" start="20250821063000 +0000" stop="20250821073000 +0000">
+		<title>2025 SLS Championship Tour, Brasilia - Women's</title>
+		<desc>From the streets to the league, the SLS features professional street skateboarders competing for the largest monetary prize in the history of skateboarding</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch210_spotv2_logo.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="210" start="20250821143000 +0000" stop="20250821150000 +0000">
-		<title>MotoGP 2025 Rewind - Grand Prix of Austria</title>
-		<desc>Recap the action, behind-the-scenes and rider interviews at the MotoGP 2025.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch210_motogp.jpg?w=341&amp;h=192" />
+	<programme channel="210" start="20250821073000 +0000" stop="20250821090000 +0000">
+		<title>SailGP S5: Rolex Germany Sassnitz</title>
+		<desc>Adrenaline-fueled races, legendary global locations, rival national teams and record-breaking speeds. SailGP is the most exciting racing on water - Powered By Nature.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch210_spotv2_logo.jpg?w=960&amp;h=540" />
+	</programme>
+	<programme channel="210" start="20250821090000 +0000" stop="20250821103000 +0000">
+		<title>SailGP S5: Rolex Germany Sassnitz</title>
+		<desc>Adrenaline-fueled races, legendary global locations, rival national teams and record-breaking speeds. SailGP is the most exciting racing on water - Powered By Nature.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch210_spotv2_logo.jpg?w=960&amp;h=540" />
+	</programme>
+	<programme channel="210" start="20250821103000 +0000" stop="20250821113000 +0000">
+		<title>2025 SLS Championship Tour, Brasilia - Men's</title>
+		<desc>From the streets to the league, the SLS features professional street skateboarders competing for the largest monetary prize in the history of skateboarding</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch210_spotv2_logo.jpg?w=960&amp;h=540" />
+	</programme>
+	<programme channel="210" start="20250821113000 +0000" stop="20250821150000 +0000">
+		<title>2025 US Open Mixed Doubles Championship</title>
+		<desc>The finest tennis players on the planet lock horns on the hard-courts of Flushing Meadows in pursuit of the sport's toughest title at the fourth and final Grand Slam of the year.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch210_us_open.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="210" start="20250821150000 +0000" stop="20250821231500 +0000">
 		<title>2025 US Open Qualifying Tournament</title>
@@ -10691,11 +10706,6 @@
 		<title>MotoGP 2025 Rewind - Grand Prix of Austria</title>
 		<desc>Recap the action, behind-the-scenes and rider interviews at the MotoGP 2025.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_motogp.jpg?w=341&amp;h=192" />
-	</programme>
-	<programme channel="210" start="20250822024500 +0000" stop="20250822054500 +0000">
-		<title>2025 US Open Mixed Doubles Championship</title>
-		<desc>The finest tennis players on the planet lock horns on the hard-courts of Flushing Meadows in pursuit of the sport's toughest title at the fourth and final Grand Slam of the year.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch210_us_open.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="210" start="20250822054500 +0000" stop="20250822065500 +0000">
 		<title>Drew Gibson in Focus</title>
