@@ -208,6 +208,10 @@
 		<display-name>Hub Premier 4</display-name>
 		<icon src="https://poster.starhubgo.com/Linear_Channels2/224_1920x1080_HTV.png?w=272" />
 	</channel>
+	<channel id="225">
+		<display-name>Hub Premier 5</display-name>
+		<icon src="https://poster.starhubgo.com/Linear_Channels2/225_1920x1080_HTV.png?w=272" />
+	</channel>
 	<channel id="228">
 		<display-name>Hub Premier 8</display-name>
 		<icon src="https://poster.starhubgo.com/Linear_Channels2/228_1920x1080_HTV.png?w=272" />
@@ -4539,7 +4543,7 @@
 	</programme>
 	<programme channel="128" start="20250824160000 +0000" stop="20250824163000 +0000">
 		<title>Parineetii - EP 1215</title>
-		<desc>Fate plays a cruel trick on two best friends by tying their heartstrings to the same man.</desc>
+		<desc>Aditya and Preet admit their feelings while Nisha and Neeti secretly plot Preet's murder.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch128_parineetii.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="128" start="20250824163000 +0000" stop="20250824170000 +0000">
@@ -4579,7 +4583,7 @@
 	</programme>
 	<programme channel="128" start="20250824200000 +0000" stop="20250824203000 +0000">
 		<title>Parineetii - EP 1215</title>
-		<desc>Fate plays a cruel trick on two best friends by tying their heartstrings to the same man.</desc>
+		<desc>Aditya and Preet admit their feelings while Nisha and Neeti secretly plot Preet's murder.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch128_parineetii.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="128" start="20250824203000 +0000" stop="20250824210000 +0000">
@@ -4589,7 +4593,7 @@
 	</programme>
 	<programme channel="128" start="20250824210000 +0000" stop="20250824213000 +0000">
 		<title>Parineetii - EP 1215</title>
-		<desc>Fate plays a cruel trick on two best friends by tying their heartstrings to the same man.</desc>
+		<desc>Aditya and Preet admit their feelings while Nisha and Neeti secretly plot Preet's murder.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch128_parineetii.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="128" start="20250824213000 +0000" stop="20250824220000 +0000">
@@ -4624,7 +4628,7 @@
 	</programme>
 	<programme channel="128" start="20250825010000 +0000" stop="20250825013000 +0000">
 		<title>Noyontara - EP 76</title>
-		<desc>Noyontara's spirit-seeing gift reveals veiled mysteries and family secrets.</desc>
+		<desc>After entering a hidden tunnel, Noyontara locates a chamber full of snakes and ladders.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch128_colors_logo.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="128" start="20250825013000 +0000" stop="20250825020000 +0000">
@@ -4639,7 +4643,7 @@
 	</programme>
 	<programme channel="128" start="20250825023000 +0000" stop="20250825030000 +0000">
 		<title>Dhaakad Beera - EP 31</title>
-		<desc>A young boy vows to safeguard his little sister against societal oppression.</desc>
+		<desc>When Samrat notices a little boy being bullied by Kishmish, he feels disappointed in her.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch128_dhaakad_beera.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="128" start="20250825030000 +0000" stop="20250825033000 +0000">
@@ -4834,17 +4838,17 @@
 	</programme>
 	<programme channel="128" start="20250826003000 +0000" stop="20250826010000 +0000">
 		<title>Mangal Lakshmi - EP 544</title>
-		<desc>Mangal sets off on a journey to find an ideal match for Lakshmi.</desc>
+		<desc>Kapil extends his hand to help Adit but his hold loosens and Adit falls down the building.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch128_mangal_lakshmi.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="128" start="20250826010000 +0000" stop="20250826013000 +0000">
 		<title>Noyontara - EP 77</title>
-		<desc>Noyontara's spirit-seeing gift reveals veiled mysteries and family secrets.</desc>
+		<desc>Noyontara meets Yaksha whose attack renders her treasure pursuit much more dangerous.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch128_colors_logo.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="128" start="20250826013000 +0000" stop="20250826020000 +0000">
 		<title>Parineetii - EP 1216</title>
-		<desc>Fate plays a cruel trick on two best friends by tying their heartstrings to the same man.</desc>
+		<desc>Preet reveals Neeti and Nisha plan to kill her and gets them arrested.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch128_parineetii.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="128" start="20250826020000 +0000" stop="20250826043000 +0000">
@@ -4889,12 +4893,12 @@
 	</programme>
 	<programme channel="128" start="20250826083000 +0000" stop="20250826090000 +0000">
 		<title>Mannat Harr Khushi Paane Ki - EP 169</title>
-		<desc>Chef Mannat's dreams clash with her employer, who is her secret birth mother and nemesis.</desc>
+		<desc>Mannat considers the possibility of Anirudh being innocent and begins to suspect Aish.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch128_mannat_harr_khushi_paane_ki.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="128" start="20250826090000 +0000" stop="20250826093000 +0000">
 		<title>Dhaakad Beera - EP 32</title>
-		<desc>A young boy vows to safeguard his little sister against societal oppression.</desc>
+		<desc>Samrat takes Kishmish to school to instill discipline but Bawri Devi schemes against them.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch128_dhaakad_beera.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="128" start="20250826093000 +0000" stop="20250826103000 +0000">
@@ -6555,7 +6559,7 @@
 	<programme channel="138" start="20250824173000 +0000" stop="20250824183000 +0000">
 		<title>Zee Flix - EP 178</title>
 		<desc>Tune in for best movie scenes.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch656_ZeeFlix.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch656_zee_tamil_exclusive.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="138" start="20250824183000 +0000" stop="20250824190000 +0000">
 		<title>Saregamapa Seniors S05 - EP 30</title>
@@ -6575,12 +6579,12 @@
 	<programme channel="138" start="20250824200000 +0000" stop="20250824203000 +0000">
 		<title>Zee Flix - EP 179</title>
 		<desc>Tune in for best movie scenes.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch656_ZeeFlix.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch656_zee_tamil_exclusive.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="138" start="20250824203000 +0000" stop="20250824210000 +0000">
 		<title>Zee Flix - EP 179</title>
 		<desc>Tune in for best movie scenes.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch656_ZeeFlix.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch656_zee_tamil_exclusive.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="138" start="20250824210000 +0000" stop="20250824213000 +0000">
 		<title>Thamizha Thamizha S03 - EP 108</title>
@@ -6600,12 +6604,12 @@
 	<programme channel="138" start="20250824223000 +0000" stop="20250824230000 +0000">
 		<title>Mounam Pesiyathey - EP 246</title>
 		<desc>Thulasi, married to the thug Sethu, meets Siva, who loses his memory.Mistaken for his wife, she pretends to be, but as Sethu searches for her, she falls in love with Siva.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch656_MounamPesiyathey.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch656_zee_tamil_exclusive.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="138" start="20250824230000 +0000" stop="20250824233000 +0000">
 		<title>Naane Varuvean - EP 464</title>
 		<desc>Radha, a cheerful girl, is head over heels for Mohan, a cynical businessman, despite being aware of the fact that he has a daughter. However, she believes that she can turn him into a good man.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch656_NaaneVaruvean.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch656_zee_tamil_exclusive.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="138" start="20250824233000 +0000" stop="20250825000000 +0000">
 		<title>Naane Varuvean - EP 465</title>
@@ -6900,12 +6904,12 @@
 	<programme channel="138" start="20250826043000 +0000" stop="20250826050000 +0000">
 		<title>Lakshmi Kalyanam - EP 379</title>
 		<desc>Lakshmi's life takes an unexpected turn when her family gets her married to a rich businessman, Rishi. However, she is feeling betrayed when she learns the truth about her marriage</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch656_LakshiKalyanam.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch656_zee_tamil_exclusive.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="138" start="20250826050000 +0000" stop="20250826053000 +0000">
 		<title>Mounam Pesiyathey - EP 248</title>
 		<desc>Thulasi, married to the thug Sethu, meets Siva, who loses his memory.Mistaken for his wife, she pretends to be, but as Sethu searches for her, she falls in love with Siva.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch656_MounamPesiyathey.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch656_zee_tamil_exclusive.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="138" start="20250826053000 +0000" stop="20250826060000 +0000">
 		<title>Manasellam - EP 186</title>
@@ -6925,7 +6929,7 @@
 	<programme channel="138" start="20250826090000 +0000" stop="20250826093000 +0000">
 		<title>Maari - EP 1013</title>
 		<desc>Maari' is about a gifted village girl facing victimization for her premonition powers. Unexpectedly marrying Surya, she becomes his savior.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch656_Maari.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch656_zee_tamil_exclusive.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="138" start="20250826093000 +0000" stop="20250826100000 +0000">
 		<title>Manasellam - EP 186</title>
@@ -6950,12 +6954,12 @@
 	<programme channel="138" start="20250826113000 +0000" stop="20250826120000 +0000">
 		<title>Veera - EP 414</title>
 		<desc>Rannvijay raises his half-sister Veera as his own child, while their mother Ratan, though showing contempt towards Veera, secretly supports her son in raising her.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch656_Veera.jpg?w=960&amp;h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch656_zee_tamil_exclusive.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="138" start="20250826120000 +0000" stop="20250826123000 +0000">
 		<title>Anna - EP 761</title>
 		<desc>When a caring brother discovers the evil guy tormenting his estranged sister, he springs into action to confront the villain and help turn her life around for the better.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch656_Anna.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch656_zee_tamil_exclusive.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="138" start="20250826123000 +0000" stop="20250826130000 +0000">
 		<title>Ayali - EP 65</title>
@@ -6965,27 +6969,27 @@
 	<programme channel="138" start="20250826130000 +0000" stop="20250826134500 +0000">
 		<title>Karthigai Deepam - EP 956</title>
 		<desc>A gifted dark-skinned woman, a remarkable singer, marries a supportive man, defies beauty norms, and achieves music stardom with her talent.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch656_KarthigaiDeepam.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch656_zee_tamil_exclusive.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="138" start="20250826134500 +0000" stop="20250826143000 +0000">
 		<title>Sandhya Raagam - EP 627</title>
 		<desc>Aadhya, after losing her mother, is cared for by her aunt Janaki, who must balance Aadhya's urban lifestyle with her family's disapproval. Can Janaki provide the life Aadhya deserves?</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch656_SandhyaRagam.jpg?w=960&amp;h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch656_zee_tamil_exclusive.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="138" start="20250826143000 +0000" stop="20250826150000 +0000">
 		<title>Idhayam - EP 772</title>
 		<desc>Shankar's discovery of his friend being a womanizer comes to light when his wife is accused of murdering him, revealing another suspect.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch656_Idhayam.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch656_zee_tamil_exclusive.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="138" start="20250826150000 +0000" stop="20250826151500 +0000">
 		<title>Ninaithale Inikkum - EP 1362</title>
 		<desc>Meet a determined girl with big dreams of becoming a successful businesswoman. Follow her journey as she navigates challenges, pursues her passions, and learns what it takes to succeed.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch656_ninaithale_inikkum.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch656_zee_tamil_exclusive.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="138" start="20250826151500 +0000" stop="20250826153000 +0000">
 		<title>Ninaithale Inikkum - EP 1363</title>
 		<desc>Meet a determined girl with big dreams of becoming a successful businesswoman. Follow her journey as she navigates challenges, pursues her passions, and learns what it takes to succeed.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch656_ninaithale_inikkum.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch656_zee_tamil_exclusive.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="138" start="20250826153000 +0000" stop="20250826160000 +0000">
 		<title>Chinnanjiru Kiliye - EP 26</title>
@@ -10232,15 +10236,15 @@
 		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_Channels2/204_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="204" start="20250825220000 +0000" stop="20250826001500 +0000">
+	<programme channel="204" start="20250825220000 +0000" stop="20250825231500 +0000">
 		<title>End of Transmission</title>
 		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_Channels2/204_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="204" start="20250826001500 +0000" stop="20250826044500 +0000">
+	<programme channel="204" start="20250825231500 +0000" stop="20250826034500 +0000">
 		<title>TATA Indian Premier League 2025: M53 - Kolkata Knight Riders vs Rajasthan Royals</title>
 		<desc>The 2025 Indian Premier League, a franchise Twenty20 cricket league held in India, returns for the 18th year, and will feature ten teams competing in 74 matches from 14 March to 25 May 2025.</desc>
-		<icon src="https://poster.starhubgo.com/poster/IPL2025_M53.jpg?w=960&amp;h=540" />
+		<icon src="https://poster.starhubgo.com/poster/IPL2025_M53.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="204" start="20250826044500 +0000" stop="20250826074500 +0000">
 		<title>The Hundred Women 2025: M27 - WF vs TR</title>
@@ -12131,6 +12135,31 @@
 		<title>End of Transmission</title>
 		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_Channels2/224_1920x1080_HTV.png?w=960&amp;h=540" />
+	</programme>
+	<programme channel="225" start="20250824220000 +0000" stop="20250825040000 +0000">
+		<title>End of Transmission</title>
+		<desc />
+		<icon src="https://poster.starhubgo.com/Linear_Channels2/225_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="225" start="20250825040000 +0000" stop="20250825100000 +0000">
+		<title>End of Transmission</title>
+		<desc />
+		<icon src="https://poster.starhubgo.com/Linear_Channels2/225_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="225" start="20250825100000 +0000" stop="20250825160000 +0000">
+		<title>End of Transmission</title>
+		<desc />
+		<icon src="https://poster.starhubgo.com/Linear_Channels2/225_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="225" start="20250825160000 +0000" stop="20250825220000 +0000">
+		<title>End of Transmission</title>
+		<desc />
+		<icon src="https://poster.starhubgo.com/Linear_Channels2/225_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="225" start="20250825220000 +0000" stop="20250826040000 +0000">
+		<title>End of Transmission</title>
+		<desc />
+		<icon src="https://poster.starhubgo.com/Linear_Channels2/225_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="228" start="20250824160000 +0000" stop="20250824220000 +0000">
 		<title>End of Transmission</title>
@@ -31914,6 +31943,11 @@
 	</programme>
 	<programme channel="817" start="20250826050000 +0000" stop="20250826053000 +0000">
 		<title>The Kulture Wave [L]</title>
+		<desc>Stay tuned for more of the best of Korea on Arirang, as we bring you a variety of genres that include dramas, movies, concerts, game shows, animation, music, documentaries, lifestyle and tourism.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/817_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="817" start="20250826053000 +0000" stop="20250826060000 +0000">
+		<title>News Generation</title>
 		<desc>Stay tuned for more of the best of Korea on Arirang, as we bring you a variety of genres that include dramas, movies, concerts, game shows, animation, music, documentaries, lifestyle and tourism.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/817_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
