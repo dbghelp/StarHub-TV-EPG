@@ -22516,10 +22516,15 @@
 		<desc>The untold story of the Witches of Oz, spotlighting the untold stories of Oz's most infamous characters.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch633_Wicked.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="603" start="20250826164000 +0000" stop="20250826202500 +0000">
+	<programme channel="603" start="20250826164000 +0000" stop="20250826191500 +0000">
 		<title>Gladiator</title>
 		<desc>A Roman general left for dead seeks vengeance as a gladiator in Ancient Rome.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch633_gladiator.jpg?w=960&amp;h=540" />
+	</programme>
+	<programme channel="603" start="20250826191500 +0000" stop="20250826202500 +0000">
+		<title>Dune: Prophecy S1 - EP 3</title>
+		<desc>Years earlier, Tula worries about being accepted despite her family name, while Valya struggles with taking the Sisterhood vow.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch633_DuneProphecyS1.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="603" start="20250826202500 +0000" stop="20250826224000 +0000">
 		<title>Rain Man</title>
@@ -22530,11 +22535,6 @@
 		<title>Boycott</title>
 		<desc>A HBO Original movie based on the 13-month boycott of the use of bus services in Alabama after a black woman refuses to give up her seat to a white man.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch633_boycott.jpg?w=341&amp;h=192" />
-	</programme>
-	<programme channel="603" start="20250827004000 +0000" stop="20250827014500 +0000">
-		<title>Dune: Prophecy S1 - EP 4</title>
-		<desc>As Tula attempts to understand the acolytes’ shared dream, Valya sets her plan in motion to redeem House Harkonnen ahead of the Landsraad.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch633_DuneProphecyS1.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="603" start="20250827014500 +0000" stop="20250827042000 +0000">
 		<title>Gladiator</title>
