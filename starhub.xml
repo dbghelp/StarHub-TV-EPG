@@ -2037,7 +2037,7 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="106" start="20250827130000 +0000" stop="20250827140000 +0000">
-		<title>Separation : Declassified - EP 1</title>
+		<title>Separation: Declassified - EP 1</title>
 		<desc>A gripping political docu-thriller set in the shadows of 1965, Singapore: Declassified uncovers the countdown to Singapore’s separation from Malaysia, told through secret files, midnight deals, and intensifying global stakes</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
@@ -10336,25 +10336,15 @@
 		<desc>Be sure to catch the inspirational power of surfing through the 2025 WSL Championship Tour &amp; Challenger Series.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/209_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="209" start="20250826053000 +0000" stop="20250826090000 +0000">
+	<programme channel="209" start="20250826053000 +0000" stop="20250826082500 +0000">
 		<title>2025 World Archery Youth Championships, Winnipeg (CAN)</title>
 		<desc>The world's top young archers come together in Winnipeg to compete and celebrate the sport of archery.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/209_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="209" start="20250826090000 +0000" stop="20250826132000 +0000">
+	<programme channel="209" start="20250826082500 +0000" stop="20250826150000 +0000">
 		<title>2025 US Open Tennis Championship Day 2</title>
 		<desc>The finest tennis players on the planet lock horns on the hard-courts of Flushing Meadows in pursuit of the sport's toughest title at the fourth and final Grand Slam of the year.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch209_us_open.jpg?w=960&amp;h=540" />
-	</programme>
-	<programme channel="209" start="20250826132000 +0000" stop="20250826140000 +0000">
-		<title>2025 SLS Championship Tour Cleveland</title>
-		<desc>From the streets to the league, the SLS features professional street skateboarders competing for the largest monetary prize in the history of skateboarding</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/209_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="209" start="20250826140000 +0000" stop="20250826150000 +0000">
-		<title>WSL Replay: Tahiti Pro Finals Day</title>
-		<desc>Be sure to catch the inspirational power of surfing through the 2025 WSL Championship Tour &amp; Challenger Series.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/209_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="209" start="20250826150000 +0000" stop="20250826153000 +0000">
 		<title>2025 US Open Tennis Championship Day 2</title>
@@ -10391,10 +10381,15 @@
 		<desc>Be sure to catch the inspirational power of surfing through the 2025 WSL Championship Tour &amp; Challenger Series.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/209_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="209" start="20250827053000 +0000" stop="20250827090000 +0000">
+	<programme channel="209" start="20250827053000 +0000" stop="20250827083000 +0000">
 		<title>2025 World Archery Youth Championships, Winnipeg (CAN)</title>
 		<desc>The world's top young archers come together in Winnipeg to compete and celebrate the sport of archery.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/209_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="209" start="20250827083000 +0000" stop="20250827090000 +0000">
+		<title>2025 US Open Tennis Championship Day 1</title>
+		<desc>The finest tennis players on the planet lock horns on the hard-courts of Flushing Meadows in pursuit of the sport's toughest title at the fourth and final Grand Slam of the year.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch209_us_open.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="209" start="20250827090000 +0000" stop="20250827140000 +0000">
 		<title>2025 US Open Tennis Championship Day 3</title>
@@ -22535,6 +22530,11 @@
 		<title>Boycott</title>
 		<desc>A HBO Original movie based on the 13-month boycott of the use of bus services in Alabama after a black woman refuses to give up her seat to a white man.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch633_boycott.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="603" start="20250827004000 +0000" stop="20250827014500 +0000">
+		<title>Dune: Prophecy S1 - EP 4</title>
+		<desc>As Tula attempts to understand the acolytes’ shared dream, Valya sets her plan in motion to redeem House Harkonnen ahead of the Landsraad.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch633_DuneProphecyS1.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="603" start="20250827014500 +0000" stop="20250827042000 +0000">
 		<title>Gladiator</title>
