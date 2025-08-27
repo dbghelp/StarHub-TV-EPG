@@ -4653,7 +4653,7 @@
 	</programme>
 	<programme channel="128" start="20250826173000 +0000" stop="20250826180000 +0000">
 		<title>Shiv-Shakti Tap..Tyaag..Tandav - EP 792</title>
-		<desc>Lord Shiva and Goddess Paravati navigate their union and perform duties for humanity.</desc>
+		<desc>When water is poured on the Shivling, it transforms into Shiva and Parvathi.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch128_shiv_shakti_tap_tyaag_tandav.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="128" start="20250826180000 +0000" stop="20250826183000 +0000">
@@ -4683,7 +4683,7 @@
 	</programme>
 	<programme channel="128" start="20250826210000 +0000" stop="20250826213000 +0000">
 		<title>Shiv-Shakti Tap..Tyaag..Tandav - EP 792</title>
-		<desc>Lord Shiva and Goddess Paravati navigate their union and perform duties for humanity.</desc>
+		<desc>When water is poured on the Shivling, it transforms into Shiva and Parvathi.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch128_shiv_shakti_tap_tyaag_tandav.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="128" start="20250826213000 +0000" stop="20250826220000 +0000">
@@ -4693,7 +4693,7 @@
 	</programme>
 	<programme channel="128" start="20250826220000 +0000" stop="20250826223000 +0000">
 		<title>Shiv-Shakti Tap..Tyaag..Tandav - EP 792</title>
-		<desc>Lord Shiva and Goddess Paravati navigate their union and perform duties for humanity.</desc>
+		<desc>When water is poured on the Shivling, it transforms into Shiva and Parvathi.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch128_shiv_shakti_tap_tyaag_tandav.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="128" start="20250826223000 +0000" stop="20250826230000 +0000">
@@ -10411,6 +10411,11 @@
 		<desc>The finest tennis players on the planet lock horns on the hard-courts of Flushing Meadows in pursuit of the sport's toughest title at the fourth and final Grand Slam of the year.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_us_open.jpg?w=341&amp;h=192" />
 	</programme>
+	<programme channel="210" start="20250828040000 +0000" stop="20250828043000 +0000">
+		<title>MotoGP 2025 Spotlight</title>
+		<desc>Aragon Fans Story | Enea Bastianini Mugello Quiz | Mugello Moments | Toprak Razgatlioglu to MotoGP | Workshop: Honda | Show &amp; Tell: Fermin Aldeguer | Marco Bezzecchi Hot Lap</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch210_motogp.jpg?w=341&amp;h=192" />
+	</programme>
 	<programme channel="210" start="20250828043000 +0000" stop="20250828050000 +0000">
 		<title>Rolex Spirit of Yachting</title>
 		<desc>From the fast-paced SailGP Grand Prix events to offshore classics such as the Rolex Sydney Hobart Yacht Race, Rolex Spirit of Yachting showcases the foremost sailing competitions around the world.</desc>
@@ -10694,7 +10699,7 @@
 	<programme channel="213" start="20250826185500 +0000" stop="20250826210000 +0000">
 		<title>UEFA Champions League 2025/26: Pafos vs Crvena Zvezda - Play-Offs,2nd Leg (Live)</title>
 		<desc>The most prestigious tournament in the world contested by top-division elite European clubs</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch213_uefa_champions_league_live.jpg?w=960&amp;h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch213_uefa_champions_league.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="213" start="20250826210000 +0000" stop="20250826213000 +0000">
 		<title>Mini Match - LaLiga 2025/26: Real Oviedo vs Real Madrid</title>
@@ -11106,10 +11111,10 @@
 		<desc>Don’t miss any of the action with the official UEFA Champions League highlights show</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch214_UCL_hIghlights.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="214" start="20250828153000 +0000" stop="20250828160000 +0000">
-		<title>Bundesliga Weekly 2025/26</title>
-		<desc>Weekly preview show with all relevant information on upcoming matches and the latest news from the Bundesliga</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch214_bundesliga_weekly.jpg?w=960&amp;h=540" />
+	<programme channel="214" start="20250828153000 +0000" stop="20250828174500 +0000">
+		<title>UEFA Champions League Draw 2025/26 (Live)</title>
+		<desc>Find out all the match fixtures in each round of Europe's most premier football competition</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch214_UCL_live.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="217" start="20250826153000 +0000" stop="20250826160200 +0000">
 		<title>Australia tour of West Indies, 2025 H/Ls: WI v AUS, 2nd Test</title>
@@ -11965,6 +11970,46 @@
 		<title>End of Transmission</title>
 		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_Channels2/223_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="224" start="20250826160000 +0000" stop="20250826220000 +0000">
+		<title>End of Transmission</title>
+		<desc />
+		<icon src="https://poster.starhubgo.com/Linear_Channels2/224_1920x1080_HTV.png?w=960&amp;h=540" />
+	</programme>
+	<programme channel="224" start="20250826220000 +0000" stop="20250827040000 +0000">
+		<title>End of Transmission</title>
+		<desc />
+		<icon src="https://poster.starhubgo.com/Linear_Channels2/224_1920x1080_HTV.png?w=960&amp;h=540" />
+	</programme>
+	<programme channel="224" start="20250827040000 +0000" stop="20250827100000 +0000">
+		<title>End of Transmission</title>
+		<desc />
+		<icon src="https://poster.starhubgo.com/Linear_Channels2/224_1920x1080_HTV.png?w=960&amp;h=540" />
+	</programme>
+	<programme channel="224" start="20250827100000 +0000" stop="20250827160000 +0000">
+		<title>End of Transmission</title>
+		<desc />
+		<icon src="https://poster.starhubgo.com/Linear_Channels2/224_1920x1080_HTV.png?w=960&amp;h=540" />
+	</programme>
+	<programme channel="224" start="20250827160000 +0000" stop="20250827220000 +0000">
+		<title>End of Transmission</title>
+		<desc />
+		<icon src="https://poster.starhubgo.com/Linear_Channels2/224_1920x1080_HTV.png?w=960&amp;h=540" />
+	</programme>
+	<programme channel="224" start="20250827220000 +0000" stop="20250828040000 +0000">
+		<title>End of Transmission</title>
+		<desc />
+		<icon src="https://poster.starhubgo.com/Linear_Channels2/224_1920x1080_HTV.png?w=960&amp;h=540" />
+	</programme>
+	<programme channel="224" start="20250828040000 +0000" stop="20250828100000 +0000">
+		<title>End of Transmission</title>
+		<desc />
+		<icon src="https://poster.starhubgo.com/Linear_Channels2/224_1920x1080_HTV.png?w=960&amp;h=540" />
+	</programme>
+	<programme channel="224" start="20250828100000 +0000" stop="20250828160000 +0000">
+		<title>End of Transmission</title>
+		<desc />
+		<icon src="https://poster.starhubgo.com/Linear_Channels2/224_1920x1080_HTV.png?w=960&amp;h=540" />
 	</programme>
 	<programme channel="225" start="20250826160000 +0000" stop="20250826220000 +0000">
 		<title>End of Transmission</title>
