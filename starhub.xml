@@ -6048,7 +6048,7 @@
 	</programme>
 	<programme channel="135" start="20250827023000 +0000" stop="20250827034500 +0000">
 		<title>Vinayagar Chathuruthi Sirappu Pattimandram 2025 - EP 1</title>
-		<desc>Devotees learn about special puja timings and rituals, and are advised to avoid moon sighting due to beliefs that it may lead to false accusations, prompting caution.</desc>
+		<desc>A debate show on 'Vaazhkaiyin Anaiththu Seyalgalaiyum Theermaanippathu Vidhiya? Madhiya?' judged by Ku Gnanasambandhan, featuring Aranthangi Nisha, Vijaya Sundrai, BB Muthukumar, Rajmohan and others</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch135_vinayagar_chathuruthi_sirappu_pattimandram_2025.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="135" start="20250827034500 +0000" stop="20250827070000 +0000">
@@ -6057,8 +6057,8 @@
 		<icon src="https://poster.starhubgo.com/poster/ch135_pushpa_2.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="135" start="20250827070000 +0000" stop="20250827090000 +0000">
-		<title>TBA</title>
-		<desc>The name of the program is yet to be announced by the channel.</desc>
+		<title>Mr &amp; Mrs Kitchen - Cwc Special - EP 1</title>
+		<desc>Mr and Mrs Kitchen - Cwc Special</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch135_tba.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="135" start="20250827090000 +0000" stop="20250827120000 +0000">
@@ -6093,7 +6093,7 @@
 	</programme>
 	<programme channel="135" start="20250827143000 +0000" stop="20250827154500 +0000">
 		<title>Vinayagar Chathuruthi Sirappu Pattimandram 2025 - EP 1</title>
-		<desc>Devotees learn about special puja timings and rituals, and are advised to avoid moon sighting due to beliefs that it may lead to false accusations, prompting caution.</desc>
+		<desc>A debate show on 'Vaazhkaiyin Anaiththu Seyalgalaiyum Theermaanippathu Vidhiya? Madhiya?' judged by Ku Gnanasambandhan, featuring Aranthangi Nisha, Vijaya Sundrai, BB Muthukumar, Rajmohan and others</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch135_vinayagar_chathuruthi_sirappu_pattimandram_2025.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="135" start="20250827154500 +0000" stop="20250827190000 +0000">
@@ -6102,8 +6102,8 @@
 		<icon src="https://poster.starhubgo.com/poster/ch135_pushpa_2.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="135" start="20250827190000 +0000" stop="20250827210000 +0000">
-		<title>TBA</title>
-		<desc>The name of the program is yet to be announced by the channel.</desc>
+		<title>Mr &amp; Mrs Kitchen - Cwc Special - EP 1</title>
+		<desc>Mr and Mrs Kitchen - Cwc Special</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch135_tba.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="135" start="20250827210000 +0000" stop="20250828000000 +0000">
@@ -10376,10 +10376,15 @@
 		<desc>The 2025 MotoGP sees 22 of the world's best riders battle on 1000cc prototype machines, delivering over 250hp and reaching speeds of 360kph across 22 thrilling Grands Prix in 18 countries.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_motogp.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="210" start="20250827063000 +0000" stop="20250827113000 +0000">
+	<programme channel="210" start="20250827063000 +0000" stop="20250827110000 +0000">
 		<title>2025 US Open Tennis Championships</title>
 		<desc>The finest tennis players on the planet lock horns on the hard-courts of Flushing Meadows in pursuit of the sport's toughest title at the fourth and final Grand Slam of the year.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_us_open.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="210" start="20250827110000 +0000" stop="20250827113000 +0000">
+		<title>MotoGP 2025 Spotlight</title>
+		<desc>Silverstone Fans Story | In Conversation: Franco Morbidelli | Aragon Moments | Workshop: Telemetry | Alex Rins Motorhome | Get Well Soon Jorge Martin</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch210_motogp.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="210" start="20250827113000 +0000" stop="20250827123000 +0000">
 		<title>Formula E Creators Challenge</title>
@@ -10405,11 +10410,6 @@
 		<title>2025 US Open Tennis Championships</title>
 		<desc>The finest tennis players on the planet lock horns on the hard-courts of Flushing Meadows in pursuit of the sport's toughest title at the fourth and final Grand Slam of the year.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_us_open.jpg?w=341&amp;h=192" />
-	</programme>
-	<programme channel="210" start="20250828040000 +0000" stop="20250828043000 +0000">
-		<title>MotoGP 2025 Spotlight</title>
-		<desc>Aragon Fans Story | Enea Bastianini Mugello Quiz | Mugello Moments | Toprak Razgatlioglu to MotoGP | Workshop: Honda | Show &amp; Tell: Fermin Aldeguer | Marco Bezzecchi Hot Lap</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch210_motogp.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="210" start="20250828043000 +0000" stop="20250828050000 +0000">
 		<title>Rolex Spirit of Yachting</title>
