@@ -364,10 +364,6 @@
 		<display-name>CNN HD</display-name>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/711_1920x1080_HTV.png?w=272" />
 	</channel>
-	<channel id="720">
-		<display-name>SEA Today</display-name>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/720_1920x1080_HTV.png?w=272" />
-	</channel>
 	<channel id="722">
 		<display-name>CGTN</display-name>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/722_1920x1080_HTV.png?w=272" />
@@ -22973,7 +22969,7 @@
 	</programme>
 	<programme channel="701" start="20250829003000 +0000" stop="20250829010000 +0000">
 		<title>The Media Show</title>
-		<desc>A global, topical weekly show that lifts the hood on the entertainment and news business. The Media Show explores the companies and personalities who command our attention.</desc>
+		<desc>Reporting on Zelensky's Washington visit, challenges for Russian exile media, industry shifts at the Edinburgh TV Festival, and a hedge fund that does journalism.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch701_BBC_news.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="701" start="20250829010000 +0000" stop="20250829013000 +0000">
@@ -26305,46 +26301,6 @@
 		<title>The Amanpour Hour</title>
 		<desc>Christiane Amanpour, CNN's chief international anchor, brings valuable insight to the biggest global and domestic news stories of the week.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch711_the_amanpour_hour.jpg?w=960&amp;h=540" />
-	</programme>
-	<programme channel="720" start="20250828160000 +0000" stop="20250828220000 +0000">
-		<title>End Of Transmission</title>
-		<desc />
-		<icon src="https://poster.starhubgo.com/poster/ch720_sea_today_logo.jpg?w=341&amp;h=192" />
-	</programme>
-	<programme channel="720" start="20250828220000 +0000" stop="20250829040000 +0000">
-		<title>End Of Transmission</title>
-		<desc />
-		<icon src="https://poster.starhubgo.com/poster/ch720_sea_today_logo.jpg?w=341&amp;h=192" />
-	</programme>
-	<programme channel="720" start="20250829040000 +0000" stop="20250829100000 +0000">
-		<title>End Of Transmission</title>
-		<desc />
-		<icon src="https://poster.starhubgo.com/poster/ch720_sea_today_logo.jpg?w=341&amp;h=192" />
-	</programme>
-	<programme channel="720" start="20250829100000 +0000" stop="20250829160000 +0000">
-		<title>End Of Transmission</title>
-		<desc />
-		<icon src="https://poster.starhubgo.com/poster/ch720_sea_today_logo.jpg?w=341&amp;h=192" />
-	</programme>
-	<programme channel="720" start="20250829160000 +0000" stop="20250829220000 +0000">
-		<title>End Of Transmission</title>
-		<desc />
-		<icon src="https://poster.starhubgo.com/poster/ch720_sea_today_logo.jpg?w=341&amp;h=192" />
-	</programme>
-	<programme channel="720" start="20250829220000 +0000" stop="20250830040000 +0000">
-		<title>End Of Transmission</title>
-		<desc />
-		<icon src="https://poster.starhubgo.com/poster/ch720_sea_today_logo.jpg?w=341&amp;h=192" />
-	</programme>
-	<programme channel="720" start="20250830040000 +0000" stop="20250830100000 +0000">
-		<title>End Of Transmission</title>
-		<desc />
-		<icon src="https://poster.starhubgo.com/poster/ch720_sea_today_logo.jpg?w=341&amp;h=192" />
-	</programme>
-	<programme channel="720" start="20250830100000 +0000" stop="20250830160000 +0000">
-		<title>End Of Transmission</title>
-		<desc />
-		<icon src="https://poster.starhubgo.com/poster/ch720_sea_today_logo.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="722" start="20250828160000 +0000" stop="20250828170000 +0000">
 		<title>Global Business</title>
@@ -33144,12 +33100,12 @@
 	<programme channel="838" start="20250829123000 +0000" stop="20250829133000 +0000">
 		<title>Heavenly Hand - EP 25</title>
 		<desc>The owner of Tai Lung Fung Mahjong Parlor witnesses the changing of the times, along with his group of neighbourhood friends in Wan Chai. His peaceful life is disrupted by a girl who has the same habits as him, and a USB of unknown origin.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch838_heavenly_hand.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch838_heavenly_hand_still_ep25.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="838" start="20250829133000 +0000" stop="20250829143000 +0000">
 		<title>Dear Enemy - EP 14</title>
 		<desc>Dear Enemy tells the story of two former college friends, Luo Man and Chen Kai Xi, who became bitter rivals after they reunite many years later. But through conflicts in both work and life, they eventually reconcile and grow together along the way.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch838_dear_enemy.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch838_dear_enemy_still_ep14.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="838" start="20250829143000 +0000" stop="20250829150500 +0000">
 		<title>Health Programme</title>
@@ -35084,12 +35040,12 @@
 	<programme channel="996" start="20250829123000 +0000" stop="20250829133000 +0000">
 		<title>Heavenly Hand - EP 25</title>
 		<desc>The owner of Tai Lung Fung Mahjong Parlor witnesses the changing of the times, along with his group of neighbourhood friends in Wan Chai. His peaceful life is disrupted by a girl who has the same habits as him, and a USB of unknown origin.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch838_heavenly_hand.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch838_heavenly_hand_still_ep25.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="996" start="20250829133000 +0000" stop="20250829143000 +0000">
 		<title>Dear Enemy - EP 14</title>
 		<desc>Dear Enemy tells the story of two former college friends, Luo Man and Chen Kai Xi, who became bitter rivals after they reunite many years later. But through conflicts in both work and life, they eventually reconcile and grow together along the way.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch838_dear_enemy.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch838_dear_enemy_still_ep14.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="996" start="20250829143000 +0000" stop="20250829150500 +0000">
 		<title>Health Programme</title>
