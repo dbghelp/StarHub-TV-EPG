@@ -1524,7 +1524,7 @@
 	</programme>
 	<programme channel="104" start="20250904070000 +0000" stop="20250904073000 +0000">
 		<title>Detik Personaliti - EP 4</title>
-		<desc>A programme that profiles inspiring Singaporeans from within the Malay/Muslim and Singapore community.</desc>
+		<desc>Ever wondered what a Minister’s day is really like? Detik Personaliti, featuring Dr Faishal Ibrahim, takes us through the moments that shape his journey in A Day in the Life of a Minister._x000D_</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/104_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="104" start="20250904073000 +0000" stop="20250904080000 +0000">
@@ -10080,7 +10080,7 @@
 	<programme channel="202" start="20250902203000 +0000" stop="20250902210000 +0000">
 		<title>ASO Motorsport Programming 2025</title>
 		<desc>This program contains different motor sport races throughout 2025 which includes FIA affiliated rallies in different countries.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch202_aso.jpg?w=960&amp;h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch202_aubl.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="202" start="20250902210000 +0000" stop="20250902230000 +0000">
 		<title>Wanda Diamond League 2025</title>
@@ -10189,7 +10189,7 @@
 	</programme>
 	<programme channel="202" start="20250904060000 +0000" stop="20250904063000 +0000">
 		<title>UFC Connected 2025</title>
-		<desc>"Fighter Focus: Malcolm Wellmaker, Front Row: Brandon Moreno, Take 5: Chase Hooper, Day One: Zhang Mingyang" UFC Connected is a monthly magazine show that gives fans a unique look inside the UFC with exclusive access to fighters, teams, and events from around the globe.</desc>
+		<desc>" Fighter Focus: Malcolm Wellmaker, Front Row: Brandon Moreno, Take 5: Chase Hooper, Day One: Zhang Mingyang" UFC Connected is a monthly magazine show that gives fans a unique look inside the UFC with exclusive access to fighters, teams, and events from around the globe.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch202_ufc.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="202" start="20250904063000 +0000" stop="20250904073000 +0000">
@@ -10592,20 +10592,10 @@
 		<desc>The finest tennis players on the planet lock horns on the hard-courts of Flushing Meadows in pursuit of the sport's toughest title at the fourth and final Grand Slam of the year.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_us_open.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="210" start="20250903150000 +0000" stop="20250903200000 +0000">
+	<programme channel="210" start="20250903150000 +0000" stop="20250904001000 +0000">
 		<title>2025 US Open Tennis Championships</title>
 		<desc>The finest tennis players on the planet lock horns on the hard-courts of Flushing Meadows in pursuit of the sport's toughest title at the fourth and final Grand Slam of the year.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_us_open.jpg?w=341&amp;h=192" />
-	</programme>
-	<programme channel="210" start="20250903200000 +0000" stop="20250903220000 +0000">
-		<title>SRO Japan Cup 2025 OKAYAMA</title>
-		<desc>The country's only domestic sprint GT championship became a standalone series since 2024, contested with GT3-spec and GT4-spec cars.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch210_motorsports.jpg?w=341&amp;h=192" />
-	</programme>
-	<programme channel="210" start="20250903220000 +0000" stop="20250904001000 +0000">
-		<title>SRO Japan Cup 2025 OKAYAMA</title>
-		<desc>The country's only domestic sprint GT championship became a standalone series since 2024, contested with GT3-spec and GT4-spec cars.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch210_motorsports.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="210" start="20250904001000 +0000" stop="20250904030000 +0000">
 		<title>MLB 2025: Regular Season Houston Astros vs New York Yankees</title>
@@ -32592,97 +32582,102 @@
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20250904010000 +0000" stop="20250904020000 +0000">
+	<programme channel="832" start="20250904010000 +0000" stop="20250904020100 +0000">
 		<title>A Green Trip</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20250904020000 +0000" stop="20250904030000 +0000">
+	<programme channel="832" start="20250904020100 +0000" stop="20250904030900 +0000">
 		<title>Cheer up!small shops</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20250904030000 +0000" stop="20250904033000 +0000">
+	<programme channel="832" start="20250904030900 +0000" stop="20250904033400 +0000">
 		<title>New Entertainment</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20250904033000 +0000" stop="20250904040000 +0000">
+	<programme channel="832" start="20250904033400 +0000" stop="20250904040000 +0000">
 		<title>CARE ON THE WAY</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20250904040000 +0000" stop="20250904043000 +0000">
+	<programme channel="832" start="20250904040000 +0000" stop="20250904042700 +0000">
 		<title>MIDDAY NEWS</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20250904043000 +0000" stop="20250904060000 +0000">
+	<programme channel="832" start="20250904042700 +0000" stop="20250904061600 +0000">
 		<title>Future China</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20250904060000 +0000" stop="20250904063000 +0000">
+	<programme channel="832" start="20250904061600 +0000" stop="20250904064100 +0000">
 		<title>Searching for flavor</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20250904063000 +0000" stop="20250904070000 +0000">
+	<programme channel="832" start="20250904064100 +0000" stop="20250904071200 +0000">
 		<title>I LOVE SHANGHAI</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20250904070000 +0000" stop="20250904090000 +0000">
+	<programme channel="832" start="20250904071200 +0000" stop="20250904084400 +0000">
 		<title>Cheer up!small shops</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20250904090000 +0000" stop="20250904093500 +0000">
-		<title>New Entertainment</title>
-		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="832" start="20250904093500 +0000" stop="20250904100000 +0000">
-		<title>CARE ON THE WAY</title>
-		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="832" start="20250904100000 +0000" stop="20250904110000 +0000">
-		<title>Dragon TV Primetime News</title>
-		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="832" start="20250904110000 +0000" stop="20250904114000 +0000">
+	<programme channel="832" start="20250904084400 +0000" stop="20250904090900 +0000">
 		<title>Searching for flavor</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20250904114000 +0000" stop="20250904120000 +0000">
-		<title>I LOVE SHANGHAI</title>
-		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="832" start="20250904120000 +0000" stop="20250904140000 +0000">
-		<title>A Green Trip</title>
-		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="832" start="20250904140000 +0000" stop="20250904150000 +0000">
-		<title>Future China</title>
-		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="832" start="20250904150000 +0000" stop="20250904153000 +0000">
+	<programme channel="832" start="20250904090900 +0000" stop="20250904093400 +0000">
 		<title>New Entertainment</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20250904153000 +0000" stop="20250904155500 +0000">
+	<programme channel="832" start="20250904093400 +0000" stop="20250904100000 +0000">
 		<title>CARE ON THE WAY</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20250904155500 +0000" stop="20250904170000 +0000">
+	<programme channel="832" start="20250904100000 +0000" stop="20250904105800 +0000">
+		<title>Dragon TV Primetime News</title>
+		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="832" start="20250904105800 +0000" stop="20250904114800 +0000">
+		<title>Searching for flavor</title>
+		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="832" start="20250904114800 +0000" stop="20250904121300 +0000">
+		<title>I LOVE SHANGHAI</title>
+		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="832" start="20250904121300 +0000" stop="20250904140800 +0000">
+		<title>A Green Trip</title>
+		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="832" start="20250904140800 +0000" stop="20250904150200 +0000">
+		<title>Future China</title>
+		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="832" start="20250904150200 +0000" stop="20250904152700 +0000">
+		<title>New Entertainment</title>
+		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="832" start="20250904152700 +0000" stop="20250904155200 +0000">
+		<title>CARE ON THE WAY</title>
+		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="832" start="20250904155200 +0000" stop="20250904172500 +0000">
 		<title>Cheer up!small shops</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
@@ -32855,12 +32850,12 @@
 	<programme channel="838" start="20250903123000 +0000" stop="20250903133000 +0000">
 		<title>Heroes In White - EP 3</title>
 		<desc>A chivalrous doctor, having faced death, is devoted to carrying on his father's humanitarian spirit of helping the world. Educated in the West yet passionate about Chinese traditions, he provides free treatment to one patient after another abandoned by Western medicine.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch838_heroes_in_white.jpg?w=960&amp;h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch838_heroes_in_white_still_ep3.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="838" start="20250903133000 +0000" stop="20250903143000 +0000">
 		<title>Dear Enemy - EP 17</title>
 		<desc>Dear Enemy tells the story of two former college friends, Luo Man and Chen Kai Xi, who became bitter rivals after they reunite many years later. But through conflicts in both work and life, they eventually reconcile and grow together along the way.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch838_dear_enemy.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch838_dear_enemy_still_ep17.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="838" start="20250903143000 +0000" stop="20250903150500 +0000">
 		<title>Hipster Tour - New Zealand</title>
@@ -33055,7 +33050,7 @@
 	<programme channel="838" start="20250904133000 +0000" stop="20250904143000 +0000">
 		<title>Dear Enemy - EP 18</title>
 		<desc>Dear Enemy tells the story of two former college friends, Luo Man and Chen Kai Xi, who became bitter rivals after they reunite many years later. But through conflicts in both work and life, they eventually reconcile and grow together along the way.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch838_dear_enemy.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch838_dear_enemy_still_ep18.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="838" start="20250904143000 +0000" stop="20250904150000 +0000">
 		<title>Hipster Tour - New Zealand</title>
@@ -34590,7 +34585,7 @@
 	<programme channel="995" start="20250902203000 +0000" stop="20250902210000 +0000">
 		<title>ASO Motorsport Programming 2025</title>
 		<desc>This program contains different motor sport races throughout 2025 which includes FIA affiliated rallies in different countries.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch202_aso.jpg?w=960&amp;h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch202_aubl.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="995" start="20250902210000 +0000" stop="20250902230000 +0000">
 		<title>Wanda Diamond League 2025</title>
@@ -34699,7 +34694,7 @@
 	</programme>
 	<programme channel="995" start="20250904060000 +0000" stop="20250904063000 +0000">
 		<title>UFC Connected 2025</title>
-		<desc>"Fighter Focus: Malcolm Wellmaker, Front Row: Brandon Moreno, Take 5: Chase Hooper, Day One: Zhang Mingyang" UFC Connected is a monthly magazine show that gives fans a unique look inside the UFC with exclusive access to fighters, teams, and events from around the globe.</desc>
+		<desc>" Fighter Focus: Malcolm Wellmaker, Front Row: Brandon Moreno, Take 5: Chase Hooper, Day One: Zhang Mingyang" UFC Connected is a monthly magazine show that gives fans a unique look inside the UFC with exclusive access to fighters, teams, and events from around the globe.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch202_ufc.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="995" start="20250904063000 +0000" stop="20250904073000 +0000">
@@ -34905,12 +34900,12 @@
 	<programme channel="996" start="20250903123000 +0000" stop="20250903133000 +0000">
 		<title>Heroes In White - EP 3</title>
 		<desc>A chivalrous doctor, having faced death, is devoted to carrying on his father's humanitarian spirit of helping the world. Educated in the West yet passionate about Chinese traditions, he provides free treatment to one patient after another abandoned by Western medicine.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch838_heroes_in_white.jpg?w=960&amp;h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch838_heroes_in_white_still_ep3.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="996" start="20250903133000 +0000" stop="20250903143000 +0000">
 		<title>Dear Enemy - EP 17</title>
 		<desc>Dear Enemy tells the story of two former college friends, Luo Man and Chen Kai Xi, who became bitter rivals after they reunite many years later. But through conflicts in both work and life, they eventually reconcile and grow together along the way.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch838_dear_enemy.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch838_dear_enemy_still_ep17.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="996" start="20250903143000 +0000" stop="20250903150500 +0000">
 		<title>Hipster Tour - New Zealand</title>
@@ -35105,7 +35100,7 @@
 	<programme channel="996" start="20250904133000 +0000" stop="20250904143000 +0000">
 		<title>Dear Enemy - EP 18</title>
 		<desc>Dear Enemy tells the story of two former college friends, Luo Man and Chen Kai Xi, who became bitter rivals after they reunite many years later. But through conflicts in both work and life, they eventually reconcile and grow together along the way.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch838_dear_enemy.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch838_dear_enemy_still_ep18.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="996" start="20250904143000 +0000" stop="20250904150000 +0000">
 		<title>Hipster Tour - New Zealand</title>
