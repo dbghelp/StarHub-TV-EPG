@@ -2067,7 +2067,7 @@
 		<desc>(Dual language Mandarin and Korean) Yingyi embraces happiness with Qingjun when he wakes up. Euzhen follows Yingyi and realises that Qingjun is Meilina's donor. Qingjun focuses on his work to overcome his troubled heart and decides to leave for the US.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/107_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="107" start="20250902183500 +0000" stop="20250903030000 +0000">
+	<programme channel="107" start="20250902183000 +0000" stop="20250903030000 +0000">
 		<title>End of transmission</title>
 		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_channels2/107_1920x1080_HTV.png?w=341&amp;h=192" />
@@ -9973,24 +9973,19 @@
 		<icon src="https://poster.starhubgo.com/poster/ch201_Heroines2025.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="201" start="20250903093000 +0000" stop="20250903133000 +0000">
-		<title>TotalEnergies BWF World C'ships 2025</title>
+		<title>TotalEnergies BWF World Championships 2025</title>
 		<desc>The BWF World Championships is the most prestigious badminton competition, offering the most ranking points. The winners of the tournament are World Champions of the sport and are awarded a gold medal. The tournament started in 1977. Starting 2006, the tournament was changed to an annual event on the BWF calendar. The tournament is not held during the Summer Olympics years to avoid schedule conflicts.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch201_TotalEnergiesBWFWorldChampionships2025.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="201" start="20250903133000 +0000" stop="20250903143000 +0000">
-		<title>Davis Cup Qualifiers 2025 1st Rd H/Ls Show</title>
+		<title>Davis Cup Qualifiers 2025 1st Round H/Ls Show</title>
 		<desc>Catch all the best moments from the 26 teams from the first round of qualifying in a series decided on a home and away basis.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch201_DAVISCup2024.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="201" start="20250903143000 +0000" stop="20250903144500 +0000">
-		<title>Badminton Weekly 2025</title>
-		<desc>Badminton Weekly discusses about the standout moments from the tour, as well as insights, unforgettable matches and close shaves as players make their final push to become champion in their own right.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch201_BadmintonWeekly.jpg?w=960&amp;h=540" />
-	</programme>
-	<programme channel="201" start="20250903144500 +0000" stop="20250903150000 +0000">
-		<title>Badminton Weekly 2025</title>
-		<desc>Badminton Weekly discusses about the standout moments from the tour, as well as insights, unforgettable matches and close shaves as players make their final push to become champion in their own right.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch201_BadmintonWeekly.jpg?w=960&amp;h=540" />
+	<programme channel="201" start="20250903143000 +0000" stop="20250903150000 +0000">
+		<title>ASO Miscellaneous Programming 2025</title>
+		<desc>The 2025 Spartan Ultra World Championship is the ultimate endurance battle that requires participants to be relentless as they trek through dense forests, ascend towering peaks, and descend steep slopes while putting their endurance, strength, and unwavering spirit to the test.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch201_aso.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="201" start="20250903150000 +0000" stop="20250903160000 +0000">
 		<title>ASO Cycling Programming 2025</title>
@@ -10003,7 +9998,7 @@
 		<icon src="https://poster.starhubgo.com/poster/ch201_wta_tour.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="201" start="20250903200000 +0000" stop="20250903230000 +0000">
-		<title>Halo World Snooker C'ship2025 Day 1 (Table 2): R1-10 (Xiao Guodong vs Matthew Se</title>
+		<title>Halo World Snooker C'ship2025 Day 1: R1-10 (Xiao Guodong vs Matthew Selt)</title>
 		<desc>The 2025 World Snooker Championship is a professional snooker tournament organised by the World Snooker Tour and will take place at the Crucible Theatre in Sheffield, England. The winner will receive £500,000 from a total prize fund of £2,395,000. Kyren Wilson is the defending champion and will attempt to to overcome the so-called "Crucible curse", under which no first-time champion has retained the title since the tournament moved to the Crucible Theatre in 1977.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch201_world_snooker_tour.jpg?w=341&amp;h=192" />
 	</programme>
@@ -10462,15 +10457,25 @@
 		<desc>The finest tennis players on the planet lock horns on the hard-courts of Flushing Meadows in pursuit of the sport's toughest title at the fourth and final Grand Slam of the year.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch209_us_open.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="209" start="20250903090000 +0000" stop="20250903140000 +0000">
+	<programme channel="209" start="20250903090000 +0000" stop="20250903123500 +0000">
 		<title>2025 US Open Tennis Championship Day 10</title>
 		<desc>The finest tennis players on the planet lock horns on the hard-courts of Flushing Meadows in pursuit of the sport's toughest title at the fourth and final Grand Slam of the year.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch209_us_open.jpg?w=960&amp;h=540" />
 	</programme>
+	<programme channel="209" start="20250903123500 +0000" stop="20250903133100 +0000">
+		<title>Formula E Driver</title>
+		<desc>A series (akin to Drive to Survive) which follows the story of 4 drivers in FE in S10 across 4 episodes - their dreams, their journeys, their challenges and successes.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch209_formula_e.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="209" start="20250903133100 +0000" stop="20250903140000 +0000">
+		<title>2025 US Open Tennis Championship Day 9</title>
+		<desc>The finest tennis players on the planet lock horns on the hard-courts of Flushing Meadows in pursuit of the sport's toughest title at the fourth and final Grand Slam of the year.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch209_us_open.jpg?w=960&amp;h=540" />
+	</programme>
 	<programme channel="209" start="20250903140000 +0000" stop="20250903150000 +0000">
-		<title>2025 World Archery Youth Championships, Winnipeg (CAN)</title>
-		<desc>The world's top young archers come together in Winnipeg to compete and celebrate the sport of archery.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/209_1920x1080_HTV.png?w=341&amp;h=192" />
+		<title>Formula E Season 11 Review Show</title>
+		<desc>The 11th edition of the Formula E series provided spectacular action to see a new World Champion crowned. We're all about wheel-to-wheel action to 10 exciting race locations around the world.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch209_formula_e.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="209" start="20250903150000 +0000" stop="20250903153000 +0000">
 		<title>2025 US Open Tennis Championship Day 10</title>
