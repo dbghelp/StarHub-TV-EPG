@@ -959,7 +959,7 @@
 	</programme>
 	<programme channel="102" start="20250905133000 +0000" stop="20250905140000 +0000">
 		<title>On The Red Dot - EP 17</title>
-		<desc>I Am a Hawker: Bib Gourmand Edition follows Singapore’s most celebrated hawkers-those who’ve earned and fight to keep their Michelin Bib Gourmand. Each episode spotlights one hawker’s journey through tradition, innovation, and the relentless pressure of holding that title, revealing the personal stakes, sacrifices, and resilience behind every award-winning dish.</desc>
+		<desc>Brothers Benson &amp; Winson Moo, protégés of Chef Kang, turned his wonton noodles into a hawker hit. They won the Bib Gourmand, lost it, then won it back. Can they hold on this year?</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="102" start="20250905140000 +0000" stop="20250905161500 +0000">
@@ -1963,7 +1963,7 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="106" start="20250905080000 +0000" stop="20250905090000 +0000">
-		<title>One Orphan Every Hour - EP 1</title>
+		<title>One "Orphan" Every Hour - EP 1</title>
 		<desc>Nearly 250,000 South Korean children were adopted to the West as "orphans" over six decades. Many were told to be grateful; but were they truly "rescued"?</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
@@ -4529,7 +4529,7 @@
 	</programme>
 	<programme channel="128" start="20250903163000 +0000" stop="20250903170000 +0000">
 		<title>Mannat Harr Khushi Paane Ki - EP 178</title>
-		<desc>Chef Mannat's dreams clash with her employer, who is her secret birth mother and nemesis.</desc>
+		<desc>Mannat's conviction remains unshaken as she accuses Aish of abducting Malla.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch128_mannat_harr_khushi_paane_ki.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="128" start="20250903170000 +0000" stop="20250903173000 +0000">
@@ -4549,7 +4549,7 @@
 	</programme>
 	<programme channel="128" start="20250903183000 +0000" stop="20250903190000 +0000">
 		<title>Mannat Harr Khushi Paane Ki - EP 178</title>
-		<desc>Chef Mannat's dreams clash with her employer, who is her secret birth mother and nemesis.</desc>
+		<desc>Mannat's conviction remains unshaken as she accuses Aish of abducting Malla.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch128_mannat_harr_khushi_paane_ki.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="128" start="20250903190000 +0000" stop="20250903200000 +0000">
@@ -4584,7 +4584,7 @@
 	</programme>
 	<programme channel="128" start="20250903223000 +0000" stop="20250903230000 +0000">
 		<title>Mannat Harr Khushi Paane Ki - EP 178</title>
-		<desc>Chef Mannat's dreams clash with her employer, who is her secret birth mother and nemesis.</desc>
+		<desc>Mannat's conviction remains unshaken as she accuses Aish of abducting Malla.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch128_mannat_harr_khushi_paane_ki.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="128" start="20250903230000 +0000" stop="20250903233000 +0000">
@@ -10382,23 +10382,8 @@
 		<desc>The finest tennis players on the planet lock horns on the hard-courts of Flushing Meadows in pursuit of the sport's toughest title at the fourth and final Grand Slam of the year.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch209_us_open.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="209" start="20250904083000 +0000" stop="20250904090000 +0000">
-		<title>2025 SuperTriE Round 2 Chicago</title>
-		<desc>Fusing the worlds of real life and virtual racing in a seamless package, supertri E is a multi award winning sporting leader thanks to its sheer innovation.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch209_motorsports.jpg?w=960&amp;h=540" />
-	</programme>
-	<programme channel="209" start="20250904090000 +0000" stop="20250904140000 +0000">
+	<programme channel="209" start="20250904083000 +0000" stop="20250904150000 +0000">
 		<title>2025 US Open Tennis Championship Day 11</title>
-		<desc>The finest tennis players on the planet lock horns on the hard-courts of Flushing Meadows in pursuit of the sport's toughest title at the fourth and final Grand Slam of the year.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch209_us_open.jpg?w=960&amp;h=540" />
-	</programme>
-	<programme channel="209" start="20250904140000 +0000" stop="20250904143000 +0000">
-		<title>2025 US Open Tennis Championship Day 9</title>
-		<desc>The finest tennis players on the planet lock horns on the hard-courts of Flushing Meadows in pursuit of the sport's toughest title at the fourth and final Grand Slam of the year.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch209_us_open.jpg?w=960&amp;h=540" />
-	</programme>
-	<programme channel="209" start="20250904143000 +0000" stop="20250904150000 +0000">
-		<title>2025 US Open Tennis Championship Day 10</title>
 		<desc>The finest tennis players on the planet lock horns on the hard-courts of Flushing Meadows in pursuit of the sport's toughest title at the fourth and final Grand Slam of the year.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch209_us_open.jpg?w=960&amp;h=540" />
 	</programme>
@@ -10502,20 +10487,20 @@
 		<desc>The finest tennis players on the planet lock horns on the hard-courts of Flushing Meadows in pursuit of the sport's toughest title at the fourth and final Grand Slam of the year.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_us_open.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="210" start="20250904150000 +0000" stop="20250904200000 +0000">
+	<programme channel="210" start="20250904150000 +0000" stop="20250904160000 +0000">
+		<title>T100 Triathlon - French Riviera</title>
+		<desc>40 of the world's best female and male professional triathletes battle over 8 breakneck 100km races in iconic locations around the globe in a bid to be crowned the first-ever T100 World Champions.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch210_spotv2_logo.jpg?w=960&amp;h=540" />
+	</programme>
+	<programme channel="210" start="20250904160000 +0000" stop="20250904200000 +0000">
 		<title>2025 US Open Tennis Championships</title>
 		<desc>The finest tennis players on the planet lock horns on the hard-courts of Flushing Meadows in pursuit of the sport's toughest title at the fourth and final Grand Slam of the year.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_us_open.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="210" start="20250904200000 +0000" stop="20250904220000 +0000">
-		<title>GT World Challenge Asia 2025, Okayama (JPN）</title>
-		<desc>The GT World Challenge Asia Powered by AWS is one of the select few multi-class championships that combines GT3 and GT4 cars, consistently drawing an average of over 30 cars per race.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch210_motorsports.jpg?w=341&amp;h=192" />
-	</programme>
-	<programme channel="210" start="20250904220000 +0000" stop="20250904224000 +0000">
-		<title>SPOTV Encore: 2025 WTT Champions Japan</title>
-		<desc>Compilation of WTT Champions Japan Finals' Highlights</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch210_wtt.jpg?w=341&amp;h=192" />
+	<programme channel="210" start="20250904200000 +0000" stop="20250904224000 +0000">
+		<title>2025 US Open Tennis Championships</title>
+		<desc>The finest tennis players on the planet lock horns on the hard-courts of Flushing Meadows in pursuit of the sport's toughest title at the fourth and final Grand Slam of the year.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch210_us_open.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="210" start="20250904224000 +0000" stop="20250905013000 +0000">
 		<title>MLB 2025: Regular Season Pittsburgh Pirates vs Los Angeles Dodgers</title>
@@ -10527,7 +10512,12 @@
 		<desc>The 2025 MotoGP sees 22 of the world's best riders battle on 1000cc prototype machines, delivering over 250hp and reaching speeds of 360kph across 22 thrilling Grands Prix in 18 countries.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_motogp.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="210" start="20250905023000 +0000" stop="20250905065500 +0000">
+	<programme channel="210" start="20250905023000 +0000" stop="20250905030000 +0000">
+		<title>2025 Marvel Fantastic Four London E-Prix S11: Rd 15</title>
+		<desc>Join us to witness the next generation of the ABB FIA Formula E World Championship as our drivers unleash their Gen3 challengers for the very first time.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch210_motorsports.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="210" start="20250905030000 +0000" stop="20250905065500 +0000">
 		<title>2025 US Open Tennis Championships</title>
 		<desc>The finest tennis players on the planet lock horns on the hard-courts of Flushing Meadows in pursuit of the sport's toughest title at the fourth and final Grand Slam of the year.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_us_open.jpg?w=341&amp;h=192" />
@@ -25752,30 +25742,40 @@
 		<desc>Bloomberg's Alix Steel and Paul Sweeney harness the power of Bloomberg Intelligence to provide in-depth research and data on more than 2,000 companies and 130 industries.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/709_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="711" start="20250903170000 +0000" stop="20250903180000 +0000">
-		<title>Amanpour</title>
-		<desc>Christiane Amanpour provides her powerful interview skills and provocative analysis on global stories that matter to you.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch711_amanpour.jpg?w=341&amp;h=192" />
-	</programme>
-	<programme channel="711" start="20250903190000 +0000" stop="20250903200000 +0000">
-		<title>What We Know with Max Foster</title>
-		<desc>Max Foster has a definitive roundup of the day's top stories, giving you the urgent need-to-know context, plus a deeper dive into the questions sparking debate around the world.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch711_cnn_generic.jpg?w=341&amp;h=192" />
-	</programme>
-	<programme channel="711" start="20250903210000 +0000" stop="20250903213000 +0000">
-		<title>The Lead</title>
-		<desc>Jake Tapper covers all the day's top stories around the country and the globe, from politics to money, sports to popular culture.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch711_the_lead_with_jake_tapper.jpg?w=341&amp;h=192" />
-	</programme>
-	<programme channel="711" start="20250903213000 +0000" stop="20250903220000 +0000">
+	<programme channel="711" start="20250903164500 +0000" stop="20250903170000 +0000">
 		<title>World Sport</title>
 		<desc>Daily sports show features major stories and issues making news in the world of sports.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch711_world_sport.jpg?w=341&amp;h=192" />
 	</programme>
+	<programme channel="711" start="20250903170000 +0000" stop="20250903184500 +0000">
+		<title>CNN Newsroom (CNNI)</title>
+		<desc>Live context and clarity to the day's top stories from around the world.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch711_cnn_newsroom.jpg?w=960&amp;h=540" />
+	</programme>
+	<programme channel="711" start="20250903184500 +0000" stop="20250903190000 +0000">
+		<title>World Sport</title>
+		<desc>Daily sports show features major stories and issues making news in the world of sports.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch711_world_sport.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="711" start="20250903190000 +0000" stop="20250903200000 +0000">
+		<title>CNN Newsroom (CNNI)</title>
+		<desc>Live context and clarity to the day's top stories from around the world.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch711_cnn_newsroom.jpg?w=960&amp;h=540" />
+	</programme>
+	<programme channel="711" start="20250903200000 +0000" stop="20250903210000 +0000">
+		<title>Amanpour</title>
+		<desc>Christiane Amanpour provides her powerful interview skills and provocative analysis on global stories that matter to you.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch711_amanpour.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="711" start="20250903210000 +0000" stop="20250903220000 +0000">
+		<title>Early Start with Rahel Solomon</title>
+		<desc>The news you need, first thing. Rahel Solomon has you covered with the latest headlines.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch711_early_start.jpg?w=341&amp;h=192" />
+	</programme>
 	<programme channel="711" start="20250903220000 +0000" stop="20250903230000 +0000">
-		<title>The Brief with Jim Sciutto</title>
-		<desc>The best of CNN's reporting from correspondents across the world, to guide global audiences through the fast-paced news cycle with insight, analysis and hard-hitting interviews.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch711_cnn_generic.jpg?w=341&amp;h=192" />
+		<title>CNN This Morning</title>
+		<desc>Start your day with Audie Cornish bringing you the latest headlines and analysis.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch711_cnn_this_morning.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="711" start="20250903230000 +0000" stop="20250904003000 +0000">
 		<title>CNN News Central</title>
@@ -25887,90 +25887,70 @@
 		<desc>Stay up to date with John Berman, Kate Bolduan and Sara Sidner from CNN's immersive news hub.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch711_cnn_news_central.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="711" start="20250905010000 +0000" stop="20250905020000 +0000">
-		<title>The Source</title>
-		<desc>Kaitlan Collins goes straight to the source for the best reporting on the day's biggest stories.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch711_the_source.jpg?w=960&amp;h=540" />
-	</programme>
-	<programme channel="711" start="20250905020000 +0000" stop="20250905030000 +0000">
-		<title>CNN NewsNight</title>
-		<desc>Abby Phillip leads a roundtable discussion on the day's biggest stories and issues shaping our world.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch711_cnn_newsnight_with_abby_phillip.jpg?w=341&amp;h=192" />
-	</programme>
-	<programme channel="711" start="20250905030000 +0000" stop="20250905040000 +0000">
-		<title>Laura Coates Live</title>
-		<desc>Laura Coates goes inside the story with a relentless pursuit of the facts.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch711_laura_coates_live.jpg?w=341&amp;h=192" />
-	</programme>
-	<programme channel="711" start="20250905040000 +0000" stop="20250905044500 +0000">
-		<title>CNN Newsroom</title>
-		<desc>Live context and clarity to the day's top stories from around the world.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch711_cnn_newsroom.jpg?w=960&amp;h=540" />
-	</programme>
-	<programme channel="711" start="20250905050000 +0000" stop="20250905060000 +0000">
-		<title>CNN Newsroom</title>
-		<desc>Live context and clarity to the day's top stories from around the world.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch711_cnn_newsroom.jpg?w=960&amp;h=540" />
-	</programme>
-	<programme channel="711" start="20250905060000 +0000" stop="20250905064500 +0000">
-		<title>CNN Newsroom</title>
-		<desc>Live context and clarity to the day's top stories from around the world.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch711_cnn_newsroom.jpg?w=960&amp;h=540" />
-	</programme>
-	<programme channel="711" start="20250905064500 +0000" stop="20250905070000 +0000">
+	<programme channel="711" start="20250905003000 +0000" stop="20250905014500 +0000">
 		<title>World Sport</title>
 		<desc>Daily sports show features major stories and issues making news in the world of sports.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch711_world_sport.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="711" start="20250905070000 +0000" stop="20250905080000 +0000">
-		<title>CNN Newsroom</title>
-		<desc>Live context and clarity to the day's top stories from around the world.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch711_cnn_newsroom.jpg?w=960&amp;h=540" />
+	<programme channel="711" start="20250905014500 +0000" stop="20250905020000 +0000">
+		<title>World Sport</title>
+		<desc>Daily sports show features major stories and issues making news in the world of sports.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch711_world_sport.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="711" start="20250905080000 +0000" stop="20250905090000 +0000">
+	<programme channel="711" start="20250905020000 +0000" stop="20250905040000 +0000">
+		<title>Connect the World</title>
+		<desc>Becky Anderson explores diverse perspectives and explains global issues of the day.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch711_connect_the_world.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="711" start="20250905040000 +0000" stop="20250905050000 +0000">
+		<title>One World</title>
+		<desc>Zain Asher and Bianna Golodryga cover the top global and national issues of the day.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch711_one_world_with_zain_asher_and_bianna_golodryga.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="711" start="20250905050000 +0000" stop="20250905060000 +0000">
 		<title>Amanpour</title>
 		<desc>Christiane Amanpour provides her powerful interview skills and provocative analysis on global stories that matter to you.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch711_amanpour.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="711" start="20250905090000 +0000" stop="20250905100000 +0000">
-		<title>Early Start</title>
-		<desc>Start your day with all the information you need. This hour gives you the stories that will shape the next 24. On the agenda: U.S. politics and global affairs, what to expect in the business world, and key cultural and sporting events.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch711_early_start.jpg?w=341&amp;h=192" />
+	<programme channel="711" start="20250905060000 +0000" stop="20250905080000 +0000">
+		<title>Isa Soares Tonight</title>
+		<desc>Isa Soares deep dives into today's top stories with insightful conversations and reports from around the world.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch711_isa_soares_tonight.jpg?w=960&amp;h=540" />
+	</programme>
+	<programme channel="711" start="20250905080000 +0000" stop="20250905093000 +0000">
+		<title>Quest Means Business</title>
+		<desc>Richard Quest speaks to the top names in global business to bring viewers the bottom line.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch711_quest_means_business.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="711" start="20250905093000 +0000" stop="20250905110000 +0000">
+		<title>World Sport</title>
+		<desc>Daily sports show features major stories and issues making news in the world of sports.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch711_world_sport.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="711" start="20250905110000 +0000" stop="20250905120000 +0000">
-		<title>CNN News Central</title>
-		<desc>Stay up to date with John Berman, Kate Bolduan and Sara Sidner from CNN's immersive news hub.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch711_cnn_news_central.jpg?w=341&amp;h=192" />
+		<title>Erin Burnett OutFront</title>
+		<desc>Erin Burnett stays ahead of the headlines, delivering a show that's in-depth and informative.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch711_erin_burnett_outfront.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="711" start="20250905120000 +0000" stop="20250905123000 +0000">
-		<title>CNN News Central</title>
-		<desc>Stay up to date with John Berman, Kate Bolduan and Sara Sidner from CNN's immersive news hub.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch711_cnn_news_central.jpg?w=341&amp;h=192" />
+	<programme channel="711" start="20250905120000 +0000" stop="20250905130000 +0000">
+		<title>Anderson Cooper 360</title>
+		<desc>Anderson Cooper takes you beyond the headlines with in-depth reporting and investigations.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch711_anderson_cooper360.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="711" start="20250905123000 +0000" stop="20250905130000 +0000">
-		<title>World Sport</title>
-		<desc>Daily sports show features major stories and issues making news in the world of sports.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch711_world_sport.jpg?w=341&amp;h=192" />
-	</programme>
-	<programme channel="711" start="20250905130000 +0000" stop="20250905134500 +0000">
-		<title>Connect the World</title>
-		<desc>Becky Anderson explores diverse perspectives and explains global issues of the day.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch711_connect_the_world.jpg?w=341&amp;h=192" />
-	</programme>
-	<programme channel="711" start="20250905134500 +0000" stop="20250905140000 +0000">
-		<title>World Sport</title>
-		<desc>Daily sports show features major stories and issues making news in the world of sports.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch711_world_sport.jpg?w=341&amp;h=192" />
+	<programme channel="711" start="20250905130000 +0000" stop="20250905140000 +0000">
+		<title>The Source with Kaitlan Collins</title>
+		<desc>Kaitlan Collins goes straight to the source for the best reporting on the day's biggest stories.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch711_the_source.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="711" start="20250905140000 +0000" stop="20250905150000 +0000">
-		<title>Connect the World</title>
-		<desc>Becky Anderson explores diverse perspectives and explains global issues of the day.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch711_connect_the_world.jpg?w=341&amp;h=192" />
+		<title>CNN NewsNight</title>
+		<desc>Abby Phillip leads a roundtable discussion on the day's biggest stories and issues shaping our world.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch711_cnn_newsnight_with_abby_phillip.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="711" start="20250905150000 +0000" stop="20250905160000 +0000">
-		<title>One World</title>
-		<desc>Zain Asher and Bianna Golodryga cover the top global and national issues of the day.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch711_one_world_with_zain_asher_and_bianna_golodryga.jpg?w=341&amp;h=192" />
+	<programme channel="711" start="20250905150000 +0000" stop="20250905164500 +0000">
+		<title>Laura Coates Live</title>
+		<desc>Laura Coates goes inside the story with a relentless pursuit of the facts.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch711_laura_coates_live.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="722" start="20250903160000 +0000" stop="20250903170000 +0000">
 		<title>Global Business</title>
