@@ -1194,7 +1194,7 @@
 	</programme>
 	<programme channel="103" start="20250906033000 +0000" stop="20250906040000 +0000">
 		<title>Focus - EP 15</title>
-		<desc>Focus provides timely reports and analyses on international news and current affairs from Singapore's perspective.</desc>
+		<desc>The 15th Parliament of Singapore will convene on September 5. Of the 97 Members of Parliament and two Non-Constituency Members, 34 are first-timers. What aspirations do these newly elected representatives hold for the new parliamentary term? Against the backdrop of an increasingly unpredictable global landscape, what challenges lie ahead for Singapore, and how should the nation navigate them?</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/103_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="103" start="20250906040000 +0000" stop="20250906050000 +0000">
@@ -4749,7 +4749,7 @@
 	</programme>
 	<programme channel="128" start="20250906130000 +0000" stop="20250906143000 +0000">
 		<title>Bigg Boss - EP 13</title>
-		<desc>Celebrity contestants live in an isolated house and perform tasks in order to win.</desc>
+		<desc>Nehal and Ashnoor argue while Kunickaa and Zeishan have a disagreement regarding food.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch128_bigg_boss.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="128" start="20250906143000 +0000" stop="20250906150000 +0000">
@@ -10830,7 +10830,7 @@
 	<programme channel="213" start="20250905222000 +0000" stop="20250905225000 +0000">
 		<title>LFCTV Specials 2025/26</title>
 		<desc>Enjoy documentaries and other special programming from LFCTV on beIN SPORTS</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch213_ltctv_specials.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch213_ligue1_specials.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="213" start="20250905225000 +0000" stop="20250905232000 +0000">
 		<title>LFC Trending 2025/26</title>
@@ -11053,7 +11053,7 @@
 		<icon src="https://poster.starhubgo.com/poster/ch214_premier_padel.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="214" start="20250905160000 +0000" stop="20250905173000 +0000">
-		<title>Premier Padel 2025</title>
+		<title>Premier Padel 2025 (Live)</title>
 		<desc>The official global Padel tour. Catch world’s top players battle it out across the globe.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch214_premier_padel.jpg?w=341&amp;h=192" />
 	</programme>
@@ -11062,15 +11062,20 @@
 		<desc>Highlights of the Premier Padel Tour 2024</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch214_premier_padel.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="214" start="20250905180000 +0000" stop="20250905193000 +0000">
-		<title>Premier Padel 2025 (Live)</title>
-		<desc>The official global Padel tour. Catch world’s top players battle it out across the globe.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch214_premier_padel.jpg?w=341&amp;h=192" />
+	<programme channel="214" start="20250905180000 +0000" stop="20250905182500 +0000">
+		<title>UCL Specials</title>
+		<desc />
+		<icon src="https://poster.starhubgo.com/poster/ch214_UCL_specials.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="214" start="20250905193000 +0000" stop="20250905210000 +0000">
-		<title>Premier Padel 2025 (Live)</title>
-		<desc>The official global Padel tour. Catch world’s top players battle it out across the globe.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch214_premier_padel.jpg?w=341&amp;h=192" />
+	<programme channel="214" start="20250905182500 +0000" stop="20250905203000 +0000">
+		<title>Women's Super League 2025/26 Chelsea vs Man City (Live)</title>
+		<desc>BWSL is one of the most-watched leagues in the world and represents the pinnacle of women’s professional football in England where the world’s best players and 12 clubs compete for honours.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch214_WSL.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="214" start="20250905203000 +0000" stop="20250905210000 +0000">
+		<title>Bundesliga Weekly 2025/26</title>
+		<desc>Weekly preview show with all relevant information on upcoming matches and the latest news from the Bundesliga</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch214_bundesliga_weekly.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="214" start="20250905210000 +0000" stop="20250905213000 +0000">
 		<title>Premier Padel Highlights 2024</title>
@@ -11088,29 +11093,24 @@
 		<icon src="https://poster.starhubgo.com/poster/ch214_premier_padel.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="214" start="20250905223000 +0000" stop="20250905230000 +0000">
-		<title>This Is Paris 2025/26</title>
-		<desc>An exclusive weekly look behind the scenes at French superclub, Paris Saint-Germain.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch214_this_is_paris.jpg?w=341&amp;h=192" />
-	</programme>
-	<programme channel="214" start="20250905230000 +0000" stop="20250905233000 +0000">
-		<title>Bundesliga Weekly 2025/26</title>
-		<desc>Weekly preview show with all relevant information on upcoming matches and the latest news from the Bundesliga</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch214_bundesliga_weekly.jpg?w=960&amp;h=540" />
-	</programme>
-	<programme channel="214" start="20250905233000 +0000" stop="20250906000000 +0000">
-		<title>UEFA Champions League Magazine Show 2025/26</title>
-		<desc>Official magazine show blends match highlights and interviews, epic moments and fascinating features from across Europe</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch214_UCL_magazine_show.jpg?w=960&amp;h=540" />
-	</programme>
-	<programme channel="214" start="20250906000000 +0000" stop="20250906003000 +0000">
 		<title>Bundesliga Special 2025/26</title>
 		<desc>Unique insights and behind the scenes stories about Bundesliga clubs and players.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch214_bundesliga_special.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="214" start="20250906003000 +0000" stop="20250906023000 +0000">
-		<title>PSG TV 2025/26 Toulouse vs PSG</title>
-		<desc>Catch every PSG match from Ligue 1 and Coupe de France amongst others only on beIN Sports</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch214_psg_tv.jpg?w=960&amp;h=540" />
+	<programme channel="214" start="20250905230000 +0000" stop="20250905233000 +0000">
+		<title>UEFA Champions League Magazine Show 2025/26</title>
+		<desc>Official magazine show blends match highlights and interviews, epic moments and fascinating features from across Europe</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch214_UCL_magazine_show.jpg?w=960&amp;h=540" />
+	</programme>
+	<programme channel="214" start="20250905233000 +0000" stop="20250906010000 +0000">
+		<title>Premier Padel 2025</title>
+		<desc>The official global Padel tour. Catch world’s top players battle it out across the globe.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch214_premier_padel.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="214" start="20250906010000 +0000" stop="20250906023000 +0000">
+		<title>Premier Padel 2025</title>
+		<desc>The official global Padel tour. Catch world’s top players battle it out across the globe.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch214_premier_padel.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="214" start="20250906023000 +0000" stop="20250906024700 +0000">
 		<title>Premier Padel Match Highlights 2024</title>
@@ -11142,6 +11142,11 @@
 		<desc>The RIDE FEI Originals series takes a deeper look into the equestrian world and focuses on lifestyle, horse culture and the fascinating bond between humans and horses both inside and outside the arena.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch214_ride_fei_originals.jpg?w=960&amp;h=540" />
 	</programme>
+	<programme channel="214" start="20250906070000 +0000" stop="20250906083000 +0000">
+		<title>Premier Padel 2025</title>
+		<desc>The official global Padel tour. Catch world’s top players battle it out across the globe.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch214_premier_padel.jpg?w=341&amp;h=192" />
+	</programme>
 	<programme channel="214" start="20250906083000 +0000" stop="20250906093000 +0000">
 		<title>Jet Ski World Series 2025</title>
 		<desc>The world's biggest jet ski tournament with a racing calendar in Europe, America, and Asia to establish the best rider in the world</desc>
@@ -11165,7 +11170,7 @@
 	<programme channel="214" start="20250906102000 +0000" stop="20250906104200 +0000">
 		<title>UCL Specials</title>
 		<desc />
-		<icon src="https://poster.starhubgo.com/poster/ch214_UCL_specials.jpg?w=960&amp;h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch214_UCL_specials.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="214" start="20250906104200 +0000" stop="20250906131200 +0000">
 		<title>Women's Rugby World Cup 2025 Canada vs Scotland (Live)</title>
@@ -29217,19 +29222,9 @@
 		<desc>Catch the latest news update on TVBS-News.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/808_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="811" start="20250904160000 +0000" stop="20250904160500 +0000">
-		<title>Child-Rearing Hints &amp; Tips mini</title>
-		<desc>A program offering helpful tips on child-rearing.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="811" start="20250904160500 +0000" stop="20250904161000 +0000">
-		<title>Child-Rearing Hints &amp; Tips mini</title>
-		<desc>A program offering helpful tips on child-rearing.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
 	<programme channel="811" start="20250904161000 +0000" stop="20250904161500 +0000">
-		<title>Ukiyoe EDO-LIFE (R)</title>
-		<desc>Let’s look into the world of Ukiyoe to learn how people lived in Edo period!</desc>
+		<title>Child-Rearing Hints &amp; Tips mini</title>
+		<desc>A program offering helpful tips on child-rearing.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="811" start="20250904161500 +0000" stop="20250904164000 +0000">
@@ -29248,8 +29243,8 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="811" start="20250904173500 +0000" stop="20250904174000 +0000">
-		<title>Mini Program</title>
-		<desc />
+		<title>Child-Rearing Hints &amp; Tips mini</title>
+		<desc>A program offering helpful tips on child-rearing.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="811" start="20250904174000 +0000" stop="20250904174500 +0000">
@@ -29332,69 +29327,49 @@
 		<desc>This is a story based on the lives of Yanase Takashi (Kitamura Takumi), the creator of "Anpanman," a famous Japanese anime character, and his wife Nobu (Imada Mio). It depicts how two individuals overcame countless hardships to create "Anpanman," embodying the idea of 'justice that never wavers,' and inspiring love and courage that make the joy of living well up from within.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="811" start="20250904231500 +0000" stop="20250905005400 +0000">
+	<programme channel="811" start="20250904231500 +0000" stop="20250905010000 +0000">
 		<title>asaichi</title>
 		<desc>Looking into topical information ranging from social issues to entertainment news through the eyes of the general public.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="811" start="20250905005400 +0000" stop="20250905005500 +0000">
-		<title>World Weather</title>
-		<desc>Weather information of the different areas around the world.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="811" start="20250905005500 +0000" stop="20250905010000 +0000">
-		<title>Exercise for Everyone</title>
-		<desc>An easy-to-do exercise program for everyone from children to the elderly.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="811" start="20250905010000 +0000" stop="20250905010500 +0000">
+	<programme channel="811" start="20250905010000 +0000" stop="20250905011000 +0000">
 		<title>News &amp; Weather</title>
 		<desc>The latest up-to-date news and nationwide weather information.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="811" start="20250905010500 +0000" stop="20250905015000 +0000">
+	<programme channel="811" start="20250905011000 +0000" stop="20250905015500 +0000">
 		<title>Saturday Drama "The Hometown Where Mother Awaits" Eps. 1（New） (R)</title>
 		<desc>Matsunaga Toru (Nakai Kiichi), a man who has devoted his life to work, returns to his hometown for the first time in 40 years. His mother (Miyamoto Nobuko) welcomes him with a smile, and the familiar house and meals bring him peace- strangely, the only thing he cannot remember is her name. Meanwhile, Koga Natsuko (Matsushima Nanako) and Murota Seiichi (Sasaki Kuranosuke), each seeking comfort and belonging, also find themselves drawn to the same "mother" and the same "home."</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="811" start="20250905015000 +0000" stop="20250905015500 +0000">
-		<title>Mini Program</title>
-		<desc />
-		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="811" start="20250905015500 +0000" stop="20250905022300 +0000">
-		<title>Darwin's Amazing Animals "Animal Flocking" (R)</title>
-		<desc>Rarely seen. Up-close with some of the planet's most amazing animals. Enter a world of unique creatures from Asia, Africa and the Americas.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="811" start="20250905022300 +0000" stop="20250905024600 +0000">
-		<title>Delicious Japan!</title>
-		<desc>Japan boasts a wide variety of fresh produce and quality food. Find out how and where it's all made. Plus: master chefs reveal their special recipes!</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="811" start="20250905024600 +0000" stop="20250905025000 +0000">
-		<title>Mini Program</title>
-		<desc />
-		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="811" start="20250905025000 +0000" stop="20250905025600 +0000">
-		<title>Songs for Everyone</title>
-		<desc>A song program where children can sing along by reading the lyrics on the screen.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="811" start="20250905025600 +0000" stop="20250905030000 +0000">
-		<title>World Weather</title>
-		<desc>Weather information of the different areas around the world.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="811" start="20250905030000 +0000" stop="20250905032000 +0000">
+	<programme channel="811" start="20250905015500 +0000" stop="20250905020400 +0000">
 		<title>News</title>
 		<desc>The latest up-to-date news from Tokyo.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="811" start="20250905032000 +0000" stop="20250905033000 +0000">
-		<title>Local Exquisite Omusubi</title>
-		<desc>Introducing a variety of Omusubi (rice balls) that can be found in different parts of Japan, with introduction of their origins and ideas of how to eat them.</desc>
+	<programme channel="811" start="20250905020400 +0000" stop="20250905023200 +0000">
+		<title>Darwin's Amazing Animals "Animal Flocking" (R)</title>
+		<desc>Rarely seen. Up-close with some of the planet's most amazing animals. Enter a world of unique creatures from Asia, Africa and the Americas.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="811" start="20250905023200 +0000" stop="20250905030000 +0000">
+		<title>Delicious Japan!</title>
+		<desc>Japan boasts a wide variety of fresh produce and quality food. Find out how and where it's all made. Plus: master chefs reveal their special recipes!</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="811" start="20250905030000 +0000" stop="20250905032300 +0000">
+		<title>News</title>
+		<desc>The latest up-to-date news from Tokyo.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="811" start="20250905032300 +0000" stop="20250905032800 +0000">
+		<title>Songs for Everyone</title>
+		<desc>A song program where children can sing along by reading the lyrics on the screen.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="811" start="20250905032800 +0000" stop="20250905033000 +0000">
+		<title>Mini Program</title>
+		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="811" start="20250905033000 +0000" stop="20250905034500 +0000">
@@ -29407,12 +29382,12 @@
 		<desc>This is a story based on the lives of Yanase Takashi (Kitamura Takumi), the creator of "Anpanman," a famous Japanese anime character, and his wife Nobu (Imada Mio). It depicts how two individuals overcame countless hardships to create "Anpanman," embodying the idea of 'justice that never wavers,' and inspiring love and courage that make the joy of living well up from within.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="811" start="20250905040000 +0000" stop="20250905040500 +0000">
+	<programme channel="811" start="20250905040000 +0000" stop="20250905041000 +0000">
 		<title>News</title>
 		<desc>The latest up-to-date news from Tokyo.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="811" start="20250905040500 +0000" stop="20250905055000 +0000">
+	<programme channel="811" start="20250905041000 +0000" stop="20250905055000 +0000">
 		<title>News Around Japan</title>
 		<desc>Program introduces the latest news from all over Japan.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
@@ -29427,32 +29402,32 @@
 		<desc>A 5-minute music program introducing classical music.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="811" start="20250905060000 +0000" stop="20250905061000 +0000">
+	<programme channel="811" start="20250905060000 +0000" stop="20250905061300 +0000">
 		<title>News &amp; Weather</title>
 		<desc>The latest up-to-date news and nationwide weather information.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="811" start="20250905061000 +0000" stop="20250905063000 +0000">
+	<programme channel="811" start="20250905061300 +0000" stop="20250905063300 +0000">
 		<title>Chinese Navi</title>
 		<desc>If you have any interests in Chinese community, join us to study the Chinese language!</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="811" start="20250905063000 +0000" stop="20250905065500 +0000">
+	<programme channel="811" start="20250905063300 +0000" stop="20250905065800 +0000">
 		<title>Dear Japan (R)</title>
 		<desc>Amid the issues that regional communities face, local people are rethinking about traditional values and exploring new ways to live together beyond generations. This is a travel documentary visiting affectionate lives of this country.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="811" start="20250905065500 +0000" stop="20250905074000 +0000">
+	<programme channel="811" start="20250905065800 +0000" stop="20250905074300 +0000">
 		<title>We Hope Our Healthy Lives That Do Not Lead to Disease (R)</title>
 		<desc>A medical information talk show in which three unique and lovable siblings gather in the kitchen of a house, and have friendly chat about the latest medical information that can lead to "prevention" of diseases.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="811" start="20250905074000 +0000" stop="20250905080500 +0000">
+	<programme channel="811" start="20250905074300 +0000" stop="20250905080800 +0000">
 		<title>Haru's Weekend at Japanese Old House Cafe (R)</title>
 		<desc>Cafe influencer Haru visits Japanese old house cafes around the country and finds secret stories about the town and people back in the old days.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="811" start="20250905080500 +0000" stop="20250905081000 +0000">
+	<programme channel="811" start="20250905080800 +0000" stop="20250905081000 +0000">
 		<title>Mini Program</title>
 		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
@@ -29763,8 +29738,8 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="811" start="20250906045000 +0000" stop="20250906050000 +0000">
-		<title>Darwin's Amazing Animals 10min.</title>
-		<desc />
+		<title>Local Exquisite Omusubi</title>
+		<desc>Introducing a variety of Omusubi (rice balls) that can be found in different parts of Japan, with introduction of their origins and ideas of how to eat them.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="811" start="20250906050000 +0000" stop="20250906053000 +0000">
@@ -29922,7 +29897,12 @@
 		<desc>This episode features a collection of onigiri rice balls that fuel artisans across Japan - from roof tile artisans to gardeners and ink makers to metalworkers, what kind of onigiri keeps them going?</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="812" start="20250904170000 +0000" stop="20250904173000 +0000">
+	<programme channel="812" start="20250904170000 +0000" stop="20250904170100 +0000">
+		<title>NHK Newsline</title>
+		<desc>NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="812" start="20250904170100 +0000" stop="20250904173000 +0000">
 		<title>NHK Newsline</title>
 		<desc>NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
@@ -29933,8 +29913,8 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250904180000 +0000" stop="20250904182800 +0000">
-		<title>Newsroom Tokyo</title>
-		<desc>This programme gives you comprehensive coverage of events in Japan and Asia, explaining the day's developments and what is behind them.</desc>
+		<title>NHK Newsline</title>
+		<desc>NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250904182800 +0000" stop="20250904184300 +0000">
@@ -29957,14 +29937,9 @@
 		<desc>Clam-Digging at the Beach in Style: It's spring and a group of young men and women are at the beach for some recreational clam-digging - the sea breeze mixes with the smell of freshly-cooked seafood.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="812" start="20250904190000 +0000" stop="20250904192700 +0000">
-		<title>Hometown Stories</title>
-		<desc>Tree surgeon Kobayashi Masaru helps people in Fukushima prefecture revitalize cherry trees neglected after the 2011 earthquake and nuclear accident. We follow him and local volunteers over one year.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="812" start="20250904192700 +0000" stop="20250904193000 +0000">
-		<title>Easy Japanese</title>
-		<desc>#43 You look well. / To express an opinion about what you see, drop the 'na' of a 'na'-ending adjective - or the 'i' of an 'i'-ending adjective - then add 'soo desu ne'.</desc>
+	<programme channel="812" start="20250904190000 +0000" stop="20250904193000 +0000">
+		<title>NHK Newsline</title>
+		<desc>NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250904193000 +0000" stop="20250904200000 +0000">
@@ -30019,7 +29994,7 @@
 	</programme>
 	<programme channel="812" start="20250905003000 +0000" stop="20250905010000 +0000">
 		<title>Asia Insight</title>
-		<desc>The fashion industry has faced criticism for its impact on the environment. Meet the Indonesian innovators who are using natural materials and traditional techniques to help save the planet.</desc>
+		<desc>The fashion industry has faced criticism for its impact on the environment - meet Indonesian innovators who are using natural materials and traditional techniques to help save the planet.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250905010000 +0000" stop="20250905013000 +0000">
@@ -30039,7 +30014,7 @@
 	</programme>
 	<programme channel="812" start="20250905023000 +0000" stop="20250905030000 +0000">
 		<title>The World of Doll Artist</title>
-		<desc>Ohno Hatsuko: The Three-Dimensional Ukiyo-e Andrzej Wajda Loved. This Programme combines high-definition visuals with music to take viewers into the World of Ohno Hatsuko's dolls.</desc>
+		<desc>Ohno Hatsuko: The Three-Dimensional Ukiyo-e Andrzej Wajda Loved. This programme combines high-definition visuals with music to take viewers into the world of Ohno Hatsuko's dolls.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250905030000 +0000" stop="20250905033000 +0000">
@@ -30069,7 +30044,7 @@
 	</programme>
 	<programme channel="812" start="20250905053000 +0000" stop="20250905060000 +0000">
 		<title>Asia Insight</title>
-		<desc>The fashion industry has faced criticism for its impact on the environment. Meet the Indonesian innovators who are using natural materials and traditional techniques to help save the planet.</desc>
+		<desc>The fashion industry has faced criticism for its impact on the environment - meet Indonesian innovators who are using natural materials and traditional techniques to help save the planet.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250905060000 +0000" stop="20250905063000 +0000">
@@ -30089,7 +30064,7 @@
 	</programme>
 	<programme channel="812" start="20250905073000 +0000" stop="20250905080000 +0000">
 		<title>The World of Doll Artist</title>
-		<desc>Ohno Hatsuko: The Three-Dimensional Ukiyo-e Andrzej Wajda Loved. This Programme combines high-definition visuals with music to take viewers into the World of Ohno Hatsuko's dolls.</desc>
+		<desc>Ohno Hatsuko: The Three-Dimensional Ukiyo-e Andrzej Wajda Loved. This programme combines high-definition visuals with music to take viewers into the world of Ohno Hatsuko's dolls.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250905080000 +0000" stop="20250905083000 +0000">
@@ -30119,7 +30094,7 @@
 	</programme>
 	<programme channel="812" start="20250905103000 +0000" stop="20250905110000 +0000">
 		<title>Asia Insight</title>
-		<desc>The fashion industry has faced criticism for its impact on the environment. Meet the Indonesian innovators who are using natural materials and traditional techniques to help save the planet.</desc>
+		<desc>The fashion industry has faced criticism for its impact on the environment - meet Indonesian innovators who are using natural materials and traditional techniques to help save the planet.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250905110000 +0000" stop="20250905112800 +0000">
@@ -30134,12 +30109,12 @@
 	</programme>
 	<programme channel="812" start="20250905114300 +0000" stop="20250905115500 +0000">
 		<title>Impacts: Climates Change the World</title>
-		<desc>The number of tornadoes is surging in the US - the world's hotspot. What's driving the rise? We met the scientists who are uncovering their mechanisms and using new technology to save lives.</desc>
+		<desc>The number of tornadoes is surging in the US, the world's hotspot - what is driving this rise? We meet scientists who are uncovering their mechanisms and using new technology to save lives.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250905115500 +0000" stop="20250905120000 +0000">
 		<title>Chatroom Japan</title>
-		<desc>A spotlight on our diverse international community as we report on issues, speak to those involved, and get a fresh look at what it's like to live in Japan.</desc>
+		<desc>Do you know what to do when disaster strikes? If you don't, Andrew Mitchell from the UK has some stories to tell you from his own experience living through the 2016 Kumamoto quakes.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250905120000 +0000" stop="20250905123000 +0000">
@@ -30159,7 +30134,7 @@
 	</programme>
 	<programme channel="812" start="20250905133000 +0000" stop="20250905140000 +0000">
 		<title>The World of Doll Artist</title>
-		<desc>Ohno Hatsuko: The Three-Dimensional Ukiyo-e Andrzej Wajda Loved. This Programme combines high-definition visuals with music to take viewers into the World of Ohno Hatsuko's dolls.</desc>
+		<desc>Ohno Hatsuko: The Three-Dimensional Ukiyo-e Andrzej Wajda Loved. This programme combines high-definition visuals with music to take viewers into the world of Ohno Hatsuko's dolls.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250905140000 +0000" stop="20250905143000 +0000">
@@ -30169,7 +30144,7 @@
 	</programme>
 	<programme channel="812" start="20250905143000 +0000" stop="20250905150000 +0000">
 		<title>Design X Stories</title>
-		<desc>Crafts, fashion, products, buildings and food: explore a diverse range of Japanese designs and the ideas and values of their creators as our presenters visit designers at work to reveal new stories.</desc>
+		<desc>Today's theme: Lighting Everyday Life. From a design to add light to an enclosed lot, cozy lamps with a dim glow, to a project for those with light sensitivities. Explore an array of lighting designs.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250905150000 +0000" stop="20250905153000 +0000">
@@ -30179,7 +30154,7 @@
 	</programme>
 	<programme channel="812" start="20250905153000 +0000" stop="20250905160000 +0000">
 		<title>Asia Insight</title>
-		<desc>The fashion industry has faced criticism for its impact on the environment. Meet the Indonesian innovators who are using natural materials and traditional techniques to help save the planet.</desc>
+		<desc>The fashion industry has faced criticism for its impact on the environment - meet Indonesian innovators who are using natural materials and traditional techniques to help save the planet.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250905160000 +0000" stop="20250905163000 +0000">
@@ -30189,7 +30164,7 @@
 	</programme>
 	<programme channel="812" start="20250905163000 +0000" stop="20250905170000 +0000">
 		<title>Frontrunners</title>
-		<desc>Oba Carlos is a social entrepreneur leveraging local Wi-Fi networks to close the gap in access to information and opportunity between urban and rural populations in the African nation of Benin.</desc>
+		<desc>Oba Carlos is a social entrepreneur leveraging local wi-fi networks to close the gap in access to information and opportunity between urban and rural populations in the African nation of Benin.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250905170000 +0000" stop="20250905173000 +0000">
@@ -30214,7 +30189,7 @@
 	</programme>
 	<programme channel="812" start="20250905184300 +0000" stop="20250905185500 +0000">
 		<title>Impacts: Climates Change the World</title>
-		<desc>The number of tornadoes is surging in the US - the world's hotspot. What's driving the rise? We met the scientists who are uncovering their mechanisms and using new technology to save lives.</desc>
+		<desc>The number of tornadoes is surging in the US, the world's hotspot - what is driving this rise? We meet scientists who are uncovering their mechanisms and using new technology to save lives.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250905185500 +0000" stop="20250905190000 +0000">
@@ -30229,7 +30204,7 @@
 	</programme>
 	<programme channel="812" start="20250905193000 +0000" stop="20250905200000 +0000">
 		<title>The World of Doll Artist</title>
-		<desc>Ohno Hatsuko: The Three-Dimensional Ukiyo-e Andrzej Wajda Loved. This Programme combines high-definition visuals with music to take viewers into the World of Ohno Hatsuko's dolls.</desc>
+		<desc>Ohno Hatsuko: The Three-Dimensional Ukiyo-e Andrzej Wajda Loved. This programme combines high-definition visuals with music to take viewers into the world of Ohno Hatsuko's dolls.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250905200000 +0000" stop="20250905203000 +0000">
@@ -30239,7 +30214,7 @@
 	</programme>
 	<programme channel="812" start="20250905203000 +0000" stop="20250905210000 +0000">
 		<title>Design X Stories</title>
-		<desc>Crafts, fashion, products, buildings and food: explore a diverse range of Japanese designs and the ideas and values of their creators as our presenters visit designers at work to reveal new stories.</desc>
+		<desc>Today's theme: Lighting Everyday Life. From a design to add light to an enclosed lot, cozy lamps with a dim glow, to a project for those with light sensitivities. Explore an array of lighting designs.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250905210000 +0000" stop="20250905213000 +0000">
@@ -30249,7 +30224,7 @@
 	</programme>
 	<programme channel="812" start="20250905213000 +0000" stop="20250905220000 +0000">
 		<title>Asia Insight</title>
-		<desc>The fashion industry has faced criticism for its impact on the environment. Meet the Indonesian innovators who are using natural materials and traditional techniques to help save the planet.</desc>
+		<desc>The fashion industry has faced criticism for its impact on the environment - meet Indonesian innovators who are using natural materials and traditional techniques to help save the planet.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250905220000 +0000" stop="20250905223000 +0000">
@@ -30269,7 +30244,7 @@
 	</programme>
 	<programme channel="812" start="20250905231000 +0000" stop="20250905231500 +0000">
 		<title>Chatroom Japan</title>
-		<desc>A spotlight on our diverse international community as we report on issues, speak to those involved, and get a fresh look at what it's like to live in Japan.</desc>
+		<desc>Do you know what to do when disaster strikes? If you don't, Andrew Mitchell from the UK has some stories to tell you from his own experience living through the 2016 Kumamoto quakes.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250905231500 +0000" stop="20250905233000 +0000">
@@ -30288,8 +30263,8 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250906001000 +0000" stop="20250906010000 +0000">
-		<title>Documentary 360</title>
-		<desc>A series of documentaries that feature in-depth examinations of political, economic, and social challenges facing Japan and the world.</desc>
+		<title>Kosovar Sexual Violence Survivors</title>
+		<desc>Vasfije Krasniqi Goodman was the first woman to speak publicly about sexual violence during the Kosovo War - this documentary portrays the survivors' struggles and pursuit of justice 25 years later.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250906010000 +0000" stop="20250906011000 +0000">
@@ -30298,8 +30273,8 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250906011000 +0000" stop="20250906020000 +0000">
-		<title>NHK World-Japan Special Programme</title>
-		<desc>NHK World-Japan presents a wide range of programmes from news, current affairs, and documentaries focusing on Japan and Asia.</desc>
+		<title>Mt. Fuji: Climb Japan's Magic Peak</title>
+		<desc>Climb Japan's tallest mountain on a quiet, scenic route with the right gear, stay overnight in a traditional mountain hut, pass the mid-mountain crater, and head toward the thrilling summit!</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250906020000 +0000" stop="20250906021000 +0000">
@@ -30324,7 +30299,7 @@
 	</programme>
 	<programme channel="812" start="20250906031000 +0000" stop="20250906034000 +0000">
 		<title>Design X Stories</title>
-		<desc>Crafts, fashion, products, buildings and food: explore a diverse range of Japanese designs and the ideas and values of their creators as our presenters visit designers at work to reveal new stories.</desc>
+		<desc>Today's theme: Lighting Everyday Life. From a design to add light to an enclosed lot, cozy lamps with a dim glow, to a project for those with light sensitivities. Explore an array of lighting designs.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250906034000 +0000" stop="20250906035000 +0000">
@@ -30362,9 +30337,14 @@
 		<desc>NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="812" start="20250906051000 +0000" stop="20250906054000 +0000">
-		<title>NHK World Selection</title>
-		<desc>A selection of acclaimed programmes from NHK's domestic channels dubbed into English.</desc>
+	<programme channel="812" start="20250906051000 +0000" stop="20250906053500 +0000">
+		<title>Ikebana - Beauty As It Is</title>
+		<desc>Ikebana enhances the inherent beauty of flowers, imperfections and all - we explore the spirit of this art form under the guidance of ikebana master Shuho.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="812" start="20250906053500 +0000" stop="20250906054000 +0000">
+		<title>The Seasons of Yamato</title>
+		<desc>A series of poetic videos by Koichi Hozan, a videographer living in Nara, in collaboration with pianist Mine Kawakami - for which she plays exclusive pieces - helps you experience each season.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250906054000 +0000" stop="20250906055500 +0000">
@@ -30383,8 +30363,8 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250906061000 +0000" stop="20250906070000 +0000">
-		<title>Documentary 360</title>
-		<desc>A series of documentaries that feature in-depth examinations of political, economic, and social challenges facing Japan and the world.</desc>
+		<title>Kosovar Sexual Violence Survivors</title>
+		<desc>Vasfije Krasniqi Goodman was the first woman to speak publicly about sexual violence during the Kosovo War - this documentary portrays the survivors' struggles and pursuit of justice 25 years later.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250906070000 +0000" stop="20250906071000 +0000">
@@ -30393,8 +30373,8 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250906071000 +0000" stop="20250906080000 +0000">
-		<title>NHK World-Japan Special Programme</title>
-		<desc>NHK World-Japan presents a wide range of programmes from news, current affairs, and documentaries focusing on Japan and Asia.</desc>
+		<title>Mt. Fuji: Climb Japan's Magic Peak</title>
+		<desc>Climb Japan's tallest mountain on a quiet, scenic route with the right gear, stay overnight in a traditional mountain hut, pass the mid-mountain crater, and head toward the thrilling summit!</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250906080000 +0000" stop="20250906081000 +0000">
@@ -30424,7 +30404,7 @@
 	</programme>
 	<programme channel="812" start="20250906091000 +0000" stop="20250906094000 +0000">
 		<title>Design X Stories</title>
-		<desc>Crafts, fashion, products, buildings and food: explore a diverse range of Japanese designs and the ideas and values of their creators as our presenters visit designers at work to reveal new stories.</desc>
+		<desc>Today's theme: Lighting Everyday Life. From a design to add light to an enclosed lot, cozy lamps with a dim glow, to a project for those with light sensitivities. Explore an array of lighting designs.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250906094000 +0000" stop="20250906095000 +0000">
@@ -30457,9 +30437,14 @@
 		<desc>NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="812" start="20250906111000 +0000" stop="20250906114000 +0000">
-		<title>NHK World Selection</title>
-		<desc>A selection of acclaimed programmes from NHK's domestic channels dubbed into English.</desc>
+	<programme channel="812" start="20250906111000 +0000" stop="20250906113500 +0000">
+		<title>Ikebana - Beauty As It Is</title>
+		<desc>Ikebana enhances the inherent beauty of flowers, imperfections and all - we explore the spirit of this art form under the guidance of ikebana master Shuho.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="812" start="20250906113500 +0000" stop="20250906114000 +0000">
+		<title>The Seasons of Yamato</title>
+		<desc>A series of poetic videos by Koichi Hozan, a videographer living in Nara, in collaboration with pianist Mine Kawakami - for which she plays exclusive pieces - helps you experience each season.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250906114000 +0000" stop="20250906115500 +0000">
@@ -30478,8 +30463,8 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250906121000 +0000" stop="20250906130000 +0000">
-		<title>Documentary 360</title>
-		<desc>A series of documentaries that feature in-depth examinations of political, economic, and social challenges facing Japan and the world.</desc>
+		<title>Kosovar Sexual Violence Survivors</title>
+		<desc>Vasfije Krasniqi Goodman was the first woman to speak publicly about sexual violence during the Kosovo War - this documentary portrays the survivors' struggles and pursuit of justice 25 years later.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250906130000 +0000" stop="20250906131000 +0000">
@@ -30488,8 +30473,8 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250906131000 +0000" stop="20250906140000 +0000">
-		<title>NHK World-Japan Special Programme</title>
-		<desc>NHK World-Japan presents a wide range of programmes from news, current affairs, and documentaries focusing on Japan and Asia.</desc>
+		<title>Mt. Fuji: Climb Japan's Magic Peak</title>
+		<desc>Climb Japan's tallest mountain on a quiet, scenic route with the right gear, stay overnight in a traditional mountain hut, pass the mid-mountain crater, and head toward the thrilling summit!</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20250906140000 +0000" stop="20250906141000 +0000">
@@ -32395,7 +32380,7 @@
 	<programme channel="828" start="20250905180000 +0000" stop="20250905190000 +0000">
 		<title>Global Golden Line</title>
 		<desc>It is the first professional reality car show, providing concrete evaluations of cars on the market, the deepest appreciation for classic cars, the hottest trends in the motoring world, and analysis of the latest auto tech trends.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch828_golden_global_line.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch828_global_golden_line.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="828" start="20250905190000 +0000" stop="20250905200000 +0000">
 		<title>Discover New Taiwan Step By Step</title>
@@ -32420,7 +32405,7 @@
 	<programme channel="828" start="20250905230000 +0000" stop="20250906000000 +0000">
 		<title>Global Golden Line</title>
 		<desc>It is the first professional reality car show, providing concrete evaluations of cars on the market, the deepest appreciation for classic cars, the hottest trends in the motoring world, and analysis of the latest auto tech trends.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch828_golden_global_line.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch828_global_golden_line.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="828" start="20250906000000 +0000" stop="20250906010000 +0000">
 		<title>Super Taste: Go Go! Two- Day Trip</title>
@@ -32622,37 +32607,47 @@
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20250905152900 +0000" stop="20250905170000 +0000">
+	<programme channel="832" start="20250905152900 +0000" stop="20250905172200 +0000">
 		<title>go fighting</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20250905170000 +0000" stop="20250905180000 +0000">
+	<programme channel="832" start="20250905172200 +0000" stop="20250905182200 +0000">
 		<title>Dragon TV Primetime News</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20250905180000 +0000" stop="20250905183000 +0000">
+	<programme channel="832" start="20250905182200 +0000" stop="20250905184700 +0000">
 		<title>Searching for flavor</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20250905183000 +0000" stop="20250905190000 +0000">
+	<programme channel="832" start="20250905184700 +0000" stop="20250905191200 +0000">
 		<title>I LOVE SHANGHAI</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20250905190000 +0000" stop="20250905220000 +0000">
+	<programme channel="832" start="20250905191200 +0000" stop="20250905204500 +0000">
 		<title>Cheer up!small shops</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20250905220000 +0000" stop="20250905223000 +0000">
+	<programme channel="832" start="20250905204500 +0000" stop="20250905214500 +0000">
+		<title>A Green Trip</title>
+		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="832" start="20250905214500 +0000" stop="20250905221000 +0000">
+		<title>Next Station</title>
+		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="832" start="20250905221000 +0000" stop="20250905223500 +0000">
 		<title>New Entertainment</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20250905223000 +0000" stop="20250905230000 +0000">
+	<programme channel="832" start="20250905223500 +0000" stop="20250905230000 +0000">
 		<title>CARE ON THE WAY</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
@@ -32662,92 +32657,87 @@
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20250906010000 +0000" stop="20250906023000 +0000">
+	<programme channel="832" start="20250906010000 +0000" stop="20250906015900 +0000">
 		<title>A Green Trip</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20250906023000 +0000" stop="20250906031000 +0000">
+	<programme channel="832" start="20250906015900 +0000" stop="20250906030700 +0000">
 		<title>Super Diva</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20250906031000 +0000" stop="20250906033500 +0000">
+	<programme channel="832" start="20250906030700 +0000" stop="20250906033200 +0000">
 		<title>CARE ON THE WAY</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20250906033500 +0000" stop="20250906040000 +0000">
+	<programme channel="832" start="20250906033200 +0000" stop="20250906040000 +0000">
 		<title>Next Station</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20250906040000 +0000" stop="20250906043000 +0000">
+	<programme channel="832" start="20250906040000 +0000" stop="20250906042700 +0000">
 		<title>China Archaeology Weekly</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20250906043000 +0000" stop="20250906051000 +0000">
+	<programme channel="832" start="20250906042700 +0000" stop="20250906050700 +0000">
 		<title>Amazing 2 cities</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20250906051000 +0000" stop="20250906060000 +0000">
+	<programme channel="832" start="20250906050700 +0000" stop="20250906060000 +0000">
 		<title>futuer china</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20250906060000 +0000" stop="20250906070000 +0000">
+	<programme channel="832" start="20250906060000 +0000" stop="20250906065900 +0000">
 		<title>A Green Trip</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20250906070000 +0000" stop="20250906080000 +0000">
+	<programme channel="832" start="20250906065900 +0000" stop="20250906081000 +0000">
 		<title>Ai Romance</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20250906080000 +0000" stop="20250906090000 +0000">
+	<programme channel="832" start="20250906081000 +0000" stop="20250906091800 +0000">
 		<title>Super Diva</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20250906090000 +0000" stop="20250906093500 +0000">
+	<programme channel="832" start="20250906091800 +0000" stop="20250906100000 +0000">
 		<title>CARE ON THE WAY</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20250906093500 +0000" stop="20250906100000 +0000">
-		<title>Next Station</title>
-		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="832" start="20250906100000 +0000" stop="20250906110000 +0000">
+	<programme channel="832" start="20250906100000 +0000" stop="20250906105800 +0000">
 		<title>Dragon TV Primetime News</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20250906110000 +0000" stop="20250906114000 +0000">
+	<programme channel="832" start="20250906105800 +0000" stop="20250906115700 +0000">
 		<title>A Green Trip</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20250906114000 +0000" stop="20250906133000 +0000">
+	<programme channel="832" start="20250906115700 +0000" stop="20250906133800 +0000">
 		<title>futuer china</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20250906133000 +0000" stop="20250906143000 +0000">
+	<programme channel="832" start="20250906133800 +0000" stop="20250906145000 +0000">
 		<title>Ai Romance</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20250906143000 +0000" stop="20250906153000 +0000">
+	<programme channel="832" start="20250906145000 +0000" stop="20250906155000 +0000">
 		<title>A Green Trip</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20250906153000 +0000" stop="20250906163000 +0000">
+	<programme channel="832" start="20250906155000 +0000" stop="20250906163500 +0000">
 		<title>futuer china</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
@@ -34295,7 +34285,7 @@
 	<programme channel="993" start="20250905180000 +0000" stop="20250905190000 +0000">
 		<title>Global Golden Line</title>
 		<desc>It is the first professional reality car show, providing concrete evaluations of cars on the market, the deepest appreciation for classic cars, the hottest trends in the motoring world, and analysis of the latest auto tech trends.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch828_golden_global_line.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch828_global_golden_line.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="993" start="20250905190000 +0000" stop="20250905200000 +0000">
 		<title>Discover New Taiwan Step By Step</title>
@@ -34320,7 +34310,7 @@
 	<programme channel="993" start="20250905230000 +0000" stop="20250906000000 +0000">
 		<title>Global Golden Line</title>
 		<desc>It is the first professional reality car show, providing concrete evaluations of cars on the market, the deepest appreciation for classic cars, the hottest trends in the motoring world, and analysis of the latest auto tech trends.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch828_golden_global_line.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch828_global_golden_line.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="993" start="20250906000000 +0000" stop="20250906010000 +0000">
 		<title>Super Taste: Go Go! Two- Day Trip</title>
