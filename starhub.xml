@@ -164,6 +164,14 @@
 		<display-name>Hub Sports 6</display-name>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/206_1920x1080_HTV.png?w=272" />
 	</channel>
+	<channel id="207">
+		<display-name>Hub Sports 7</display-name>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/207_1920x1080_HTV.png?w=272" />
+	</channel>
+	<channel id="208">
+		<display-name>Hub Sports 8</display-name>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/208_1920x1080_HTV.png?w=272" />
+	</channel>
 	<channel id="209">
 		<display-name>SPOTV</display-name>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/209_1920x1080_HTV.png?w=272" />
@@ -211,6 +219,10 @@
 	<channel id="225">
 		<display-name>Hub Premier 5</display-name>
 		<icon src="https://poster.starhubgo.com/Linear_Channels2/225_1920x1080_HTV.png?w=272" />
+	</channel>
+	<channel id="226">
+		<display-name>Hub Premier 6</display-name>
+		<icon src="https://poster.starhubgo.com/Linear_Channels2/226_1920x1080_HTV.png?w=272" />
 	</channel>
 	<channel id="228">
 		<display-name>Hub Premier 8</display-name>
@@ -10297,6 +10309,56 @@
 		<desc>End of Transmission</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/206_1920x1080_HTV.png?w=960&amp;h=540" />
 	</programme>
+	<programme channel="207" start="20250907220000 +0000" stop="20250908040000 +0000">
+		<title>End of Transmission</title>
+		<desc>End of Transmission</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/207_1920x1080_HTV.png?w=960&amp;h=540" />
+	</programme>
+	<programme channel="207" start="20250908040000 +0000" stop="20250908100000 +0000">
+		<title>End of Transmission</title>
+		<desc>End of Transmission</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/207_1920x1080_HTV.png?w=960&amp;h=540" />
+	</programme>
+	<programme channel="207" start="20250908100000 +0000" stop="20250908160000 +0000">
+		<title>End of Transmission</title>
+		<desc>End of Transmission</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/207_1920x1080_HTV.png?w=960&amp;h=540" />
+	</programme>
+	<programme channel="207" start="20250908160000 +0000" stop="20250908220000 +0000">
+		<title>End of Transmission</title>
+		<desc>End of Transmission</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/207_1920x1080_HTV.png?w=960&amp;h=540" />
+	</programme>
+	<programme channel="207" start="20250908220000 +0000" stop="20250909040000 +0000">
+		<title>End of Transmission</title>
+		<desc>End of Transmission</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/207_1920x1080_HTV.png?w=960&amp;h=540" />
+	</programme>
+	<programme channel="208" start="20250907220000 +0000" stop="20250908040000 +0000">
+		<title>End of Transmission</title>
+		<desc>End of Transmission</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/208_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="208" start="20250908040000 +0000" stop="20250908100000 +0000">
+		<title>End of Transmission</title>
+		<desc>End of Transmission</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/208_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="208" start="20250908100000 +0000" stop="20250908160000 +0000">
+		<title>End of Transmission</title>
+		<desc>End of Transmission</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/208_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="208" start="20250908160000 +0000" stop="20250908220000 +0000">
+		<title>End of Transmission</title>
+		<desc>End of Transmission</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/208_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="208" start="20250908220000 +0000" stop="20250909040000 +0000">
+		<title>End of Transmission</title>
+		<desc>End of Transmission</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/208_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
 	<programme channel="209" start="20250907160000 +0000" stop="20250907180000 +0000">
 		<title>Major League Soccer 2025 Week 21 - Charlotte FC vs New York Red Bulls</title>
 		<desc>Back for its 30th season, the MLS features some of football’s top talent from around the globe. The league boasts 27 teams in the US and 3 teams in Canada.</desc>
@@ -12161,6 +12223,31 @@
 		<title>End of Transmission</title>
 		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_Channels2/225_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="226" start="20250907220000 +0000" stop="20250908040000 +0000">
+		<title>End of Transmission</title>
+		<desc />
+		<icon src="https://poster.starhubgo.com/Linear_Channels2/226_1920x1080_HTV.png?w=960&amp;h=540" />
+	</programme>
+	<programme channel="226" start="20250908040000 +0000" stop="20250908100000 +0000">
+		<title>End of Transmission</title>
+		<desc />
+		<icon src="https://poster.starhubgo.com/Linear_Channels2/226_1920x1080_HTV.png?w=960&amp;h=540" />
+	</programme>
+	<programme channel="226" start="20250908100000 +0000" stop="20250908160000 +0000">
+		<title>End of Transmission</title>
+		<desc />
+		<icon src="https://poster.starhubgo.com/Linear_Channels2/226_1920x1080_HTV.png?w=960&amp;h=540" />
+	</programme>
+	<programme channel="226" start="20250908160000 +0000" stop="20250908220000 +0000">
+		<title>End of Transmission</title>
+		<desc />
+		<icon src="https://poster.starhubgo.com/Linear_Channels2/226_1920x1080_HTV.png?w=960&amp;h=540" />
+	</programme>
+	<programme channel="226" start="20250908220000 +0000" stop="20250909040000 +0000">
+		<title>End of Transmission</title>
+		<desc />
+		<icon src="https://poster.starhubgo.com/Linear_Channels2/226_1920x1080_HTV.png?w=960&amp;h=540" />
 	</programme>
 	<programme channel="228" start="20250907160000 +0000" stop="20250907220000 +0000">
 		<title>End of Transmission</title>
