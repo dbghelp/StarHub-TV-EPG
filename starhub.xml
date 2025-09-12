@@ -1499,7 +1499,7 @@
 		<desc>Catch the latest local and international news on Suria.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/104_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="105" start="20250911160000 +0000" stop="20250911163000 +0000">
+	<programme channel="105" start="20250911160000 +0000" stop="20250911162500 +0000">
 		<title>Seithi - EP 163</title>
 		<desc>Tamil Seithi focuses primarily on local and international news, information and current affairs. _x000D_Catch the online news portal at http://seithi.mediacorp.sg/</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/105_1920x1080_HTV.png?w=341&amp;h=192" />
@@ -1644,9 +1644,14 @@
 		<desc>The movie revolves around the protagonist's life, Raju who needs to manage his large family. His naive and imprudent nature does not help him in securing a permanent job. He meets a girl while he goes to commit suicide and this incident changes his life.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/105_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="105" start="20250913080000 +0000" stop="20250913110000 +0000">
+	<programme channel="105" start="20250913080000 +0000" stop="20250913103000 +0000">
 		<title>Khiladi 786</title>
 		<desc>Mansukh's father runs a marriage bureau and believes that his son is a failure in life. In order to prove him wrong, Mansukh takes on the task of finding a match for a gangster's sister.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/105_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="105" start="20250913103000 +0000" stop="20250913110000 +0000">
+		<title>Siri…Siri Siri Siri S3 - EP 2</title>
+		<desc>Compilation of comedy clips to tickle your laughing bone.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/105_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="105" start="20250913110000 +0000" stop="20250913120000 +0000">
@@ -9570,7 +9575,7 @@
 		<icon src="https://poster.starhubgo.com/poster/ch201_wta_tour.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="201" start="20250911200000 +0000" stop="20250911203000 +0000">
-		<title>Hologic WTA Tour 2025 H/Ls</title>
+		<title>Hologic WTA Tour 2025 Highlights</title>
 		<desc>Catch all the thrills and spills from the clay courts at the Caja Mágica in Manzanares Park.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch201_wta_tour.jpg?w=960&amp;h=540" />
 	</programme>
@@ -9669,18 +9674,13 @@
 		<desc>HSBC BWF World Tour is the eighth season of the BWF World Tour of badminton, a circuit of 31 tournaments that lead up to the World Tour Finals tournament. The tour features five levels, with different levels of prize money in each of the tournaments.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch201_bwf_world_tour.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="201" start="20250913013000 +0000" stop="20250913020000 +0000">
-		<title>Heroines 2025</title>
-		<desc>Heroines is a new, timeless series, that tables important discussion that challenges the status quo and celebrates the unique values of women’s sport. Each episode features a dedicated theme such as equality, maternity, leadership, mental health, fan engagement, activism and more, supported by exclusive interviews with leaders at the forefront of women’s sport.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch201_Heroines2025.jpg?w=960&amp;h=540" />
-	</programme>
 	<programme channel="201" start="20250913020000 +0000" stop="20250913070000 +0000">
 		<title>HSBC BWF World Tour 2025 (Live)</title>
 		<desc>HSBC BWF World Tour is the eighth season of the BWF World Tour of badminton, a circuit of 31 tournaments that lead up to the World Tour Finals tournament. The tour features five levels, with different levels of prize money in each of the tournaments.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch201_bwf_world_tour.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="201" start="20250913070000 +0000" stop="20250913073000 +0000">
-		<title>Hologic WTA Tour 2025 H/Ls</title>
+		<title>Hologic WTA Tour 2025 Highlights</title>
 		<desc>Catch world class tennis action from the IGA Stadium in Montreal, Canada.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch201_wta_tour.jpg?w=960&amp;h=540" />
 	</programme>
@@ -9710,7 +9710,7 @@
 		<icon src="https://poster.starhubgo.com/poster/ch201_Heroines2025.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="201" start="20250913123000 +0000" stop="20250913130000 +0000">
-		<title>Hologic WTA Tour 2025 H/Ls</title>
+		<title>Hologic WTA Tour 2025 Highlights</title>
 		<desc>Catch all the best moments from the Lindner Family Tennis Center in Mason, Ohio.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch201_wta_tour.jpg?w=960&amp;h=540" />
 	</programme>
@@ -9726,7 +9726,7 @@
 	</programme>
 	<programme channel="202" start="20250911170000 +0000" stop="20250911200000 +0000">
 		<title>NFL 2025/26 Minnesota Vikings vs Chicago Bears</title>
-		<desc>Follow us for the thrilling 2025/26 NFL season as teams battle for glory. The Philadelphia Eagles defend their Super Bowl crown, facing fierce rivals and rising stars in America’s ultimate football showdown.</desc>
+		<desc>Follow us for the thrilling 2025/26 NFL season as teams battle for glory. The Philadelphia Eagles defend their Super Bowl crown, facing fierce rivals and rising stars in America's ultimate football showdown.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch202_nfl_2024_25.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="202" start="20250911200000 +0000" stop="20250912000000 +0000">
@@ -9761,12 +9761,12 @@
 	</programme>
 	<programme channel="202" start="20250912100000 +0000" stop="20250912110000 +0000">
 		<title>Pro Bull Riding Teams 2025</title>
-		<desc>High-octane action meets fierce rivalry as elite riders and bulls clash in the Professional Bull Riding Teams, showcasing breathtaking rides, dramatic moments, and the grit behind the sport’s toughest competition.</desc>
+		<desc>High-octane action meets fierce rivalry as elite riders and bulls clash in the Professional Bull Riding Teams, showcasing breathtaking rides, dramatic moments, and the grit behind the sport's toughest competition.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch202_pro_bull_riding.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="202" start="20250912110000 +0000" stop="20250912113000 +0000">
 		<title>NFL GameDay 2025/26</title>
-		<desc>NFL GameDay is a recap of all the previous weekend’s NFL action and showcases the Emmyaward-winning cinematography and music composition of NFL Films.</desc>
+		<desc>NFL GameDay is a recap of all the previous weekend's NFL action and showcases the Emmyaward-winning cinematography and music composition of NFL Films.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch202_nfl_2024_25.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="202" start="20250912113000 +0000" stop="20250912120000 +0000">
@@ -9781,7 +9781,7 @@
 	</programme>
 	<programme channel="202" start="20250912160000 +0000" stop="20250912163000 +0000">
 		<title>NFL GameDay 2025/26</title>
-		<desc>NFL GameDay is a recap of all the previous weekend’s NFL action and showcases the Emmyaward-winning cinematography and music composition of NFL Films.</desc>
+		<desc>NFL GameDay is a recap of all the previous weekend's NFL action and showcases the Emmyaward-winning cinematography and music composition of NFL Films.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch202_nfl_2024_25.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="202" start="20250912163000 +0000" stop="20250912170000 +0000">
@@ -9789,10 +9789,15 @@
 		<desc>The first of its kind program covering all disciplines of combat sports including MMA, boxing, kickboxing, muay thai and more.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch202_total_combat_2024.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="202" start="20250912170000 +0000" stop="20250912200000 +0000">
-		<title>NFL 2025/26 Washington Commanders vs Green Bay Packers</title>
-		<desc>Follow us for the thrilling 2025/26 NFL season as teams battle for glory. The Philadelphia Eagles defend their Super Bowl crown, facing fierce rivals and rising stars in America’s ultimate football showdown.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch202_nfl_2024_25.jpg?w=960&amp;h=540" />
+	<programme channel="202" start="20250912170000 +0000" stop="20250912180000 +0000">
+		<title>Pro Bull Riding Teams 2025</title>
+		<desc>High-octane action meets fierce rivalry as elite riders and bulls clash in the Professional Bull Riding Teams, showcasing breathtaking rides, dramatic moments, and the grit behind the sport's toughest competition.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch202_pro_bull_riding.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="202" start="20250912180000 +0000" stop="20250912200000 +0000">
+		<title>Hologic WTA Tour 2025 (Live)</title>
+		<desc>The Guadalajara Open is a WTA 500 tournament played on outdoor hard courts in Zapopan, Mexico. Founded in 2022 as a WTA 1000 event, it shifted to the WTA 500 tier in 2024. 28 singles players compete at Centro Panamericano de Tenis.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch202_hologic_wta_tour.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="202" start="20250912200000 +0000" stop="20250913000000 +0000">
 		<title>Hologic WTA Tour 2025 (Live)</title>
@@ -9821,7 +9826,7 @@
 	</programme>
 	<programme channel="202" start="20250913113000 +0000" stop="20250913120000 +0000">
 		<title>The Greatest of All Time 2025</title>
-		<desc>Sport's eternal debate… who is the Great of All Time? This is a series of programmes for every sport, examining the candidates and their case for 'greatest', and depicting iconic stars, the most influential careers, the most revered champions, across all sports.</desc>
+		<desc>Sport's eternal debate... who is the Great of All Time? This is a series of programmes for every sport, examining the candidates and their case for 'greatest', and depicting iconic stars, the most influential careers, the most revered champions, across all sports.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch202_the_greatest_of_all_time2025.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="202" start="20250913120000 +0000" stop="20250913180000 +0000">
@@ -11662,12 +11667,12 @@
 	<programme channel="221" start="20250911180000 +0000" stop="20250911183000 +0000">
 		<title>THE BIG INTERVIEW - EP 5</title>
 		<desc>Extended sit-downs and more informal 'out and about' interviews with the Premier League's biggest stars, providing players with a platform to tell their story in their own words.</desc>
-		<icon src="https://poster.starhubgo.com/poster/the_big_interview_V3.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/the_big_interview_2025_26_ep5.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="221" start="20250911183000 +0000" stop="20250911190000 +0000">
 		<title>PL STORIES - EP 15</title>
 		<desc>Edwin van der Sar has faced down pressure on the biggest stages in world football, but his toughest battle came after retirement. In 2023, the legendary goalkeeper suffered a life-threatening brain haemorrhage. In this episode Edwin opens up on his recovery and looks back on his career at the top that redefined goalkeeping.</desc>
-		<icon src="https://poster.starhubgo.com/poster/pl_stories_V2.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/pl_stories_2025_26_ep15.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="221" start="20250911190000 +0000" stop="20250911200000 +0000">
 		<title>1-TO-11 - EP 9</title>
@@ -11836,7 +11841,7 @@
 	</programme>
 	<programme channel="221" start="20250912200000 +0000" stop="20250912203000 +0000">
 		<title>PREVIEW - FRI 12 SEP</title>
-		<desc>A tightly packed look-ahead to the forthcoming matchround with a mix of player interviews and special features.</desc>
+		<desc>Peter Schmeichel previews the Manchester derby, Max Kilman discusses West Ham v Spurs, and we focus on Alexander Isak ahead of Burnley v Liverpool.</desc>
 		<icon src="https://poster.starhubgo.com/poster/pl_preview_V2.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="221" start="20250912203000 +0000" stop="20250912213000 +0000">
@@ -11871,7 +11876,7 @@
 	</programme>
 	<programme channel="221" start="20250913010000 +0000" stop="20250913013000 +0000">
 		<title>PREVIEW - FRI 12 SEP</title>
-		<desc>A tightly packed look-ahead to the forthcoming matchround with a mix of player interviews and special features.</desc>
+		<desc>Peter Schmeichel previews the Manchester derby, Max Kilman discusses West Ham v Spurs, and we focus on Alexander Isak ahead of Burnley v Liverpool.</desc>
 		<icon src="https://poster.starhubgo.com/poster/pl_preview_V2.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="221" start="20250913013000 +0000" stop="20250913023000 +0000">
@@ -11892,7 +11897,7 @@
 	<programme channel="221" start="20250913040000 +0000" stop="20250913043000 +0000">
 		<title>THE BIG INTERVIEW - EP 5</title>
 		<desc>Extended sit-downs and more informal 'out and about' interviews with the Premier League's biggest stars, providing players with a platform to tell their story in their own words.</desc>
-		<icon src="https://poster.starhubgo.com/poster/the_big_interview_V3.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/the_big_interview_2025_26_ep5.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="221" start="20250913043000 +0000" stop="20250913050000 +0000">
 		<title>FANTASY SHOW - FRI 12 SEP</title>
@@ -11901,7 +11906,7 @@
 	</programme>
 	<programme channel="221" start="20250913050000 +0000" stop="20250913053000 +0000">
 		<title>PREVIEW - FRI 12 SEP</title>
-		<desc>A tightly packed look-ahead to the forthcoming matchround with a mix of player interviews and special features.</desc>
+		<desc>Peter Schmeichel previews the Manchester derby, Max Kilman discusses West Ham v Spurs, and we focus on Alexander Isak ahead of Burnley v Liverpool.</desc>
 		<icon src="https://poster.starhubgo.com/poster/pl_preview_V2.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="221" start="20250913053000 +0000" stop="20250913063000 +0000">
@@ -11912,7 +11917,7 @@
 	<programme channel="221" start="20250913063000 +0000" stop="20250913070000 +0000">
 		<title>PL STORIES - EP 15</title>
 		<desc>Edwin van der Sar has faced down pressure on the biggest stages in world football, but his toughest battle came after retirement. In 2023, the legendary goalkeeper suffered a life-threatening brain haemorrhage. In this episode Edwin opens up on his recovery and looks back on his career at the top that redefined goalkeeping.</desc>
-		<icon src="https://poster.starhubgo.com/poster/pl_stories_V2.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/pl_stories_2025_26_ep15.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="221" start="20250913070000 +0000" stop="20250913080000 +0000">
 		<title>TEAM TALKS - FRI 12 SEP</title>
@@ -11922,7 +11927,7 @@
 	<programme channel="221" start="20250913080000 +0000" stop="20250913083000 +0000">
 		<title>THE BIG INTERVIEW - EP 5</title>
 		<desc>Extended sit-downs and more informal 'out and about' interviews with the Premier League's biggest stars, providing players with a platform to tell their story in their own words.</desc>
-		<icon src="https://poster.starhubgo.com/poster/the_big_interview_V3.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/the_big_interview_2025_26_ep5.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="221" start="20250913083000 +0000" stop="20250913093000 +0000">
 		<title>WELCOME TO THE WEEKEND - FRI 12 SEP</title>
@@ -11936,12 +11941,12 @@
 	</programme>
 	<programme channel="221" start="20250913100000 +0000" stop="20250913103000 +0000">
 		<title>PREVIEW - FRI 12 SEP</title>
-		<desc>A tightly packed look-ahead to the forthcoming matchround with a mix of player interviews and special features.</desc>
+		<desc>Peter Schmeichel previews the Manchester derby, Max Kilman discusses West Ham v Spurs, and we focus on Alexander Isak ahead of Burnley v Liverpool.</desc>
 		<icon src="https://poster.starhubgo.com/poster/pl_preview_V2.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="221" start="20250913103000 +0000" stop="20250913112000 +0000">
 		<title>PREMIER LEAGUE LIVE (Live)</title>
-		<desc>Live match action from the latest match round of the Premier League, with insight, analysis, and reaction from our expert panel of studio guests.</desc>
+		<desc>Premier League football returns with a bumper Saturday, beginning with Eberechi Eze's home debut as Arsenal face Nottingham Forest. Ian Wright and Alan Shearer are in the studio for that plus Newcastle against Wolves which headlines Goal Rush. Glenn Hoddle and Jermain Defoe then take over for the 2 London derbies as West Ham play Spurs and Brentford take on Chelsea.</desc>
 		<icon src="https://poster.starhubgo.com/poster/pl_live.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="221" start="20250913112000 +0000" stop="20250913135000 +0000">
@@ -12002,7 +12007,7 @@
 	<programme channel="222" start="20250913065500 +0000" stop="20250913072500 +0000">
 		<title>The Big Interview 2025/26 - EP 5</title>
 		<desc>Extended sit-downs and more informal ‘out and about’ interviews with the Premier League’s biggest stars, providing players with a platform to tell their story in their own words.</desc>
-		<icon src="https://poster.starhubgo.com/poster/the_big_interview_V3.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/the_big_interview_2025_26_ep5.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="222" start="20250913072500 +0000" stop="20250913075500 +0000">
 		<title>PL Stories 2025/26 - EP 15</title>
@@ -12022,16 +12027,16 @@
 	<programme channel="222" start="20250913085500 +0000" stop="20250913105000 +0000">
 		<title>Liverpool vs Arsenal (MW03) - EP 30</title>
 		<desc>Liverpool are winless in six Premier League matches against Arsenal (D4 L2), their longest winless run against the Gunners since going eight without a win between October 2007 and April 2011.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch221_MC_LIVvARS_26.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch221_MW3_LIVvARS_26.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="222" start="20250913105000 +0000" stop="20250913112000 +0000">
 		<title>The Big Interview 2025/26 - EP 5</title>
 		<desc>Extended sit-downs and more informal ‘out and about’ interviews with the Premier League’s biggest stars, providing players with a platform to tell their story in their own words.</desc>
-		<icon src="https://poster.starhubgo.com/poster/the_big_interview_V3.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/the_big_interview_2025_26_ep5.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="222" start="20250913112000 +0000" stop="20250913132000 +0000">
 		<title>Arsenal vs Nottingham Forest (MW04) (Live) - EP 31</title>
-		<desc>The 34th season of the Premier League sees Liverpool defend its title against a host of teams keen for glory themselves. 20 teams are in the mix but only 1 champion will emerge ultimately.</desc>
+		<desc>In all competitions, Arsenal have won their last six home games against Nottingham Forest by an aggregate score of 19-2. The Gunners are unbeaten in 14 games on home soil against Forest (W10 D4) since a 3-1 defeat back in March 1989.</desc>
 		<icon src="https://poster.starhubgo.com/poster/arsenal_stadium.jpg?w=960" />
 	</programme>
 	<programme channel="222" start="20250913132000 +0000" stop="20250913135000 +0000">
@@ -12041,7 +12046,7 @@
 	</programme>
 	<programme channel="222" start="20250913135000 +0000" stop="20250913160000 +0000">
 		<title>Everton vs Aston Villa (MW04) (Live) - EP 34</title>
-		<desc>The 34th season of the Premier League sees Liverpool defend its title against a host of teams keen for glory themselves. 20 teams are in the mix but only 1 champion will emerge ultimately.</desc>
+		<desc>Everton have won five of their last six Premier League games (L1), as many as their previous 21 beforehand (W5 D10 L6). At home, the Toffees are looking to win 3+ successive league games for the first time since May 2024 (5).</desc>
 		<icon src="https://poster.starhubgo.com/poster/everton_stadium.jpg?w=960" />
 	</programme>
 	<programme channel="223" start="20250911160000 +0000" stop="20250911220000 +0000">
@@ -12086,7 +12091,7 @@
 	</programme>
 	<programme channel="223" start="20250913135000 +0000" stop="20250913160000 +0000">
 		<title>Bournemouth vs Brighton and Hove Albion (MW04) (Live) - EP 32</title>
-		<desc>The 34th season of the Premier League sees Liverpool defend its title against a host of teams keen for glory themselves. 20 teams are in the mix but only 1 champion will emerge ultimately.</desc>
+		<desc>Bournemouth won four of their first six Premier League matches against Brighton and Hove Albion (D1 L1) but they have since lost five of their last six against the Seagulls (W1).</desc>
 		<icon src="https://poster.starhubgo.com/poster/bournemouth_stadium.jpg?w=960" />
 	</programme>
 	<programme channel="224" start="20250911160000 +0000" stop="20250911220000 +0000">
@@ -12176,7 +12181,7 @@
 	</programme>
 	<programme channel="225" start="20250913135000 +0000" stop="20250913160000 +0000">
 		<title>Crystal Palace vs Sunderland (MW04) (Live) - EP 33</title>
-		<desc>The 34th season of the Premier League sees Liverpool defend its title against a host of teams keen for glory themselves. 20 teams are in the mix but only 1 champion will emerge ultimately.</desc>
+		<desc>Crystal Palace are on the longest current unbeaten league run of any Premier League side (9 - W3 D6). They last went 10 top-flight games unbeaten between May and October 1990 (12).</desc>
 		<icon src="https://poster.starhubgo.com/poster/crystal_palace_stadium.jpg?w=960" />
 	</programme>
 	<programme channel="226" start="20250911160000 +0000" stop="20250911220000 +0000">
@@ -12312,7 +12317,7 @@
 	<programme channel="232" start="20250913065500 +0000" stop="20250913072500 +0000">
 		<title>The Big Interview 2025/26 - EP 5</title>
 		<desc>Extended sit-downs and more informal ‘out and about’ interviews with the Premier League’s biggest stars, providing players with a platform to tell their story in their own words.</desc>
-		<icon src="https://poster.starhubgo.com/poster/the_big_interview_V3.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/the_big_interview_2025_26_ep5.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="232" start="20250913072500 +0000" stop="20250913075500 +0000">
 		<title>PL Stories 2025/26 - EP 15</title>
@@ -12337,11 +12342,11 @@
 	<programme channel="232" start="20250913105000 +0000" stop="20250913112000 +0000">
 		<title>The Big Interview 2025/26 - EP 5</title>
 		<desc>Extended sit-downs and more informal ‘out and about’ interviews with the Premier League’s biggest stars, providing players with a platform to tell their story in their own words.</desc>
-		<icon src="https://poster.starhubgo.com/poster/the_big_interview_V3.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/the_big_interview_2025_26_ep5.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="232" start="20250913112000 +0000" stop="20250913132000 +0000">
 		<title>Arsenal vs Nottingham Forest (MW04) (Live) - EP 31</title>
-		<desc>The 34th season of the Premier League sees Liverpool defend its title against a host of teams keen for glory themselves. 20 teams are in the mix but only 1 champion will emerge ultimately.</desc>
+		<desc>In all competitions, Arsenal have won their last six home games against Nottingham Forest by an aggregate score of 19-2. The Gunners are unbeaten in 14 games on home soil against Forest (W10 D4) since a 3-1 defeat back in March 1989.</desc>
 		<icon src="https://poster.starhubgo.com/poster/arsenal_stadium.jpg?w=960" />
 	</programme>
 	<programme channel="232" start="20250913132000 +0000" stop="20250913135000 +0000">
@@ -12351,7 +12356,7 @@
 	</programme>
 	<programme channel="232" start="20250913135000 +0000" stop="20250913160000 +0000">
 		<title>Everton vs Aston Villa (MW04) (Live) - EP 34</title>
-		<desc>The 34th season of the Premier League sees Liverpool defend its title against a host of teams keen for glory themselves. 20 teams are in the mix but only 1 champion will emerge ultimately.</desc>
+		<desc>Everton have won five of their last six Premier League games (L1), as many as their previous 21 beforehand (W5 D10 L6). At home, the Toffees are looking to win 3+ successive league games for the first time since May 2024 (5).</desc>
 		<icon src="https://poster.starhubgo.com/poster/everton_stadium.jpg?w=960" />
 	</programme>
 	<programme channel="241" start="20250911160000 +0000" stop="20250911170000 +0000">
@@ -23181,7 +23186,7 @@
 	</programme>
 	<programme channel="701" start="20250912003000 +0000" stop="20250912010000 +0000">
 		<title>The Media Show</title>
-		<desc>A global, topical weekly show that lifts the hood on the entertainment and news business. The Media Show explores the companies and personalities who command our attention.</desc>
+		<desc>Coverage of French Prime Minister François Bayrou's confidence vote, the rise of the 'Bloquons Tout' protest movement, the changing leadership at Vogue, and a new book on a journalist close to Hitler.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch701_BBC_news.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="701" start="20250912010000 +0000" stop="20250912013000 +0000">
@@ -23436,7 +23441,7 @@
 	</programme>
 	<programme channel="701" start="20250912233000 +0000" stop="20250913000000 +0000">
 		<title>Talking Business</title>
-		<desc>Examining the business stories and economic trends that are re-shaping our world.</desc>
+		<desc>For more than two decades Google has dominated the way we search, shop and do business online - so how is AI changing all of that?</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch701_talking_business.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="701" start="20250913000000 +0000" stop="20250913003000 +0000">
@@ -23476,7 +23481,7 @@
 	</programme>
 	<programme channel="701" start="20250913033000 +0000" stop="20250913040000 +0000">
 		<title>The Media Show</title>
-		<desc>A global, topical weekly show that lifts the hood on the entertainment and news business. The Media Show explores the companies and personalities who command our attention.</desc>
+		<desc>Super Mario Bros' 40th anniversary, Russia's state messaging app and Nepal's social media bans, and the Murdoch family succession dispute.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch701_BBC_news.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="701" start="20250913040000 +0000" stop="20250913043000 +0000">
@@ -23496,7 +23501,7 @@
 	</programme>
 	<programme channel="701" start="20250913053000 +0000" stop="20250913060000 +0000">
 		<title>Unspun World with John Simpson</title>
-		<desc>Unspun World provides an unvarnished version of the week's major global news stories - reliable, honest and essential viewing with the BBC's world affairs editor John Simpson.</desc>
+		<desc>John Simpson analyses whether the latest political crisis in France is a sign of long-term decline and examines the reasons for the simmering tensions between Cambodia and Thailand.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch701_unspun_world_with_john_simpson.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="701" start="20250913060000 +0000" stop="20250913063000 +0000">
@@ -23531,7 +23536,7 @@
 	</programme>
 	<programme channel="701" start="20250913093000 +0000" stop="20250913100000 +0000">
 		<title>Global Eye</title>
-		<desc>A weekly programme from the BBC World Service, bringing forensic journalism from all corners of the world. In our first episode, Nawal Al-Maghafi reports on the escalating crisis in Sudan.</desc>
+		<desc>A weekly programme bringing forensic journalism from all corners of the world. In the first episode, we hear from residents in Ukraine's Kharkiv and Nawal Al-Maghafi reports from Sudan.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch701_BBC_news.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="701" start="20250913100000 +0000" stop="20250913103000 +0000">
@@ -23541,7 +23546,7 @@
 	</programme>
 	<programme channel="701" start="20250913103000 +0000" stop="20250913110000 +0000">
 		<title>Talking Business</title>
-		<desc>Examining the business stories and economic trends that are re-shaping our world.</desc>
+		<desc>For more than two decades Google has dominated the way we search, shop and do business online - so how is AI changing all of that?</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch701_talking_business.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="701" start="20250913110000 +0000" stop="20250913113000 +0000">
@@ -23551,7 +23556,7 @@
 	</programme>
 	<programme channel="701" start="20250913113000 +0000" stop="20250913120000 +0000">
 		<title>Unspun World with John Simpson</title>
-		<desc>Unspun World provides an unvarnished version of the week's major global news stories - reliable, honest and essential viewing with the BBC's world affairs editor John Simpson.</desc>
+		<desc>John Simpson analyses whether the latest political crisis in France is a sign of long-term decline and examines the reasons for the simmering tensions between Cambodia and Thailand.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch701_unspun_world_with_john_simpson.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="701" start="20250913120000 +0000" stop="20250913123000 +0000">
@@ -23581,7 +23586,7 @@
 	</programme>
 	<programme channel="701" start="20250913143000 +0000" stop="20250913150000 +0000">
 		<title>The Media Show</title>
-		<desc>A global, topical weekly show that lifts the hood on the entertainment and news business. The Media Show explores the companies and personalities who command our attention.</desc>
+		<desc>Super Mario Bros' 40th anniversary, Russia's state messaging app and Nepal's social media bans, and the Murdoch family succession dispute.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch701_BBC_news.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="701" start="20250913150000 +0000" stop="20250913153000 +0000">
@@ -34971,7 +34976,7 @@
 	</programme>
 	<programme channel="995" start="20250911170000 +0000" stop="20250911200000 +0000">
 		<title>NFL 2025/26 Minnesota Vikings vs Chicago Bears</title>
-		<desc>Follow us for the thrilling 2025/26 NFL season as teams battle for glory. The Philadelphia Eagles defend their Super Bowl crown, facing fierce rivals and rising stars in America’s ultimate football showdown.</desc>
+		<desc>Follow us for the thrilling 2025/26 NFL season as teams battle for glory. The Philadelphia Eagles defend their Super Bowl crown, facing fierce rivals and rising stars in America's ultimate football showdown.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch202_nfl_2024_25.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="995" start="20250911200000 +0000" stop="20250912000000 +0000">
@@ -35006,12 +35011,12 @@
 	</programme>
 	<programme channel="995" start="20250912100000 +0000" stop="20250912110000 +0000">
 		<title>Pro Bull Riding Teams 2025</title>
-		<desc>High-octane action meets fierce rivalry as elite riders and bulls clash in the Professional Bull Riding Teams, showcasing breathtaking rides, dramatic moments, and the grit behind the sport’s toughest competition.</desc>
+		<desc>High-octane action meets fierce rivalry as elite riders and bulls clash in the Professional Bull Riding Teams, showcasing breathtaking rides, dramatic moments, and the grit behind the sport's toughest competition.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch202_pro_bull_riding.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="995" start="20250912110000 +0000" stop="20250912113000 +0000">
 		<title>NFL GameDay 2025/26</title>
-		<desc>NFL GameDay is a recap of all the previous weekend’s NFL action and showcases the Emmyaward-winning cinematography and music composition of NFL Films.</desc>
+		<desc>NFL GameDay is a recap of all the previous weekend's NFL action and showcases the Emmyaward-winning cinematography and music composition of NFL Films.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch202_nfl_2024_25.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="995" start="20250912113000 +0000" stop="20250912120000 +0000">
@@ -35026,7 +35031,7 @@
 	</programme>
 	<programme channel="995" start="20250912160000 +0000" stop="20250912163000 +0000">
 		<title>NFL GameDay 2025/26</title>
-		<desc>NFL GameDay is a recap of all the previous weekend’s NFL action and showcases the Emmyaward-winning cinematography and music composition of NFL Films.</desc>
+		<desc>NFL GameDay is a recap of all the previous weekend's NFL action and showcases the Emmyaward-winning cinematography and music composition of NFL Films.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch202_nfl_2024_25.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="995" start="20250912163000 +0000" stop="20250912170000 +0000">
@@ -35034,10 +35039,15 @@
 		<desc>The first of its kind program covering all disciplines of combat sports including MMA, boxing, kickboxing, muay thai and more.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch202_total_combat_2024.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="995" start="20250912170000 +0000" stop="20250912200000 +0000">
-		<title>NFL 2025/26 Washington Commanders vs Green Bay Packers</title>
-		<desc>Follow us for the thrilling 2025/26 NFL season as teams battle for glory. The Philadelphia Eagles defend their Super Bowl crown, facing fierce rivals and rising stars in America’s ultimate football showdown.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch202_nfl_2024_25.jpg?w=960&amp;h=540" />
+	<programme channel="995" start="20250912170000 +0000" stop="20250912180000 +0000">
+		<title>Pro Bull Riding Teams 2025</title>
+		<desc>High-octane action meets fierce rivalry as elite riders and bulls clash in the Professional Bull Riding Teams, showcasing breathtaking rides, dramatic moments, and the grit behind the sport's toughest competition.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch202_pro_bull_riding.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="995" start="20250912180000 +0000" stop="20250912200000 +0000">
+		<title>Hologic WTA Tour 2025 (Live)</title>
+		<desc>The Guadalajara Open is a WTA 500 tournament played on outdoor hard courts in Zapopan, Mexico. Founded in 2022 as a WTA 1000 event, it shifted to the WTA 500 tier in 2024. 28 singles players compete at Centro Panamericano de Tenis.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch202_hologic_wta_tour.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="995" start="20250912200000 +0000" stop="20250913000000 +0000">
 		<title>Hologic WTA Tour 2025 (Live)</title>
@@ -35066,7 +35076,7 @@
 	</programme>
 	<programme channel="995" start="20250913113000 +0000" stop="20250913120000 +0000">
 		<title>The Greatest of All Time 2025</title>
-		<desc>Sport's eternal debate… who is the Great of All Time? This is a series of programmes for every sport, examining the candidates and their case for 'greatest', and depicting iconic stars, the most influential careers, the most revered champions, across all sports.</desc>
+		<desc>Sport's eternal debate... who is the Great of All Time? This is a series of programmes for every sport, examining the candidates and their case for 'greatest', and depicting iconic stars, the most influential careers, the most revered champions, across all sports.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch202_the_greatest_of_all_time2025.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="995" start="20250913120000 +0000" stop="20250913180000 +0000">
