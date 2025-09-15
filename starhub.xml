@@ -10302,10 +10302,20 @@
 		<desc>Bringing together prominent professional players from the Kingdom and all around the world, the ROSHN Saudi League delivers weekly thrilling matches to spectators nationally and internationally.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/209_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
+	<programme channel="209" start="20250914174500 +0000" stop="20250914200000 +0000">
+		<title>ROSHN Saudi League 25/26 Match Week 2 Al Nassr vs Al Kholood (Live)</title>
+		<desc>Bringing together prominent professional players from the Kingdom and all around the world, the ROSHN Saudi League delivers weekly thrilling matches to spectators nationally and internationally.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/209_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
 	<programme channel="209" start="20250914200000 +0000" stop="20250914203000 +0000">
 		<title>UIM E1: Champions of the Water 2025</title>
 		<desc>A magazine show following the fortunes of an individual team at each round, featuring the conflict and camaraderie as pilots and owners bid to become Champions of the Water.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/209_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="209" start="20250914203000 +0000" stop="20250914231000 +0000">
+		<title>WTT Champions Macao 2025</title>
+		<desc>The world’s very best table tennis players are returning to Macao East Asian Games Dome in their bid for glory, with WTT Champions Macao 2025 set to captivate once again.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch209_wtt.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="209" start="20250914231000 +0000" stop="20250915002000 +0000">
 		<title>WorldSBK: Rd9 French Round</title>
@@ -11157,6 +11167,11 @@
 		<desc>Directly after the final whistle of every Manchester United match the MUTV team review the game and all the talking points.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch214_mutv_match_day_review.jpg?w=341&amp;h=192" />
 	</programme>
+	<programme channel="215" start="20250914160000 +0000" stop="20250914220000 +0000">
+		<title>End of Transmission</title>
+		<desc />
+		<icon src="https://poster.starhubgo.com/Linear_channels2/215_1920x1080_HTV.png?w=960&amp;h=540" />
+	</programme>
 	<programme channel="215" start="20250914220000 +0000" stop="20250915040000 +0000">
 		<title>End of Transmission</title>
 		<desc />
@@ -11182,6 +11197,21 @@
 		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_channels2/215_1920x1080_HTV.png?w=960&amp;h=540" />
 	</programme>
+	<programme channel="215" start="20250916040000 +0000" stop="20250916100000 +0000">
+		<title>End of Transmission</title>
+		<desc />
+		<icon src="https://poster.starhubgo.com/Linear_channels2/215_1920x1080_HTV.png?w=960&amp;h=540" />
+	</programme>
+	<programme channel="215" start="20250916100000 +0000" stop="20250916160000 +0000">
+		<title>End of Transmission</title>
+		<desc />
+		<icon src="https://poster.starhubgo.com/Linear_channels2/215_1920x1080_HTV.png?w=960&amp;h=540" />
+	</programme>
+	<programme channel="216" start="20250914160000 +0000" stop="20250914220000 +0000">
+		<title>End of Transmission</title>
+		<desc />
+		<icon src="https://poster.starhubgo.com/Linear_channels2/216_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
 	<programme channel="216" start="20250914220000 +0000" stop="20250915040000 +0000">
 		<title>End of Transmission</title>
 		<desc />
@@ -11203,6 +11233,16 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/216_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="216" start="20250915220000 +0000" stop="20250916040000 +0000">
+		<title>End of Transmission</title>
+		<desc />
+		<icon src="https://poster.starhubgo.com/Linear_channels2/216_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="216" start="20250916040000 +0000" stop="20250916100000 +0000">
+		<title>End of Transmission</title>
+		<desc />
+		<icon src="https://poster.starhubgo.com/Linear_channels2/216_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="216" start="20250916100000 +0000" stop="20250916160000 +0000">
 		<title>End of Transmission</title>
 		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_channels2/216_1920x1080_HTV.png?w=341&amp;h=192" />
