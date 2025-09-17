@@ -1499,7 +1499,7 @@
 	</programme>
 	<programme channel="104" start="20250917123000 +0000" stop="20250917130000 +0000">
 		<title>Detik Semasa - EP 13</title>
-		<desc>The program analyses and dissect issues of concern to the Malay/Muslim Singaporeans - be it at the community level, national, regional or global. Apart from raising awareness, each DETIK episode hopes to set viewers thinking and make informed decisions on matters that can impact their lives.</desc>
+		<desc>Up to 800 traineeships will be offered by private firms and the public sector from October amid concerns from fresh graduates about a tepid job market.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/104_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="104" start="20250917130000 +0000" stop="20250917133000 +0000">
@@ -1564,7 +1564,7 @@
 	</programme>
 	<programme channel="104" start="20250918070000 +0000" stop="20250918073000 +0000">
 		<title>Detik Semasa - EP 13</title>
-		<desc>The program analyses and dissect issues of concern to the Malay/Muslim Singaporeans - be it at the community level, national, regional or global. Apart from raising awareness, each DETIK episode hopes to set viewers thinking and make informed decisions on matters that can impact their lives.</desc>
+		<desc>Up to 800 traineeships will be offered by private firms and the public sector from October amid concerns from fresh graduates about a tepid job market.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/104_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="104" start="20250918073000 +0000" stop="20250918080000 +0000">
@@ -7327,9 +7327,24 @@
 		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="140" start="20250916163000 +0000" stop="20250916220000 +0000">
-		<title>Information Not Available</title>
-		<desc />
+	<programme channel="140" start="20250916163000 +0000" stop="20250916192000 +0000">
+		<title>Bhramaram</title>
+		<desc>Unni's peaceful life is disrupted when he meets his childhood friend after many years.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="140" start="20250916192000 +0000" stop="20250916220500 +0000">
+		<title>Ulsaha Committee</title>
+		<desc>Apoorvan, a school dropout, aspires to become a renowned scientist.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="140" start="20250916220500 +0000" stop="20250916223000 +0000">
+		<title>Chirikkum Thalika - EP 24</title>
+		<desc>A compilation of various entertaining comedy scenes from various Malayalam movies.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="140" start="20250916223000 +0000" stop="20250916230000 +0000">
+		<title>Chirikkum Thalika - EP 37</title>
+		<desc>A compilation of various entertaining comedy scenes from various Malayalam movies.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="140" start="20250916230000 +0000" stop="20250917013000 +0000">
@@ -7382,14 +7397,29 @@
 		<desc>Josy's carefree life ends after his mother's death and the return of his estranged father.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="140" start="20250918040000 +0000" stop="20250918100000 +0000">
-		<title>Information Not Available</title>
-		<desc />
+	<programme channel="140" start="20250918013000 +0000" stop="20250918043000 +0000">
+		<title>Pookkaalam</title>
+		<desc>An unexpected event leads an elderly couple on a journey that tests their familial bonds.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="140" start="20250918100000 +0000" stop="20250918163000 +0000">
-		<title>Information Not Available</title>
-		<desc />
+	<programme channel="140" start="20250918043000 +0000" stop="20250918073000 +0000">
+		<title>Neyyattinkara Gopante Aaraattu</title>
+		<desc>A man strives to keep his vast plot from the government by joining hands with Gopan.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="140" start="20250918073000 +0000" stop="20250918103000 +0000">
+		<title>2 Countries</title>
+		<desc>A money-minded man leaves his fiancee to marry another woman for her money.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="140" start="20250918103000 +0000" stop="20250918133000 +0000">
+		<title>Puthiyamugham</title>
+		<desc>An honest fresher takes on the college boys who did him wrong.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="140" start="20250918133000 +0000" stop="20250918163000 +0000">
+		<title>Bahubali-2</title>
+		<desc>Mahendra Baahubali raises an army to defeat Bhallaladeva, for killing his father.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="141" start="20250916160000 +0000" stop="20250916193000 +0000">
@@ -11123,9 +11153,9 @@
 		<icon src="https://poster.starhubgo.com/poster/ch214_UCL_live_match.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="214" start="20250916185500 +0000" stop="20250916210000 +0000">
-		<title>UEFA Champions League 2025/26 Tottenham vs Villarreal - MD1 (Live)</title>
+		<title>Tottenham vs Villarreal - MD1 (Live)</title>
 		<desc>The most prestigious tournament in the world contested by top-division elite European clubs</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch214_UCL_live_match.jpg?w=960&amp;h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch214_UCL_live.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="214" start="20250916210000 +0000" stop="20250916213000 +0000">
 		<title>PSG TV Specials 2025/26</title>
@@ -12227,6 +12257,11 @@
 		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_Channels2/223_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
+	<programme channel="224" start="20250916160000 +0000" stop="20250916220000 +0000">
+		<title>End of Transmission</title>
+		<desc />
+		<icon src="https://poster.starhubgo.com/Linear_Channels2/224_1920x1080_HTV.png?w=960&amp;h=540" />
+	</programme>
 	<programme channel="224" start="20250916220000 +0000" stop="20250917040000 +0000">
 		<title>End of Transmission</title>
 		<desc />
@@ -12248,6 +12283,16 @@
 		<icon src="https://poster.starhubgo.com/Linear_Channels2/224_1920x1080_HTV.png?w=960&amp;h=540" />
 	</programme>
 	<programme channel="224" start="20250917220000 +0000" stop="20250918040000 +0000">
+		<title>End of Transmission</title>
+		<desc />
+		<icon src="https://poster.starhubgo.com/Linear_Channels2/224_1920x1080_HTV.png?w=960&amp;h=540" />
+	</programme>
+	<programme channel="224" start="20250918040000 +0000" stop="20250918100000 +0000">
+		<title>End of Transmission</title>
+		<desc />
+		<icon src="https://poster.starhubgo.com/Linear_Channels2/224_1920x1080_HTV.png?w=960&amp;h=540" />
+	</programme>
+	<programme channel="224" start="20250918100000 +0000" stop="20250918160000 +0000">
 		<title>End of Transmission</title>
 		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_Channels2/224_1920x1080_HTV.png?w=960&amp;h=540" />
