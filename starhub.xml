@@ -857,12 +857,12 @@
 		<desc>Films and Stars cover the hottest events from the big screen every week.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="102" start="20250921073000 +0000" stop="20250921083000 +0000">
+	<programme channel="102" start="20250921073000 +0000" stop="20250921082500 +0000">
 		<title>Bake Off: The Professionals S2 - EP 5</title>
 		<desc>The toughest Bake Off of them all is back again. Twelve teams from across Britain compete to craft exquisite entremets, delicious desserts and spectacular showpieces. Who will impress world-renowned judges Benoit Blin and Cherish Finden, and be crowned the winner?</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="102" start="20250921083000 +0000" stop="20250921092500 +0000">
+	<programme channel="102" start="20250921082500 +0000" stop="20250921092500 +0000">
 		<title>Shark with Steve Backshall - EP 4</title>
 		<desc>Features naturalist and wildlife expert, Steve Backshall, as he gets us closer to sharks, to encounter a diverse and incredible family of over 400 different types. This global journey will take us to the remotest parts of our planet, from the sun-drenched tropics to the mysterious depths of our oceans.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png?w=341&amp;h=192" />
@@ -1274,7 +1274,7 @@
 	</programme>
 	<programme channel="103" start="20250921153000 +0000" stop="20250921160000 +0000">
 		<title>Frontline - EP 21</title>
-		<desc>Frontline is a weekly investigative current affairs programme that aims to address issues closest to the hearts of Singaporeans.</desc>
+		<desc>As vaping issues worsen, the government has classified Etomidate as a Class C drug and introduced tougher penalties for vape-related offences. What are the struggles that vape users faced when quitting? Does second-hand vape pose a health risk? Frontline also follows enforcement officers on the ground to find out their daily operations.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/103_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="104" start="20250919160000 +0000" stop="20250920010000 +0000">
@@ -1487,12 +1487,12 @@
 		<desc>In Kombai, Karuna and Aadhi become friends over a shared trauma and look out for each other as they wield powerful authority over the town's temple and the happenings of the surroundings.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/105_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="105" start="20250919163000 +0000" stop="20250919170000 +0000">
+	<programme channel="105" start="20250919163000 +0000" stop="20250919165500 +0000">
 		<title>Seithi - EP 171</title>
 		<desc>Tamil Seithi focuses primarily on local and international news, information and current affairs. _x000D_Catch the online news portal at http://seithi.mediacorp.sg/</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/105_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="105" start="20250919170000 +0000" stop="20250920010000 +0000">
+	<programme channel="105" start="20250919165500 +0000" stop="20250920010000 +0000">
 		<title>End of transmission</title>
 		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_channels2/105_1920x1080_HTV.png?w=341&amp;h=192" />
@@ -1744,7 +1744,7 @@
 	</programme>
 	<programme channel="106" start="20250920050200 +0000" stop="20250920053000 +0000">
 		<title>National Stem Championship 2025 - EP 3</title>
-		<desc>The quarters are wrapped up, and the first 12 semi-finalist teams are revealed. The wildcard round takes place, with 12 schools from the qualifiers getting a chance to grab the 4 remaining semi-final spots. The question is, how well will they weather a we</desc>
+		<desc>The quarters are wrapped up, and the first 12 semi-finalist teams are revealed. The wildcard round takes place, with 12 schools from the qualifiers getting a chance to grab the 4 remaining semi-final spots. The question is, how well will they weather a weather challenge?</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="106" start="20250920053000 +0000" stop="20250920060000 +0000">
@@ -10273,47 +10273,47 @@
 		<icon src="https://poster.starhubgo.com/poster/ch211_atp_classic_shorts.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="211" start="20250921003000 +0000" stop="20250921020000 +0000">
-		<title>ATP Tour 250 2025: Hangzhou Day 4 Match 4</title>
+		<title>ATP Tour 250 2025: Hangzhou Day 4 Medvedev v Basavareddy</title>
 		<desc>Exclusive coverage of the 2025 ATP Tour on beIN SPORTS as the world's best male players battle it out across the globe to be #1.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_ATPMASTERS250.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="211" start="20250921020000 +0000" stop="20250921040000 +0000">
-		<title>Laver Cup 2025: Singles Day 2 Match 7 (Live)</title>
+		<title>Laver Cup 2025 (Live)</title>
 		<desc>The Laver Cup pits six top European players against six of their counterparts from the rest of the World.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_LAVER_CUP.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="211" start="20250921040000 +0000" stop="20250921053000 +0000">
-		<title>Laver Cup 2025: Doubles Day 2 Match 8 (Live)</title>
+		<title>Laver Cup 2025 (Live)</title>
 		<desc>The Laver Cup pits six top European players against six of their counterparts from the rest of the World.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_LAVER_CUP.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="211" start="20250921053000 +0000" stop="20250921073000 +0000">
-		<title>ATP Tour 250 2025: Hangzhou QF 1 (Live)</title>
+		<title>ATP Tour 250 2025 (Live)</title>
 		<desc>Exclusive coverage of the 2025 ATP Tour on beIN SPORTS as the world's best male players battle it out across the globe to be #1.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_ATPMASTERS250.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="211" start="20250921073000 +0000" stop="20250921093000 +0000">
-		<title>ATP Tour 250 2025: Hangzhou QF 2 (Live)</title>
+		<title>ATP Tour 250 2025 (Live)</title>
 		<desc>Exclusive coverage of the 2025 ATP Tour on beIN SPORTS as the world's best male players battle it out across the globe to be #1.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_ATPMASTERS250.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="211" start="20250921093000 +0000" stop="20250921113000 +0000">
-		<title>ATP Tour 250 2025: Hangzhou QF 3 (Live)</title>
+		<title>ATP Tour 250 2025 (Live)</title>
 		<desc>Exclusive coverage of the 2025 ATP Tour on beIN SPORTS as the world's best male players battle it out across the globe to be #1.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_ATPMASTERS250.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="211" start="20250921113000 +0000" stop="20250921133000 +0000">
-		<title>ATP Tour 250 2025: Hangzhou QF 4 (Live)</title>
+		<title>ATP Tour 250 2025 (Live)</title>
 		<desc>Exclusive coverage of the 2025 ATP Tour on beIN SPORTS as the world's best male players battle it out across the globe to be #1.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_ATPMASTERS250.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="211" start="20250921133000 +0000" stop="20250921150000 +0000">
-		<title>Laver Cup 2025: Singles Day 2 Match 6</title>
+		<title>Laver Cup 2025</title>
 		<desc>The Laver Cup pits six top European players against six of their counterparts from the rest of the World.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_LAVER_CUP.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="211" start="20250921150000 +0000" stop="20250921163000 +0000">
-		<title>Laver Cup 2025: Singles Day 2 Match 7</title>
+		<title>Laver Cup 2025</title>
 		<desc>The Laver Cup pits six top European players against six of their counterparts from the rest of the World.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_LAVER_CUP.jpg?w=960&amp;h=540" />
 	</programme>
