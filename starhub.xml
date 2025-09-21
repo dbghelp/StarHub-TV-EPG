@@ -6663,17 +6663,17 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="140" start="20250920190500 +0000" stop="20250920215000 +0000">
-		<title>'August 15</title>
+		<title>August 15</title>
 		<desc>Officer Perumal is assigned to catch a criminal who wants to kill the chief minister.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="140" start="20250920215000 +0000" stop="20250920222000 +0000">
-		<title>Chirikkum Thalika</title>
+		<title>Chirikkum Thalika - EP 25</title>
 		<desc>A compilation of various entertaining comedy scenes from various Malayalam movies.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="140" start="20250920222000 +0000" stop="20250920224000 +0000">
-		<title>Chirikkum Thalika</title>
+		<title>Chirikkum Thalika - EP 30</title>
 		<desc>A compilation of various entertaining comedy scenes from various Malayalam movies.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
@@ -6732,12 +6732,12 @@
 		<desc>Apoorvan, a school dropout, aspires to become a renowned scientist.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="140" start="20250922013000 +0000" stop="20250922043000 +0000">
+	<programme channel="140" start="20250922013000 +0000" stop="20250922042500 +0000">
 		<title>Achayans</title>
 		<desc>A family of four set out on a road trip but things take a grisly turn after a murder.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="140" start="20250922043000 +0000" stop="20250922073000 +0000">
+	<programme channel="140" start="20250922042500 +0000" stop="20250922073000 +0000">
 		<title>Drishyam 2</title>
 		<desc>Georgekutty gets entangled in a criminal investigation and tries to protect his family.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=341&amp;h=192" />
@@ -10037,15 +10037,25 @@
 		<desc>40 of the world's best female and male professional triathletes battle over 8 breakneck 100km races in iconic locations around the globe in a bid to be crowned the first-ever T100 World Champions.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_spotv2_logo.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="210" start="20250921091500 +0000" stop="20250921133000 +0000">
+	<programme channel="210" start="20250921091500 +0000" stop="20250921120000 +0000">
 		<title>Supercars Championship 2025: AirTouch 500 at The Bend</title>
 		<desc>Supercars delivers exhilarating and accessible motorsports-led entertainment to engaged and passionate fans.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_motorsports.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="210" start="20250921133000 +0000" stop="20250921150000 +0000">
+	<programme channel="210" start="20250921120000 +0000" stop="20250921133000 +0000">
 		<title>SailGP S5: Switzerland, Geneva</title>
 		<desc>Adrenaline-fueled races, legendary global locations, rival national teams and record-breaking speeds. SailGP is the most exciting racing on water - Powered By Nature.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_spotv2_logo.jpg?w=960&amp;h=540" />
+	</programme>
+	<programme channel="210" start="20250921133000 +0000" stop="20250921141500 +0000">
+		<title>2025 MotoE Rd 6 GP of San Marino</title>
+		<desc>14 races, seven events and seven different countries see the electric class take on its biggest ever season with Championship status.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch210_motorsports.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="210" start="20250921141500 +0000" stop="20250921150000 +0000">
+		<title>2025 MotoE Rd 6 GP of San Marino</title>
+		<desc>14 races, seven events and seven different countries see the electric class take on its biggest ever season with Championship status.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch210_motorsports.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="210" start="20250921150000 +0000" stop="20250921173000 +0000">
 		<title>MLB 2025: Regular Season Los Angeles Dodgers vs San Francisco Giants</title>
