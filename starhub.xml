@@ -1467,9 +1467,14 @@
 		<desc>Consumed by jealousy over Kaiden and Haila, Erman lays his emotions bare for all to see. Katrina, exasperated, demands he pull himself together, but Erman remains trapped in his own feelings.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/104_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="104" start="20250923153000 +0000" stop="20250923160000 +0000">
+	<programme channel="104" start="20250923153000 +0000" stop="20250923155500 +0000">
 		<title>Berita - EP 176</title>
 		<desc>Catch the latest local and international news on Suria.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/104_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="104" start="20250923155500 +0000" stop="20250924010000 +0000">
+		<title>End of transmission</title>
+		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_channels2/104_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="105" start="20250921140000 +0000" stop="20250921170000 +0000">
@@ -4744,7 +4749,7 @@
 	</programme>
 	<programme channel="128" start="20250923130000 +0000" stop="20250923143000 +0000">
 		<title>Bigg Boss - EP 30</title>
-		<desc>Celebrity contestants live in an isolated house and perform tasks in order to win.</desc>
+		<desc>Amaal and Shehbaaz relish their achievement as Zeishan and Kunickaa clash with each other.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch128_bigg_boss.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="128" start="20250923143000 +0000" stop="20250923150000 +0000">
@@ -10367,12 +10372,12 @@
 		<desc>ASBK showcases intense, high-speed racing across multiple classes, with a strong focus on talent development and a pathway to international competition.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch209_motorsports.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="209" start="20250923020000 +0000" stop="20250923053000 +0000">
+	<programme channel="209" start="20250923020000 +0000" stop="20250923052000 +0000">
 		<title>2025 US Open Tennis Championship Day 15</title>
 		<desc>The finest tennis players on the planet lock horns on the hard-courts of Flushing Meadows in pursuit of the sport's toughest title at the fourth and final Grand Slam of the year.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch209_us_open.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="209" start="20250923053000 +0000" stop="20250923113000 +0000">
+	<programme channel="209" start="20250923052000 +0000" stop="20250923113000 +0000">
 		<title>2025 European Le Mans Series: 4 Hours of Silverstone</title>
 		<desc>2025 marks the tenth season of the Michelin Le Mans Cup and for the first time the series will feature three classes, with Silver and Gold rated drivers able to compete together in LMP3.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch209_motorsports.jpg?w=960&amp;h=540" />
@@ -10452,10 +10457,15 @@
 		<desc>The finest tennis players on the planet lock horns on the hard-courts of Flushing Meadows in pursuit of the sport's toughest title at the fourth and final Grand Slam of the year.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_us_open.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="210" start="20250923103000 +0000" stop="20250923153000 +0000">
+	<programme channel="210" start="20250923103000 +0000" stop="20250923143000 +0000">
 		<title>2025 US Open Tennis Championships</title>
 		<desc>The finest tennis players on the planet lock horns on the hard-courts of Flushing Meadows in pursuit of the sport's toughest title at the fourth and final Grand Slam of the year.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_us_open.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="210" start="20250923143000 +0000" stop="20250923153000 +0000">
+		<title>MotoGP 2025 Round 16- Red Bull Grand Prix of San Marino</title>
+		<desc>The 2025 MotoGP sees 22 of the world's best riders battle on 1000cc prototype machines, delivering over 250hp and reaching speeds of 360kph across 22 thrilling Grands Prix in 18 countries.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch210_motogp.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="210" start="20250923153000 +0000" stop="20250924014000 +0000">
 		<title>2025 US Open Tennis Championships</title>
@@ -25802,10 +25812,50 @@
 		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_channels2/709_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="711" start="20250921160000 +0000" stop="20250921220000 +0000">
-		<title>Information Not Available</title>
-		<desc />
-		<icon src="https://poster.starhubgo.com/Linear_channels2/711_1920x1080_HTV.png?w=960&amp;h=540" />
+	<programme channel="711" start="20250921160000 +0000" stop="20250921163000 +0000">
+		<title>World Sport</title>
+		<desc>Daily sports show features major stories and issues making news in the world of sports.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch711_world_sport.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="711" start="20250921163000 +0000" stop="20250921170000 +0000">
+		<title>Inside Africa</title>
+		<desc>Inside Africa takes its viewers on a journey across Africa, exploring the true diversity and depth of different cultures, countries and regions.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch711_inside_africa.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="711" start="20250921170000 +0000" stop="20250921173000 +0000">
+		<title>African Voices Changemakers</title>
+		<desc>Larry Madowo travels to Nsukka, Nigeria, to spotlight acclaimed author Chimamanda Ngozi Adichie. From global bestsellers like "Purple Hibiscus" and "Americanah" to her new novel "Dream Count," Adichie discusses her creative journey, cultural influences, and how she's redefining African storytelling on the world stage.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch711_african_voices_changemakers.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="711" start="20250921173000 +0000" stop="20250921180000 +0000">
+		<title>Blueprint</title>
+		<desc>Many people travel to Mongolia to disconnect, to escape into the vast wilderness and switch off. But for Mongolians, connectivity is everything. The country has 3.5 million people and 5 million active phone numbers. Everywhere you look in the capital city Ulaanbaatar, people are glued to their phones. A vibrant startup scene in the city is driving innovation and diversifying Mongolia's economy beyond its mining roots, fueled by a young, ambitious, and entrepreneurial population.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch711_blueprint.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="711" start="20250921180000 +0000" stop="20250921190000 +0000">
+		<title>CNN Newsroom Sunday</title>
+		<desc>Updates of the latest news from around the world.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch711_cnn_newsroom.jpg?w=960&amp;h=540" />
+	</programme>
+	<programme channel="711" start="20250921190000 +0000" stop="20250921200000 +0000">
+		<title>CNN Newsroom Sunday</title>
+		<desc>Updates of the latest news from around the world.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch711_cnn_newsroom.jpg?w=960&amp;h=540" />
+	</programme>
+	<programme channel="711" start="20250921200000 +0000" stop="20250921210000 +0000">
+		<title>CNN Newsroom Sunday</title>
+		<desc>Updates of the latest news from around the world.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch711_cnn_newsroom.jpg?w=960&amp;h=540" />
+	</programme>
+	<programme channel="711" start="20250921210000 +0000" stop="20250921220000 +0000">
+		<title>World Sport</title>
+		<desc>Daily sports show features major stories and issues making news in the world of sports.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch711_world_sport.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="711" start="20250921220000 +0000" stop="20250921230000 +0000">
+		<title>CNN Newsroom Sunday</title>
+		<desc>Updates of the latest news from around the world.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch711_cnn_newsroom.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="711" start="20250921230000 +0000" stop="20250922000000 +0000">
 		<title>CNN Newsroom Sunday</title>
@@ -25977,15 +26027,100 @@
 		<desc>Anderson Cooper takes you beyond the headlines with in-depth reporting and investigations.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch711_anderson_cooper360.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="711" start="20250923040000 +0000" stop="20250923100000 +0000">
-		<title>Information Not Available</title>
-		<desc />
-		<icon src="https://poster.starhubgo.com/Linear_channels2/711_1920x1080_HTV.png?w=960&amp;h=540" />
+	<programme channel="711" start="20250923010000 +0000" stop="20250923020000 +0000">
+		<title>Source with Kaitlan Collins, The</title>
+		<desc>Kaitlan Collins goes straight to the source for the best reporting on the day's biggest stories.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch711_the_source.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="711" start="20250923100000 +0000" stop="20250923160000 +0000">
-		<title>Information Not Available</title>
-		<desc />
-		<icon src="https://poster.starhubgo.com/Linear_channels2/711_1920x1080_HTV.png?w=960&amp;h=540" />
+	<programme channel="711" start="20250923020000 +0000" stop="20250923030000 +0000">
+		<title>CNN NewsNight</title>
+		<desc>Abby Phillip leads a roundtable discussion on the day's biggest stories and issues shaping our world.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch711_cnn_newsnight_with_abby_phillip.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="711" start="20250923030000 +0000" stop="20250923040000 +0000">
+		<title>Laura Coates Live</title>
+		<desc>Laura Coates goes inside the story with a relentless pursuit of the facts.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch711_laura_coates_live.jpg?w=960&amp;h=540" />
+	</programme>
+	<programme channel="711" start="20250923040000 +0000" stop="20250923044500 +0000">
+		<title>CNN Newsroom (CNNI)</title>
+		<desc>Live context and clarity to the day's top stories from around the world.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch711_cnn_newsroom.jpg?w=960&amp;h=540" />
+	</programme>
+	<programme channel="711" start="20250923044500 +0000" stop="20250923050000 +0000">
+		<title>World Sport</title>
+		<desc>Daily sports show features major stories and issues making news in the world of sports.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch711_world_sport.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="711" start="20250923050000 +0000" stop="20250923060000 +0000">
+		<title>CNN Newsroom (CNNI)</title>
+		<desc>Live context and clarity to the day's top stories from around the world.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch711_cnn_newsroom.jpg?w=960&amp;h=540" />
+	</programme>
+	<programme channel="711" start="20250923060000 +0000" stop="20250923064500 +0000">
+		<title>CNN Newsroom (CNNI)</title>
+		<desc>Live context and clarity to the day's top stories from around the world.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch711_cnn_newsroom.jpg?w=960&amp;h=540" />
+	</programme>
+	<programme channel="711" start="20250923064500 +0000" stop="20250923070000 +0000">
+		<title>World Sport</title>
+		<desc>Daily sports show features major stories and issues making news in the world of sports.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch711_world_sport.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="711" start="20250923070000 +0000" stop="20250923080000 +0000">
+		<title>CNN Newsroom (CNNI)</title>
+		<desc>Live context and clarity to the day's top stories from around the world.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch711_cnn_newsroom.jpg?w=960&amp;h=540" />
+	</programme>
+	<programme channel="711" start="20250923080000 +0000" stop="20250923090000 +0000">
+		<title>Amanpour</title>
+		<desc>Christiane Amanpour provides her powerful interview skills and provocative analysis on global stories that matter to you.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch711_amanpour.jpg?w=960&amp;h=540" />
+	</programme>
+	<programme channel="711" start="20250923090000 +0000" stop="20250923100000 +0000">
+		<title>Early Start with Rahel Solomon</title>
+		<desc>The news you need, first thing. Rahel Solomon has you covered with the latest headlines.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch711_early_start.jpg?w=960&amp;h=540" />
+	</programme>
+	<programme channel="711" start="20250923100000 +0000" stop="20250923110000 +0000">
+		<title>CNN This Morning</title>
+		<desc>Start your day with Audie Cornish bringing you the latest headlines and analysis.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch711_cnn_this_morning.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="711" start="20250923110000 +0000" stop="20250923120000 +0000">
+		<title>CNN News Central</title>
+		<desc>Stay up to date with John Berman, Kate Bolduan and Sara Sidner from CNN's immersive news hub.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch711_cnn_news_central.jpg?w=960&amp;h=540" />
+	</programme>
+	<programme channel="711" start="20250923120000 +0000" stop="20250923123000 +0000">
+		<title>CNN News Central</title>
+		<desc>Stay up to date with John Berman, Kate Bolduan and Sara Sidner from CNN's immersive news hub.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch711_cnn_news_central.jpg?w=960&amp;h=540" />
+	</programme>
+	<programme channel="711" start="20250923123000 +0000" stop="20250923130000 +0000">
+		<title>World Sport</title>
+		<desc>Daily sports show features major stories and issues making news in the world of sports.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch711_world_sport.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="711" start="20250923130000 +0000" stop="20250923134500 +0000">
+		<title>Connect the World</title>
+		<desc>Becky Anderson explores diverse perspectives and explains global issues of the day.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch711_connect_the_world.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="711" start="20250923134500 +0000" stop="20250923140000 +0000">
+		<title>World Sport</title>
+		<desc>Daily sports show features major stories and issues making news in the world of sports.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch711_world_sport.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="711" start="20250923140000 +0000" stop="20250923150000 +0000">
+		<title>Connect the World</title>
+		<desc>Becky Anderson explores diverse perspectives and explains global issues of the day.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch711_connect_the_world.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="711" start="20250923150000 +0000" stop="20250923160000 +0000">
+		<title>One World</title>
+		<desc>Zain Asher and Bianna Golodryga cover the top global and national issues of the day.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch711_one_world_with_zain_asher_and_bianna_golodryga.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="722" start="20250921160000 +0000" stop="20250921163000 +0000">
 		<title>The World Today</title>
