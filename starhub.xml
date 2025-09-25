@@ -296,6 +296,10 @@
 		<display-name>BBC Lifestyle</display-name>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/432_1920x1080_HTV.png?w=272" />
 	</channel>
+	<channel id="435">
+		<display-name>StarHub</display-name>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/435_1920x1080_HTV.png?w=272" />
+	</channel>
 	<channel id="437">
 		<display-name>HGTV</display-name>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/437_1920x1080_HTV.png?w=272" />
@@ -4473,8 +4477,8 @@
 		<icon src="https://poster.starhubgo.com/poster/ch128_dhaakad_beera.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="128" start="20250924173000 +0000" stop="20250924180000 +0000">
-		<title>Bindii - EP 7</title>
-		<desc>This is Entertainment Category</desc>
+		<title>Binddii - EP 7</title>
+		<desc>This is Drama Category</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch128_colors_logo.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="128" start="20250924180000 +0000" stop="20250924183000 +0000">
@@ -4494,7 +4498,7 @@
 	</programme>
 	<programme channel="128" start="20250924200000 +0000" stop="20250924203000 +0000">
 		<title>Manpasand Ki Shaadi - EP 32</title>
-		<desc>Aarohi spots Abhishek and believes he's the one she is supposed to marry.</desc>
+		<desc>Aarohi becomes tensed as she foresees a looming threat during her mehendi ceremony.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch128_colors_logo.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="128" start="20250924203000 +0000" stop="20250924210000 +0000">
@@ -4508,8 +4512,8 @@
 		<icon src="https://poster.starhubgo.com/poster/ch128_shiv_shakti_tap_tyaag_tandav.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="128" start="20250924213000 +0000" stop="20250924220000 +0000">
-		<title>Bindii - EP 7</title>
-		<desc>This is Entertainment Category</desc>
+		<title>Binddii - EP 7</title>
+		<desc>This is Drama Category</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch128_colors_logo.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="128" start="20250924220000 +0000" stop="20250924223000 +0000">
@@ -4734,7 +4738,7 @@
 	</programme>
 	<programme channel="128" start="20250926010000 +0000" stop="20250926013000 +0000">
 		<title>Noyontara - EP 108</title>
-		<desc>Noyontara's spirit-seeing gift reveals veiled mysteries and family secrets.</desc>
+		<desc>Noyontara challenges Shaoli to write Maa Durga's name on the puja list.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch128_colors_logo.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="128" start="20250926013000 +0000" stop="20250926020000 +0000">
@@ -4744,7 +4748,7 @@
 	</programme>
 	<programme channel="128" start="20250926020000 +0000" stop="20250926033000 +0000">
 		<title>Bigg Boss - EP 32</title>
-		<desc>Celebrity contestants live in an isolated house and perform tasks in order to win.</desc>
+		<desc>The housemates vie in a parliament-like environment in a locked house under BB's watch.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch128_bigg_boss.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="128" start="20250926033000 +0000" stop="20250926040000 +0000">
@@ -4754,12 +4758,12 @@
 	</programme>
 	<programme channel="128" start="20250926040000 +0000" stop="20250926043000 +0000">
 		<title>Mannat Harr Khushi Paane Ki - EP 200</title>
-		<desc>Chef Mannat's dreams clash with her employer, who is her secret birth mother and nemesis.</desc>
+		<desc>Aishwarya shoots Anirudh and decides to put the blame on Mannat.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch128_mannat_harr_khushi_paane_ki.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="128" start="20250926043000 +0000" stop="20250926050000 +0000">
-		<title>Bindii - EP 8</title>
-		<desc>This is Entertainment Category</desc>
+		<title>Binddii - EP 8</title>
+		<desc>A prison-born girl discovers her father's betrayal and fights to free her mother.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch128_colors_logo.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="128" start="20250926050000 +0000" stop="20250926053000 +0000">
@@ -4778,8 +4782,8 @@
 		<icon src="https://poster.starhubgo.com/poster/ch128_shiv_shakti_tap_tyaag_tandav.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="128" start="20250926063000 +0000" stop="20250926070000 +0000">
-		<title>Bindii - EP 9</title>
-		<desc>This is Entertainment Category</desc>
+		<title>Binddii - EP 9</title>
+		<desc>This is Drama Category</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch128_colors_logo.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="128" start="20250926070000 +0000" stop="20250926080000 +0000">
@@ -4828,8 +4832,8 @@
 		<icon src="https://poster.starhubgo.com/poster/ch128_shiv_shakti_tap_tyaag_tandav.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="128" start="20250926123000 +0000" stop="20250926130000 +0000">
-		<title>Bindii - EP 9</title>
-		<desc>This is Entertainment Category</desc>
+		<title>Binddii - EP 9</title>
+		<desc>This is Drama Category</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch128_colors_logo.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="128" start="20250926130000 +0000" stop="20250926143000 +0000">
@@ -6218,9 +6222,9 @@
 		<icon src="https://poster.starhubgo.com/poster/ch135_sakthivel_theeyaai_oru_theeraakkaadhal.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="135" start="20250926073000 +0000" stop="20250926080000 +0000">
-		<title>To Be Announced</title>
-		<desc>This is Entertainment Category</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch135_vijaylogo.jpg?w=960&amp;h=540" />
+		<title>Kanmani Anbudan - EP 313</title>
+		<desc>Kanmani and Vennila's bond undergoes a tough trial when they both fall for the same man.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch135_kanmani_anbudan.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="135" start="20250926080000 +0000" stop="20250926083000 +0000">
 		<title>Thendrale Mella Pesu - EP 93</title>
@@ -7188,12 +7192,12 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/139_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="139" start="20250926080000 +0000" stop="20250926083000 +0000">
-		<title>Bigg Boss Season 7</title>
+		<title>Bigg Boss Plus Season 7</title>
 		<desc>Reality show</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/139_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="139" start="20250926083000 +0000" stop="20250926090000 +0000">
-		<title>Bigg Boss Season 7</title>
+		<title>Bigg Boss Plus Season 7</title>
 		<desc>Reality show</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/139_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
@@ -10166,6 +10170,16 @@
 		<title>JLPGA Tour 2025</title>
 		<desc>The Miyagi TV Cup Dunlop Ladies Open Golf Tournament is a Japanese women's professional golf tournament that is held annually in Miyagi Prefecture. The tournament has a rich history, with the 50th edition having taken place in 2003.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch203_JLPGA.jpg?w=960&amp;h=540" />
+	</programme>
+	<programme channel="203" start="20250926063000 +0000" stop="20250926100000 +0000">
+		<title>End of Transmission</title>
+		<desc>End of Transmission</desc>
+		<icon src="https://poster.starhubgo.com/Linear_Channels2/203_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="203" start="20250926100000 +0000" stop="20250926110000 +0000">
+		<title>Ryder Cup 2025</title>
+		<desc>The 45th Ryder Cup will be held in the United States on the Bethpage Black Course, Farmingdale, New York. It pits a team of 12 top golfers from the United States against a team of 12 top golfers from Europe. This event is named after Samuel Ryder, an English businessman who donated the trophy.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch203_ryder_cup_25.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="203" start="20250926110000 +0000" stop="20250926160000 +0000">
 		<title>Ryder Cup 2025</title>
@@ -18640,7 +18654,7 @@
 	<programme channel="427" start="20250924203000 +0000" stop="20250924210000 +0000">
 		<title>Costa Rica Calling - EP 3</title>
 		<desc>In the heart of Costa Rica's countryside, Genevieve embarks on a journey of cultural immersion in Chilamate.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/427_1920x1080_HTV.png?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch427_logo.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="427" start="20250924210000 +0000" stop="20250924211500 +0000">
 		<title>Best From The Rest - EP 23</title>
@@ -18660,7 +18674,7 @@
 	<programme channel="427" start="20250924220000 +0000" stop="20250924223000 +0000">
 		<title>Costa Rica Calling - EP 1</title>
 		<desc>Genevieve’s adventures in Costa Rica begin in the capital city, San Jose, where she checks off some Costa Rican rites of passage.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/427_1920x1080_HTV.png?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch427_logo.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="427" start="20250924223000 +0000" stop="20250924230000 +0000">
 		<title>Xplore Ireland - EP 1</title>
@@ -18990,7 +19004,7 @@
 	<programme channel="427" start="20250926063000 +0000" stop="20250926070000 +0000">
 		<title>Costa Rica Calling - EP 1</title>
 		<desc>Genevieve’s adventures in Costa Rica begin in the capital city, San Jose, where she checks off some Costa Rican rites of passage.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/427_1920x1080_HTV.png?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch427_logo.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="427" start="20250926070000 +0000" stop="20250926073000 +0000">
 		<title>Quest - EP 18</title>
@@ -19020,7 +19034,7 @@
 	<programme channel="427" start="20250926093000 +0000" stop="20250926100000 +0000">
 		<title>Costa Rica Calling - EP 2</title>
 		<desc>Guided by her love for coffee, Genevieve ventures into the heart of Heredia, a lush coffee-growing region.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/427_1920x1080_HTV.png?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch427_logo.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="427" start="20250926100000 +0000" stop="20250926103000 +0000">
 		<title>Quest - EP 19</title>
@@ -19050,7 +19064,7 @@
 	<programme channel="427" start="20250926123000 +0000" stop="20250926130000 +0000">
 		<title>Costa Rica Calling - EP 3</title>
 		<desc>In the heart of Costa Rica's countryside, Genevieve embarks on a journey of cultural immersion in Chilamate.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/427_1920x1080_HTV.png?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch427_logo.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="427" start="20250926130000 +0000" stop="20250926133000 +0000">
 		<title>Xplore Ireland - EP 3</title>
@@ -19085,7 +19099,7 @@
 	<programme channel="427" start="20250926153000 +0000" stop="20250926160000 +0000">
 		<title>Costa Rica Calling - EP 3</title>
 		<desc>In the heart of Costa Rica's countryside, Genevieve embarks on a journey of cultural immersion in Chilamate.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/427_1920x1080_HTV.png?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch427_logo.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="432" start="20250924151000 +0000" stop="20250924160500 +0000">
 		<title>Grand Designs (S22) - EP 2</title>
@@ -19376,6 +19390,31 @@
 		<title>The Graham Norton Show (S31) - EP 6</title>
 		<desc>Among the guests on Graham's sofa are: "Succession" star Sarah Snook, returning to the West End for her one-woman play "The Picture of Dorian Gray"; pop legend Boy George, talking about his autobiography "Karma"; "The Morning Show" actor Greta Lee, starring in romantic drama "Past Lives"; and the irrepressible Miriam Margolyes, whose book "Oh Miriam!" tells stories from her extraordinary life.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch428_the_graham_norton_show_s31.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="435" start="20250924220000 +0000" stop="20250925040000 +0000">
+		<title>No Transmission</title>
+		<desc />
+		<icon src="https://poster.starhubgo.com/Linear_channels2/435_1920x1080_HTV.png?w=960&amp;h=540" />
+	</programme>
+	<programme channel="435" start="20250925040000 +0000" stop="20250925100000 +0000">
+		<title>No Transmission</title>
+		<desc />
+		<icon src="https://poster.starhubgo.com/Linear_channels2/435_1920x1080_HTV.png?w=960&amp;h=540" />
+	</programme>
+	<programme channel="435" start="20250925100000 +0000" stop="20250925160000 +0000">
+		<title>No Transmission</title>
+		<desc />
+		<icon src="https://poster.starhubgo.com/Linear_channels2/435_1920x1080_HTV.png?w=960&amp;h=540" />
+	</programme>
+	<programme channel="435" start="20250925160000 +0000" stop="20250925220000 +0000">
+		<title>No Transmission</title>
+		<desc />
+		<icon src="https://poster.starhubgo.com/Linear_channels2/435_1920x1080_HTV.png?w=960&amp;h=540" />
+	</programme>
+	<programme channel="435" start="20250925220000 +0000" stop="20250926040000 +0000">
+		<title>No Transmission</title>
+		<desc />
+		<icon src="https://poster.starhubgo.com/Linear_channels2/435_1920x1080_HTV.png?w=960&amp;h=540" />
 	</programme>
 	<programme channel="437" start="20250924154000 +0000" stop="20250924160500 +0000">
 		<title>My Lottery Dream Home (S13) - EP 8</title>
