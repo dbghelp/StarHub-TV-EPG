@@ -616,29 +616,24 @@
 		<desc>Ollie and Friends is a preschool kids programme that follows the adventures of Ollie as he travels through the different levels of Oktopolis to prepare for an upcoming party.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="102" start="20250926003000 +0000" stop="20250926005500 +0000">
+	<programme channel="102" start="20250926003000 +0000" stop="20250926010000 +0000">
 		<title>Pinkfong Songs &amp; Stories - EP 70</title>
 		<desc>Enjoy the best of Pinkfong's most loved songs and stories with all your favourite characters!</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="102" start="20250926005500 +0000" stop="20250926032500 +0000">
+	<programme channel="102" start="20250926010000 +0000" stop="20250926012500 +0000">
+		<title>Sesame Street S54 - EP 6</title>
+		<desc>This season, the Sesame Street friends model how they celebrate the differences and embrace the similarities in their neighbourhood.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="102" start="20250926012500 +0000" stop="20250926035500 +0000">
 		<title>Toyota World Para Swimming Championships Singapore 2025 - EP 11</title>
-		<desc>(Live) The Toyota World Para Swimming Championships Singapore 2025 will take place from 21 to 27 September at the OCBC Aquatic Centre, marking the first time the event is hosted in Asia. Over 600 athletes from 60 nations will compete in this top-tier Para swimming competition, including Paris 2024 Paralympians and Los Angeles 2025 Paralympics hopefuls.</desc>
+		<desc>(Live) The Toyota World Para Swimming Championships - Singapore 2025 will take place from 21 to 27 September at the OCBC Aquatic Centre, marking the first time the event is hosted in Asia. Over 600 athletes from 60 nations will compete in this top-tier Para swimming competition, including Paris 2024 Paralympians and Los Angeles 2025 Paralympics hopefuls.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="102" start="20250926032500 +0000" stop="20250926040000 +0000">
+	<programme channel="102" start="20250926035500 +0000" stop="20250926043000 +0000">
 		<title>Toyota World Para Swimming Championships Singapore 2025 : Daily Highlight - EP 5</title>
-		<desc>The Toyota World Para Swimming Championships Singapore 2025 will take place from 21 to 27 September at the OCBC Aquatic Centre, marking the first time the event is hosted in Asia. Over 600 athletes from 60 nations will compete in this top-tier Para swimming competition, including Paris 2024 Paralympians and Los Angeles 2025 Paralympics hopefuls.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="102" start="20250926040000 +0000" stop="20250926041500 +0000">
-		<title>Alvinnn!!! &amp; The Chipmunks S4 - EP 15</title>
-		<desc>A single dad has his hands full raising six rambunctious chipmunks in this animated comedy!</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="102" start="20250926041500 +0000" stop="20250926043000 +0000">
-		<title>Alvinnn!!! &amp; The Chipmunks S4 - EP 16</title>
-		<desc>A single dad has his hands full raising six rambunctious chipmunks in this animated comedy!</desc>
+		<desc>The Toyota World Para Swimming Championships - Singapore 2025 will take place from 21 to 27 September at the OCBC Aquatic Centre, marking the first time the event is hosted in Asia. Over 600 athletes from 60 nations will compete in this top-tier Para swimming competition, including Paris 2024 Paralympians and Los Angeles 2025 Paralympics hopefuls.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="102" start="20250926043000 +0000" stop="20250926050000 +0000">
@@ -688,7 +683,7 @@
 	</programme>
 	<programme channel="102" start="20250926092500 +0000" stop="20250926110000 +0000">
 		<title>Toyota World Para Swimming Championships Singapore 2025 - EP 12</title>
-		<desc>The Toyota World Para Swimming Championships Singapore 2025 will take place from 21 to 27 September at the OCBC Aquatic Centre, marking the first time the event is hosted in Asia. Over 600 athletes from 60 nations will compete in this top-tier Para swimming competition, including Paris 2024 Paralympians and Los Angeles 2025 Paralympics hopefuls.</desc>
+		<desc>(Live) The Toyota World Para Swimming Championships - Singapore 2025 will take place from 21 to 27 September at the OCBC Aquatic Centre, marking the first time the event is hosted in Asia. Over 600 athletes from 60 nations will compete in this top-tier Para swimming competition, including Paris 2024 Paralympians and Los Angeles 2025 Paralympics hopefuls.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="102" start="20250926110000 +0000" stop="20250926130000 +0000">
@@ -723,7 +718,7 @@
 	</programme>
 	<programme channel="102" start="20250926173000 +0000" stop="20250926180000 +0000">
 		<title>Talking Point - EP 18</title>
-		<desc>How far can your money really go in Singapore? Steven lives on 20 a day while Munah tests credit card miles to stretch every dollar.</desc>
+		<desc>How far can your money really go in Singapore? Steven lives on $20 a day while Munah tests credit card miles to stretch every dollar.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="102" start="20250926180000 +0000" stop="20250926183000 +0000">
@@ -1056,47 +1051,47 @@
 		<desc>A breakthrough on their dating app project forces Keeley and Talon to confront their feelings-just as a scandalous video ignites suspicion. With Zach scheming, Nikki torn by guilt, and Leon striking, trust_x000D_collapses and their fragile bond hangs by a thread.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/103_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="103" start="20250926140000 +0000" stop="20250926143000 +0000">
+	<programme channel="103" start="20250926140000 +0000" stop="20250926144500 +0000">
 		<title>News Tonight - EP 179</title>
 		<desc>(Live) Daily evening updates on top local news and world news.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/103_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="103" start="20250926143000 +0000" stop="20250926150000 +0000">
+	<programme channel="103" start="20250926144500 +0000" stop="20250926151500 +0000">
 		<title>Xun Wei An Hui S2 - EP 2</title>
 		<desc>Aiming to promote Anhui cuisine culture, illuminate a culinary map featuring the flavors of various regions in Anhui. Each episode focuses on the most representative or distinctive local delicacies of the city, showcasing the local customs, culinary culture, and creating a unique Anhui-style culinary cultural IP.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/103_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="103" start="20250926150000 +0000" stop="20250926160000 +0000">
+	<programme channel="103" start="20250926151500 +0000" stop="20250926161500 +0000">
 		<title>The Legend of Heroes - Hot Blooded - EP 18</title>
 		<desc>The foolish young lad, Guo Jing, ultimately matures into a national hero who stands for the country and the people, embodying the true essence of chivalry.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/103_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="103" start="20250926160000 +0000" stop="20250926170000 +0000">
+	<programme channel="103" start="20250926161500 +0000" stop="20250926171500 +0000">
 		<title>Destined - EP 34</title>
 		<desc>Liu Yu Ru is the only legitimate daughter of a former cloth merchant living a stoic life with her mother in a household where they're mistreated despite their status. Due to a misunderstanding, she is married off to Gu Jiu Si, the notorious son of Yangzhou's wealthiest family, infamous for his idle lifestyle and indolent ways. At first, Gu Jiu Si does not like Liu Yu Ru, believing her to be calculating and scheming.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/103_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="103" start="20250926170000 +0000" stop="20250926180000 +0000">
+	<programme channel="103" start="20250926171500 +0000" stop="20250926181500 +0000">
 		<title>Pillow Talk - EP 13</title>
 		<desc>Qiuxue accidentally discovers that Tingkai blood group is not the same as his parents. Tingkai begged his mother to lie about the adoption. Peifang feels uneasy about this but decided to help Tingkai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/103_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="103" start="20250926180000 +0000" stop="20250926190000 +0000">
+	<programme channel="103" start="20250926181500 +0000" stop="20250926191500 +0000">
 		<title>Your Hand In Mine - EP 136</title>
 		<desc>Using the local society issues as a backbone, this drama depicts the lives of families of different background residing in the same neighbourhood, from the cold and self-centered to the understanding of the true meaning of love. The story reflects the meaning of how blood is thicker than water and the neighbourhood spirit of helping and watching out for each other.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/103_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="103" start="20250926190000 +0000" stop="20250926200000 +0000">
+	<programme channel="103" start="20250926191500 +0000" stop="20250926201000 +0000">
 		<title>Your Hand In Mine - EP 137</title>
 		<desc>Using the local society issues as a backbone, this drama depicts the lives of families of different background residing in the same neighbourhood, from the cold and self-centered to the understanding of the true meaning of love. The story reflects the meaning of how blood is thicker than water and the neighbourhood spirit of helping and watching out for each other.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/103_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="103" start="20250926200000 +0000" stop="20250926210000 +0000">
+	<programme channel="103" start="20250926201000 +0000" stop="20250926210500 +0000">
 		<title>Golden City - EP 181</title>
 		<desc>This drama is set in the Jiufen area from the 1960s to the 1970s. It tells the story of how three brothers conquered the world with their bare hands. Through the love story of the previous generation, it connects the common emotions between the two generations depicting the memories and in-depth exploration of the differences in values between them.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/103_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="103" start="20250926210000 +0000" stop="20250926220000 +0000">
+	<programme channel="103" start="20250926210500 +0000" stop="20250926220000 +0000">
 		<title>Golden City - EP 182</title>
 		<desc>This drama is set in the Jiufen area from the 1960s to the 1970s. It tells the story of how three brothers conquered the world with their bare hands. Through the love story of the previous generation, it connects the common emotions between the two generations depicting the memories and in-depth exploration of the differences in values between them.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/103_1920x1080_HTV.png?w=341&amp;h=192" />
@@ -1106,12 +1101,12 @@
 		<desc>Fish Head Curry, a local dish resulting from the fusion of two culinary cultures, has evolved into various flavours &amp; cooking methods. With original creator back in his hometown, can host Kym &amp; Chef Alvin uncover the old taste by visiting local traditional eateries &amp; the successor of the old recipe?</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/103_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="103" start="20250926225000 +0000" stop="20250926232000 +0000">
+	<programme channel="103" start="20250926225000 +0000" stop="20250926233500 +0000">
 		<title>News Tonight - EP 179</title>
 		<desc>Daily evening updates on top local news and world news.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/103_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="103" start="20250926232000 +0000" stop="20250927001000 +0000">
+	<programme channel="103" start="20250926233500 +0000" stop="20250927002500 +0000">
 		<title>Crescendo - EP 30</title>
 		<desc>Xinyao, the name synonymous with the pursuit of dreams of a generation of Singaporeans and a part of the Singapore culture that many still hold dear. Crescendo tracks the lives of a group of youngsters through a generation, as they experience hope, love and lost amidst a background of music that will resonate with local viewers and enrapture them.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/103_1920x1080_HTV.png?w=341&amp;h=192" />
@@ -1668,17 +1663,17 @@
 	</programme>
 	<programme channel="106" start="20250925230000 +0000" stop="20250926020000 +0000">
 		<title>Asia First - EP 129</title>
-		<desc>Top stories, business news and market updates from across the region as Asia gears up for the day ahead.</desc>
+		<desc>(Live) Top stories, business news and market updates from across the region as Asia gears up for the day ahead.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="106" start="20250926020000 +0000" stop="20250926030000 +0000">
 		<title>Insight - EP 21</title>
-		<desc>Over 70 of land occupied by U.S. bases in Japan is concentrated in Okinawa, while the Chinese military has stepped up activity in the vicinity. Why?</desc>
+		<desc>Over 70% of land occupied by U.S. bases in Japan is concentrated in Okinawa, while the Chinese military has stepped up activity in the vicinity. Why?</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="106" start="20250926030000 +0000" stop="20250926050000 +0000">
 		<title>Asia Now - EP 129</title>
-		<desc>Non-stop breaking stories, expert analysis and extensive news coverage every hour.</desc>
+		<desc>(Live) Non-stop breaking stories, expert analysis and extensive news coverage every hour.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="106" start="20250926050000 +0000" stop="20250926053000 +0000">
@@ -1693,17 +1688,17 @@
 	</programme>
 	<programme channel="106" start="20250926060000 +0000" stop="20250926080000 +0000">
 		<title>Asia Now - EP 129</title>
-		<desc>Non-stop breaking stories, expert analysis and extensive news coverage every hour.</desc>
+		<desc>(Live) Non-stop breaking stories, expert analysis and extensive news coverage every hour.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="106" start="20250926080000 +0000" stop="20250926090000 +0000">
 		<title>Undercover Asia S12 - EP 1</title>
-		<desc>Migrants from India’s villages risk jungles, mafias and death on the dangerous dunki’ route for the American dream. But what lies behind the global underground network of illegal immigration?</desc>
+		<desc>India’s online mobile gaming boom hides a dark side. With no regulations in sight, real money games are costing money and lives. Undercover Asia investigates the crisis.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="106" start="20250926090000 +0000" stop="20250926090200 +0000">
 		<title>Headline News - EP 607</title>
-		<desc>The latest top stories of the hour.</desc>
+		<desc>(Live) The latest top stories of the hour.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="106" start="20250926090200 +0000" stop="20250926093000 +0000">
@@ -1718,7 +1713,7 @@
 	</programme>
 	<programme channel="106" start="20250926100000 +0000" stop="20250926110000 +0000">
 		<title>East Asia Tonight - EP 129</title>
-		<desc>Spotlight on East Asia, a region steeped in history and now helping to write the future of our world. We'll break down the key stories and explain why they matter.</desc>
+		<desc>(Live) Spotlight on East Asia, a region steeped in history and now helping to write the future of our world. We'll break down the key stories and explain why they matter.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="106" start="20250926110000 +0000" stop="20250926120000 +0000">
@@ -1728,7 +1723,7 @@
 	</programme>
 	<programme channel="106" start="20250926120000 +0000" stop="20250926130000 +0000">
 		<title>Asia Tonight - EP 179</title>
-		<desc>CNA correspondents bring you the top stories of the day with 'live' reports and interviews to keep you up-to-date on the day’s events.</desc>
+		<desc>(Live) CNA correspondents bring you the top stories of the day with 'live' reports and interviews to keep you up-to-date on the day’s events.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="106" start="20250926130000 +0000" stop="20250926140000 +0000">
@@ -1738,12 +1733,12 @@
 	</programme>
 	<programme channel="106" start="20250926140000 +0000" stop="20250926150000 +0000">
 		<title>Singapore Tonight - EP 179</title>
-		<desc>From business to politics, health to technology, the latest news from Singapore and analysis of the impact.</desc>
+		<desc>(Live) From business to politics, health to technology, the latest news from Singapore and analysis of the impact.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="106" start="20250926150000 +0000" stop="20250926160000 +0000">
 		<title>Insight - EP 21</title>
-		<desc>Over 70 of land occupied by U.S. bases in Japan is concentrated in Okinawa, while the Chinese military has stepped up activity in the vicinity. Why?</desc>
+		<desc>Over 70% of land occupied by U.S. bases in Japan is concentrated in Okinawa, while the Chinese military has stepped up activity in the vicinity. Why?</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="106" start="20250926160000 +0000" stop="20250926160300 +0000">
@@ -2151,22 +2146,22 @@
 		<desc>(Dual language Mandarin and Korean) Overwhelmed, Youli tries to pull away, unwilling to be further entangled in divorce cases and marital disputes.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/107_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="107" start="20250926150000 +0000" stop="20250926153000 +0000">
+	<programme channel="107" start="20250926150000 +0000" stop="20250926154500 +0000">
 		<title>News Tonight - EP 179</title>
 		<desc>Daily evening updates on top local news and world news.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/107_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="107" start="20250926153000 +0000" stop="20250926163000 +0000">
+	<programme channel="107" start="20250926154500 +0000" stop="20250926164000 +0000">
 		<title>A Culinary Journey - EP 2</title>
 		<desc>A Culinary Journey attempts to provide the latest travel information in a relaxed and enjoyable program. In addition to entertainment enjoyment, the audience can also acquire knowledge and care about local creation and small farmer economy, and introduce and promote local and sustainable development.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/107_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="107" start="20250926163000 +0000" stop="20250926173000 +0000">
+	<programme channel="107" start="20250926164000 +0000" stop="20250926173500 +0000">
 		<title>Vengeance of the Bride - EP 34</title>
 		<desc>(Dual language Mandarin and Korean) Taifeng and Muyan try their best to stop Ruiyan from seeking revenge but to no avail. Ruiyan is determined to get evidence of Baishan's illegal activities even though it could risk her life.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/107_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="107" start="20250926173000 +0000" stop="20250926183000 +0000">
+	<programme channel="107" start="20250926173500 +0000" stop="20250926183000 +0000">
 		<title>Vengeance of the Bride - EP 35</title>
 		<desc>(Dual language Mandarin and Korean) Baishan becomes suspicious of Muyan's identity after hearing Renshun talk about an anecdote that Muyan shared. He proceeds to test Muyan and is convinced that Muyan is Yunxi.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/107_1920x1080_HTV.png?w=341&amp;h=192" />
@@ -10256,12 +10251,12 @@
 		<desc>2025 marks the tenth season of the Michelin Le Mans Cup and for the first time the series will feature three classes, with Silver and Gold rated drivers able to compete together in LMP3.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch209_motorsports.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="209" start="20250926093000 +0000" stop="20250926103000 +0000">
+	<programme channel="209" start="20250926093000 +0000" stop="20250926101600 +0000">
 		<title>Golf: 2025 Ryder Cup</title>
 		<desc>24 of the best players from Europe and the United States go head-to-head in match play competition. Drama, tension, incredible golf, camaraderie and sportsmanship are served in equal measure.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch209_golf.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="209" start="20250926103000 +0000" stop="20250926110000 +0000">
+	<programme channel="209" start="20250926101600 +0000" stop="20250926110000 +0000">
 		<title>Golf: 2025 Ryder Cup</title>
 		<desc>24 of the best players from Europe and the United States go head-to-head in match play competition. Drama, tension, incredible golf, camaraderie and sportsmanship are served in equal measure.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch209_golf.jpg?w=960&amp;h=540" />
