@@ -5022,8 +5022,8 @@
 		<icon src="https://poster.starhubgo.com/poster/ch25_pudhu_vasantham.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="133" start="20250927060000 +0000" stop="20250927080000 +0000">
-		<title>Movie -</title>
-		<desc>Watch your favourite movies with all the drama and emotion on Sun TV.</desc>
+		<title>Movie - DEVARATTAM</title>
+		<desc>Vetri, a young lawyer with anger issues, murders his friend in broad daylight who also happens to be the son of a local gangster. Later, the gangster seeks to kill Vetri.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch25_movie.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="133" start="20250927080000 +0000" stop="20250927083000 +0000">
@@ -5032,8 +5032,8 @@
 		<icon src="https://poster.starhubgo.com/poster/ch25_news.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="133" start="20250927083000 +0000" stop="20250927090000 +0000">
-		<title>Movie Contd -</title>
-		<desc>Watch your favourite movies with all the drama and emotion on Sun TV.</desc>
+		<title>Movie Contd - DEVARATTAM</title>
+		<desc>Vetri, a young lawyer with anger issues, murders his friend in broad daylight who also happens to be the son of a local gangster. Later, the gangster seeks to kill Vetri.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch25_movie.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="133" start="20250927090000 +0000" stop="20250927093000 +0000">
@@ -5519,7 +5519,7 @@
 	<programme channel="135" start="20250927043000 +0000" stop="20250927070000 +0000">
 		<title>10th Annual Vijay Television Awards - EP 2</title>
 		<desc>This is Awards Category</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch135_10th_annual_vijay_television_awards.jpg?w=960&amp;h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch135_8th_annual_vijay_television_awards.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="135" start="20250927070000 +0000" stop="20250927073000 +0000">
 		<title>Sakthivel: Theeyaai Oru Theeraakkaadhal - EP 556</title>
@@ -5549,7 +5549,7 @@
 	<programme channel="135" start="20250927093000 +0000" stop="20250927100000 +0000">
 		<title>Chinna Marumagal Panirendaam Vaguppu Sendra Vaaram - EP 44</title>
 		<desc>A young girl must adhere to her authoritative father's decision to get her married.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch135_chinna_marumagal_panirendaam_vaguppu.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch135_chinna_marumagal_panirendaam_vaguppu_sendra_vaaram.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="135" start="20250927100000 +0000" stop="20250927103000 +0000">
 		<title>Star Talk with Vinay - EP 9</title>
@@ -5634,7 +5634,7 @@
 	<programme channel="135" start="20250927213000 +0000" stop="20250927220000 +0000">
 		<title>Chinna Marumagal Panirendaam Vaguppu Sendra Vaaram - EP 44</title>
 		<desc>A young girl must adhere to her authoritative father's decision to get her married.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch135_chinna_marumagal_panirendaam_vaguppu.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch135_chinna_marumagal_panirendaam_vaguppu_sendra_vaaram.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="135" start="20250927220000 +0000" stop="20250927223000 +0000">
 		<title>Star Talk with Vinay - EP 9</title>
@@ -6601,12 +6601,12 @@
 		<desc>A director is forced to cast the dubious actor who cheated him to become famous.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="140" start="20250927073000 +0000" stop="20250927103000 +0000">
+	<programme channel="140" start="20250927073000 +0000" stop="20250927103500 +0000">
 		<title>Bahubali-2</title>
 		<desc>Mahendra Baahubali raises an army to defeat Bhallaladeva, for killing his father.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="140" start="20250927103000 +0000" stop="20250927133000 +0000">
+	<programme channel="140" start="20250927103500 +0000" stop="20250927133000 +0000">
 		<title>Vaazha</title>
 		<desc>Four misfits navigate societal and parental pressures as they enter adulthood.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=341&amp;h=192" />
@@ -6616,17 +6616,22 @@
 		<desc>A money-minded man leaves his fiancee to marry another woman for her money.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="140" start="20250927163000 +0000" stop="20250927193000 +0000">
+	<programme channel="140" start="20250927163000 +0000" stop="20250927193500 +0000">
 		<title>Ittymaani: Made in China</title>
 		<desc>Ittymaani lands in trouble as he attempts to help an elderly women reconnect with her ignored sons.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="140" start="20250927193000 +0000" stop="20250927220000 +0000">
+	<programme channel="140" start="20250927193500 +0000" stop="20250927223000 +0000">
 		<title>Sundarakilladi</title>
 		<desc>A man struggles when he goes to a village to solve their water scarcity problems.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="140" start="20250927220000 +0000" stop="20250928013000 +0000">
+	<programme channel="140" start="20250927223000 +0000" stop="20250927230000 +0000">
+		<title>Chirikkum Thalika - EP 26</title>
+		<desc>A compilation of various entertaining comedy scenes from various Malayalam movies.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="140" start="20250927230000 +0000" stop="20250928013000 +0000">
 		<title>Minnaminnikkoottam</title>
 		<desc>Ajit, an anchor, helps Krishnapriya in tracing her murdered husband's culprits.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=341&amp;h=192" />
@@ -29477,7 +29482,7 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="811" start="20250927065000 +0000" stop="20250927070000 +0000">
-		<title>Mini Program</title>
+		<title>Natural Grandeur of the East Mini</title>
 		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
@@ -29538,7 +29543,7 @@
 	</programme>
 	<programme channel="811" start="20250927130000 +0000" stop="20250927135000 +0000">
 		<title>Countdown to "Unsolved Cases" File. 00</title>
-		<desc>Featuring distinguished programs ranging from entertainment shows to documentaries.</desc>
+		<desc>NHK Special’s iconic series "Unsolved Cases" becomes a standalone program! Through in-depth investigations, the series explores a wide range of cases-from historic incidents that shook society to mysterious local crimes that cast long shadows over communities, both in Japan and abroad. Each episode reveals the enduring impact of these cases on contemporary society and uncovers valuable lessons for the future.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="811" start="20250927135000 +0000" stop="20250927135500 +0000">
@@ -29794,11 +29799,6 @@
 	<programme channel="811" start="20250928125000 +0000" stop="20250928133500 +0000">
 		<title>Premium Drama Selection "A Murder I Don't Remember" Part 1</title>
 		<desc>Detective Kitamine (Ono Machiko) visits former police officer Saji (Kobayashi Kaoru) to question him about a murder case. The victim is a man Saji once arrested for stalking a woman. As the investigation progresses, Kitamine grows more suspicious of Saji being the criminal. Out of pride as a former police officer, Saji strives to prove his innocence, but he begins to doubt himself. In fact, he has dementia.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="811" start="20250928133500 +0000" stop="20250928134000 +0000">
-		<title>Natural Grandeur of the East Mini</title>
-		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="811" start="20250928134000 +0000" stop="20250928134500 +0000">
