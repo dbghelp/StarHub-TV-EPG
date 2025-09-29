@@ -4563,7 +4563,7 @@
 	</programme>
 	<programme channel="128" start="20250929020000 +0000" stop="20250929040000 +0000">
 		<title>Bigg Boss - EP 35</title>
-		<desc>Celebrity contestants live in an isolated house and perform tasks in order to win.</desc>
+		<desc>Salman Khan addresses the housemates' unfair tactics and Gauhar Khan sends Awez a message.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch128_bigg_boss.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="128" start="20250929040000 +0000" stop="20250929043000 +0000">
@@ -4648,7 +4648,7 @@
 	</programme>
 	<programme channel="128" start="20250929130000 +0000" stop="20250929150000 +0000">
 		<title>Bigg Boss - EP 36</title>
-		<desc>Celebrity contestants live in an isolated house and perform tasks in order to win.</desc>
+		<desc>After fun with the 'Sunny Sanskari Ki Tulsi Kumari' cast, the elimination shocks everyone.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch128_bigg_boss.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="128" start="20250929150000 +0000" stop="20250929153000 +0000">
@@ -26583,45 +26583,35 @@
 	</programme>
 	<programme channel="711" start="20250929000000 +0000" stop="20250929010000 +0000">
 		<title>CNN Newsroom Sunday</title>
-		<desc>The latest, up-to-date news stories from around the globe.</desc>
+		<desc>Updates of the latest news from around the world.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch711_cnn_newsroom.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="711" start="20250929010000 +0000" stop="20250929020000 +0000">
-		<title>The Whole Story with Anderson Cooper</title>
-		<desc>Omar Jimenez reports from Harvard on how the Trump administration's crackdown on academia came to a head; uncovering how the university quietly adapted to conservative pressures while publicly fighting federal overreach.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch711_tws_the_united_states_vs_harvard.jpg?w=341&amp;h=192" />
+		<title>Fareed Zakaria GPS</title>
+		<desc>Fareed Zakaria brings viewers his insights and analysis, and interviews world leaders, artists, scientists, business leaders, global affairs analysts and other cultural observers for the 'Global Public Square.'</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch711_fareed_zakaria_gps.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="711" start="20250929020000 +0000" stop="20250929030000 +0000">
-		<title>The Whole Story with Anderson Cooper</title>
+		<title>African Voices Changemakers</title>
 		<desc>African Voices starts a new chapter as we focus on some of the Changemakers who are coming up with innovative ways to have a positive impact on their communities.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch711_the_whole_story_with_anderson_cooper.jpg?w=960&amp;h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch711_african_voices_changemakers.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="711" start="20250929030000 +0000" stop="20250929033000 +0000">
 		<title>Next Big Trip</title>
-		<desc>Angola is now emerging as Africa's untouched gem. It's one of the last places to get away, get off the grid, and get back to why we leave home in the first place. Join Will Ripley as he travels from the mountains to the desert to the sea on a bucket lis</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch711_next_stop_angola.jpg?w=960&amp;h=540" />
-	</programme>
-	<programme channel="711" start="20250929033000 +0000" stop="20250929040000 +0000">
-		<title>Inside Africa</title>
-		<desc>Inside Africa takes its viewers on a journey across Africa, exploring the true diversity and depth of different cultures, countries and regions.</desc>
+		<desc>Angola is now emerging as Africa's untouched gem. It's one of the last places to get away, get off the grid, and get back to why we leave home in the first place. Join Will Ripley as he travels from the mountains to the desert to the sea on a bucket list vacation of facing down fears, finding quiet places, and exploring the unexpected.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch711_inside_africa.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="711" start="20250929040000 +0000" stop="20250929044500 +0000">
-		<title>CNN Newsroom (CNNI)</title>
-		<desc>Live context and clarity to the day's top stories from around the world.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch711_cnn_newsroom.jpg?w=960&amp;h=540" />
+	<programme channel="711" start="20250929033000 +0000" stop="20250929044500 +0000">
+		<title>Inside Africa</title>
+		<desc>Across music, dance and comedy, a new wave of Ugandan performers is captivating audiences, all while championing a vibrant creative culture at home. We spotlight three standout talents : Afro-soul musician Joshua Baraka, international Latin dance maestro Valentino R. Kabenge, and comedy superstar Kansiime Anne, exploring how venues like the Uganda National Cultural Centre are nurturing the next generation of Ugandan performers.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch711_inside_africa.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="711" start="20250929044500 +0000" stop="20250929050000 +0000">
 		<title>World Sport</title>
 		<desc>Daily sports show features major stories and issues making news in the world of sports.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch711_world_sport.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="711" start="20250929050000 +0000" stop="20250929060000 +0000">
-		<title>CNN Newsroom (CNNI)</title>
-		<desc>Live context and clarity to the day's top stories from around the world.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch711_cnn_newsroom.jpg?w=960&amp;h=540" />
-	</programme>
-	<programme channel="711" start="20250929060000 +0000" stop="20250929064500 +0000">
+	<programme channel="711" start="20250929050000 +0000" stop="20250929064500 +0000">
 		<title>CNN Newsroom (CNNI)</title>
 		<desc>Live context and clarity to the day's top stories from around the world.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch711_cnn_newsroom.jpg?w=960&amp;h=540" />
@@ -26644,7 +26634,7 @@
 	<programme channel="711" start="20250929090000 +0000" stop="20250929100000 +0000">
 		<title>Early Start with Rahel Solomon</title>
 		<desc>The news you need, first thing. Rahel Solomon has you covered with the latest headlines.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch711_early_start.jpg?w=960&amp;h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch711_early_start_with_rahel_solomon.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="711" start="20250929100000 +0000" stop="20250929110000 +0000">
 		<title>CNN This Morning</title>
@@ -26657,19 +26647,14 @@
 		<icon src="https://poster.starhubgo.com/poster/ch711_cnn_news_central.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="711" start="20250929120000 +0000" stop="20250929123000 +0000">
-		<title>CNN News Central</title>
-		<desc>Stay up to date with John Berman, Kate Bolduan and Sara Sidner from CNN's immersive news hub.</desc>
+		<title>CNN News Central (AM) (30m)</title>
+		<desc>The latest, up-to-date news stories from around the globe.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch711_cnn_news_central.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="711" start="20250929123000 +0000" stop="20250929130000 +0000">
+	<programme channel="711" start="20250929123000 +0000" stop="20250929134500 +0000">
 		<title>World Sport</title>
 		<desc>Daily sports show features major stories and issues making news in the world of sports.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch711_world_sport.jpg?w=341&amp;h=192" />
-	</programme>
-	<programme channel="711" start="20250929130000 +0000" stop="20250929134500 +0000">
-		<title>Connect the World</title>
-		<desc>Becky Anderson explores diverse perspectives and explains global issues of the day.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch711_connect_the_world.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="711" start="20250929134500 +0000" stop="20250929140000 +0000">
 		<title>World Sport</title>
@@ -26712,8 +26697,8 @@
 		<icon src="https://poster.starhubgo.com/poster/ch711_quest_means_business.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="711" start="20250929210000 +0000" stop="20250929213000 +0000">
-		<title>The Lead</title>
-		<desc>Jake Tapper covers all the day's top stories around the country and the globe, from politics to money, sports to popular culture.</desc>
+		<title>The Lead with Jake Tapper (30m)</title>
+		<desc>The latest, up-to-date news stories from around the globe.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch711_the_lead_with_jake_tapper.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="711" start="20250929213000 +0000" stop="20250929220000 +0000">
