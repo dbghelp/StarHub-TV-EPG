@@ -7196,17 +7196,17 @@
 		<desc>Daily Soap</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/139_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="140" start="20250928133000 +0000" stop="20250928163000 +0000">
+	<programme channel="140" start="20250928133000 +0000" stop="20250928162000 +0000">
 		<title>Guruvayur Ambalanadayil</title>
 		<desc>A groom's fate accidentally binds him to a woman who holds only disdain for him.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="140" start="20250928163000 +0000" stop="20250928193000 +0000">
+	<programme channel="140" start="20250928162000 +0000" stop="20250928194000 +0000">
 		<title>Srungaravelan</title>
 		<desc>Kanan must overcome every danger to marry Radhu, the daughter of a ruthless gangster.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="140" start="20250928193000 +0000" stop="20250928220000 +0000">
+	<programme channel="140" start="20250928194000 +0000" stop="20250928231500 +0000">
 		<title>The King &amp; The Commissioner</title>
 		<desc>Two police officers try to stop a terror attack on Delhi before it is too late.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=341&amp;h=192" />
@@ -10666,10 +10666,15 @@
 		<desc>The FIM Superbike World Championship is the leading production motorcycle racing series in the world with over 100 riders from more than 20 countries competing in various classes over 12 rounds.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_sbk_motul.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="210" start="20250929045000 +0000" stop="20250929063000 +0000">
+	<programme channel="210" start="20250929045000 +0000" stop="20250929060500 +0000">
 		<title>WorldSBK: Rd10 Tissot Aragon Round</title>
 		<desc>The FIM Superbike World Championship is the leading production motorcycle racing series in the world with over 100 riders from more than 20 countries competing in various classes over 12 rounds.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_sbk_motul.jpg?w=960&amp;h=540" />
+	</programme>
+	<programme channel="210" start="20250929060500 +0000" stop="20250929063000 +0000">
+		<title>2025 MotoGP Spotlight: Marc Marquez Comeback</title>
+		<desc>Recap the action and behind-the-scenes moments in MotoGP 2025 season so far.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch210_motogp.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="210" start="20250929063000 +0000" stop="20250929075500 +0000">
 		<title>MotoGP 2025 Round 17- Motul Grand Prix of Japan</title>
