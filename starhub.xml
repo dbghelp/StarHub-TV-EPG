@@ -6583,7 +6583,7 @@
 	</programme>
 	<programme channel="137" start="20251001050000 +0000" stop="20251001080000 +0000">
 		<title>Channel Premiere - Sattam En Kayil - EP 1</title>
-		<desc>Gowtham's night spirals into chaos after a fatal accident forces him to hide a body, fake drunk driving, and outwit police - all to escape a mistake that haunts him.</desc>
+		<desc>Gowtham’s night spirals into chaos after a fatal accident forces him to hide a body, fake drunk driving, and outwit police - all to escape a mistake that haunts him.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/137_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="137" start="20251001080000 +0000" stop="20251001113000 +0000">
@@ -10631,6 +10631,11 @@
 		<desc>China Smash combines elite competition with an electrifying atmosphere, world-class action and entertainment, creating an unmissable table tennis spectacle in the heart of Beijing.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch209_wtt.jpg?w=960&amp;h=540" />
 	</programme>
+	<programme channel="209" start="20251001023000 +0000" stop="20251001030000 +0000">
+		<title>2025 MLMC Silverstone</title>
+		<desc>2025 marks the tenth season of the Michelin Le Mans Cup and for the first time the series will feature three classes, with Silver and Gold rated drivers able to compete together in LMP3.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch209_motorsports.jpg?w=960&amp;h=540" />
+	</programme>
 	<programme channel="209" start="20251001030000 +0000" stop="20251001073000 +0000">
 		<title>WTT China Smash 2025</title>
 		<desc>China Smash combines elite competition with an electrifying atmosphere, world-class action and entertainment, creating an unmissable table tennis spectacle in the heart of Beijing.</desc>
@@ -10651,17 +10656,17 @@
 		<desc>Fusing the worlds of real life and virtual racing in a seamless package, supertri E is a multi award winning sporting leader thanks to its sheer innovation.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch209_motorsports.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="209" start="20251001100000 +0000" stop="20251001143000 +0000">
+	<programme channel="209" start="20251001100000 +0000" stop="20251001142500 +0000">
 		<title>WTT China Smash 2025</title>
 		<desc>China Smash combines elite competition with an electrifying atmosphere, world-class action and entertainment, creating an unmissable table tennis spectacle in the heart of Beijing.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch209_wtt.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="209" start="20251001143000 +0000" stop="20251001154500 +0000">
+	<programme channel="209" start="20251001142500 +0000" stop="20251001155000 +0000">
 		<title>GTWC Europe, Valencia</title>
 		<desc>The series consists of four driver classifications and five classes of vehicles: GT3, GT4 and Touring Car, consisting of TCR homologated cars, as well as separate TC and TCA classes.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch209_motorsports.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="209" start="20251001154500 +0000" stop="20251001180000 +0000">
+	<programme channel="209" start="20251001155000 +0000" stop="20251001180000 +0000">
 		<title>GTWC Europe, Valencia</title>
 		<desc>The series consists of four driver classifications and five classes of vehicles: GT3, GT4 and Touring Car, consisting of TCR homologated cars, as well as separate TC and TCA classes.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch209_motorsports.jpg?w=960&amp;h=540" />
@@ -10791,25 +10796,20 @@
 		<desc>The road to the World Series begins! Watch baseball's top teams battle it out in the ultimate test of skill, strategy, and endurance. Every pitch, every swing, every moment counts.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_baseball.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="210" start="20251001004500 +0000" stop="20251001012500 +0000">
-		<title>MotoGP 2025 Round 17- Motul Grand Prix of Japan</title>
-		<desc>The 2025 MotoGP sees 22 of the world's best riders battle on 1000cc prototype machines, delivering over 250hp and reaching speeds of 360kph across 22 thrilling Grands Prix in 18 countries.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch210_motogp.jpg?w=341&amp;h=192" />
+	<programme channel="210" start="20251001010800 +0000" stop="20251001040000 +0000">
+		<title>MLB 2025 Postseason - NLWC Game1 Los Angeles Dodgers vs Cincinnati Reds</title>
+		<desc>The road to the World Series begins! Watch baseball's top teams battle it out in the ultimate test of skill, strategy, and endurance. Every pitch, every swing, every moment counts.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch210_baseball.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="210" start="20251001012500 +0000" stop="20251001020500 +0000">
-		<title>MotoGP 2025 Round 17- Motul Grand Prix of Japan</title>
-		<desc>The 2025 MotoGP sees 22 of the world's best riders battle on 1000cc prototype machines, delivering over 250hp and reaching speeds of 360kph across 22 thrilling Grands Prix in 18 countries.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch210_motogp.jpg?w=341&amp;h=192" />
-	</programme>
-	<programme channel="210" start="20251001020500 +0000" stop="20251001033000 +0000">
-		<title>MotoGP 2025 Round 17- Motul Grand Prix of Japan</title>
-		<desc>The 2025 MotoGP sees 22 of the world's best riders battle on 1000cc prototype machines, delivering over 250hp and reaching speeds of 360kph across 22 thrilling Grands Prix in 18 countries.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch210_motogp.jpg?w=341&amp;h=192" />
-	</programme>
-	<programme channel="210" start="20251001033000 +0000" stop="20251001053000 +0000">
-		<title>ROSHN Saudi League 25/26 MW4 Al Fateh vs Al Qadsiah</title>
-		<desc>Bringing together prominent professional players from the Kingdom and all around the world, the ROSHN Saudi League delivers weekly thrilling matches to spectators nationally and internationally.</desc>
+	<programme channel="210" start="20251001040000 +0000" stop="20251001045500 +0000">
+		<title>SailGP S5: Switzerland, Geneva</title>
+		<desc>Adrenaline-fueled races, legendary global locations, rival national teams and record-breaking speeds. SailGP is the most exciting racing on water - Powered By Nature.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_spotv2_logo.jpg?w=960&amp;h=540" />
+	</programme>
+	<programme channel="210" start="20251001045500 +0000" stop="20251001053000 +0000">
+		<title>WorldSBK: Rd10 Tissot Aragon Round</title>
+		<desc>The FIM Superbike World Championship is the leading production motorcycle racing series in the world with over 100 riders from more than 20 countries competing in various classes over 12 rounds.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch210_sbk_motul.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="210" start="20251001053000 +0000" stop="20251001063000 +0000">
 		<title>WorldSBK: Rd10 Tissot Aragon Round</title>
@@ -26791,10 +26791,15 @@
 		<desc>Daily sports show features major stories and issues making news in the world of sports.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch711_world_sport.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="711" start="20251001140000 +0000" stop="20251001160000 +0000">
+	<programme channel="711" start="20251001140000 +0000" stop="20251001150000 +0000">
 		<title>Connect the World</title>
 		<desc>Becky Anderson explores diverse perspectives and explains global issues of the day.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch711_connect_the_world.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="711" start="20251001150000 +0000" stop="20251001160000 +0000">
+		<title>One World</title>
+		<desc>Zain Asher and Bianna Golodryga cover the top global and national issues of the day.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch711_one_world_with_zain_asher_and_bianna_golodryga.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="722" start="20250929160000 +0000" stop="20250929170000 +0000">
 		<title>Global Business</title>
