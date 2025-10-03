@@ -1243,7 +1243,7 @@
 	</programme>
 	<programme channel="103" start="20251004033000 +0000" stop="20251004040000 +0000">
 		<title>Focus - EP 19</title>
-		<desc>Focus provides timely reports and analyses on international news and current affairs from Singapore's perspective.</desc>
+		<desc>Since forging diplomatic ties in 1990, Singapore and China have built bonds that span economy, urban planning, and culture. This program tells that story through Chinese firms venturing into Singapore, Singaporeans in joint projects, students crossing borders for study, and the reflections of both nations’ ambassadors on the evolving relationship.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/103_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="103" start="20251004040000 +0000" stop="20251004050000 +0000">
@@ -7237,28 +7237,33 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="140" start="20251004013000 +0000" stop="20251004043000 +0000">
-		<title>Kochi Rajavu</title>
-		<desc>Tragedy strikes when Unni accidentally kills his lover's cousin, resulting in his imprisonment.</desc>
+		<title>Puthan Panam</title>
+		<desc>A don from Kasaragod decides to exact revenge on the ex-minister who conned him.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="140" start="20251004043000 +0000" stop="20251004073000 +0000">
-		<title>Janatha Garage</title>
-		<desc>An activist finds his purpose in life after encountering a man who fights for the poor.</desc>
+	<programme channel="140" start="20251004043000 +0000" stop="20251004072000 +0000">
+		<title>Pulimurugan</title>
+		<desc>A village seeks help from a powerful man to protect them against tigers and the mafia.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="140" start="20251004072000 +0000" stop="20251004073000 +0000">
+		<title>Njandukalude Nattil Oridavela</title>
+		<desc>When Sheela suspects about breast cancer, she summons her family for emotional support.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="140" start="20251004073000 +0000" stop="20251004103000 +0000">
-		<title>Sookshma Darshini</title>
-		<desc>Priya and her friend become suspicious of Manuel who returns to their neighbourhood.</desc>
+		<title>Manjummel Boys</title>
+		<desc>A group of friends tries to rescue one of them who is stuck in a pit.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="140" start="20251004103000 +0000" stop="20251004133000 +0000">
-		<title>Neymar</title>
-		<desc>Kunjava welcomes his tail-wagging friend, Neymar, who causes chaos in his life.</desc>
+		<title>Pushpa: The Rise - Part 1</title>
+		<desc>As Pushpa rises in the world of red sandalwood smuggling, he ends up making many enemies.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="140" start="20251004133000 +0000" stop="20251004163000 +0000">
-		<title>Minnal Murali</title>
-		<desc>After gaining superpowers, a tailor must protect his village by taking down an adversary.</desc>
+		<title>Neru</title>
+		<desc>Aiming to seek justice, a visually-impaired sculptor joins hands with a disbarred lawyer.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="141" start="20251002160000 +0000" stop="20251002193000 +0000">
@@ -8184,7 +8189,7 @@
 	<programme channel="144" start="20251004141500 +0000" stop="20251004161500 +0000">
 		<title>Type Kita..Walang Kokontra</title>
 		<desc>When Primo's pen pal, Isabel, comes over for a visit, he asks Victor to pretend to be him. Trouble ensues when Victor starts falling in love with Isabel, which makes Primo jealous.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/144_1920x1080_HTV.png?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch144_type_kita_walang_kokontra.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="145" start="20251002160000 +0000" stop="20251002180000 +0000">
 		<title>Katayan</title>
@@ -10434,12 +10439,12 @@
 	<programme channel="209" start="20251003020000 +0000" stop="20251003030000 +0000">
 		<title>Wimbledon Official Film 2025</title>
 		<desc>The Championship Wimbledon, like nowhere else, views history through a modern-day lens, and this year's championships epitomised how the wonderful game continues to evolve.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch209_wimbledon.jpg?w=960&amp;h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch209_tennis.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="209" start="20251003030000 +0000" stop="20251003060000 +0000">
 		<title>WTT China Smash 2025</title>
 		<desc>China Smash combines elite competition with an electrifying atmosphere, world-class action and entertainment, creating an unmissable table tennis spectacle in the heart of Beijing.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch209_wtt.jpg?w=960&amp;h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch209_table_tennis.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="209" start="20251003060000 +0000" stop="20251003070000 +0000">
 		<title>WSL: Inside Pro Surfing</title>
@@ -10449,7 +10454,7 @@
 	<programme channel="209" start="20251003070000 +0000" stop="20251003073000 +0000">
 		<title>WTT Champions Macao 2025</title>
 		<desc>The world’s very best table tennis players are returning to Macao East Asian Games Dome in their bid for glory, with WTT Champions Macao 2025 set to captivate once again.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch209_wtt.jpg?w=960&amp;h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch209_table_tennis.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="209" start="20251003073000 +0000" stop="20251003103000 +0000">
 		<title>BDMNTN-XL Jakarta 2025</title>
@@ -10459,7 +10464,7 @@
 	<programme channel="209" start="20251003103000 +0000" stop="20251003110000 +0000">
 		<title>WTT Champions Macao 2025</title>
 		<desc>The world’s very best table tennis players are returning to Macao East Asian Games Dome in their bid for glory, with WTT Champions Macao 2025 set to captivate once again.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch209_wtt.jpg?w=960&amp;h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch209_table_tennis.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="209" start="20251003110000 +0000" stop="20251003120000 +0000">
 		<title>WSL: Inside Pro Surfing</title>
@@ -10476,12 +10481,17 @@
 		<desc>The Australian Volleyball Super League is volleyball supercharged - bigger leaps, faster rallies, and harder spikes, delivering a high-impact, high-energy game like never before.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/209_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="209" start="20251003180000 +0000" stop="20251003223000 +0000">
+	<programme channel="209" start="20251003180000 +0000" stop="20251003214000 +0000">
 		<title>WTT China Smash 2025</title>
 		<desc>China Smash combines elite competition with an electrifying atmosphere, world-class action and entertainment, creating an unmissable table tennis spectacle in the heart of Beijing.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch209_wtt.jpg?w=960&amp;h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch209_table_tennis.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="209" start="20251003223000 +0000" stop="20251004013000 +0000">
+	<programme channel="209" start="20251003214000 +0000" stop="20251003221000 +0000">
+		<title>WTT Champions Macao 2025</title>
+		<desc>The world’s very best table tennis players are returning to Macao East Asian Games Dome in their bid for glory, with WTT Champions Macao 2025 set to captivate once again.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch209_table_tennis.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="209" start="20251003221000 +0000" stop="20251004013000 +0000">
 		<title>BDMNTN-XL Jakarta 2025</title>
 		<desc>A groundbreaking Badminton event that breaks away from traditional conventions. A stage for fierce competition and showcasing the best of the best.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch209_badminton.jpg?w=960&amp;h=540" />
@@ -10490,11 +10500,6 @@
 		<title>Major League Soccer 2025 Week 23 - Austin FC vs Seattle Sounders FC</title>
 		<desc>Back for its 30th season, the MLS features some of football’s top talent from around the globe. The league boasts 27 teams in the US and 3 teams in Canada.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/209_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="209" start="20251004033000 +0000" stop="20251004040000 +0000">
-		<title>WTT Champions Macao 2025</title>
-		<desc>The world’s very best table tennis players are returning to Macao East Asian Games Dome in their bid for glory, with WTT Champions Macao 2025 set to captivate once again.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch209_wtt.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="209" start="20251004040000 +0000" stop="20251004070000 +0000">
 		<title>WTT China Smash 2025</title>
@@ -12124,7 +12129,7 @@
 	<programme channel="221" start="20251004033000 +0000" stop="20251004040000 +0000">
 		<title>PL STORIES - EP 18</title>
 		<desc>In 2024/25, AFC Bournemouth smashed their club record with 56 Premier League points, but less than 20 years earlier, they were drowning in debt and fighting for survival. This is the story of a club that defied the odds, silenced the doubters, and rose to become a certified Premier League contender, with their eyes set on Europe.</desc>
-		<icon src="https://poster.starhubgo.com/poster/pl_stories_V2.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/pl_stories_2025_26_ep18.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="221" start="20251004040000 +0000" stop="20251004043000 +0000">
 		<title>MATCH HIGHLIGHTS 25/26 MW07 Bournemouth v Fulham</title>
@@ -12133,8 +12138,8 @@
 	</programme>
 	<programme channel="221" start="20251004043000 +0000" stop="20251004050000 +0000">
 		<title>THE BIG INTERVIEW - EP 8</title>
-		<desc>Extended sit-downs and more informal 'out and about' interviews with the Premier League's biggest stars, providing players with a platform to tell their story in their own words.</desc>
-		<icon src="https://poster.starhubgo.com/poster/the_big_interview_V3.jpg?w=341&amp;h=192" />
+		<desc>The son of a nurse and a doctor, Maxence Lacroix grew up in rural France dreaming of becoming a vet. Once his true calling was obvious, the Frenchmen left home at the tender age of 13 to join the prestigious Clairefontaine Academy. Having rejected Barcelona, Lacroix moved to the Bundesliga joining Oliver Glasner's Wolfsburg, before cementing his place in the hearts of Crystal Palace fans with his immaculate performances in the centre of Glasner's defence.</desc>
+		<icon src="https://poster.starhubgo.com/poster/the_big_interview_2025_26_ep8.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="221" start="20251004050000 +0000" stop="20251004060000 +0000">
 		<title>TEAM TALKS - FRI 03 OCT</title>
@@ -12163,8 +12168,8 @@
 	</programme>
 	<programme channel="221" start="20251004080000 +0000" stop="20251004083000 +0000">
 		<title>THE BIG INTERVIEW - EP 8</title>
-		<desc>Extended sit-downs and more informal 'out and about' interviews with the Premier League's biggest stars, providing players with a platform to tell their story in their own words.</desc>
-		<icon src="https://poster.starhubgo.com/poster/the_big_interview_V3.jpg?w=341&amp;h=192" />
+		<desc>The son of a nurse and a doctor, Maxence Lacroix grew up in rural France dreaming of becoming a vet. Once his true calling was obvious, the Frenchmen left home at the tender age of 13 to join the prestigious Clairefontaine Academy. Having rejected Barcelona, Lacroix moved to the Bundesliga joining Oliver Glasner's Wolfsburg, before cementing his place in the hearts of Crystal Palace fans with his immaculate performances in the centre of Glasner's defence.</desc>
+		<icon src="https://poster.starhubgo.com/poster/the_big_interview_2025_26_ep8.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="221" start="20251004083000 +0000" stop="20251004093000 +0000">
 		<title>TEAM TALKS - FRI 03 OCT</title>
@@ -12243,47 +12248,47 @@
 	</programme>
 	<programme channel="222" start="20251004065500 +0000" stop="20251004075000 +0000">
 		<title>1-to-11 2025/26 - EP 2</title>
-		<desc>Former England and Premier League goalkeeper David James takes on 1-to-11, naming his ultimate lineup from the best players he shared the pitch with. Across spells at Liverpool, Aston Villa, West Ham, Manchester City, and Portsmouth, James played alongsid</desc>
+		<desc>Former England and Premier League goalkeeper David James takes on 1-to-11, naming his ultimate lineup from the best players he shared the pitch with. Across spells at Liverpool, Aston Villa, West Ham, Manchester City, and Portsmouth, James played alongside some of the league’s biggest names. It’s a team built on world-class ability, big personalities, and plenty of memorable moments.</desc>
 		<icon src="https://poster.starhubgo.com/poster/1_to_11_V2.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="222" start="20251004075000 +0000" stop="20251004082000 +0000">
 		<title>PL Rewind 2025/26 - EP 4</title>
-		<desc>An evergreen strand that relives classic matches, seasons and moments in the company of those who starred in them. PL Rewind delves back into the Premier League archive in 'watch along' style.</desc>
+		<desc>Marcelo Bielsa brought Premier League football back to Leeds in 2020, following a 16 year exile from the top flight. Amidst the backdrop of a global pandemic, Bielsa’s full-throttle tactics made Leeds the story of the season. Stuart Dallas recalls the highlights.</desc>
 		<icon src="https://poster.starhubgo.com/poster/pl_rewind_V2.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="222" start="20251004082000 +0000" stop="20251004085000 +0000">
 		<title>PL Stories 2025/26 - EP 18</title>
-		<desc>In 2024/25, AFC Bournemouth smashed their club record with 56 Premier League points, but less than 20 years earlier, they were drowning in debt and fighting for survival. This is the story of a club that defied the odds, silenced the doubters, and rose to</desc>
+		<desc>In 2024/25, AFC Bournemouth smashed their club record with 56 Premier League points, but less than 20 years earlier, they were drowning in debt and fighting for survival. This is the story of a club that defied the odds, silenced the doubters, and rose to become a certified Premier League contender, with their eyes set on Europe.</desc>
 		<icon src="https://poster.starhubgo.com/poster/pl_stories_V2.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="222" start="20251004085000 +0000" stop="20251004092000 +0000">
 		<title>The Big Interview 2025/26 - EP 8</title>
-		<desc>Extended sit-downs and more informal ‘out and about’ interviews with the Premier League’s biggest stars, providing players with a platform to tell their story in their own words.</desc>
+		<desc>The son of a nurse and a doctor, Maxence Lacroix grew up in rural France dreaming of becoming a vet. Once his true calling was obvious, the Frenchmen left home at the tender age of 13 to join the prestigious Clairefontaine Academy. Having rejected Barcelona, Lacroix moved to the Bundesliga joining Oliver Glasner’s Wolfsburg, before cementing his place in the hearts of Crystal Palace fans with his immaculate performances in the centre of Glasner’s defence.</desc>
 		<icon src="https://poster.starhubgo.com/poster/the_big_interview_V3.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="222" start="20251004092000 +0000" stop="20251004112000 +0000">
 		<title>Bournemouth vs Fulham (MW07) - EP 61</title>
-		<desc>The 34th season of the Premier League sees Liverpool defend its title against a host of teams keen for glory themselves. 20 teams are in the mix but only 1 champion will emerge ultimately.</desc>
+		<desc>Bournemouth have lost just two of their last 16 league meetings with Fulham (W8 D6), and just one of their last eight (W3 D4), going down 3-1 in February 2024.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch221_MW7_BOUvFUL_26.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="222" start="20251004112000 +0000" stop="20251004132000 +0000">
 		<title>Leeds United vs Tottenham Hotspur (MW07) (Live) - EP 62</title>
-		<desc>The 34th season of the Premier League sees Liverpool defend its title against a host of teams keen for glory themselves. 20 teams are in the mix but only 1 champion will emerge ultimately.</desc>
+		<desc>Leeds United have lost nine of their last 11 Premier League games against Tottenham Hotspur (W1 D1), including each of their last four in a row - their longest ever league losing run to Spurs.</desc>
 		<icon src="https://poster.starhubgo.com/poster/leeds_united_stadium.jpg?w=960" />
 	</programme>
 	<programme channel="222" start="20251004132000 +0000" stop="20251004135000 +0000">
 		<title>PL Rewind 2025/26 - EP 4</title>
-		<desc>An evergreen strand that relives classic matches, seasons and moments in the company of those who starred in them. PL Rewind delves back into the Premier League archive in 'watch along' style.</desc>
+		<desc>Marcelo Bielsa brought Premier League football back to Leeds in 2020, following a 16 year exile from the top flight. Amidst the backdrop of a global pandemic, Bielsa’s full-throttle tactics made Leeds the story of the season. Stuart Dallas recalls the highlights.</desc>
 		<icon src="https://poster.starhubgo.com/poster/pl_rewind_V2.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="222" start="20251004135000 +0000" stop="20251004155000 +0000">
 		<title>Manchester United vs Sunderland (MW07) (Live) - EP 64</title>
-		<desc>The 34th season of the Premier League sees Liverpool defend its title against a host of teams keen for glory themselves. 20 teams are in the mix but only 1 champion will emerge ultimately.</desc>
+		<desc>Across all competitions, Sunderland have managed to win just one of their last 31 away games against Manchester United (D9 L21), winning 1-0 in May 2014 thanks to Sebastian Larsson’s winner.</desc>
 		<icon src="https://poster.starhubgo.com/poster/man_united_stadium.jpg?w=960" />
 	</programme>
 	<programme channel="222" start="20251004155000 +0000" stop="20251004162000 +0000">
 		<title>PL Stories 2025/26 - EP 18</title>
-		<desc>In 2024/25, AFC Bournemouth smashed their club record with 56 Premier League points, but less than 20 years earlier, they were drowning in debt and fighting for survival. This is the story of a club that defied the odds, silenced the doubters, and rose to</desc>
+		<desc>In 2024/25, AFC Bournemouth smashed their club record with 56 Premier League points, but less than 20 years earlier, they were drowning in debt and fighting for survival. This is the story of a club that defied the odds, silenced the doubters, and rose to become a certified Premier League contender, with their eyes set on Europe.</desc>
 		<icon src="https://poster.starhubgo.com/poster/pl_stories_V2.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="223" start="20251002160000 +0000" stop="20251002220000 +0000">
@@ -12328,8 +12333,13 @@
 	</programme>
 	<programme channel="223" start="20251004135000 +0000" stop="20251004160000 +0000">
 		<title>Arsenal vs West Ham United (MW07) (Live) - EP 63</title>
-		<desc>The 34th season of the Premier League sees Liverpool defend its title against a host of teams keen for glory themselves. 20 teams are in the mix but only 1 champion will emerge ultimately.</desc>
+		<desc>Although Arsenal have only lost four of their last 42 home Premier League matches (W29 D9), 50% of those have been against West Ham, losing to the Hammers in December 2023 and February 2025.</desc>
 		<icon src="https://poster.starhubgo.com/poster/arsenal_stadium.jpg?w=960" />
+	</programme>
+	<programme channel="224" start="20251002160000 +0000" stop="20251002220000 +0000">
+		<title>End of Transmission</title>
+		<desc />
+		<icon src="https://poster.starhubgo.com/Linear_Channels2/224_1920x1080_HTV.png?w=960&amp;h=540" />
 	</programme>
 	<programme channel="224" start="20251002220000 +0000" stop="20251003040000 +0000">
 		<title>End of Transmission</title>
@@ -12352,6 +12362,16 @@
 		<icon src="https://poster.starhubgo.com/Linear_Channels2/224_1920x1080_HTV.png?w=960&amp;h=540" />
 	</programme>
 	<programme channel="224" start="20251003220000 +0000" stop="20251004040000 +0000">
+		<title>End of Transmission</title>
+		<desc />
+		<icon src="https://poster.starhubgo.com/Linear_Channels2/224_1920x1080_HTV.png?w=960&amp;h=540" />
+	</programme>
+	<programme channel="224" start="20251004040000 +0000" stop="20251004100000 +0000">
+		<title>End of Transmission</title>
+		<desc />
+		<icon src="https://poster.starhubgo.com/Linear_Channels2/224_1920x1080_HTV.png?w=960&amp;h=540" />
+	</programme>
+	<programme channel="224" start="20251004100000 +0000" stop="20251004160000 +0000">
 		<title>End of Transmission</title>
 		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_Channels2/224_1920x1080_HTV.png?w=960&amp;h=540" />
@@ -12528,7 +12548,7 @@
 	</programme>
 	<programme channel="232" start="20251004075000 +0000" stop="20251004082000 +0000">
 		<title>PL Rewind 2025/26 - EP 4</title>
-		<desc>An evergreen strand that relives classic matches, seasons and moments in the company of those who starred in them. PL Rewind delves back into the Premier League archive in 'watch along' style.</desc>
+		<desc>Marcelo Bielsa brought Premier League football back to Leeds in 2020, following a 16 year exile from the top flight. Amidst the backdrop of a global pandemic, Bielsa’s full-throttle tactics made Leeds the story of the season. Stuart Dallas recalls the highlights.</desc>
 		<icon src="https://poster.starhubgo.com/poster/pl_rewind_V2.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="232" start="20251004082000 +0000" stop="20251004085000 +0000">
@@ -12538,27 +12558,27 @@
 	</programme>
 	<programme channel="232" start="20251004085000 +0000" stop="20251004092000 +0000">
 		<title>The Big Interview 2025/26 - EP 8</title>
-		<desc>Extended sit-downs and more informal ‘out and about’ interviews with the Premier League’s biggest stars, providing players with a platform to tell their story in their own words.</desc>
+		<desc>The son of a nurse and a doctor, Maxence Lacroix grew up in rural France dreaming of becoming a vet. Once his true calling was obvious, the Frenchmen left home at the tender age of 13 to join the prestigious Clairefontaine Academy. Having rejected Barcelona, Lacroix moved to the Bundesliga joining Oliver Glasner’s Wolfsburg, before cementing his place in the hearts of Crystal Palace fans with his immaculate performances in the centre of Glasner’s defence.</desc>
 		<icon src="https://poster.starhubgo.com/poster/the_big_interview_V3.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="232" start="20251004092000 +0000" stop="20251004112000 +0000">
 		<title>Bournemouth vs Fulham (MW07) - EP 61</title>
-		<desc>The 34th season of the Premier League sees Liverpool defend its title against a host of teams keen for glory themselves. 20 teams are in the mix but only 1 champion will emerge ultimately.</desc>
+		<desc>Bournemouth have lost just two of their last 16 league meetings with Fulham (W8 D6), and just one of their last eight (W3 D4), going down 3-1 in February 2024.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch221_MW7_BOUvFUL_26.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="232" start="20251004112000 +0000" stop="20251004132000 +0000">
 		<title>Leeds United vs Tottenham Hotspur (MW07) (Live) - EP 62</title>
-		<desc>The 34th season of the Premier League sees Liverpool defend its title against a host of teams keen for glory themselves. 20 teams are in the mix but only 1 champion will emerge ultimately.</desc>
+		<desc>Leeds United have lost nine of their last 11 Premier League games against Tottenham Hotspur (W1 D1), including each of their last four in a row - their longest ever league losing run to Spurs.</desc>
 		<icon src="https://poster.starhubgo.com/poster/leeds_united_stadium.jpg?w=960" />
 	</programme>
 	<programme channel="232" start="20251004132000 +0000" stop="20251004135000 +0000">
 		<title>PL Rewind 2025/26 - EP 4</title>
-		<desc>An evergreen strand that relives classic matches, seasons and moments in the company of those who starred in them. PL Rewind delves back into the Premier League archive in 'watch along' style.</desc>
+		<desc>Marcelo Bielsa brought Premier League football back to Leeds in 2020, following a 16 year exile from the top flight. Amidst the backdrop of a global pandemic, Bielsa’s full-throttle tactics made Leeds the story of the season. Stuart Dallas recalls the highlights.</desc>
 		<icon src="https://poster.starhubgo.com/poster/pl_rewind_V2.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="232" start="20251004135000 +0000" stop="20251004155000 +0000">
 		<title>Manchester United vs Sunderland (MW07) (Live) - EP 64</title>
-		<desc>The 34th season of the Premier League sees Liverpool defend its title against a host of teams keen for glory themselves. 20 teams are in the mix but only 1 champion will emerge ultimately.</desc>
+		<desc>Across all competitions, Sunderland have managed to win just one of their last 31 away games against Manchester United (D9 L21), winning 1-0 in May 2014 thanks to Sebastian Larsson’s winner.</desc>
 		<icon src="https://poster.starhubgo.com/poster/man_united_stadium.jpg?w=960" />
 	</programme>
 	<programme channel="232" start="20251004155000 +0000" stop="20251004162000 +0000">
@@ -23416,6 +23436,16 @@
 		<desc>A regular panel of guests from across the political spectrum discuss the biggest international stories of the day.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch701_the_context.jpg?w=960&amp;h=540" />
 	</programme>
+	<programme channel="701" start="20251002200000 +0000" stop="20251002203000 +0000">
+		<title>BBC News</title>
+		<desc>The latest news from the BBC.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch701_BBC_news.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="701" start="20251002203000 +0000" stop="20251002210000 +0000">
+		<title>BBC News</title>
+		<desc>The latest news from the BBC.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch701_BBC_news.jpg?w=341&amp;h=192" />
+	</programme>
 	<programme channel="701" start="20251002210000 +0000" stop="20251002213000 +0000">
 		<title>BBC World News America</title>
 		<desc>In-depth reports on the major international and US news of the day presented from Washington DC.</desc>
@@ -23713,12 +23743,22 @@
 	</programme>
 	<programme channel="701" start="20251004003000 +0000" stop="20251004010000 +0000">
 		<title>Tech Now</title>
-		<desc>Zoe Kleinman meets the scientists trying to make living computers using brain cells. Adrienne Murray visits a rare earth deposit, home to critical minerals needed for green technologies.</desc>
+		<desc>Zoe Kleinman meets the scientists in Switzerland trying to make living computers using brain cells. Adrienne Murray is in Denmark to see the world's first commercial scale plant making green methanol.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch701_BBC_news.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="701" start="20251004010000 +0000" stop="20251004013000 +0000">
+		<title>BBC News</title>
+		<desc>The latest news from the BBC.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch701_BBC_news.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="701" start="20251004013000 +0000" stop="20251004020000 +0000">
 		<title>Afghanistan's Hidden Emergency</title>
 		<desc>The BBC uncovers a silent surge in child deaths from malnutrition in Afghanistan, gathering evidence of the devastating effects of USAID cuts, alongside Taliban restrictions on women.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch701_BBC_news.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="701" start="20251004020000 +0000" stop="20251004023000 +0000">
+		<title>BBC News</title>
+		<desc>The latest news from the BBC.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch701_BBC_news.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="701" start="20251004023000 +0000" stop="20251004030000 +0000">
@@ -23763,7 +23803,7 @@
 	</programme>
 	<programme channel="701" start="20251004063000 +0000" stop="20251004070000 +0000">
 		<title>Tech Now</title>
-		<desc>Zoe Kleinman meets the scientists trying to make living computers using brain cells. Adrienne Murray visits a rare earth deposit, home to critical minerals needed for green technologies.</desc>
+		<desc>Zoe Kleinman meets the scientists in Switzerland trying to make living computers using brain cells. Adrienne Murray is in Denmark to see the world's first commercial scale plant making green methanol.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch701_BBC_news.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="701" start="20251004070000 +0000" stop="20251004073000 +0000">
@@ -23808,7 +23848,7 @@
 	</programme>
 	<programme channel="701" start="20251004113000 +0000" stop="20251004120000 +0000">
 		<title>Unspun World with John Simpson</title>
-		<desc>Unspun World provides an unvarnished version of the week's major global news stories - reliable, honest and essential viewing with the BBC's world affairs editor John Simpson.</desc>
+		<desc>John Simpson analyses Donald Trump's plan for peace in the Middle East and examines why Russia is risking further conflict in Europe by provoking NATO.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch701_unspun_world_with_john_simpson.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="701" start="20251004120000 +0000" stop="20251004123000 +0000">
@@ -23818,7 +23858,7 @@
 	</programme>
 	<programme channel="701" start="20251004123000 +0000" stop="20251004130000 +0000">
 		<title>The Botox Black Market</title>
-		<desc>An undercover investigation exposes Britain’s "Botox Wild West" where medical professionals break the rules, selling prescriptions for cash, with patients left at serious risk.</desc>
+		<desc>An undercover investigation exposes Britain's "Botox Wild West" where medical professionals break the rules, selling prescriptions for cash, with patients left at serious risk.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch701_BBC_news.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="701" start="20251004130000 +0000" stop="20251004133000 +0000">
@@ -29862,8 +29902,8 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/808_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="808" start="20251004130000 +0000" stop="20251004140000 +0000">
-		<title>2100 Hot Topics</title>
-		<desc>Don't miss the latest highlights and interviews from Taiwan and around the world.</desc>
+		<title>The Aging Society Dilemma</title>
+		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_channels2/808_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="808" start="20251004140000 +0000" stop="20251004150000 +0000">
