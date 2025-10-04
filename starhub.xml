@@ -9506,23 +9506,28 @@
 		<desc>The Lotte Championship is a women's professional golf tournament on the LPGA Tour. It debuted in April 2012. 120 top players from around the world will compete at the Hoakalei Country Club for a share of the $3 million purse.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch203_lpga_tour.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="203" start="20251005020000 +0000" stop="20251005040000 +0000">
+	<programme channel="203" start="20251005020000 +0000" stop="20251005030000 +0000">
 		<title>End of Transmission</title>
 		<desc>End of Transmission</desc>
 		<icon src="https://poster.starhubgo.com/Linear_Channels2/203_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="203" start="20251005040000 +0000" stop="20251005080000 +0000">
-		<title>Asian Tour 2025</title>
+	<programme channel="203" start="20251005030000 +0000" stop="20251005070000 +0000">
+		<title>Asian Tour 2025 (Live)</title>
 		<desc>The Jakarta International Championship is a golf tournament on the Asian Tour played at the Damai Indah Golf - PIK course and is part of the international series that offers a direct pathway to the LIV Golf League. It boasts a prize money of USD$2 million.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch203_asian_tour.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="203" start="20251005080000 +0000" stop="20251005103000 +0000">
+	<programme channel="203" start="20251005070000 +0000" stop="20251005100000 +0000">
 		<title>PGA Tour 2025</title>
 		<desc>The Sanderson Farms Championship is an annual PGA Tour golf tournament held in Jackson, Mississippi, organized by Century Club Charities. As the PGA Tour's premier event in Mississippi, it serves as a stop on the FedExCup schedule. The tournament has been part of the PGA Tour since 1968.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch203_PGA_TOUR.jpg?w=341&amp;h=192" />
 	</programme>
+	<programme channel="203" start="20251005100000 +0000" stop="20251005103000 +0000">
+		<title>PGA Tour Originals 2025</title>
+		<desc>PGA TOUR Origins will take a look at tour players going back to their roots and seeing how it has shaped them on and off the course.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch203_PGA_TOUR.jpg?w=341&amp;h=192" />
+	</programme>
 	<programme channel="203" start="20251005103000 +0000" stop="20251005160000 +0000">
-		<title>DP World Tour 2025</title>
+		<title>DP World Tour 2025 (Live)</title>
 		<desc>The Alfred Dunhill Links Championship is an annual professional golf tournament on the DP World Tour and a unique team Pro-Am event held in Scotland. It combines an individual professional stroke play event with a team Pro-Am competition.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch203_dp_world_tour.jpg?w=960&amp;h=540" />
 	</programme>
@@ -9532,7 +9537,7 @@
 		<icon src="https://poster.starhubgo.com/Linear_Channels2/203_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="203" start="20251005193000 +0000" stop="20251005223000 +0000">
-		<title>PGA Tour 2025</title>
+		<title>PGA Tour 2025 (Live)</title>
 		<desc>The Sanderson Farms Championship is an annual PGA Tour golf tournament held in Jackson, Mississippi, organized by Century Club Charities. As the PGA Tour's premier event in Mississippi, it serves as a stop on the FedExCup schedule. The tournament has been part of the PGA Tour since 1968.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch203_PGA_TOUR.jpg?w=341&amp;h=192" />
 	</programme>
