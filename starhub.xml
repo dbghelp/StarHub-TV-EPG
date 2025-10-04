@@ -9681,13 +9681,8 @@
 		<desc>The Compliance Solutions Championship is a professional golf tournament on the Korn Ferry Tour that features players competing to earn a PGA TOUR card, held at various Oklahoma golf courses.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch203_korn_ferry_tour.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="203" start="20251003200000 +0000" stop="20251003230000 +0000">
-		<title>PGA Tour 2025</title>
-		<desc>The Sanderson Farms Championship is an annual PGA Tour golf tournament held in Jackson, Mississippi, organized by Century Club Charities. As the PGA Tour's premier event in Mississippi, it serves as a stop on the FedExCup schedule. The tournament has been part of the PGA Tour since 1968.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch203_PGA_TOUR.jpg?w=341&amp;h=192" />
-	</programme>
 	<programme channel="203" start="20251003230000 +0000" stop="20251004020000 +0000">
-		<title>LPGA Tour 2025</title>
+		<title>LPGA Tour 2025 (Live)</title>
 		<desc>The Lotte Championship is a women's professional golf tournament on the LPGA Tour. It debuted in April 2012. 120 top players from around the world will compete at the Hoakalei Country Club for a share of the $3 million purse.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch203_lpga_tour.jpg?w=341&amp;h=192" />
 	</programme>
@@ -9697,7 +9692,7 @@
 		<icon src="https://poster.starhubgo.com/Linear_Channels2/203_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="203" start="20251004040000 +0000" stop="20251004080000 +0000">
-		<title>Asian Tour 2025</title>
+		<title>Asian Tour 2025 (Live)</title>
 		<desc>The Jakarta International Championship is a golf tournament on the Asian Tour played at the Damai Indah Golf - PIK course and is part of the international series that offers a direct pathway to the LIV Golf League. It boasts a prize money of USD$2 million.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch203_asian_tour.jpg?w=960&amp;h=540" />
 	</programme>
@@ -9707,22 +9702,22 @@
 		<icon src="https://poster.starhubgo.com/poster/ch203_PGA_TOUR.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="203" start="20251004110000 +0000" stop="20251004160000 +0000">
-		<title>DP World Tour 2025</title>
+		<title>DP World Tour 2025 (Live)</title>
 		<desc>The Alfred Dunhill Links Championship is an annual professional golf tournament on the DP World Tour and a unique team Pro-Am event held in Scotland. It combines an individual professional stroke play event with a team Pro-Am competition.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch203_dp_world_tour.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="203" start="20251004160000 +0000" stop="20251004200000 +0000">
-		<title>Korn Ferry Tour 2025</title>
+		<title>Korn Ferry Tour 2025 (Live)</title>
 		<desc>The Compliance Solutions Championship is a professional golf tournament on the Korn Ferry Tour that features players competing to earn a PGA TOUR card, held at various Oklahoma golf courses.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch203_korn_ferry_tour.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="203" start="20251004200000 +0000" stop="20251004230000 +0000">
-		<title>PGA Tour 2025</title>
+		<title>PGA Tour 2025 (Live)</title>
 		<desc>The Sanderson Farms Championship is an annual PGA Tour golf tournament held in Jackson, Mississippi, organized by Century Club Charities. As the PGA Tour's premier event in Mississippi, it serves as a stop on the FedExCup schedule. The tournament has been part of the PGA Tour since 1968.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch203_PGA_TOUR.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="203" start="20251004230000 +0000" stop="20251005020000 +0000">
-		<title>LPGA Tour 2025</title>
+		<title>LPGA Tour 2025 (Live)</title>
 		<desc>The Lotte Championship is a women's professional golf tournament on the LPGA Tour. It debuted in April 2012. 120 top players from around the world will compete at the Hoakalei Country Club for a share of the $3 million purse.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch203_lpga_tour.jpg?w=341&amp;h=192" />
 	</programme>
@@ -9791,13 +9786,23 @@
 		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_Channels2/204_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
+	<programme channel="204" start="20251005031500 +0000" stop="20251005041500 +0000">
+		<title>ICC Women's Cricket World Cup 2025: M03 - Bangladesh vs Pakistan HLs</title>
+		<desc>The 2025 ICC Women's Cricket World Cup will be the 13th edition of Women's Cricket World Cup. It is scheduled to be hosted in India, their fourth tournament after the 1978, 1997, and 2013 editions, and Sri Lanka, their first tournament. This will be the last time that the tournament will have eight teams. Australia are the defending champions, having won their seventh title in 2022.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ICCWCWC2025.jpg?w=960&amp;h=540" />
+	</programme>
+	<programme channel="204" start="20251005041500 +0000" stop="20251005080000 +0000">
+		<title>ICC Women's Cricket World Cup 2025: M04 - England vs South Africa</title>
+		<desc>The 2025 ICC Women's Cricket World Cup will be the 13th edition of Women's Cricket World Cup. It is scheduled to be hosted in India, their fourth tournament after the 1978, 1997, and 2013 editions, and Sri Lanka, their first tournament. This will be the last time that the tournament will have eight teams. Australia are the defending champions, having won their seventh title in 2022.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ICCWCWC2025.jpg?w=960&amp;h=540" />
+	</programme>
 	<programme channel="204" start="20251005080000 +0000" stop="20251005090000 +0000">
 		<title>ICC Women's Cricket World Cup 2025: M04 - England vs South Africa HLs</title>
 		<desc>The 2025 ICC Women's Cricket World Cup will be the 13th edition of Women's Cricket World Cup. It is scheduled to be hosted in India, their fourth tournament after the 1978, 1997, and 2013 editions, and Sri Lanka, their first tournament. This will be the last time that the tournament will have eight teams. Australia are the defending champions, having won their seventh title in 2022.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ICCWCWC2025.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="204" start="20251005090000 +0000" stop="20251005173000 +0000">
-		<title>ICC Women's Cricket World Cup 2025: M06 - India vs Pakistan</title>
+		<title>ICC Women's Cricket World Cup 2025: M06 - India vs Pakistan (Live)</title>
 		<desc>The 2025 ICC Women's Cricket World Cup will be the 13th edition of Women's Cricket World Cup. It is scheduled to be hosted in India, their fourth tournament after the 1978, 1997, and 2013 editions, and Sri Lanka, their first tournament. This will be the last time that the tournament will have eight teams. Australia are the defending champions, having won their seventh title in 2022.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ICCWCWC2025.jpg?w=960&amp;h=540" />
 	</programme>
