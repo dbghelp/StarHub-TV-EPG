@@ -1606,11 +1606,6 @@
 		<desc>Catch the latest local and international news on Suria.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/104_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="105" start="20251006153000 +0000" stop="20251006161000 +0000">
-		<title>Seithi - EP 188</title>
-		<desc>Tamil Seithi focuses primarily on local and international news, information and current affairs. _x000D_Catch the online news portal at http://seithi.mediacorp.sg/</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/105_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
 	<programme channel="105" start="20251006160000 +0000" stop="20251007010000 +0000">
 		<title>End of transmission</title>
 		<desc />
@@ -2087,8 +2082,8 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="106" start="20251008133000 +0000" stop="20251008140000 +0000">
-		<title>CNA Correspondent - EP 40</title>
-		<desc>The Thai men had gone to Israel for jobs, for better lives. Instead they were taken hostage and held captive. A year passed with no news if they would be released. Then one night, everything changed.</desc>
+		<title>CNA Correspondent - EP 26</title>
+		<desc>Since 2000, 20 Japanese or Japanese-born scientists have won a Nobel Prize in natural science for a total of 15 accolades. What is the secret behind it and why do some think the streak may not last?</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="106" start="20251008140000 +0000" stop="20251008150000 +0000">
@@ -2296,12 +2291,12 @@
 		<desc>(Dual language Mandarin and Korean) Jiang Hai constantly sows discord between Qingfeng and Ruiyan. Qingfeng gradually becomes unhappy with the relationship between Ruiyan and Taifeng.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/107_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="107" start="20251007173000 +0000" stop="20251007181500 +0000">
+	<programme channel="107" start="20251007173000 +0000" stop="20251007182500 +0000">
 		<title>Vengeance of the Bride - EP 49</title>
 		<desc>(Dual language Mandarin and Korean) Taifeng and Qingfeng have an argument over Ruiyan. Taifeng admits to Qingfeng that he loves Ruiyan. Qingfeng decides to be with Jiang Hai as a way to get back at Ruiyan and Taifeng.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/107_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="107" start="20251007181500 +0000" stop="20251008030000 +0000">
+	<programme channel="107" start="20251007182500 +0000" stop="20251008030000 +0000">
 		<title>End of transmission</title>
 		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_channels2/107_1920x1080_HTV.png?w=341&amp;h=192" />
@@ -3996,10 +3991,15 @@
 		<desc>To empower her marginalised Chitta community, Jagriti challenges the age-old traditions and locks horns with its leader who works for the mafia.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch125_Jagriti_Ek_Nayi_Subha.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="125" start="20251006170000 +0000" stop="20251006180000 +0000">
-		<title>Chhoriyan Chali Gaon - EP 95</title>
-		<desc>Eleven urban female celebrities swap city life for rural challenges, testing their grit and adaptability as they navigate a world vastly different from their own.</desc>
+	<programme channel="125" start="20251006170000 +0000" stop="20251006173000 +0000">
+		<title>Saru - EP 145</title>
+		<desc>A kabaddi champion from Rajasthan moves to Mumbai to chase her dreams. Along the way, she reunites with her family and fights hard to earn her mother the respect she truly deserves.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/125_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="125" start="20251006173000 +0000" stop="20251006180000 +0000">
+		<title>Vasudha - EP 346</title>
+		<desc>Vasudha, a cheerful maid, joins business leader Chandrika's home. Despite differing beliefs, she seeks Chandrika's approval and struggles to fit into her elite world.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch125_Vasudha.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="125" start="20251006180000 +0000" stop="20251006183000 +0000">
 		<title>Jaane Anjaane Hum Mile - EP 267</title>
@@ -4256,14 +4256,29 @@
 		<desc>To empower her marginalised Chitta community, Jagriti challenges the age-old traditions and locks horns with its leader who works for the mafia.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch125_Jagriti_Ek_Nayi_Subha.jpg?w=341&amp;h=192" />
 	</programme>
+	<programme channel="125" start="20251008010000 +0000" stop="20251008013000 +0000">
+		<title>Saru - EP 146</title>
+		<desc>A kabaddi champion from Rajasthan moves to Mumbai to chase her dreams. Along the way, she reunites with her family and fights hard to earn her mother the respect she truly deserves.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/125_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="125" start="20251008013000 +0000" stop="20251008020000 +0000">
+		<title>Tum Se Tum Tak - EP 92</title>
+		<desc>Anu and Aryavardhan fall in love despite a big age gap. Facing family disapproval and challenges, they fight to show that real love knows no limits or rules.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/125_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
 	<programme channel="125" start="20251008020000 +0000" stop="20251008030000 +0000">
 		<title>Kahani Har Ghar Ki - EP 27</title>
 		<desc>A reality talk show highlights small-town women's struggles and triumphs, offering a fair, empathetic voice to all perspectives and celebrating resilience, community, and shared humanity.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/125_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="125" start="20251008030000 +0000" stop="20251008040000 +0000">
-		<title>Chhoriyan Chali Gaon - EP 96</title>
-		<desc>Eleven urban female celebrities swap city life for rural challenges, testing their grit and adaptability as they navigate a world vastly different from their own.</desc>
+	<programme channel="125" start="20251008030000 +0000" stop="20251008033000 +0000">
+		<title>Tum Se Tum Tak - EP 92</title>
+		<desc>Anu and Aryavardhan fall in love despite a big age gap. Facing family disapproval and challenges, they fight to show that real love knows no limits or rules.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/125_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="125" start="20251008033000 +0000" stop="20251008040000 +0000">
+		<title>Ganga Mai Ki Betiyaan - EP 22</title>
+		<desc>The story centers around Ganga Mai, a resilient woman who is deserted by her husband for not giving birth to a son. Refusing to bow to societal expectations, she devotes herself to raising her three daughters with unwavering strength, grace, and affection. Each daughter embarks on a unique path, shaped by her own personality andaspirations.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/125_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="125" start="20251008040000 +0000" stop="20251008070000 +0000">
@@ -4276,9 +4291,14 @@
 		<desc>A reality talk show highlights small-town women's struggles and triumphs, offering a fair, empathetic voice to all perspectives and celebrating resilience, community, and shared humanity.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/125_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="125" start="20251008080000 +0000" stop="20251008090000 +0000">
-		<title>Chhoriyan Chali Gaon - EP 96</title>
-		<desc>Eleven urban female celebrities swap city life for rural challenges, testing their grit and adaptability as they navigate a world vastly different from their own.</desc>
+	<programme channel="125" start="20251008080000 +0000" stop="20251008083000 +0000">
+		<title>Ganga Mai Ki Betiyaan - EP 22</title>
+		<desc>The story centers around Ganga Mai, a resilient woman who is deserted by her husband for not giving birth to a son. Refusing to bow to societal expectations, she devotes herself to raising her three daughters with unwavering strength, grace, and affection. Each daughter embarks on a unique path, shaped by her own personality andaspirations.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/125_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="125" start="20251008083000 +0000" stop="20251008090000 +0000">
+		<title>Jaane Anjaane Hum Mile - EP 268</title>
+		<desc>Reet, a determined journalist, navigates the struggles of her 'atta-satta' marriage, uncovering family secrets and challenging societal norms in her quest for justice and true love.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/125_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="125" start="20251008090000 +0000" stop="20251008093000 +0000">
@@ -4291,19 +4311,39 @@
 		<desc>Anu and Aryavardhan fall in love despite a big age gap. Facing family disapproval and challenges, they fight to show that real love knows no limits or rules.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/125_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="125" start="20251008100000 +0000" stop="20251008103000 +0000">
+	<programme channel="125" start="20251008100000 +0000" stop="20251008110000 +0000">
 		<title>Jagriti - EP 382</title>
 		<desc>To empower her marginalised Chitta community, Jagriti challenges the age-old traditions and locks horns with its leader who works for the mafia.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch125_Jagriti_Ek_Nayi_Subha.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="125" start="20251008110000 +0000" stop="20251008113000 +0000">
+		<title>Jaane Anjaane Hum Mile - EP 269</title>
+		<desc>Reet, a determined journalist, navigates the struggles of her 'atta-satta' marriage, uncovering family secrets and challenging societal norms in her quest for justice and true love.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/125_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="125" start="20251008113000 +0000" stop="20251008120000 +0000">
+		<title>Saru - EP 147</title>
+		<desc>A kabaddi champion from Rajasthan moves to Mumbai to chase her dreams. Along the way, she reunites with her family and fights hard to earn her mother the respect she truly deserves.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/125_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="125" start="20251008120000 +0000" stop="20251008123000 +0000">
+		<title>Ganga Mai Ki Betiyaan - EP 23</title>
+		<desc>The story centers around Ganga Mai, a resilient woman who is deserted by her husband for not giving birth to a son. Refusing to bow to societal expectations, she devotes herself to raising her three daughters with unwavering strength, grace, and affection. Each daughter embarks on a unique path, shaped by her own personality andaspirations.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/125_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="125" start="20251008123000 +0000" stop="20251008130000 +0000">
 		<title>Tum Se Tum Tak - EP 93</title>
 		<desc>Anu and Aryavardhan fall in love despite a big age gap. Facing family disapproval and challenges, they fight to show that real love knows no limits or rules.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/125_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="125" start="20251008130000 +0000" stop="20251008140000 +0000">
-		<title>Chhoriyan Chali Gaon - EP 97</title>
-		<desc>Eleven urban female celebrities swap city life for rural challenges, testing their grit and adaptability as they navigate a world vastly different from their own.</desc>
+	<programme channel="125" start="20251008130000 +0000" stop="20251008133000 +0000">
+		<title>Vasudha - EP 348</title>
+		<desc>Vasudha, a cheerful maid, joins business leader Chandrika's home. Despite differing beliefs, she seeks Chandrika's approval and struggles to fit into her elite world.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch125_Vasudha.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="125" start="20251008133000 +0000" stop="20251008140000 +0000">
+		<title>Ganga Mai Ki Betiyaan - EP 23</title>
+		<desc>The story centers around Ganga Mai, a resilient woman who is deserted by her husband for not giving birth to a son. Refusing to bow to societal expectations, she devotes herself to raising her three daughters with unwavering strength, grace, and affection. Each daughter embarks on a unique path, shaped by her own personality andaspirations.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/125_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="125" start="20251008140000 +0000" stop="20251008150000 +0000">
@@ -4314,6 +4354,11 @@
 	<programme channel="125" start="20251008150000 +0000" stop="20251008153000 +0000">
 		<title>Tum Se Tum Tak - EP 93</title>
 		<desc>Anu and Aryavardhan fall in love despite a big age gap. Facing family disapproval and challenges, they fight to show that real love knows no limits or rules.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/125_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="125" start="20251008153000 +0000" stop="20251008160000 +0000">
+		<title>Ganga Mai Ki Betiyaan - EP 23</title>
+		<desc>The story centers around Ganga Mai, a resilient woman who is deserted by her husband for not giving birth to a son. Refusing to bow to societal expectations, she devotes herself to raising her three daughters with unwavering strength, grace, and affection. Each daughter embarks on a unique path, shaped by her own personality andaspirations.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/125_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="127" start="20251006160000 +0000" stop="20251006163000 +0000">
@@ -4643,22 +4688,22 @@
 	</programme>
 	<programme channel="128" start="20251006163000 +0000" stop="20251006170000 +0000">
 		<title>Mannat Harr Khushi Paane Ki - EP 211</title>
-		<desc>Chef Mannat's dreams clash with her employer, who is her secret birth mother and nemesis.</desc>
+		<desc>A cunning Mallika makes a foolproof plan against a clueless Mannat.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch128_mannat_harr_khushi_paane_ki.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="128" start="20251006173000 +0000" stop="20251006180000 +0000">
+	<programme channel="128" start="20251006170000 +0000" stop="20251006173000 +0000">
 		<title>Binddii - EP 19</title>
-		<desc>This is Drama Category</desc>
+		<desc>Binddii finds herself in a fix when some thugs take her away.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch128_binddii.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="128" start="20251006180000 +0000" stop="20251006183000 +0000">
+	<programme channel="128" start="20251006173000 +0000" stop="20251006183000 +0000">
 		<title>Noyontara - EP 119</title>
-		<desc>Noyontara's spirit-seeing gift reveals veiled mysteries and family secrets.</desc>
+		<desc>After consuming a glass of spiked water in a competition, Noyontara falls unconscious.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch128_colors_logo.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="128" start="20251006183000 +0000" stop="20251006190000 +0000">
 		<title>Mannat Harr Khushi Paane Ki - EP 211</title>
-		<desc>Chef Mannat's dreams clash with her employer, who is her secret birth mother and nemesis.</desc>
+		<desc>A cunning Mallika makes a foolproof plan against a clueless Mannat.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch128_mannat_harr_khushi_paane_ki.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="128" start="20251006190000 +0000" stop="20251006200000 +0000">
@@ -4671,24 +4716,29 @@
 		<desc>Abhishek's family demeans Sarada and insults her background in presence of Arohi.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch128_colors_logo.jpg?w=960&amp;h=540" />
 	</programme>
+	<programme channel="128" start="20251006203000 +0000" stop="20251006210000 +0000">
+		<title>Shiv-Shakti Tap..Tyaag..Tandav - EP 832</title>
+		<desc>Parvati disguises herself as a villager and guides Ayappa to Kailash.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch128_shiv_shakti_tap_tyaag_tandav.jpg?w=341&amp;h=192" />
+	</programme>
 	<programme channel="128" start="20251006210000 +0000" stop="20251006213000 +0000">
 		<title>Shiv-Shakti Tap..Tyaag..Tandav - EP 833</title>
-		<desc>Lord Shiva and Goddess Paravati navigate their union and perform duties for humanity.</desc>
+		<desc>Things get out of control when Mahishi's thugs kidnap the children.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch128_shiv_shakti_tap_tyaag_tandav.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="128" start="20251006213000 +0000" stop="20251006220000 +0000">
 		<title>Binddii - EP 19</title>
-		<desc>This is Drama Category</desc>
+		<desc>Binddii finds herself in a fix when some thugs take her away.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch128_binddii.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="128" start="20251006220000 +0000" stop="20251006223000 +0000">
+	<programme channel="128" start="20251006220000 +0000" stop="20251006230000 +0000">
 		<title>Noyontara - EP 119</title>
-		<desc>Noyontara's spirit-seeing gift reveals veiled mysteries and family secrets.</desc>
+		<desc>After consuming a glass of spiked water in a competition, Noyontara falls unconscious.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch128_colors_logo.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="128" start="20251006223000 +0000" stop="20251006230000 +0000">
+	<programme channel="128" start="20251006230000 +0000" stop="20251006233000 +0000">
 		<title>Mannat Harr Khushi Paane Ki - EP 211</title>
-		<desc>Chef Mannat's dreams clash with her employer, who is her secret birth mother and nemesis.</desc>
+		<desc>A cunning Mallika makes a foolproof plan against a clueless Mannat.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch128_mannat_harr_khushi_paane_ki.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="128" start="20251006233000 +0000" stop="20251007000000 +0000">
@@ -4748,7 +4798,7 @@
 	</programme>
 	<programme channel="128" start="20251007080000 +0000" stop="20251007083000 +0000">
 		<title>Manpasand Ki Shaadi - EP 41</title>
-		<desc>Aarohi spots Abhishek and believes he's the one she is supposed to marry.</desc>
+		<desc>Aarohi gears up for her first rasoi to impress her in laws after her parents leave.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch128_colors_logo.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="128" start="20251007083000 +0000" stop="20251007090000 +0000">
@@ -4768,7 +4818,7 @@
 	</programme>
 	<programme channel="128" start="20251007103000 +0000" stop="20251007110000 +0000">
 		<title>Manpasand Ki Shaadi - EP 41</title>
-		<desc>Aarohi spots Abhishek and believes he's the one she is supposed to marry.</desc>
+		<desc>Aarohi gears up for her first rasoi to impress her in laws after her parents leave.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch128_colors_logo.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="128" start="20251007110000 +0000" stop="20251007113000 +0000">
@@ -4803,7 +4853,7 @@
 	</programme>
 	<programme channel="128" start="20251007150000 +0000" stop="20251007153000 +0000">
 		<title>Manpasand Ki Shaadi - EP 41</title>
-		<desc>Aarohi spots Abhishek and believes he's the one she is supposed to marry.</desc>
+		<desc>Aarohi gears up for her first rasoi to impress her in laws after her parents leave.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch128_colors_logo.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="128" start="20251007153000 +0000" stop="20251007163000 +0000">
@@ -4843,7 +4893,7 @@
 	</programme>
 	<programme channel="128" start="20251007200000 +0000" stop="20251007203000 +0000">
 		<title>Manpasand Ki Shaadi - EP 41</title>
-		<desc>Aarohi spots Abhishek and believes he's the one she is supposed to marry.</desc>
+		<desc>Aarohi gears up for her first rasoi to impress her in laws after her parents leave.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch128_colors_logo.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="128" start="20251007203000 +0000" stop="20251007210000 +0000">
@@ -4878,7 +4928,7 @@
 	</programme>
 	<programme channel="128" start="20251007233000 +0000" stop="20251008000000 +0000">
 		<title>Manpasand Ki Shaadi - EP 41</title>
-		<desc>Aarohi spots Abhishek and believes he's the one she is supposed to marry.</desc>
+		<desc>Aarohi gears up for her first rasoi to impress her in laws after her parents leave.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch128_colors_logo.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="128" start="20251008000000 +0000" stop="20251008010000 +0000">
@@ -4888,7 +4938,7 @@
 	</programme>
 	<programme channel="128" start="20251008010000 +0000" stop="20251008013000 +0000">
 		<title>Noyontara - EP 120</title>
-		<desc>Noyontara's spirit-seeing gift reveals veiled mysteries and family secrets.</desc>
+		<desc>Shaoli celebrates knowing Noyontara is dead after she drowns during 'visarjan'.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch128_colors_logo.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="128" start="20251008013000 +0000" stop="20251008020000 +0000">
@@ -4898,21 +4948,26 @@
 	</programme>
 	<programme channel="128" start="20251008020000 +0000" stop="20251008033000 +0000">
 		<title>Bigg Boss - EP 44</title>
-		<desc>Celebrity contestants live in an isolated house and perform tasks in order to win.</desc>
+		<desc>The housemates vie in a parliament-like environment in a locked house under BB's watch.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch128_bigg_boss.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="128" start="20251008033000 +0000" stop="20251008040000 +0000">
-		<title>Dhaakad Beera - EP 75</title>
-		<desc>A young boy vows to safeguard his little sister against societal oppression.</desc>
+		<title>Dhaakad Beera - EP 74</title>
+		<desc>Samrat decides to help Karishma run away as he plans it for her.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch128_dhaakad_beera.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="128" start="20251008040000 +0000" stop="20251008043000 +0000">
+		<title>Mannat Harr Khushi Paane Ki - EP 212</title>
+		<desc>Neetu tells Vikrant that Mannat is a bad effect on him and has made his life worse.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch128_mannat_harr_khushi_paane_ki.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="128" start="20251008043000 +0000" stop="20251008050000 +0000">
 		<title>Binddii - EP 20</title>
-		<desc>This is Drama Category</desc>
+		<desc>Binddii gets stuck inside Ravan's statue after escaping Aviraj's grasp.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch128_binddii.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="128" start="20251008050000 +0000" stop="20251008053000 +0000">
-		<title>Dhaakad Beera - EP 76</title>
+		<title>Dhaakad Beera - EP 75</title>
 		<desc>A young boy vows to safeguard his little sister against societal oppression.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch128_dhaakad_beera.jpg?w=341&amp;h=192" />
 	</programme>
@@ -4947,7 +5002,7 @@
 		<icon src="https://poster.starhubgo.com/poster/ch128_colors_logo.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="128" start="20251008090000 +0000" stop="20251008093000 +0000">
-		<title>Dhaakad Beera - EP 76</title>
+		<title>Dhaakad Beera - EP 75</title>
 		<desc>A young boy vows to safeguard his little sister against societal oppression.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch128_dhaakad_beera.jpg?w=341&amp;h=192" />
 	</programme>
@@ -4962,7 +5017,7 @@
 		<icon src="https://poster.starhubgo.com/poster/ch128_colors_logo.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="128" start="20251008110000 +0000" stop="20251008113000 +0000">
-		<title>Dhaakad Beera - EP 76</title>
+		<title>Dhaakad Beera - EP 75</title>
 		<desc>A young boy vows to safeguard his little sister against societal oppression.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch128_dhaakad_beera.jpg?w=341&amp;h=192" />
 	</programme>
@@ -5008,7 +5063,7 @@
 	</programme>
 	<programme channel="130" start="20251006180000 +0000" stop="20251006210000 +0000">
 		<title>Raid</title>
-		<desc>Prabhakaran, a man from Chennai, takes an oath to eradicate wrongdoers in society. However. he faces many struggles and problems from his enemies. Release Year: 2018 Director: Raj Kumar Gupta Awards: 2018 Winner Audience Award- Best International Actor- Ajay Devgn, 2019 Winner Jury Prize- Best Recreated Song of the Year</desc>
+		<desc>Prabhakaran, a man from Chennai, takes an oath to eradicate wrongdoers in society. However. he faces many struggles and problems from his enemies. Release Year: 2023 Director: Karthi</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch130_zee_cinema_logo.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="130" start="20251006210000 +0000" stop="20251007000000 +0000">
@@ -7466,12 +7521,12 @@
 		<desc>Prince is embarrassed when his pet dog acts in a film with Diana, his former lover.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="140" start="20251006163000 +0000" stop="20251006194000 +0000">
+	<programme channel="140" start="20251006163000 +0000" stop="20251006193000 +0000">
 		<title>Evidam Swargamanu</title>
 		<desc>A corrupt land dealer traps Mathews, a farmer, in a vicious bureaucratic web.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="140" start="20251006194000 +0000" stop="20251006223000 +0000">
+	<programme channel="140" start="20251006193000 +0000" stop="20251006233000 +0000">
 		<title>Kannum Kannum Kollaiyadithaal</title>
 		<desc>Two men are pushed into reconsidering their career choices when they fall in love.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=341&amp;h=192" />
@@ -9872,14 +9927,19 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/158_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="158" start="20251008020000 +0000" stop="20251008023000 +0000">
-		<title>Good Morning Adithyans</title>
-		<desc>Good morning Adithyans! Wake up to this popular show giving you the best tips, hacks and information on all things and topics that interest you.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/158_1920x1080_HTV.png?w=341&amp;h=192" />
+		<title>Aanantha Sirippu</title>
+		<desc>Stand by for a hearty dose of light-hearted entertainment and more funny moments on this programme!</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch158_aanantha_sirippu.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="158" start="20251008023000 +0000" stop="20251008033000 +0000">
+	<programme channel="158" start="20251008023000 +0000" stop="20251008030000 +0000">
 		<title>Adithya Paarunga Aarokyama Irunga</title>
 		<desc>Tune in to this magazine programme, that also features live interaction with callers!</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch158_adithya_paarunga_aarokyama_Irunga.jpg?w=960&amp;h=540" />
+	</programme>
+	<programme channel="158" start="20251008030000 +0000" stop="20251008033000 +0000">
+		<title>Good Morning Adithyans</title>
+		<desc>Good morning Adithyans! Wake up to this popular show giving you the best tips, hacks and information on all things and topics that interest you.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/158_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="158" start="20251008033000 +0000" stop="20251008043000 +0000">
 		<title>Anbudan Adithya</title>
@@ -10167,7 +10227,7 @@
 		<icon src="https://poster.starhubgo.com/poster/ch202_total_combat_2024.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="202" start="20251007001500 +0000" stop="20251007033000 +0000">
-		<title>NFL 2025/26 Kansas City Chiefs vs Jacksonville Jaguars</title>
+		<title>NFL 2025/26 Kansas City Chiefs vs Jacksonville Jaguars (Live)</title>
 		<desc>Follow us for the thrilling 2025/26 NFL season as teams battle for glory. The Philadelphia Eagles defend their Super Bowl crown, facing fierce rivals and rising stars in America’s ultimate football showdown.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch202_nfl_2024_25.jpg?w=960&amp;h=540" />
 	</programme>
@@ -10182,9 +10242,9 @@
 		<icon src="https://poster.starhubgo.com/poster/ch202_nfl_2024_25.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="202" start="20251007070000 +0000" stop="20251007093000 +0000">
-		<title>UFC 2025</title>
+		<title>UFC 2025 UFC 320: Ankalaev vs Pereira 2</title>
 		<desc>The Ultimate Fighting Championship features some of the world's best mixed martial arts exponents on its roster. This is the premier event of the UFC and is traditionally preluded with preliminaries before the main card showdown.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch202_ufc.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch202_UFC320_Ankalaev_vs_Pereira2.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="202" start="20251007093000 +0000" stop="20251007100000 +0000">
 		<title>Total Combat 2025</title>
@@ -10388,6 +10448,11 @@
 	</programme>
 	<programme channel="204" start="20251007234000 +0000" stop="20251008004000 +0000">
 		<title>ICC Women's Cricket World Cup 2025: M06 - India vs Pakistan HLs</title>
+		<desc>The 2025 ICC Women's Cricket World Cup will be the 13th edition of Women's Cricket World Cup. It is scheduled to be hosted in India, their fourth tournament after the 1978, 1997, and 2013 editions, and Sri Lanka, their first tournament. This will be the last time that the tournament will have eight teams. Australia are the defending champions, having won their seventh title in 2022.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ICCWCWC2025.jpg?w=960&amp;h=540" />
+	</programme>
+	<programme channel="204" start="20251008004000 +0000" stop="20251008080000 +0000">
+		<title>ICC Women's Cricket World Cup 2025: M07 - New Zealand vs South Africa</title>
 		<desc>The 2025 ICC Women's Cricket World Cup will be the 13th edition of Women's Cricket World Cup. It is scheduled to be hosted in India, their fourth tournament after the 1978, 1997, and 2013 editions, and Sri Lanka, their first tournament. This will be the last time that the tournament will have eight teams. Australia are the defending champions, having won their seventh title in 2022.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ICCWCWC2025.jpg?w=960&amp;h=540" />
 	</programme>
@@ -16613,12 +16678,12 @@
 	</programme>
 	<programme channel="314" start="20251007070000 +0000" stop="20251007072500 +0000">
 		<title>SpongeBob SquarePants S9 - EP 203</title>
-		<desc>When SpongeBob hides the secret formula in his home, it's up to Gary to protect it from Plankton. // When a freak accident causes everyone in town to become as stupid as Patrick, Sandy must save the day.</desc>
+		<desc>When SpongeBob hides the secret formula in his home, it’s up to Gary to protect it from Plankton. // When a freak accident causes everyone in town to become as stupid as Patrick, Sandy must save the day.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch314_spongebob_squarepants.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="314" start="20251007072500 +0000" stop="20251007074500 +0000">
 		<title>SpongeBob SquarePants S9 - EP 204</title>
-		<desc>When a storm sweeps the Krusty Krab away, its crew and customers will need a crazed Krabs to lead them back home. // Patrick's last baby tooth needs to come out, but he's afraid to let it go.</desc>
+		<desc>When a storm sweeps the Krusty Krab away, its crew and customers will need a crazed Krabs to lead them back home. // Patrick’s last baby tooth needs to come out, but he’s afraid to let it go.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch314_spongebob_squarepants.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="314" start="20251007074500 +0000" stop="20251007080000 +0000">
@@ -30747,8 +30812,8 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="811" start="20251008134500 +0000" stop="20251008140000 +0000">
-		<title>Night Serial Drama "Someday, in the Weightless Sky"</title>
-		<desc />
+		<title>Night Serial Drama "Someday, in the Weightless Sky" Eps. 19</title>
+		<desc>Four high school girls once dreamed of exploring space together as members of the astronomy club. Now grown up and walking their own paths, they unexpectedly reconnect with the dreams they had long forgotten. "If it's a microsatellite… maybe we can still aim for space, even now!" Encouraged by their younger selves, they embark on a second youth -- chasing the stars once more.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="811" start="20251008140000 +0000" stop="20251008142800 +0000">
@@ -35612,7 +35677,7 @@
 		<icon src="https://poster.starhubgo.com/poster/ch202_total_combat_2024.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="995" start="20251007001500 +0000" stop="20251007033000 +0000">
-		<title>NFL 2025/26 Kansas City Chiefs vs Jacksonville Jaguars</title>
+		<title>NFL 2025/26 Kansas City Chiefs vs Jacksonville Jaguars (Live)</title>
 		<desc>Follow us for the thrilling 2025/26 NFL season as teams battle for glory. The Philadelphia Eagles defend their Super Bowl crown, facing fierce rivals and rising stars in America’s ultimate football showdown.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch202_nfl_2024_25.jpg?w=960&amp;h=540" />
 	</programme>
@@ -35627,9 +35692,9 @@
 		<icon src="https://poster.starhubgo.com/poster/ch202_nfl_2024_25.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="995" start="20251007070000 +0000" stop="20251007093000 +0000">
-		<title>UFC 2025</title>
+		<title>UFC 2025 UFC 320: Ankalaev vs Pereira 2</title>
 		<desc>The Ultimate Fighting Championship features some of the world's best mixed martial arts exponents on its roster. This is the premier event of the UFC and is traditionally preluded with preliminaries before the main card showdown.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch202_ufc.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch202_UFC320_Ankalaev_vs_Pereira2.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="995" start="20251007093000 +0000" stop="20251007100000 +0000">
 		<title>Total Combat 2025</title>
@@ -35736,60 +35801,60 @@
 		<desc>Before you see a memorable bout, UFC Main Event lets you delve into the lives of its athletes and their mindsets going into the Octagon.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch202_ufc.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="996" start="20251006160000 +0000" stop="20251006163000 +0000">
+	<programme channel="996" start="20251006160000 +0000" stop="20251006161500 +0000">
 		<title>Big Boys Club</title>
 		<desc>Each episode of Big Boys Club invites singers, artistes as well as people from different walks of life as guests onto the show, participating in relaxed interviews and discussing current trends.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch838_big_boys_club.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="996" start="20251006163000 +0000" stop="20251006173000 +0000">
-		<title>My Commissioned Lover - EP 4</title>
-		<desc>From operating a share house to opening an property estate agency, Chaoyong and Jingzhi progress from best business partners to a married couple! When family and business both encounter crises, will the duo's relationship get shaken?</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch838_my_commissioned_lover.jpg?w=960&amp;h=540" />
+	<programme channel="996" start="20251006161500 +0000" stop="20251006165000 +0000">
+		<title>Vengeance of the Bride - EP 49</title>
+		<desc>Eun Seo Yeon is not rich, but everyone knows she has a warm heart. One day, she discovers that the man, Kang Baek San, whom she calls ‘father’ is actually her real parents’ enemy! She embarks on a revenge journey…</desc>
+		<icon src="https://poster.starhubgo.com/poster/VengeanceOfTheBride_L_R1.jpg?w=960" />
+	</programme>
+	<programme channel="996" start="20251006165000 +0000" stop="20251006173000 +0000">
+		<title>Vengeance of the Bride - EP 50</title>
+		<desc>Eun Seo Yeon is not rich, but everyone knows she has a warm heart. One day, she discovers that the man, Kang Baek San, whom she calls ‘father’ is actually her real parents’ enemy! She embarks on a revenge journey…</desc>
+		<icon src="https://poster.starhubgo.com/poster/VengeanceOfTheBride_L_R1.jpg?w=960" />
 	</programme>
 	<programme channel="996" start="20251006173000 +0000" stop="20251006183000 +0000">
-		<title>The Queen Of Castle &amp; What's On Today - EP 6</title>
-		<desc>Wong Kam Tou, chairman of the Ming Long Group, and cardiac surgeon Tung Yat Yin just got married. Kam Tou dies unexpectedly, triggering a fierce power struggle where Yat Yin uncovers hidden rivalries and vested interests.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch838_the_queen_of_castle.jpg?w=341&amp;h=192" />
+		<title>Serendipity - EP 38</title>
+		<desc>[With English and Chinese subtitles] Jian Mingshu (Lu Yuxiao) loses her memory after falling off a cliff, which saves her from a massacre. Rescued by her love interest Lu Chang (Wang Ziqi), they journey to the capital for imperial exams. Facing challenges together, they fall in love.</desc>
+		<icon src="https://poster.starhubgo.com/poster/Serendipity.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="996" start="20251006183000 +0000" stop="20251006190000 +0000">
-		<title>Lo And Behold - EP 2656</title>
-		<desc>Hung Shu-Kan owns a logistics business. The only thing on his mind is the well-being of his three daughters. His eldest daughter has moved abroad, but his second youngest daughter, Yuek-Shui, is still single. She and her little sister Sum-Yue often squabble, putting their father in a dilemma.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch838_lo_and_behold.jpg?w=960&amp;h=540" />
+		<title>Lo And Behold - EP 2053</title>
+		<desc>This story revolves around the Hung family, their working lives and friends.</desc>
+		<icon src="https://poster.starhubgo.com/poster/LoAndBehold_L.jpg?w=960" />
 	</programme>
-	<programme channel="996" start="20251006190000 +0000" stop="20251006193000 +0000">
-		<title>Scoop 2025</title>
-		<desc>This programme goes hot on the heels of the biggest happenings in society and the entertainment scene, bringing you the latest scoops.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch838_scoop_2025.jpg?w=341&amp;h=192" />
-	</programme>
-	<programme channel="996" start="20251006193000 +0000" stop="20251006200000 +0000">
-		<title>Gourmet Express</title>
-		<desc>Hong Kong is home to gourmet food from all over the world. Our food anchors and hosts keep up with the latest foodie information and offers, gaining an in-depth understanding of the stories behind the taste.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch838_gourmet_express.jpg?w=341&amp;h=192" />
+	<programme channel="996" start="20251006190000 +0000" stop="20251006200000 +0000">
+		<title>D.I.D. 12 - EP 5</title>
+		<desc>[With English and Chinese subtitles] Ying Hoi comes round and realizes Ah-wai is dead. Before passing out, he somehow recalled the perpetrator mentioning some English words. He eventually finds the related mysterious website. The web page just shows seven word collages and seven puzzles. Meanwhile, Tsz-fei astonishingly logs on to the website without issues.</desc>
+		<icon src="https://poster.starhubgo.com/poster/DID12_L.jpg?w=960" />
 	</programme>
 	<programme channel="996" start="20251006200000 +0000" stop="20251006210000 +0000">
-		<title>Legend of Two Sisters in the Chaos - EP 38</title>
-		<desc>During the Later Zhou dynasty, the Fu family becomes the focus of attention when a prophecy states that one of their daughters will become empress. This leads to people assuming that by destroying the Fu sisters, they will also destroy the throne.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch838_legend_of_two_sisters_in_the_chaos.jpg?w=341&amp;h=192" />
+		<title>Coroner's Diary - EP 25</title>
+		<desc>[With English and Chinese subtitles] Qin Wan (Landy Li), the daughter of the minister of Dali Temple, relied on her superb medical and forensic skills to join hands with Prince Yan Chi (Ao Rui Peng) to solve unsolved cases and find the real culprit in order to vindicate her father.</desc>
+		<icon src="https://poster.starhubgo.com/poster/CoronersDiary_L_R1.jpg?w=960" />
 	</programme>
-	<programme channel="996" start="20251006210000 +0000" stop="20251006214500 +0000">
-		<title>Big City Shop 2024</title>
-		<desc>Big City Shop introduces viewers to the latest products on fashion, skin care, make-up, health care, baby care and much more! The hosts will demonstrate and try on the products, and also invite related experts to share their knowledge.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch838_big_city_shop.jpg?w=341&amp;h=192" />
+	<programme channel="996" start="20251006210000 +0000" stop="20251006213000 +0000">
+		<title>Lo And Behold - EP 2053</title>
+		<desc>This story revolves around the Hung family, their working lives and friends.</desc>
+		<icon src="https://poster.starhubgo.com/poster/LoAndBehold_L.jpg?w=960" />
 	</programme>
-	<programme channel="996" start="20251006214500 +0000" stop="20251006220000 +0000">
-		<title>Happy Old Buddies</title>
-		<desc>This show brings on doctors and Chinese medicine practitioners to discuss diseases that the elderly should pay attention to, and provide prevention and treatment methods.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch838_happy_old_buddies.jpg?w=341&amp;h=192" />
+	<programme channel="996" start="20251006213000 +0000" stop="20251006222000 +0000">
+		<title>The Airport Diary - EP 10</title>
+		<desc>Yang (Kenneth Ma) is the duty manager at the airport's central control tower, responsible for monitoring the airport and ensuring smooth operations. One day, a typhoon hits and a plane needs to make an emergency landing. How will Yang’s team handle the crisis?</desc>
+		<icon src="https://poster.starhubgo.com/poster/TheAirportDiary_L.jpg?w=960" />
 	</programme>
-	<programme channel="996" start="20251006220000 +0000" stop="20251006223000 +0000">
-		<title>News Treasury 2024</title>
-		<desc>News Treasury takes everyone to uncover news from the treasure house. In addition to past specials, live broadcasts and reports, there are also precious clips from iconic events that have never been exposed.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch838_news_treasury_2024.jpg?w=341&amp;h=192" />
+	<programme channel="996" start="20251006222000 +0000" stop="20251006231500 +0000">
+		<title>A Fallen Xian - EP 1</title>
+		<desc>On the pretext of something to do with Lu Dong-bin, Taoist priest Master Kwan keeps scamming people. Village kids ridicule him by singing children’s songs. While practicing immortality, Lu Dong-bin is distracted by the children’s songs, so he decides to go to the mortal realm to enlighten Kwan.</desc>
+		<icon src="https://poster.starhubgo.com/poster/AFallenXian.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="996" start="20251006223000 +0000" stop="20251006230000 +0000">
-		<title>Scoop 2025</title>
-		<desc>This programme goes hot on the heels of the biggest happenings in society and the entertainment scene, bringing you the latest scoops.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch838_scoop_2025.jpg?w=341&amp;h=192" />
+	<programme channel="996" start="20251006231500 +0000" stop="20251006235000 +0000">
+		<title>Vengeance of the Bride - EP 49</title>
+		<desc>Eun Seo Yeon is not rich, but everyone knows she has a warm heart. One day, she discovers that the man, Kang Baek San, whom she calls ‘father’ is actually her real parents’ enemy! She embarks on a revenge journey…</desc>
+		<icon src="https://poster.starhubgo.com/poster/VengeanceOfTheBride_L_R1.jpg?w=960" />
 	</programme>
 	<programme channel="996" start="20251006235000 +0000" stop="20251007003000 +0000">
 		<title>Vengeance of the Bride - EP 50</title>
@@ -35951,135 +36016,100 @@
 		<desc>Eun Seo Yeon is not rich, but everyone knows she has a warm heart. One day, she discovers that the man, Kang Baek San, whom she calls ‘father’ is actually her real parents’ enemy! She embarks on a revenge journey…</desc>
 		<icon src="https://poster.starhubgo.com/poster/VengeanceOfTheBride_L_R1.jpg?w=960" />
 	</programme>
-	<programme channel="996" start="20251008010000 +0000" stop="20251008013000 +0000">
-		<title>Lo And Behold - EP 2657</title>
-		<desc>Hung Shu-Kan owns a logistics business. The only thing on his mind is the well-being of his three daughters. His eldest daughter has moved abroad, but his second youngest daughter, Yuek-Shui, is still single. She and her little sister Sum-Yue often squabble, putting their father in a dilemma.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch838_lo_and_behold.jpg?w=960&amp;h=540" />
+	<programme channel="996" start="20251008003000 +0000" stop="20251008013000 +0000">
+		<title>Serendipity - EP 39</title>
+		<desc>[With English and Chinese subtitles] Jian Mingshu (Lu Yuxiao) loses her memory after falling off a cliff, which saves her from a massacre. Rescued by her love interest Lu Chang (Wang Ziqi), they journey to the capital for imperial exams. Facing challenges together, they fall in love.</desc>
+		<icon src="https://poster.starhubgo.com/poster/Serendipity.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="996" start="20251008013000 +0000" stop="20251008020000 +0000">
-		<title>Hands Up</title>
-		<desc>This children's programme encourages children to ask questions, express themselves, and move towards their goals!</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch838_handsup.jpg?w=341&amp;h=192" />
+		<title>Lo And Behold - EP 2054</title>
+		<desc>This story revolves around the Hung family, their working lives and friends.</desc>
+		<icon src="https://poster.starhubgo.com/poster/LoAndBehold_L.jpg?w=960" />
 	</programme>
-	<programme channel="996" start="20251008020000 +0000" stop="20251008023000 +0000">
-		<title>Hong Kong Food Artisans &amp; What's On Today</title>
-		<desc>This culinary show features visits to various celebrated chefs and masters across Hong Kong. Each episode uncovers the stories and craftsmanship behind signature dishes, revealing the dedication and passion that shape Hong Kong's vibrant food scene.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch838_hong_kong_food_artisans.jpg?w=341&amp;h=192" />
+	<programme channel="996" start="20251008020000 +0000" stop="20251008025500 +0000">
+		<title>Golden City (Ep 701-750) VVD Mandarin - EP 726</title>
+		<desc>Set in the 60s in Jioufen, the story tells how three sworn brothers conquer the world with their bare hands. While connecting romance from the previous generation to the shared emotions with the present, the drama explores differences in generational values.</desc>
+		<icon src="https://poster.starhubgo.com/poster/GoldenCity.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="996" start="20251008023000 +0000" stop="20251008030000 +0000">
-		<title>Gourmet Express</title>
-		<desc>Hong Kong is home to gourmet food from all over the world. Our food anchors and hosts keep up with the latest foodie information and offers, gaining an in-depth understanding of the stories behind the taste.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch838_gourmet_express.jpg?w=341&amp;h=192" />
+	<programme channel="996" start="20251008025500 +0000" stop="20251008035500 +0000">
+		<title>D.I.D. 12 - EP 6</title>
+		<desc>[With English and Chinese subtitles] Lok-fung forces the three big drug dealers to suspend their business as he warns them they are in a precarious situation. But this maneuver annoys Lok-fung’s boss Yip Pui-lam, who also tells Moon-kwong to oversee this case. Ying Hoi deduces that the New Seven Deadly Sings assassin’s target is not the three big shots, but rather someone else.</desc>
+		<icon src="https://poster.starhubgo.com/poster/DID12_L.jpg?w=960" />
 	</programme>
-	<programme channel="996" start="20251008030000 +0000" stop="20251008040000 +0000">
-		<title>The Queen Of Castle - EP 7</title>
-		<desc>Wong Kam Tou, chairman of the Ming Long Group, and cardiac surgeon Tung Yat Yin just got married. Kam Tou dies unexpectedly, triggering a fierce power struggle where Yat Yin uncovers hidden rivalries and vested interests.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch838_the_queen_of_castle.jpg?w=341&amp;h=192" />
+	<programme channel="996" start="20251008035500 +0000" stop="20251008044500 +0000">
+		<title>Coroner's Diary - EP 26</title>
+		<desc>[With English and Chinese subtitles] Qin Wan (Landy Li), the daughter of the minister of Dali Temple, relied on her superb medical and forensic skills to join hands with Prince Yan Chi (Ao Rui Peng) to solve unsolved cases and find the real culprit in order to vindicate her father.</desc>
+		<icon src="https://poster.starhubgo.com/poster/CoronersDiary_L_R1.jpg?w=960" />
 	</programme>
-	<programme channel="996" start="20251008040000 +0000" stop="20251008043000 +0000">
-		<title>Scoop 2025</title>
-		<desc>This programme goes hot on the heels of the biggest happenings in society and the entertainment scene, bringing you the latest scoops.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch838_scoop_2025.jpg?w=341&amp;h=192" />
+	<programme channel="996" start="20251008044500 +0000" stop="20251008051500 +0000">
+		<title>Lo And Behold - EP 2054</title>
+		<desc>This story revolves around the Hung family, their working lives and friends.</desc>
+		<icon src="https://poster.starhubgo.com/poster/LoAndBehold_L.jpg?w=960" />
 	</programme>
-	<programme channel="996" start="20251008043000 +0000" stop="20251008045500 +0000">
-		<title>Big Boys Club</title>
-		<desc>Each episode of Big Boys Club invites singers, artistes as well as people from different walks of life as guests onto the show, participating in relaxed interviews and discussing current trends.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch838_big_boys_club.jpg?w=341&amp;h=192" />
+	<programme channel="996" start="20251008051500 +0000" stop="20251008060500 +0000">
+		<title>A Fallen Xian - EP 2</title>
+		<desc>Kwan decides to stay as Five Races Town people love him. And on the pretext of something to do with Great Master Luzu, he engages in all kinds of scams. Kwan accidentally burns Dong-bin’s beard, causing him to lose his mystical power. Also, villagers do not believe Dong-bin is an immortal. He is in trouble in Five Races Town.</desc>
+		<icon src="https://poster.starhubgo.com/poster/AFallenXian.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="996" start="20251008045500 +0000" stop="20251008052000 +0000">
-		<title>Hands Up</title>
-		<desc>This children's programme encourages children to ask questions, express themselves, and move towards their goals!</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch838_handsup.jpg?w=341&amp;h=192" />
+	<programme channel="996" start="20251008060500 +0000" stop="20251008070000 +0000">
+		<title>A Fallen Xian - EP 3</title>
+		<desc>While Shi-ho and Dong-bin are dueling, Dong-bin deliberately holds back. However, after meeting up with Suet-fa, he decides to go all out. But he still ends up as a loser. Suet-fa pretends to be possessed by some “ghost courtesan” to scare Shi-ho off. Kwan saves Suet-fa and takes her to Luzu Temple. Suet-fa is interested in Dong-bin, aka Lui Shek.</desc>
+		<icon src="https://poster.starhubgo.com/poster/AFallenXian.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="996" start="20251008052000 +0000" stop="20251008060500 +0000">
-		<title>Big City Shop 2024</title>
-		<desc>Big City Shop introduces viewers to the latest products on fashion, skin care, make-up, health care, baby care and much more! The hosts will demonstrate and try on the products, and also invite related experts to share their knowledge.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch838_big_city_shop.jpg?w=341&amp;h=192" />
+	<programme channel="996" start="20251008070000 +0000" stop="20251008081500 +0000">
+		<title>Evilive - EP 1</title>
+		<desc>The series tells the story of a struggling lawyer Han Dong Soo (Shin Ha Kyun) who gets cases by recklessly visiting prisoners. He meets an absolute villain and transforms into an elite villain himself</desc>
+		<icon src="https://poster.starhubgo.com/poster/Evilive.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="996" start="20251008060500 +0000" stop="20251008063000 +0000">
-		<title>Lo And Behold - EP 2657</title>
-		<desc>Hung Shu-Kan owns a logistics business. The only thing on his mind is the well-being of his three daughters. His eldest daughter has moved abroad, but his second youngest daughter, Yuek-Shui, is still single. She and her little sister Sum-Yue often squabble, putting their father in a dilemma.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch838_lo_and_behold.jpg?w=960&amp;h=540" />
+	<programme channel="996" start="20251008081500 +0000" stop="20251008090000 +0000">
+		<title>Serendipity - EP 39</title>
+		<desc>[With English and Chinese subtitles] Jian Mingshu (Lu Yuxiao) loses her memory after falling off a cliff, which saves her from a massacre. Rescued by her love interest Lu Chang (Wang Ziqi), they journey to the capital for imperial exams. Facing challenges together, they fall in love.</desc>
+		<icon src="https://poster.starhubgo.com/poster/Serendipity.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="996" start="20251008063000 +0000" stop="20251008073000 +0000">
-		<title>Under The Moonlight &amp; What's On Today - EP 17</title>
-		<desc>Luo Shu, a young woman trapped in the plight of fate yet determined to save herself, meets Qi Menglin, a spirited youth eager to roam the martial world. Together, they brave hardships and solve mysteries.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch838_under_the_moonlight.jpg?w=341&amp;h=192" />
+	<programme channel="996" start="20251008090000 +0000" stop="20251008094500 +0000">
+		<title>Broken Trust - EP 9</title>
+		<desc>Kai-loy miserably gets drunk in the street. After finding out his situation, Chi-yung and Yat-ming ask Yau-fong for help. At the Rose Empress Cake press event, Chun-kong steals the spotlight as Tai-hoi is sidelined. Mui-kwai turns Chun-kong into a retreating loser by engaging in some PR shenanigans.</desc>
+		<icon src="https://poster.starhubgo.com/poster/BrokenTrust_L.jpg?w=960" />
 	</programme>
-	<programme channel="996" start="20251008073000 +0000" stop="20251008080000 +0000">
-		<title>Hong Kong Food Artisans</title>
-		<desc>This culinary show features visits to various celebrated chefs and masters across Hong Kong. Each episode uncovers the stories and craftsmanship behind signature dishes, revealing the dedication and passion that shape Hong Kong's vibrant food scene.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch838_hong_kong_food_artisans.jpg?w=341&amp;h=192" />
+	<programme channel="996" start="20251008094500 +0000" stop="20251008103500 +0000">
+		<title>Golden City (Ep 701-750) VVD Mandarin - EP 727</title>
+		<desc>Set in the 60s in Jioufen, the story tells how three sworn brothers conquer the world with their bare hands. While connecting romance from the previous generation to the shared emotions with the present, the drama explores differences in generational values.</desc>
+		<icon src="https://poster.starhubgo.com/poster/GoldenCity.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="996" start="20251008080000 +0000" stop="20251008083000 +0000">
-		<title>Made In Dongguan</title>
-		<desc>Wong Cho-lam, a Dongguan native, leads the way on this journey to find the most authentic Dongguan delicacies!</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch838_made_in_dongguan.jpg?w=960&amp;h=540" />
+	<programme channel="996" start="20251008103500 +0000" stop="20251008110000 +0000">
+		<title>Lo And Behold - EP 2054</title>
+		<desc>This story revolves around the Hung family, their working lives and friends.</desc>
+		<icon src="https://poster.starhubgo.com/poster/LoAndBehold_L.jpg?w=960" />
 	</programme>
-	<programme channel="996" start="20251008083000 +0000" stop="20251008090000 +0000">
-		<title>Open Book</title>
-		<desc>Each episode of this show introduces a good book, spanning subjects such as science, history, literature, novels and even fashion, sharing interesting knowledge gained from these books.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch838_open_book.jpg?w=341&amp;h=192" />
+	<programme channel="996" start="20251008110000 +0000" stop="20251008120000 +0000">
+		<title>Serendipity - EP 40</title>
+		<desc>[With English and Chinese subtitles] Jian Mingshu (Lu Yuxiao) loses her memory after falling off a cliff, which saves her from a massacre. Rescued by her love interest Lu Chang (Wang Ziqi), they journey to the capital for imperial exams. Facing challenges together, they fall in love.</desc>
+		<icon src="https://poster.starhubgo.com/poster/Serendipity.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="996" start="20251008090000 +0000" stop="20251008093000 +0000">
-		<title>Big Boys Club</title>
-		<desc>Each episode of Big Boys Club invites singers, artistes as well as people from different walks of life as guests onto the show, participating in relaxed interviews and discussing current trends.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch838_big_boys_club.jpg?w=341&amp;h=192" />
+	<programme channel="996" start="20251008120000 +0000" stop="20251008130000 +0000">
+		<title>D.I.D. 12 - EP 7</title>
+		<desc>[With English and Chinese subtitles] After waking up, Ying Hoi finds out the home surveillance camera has been tampered with. Some notebook, which is supposed to be in Tsz-fei’s place, is also left on the table. Yin denies he has anything to do with these two incidents, causing Ying Hoi to become suspicious of himself.</desc>
+		<icon src="https://poster.starhubgo.com/poster/DID12_L.jpg?w=960" />
 	</programme>
-	<programme channel="996" start="20251008093000 +0000" stop="20251008103000 +0000">
-		<title>Legend of Two Sisters in the Chaos - EP 40</title>
-		<desc>During the Later Zhou dynasty, the Fu family becomes the focus of attention when a prophecy states that one of their daughters will become empress. This leads to people assuming that by destroying the Fu sisters, they will also destroy the throne.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch838_legend_of_two_sisters_in_the_chaos.jpg?w=341&amp;h=192" />
+	<programme channel="996" start="20251008130000 +0000" stop="20251008140000 +0000">
+		<title>Coroner's Diary - EP 27</title>
+		<desc>[With English and Chinese subtitles] Qin Wan (Landy Li), the daughter of the minister of Dali Temple, relied on her superb medical and forensic skills to join hands with Prince Yan Chi (Ao Rui Peng) to solve unsolved cases and find the real culprit in order to vindicate her father.</desc>
+		<icon src="https://poster.starhubgo.com/poster/CoronersDiary_L_R1.jpg?w=960" />
 	</programme>
-	<programme channel="996" start="20251008103000 +0000" stop="20251008110000 +0000">
-		<title>News At 18:30</title>
-		<desc>Bringing you the news from Hong Kong, the mainland and around the world every evening at 6:30pm.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch838_news_at_630.jpg?w=960&amp;h=540" />
+	<programme channel="996" start="20251008140000 +0000" stop="20251008143000 +0000">
+		<title>Lo And Behold - EP 2055</title>
+		<desc>This story revolves around the Hung family, their working lives and friends.</desc>
+		<icon src="https://poster.starhubgo.com/poster/LoAndBehold_L.jpg?w=960" />
 	</programme>
-	<programme channel="996" start="20251008110000 +0000" stop="20251008113500 +0000">
-		<title>Gourmet Express - Hong Kong &amp; Taiwan &amp; What's On Today</title>
-		<desc>Our food anchors and hosts keep up with the latest foodie information and offers in Hong Kong and Taiwan, gaining an in-depth understanding of the stories behind the taste.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch838_gourmet_express.jpg?w=341&amp;h=192" />
+	<programme channel="996" start="20251008143000 +0000" stop="20251008152000 +0000">
+		<title>A Fallen Xian - EP 4</title>
+		<desc>Police arrest a crazy woman at the soul calling assembly and question her. They find out To-kuen’s death probably has something to do with some guy. Suet-fa is released. Kwan accidentally reaches the suspect’s home. He is also stranded in a well. Dong-bin comes to his rescue, but he is stranded as well. Dong-bin uses his mystical power to take Kwan away from the well. His maneuver makes people really believer Kwan is an immortal.</desc>
+		<icon src="https://poster.starhubgo.com/poster/AFallenXian.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="996" start="20251008113500 +0000" stop="20251008120000 +0000">
-		<title>Scoop 2025</title>
-		<desc>This programme goes hot on the heels of the biggest happenings in society and the entertainment scene, bringing you the latest scoops.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch838_scoop_2025.jpg?w=341&amp;h=192" />
-	</programme>
-	<programme channel="996" start="20251008120000 +0000" stop="20251008123000 +0000">
-		<title>Lo And Behold - EP 2658</title>
-		<desc>Hung Shu-Kan owns a logistics business. The only thing on his mind is the well-being of his three daughters. His eldest daughter has moved abroad, but his second youngest daughter, Yuek-Shui, is still single. She and her little sister Sum-Yue often squabble, putting their father in a dilemma.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch838_lo_and_behold.jpg?w=960&amp;h=540" />
-	</programme>
-	<programme channel="996" start="20251008123000 +0000" stop="20251008133000 +0000">
-		<title>The Queen Of Castle - EP 8</title>
-		<desc>Wong Kam Tou, chairman of the Ming Long Group, and cardiac surgeon Tung Yat Yin just got married. Kam Tou dies unexpectedly, triggering a fierce power struggle where Yat Yin uncovers hidden rivalries and vested interests.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch838_the_queen_of_castle_still_ep8.jpg?w=960&amp;h=540" />
-	</programme>
-	<programme channel="996" start="20251008133000 +0000" stop="20251008143000 +0000">
-		<title>Under The Moonlight - EP 18</title>
-		<desc>Luo Shu, a young woman trapped in the plight of fate yet determined to save herself, meets Qi Menglin, a spirited youth eager to roam the martial world. Together, they brave hardships and solve mysteries.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch838_under_the_moonlight.jpg?w=341&amp;h=192" />
-	</programme>
-	<programme channel="996" start="20251008143000 +0000" stop="20251008150000 +0000">
-		<title>Hong Kong Food Artisans</title>
-		<desc>This culinary show features visits to various celebrated chefs and masters across Hong Kong. Each episode uncovers the stories and craftsmanship behind signature dishes, revealing the dedication and passion that shape Hong Kong's vibrant food scene.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch838_hong_kong_food_artisans.jpg?w=341&amp;h=192" />
-	</programme>
-	<programme channel="996" start="20251008150000 +0000" stop="20251008151500 +0000">
-		<title>EXTRA</title>
-		<desc>Keep up with the news on the entertainment circle in Hong Kong and all over the world, with reports on the latest drama series, movies, concert highlights, award ceremonies and more.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch838_extra.jpg?w=341&amp;h=192" />
-	</programme>
-	<programme channel="996" start="20251008151500 +0000" stop="20251008155000 +0000">
-		<title>News Roundup</title>
-		<desc>A round-up of the news before the day ends.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch838_news_roundup.jpg?w=341&amp;h=192" />
-	</programme>
-	<programme channel="996" start="20251008155000 +0000" stop="20251008160000 +0000">
-		<title>Global View</title>
-		<desc>Bringing you the news from Hong Kong, the mainland and around the world every day.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch838_global_view.jpg?w=341&amp;h=192" />
+	<programme channel="996" start="20251008152000 +0000" stop="20251008161500 +0000">
+		<title>A Fallen Xian - EP 5</title>
+		<desc>Hiu-fei cannot resist the temptation as he again gambles and loses money. He wants to end his life. And Dong-bin dissuades him. A fire breaks out at Shi-ho’s gambling joint. Kwan is again framed. The duo’s relationship deteriorates. Shi-ho forces Hiu-fei to cough up. He manages to lure the culprit into turning up. Shi-ho also takes someone involved away and punishes them.</desc>
+		<icon src="https://poster.starhubgo.com/poster/AFallenXian.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="997" start="20251006152000 +0000" stop="20251006161500 +0000">
 		<title>A Fallen Xian - EP 1</title>
