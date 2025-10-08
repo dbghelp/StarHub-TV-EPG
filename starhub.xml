@@ -2103,7 +2103,7 @@
 	</programme>
 	<programme channel="106" start="20251009130000 +0000" stop="20251009140000 +0000">
 		<title>Insight - EP 23</title>
-		<desc>Insight investigates and analyses topical issues that impact Asia and the rest of the world._x000D_</desc>
+		<desc>The new normal. That is how Filipino President Ferdinand Marcos Jr characterised the country’s floods. As sea levels rise and the climate changes, are Filipinos resigned to live with this new normal?</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="106" start="20251009140000 +0000" stop="20251009150000 +0000">
@@ -2131,7 +2131,7 @@
 		<desc>(Dual language Mandarin and Korean) Jiang Hai constantly sows discord between Qingfeng and Ruiyan. Qingfeng gradually becomes unhappy with the relationship between Ruiyan and Taifeng.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/107_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="107" start="20251007173000 +0000" stop="20251007182500 +0000">
+	<programme channel="107" start="20251007173000 +0000" stop="20251007183000 +0000">
 		<title>Vengeance of the Bride - EP 49</title>
 		<desc>(Dual language Mandarin and Korean) Taifeng and Qingfeng have an argument over Ruiyan. Taifeng admits to Qingfeng that he loves Ruiyan. Qingfeng decides to be with Jiang Hai as a way to get back at Ruiyan and Taifeng.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/107_1920x1080_HTV.png?w=341&amp;h=192" />
@@ -5191,25 +5191,35 @@
 		<desc>Vedaa, a victim of caste discrimination, trains as a boxer under Abhimanyu and strives to seek justice for the murder of her siblings. Release Year: 2024 Director: Nikkhil Advani Awards: 2025 Winner Iconic- Powerpack Performance of the Year- Abhishek Banerjee</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch130_zee_cinema_logo.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="131" start="20251007140200 +0000" stop="20251007160700 +0000">
-		<title>Sadma</title>
-		<desc>The film tells the story of Nehalata (Sridevi), a young girl who regresses to childhood after suffering a head injury in a car crash. Lost, she ends up trapped in a brothel before being rescued.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch618_sony_max_logo.jpg?w=341&amp;h=192" />
-	</programme>
-	<programme channel="131" start="20251007160700 +0000" stop="20251007183500 +0000">
+	<programme channel="131" start="20251007160000 +0000" stop="20251007182100 +0000">
 		<title>Ludo</title>
 		<desc>Four wildly different stories overlap at the whims of fate, chance and one eccentric criminal.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch618_ludo.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="131" start="20251007183500 +0000" stop="20251007211200 +0000">
-		<title>Jaan Se Pyaara</title>
-		<desc>Inspector Jai arrests Guman only to release him after he threatens to destroy the city. Later, Jai's brother, who has a cognitive disability, gets abducted in return for a mysterious bag.</desc>
+	<programme channel="131" start="20251007182100 +0000" stop="20251007194700 +0000">
+		<title>Dashing Hero</title>
+		<desc>A revenue inspector falls in love with a girl but faces problems due to his cowardliness. He is compelled to find a way to prove himself to her father, who wants her to marry a brave man.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch618_sony_max_logo.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="131" start="20251007214300 +0000" stop="20251007221500 +0000">
-		<title>Extraaa Storiez: Bhool Bhulaiyaa 2</title>
+	<programme channel="131" start="20251007194700 +0000" stop="20251007221700 +0000">
+		<title>Raju Ban Gaya Gentleman</title>
+		<desc>Raju comes to Bombay chasing his dreams, but keeps losing out on opportunities. His love, Renu helps him find a job. Success goes to his head until one day a tragic accident destroys his reputation.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch618_sony_max_logo.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="131" start="20251007221700 +0000" stop="20251007223600 +0000">
+		<title>Extraaa Storiez: 12th Fail</title>
 		<desc>Watch behind the scenes and meet the cast and crew of the movie.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch618_bhool_bhulaiya_2.jpg?w=960&amp;h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch618_sony_max_logo.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="131" start="20251007223600 +0000" stop="20251007224700 +0000">
+		<title>Extraaa Storiez: Kantara</title>
+		<desc>Watch behind the scenes and meet the cast and crew of the movie.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch618_sony_max_logo.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="131" start="20251007224700 +0000" stop="20251007235100 +0000">
+		<title>NCL Chicago Vs. Houston Generals (Live)</title>
+		<desc>The ultimate cricket showdown! NCL USA delivers 10-over thrillers, global stars, and unmatched excitement for fans across the world.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch618_NCL.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="131" start="20251007235100 +0000" stop="20251008005300 +0000">
 		<title>NCL Chicago Vs. Houston Generals (Live)</title>
@@ -5301,25 +5311,35 @@
 		<desc>The ultimate cricket showdown! NCL USA delivers 10-over thrillers, global stars, and unmatched excitement for fans across the world.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch618_NCL.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="131" start="20251009002600 +0000" stop="20251009004600 +0000">
-		<title>Extraaa Storiez: 12th Fail</title>
+	<programme channel="131" start="20251009005100 +0000" stop="20251009015100 +0000">
+		<title>NCL NY Lions Vs. Los Angeles Waves (Live)</title>
+		<desc>The ultimate cricket showdown! NCL USA delivers 10-over thrillers, global stars, and unmatched excitement for fans across the world.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch618_NCL.jpg?w=960&amp;h=540" />
+	</programme>
+	<programme channel="131" start="20251009015100 +0000" stop="20251009025800 +0000">
+		<title>NCL NY Lions Vs. Los Angeles Waves (Live)</title>
+		<desc>The ultimate cricket showdown! NCL USA delivers 10-over thrillers, global stars, and unmatched excitement for fans across the world.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch618_NCL.jpg?w=960&amp;h=540" />
+	</programme>
+	<programme channel="131" start="20251009025800 +0000" stop="20251009032900 +0000">
+		<title>Extraa Shots- Befikre</title>
 		<desc>Watch behind the scenes and meet the cast and crew of the movie.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch618_sony_max_logo.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch618_befikre.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="131" start="20251009004600 +0000" stop="20251009024800 +0000">
-		<title>Afwaah</title>
-		<desc>A woman seeks to escape her engagement to a violent politician, but when a stranger comes to her aid, the two face an onslaught of bigotry and hate.</desc>
+	<programme channel="131" start="20251009032900 +0000" stop="20251009050000 +0000">
+		<title>Ashwamedham</title>
+		<desc>Dhruva an undercover agent is on a mission to catch the culprits, who intend to loot the National treasure by using professional hackers.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch618_sony_max_logo.jpg?w=341&amp;h=192" />
-	</programme>
-	<programme channel="131" start="20251009024800 +0000" stop="20251009050000 +0000">
-		<title>Fanney Khan</title>
-		<desc>Fanney Khan is inspired by a Dutch film, Everybody's Famous. With a dream in his eyes and a tune in his heart</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch618_fanney_khan.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="131" start="20251009050000 +0000" stop="20251009071800 +0000">
 		<title>Gehri Chaal</title>
 		<desc>Shekhar threatens to expose Ratan's secret if he does not help him in a heist. A desperate Ratan assists Shekhar, but ends up becoming the prime suspect.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch618_sony_max_logo.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="131" start="20251009071800 +0000" stop="20251009080100 +0000">
+		<title>Extraa Shots Ludo</title>
+		<desc>Watch behind the scenes and meet the cast and crew of the movie.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch618_ludo.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="131" start="20251009080100 +0000" stop="20251009094600 +0000">
 		<title>An Action Hero</title>
@@ -5428,7 +5448,7 @@
 	</programme>
 	<programme channel="132" start="20251008043000 +0000" stop="20251008050000 +0000">
 		<title>Vetri Vinayagar - EP 522</title>
-		<desc>A religious scholar provides a detailed discourse on various spiritual teachings to devotees.</desc>
+		<desc>Lord Ganesha, the popular Hindu deity, has many adventures while growing up.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch132_vetri_vinayakar.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="132" start="20251008050000 +0000" stop="20251008053000 +0000">
@@ -5448,7 +5468,7 @@
 	</programme>
 	<programme channel="132" start="20251008083000 +0000" stop="20251008090000 +0000">
 		<title>Vetri Vinayagar - EP 522</title>
-		<desc>A religious scholar provides a detailed discourse on various spiritual teachings to devotees.</desc>
+		<desc>Lord Ganesha, the popular Hindu deity, has many adventures while growing up.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch132_vetri_vinayakar.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="132" start="20251008090000 +0000" stop="20251008093000 +0000">
@@ -5463,7 +5483,7 @@
 	</programme>
 	<programme channel="132" start="20251008100000 +0000" stop="20251008103000 +0000">
 		<title>Vetri Vinayagar - EP 522</title>
-		<desc>A religious scholar provides a detailed discourse on various spiritual teachings to devotees.</desc>
+		<desc>Lord Ganesha, the popular Hindu deity, has many adventures while growing up.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch132_vetri_vinayakar.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="132" start="20251008103000 +0000" stop="20251008110000 +0000">
@@ -5508,7 +5528,7 @@
 	</programme>
 	<programme channel="132" start="20251008163000 +0000" stop="20251008170000 +0000">
 		<title>Vetri Vinayagar - EP 522</title>
-		<desc>A religious scholar provides a detailed discourse on various spiritual teachings to devotees.</desc>
+		<desc>Lord Ganesha, the popular Hindu deity, has many adventures while growing up.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch132_vetri_vinayakar.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="132" start="20251008170000 +0000" stop="20251008173000 +0000">
@@ -5543,7 +5563,7 @@
 	</programme>
 	<programme channel="132" start="20251008220000 +0000" stop="20251008223000 +0000">
 		<title>Vetri Vinayagar - EP 523</title>
-		<desc>A religious scholar provides a detailed discourse on various spiritual teachings to devotees.</desc>
+		<desc>Lord Ganesha, the popular Hindu deity, has many adventures while growing up.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch132_vetri_vinayakar.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="132" start="20251008223000 +0000" stop="20251008230000 +0000">
@@ -5567,8 +5587,8 @@
 		<icon src="https://poster.starhubgo.com/poster/ch132_kadhala_kadhala.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="132" start="20251009003000 +0000" stop="20251009020000 +0000">
-		<title>Bigg Boss - EP 1</title>
-		<desc>Follow contestants as they live together in a house and compete for a grand prize.</desc>
+		<title>Bigg Boss Unseen - EP 1</title>
+		<desc>A compilation of unseen moments from the house, where celebrities compete to win the grand prize.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch132_bigg_boss.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="132" start="20251009020000 +0000" stop="20251009043000 +0000">
@@ -7537,7 +7557,7 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/139_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="139" start="20251009020000 +0000" stop="20251009023000 +0000">
-		<title>Pavithram</title>
+		<title>Chempaneerpovu</title>
 		<desc>Daily Soap</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/139_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
@@ -7547,7 +7567,7 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/139_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="139" start="20251009030000 +0000" stop="20251009033000 +0000">
-		<title>Chempaneerpovu</title>
+		<title>Patharamattu</title>
 		<desc>Daily Soap</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/139_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
@@ -9258,12 +9278,12 @@
 	</programme>
 	<programme channel="153" start="20251007161500 +0000" stop="20251007164500 +0000">
 		<title>Close up</title>
-		<desc>The weekly half-hour program delivers in-depth reporting on topical political issues and newsworthy events. Revealing the story behind the stories, "Close up" is informative, gripping and visually powerful.</desc>
+		<desc>India’s identity is shifting, with the Rashtriya Swayamsevak Sangh reshaping the nation. As the Hindu nationalist RSS movement marks its centenary, DW explores how it’s become one of India’s most influential and controversial organizations.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20251007164500 +0000" stop="20251007170000 +0000">
 		<title>Reporter</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+		<desc>Luise was four when she fled Königsberg for Lithuania. She was given a Lithuanian name and forbidden from speaking German.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20251007170000 +0000" stop="20251007171500 +0000">
@@ -9272,8 +9292,8 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20251007171500 +0000" stop="20251007173000 +0000">
-		<title>Best of DW-online Content</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+		<title>Interview - Brazil at a Climate Crossroads</title>
+		<desc>Brazil is in the global climate spotlight - as host of this year’s UN Climate Summit, COP30 and as a nation with ambitious environmental goals navigating a polarized political landscape. Environment and Climate Change Minister Marina Silva discusses billion-dollar funding challenges, innovative strategies to protect tropical forests, and the controversial debate over potential oil drilling.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20251007173000 +0000" stop="20251007180000 +0000">
@@ -9322,18 +9342,18 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20251007210200 +0000" stop="20251007211500 +0000">
-		<title>Best of DW-online Content</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+		<title>Interview - Brazil at a Climate Crossroads</title>
+		<desc>Brazil is in the global climate spotlight - as host of this year’s UN Climate Summit, COP30 and as a nation with ambitious environmental goals navigating a polarized political landscape. Environment and Climate Change Minister Marina Silva discusses billion-dollar funding challenges, innovative strategies to protect tropical forests, and the controversial debate over potential oil drilling.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20251007211500 +0000" stop="20251007214500 +0000">
 		<title>Close up</title>
-		<desc>The weekly half-hour program delivers in-depth reporting on topical political issues and newsworthy events. Revealing the story behind the stories, "Close up" is informative, gripping and visually powerful.</desc>
+		<desc>India’s identity is shifting, with the Rashtriya Swayamsevak Sangh reshaping the nation. As the Hindu nationalist RSS movement marks its centenary, DW explores how it’s become one of India’s most influential and controversial organizations.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20251007214500 +0000" stop="20251007220000 +0000">
 		<title>Shift</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+		<desc>Studies show VR can move users to tears and inspire greater empathy than traditional television. Is VR the ideal medium for big emotions? And who stands to benefit from this?</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20251007220000 +0000" stop="20251007220200 +0000">
@@ -9357,8 +9377,8 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20251007231500 +0000" stop="20251007233000 +0000">
-		<title>Best of DW-online Content</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+		<title>Interview - Brazil at a Climate Crossroads</title>
+		<desc>Brazil is in the global climate spotlight - as host of this year’s UN Climate Summit, COP30 and as a nation with ambitious environmental goals navigating a polarized political landscape. Environment and Climate Change Minister Marina Silva discusses billion-dollar funding challenges, innovative strategies to protect tropical forests, and the controversial debate over potential oil drilling.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20251007233000 +0000" stop="20251008000000 +0000">
@@ -9698,7 +9718,7 @@
 	</programme>
 	<programme channel="153" start="20251009023000 +0000" stop="20251009030000 +0000">
 		<title>Made in Germany</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+		<desc>Europe's first Trump Tower may be built in Belgrade. Is a unified African economy an impossible dream? What are the challenges facing the Pakistani creators sector? And how one Vietnamese-born woman built up a nail salon empire in Berlin.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20251009030000 +0000" stop="20251009031500 +0000">
@@ -9707,8 +9727,8 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20251009031500 +0000" stop="20251009033000 +0000">
-		<title>Best of DW-online Content</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+		<title>Mapped Out</title>
+		<desc>Recent Houthi attacks on ships in the Red Sea are a stark reminder: Ships are vulnerable in and near maritime chokepoints. This is a headache for big powers that rely on flows on trade and oil. The Panama Canal, the Strait of Malacca in the Indo-Pacific and the Danish Straits on the Baltic Sea are thorns in the side of the US, China and Russia.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20251009033000 +0000" stop="20251009040000 +0000">
@@ -9738,7 +9758,7 @@
 	</programme>
 	<programme channel="153" start="20251009053000 +0000" stop="20251009060000 +0000">
 		<title>Focus on Europe</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+		<desc>Swedish authorities suspect a Russian Orthodox church of being a spying hub for the Kremlin. +++ The artistic mosaics on Portugal's streets are a trademark, but they have hidden dangers.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20251009060000 +0000" stop="20251009061500 +0000">
@@ -9747,13 +9767,13 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20251009061500 +0000" stop="20251009063000 +0000">
-		<title>Best of DW-online Content</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+		<title>Mapped Out</title>
+		<desc>Recent Houthi attacks on ships in the Red Sea are a stark reminder: Ships are vulnerable in and near maritime chokepoints. This is a headache for big powers that rely on flows on trade and oil. The Panama Canal, the Strait of Malacca in the Indo-Pacific and the Danish Straits on the Baltic Sea are thorns in the side of the US, China and Russia.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20251009063000 +0000" stop="20251009070000 +0000">
 		<title>Made in Germany</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+		<desc>Europe's first Trump Tower may be built in Belgrade. Is a unified African economy an impossible dream? What are the challenges facing the Pakistani creators sector? And how one Vietnamese-born woman built up a nail salon empire in Berlin.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20251009070000 +0000" stop="20251009073000 +0000">
@@ -9763,7 +9783,7 @@
 	</programme>
 	<programme channel="153" start="20251009073000 +0000" stop="20251009080000 +0000">
 		<title>Focus on Europe</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+		<desc>Swedish authorities suspect a Russian Orthodox church of being a spying hub for the Kremlin. +++ The artistic mosaics on Portugal's streets are a trademark, but they have hidden dangers.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20251009080000 +0000" stop="20251009083000 +0000">
@@ -9783,7 +9803,7 @@
 	</programme>
 	<programme channel="153" start="20251009091500 +0000" stop="20251009100000 +0000">
 		<title>DocFilm</title>
-		<desc>More than ever, digital platforms are being used for manipulation and blackmail. This documentary goes behind the scenes of a cruel online world, and shows just how close the danger is.</desc>
+		<desc>Rio de Janeiro: Sugar Loaf Mountain, the Christ the Redeemer statue, the Copacabana. When night falls, the most diverse worlds come together here. A journey through one of the most fascinating metropolises in the world -- from sunset to sunrise.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20251009100000 +0000" stop="20251009103000 +0000">
@@ -9803,7 +9823,7 @@
 	</programme>
 	<programme channel="153" start="20251009113000 +0000" stop="20251009120000 +0000">
 		<title>Focus on Europe</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+		<desc>Swedish authorities suspect a Russian Orthodox church of being a spying hub for the Kremlin. +++ The artistic mosaics on Portugal's streets are a trademark, but they have hidden dangers.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20251009120000 +0000" stop="20251009121500 +0000">
@@ -9822,8 +9842,8 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20251009131500 +0000" stop="20251009133000 +0000">
-		<title>Best of DW-online Content</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+		<title>REV</title>
+		<desc>Every hour, four people die on Brazil’s streets. More than guns, more than natural disasters - traffic is the country’s silent killer. From reckless driving and lax enforcement to political rollbacks, this is the story of how Brazil’s roads became some of the deadliest in the world.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20251009133000 +0000" stop="20251009140000 +0000">
@@ -9838,7 +9858,7 @@
 	</programme>
 	<programme channel="153" start="20251009143000 +0000" stop="20251009150000 +0000">
 		<title>Focus on Europe</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+		<desc>Swedish authorities suspect a Russian Orthodox church of being a spying hub for the Kremlin. +++ The artistic mosaics on Portugal's streets are a trademark, but they have hidden dangers.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20251009150000 +0000" stop="20251009153000 +0000">
@@ -10108,7 +10128,7 @@
 	</programme>
 	<programme channel="159" start="20251007200000 +0000" stop="20251007223000 +0000">
 		<title>Movie - Pattikattu Thambi</title>
-		<desc>Movie starring Arjun, Nirosha, S.S. Chandran, Rajesh, and is directed by Senthilnathan.</desc>
+		<desc>This movie stars Arjun, Nirosha, S.S. Chandran and Rajesh, and is directed by Senthilnathan.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch159_ktv_hd_logo.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="159" start="20251007223000 +0000" stop="20251008010000 +0000">
@@ -10163,7 +10183,7 @@
 	</programme>
 	<programme channel="159" start="20251009010000 +0000" stop="20251009013000 +0000">
 		<title>Fillers</title>
-		<desc>Fillers</desc>
+		<desc>KTV HD presents you round-the-clock Kollywood movies, from the latest blockbusters to classics of the yesteryear!</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch159_ktv_hd_logo.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="159" start="20251009013000 +0000" stop="20251009043000 +0000">
@@ -10178,7 +10198,7 @@
 	</programme>
 	<programme channel="159" start="20251009073000 +0000" stop="20251009103000 +0000">
 		<title>Movie - Vanna Thamizh Pattu</title>
-		<desc>The village head is amazed at the singing talent of their new servant. A girl in the family falls in love with the servant; the truth is revealed that he is married to the village head's daughter.</desc>
+		<desc>The village head is amazed at the singing talent of their new servant. A girl in the family falls in love with the servant. The truth is revealed that he is married to the village head's daughter.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch159_ktv_hd_logo.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="159" start="20251009103000 +0000" stop="20251009133000 +0000">
@@ -10188,7 +10208,7 @@
 	</programme>
 	<programme channel="159" start="20251009133000 +0000" stop="20251009170000 +0000">
 		<title>Movie - Kadhal Sugamanathu</title>
-		<desc>A woman loves a man but does not have the courage to confess her feelings. Instead, she asks her younger sister to approach her love interest. But her sister betrays her by proposing to him herself.</desc>
+		<desc>A woman loves a man but does not have the courage to confess her feelings. Instead, she asks her younger sister to approach her love interest. However her sister betrays her by proposing to him herself.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch159_ktv_hd_logo.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="201" start="20251007160000 +0000" stop="20251007190000 +0000">
@@ -10328,17 +10348,17 @@
 	</programme>
 	<programme channel="202" start="20251008000000 +0000" stop="20251008030000 +0000">
 		<title>NFL 2025/26 Minnesota Vikings vs Cleveland Browns</title>
-		<desc>Follow us for the thrilling 2025/26 NFL season as teams battle for glory. The Philadelphia Eagles defend their Super Bowl crown, facing fierce rivals and rising stars in America’s ultimate football showdown.</desc>
+		<desc>Follow us for the thrilling 2025/26 NFL season as teams battle for glory. The Philadelphia Eagles defend their Super Bowl crown, facing fierce rivals and rising stars in America's ultimate football showdown.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch202_nfl_2024_25.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="202" start="20251008030000 +0000" stop="20251008040000 +0000">
 		<title>Pro Bull Riding Teams 2025</title>
-		<desc>High-octane action meets fierce rivalry as elite riders and bulls clash in the Professional Bull Riding Teams, showcasing breathtaking rides, dramatic moments, and the grit behind the sport’s toughest competition.</desc>
+		<desc>High-octane action meets fierce rivalry as elite riders and bulls clash in the Professional Bull Riding Teams, showcasing breathtaking rides, dramatic moments, and the grit behind the sport's toughest competition.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch202_pro_bull_riding.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="202" start="20251008040000 +0000" stop="20251008070000 +0000">
 		<title>NFL 2025/26 New England Patriots vs Buffalo Bills</title>
-		<desc>Follow us for the thrilling 2025/26 NFL season as teams battle for glory. The Philadelphia Eagles defend their Super Bowl crown, facing fierce rivals and rising stars in America’s ultimate football showdown.</desc>
+		<desc>Follow us for the thrilling 2025/26 NFL season as teams battle for glory. The Philadelphia Eagles defend their Super Bowl crown, facing fierce rivals and rising stars in America's ultimate football showdown.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch202_nfl_2024_25.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="202" start="20251008070000 +0000" stop="20251008100000 +0000">
@@ -10363,7 +10383,7 @@
 	</programme>
 	<programme channel="202" start="20251008143000 +0000" stop="20251008150000 +0000">
 		<title>The Greatest of All Time 2025</title>
-		<desc>Sport's eternal debate… who is the Great of All Time? This is a series of programmes for every sport, examining the candidates and their case for 'greatest', and depicting iconic stars, the most influential careers, the most revered champions, across all</desc>
+		<desc>Sport's eternal debate... who is the Great of All Time? This is a series of programmes for every sport, examining the candidates and their case for 'greatest', and depicting iconic stars, the most influential careers, the most revered champions, across all</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch202_the_greatest_of_all_time2025.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="202" start="20251008150000 +0000" stop="20251008160000 +0000">
@@ -10388,7 +10408,7 @@
 	</programme>
 	<programme channel="202" start="20251008210000 +0000" stop="20251008230000 +0000">
 		<title>Singapore Premier League 2025/26 Lion City Sailors FC vs Hougang United FC</title>
-		<desc>Catch the 2025/26 Singapore Premier League as top football clubs battle for glory in Singapore’s premier competition. Defending champions Lion City Sailors return to defend their title in the league’s 8th season since its 2018 rebranding.</desc>
+		<desc>Catch the 2025/26 Singapore Premier League as top football clubs battle for glory in Singapore's premier competition. Defending champions Lion City Sailors return to defend their title in the league's 8th season since its 2018 rebranding.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch202_singapore_premier_league.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="202" start="20251008230000 +0000" stop="20251009010000 +0000">
@@ -10396,15 +10416,20 @@
 		<desc>The 2025/26 East Asia Super League is the third regular season of the League, an international basketball club competition involving 12 teams from Hong Kong, Japan, Macau, Mongolia, South Korea, Philippines and Taiwan.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch202_easl.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="202" start="20251009020000 +0000" stop="20251009030000 +0000">
-		<title>Trans World Sport 2025</title>
-		<desc>Trans World Sport is a weekly one-hour sports anthology programme, bringing you a collection of the latest news and features some of the most famous and amazing events in world sport.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch202_trans_world_sport.jpg?w=341&amp;h=192" />
-	</programme>
-	<programme channel="202" start="20251009030000 +0000" stop="20251009070000 +0000">
+	<programme channel="202" start="20251009010000 +0000" stop="20251009050000 +0000">
 		<title>PGA Tour 2025 (Live)</title>
 		<desc>The Baycurrent Classic is the new name for the PGA Tour's annual event in Japan, which began in 2019 as the Zozo Championship. The tournament is co-sanctioned by the PGA Tour and the Japan Golf Tour (JGTO), allowing top players from both tours to compete.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch202_pga_tour.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="202" start="20251009050000 +0000" stop="20251009060000 +0000">
+		<title>UFC Main Event 2025 UFC 302: Makhachev vs Poirier</title>
+		<desc>Before you see a memorable bout, UFC Main Event lets you delve into the lives of its athletes and their mindsets going into the Octagon.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch202_ufc.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="202" start="20251009060000 +0000" stop="20251009070000 +0000">
+		<title>Trans World Sport 2025</title>
+		<desc>Trans World Sport is a weekly one-hour sports anthology programme, bringing you a collection of the latest news and features some of the most famous and amazing events in world sport.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch202_trans_world_sport.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="202" start="20251009070000 +0000" stop="20251009110000 +0000">
 		<title>HSBC BWF World Tour 2025 (Live)</title>
@@ -10533,6 +10558,11 @@
 	</programme>
 	<programme channel="204" start="20251008232500 +0000" stop="20251009002500 +0000">
 		<title>ICC Women's Cricket World Cup 2025: M07 - New Zealand vs South Africa HLs</title>
+		<desc>The 2025 ICC Women's Cricket World Cup will be the 13th edition of Women's Cricket World Cup. It is scheduled to be hosted in India, their fourth tournament after the 1978, 1997, and 2013 editions, and Sri Lanka, their first tournament. This will be the last time that the tournament will have eight teams. Australia are the defending champions, having won their seventh title in 2022.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ICCWCWC2025.jpg?w=960&amp;h=540" />
+	</programme>
+	<programme channel="204" start="20251009002500 +0000" stop="20251009080000 +0000">
+		<title>ICC Women's Cricket World Cup 2025: M08 - England vs Bangladesh</title>
 		<desc>The 2025 ICC Women's Cricket World Cup will be the 13th edition of Women's Cricket World Cup. It is scheduled to be hosted in India, their fourth tournament after the 1978, 1997, and 2013 editions, and Sri Lanka, their first tournament. This will be the last time that the tournament will have eight teams. Australia are the defending champions, having won their seventh title in 2022.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ICCWCWC2025.jpg?w=960&amp;h=540" />
 	</programme>
@@ -10819,7 +10849,7 @@
 	<programme channel="210" start="20251007162500 +0000" stop="20251007180000 +0000">
 		<title>MotoGP 2025 Round 18- Pertamina Grand Prix of Indonesia</title>
 		<desc>The 2025 MotoGP sees 22 of the world’s best riders battle on 1000cc prototype machines, delivering over 250hp and reaching speeds of 360kph across 22 thrilling Grands Prix in 18 countries.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch210_motogp.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch210_motorsports.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="210" start="20251007180000 +0000" stop="20251007200800 +0000">
 		<title>2025 Extreme E: Desert X Prix The Final Lap, Saudi Arabia</title>
@@ -10827,7 +10857,7 @@
 		<icon src="https://poster.starhubgo.com/poster/ch210_motorsports.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="210" start="20251007200800 +0000" stop="20251007230000 +0000">
-		<title>MLB 2025 Postseason - ALDS Game 3 Detroit Tigers vs Seattle Mariners (Live)</title>
+		<title>MLB 2025 Postseason - ALDS Game 3 Detroit Tigers vs Seattle Mariners</title>
 		<desc>The road to the World Series begins! Watch baseball’s top teams battle it out in the ultimate test of skill, strategy, and endurance. Every pitch, every swing, every moment counts.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_baseball.jpg?w=960&amp;h=540" />
 	</programme>
@@ -10837,7 +10867,7 @@
 		<icon src="https://poster.starhubgo.com/poster/ch210_golf.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="210" start="20251008000800 +0000" stop="20251008030000 +0000">
-		<title>MLB 2025 Postseason - ALDS Game 3 New York Yankees vs Toronto Blue Jays (Live)</title>
+		<title>MLB 2025 Postseason - ALDS Game 3 New York Yankees vs Toronto Blue Jays</title>
 		<desc>The road to the World Series begins! Watch baseball’s top teams battle it out in the ultimate test of skill, strategy, and endurance. Every pitch, every swing, every moment counts.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_baseball.jpg?w=960&amp;h=540" />
 	</programme>
@@ -10849,7 +10879,7 @@
 	<programme channel="210" start="20251008033000 +0000" stop="20251008043000 +0000">
 		<title>WorldSBK: Rd10 Tissot Aragon Round</title>
 		<desc>The FIM Superbike World Championship is the leading production motorcycle racing series in the world with over 100 riders from more than 20 countries competing in various classes over 12 rounds.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch210_sbk_motul.jpg?w=960&amp;h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch210_motorsports.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="210" start="20251008043000 +0000" stop="20251008053500 +0000">
 		<title>2025 Extreme E: Desert X Prix The Final Lap, Saudi Arabia</title>
@@ -10864,22 +10894,22 @@
 	<programme channel="210" start="20251008070000 +0000" stop="20251008074500 +0000">
 		<title>MotoGP 2025 Round 18- Pertamina Grand Prix of Indonesia</title>
 		<desc>The 2025 MotoGP sees 22 of the world’s best riders battle on 1000cc prototype machines, delivering over 250hp and reaching speeds of 360kph across 22 thrilling Grands Prix in 18 countries.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch210_motogp.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch210_motorsports.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="210" start="20251008074500 +0000" stop="20251008082500 +0000">
 		<title>MotoGP 2025 Round 18- Pertamina Grand Prix of Indonesia</title>
 		<desc>The 2025 MotoGP sees 22 of the world’s best riders battle on 1000cc prototype machines, delivering over 250hp and reaching speeds of 360kph across 22 thrilling Grands Prix in 18 countries.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch210_motogp.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch210_motorsports.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="210" start="20251008082500 +0000" stop="20251008090500 +0000">
 		<title>MotoGP 2025 Round 18- Pertamina Grand Prix of Indonesia</title>
 		<desc>The 2025 MotoGP sees 22 of the world’s best riders battle on 1000cc prototype machines, delivering over 250hp and reaching speeds of 360kph across 22 thrilling Grands Prix in 18 countries.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch210_motogp.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch210_motorsports.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="210" start="20251008090500 +0000" stop="20251008102000 +0000">
 		<title>MotoGP 2025 Round 18- Pertamina Grand Prix of Indonesia</title>
 		<desc>The 2025 MotoGP sees 22 of the world’s best riders battle on 1000cc prototype machines, delivering over 250hp and reaching speeds of 360kph across 22 thrilling Grands Prix in 18 countries.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch210_motogp.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch210_motorsports.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="210" start="20251008102000 +0000" stop="20251008111500 +0000">
 		<title>2025 Asian Tour: Jakarta International Championship</title>
@@ -10889,22 +10919,27 @@
 	<programme channel="210" start="20251008111500 +0000" stop="20251008121500 +0000">
 		<title>MotoGP 2025 Round 18- Pertamina Grand Prix of Indonesia</title>
 		<desc>The 2025 MotoGP sees 22 of the world’s best riders battle on 1000cc prototype machines, delivering over 250hp and reaching speeds of 360kph across 22 thrilling Grands Prix in 18 countries.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch210_motogp.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch210_motorsports.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="210" start="20251008121500 +0000" stop="20251008131500 +0000">
 		<title>MotoGP 2025 Round 18- Pertamina Grand Prix of Indonesia</title>
 		<desc>The 2025 MotoGP sees 22 of the world’s best riders battle on 1000cc prototype machines, delivering over 250hp and reaching speeds of 360kph across 22 thrilling Grands Prix in 18 countries.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch210_motogp.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch210_motorsports.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="210" start="20251008131500 +0000" stop="20251008143000 +0000">
 		<title>MotoGP 2025 Round 18- Pertamina Grand Prix of Indonesia</title>
 		<desc>The 2025 MotoGP sees 22 of the world’s best riders battle on 1000cc prototype machines, delivering over 250hp and reaching speeds of 360kph across 22 thrilling Grands Prix in 18 countries.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch210_motogp.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch210_motorsports.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="210" start="20251008143000 +0000" stop="20251008180000 +0000">
+	<programme channel="210" start="20251008143000 +0000" stop="20251008170000 +0000">
 		<title>MLB 2025 Postseason - ALDS Game 3 Detroit Tigers vs Seattle Mariners</title>
 		<desc>The road to the World Series begins! Watch baseball’s top teams battle it out in the ultimate test of skill, strategy, and endurance. Every pitch, every swing, every moment counts.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_baseball.jpg?w=960&amp;h=540" />
+	</programme>
+	<programme channel="210" start="20251008170000 +0000" stop="20251008180000 +0000">
+		<title>MotoGP 2025 Round 18- Pertamina Grand Prix of Indonesia</title>
+		<desc>The 2025 MotoGP sees 22 of the world’s best riders battle on 1000cc prototype machines, delivering over 250hp and reaching speeds of 360kph across 22 thrilling Grands Prix in 18 countries.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch210_motorsports.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="210" start="20251008180000 +0000" stop="20251008210800 +0000">
 		<title>2025 World Archery Para Championships, Gwangju (KOR)</title>
@@ -10912,7 +10947,7 @@
 		<icon src="https://poster.starhubgo.com/poster/ch210_spotv2_logo.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="210" start="20251008210800 +0000" stop="20251009000000 +0000">
-		<title>MLB 2025 Postseason - NLDS Game 3 Chicago Cubs vs Milwaukee Brewers (Live)</title>
+		<title>MLB 2025 Postseason - NLDS Game 3 Chicago Cubs vs Milwaukee Brewers</title>
 		<desc>The road to the World Series begins! Watch baseball’s top teams battle it out in the ultimate test of skill, strategy, and endurance. Every pitch, every swing, every moment counts.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_baseball.jpg?w=960&amp;h=540" />
 	</programme>
@@ -10922,14 +10957,14 @@
 		<icon src="https://poster.starhubgo.com/poster/ch210_motorsports.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="210" start="20251009010800 +0000" stop="20251009040000 +0000">
-		<title>MLB 2025 Postseason - NLDS Game 3 Los Angeles Dodgers vs Philadelphia Phillies (</title>
+		<title>MLB 2025 Postseason - NLDS Game 3 Los Angeles Dodgers vs Philadelphia Phillies</title>
 		<desc>The road to the World Series begins! Watch baseball’s top teams battle it out in the ultimate test of skill, strategy, and endurance. Every pitch, every swing, every moment counts.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_baseball.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="210" start="20251009040000 +0000" stop="20251009050000 +0000">
 		<title>MotoGP eSports Championship 2025 - Global Series</title>
 		<desc>MotoGP eSport Championship returns with the 2025 edition promises new features and more thrills than ever.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch210_spotv2_logo.jpg?w=960&amp;h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch210_motorsports.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="210" start="20251009050000 +0000" stop="20251009053500 +0000">
 		<title>SailGP: Racing on the Edge</title>
@@ -10954,27 +10989,27 @@
 	<programme channel="210" start="20251009093000 +0000" stop="20251009095500 +0000">
 		<title>2025 MotoGP Spotlight: Marc Marquez Comeback</title>
 		<desc>Recap the action and behind-the-scenes moments in MotoGP 2025 season so far.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch210_motogp.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch210_motorsports.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="210" start="20251009095500 +0000" stop="20251009104500 +0000">
 		<title>MotoGP 2025 Round 18- Pertamina Grand Prix of Indonesia</title>
 		<desc>The 2025 MotoGP sees 22 of the world’s best riders battle on 1000cc prototype machines, delivering over 250hp and reaching speeds of 360kph across 22 thrilling Grands Prix in 18 countries.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch210_motogp.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch210_motorsports.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="210" start="20251009104500 +0000" stop="20251009115500 +0000">
 		<title>MotoGP 2025 Round 18- Pertamina Grand Prix of Indonesia</title>
 		<desc>The 2025 MotoGP sees 22 of the world’s best riders battle on 1000cc prototype machines, delivering over 250hp and reaching speeds of 360kph across 22 thrilling Grands Prix in 18 countries.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch210_motogp.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch210_motorsports.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="210" start="20251009115500 +0000" stop="20251009131000 +0000">
 		<title>MotoGP 2025 Round 18- Pertamina Grand Prix of Indonesia</title>
 		<desc>The 2025 MotoGP sees 22 of the world’s best riders battle on 1000cc prototype machines, delivering over 250hp and reaching speeds of 360kph across 22 thrilling Grands Prix in 18 countries.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch210_motogp.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch210_motorsports.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="210" start="20251009131000 +0000" stop="20251009153000 +0000">
 		<title>MotoGP 2025 Round 18- Pertamina Grand Prix of Indonesia</title>
 		<desc>The 2025 MotoGP sees 22 of the world’s best riders battle on 1000cc prototype machines, delivering over 250hp and reaching speeds of 360kph across 22 thrilling Grands Prix in 18 countries.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch210_motogp.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch210_motorsports.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="210" start="20251009153000 +0000" stop="20251009170000 +0000">
 		<title>SailGP S5: Spain, Cádiz</title>
@@ -24327,12 +24362,12 @@
 		<icon src="https://poster.starhubgo.com/poster/ch241_Outnumbered.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="702" start="20251007170000 +0000" stop="20251007180000 +0000">
-		<title>America Reports Fox News Live</title>
+		<title>America Reports FOX News Live</title>
 		<desc>For the latest news, expert analyses and special reports from across the globe, stay tuned for more top quality news programmes right here!</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch241_AmericaReportsFOXNewsLive.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="702" start="20251007180000 +0000" stop="20251007190000 +0000">
-		<title>America Reports Fox News Live</title>
+		<title>America Reports FOX News Live</title>
 		<desc>For the latest news, expert analyses and special reports from across the globe, stay tuned for more top quality news programmes right here!</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch241_AmericaReportsFOXNewsLive.jpg?w=341&amp;h=192" />
 	</programme>
@@ -24497,7 +24532,7 @@
 		<icon src="https://poster.starhubgo.com/poster/ch241_Gutfeld.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="702" start="20251009030000 +0000" stop="20251009040000 +0000">
-		<title>Fox News @Night</title>
+		<title>FOX News @Night</title>
 		<desc>Shannon Bream gives news analysis on the most compelling stories</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch241_FOXNewsNight.jpg?w=341&amp;h=192" />
 	</programme>
@@ -24527,32 +24562,32 @@
 		<icon src="https://poster.starhubgo.com/poster/ch241_TheIngrahamAngle.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="702" start="20251009090000 +0000" stop="20251009100000 +0000">
-		<title>Fox &amp; Friends First</title>
+		<title>FOX &amp; Friends First</title>
 		<desc>FOX &amp; Friends First delivers headlines viewers may have missed overnight, along with a preview of the day ahead by covering the latest news in politics, business and entertainment.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch241_FOXFriendsFirst.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="702" start="20251009100000 +0000" stop="20251009110000 +0000">
-		<title>Fox &amp; Friends</title>
+		<title>FOX &amp; Friends</title>
 		<desc>Ainsley Earhardt, Steve Doocy and Brian Kilmeade highlight the latest in news, weather, sports and entertainment</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch241_FOXFriends.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="702" start="20251009110000 +0000" stop="20251009120000 +0000">
-		<title>Fox &amp; Friends</title>
+		<title>FOX &amp; Friends</title>
 		<desc>Ainsley Earhardt, Steve Doocy and Brian Kilmeade highlight the latest in news, weather, sports and entertainment</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch241_FOXFriends.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="702" start="20251009120000 +0000" stop="20251009130000 +0000">
-		<title>Fox &amp; Friends</title>
+		<title>FOX &amp; Friends</title>
 		<desc>Ainsley Earhardt, Steve Doocy and Brian Kilmeade highlight the latest in news, weather, sports and entertainment</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch241_FOXFriends.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="702" start="20251009130000 +0000" stop="20251009140000 +0000">
-		<title>America's Newsroom Fox News Live</title>
+		<title>America's Newsroom FOX News Live</title>
 		<desc>For the latest news, expert analyses and special reports from across the globe, stay tuned for more top quality news programmes right here!</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch241_AmericasNewsroomFOXNewsLive.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="702" start="20251009140000 +0000" stop="20251009150000 +0000">
-		<title>America's Newsroom Fox News Live</title>
+		<title>America's Newsroom FOX News Live</title>
 		<desc>For the latest news, expert analyses and special reports from across the globe, stay tuned for more top quality news programmes right here!</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch241_AmericasNewsroomFOXNewsLive.jpg?w=341&amp;h=192" />
 	</programme>
@@ -35648,17 +35683,17 @@
 	</programme>
 	<programme channel="995" start="20251008000000 +0000" stop="20251008030000 +0000">
 		<title>NFL 2025/26 Minnesota Vikings vs Cleveland Browns</title>
-		<desc>Follow us for the thrilling 2025/26 NFL season as teams battle for glory. The Philadelphia Eagles defend their Super Bowl crown, facing fierce rivals and rising stars in America’s ultimate football showdown.</desc>
+		<desc>Follow us for the thrilling 2025/26 NFL season as teams battle for glory. The Philadelphia Eagles defend their Super Bowl crown, facing fierce rivals and rising stars in America's ultimate football showdown.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch202_nfl_2024_25.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="995" start="20251008030000 +0000" stop="20251008040000 +0000">
 		<title>Pro Bull Riding Teams 2025</title>
-		<desc>High-octane action meets fierce rivalry as elite riders and bulls clash in the Professional Bull Riding Teams, showcasing breathtaking rides, dramatic moments, and the grit behind the sport’s toughest competition.</desc>
+		<desc>High-octane action meets fierce rivalry as elite riders and bulls clash in the Professional Bull Riding Teams, showcasing breathtaking rides, dramatic moments, and the grit behind the sport's toughest competition.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch202_pro_bull_riding.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="995" start="20251008040000 +0000" stop="20251008070000 +0000">
 		<title>NFL 2025/26 New England Patriots vs Buffalo Bills</title>
-		<desc>Follow us for the thrilling 2025/26 NFL season as teams battle for glory. The Philadelphia Eagles defend their Super Bowl crown, facing fierce rivals and rising stars in America’s ultimate football showdown.</desc>
+		<desc>Follow us for the thrilling 2025/26 NFL season as teams battle for glory. The Philadelphia Eagles defend their Super Bowl crown, facing fierce rivals and rising stars in America's ultimate football showdown.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch202_nfl_2024_25.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="995" start="20251008070000 +0000" stop="20251008100000 +0000">
@@ -35683,7 +35718,7 @@
 	</programme>
 	<programme channel="995" start="20251008143000 +0000" stop="20251008150000 +0000">
 		<title>The Greatest of All Time 2025</title>
-		<desc>Sport's eternal debate… who is the Great of All Time? This is a series of programmes for every sport, examining the candidates and their case for 'greatest', and depicting iconic stars, the most influential careers, the most revered champions, across all</desc>
+		<desc>Sport's eternal debate... who is the Great of All Time? This is a series of programmes for every sport, examining the candidates and their case for 'greatest', and depicting iconic stars, the most influential careers, the most revered champions, across all</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch202_the_greatest_of_all_time2025.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="995" start="20251008150000 +0000" stop="20251008160000 +0000">
@@ -35708,7 +35743,7 @@
 	</programme>
 	<programme channel="995" start="20251008210000 +0000" stop="20251008230000 +0000">
 		<title>Singapore Premier League 2025/26 Lion City Sailors FC vs Hougang United FC</title>
-		<desc>Catch the 2025/26 Singapore Premier League as top football clubs battle for glory in Singapore’s premier competition. Defending champions Lion City Sailors return to defend their title in the league’s 8th season since its 2018 rebranding.</desc>
+		<desc>Catch the 2025/26 Singapore Premier League as top football clubs battle for glory in Singapore's premier competition. Defending champions Lion City Sailors return to defend their title in the league's 8th season since its 2018 rebranding.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch202_singapore_premier_league.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="995" start="20251008230000 +0000" stop="20251009010000 +0000">
@@ -35716,15 +35751,20 @@
 		<desc>The 2025/26 East Asia Super League is the third regular season of the League, an international basketball club competition involving 12 teams from Hong Kong, Japan, Macau, Mongolia, South Korea, Philippines and Taiwan.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch202_easl.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="995" start="20251009020000 +0000" stop="20251009030000 +0000">
-		<title>Trans World Sport 2025</title>
-		<desc>Trans World Sport is a weekly one-hour sports anthology programme, bringing you a collection of the latest news and features some of the most famous and amazing events in world sport.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch202_trans_world_sport.jpg?w=341&amp;h=192" />
-	</programme>
-	<programme channel="995" start="20251009030000 +0000" stop="20251009070000 +0000">
+	<programme channel="995" start="20251009010000 +0000" stop="20251009050000 +0000">
 		<title>PGA Tour 2025 (Live)</title>
 		<desc>The Baycurrent Classic is the new name for the PGA Tour's annual event in Japan, which began in 2019 as the Zozo Championship. The tournament is co-sanctioned by the PGA Tour and the Japan Golf Tour (JGTO), allowing top players from both tours to compete.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch202_pga_tour.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="995" start="20251009050000 +0000" stop="20251009060000 +0000">
+		<title>UFC Main Event 2025 UFC 302: Makhachev vs Poirier</title>
+		<desc>Before you see a memorable bout, UFC Main Event lets you delve into the lives of its athletes and their mindsets going into the Octagon.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch202_ufc.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="995" start="20251009060000 +0000" stop="20251009070000 +0000">
+		<title>Trans World Sport 2025</title>
+		<desc>Trans World Sport is a weekly one-hour sports anthology programme, bringing you a collection of the latest news and features some of the most famous and amazing events in world sport.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch202_trans_world_sport.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="995" start="20251009070000 +0000" stop="20251009110000 +0000">
 		<title>HSBC BWF World Tour 2025 (Live)</title>
