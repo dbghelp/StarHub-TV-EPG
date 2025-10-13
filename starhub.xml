@@ -297,7 +297,7 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/432_1920x1080_HTV.png?w=272" />
 	</channel>
 	<channel id="435">
-		<display-name>StarHub</display-name>
+		<display-name>AFN</display-name>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/435_1920x1080_HTV.png?w=272" />
 	</channel>
 	<channel id="437">
@@ -4533,7 +4533,7 @@
 	</programme>
 	<programme channel="128" start="20251012163000 +0000" stop="20251012170000 +0000">
 		<title>Mannat Harr Khushi Paane Ki - EP 217</title>
-		<desc>Chef Mannat's dreams clash with her employer, who is her secret birth mother and nemesis.</desc>
+		<desc>Vishaka poses as Vikrant's surrogate and tricks him and Mannat with a fake illness.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch128_mannat_harr_khushi_paane_ki.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="128" start="20251012170000 +0000" stop="20251012173000 +0000">
@@ -4548,12 +4548,12 @@
 	</programme>
 	<programme channel="128" start="20251012180000 +0000" stop="20251012183000 +0000">
 		<title>Noyontara - EP 125</title>
-		<desc>Noyontara's spirit-seeing gift reveals veiled mysteries and family secrets.</desc>
+		<desc>Noyontara heads to Parimahal, unaware that Surjo signed the divorce papers unders duress.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch128_colors_logo.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="128" start="20251012183000 +0000" stop="20251012190000 +0000">
 		<title>Mannat Harr Khushi Paane Ki - EP 217</title>
-		<desc>Chef Mannat's dreams clash with her employer, who is her secret birth mother and nemesis.</desc>
+		<desc>Vishaka poses as Vikrant's surrogate and tricks him and Mannat with a fake illness.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch128_mannat_harr_khushi_paane_ki.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="128" start="20251012190000 +0000" stop="20251012203000 +0000">
@@ -4578,12 +4578,12 @@
 	</programme>
 	<programme channel="128" start="20251012220000 +0000" stop="20251012223000 +0000">
 		<title>Noyontara - EP 125</title>
-		<desc>Noyontara's spirit-seeing gift reveals veiled mysteries and family secrets.</desc>
+		<desc>Noyontara heads to Parimahal, unaware that Surjo signed the divorce papers unders duress.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch128_colors_logo.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="128" start="20251012223000 +0000" stop="20251012230000 +0000">
 		<title>Mannat Harr Khushi Paane Ki - EP 217</title>
-		<desc>Chef Mannat's dreams clash with her employer, who is her secret birth mother and nemesis.</desc>
+		<desc>Vishaka poses as Vikrant's surrogate and tricks him and Mannat with a fake illness.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch128_mannat_harr_khushi_paane_ki.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="128" start="20251012230000 +0000" stop="20251012233000 +0000">
@@ -4603,7 +4603,7 @@
 	</programme>
 	<programme channel="128" start="20251013010000 +0000" stop="20251013013000 +0000">
 		<title>Noyontara - EP 125</title>
-		<desc>Noyontara's spirit-seeing gift reveals veiled mysteries and family secrets.</desc>
+		<desc>Noyontara heads to Parimahal, unaware that Surjo signed the divorce papers unders duress.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch128_colors_logo.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="128" start="20251013013000 +0000" stop="20251013020000 +0000">
@@ -4618,7 +4618,7 @@
 	</programme>
 	<programme channel="128" start="20251013040000 +0000" stop="20251013043000 +0000">
 		<title>Mannat Harr Khushi Paane Ki - EP 217</title>
-		<desc>Chef Mannat's dreams clash with her employer, who is her secret birth mother and nemesis.</desc>
+		<desc>Vishaka poses as Vikrant's surrogate and tricks him and Mannat with a fake illness.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch128_mannat_harr_khushi_paane_ki.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="128" start="20251013043000 +0000" stop="20251013050000 +0000">
@@ -7322,21 +7322,26 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="141" start="20251012133000 +0000" stop="20251012170000 +0000">
-		<title>MOVIE - INDIAN 2 (U/A)</title>
-		<desc>MOVIE - INDIAN 2 (U/A) Starring Kamal Haasan, Siddharth, Priya Bhavani Shankar</desc>
+		<title>PREMIERE MOVIE - KUDUMBASTAN (U)</title>
+		<desc>PREMIERE MOVIE - KUDUMBASTHAN (U) Starring Manikandan, Saanve Meghana, Guru Somasundaram</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/141_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="141" start="20251012170000 +0000" stop="20251012203000 +0000">
-		<title>MOVIE - SEVAL (U)</title>
-		<desc>MOVIE - SEVAL (U) Starring Bharath, Poonam Bajwa, Simran, Vadivelu</desc>
+	<programme channel="141" start="20251012170000 +0000" stop="20251012193000 +0000">
+		<title>MOVIE - JIIVI (U)</title>
+		<desc>MOVIE - JIIVI (U) Starring Vetri, Karunakaran, Rohini</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/141_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="141" start="20251012203000 +0000" stop="20251012223000 +0000">
-		<title>BREAKFREE MOVIE - CHENNAI KADHAL (U)</title>
-		<desc>BREAKFREE MOVIE - CHENNAI KADHAL (U) Starring Bharath, Genelia</desc>
+	<programme channel="141" start="20251012193000 +0000" stop="20251012203000 +0000">
+		<title>Inthavaara kalakalappu</title>
+		<desc>Back to back Comedy</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/141_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="141" start="20251012223000 +0000" stop="20251013000000 +0000">
+	<programme channel="141" start="20251012203000 +0000" stop="20251012230000 +0000">
+		<title>BREAKFREE MOVIE - ANBE AARUYIREA (V/U)</title>
+		<desc>BREAKFREE MOVIE - ANBE AARUYIREA (V/U) Starring SJ Suryah, Meera Chopra</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/141_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="141" start="20251012230000 +0000" stop="20251013000000 +0000">
 		<title>Songs</title>
 		<desc>Back-To-Back songs</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/141_1920x1080_HTV.png?w=341&amp;h=192" />
@@ -7372,12 +7377,12 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/141_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="141" start="20251013030000 +0000" stop="20251013033000 +0000">
-		<title>Snehithiye - EP 1144</title>
+		<title>Snehithiye - EP 1149</title>
 		<desc>Private Producers Slot</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/141_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="141" start="20251013033000 +0000" stop="20251013040000 +0000">
-		<title>Azhagi - EP 593</title>
+		<title>Azhagi - EP 598</title>
 		<desc>Azhagi is the story of Sundari, 40-year-old widow, who has struggled for the last 20 years with the sole aim of bringing up her children all by herself. The story underscores how this vulnerable yet resilient widow battles the hardships life throws at her.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/141_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
@@ -7387,12 +7392,12 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/141_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="141" start="20251013043000 +0000" stop="20251013050000 +0000">
-		<title>Kolangal - EP 583</title>
+		<title>Kolangal - EP 588</title>
 		<desc>Mega Series of Abinaya, an ambitious woman, strives to succeed in life. However, things take a turn when her half brother, Aadhi, thwarts her efforts and tries to ruin her.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/141_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="141" start="20251013050000 +0000" stop="20251013053000 +0000">
-		<title>Thendral - EP 583</title>
+		<title>Thendral - EP 588</title>
 		<desc>Story of Thulasi's tragic life turns around when Tamizh falls for her and supports her ambitions. However, their relationship must stand the test of time as their families disapprove of their marriage.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/141_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
@@ -7411,14 +7416,9 @@
 		<desc>Live News from Kalaignar TV studio</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/141_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="141" start="20251013080000 +0000" stop="20251013113000 +0000">
-		<title>MOVIE - MALAIKOTTAI (U)</title>
-		<desc>MOVIE - MALAIKOTTAI (U) Starring Vishal, Priyamani</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/141_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="141" start="20251013113000 +0000" stop="20251013120000 +0000">
-		<title>Inthavaara kalakalappu</title>
-		<desc>Back to back Comedy</desc>
+	<programme channel="141" start="20251013080000 +0000" stop="20251013120000 +0000">
+		<title>MOVIE - DASAVATHARAM (U)</title>
+		<desc>MOVIE - DASAVATHARAM (U) Starring Kamal Haasan, Asin, Mallika Sherawat, MS Bhaskar</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/141_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="141" start="20251013120000 +0000" stop="20251013123000 +0000">
@@ -7427,33 +7427,33 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/141_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="141" start="20251013123000 +0000" stop="20251013133000 +0000">
-		<title>Katrathu Samayal Season 7 - EP 60</title>
+		<title>Katrathu Samayal Season 7 - EP 65</title>
 		<desc>Cookery Show</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/141_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="141" start="20251013133000 +0000" stop="20251013140000 +0000">
-		<title>Kaathuvaakula Rendu Kaadhal - EP 36</title>
+		<title>Kaathuvaakula Rendu Kaadhal - EP 42</title>
 		<desc>A Mega Serial of A loyal jeweller torn between love, manipulation, and duty, Saravanan is forced into a marriage that destroys his true relationship, only to later face a heart-wrenching choice between his past, his present, and his future.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/141_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="141" start="20251013140000 +0000" stop="20251013143000 +0000">
-		<title>Rudhra - EP 6</title>
+		<title>Rudhra - EP 12</title>
 		<desc>Story of a woman with a hidden past moves to Chennai with her young daughter, unraveling mysteries, suspense, and unexpected alliances in a gripping family-thriller drama.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/141_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="141" start="20251013143000 +0000" stop="20251013150000 +0000">
-		<title>Gauri - EP 528</title>
+		<title>Gauri - EP 534</title>
 		<desc>A devotional mega series of Gauri is a child blessed by Goddess masani in maraiyanur village, two zameens of that village plans to kill gauri for their development, Finally what happened to guari and thet zameen is story</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/141_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="141" start="20251013150000 +0000" stop="20251013160000 +0000">
-		<title>Unmai Vellum Season 2 - EP 25</title>
+		<title>Unmai Vellum Season 2 - EP 30</title>
 		<desc>Unmai Vellum is a reality talk show that uncovers real-life emotional truths and seeks resolution through honest conversations hosted by Lakshmi Ramakrishnan</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/141_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="141" start="20251013160000 +0000" stop="20251013193000 +0000">
-		<title>MOVIE - PERUMAL (U)</title>
-		<desc>MOVIE - PERUMAL (U) Starring Sundar C,Meenakshi, Vivek</desc>
+		<title>MOVIE - VEYIL (U)</title>
+		<desc>MOVIE - VEYIL (U) Starring Bharath, Bhavana, Pasupathy, Shriya Reddy</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/141_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="141" start="20251013193000 +0000" stop="20251013203000 +0000">
@@ -7461,12 +7461,12 @@
 		<desc>Back to back Comedy</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/141_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="141" start="20251013203000 +0000" stop="20251013230000 +0000">
-		<title>BREAKFREE MOVIE - KANTHA KOTTAI (U/A)</title>
-		<desc>BREAKFREE MOVIE - KANTHA KOTTAI (U/A) Starring Nakhul, Poorna</desc>
+	<programme channel="141" start="20251013203000 +0000" stop="20251013233000 +0000">
+		<title>BREAKFREE MOVIE - KALAVADIYA POZHUTHUGAL (U)</title>
+		<desc>BREAKFREE MOVIE - KALAVADIYA POZHUTHUGAL (U) Starring Prabudeva, Bhumika, Prakashraj</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/141_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="141" start="20251013230000 +0000" stop="20251014000000 +0000">
+	<programme channel="141" start="20251013233000 +0000" stop="20251014000000 +0000">
 		<title>Songs</title>
 		<desc>Back-To-Back songs</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/141_1920x1080_HTV.png?w=341&amp;h=192" />
@@ -7502,12 +7502,12 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/141_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="141" start="20251014030000 +0000" stop="20251014033000 +0000">
-		<title>Snehithiye - EP 1145</title>
+		<title>Snehithiye - EP 1150</title>
 		<desc>Private Producers Slot</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/141_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="141" start="20251014033000 +0000" stop="20251014040000 +0000">
-		<title>Azhagi - EP 594</title>
+		<title>Azhagi - EP 599</title>
 		<desc>Azhagi is the story of Sundari, 40-year-old widow, who has struggled for the last 20 years with the sole aim of bringing up her children all by herself. The story underscores how this vulnerable yet resilient widow battles the hardships life throws at her.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/141_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
@@ -7517,12 +7517,12 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/141_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="141" start="20251014043000 +0000" stop="20251014050000 +0000">
-		<title>Kolangal - EP 584</title>
+		<title>Kolangal - EP 589</title>
 		<desc>Mega Series of Abinaya, an ambitious woman, strives to succeed in life. However, things take a turn when her half brother, Aadhi, thwarts her efforts and tries to ruin her.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/141_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="141" start="20251014050000 +0000" stop="20251014053000 +0000">
-		<title>Thendral - EP 584</title>
+		<title>Thendral - EP 589</title>
 		<desc>Story of Thulasi's tragic life turns around when Tamizh falls for her and supports her ambitions. However, their relationship must stand the test of time as their families disapprove of their marriage.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/141_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
@@ -7541,12 +7541,12 @@
 		<desc>Live News from Kalaignar TV studio</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/141_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="141" start="20251014080000 +0000" stop="20251014110000 +0000">
-		<title>MOVIE - PANDI (U)</title>
-		<desc>MOVIE - PANDI (U) Starring Raghava Lawrence, Sneha, Nassar, Saranya Ponvannan</desc>
+	<programme channel="141" start="20251014080000 +0000" stop="20251014113000 +0000">
+		<title>MOVIE - SILAMBATTAM (U/A)</title>
+		<desc>MOVIE - SILAMBATTAM (U/A) Starring Silambarasan TR, Sana Khan, Sneha, Santhanam, Prabhu</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/141_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="141" start="20251014110000 +0000" stop="20251014120000 +0000">
+	<programme channel="141" start="20251014113000 +0000" stop="20251014120000 +0000">
 		<title>Inthavaara kalakalappu</title>
 		<desc>Back to back Comedy</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/141_1920x1080_HTV.png?w=341&amp;h=192" />
@@ -7557,27 +7557,27 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/141_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="141" start="20251014123000 +0000" stop="20251014133000 +0000">
-		<title>Katrathu Samayal Season 7 - EP 61</title>
+		<title>Katrathu Samayal Season 7 - EP 66</title>
 		<desc>Cookery Show</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/141_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="141" start="20251014133000 +0000" stop="20251014140000 +0000">
-		<title>Kaathuvaakula Rendu Kaadhal - EP 37</title>
+		<title>Kaathuvaakula Rendu Kaadhal - EP 43</title>
 		<desc>A Mega Serial of A loyal jeweller torn between love, manipulation, and duty, Saravanan is forced into a marriage that destroys his true relationship, only to later face a heart-wrenching choice between his past, his present, and his future.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/141_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="141" start="20251014140000 +0000" stop="20251014143000 +0000">
-		<title>Rudhra - EP 7</title>
+		<title>Rudhra - EP 13</title>
 		<desc>Story of a woman with a hidden past moves to Chennai with her young daughter, unraveling mysteries, suspense, and unexpected alliances in a gripping family-thriller drama.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/141_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="141" start="20251014143000 +0000" stop="20251014150000 +0000">
-		<title>Gauri - EP 529</title>
+		<title>Gauri - EP 535</title>
 		<desc>A devotional mega series of Gauri is a child blessed by Goddess masani in maraiyanur village, two zameens of that village plans to kill gauri for their development, Finally what happened to guari and thet zameen is story</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/141_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="141" start="20251014150000 +0000" stop="20251014160000 +0000">
-		<title>Unmai Vellum Season 2 - EP 26</title>
+		<title>Unmai Vellum Season 2 - EP 31</title>
 		<desc>Unmai Vellum is a reality talk show that uncovers real-life emotional truths and seeks resolution through honest conversations hosted by Lakshmi Ramakrishnan</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/141_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
@@ -9913,7 +9913,7 @@
 	</programme>
 	<programme channel="201" start="20251013231500 +0000" stop="20251014023000 +0000">
 		<title>NFL 2025/26 Buffalo Bills vs Atlanta Falcons (Live)</title>
-		<desc>Follow us for the thrilling 2025/26 NFL season as teams battle for glory. The Philadelphia Eagles defend their Super Bowl crown, facing fierce rivals and rising stars in America’s ultimate football showdown.</desc>
+		<desc>Follow us for the thrilling 2025/26 NFL season as teams battle for glory. The Philadelphia Eagles defend their Super Bowl crown, facing fierce rivals and rising stars in America's ultimate football showdown.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch201_NFL.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="201" start="20251014023000 +0000" stop="20251014033000 +0000">
@@ -10532,34 +10532,34 @@
 		<icon src="https://poster.starhubgo.com/poster/ch210_spotv2_logo.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="210" start="20251012163000 +0000" stop="20251012180000 +0000">
-		<title>SailGP S5: Spain, Cádiz</title>
+		<title>SailGP S5: Spain, Cadiz</title>
 		<desc>Adrenaline-fueled races, legendary global locations, rival national teams and record-breaking speeds. SailGP is the most exciting racing on water - Powered By Nature.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_spotv2_logo.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="210" start="20251012180000 +0000" stop="20251012220000 +0000">
 		<title>2025 World Archery Para Championships, Gwangju (KOR)</title>
-		<desc>World’s best para archers come together to shoot golden arrows with inspiring moments of overcoming physical limitations and challenges.</desc>
+		<desc>World's best para archers come together to shoot golden arrows with inspiring moments of overcoming physical limitations and challenges.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_spotv2_logo.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="210" start="20251012220000 +0000" stop="20251012230000 +0000">
-		<title>SailGP S5: Spain, Cádiz</title>
+		<title>SailGP S5: Spain, Cadiz</title>
 		<desc>Adrenaline-fueled races, legendary global locations, rival national teams and record-breaking speeds. SailGP is the most exciting racing on water - Powered By Nature.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_spotv2_logo.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="210" start="20251012230000 +0000" stop="20251013000300 +0000">
 		<title>MotoGP eSports Championship 2025 - Global Series</title>
 		<desc>MotoGP eSport Championship returns with the 2025 edition promises new features and more thrills than ever.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch210_motorsports.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch210_motogp.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="210" start="20251013000300 +0000" stop="20251013030000 +0000">
-		<title>MLB 2025 Postseason - ALCS Game 1 Toronto Blue Jays vs SEA/DET</title>
-		<desc>The road to the World Series begins! Watch baseball’s top teams battle it out in the ultimate test of skill, strategy, and endurance. Every pitch, every swing, every moment counts.</desc>
+		<title>MLB 2025 Postseason - ALCS Game 1 Toronto Blue Jays vs Seattle Mariners</title>
+		<desc>The road to the World Series begins! Watch baseball's top teams battle it out in the ultimate test of skill, strategy, and endurance. Every pitch, every swing, every moment counts.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_baseball.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="210" start="20251013030000 +0000" stop="20251013033000 +0000">
 		<title>2025 MotoGP Spotlight: Marc Marquez Comeback</title>
 		<desc>Recap the action and behind-the-scenes moments in MotoGP 2025 season so far.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch210_motorsports.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch210_motogp.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="210" start="20251013033000 +0000" stop="20251013043000 +0000">
 		<title>2025 IATC Rd5 indonesia</title>
@@ -10589,97 +10589,77 @@
 	<programme channel="210" start="20251013110000 +0000" stop="20251013120000 +0000">
 		<title>WorldSBK: Rd11 EICMA Estoril Round</title>
 		<desc>The FIM Superbike World Championship is the leading production motorcycle racing series in the world with over 100 riders from more than 20 countries competing in various classes over 12 rounds.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch210_motorsports.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch210_sbk_motul.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="210" start="20251013120000 +0000" stop="20251013131000 +0000">
 		<title>WorldSBK: Rd11 EICMA Estoril Round</title>
 		<desc>The FIM Superbike World Championship is the leading production motorcycle racing series in the world with over 100 riders from more than 20 countries competing in various classes over 12 rounds.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch210_motorsports.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch210_sbk_motul.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="210" start="20251013131000 +0000" stop="20251013141000 +0000">
 		<title>WorldSBK: Rd11 EICMA Estoril Round</title>
 		<desc>The FIM Superbike World Championship is the leading production motorcycle racing series in the world with over 100 riders from more than 20 countries competing in various classes over 12 rounds.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch210_motorsports.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch210_sbk_motul.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="210" start="20251013141000 +0000" stop="20251013153500 +0000">
 		<title>WorldSBK: Rd11 EICMA Estoril Round</title>
 		<desc>The FIM Superbike World Championship is the leading production motorcycle racing series in the world with over 100 riders from more than 20 countries competing in various classes over 12 rounds.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch210_motorsports.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch210_sbk_motul.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="210" start="20251013153500 +0000" stop="20251013200000 +0000">
 		<title>2025 World Archery Para Championships, Gwangju (KOR)</title>
-		<desc>World’s best para archers come together to shoot golden arrows with inspiring moments of overcoming physical limitations and challenges.</desc>
+		<desc>World's best para archers come together to shoot golden arrows with inspiring moments of overcoming physical limitations and challenges.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_spotv2_logo.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="210" start="20251013200000 +0000" stop="20251013210000 +0000">
-		<title>WorldSBK: Rd11 EICMA Estoril Round</title>
-		<desc>The FIM Superbike World Championship is the leading production motorcycle racing series in the world with over 100 riders from more than 20 countries competing in various classes over 12 rounds.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch210_motorsports.jpg?w=341&amp;h=192" />
-	</programme>
-	<programme channel="210" start="20251013210000 +0000" stop="20251013215000 +0000">
-		<title>WorldSBK: Rd11 EICMA Estoril Round</title>
-		<desc>The FIM Superbike World Championship is the leading production motorcycle racing series in the world with over 100 riders from more than 20 countries competing in various classes over 12 rounds.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch210_motorsports.jpg?w=341&amp;h=192" />
-	</programme>
-	<programme channel="210" start="20251013215000 +0000" stop="20251013225000 +0000">
-		<title>WorldSBK: Rd11 EICMA Estoril Round</title>
-		<desc>The FIM Superbike World Championship is the leading production motorcycle racing series in the world with over 100 riders from more than 20 countries competing in various classes over 12 rounds.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch210_motorsports.jpg?w=341&amp;h=192" />
-	</programme>
-	<programme channel="210" start="20251013225000 +0000" stop="20251013235000 +0000">
-		<title>WorldSBK: Rd11 EICMA Estoril Round</title>
-		<desc>The FIM Superbike World Championship is the leading production motorcycle racing series in the world with over 100 riders from more than 20 countries competing in various classes over 12 rounds.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch210_motorsports.jpg?w=341&amp;h=192" />
-	</programme>
-	<programme channel="210" start="20251013235000 +0000" stop="20251014003000 +0000">
-		<title>WorldSBK: Rd11 EICMA Estoril Round</title>
-		<desc>The FIM Superbike World Championship is the leading production motorcycle racing series in the world with over 100 riders from more than 20 countries competing in various classes over 12 rounds.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch210_motorsports.jpg?w=341&amp;h=192" />
-	</programme>
-	<programme channel="210" start="20251014003000 +0000" stop="20251014013000 +0000">
+	<programme channel="210" start="20251013200000 +0000" stop="20251013210300 +0000">
 		<title>MotoGP 2025 Round 18- Pertamina Grand Prix of Indonesia</title>
-		<desc>The 2025 MotoGP sees 22 of the world’s best riders battle on 1000cc prototype machines, delivering over 250hp and reaching speeds of 360kph across 22 thrilling Grands Prix in 18 countries.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch210_motorsports.jpg?w=341&amp;h=192" />
+		<desc>The 2025 MotoGP sees 22 of the world's best riders battle on 1000cc prototype machines, delivering over 250hp and reaching speeds of 360kph across 22 thrilling Grands Prix in 18 countries.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch210_motogp.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="210" start="20251014013000 +0000" stop="20251014030000 +0000">
-		<title>SailGP S5: Spain, Cádiz</title>
-		<desc>Adrenaline-fueled races, legendary global locations, rival national teams and record-breaking speeds. SailGP is the most exciting racing on water - Powered By Nature.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch210_spotv2_logo.jpg?w=960&amp;h=540" />
+	<programme channel="210" start="20251013210300 +0000" stop="20251014000800 +0000">
+		<title>MLB 2025 Postseason - ALCS Game 2 Toronto Blue Jays vs Seattle Mariners</title>
+		<desc>The road to the World Series begins! Watch baseball's top teams battle it out in the ultimate test of skill, strategy, and endurance. Every pitch, every swing, every moment counts.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch210_baseball.jpg?w=960&amp;h=540" />
+	</programme>
+	<programme channel="210" start="20251014000800 +0000" stop="20251014030000 +0000">
+		<title>MLB 2025 Postseason - NLCS Game 1 Milwaukee Brewers vs Los Angeles Dodgers</title>
+		<desc>The road to the World Series begins! Watch baseball's top teams battle it out in the ultimate test of skill, strategy, and endurance. Every pitch, every swing, every moment counts.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch210_baseball.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="210" start="20251014030000 +0000" stop="20251014040000 +0000">
 		<title>WorldSBK: Rd11 EICMA Estoril Round</title>
 		<desc>The FIM Superbike World Championship is the leading production motorcycle racing series in the world with over 100 riders from more than 20 countries competing in various classes over 12 rounds.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch210_motorsports.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch210_sbk_motul.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="210" start="20251014040000 +0000" stop="20251014093000 +0000">
 		<title>T100 Triathlon - Spain</title>
-		<desc>40 of the world’s best female and male professional triathletes battle over 8 breakneck 100km races in iconic locations around the globe in a bid to be crowned the first-ever T100 World Champions.</desc>
+		<desc>40 of the world's best female and male professional triathletes battle over 8 breakneck 100km races in iconic locations around the globe in a bid to be crowned the first-ever T100 World Champions.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_spotv2_logo.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="210" start="20251014093000 +0000" stop="20251014103000 +0000">
 		<title>WorldSBK: Rd11 EICMA Estoril Round</title>
 		<desc>The FIM Superbike World Championship is the leading production motorcycle racing series in the world with over 100 riders from more than 20 countries competing in various classes over 12 rounds.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch210_motorsports.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch210_sbk_motul.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="210" start="20251014103000 +0000" stop="20251014112000 +0000">
 		<title>WorldSBK: Rd11 EICMA Estoril Round</title>
 		<desc>The FIM Superbike World Championship is the leading production motorcycle racing series in the world with over 100 riders from more than 20 countries competing in various classes over 12 rounds.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch210_motorsports.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch210_sbk_motul.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="210" start="20251014112000 +0000" stop="20251014122000 +0000">
 		<title>WorldSBK: Rd11 EICMA Estoril Round</title>
 		<desc>The FIM Superbike World Championship is the leading production motorcycle racing series in the world with over 100 riders from more than 20 countries competing in various classes over 12 rounds.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch210_motorsports.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch210_sbk_motul.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="210" start="20251014122000 +0000" stop="20251014132000 +0000">
 		<title>WorldSBK: Rd11 EICMA Estoril Round</title>
 		<desc>The FIM Superbike World Championship is the leading production motorcycle racing series in the world with over 100 riders from more than 20 countries competing in various classes over 12 rounds.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch210_motorsports.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch210_sbk_motul.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="210" start="20251014132000 +0000" stop="20251014140000 +0000">
 		<title>WorldSBK: Rd11 EICMA Estoril Round</title>
 		<desc>The FIM Superbike World Championship is the leading production motorcycle racing series in the world with over 100 riders from more than 20 countries competing in various classes over 12 rounds.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch210_motorsports.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch210_sbk_motul.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="210" start="20251014140000 +0000" stop="20251014180000 +0000">
 		<title>2025 FIM ARRC Round 5: Malaysia</title>
@@ -10951,27 +10931,27 @@
 		<desc>Catch all the non-stop tumbling action from the European Truck Racing Championships, packed into a 30-mins thrilling highlight program</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch213_fia_european_truck_racing_championship_highlights.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="213" start="20251013090000 +0000" stop="20251013093000 +0000">
-		<title>FIA European Rally Championship Highlights 2025</title>
-		<desc>Enjoy highlights from the 73rd season of the European Rally Championship</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch213_fia_european_rally_championship_highlights.jpg?w=960&amp;h=540" />
+	<programme channel="213" start="20251013090000 +0000" stop="20251013091000 +0000">
+		<title>LaLiga Goals Galore 2024/25</title>
+		<desc>Relive every goal from the best players in 2024/25 season.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch213_laliga_goals_galore.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="213" start="20251013093000 +0000" stop="20251013103000 +0000">
+	<programme channel="213" start="20251013091000 +0000" stop="20251013101000 +0000">
 		<title>DTM Highlights 2025</title>
 		<desc>Catch the highlights from every round of the 2025 DTM.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch213_dtm_highlights.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="213" start="20251013103000 +0000" stop="20251013120000 +0000">
+	<programme channel="213" start="20251013101000 +0000" stop="20251013115500 +0000">
 		<title>LFCTV Classic 2025/26: Liverpool vs Man United PL 2022/23</title>
 		<desc>Enjoy every Liverpool classic encounters from LFCTV on beIN SPORTS</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch213_lfctv_classic.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="213" start="20251013120000 +0000" stop="20251013130000 +0000">
+	<programme channel="213" start="20251013115500 +0000" stop="20251013125500 +0000">
 		<title>LFCTV Specials 2025/26</title>
 		<desc>Enjoy documentaries and other special programming from LFCTV on beIN SPORTS</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch213_ligue1_specials.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="213" start="20251013130000 +0000" stop="20251013133000 +0000">
+	<programme channel="213" start="20251013125500 +0000" stop="20251013133000 +0000">
 		<title>LFC Trending 2025/26</title>
 		<desc>The official LFCTV weekly magazine program featuring news, stories, videos and social media highlights from across Liverpool football club, its players and supporters</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch213_lfc_trending.jpg?w=960&amp;h=540" />
