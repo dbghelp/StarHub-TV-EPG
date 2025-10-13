@@ -10221,17 +10221,17 @@
 		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_Channels2/204_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="204" start="20251013220000 +0000" stop="20251013230000 +0000">
+	<programme channel="204" start="20251013220000 +0000" stop="20251013223500 +0000">
 		<title>End of Transmission</title>
 		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_Channels2/204_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="204" start="20251013230000 +0000" stop="20251014000000 +0000">
+	<programme channel="204" start="20251013223500 +0000" stop="20251013233500 +0000">
 		<title>ICC Women's Cricket World Cup 2025: M12 - England vs Sri Lanka HLs</title>
 		<desc>The 2025 ICC Women's Cricket World Cup will be the 13th edition of Women's Cricket World Cup. It is scheduled to be hosted in India, their fourth tournament after the 1978, 1997, and 2013 editions, and Sri Lanka, their first tournament. This will be the last time that the tournament will have eight teams. Australia are the defending champions, having won their seventh title in 2022.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ICCWCWC2025.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="204" start="20251014000000 +0000" stop="20251014080000 +0000">
+	<programme channel="204" start="20251013233500 +0000" stop="20251014080000 +0000">
 		<title>ICC Women's Cricket World Cup 2025: M13 - India vs Australia</title>
 		<desc>The 2025 ICC Women's Cricket World Cup will be the 13th edition of Women's Cricket World Cup. It is scheduled to be hosted in India, their fourth tournament after the 1978, 1997, and 2013 editions, and Sri Lanka, their first tournament. This will be the last time that the tournament will have eight teams. Australia are the defending champions, having won their seventh title in 2022.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ICCWCWC2025.jpg?w=960&amp;h=540" />
@@ -10586,12 +10586,12 @@
 		<desc>Launched in 2022, The International Series is a set of 10 elevated events that form an Asian Tour-sanctioned pathway onto the lucrative LIV Golf League.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_golf.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="210" start="20251013110000 +0000" stop="20251013120000 +0000">
+	<programme channel="210" start="20251013110000 +0000" stop="20251013115500 +0000">
 		<title>WorldSBK: Rd11 EICMA Estoril Round</title>
 		<desc>The FIM Superbike World Championship is the leading production motorcycle racing series in the world with over 100 riders from more than 20 countries competing in various classes over 12 rounds.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_sbk_motul.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="210" start="20251013120000 +0000" stop="20251013131000 +0000">
+	<programme channel="210" start="20251013115500 +0000" stop="20251013131000 +0000">
 		<title>WorldSBK: Rd11 EICMA Estoril Round</title>
 		<desc>The FIM Superbike World Championship is the leading production motorcycle racing series in the world with over 100 riders from more than 20 countries competing in various classes over 12 rounds.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_sbk_motul.jpg?w=341&amp;h=192" />
@@ -26761,15 +26761,10 @@
 		<desc>Daily sports show features major stories and issues making news in the world of sports.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch711_world_sport.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="711" start="20251013070000 +0000" stop="20251013080000 +0000">
+	<programme channel="711" start="20251013070000 +0000" stop="20251013090000 +0000">
 		<title>CNN Newsroom (CNNI)</title>
 		<desc>Live context and clarity to the day's top stories from around the world.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch711_cnn_newsroom.jpg?w=960&amp;h=540" />
-	</programme>
-	<programme channel="711" start="20251013080000 +0000" stop="20251013090000 +0000">
-		<title>The Amanpour Hour</title>
-		<desc>Christiane Amanpour, CNN's chief international anchor, brings valuable insight to the biggest global and domestic news stories of the week.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch711_the_amanpour_hour.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="711" start="20251013090000 +0000" stop="20251013100000 +0000">
 		<title>Early Start with Rahel Solomon</title>
