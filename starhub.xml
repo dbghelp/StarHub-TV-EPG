@@ -1011,6 +1011,11 @@
 		<desc>Dessert Masters sees ten of Australia's greatest pastry chefs, chocolate connoisseurs and baking experts battle it out for $100,000.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
+	<programme channel="102" start="20251016093500 +0000" stop="20251016100000 +0000">
+		<title>Just For Laughs Gags S24 - EP 11</title>
+		<desc>Just For Laughs will tickle everyone's funny bone with its hilarious practical jokes, hidden camera pranks, and other creative hijinks.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
 	<programme channel="102" start="20251016100000 +0000" stop="20251016110000 +0000">
 		<title>Lingo S4 - EP 3</title>
 		<desc>Lingo is the fast paced word-play game that keeps on innovating for new audiences, with its mix of skill, tension, humour and the chance to win big cash prizes. Teams are pitted against each other in a battle to fill in the blanks and find words.</desc>
@@ -1428,7 +1433,7 @@
 	</programme>
 	<programme channel="103" start="20251016143000 +0000" stop="20251016150000 +0000">
 		<title>Focus - EP 21</title>
-		<desc>Focus provides timely reports and analyses on international news and current affairs from Singapore's perspective.</desc>
+		<desc>This year's Nobel Peace Prize has been announced, disappointing US President Trump. What are the criteria for the Nobel Peace Prize? Timor-Leste is about to join ASEAN as a member state. Is Timor-Leste ready? What does this mean for ASEAN and Timor-Leste? In an interview with Focus, Wee Wei Ling, the eldest daughter of the late banker Wee Cho Yaw, shared the life lessons her father taught her.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/103_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="103" start="20251016150000 +0000" stop="20251016160000 +0000">
@@ -2123,7 +2128,7 @@
 	</programme>
 	<programme channel="106" start="20251016130000 +0000" stop="20251016140000 +0000">
 		<title>Insight - EP 24</title>
-		<desc>Insight investigates and analyses topical issues that impact Asia and the rest of the world._x000D_</desc>
+		<desc>HIV cases have increased by 500% in the Philippines. This means the archipelago has the fastest rate of transmission of the virus in Asia Pacific. Some have called it a public health crisis.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="106" start="20251016140000 +0000" stop="20251016150000 +0000">
@@ -10406,22 +10411,22 @@
 		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_Channels2/204_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="204" start="20251015220000 +0000" stop="20251015230000 +0000">
+	<programme channel="204" start="20251015220000 +0000" stop="20251016021500 +0000">
 		<title>End of Transmission</title>
 		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_Channels2/204_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="204" start="20251015230000 +0000" stop="20251016000000 +0000">
+	<programme channel="204" start="20251016021500 +0000" stop="20251016031500 +0000">
 		<title>ICC Women's Cricket World Cup 2025: M14 - South Africa vs Bangladesh HLs</title>
 		<desc>The 2025 ICC Women's Cricket World Cup will be the 13th edition of Women's Cricket World Cup. It is scheduled to be hosted in India, their fourth tournament after the 1978, 1997, and 2013 editions, and Sri Lanka, their first tournament. This will be the last time that the tournament will have eight teams. Australia are the defending champions, having won their seventh title in 2022.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ICCWCWC2025.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="204" start="20251016000000 +0000" stop="20251016080000 +0000">
+	<programme channel="204" start="20251016031500 +0000" stop="20251016083000 +0000">
 		<title>ICC Women's Cricket World Cup 2025: M15 - New Zealand vs Sri Lanka</title>
 		<desc>The 2025 ICC Women's Cricket World Cup will be the 13th edition of Women's Cricket World Cup. It is scheduled to be hosted in India, their fourth tournament after the 1978, 1997, and 2013 editions, and Sri Lanka, their first tournament. This will be the last time that the tournament will have eight teams. Australia are the defending champions, having won their seventh title in 2022.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ICCWCWC2025.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="204" start="20251016080000 +0000" stop="20251016090000 +0000">
+	<programme channel="204" start="20251016083000 +0000" stop="20251016090000 +0000">
 		<title>ICC Women's Cricket World Cup 2025: M15 - New Zealand vs Sri Lanka HLs</title>
 		<desc>The 2025 ICC Women's Cricket World Cup will be the 13th edition of Women's Cricket World Cup. It is scheduled to be hosted in India, their fourth tournament after the 1978, 1997, and 2013 editions, and Sri Lanka, their first tournament. This will be the last time that the tournament will have eight teams. Australia are the defending champions, having won their seventh title in 2022.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ICCWCWC2025.jpg?w=960&amp;h=540" />
@@ -26921,20 +26926,15 @@
 		<desc>Anderson Cooper takes you beyond the headlines with in-depth reporting and investigations.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch711_anderson_cooper360.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="711" start="20251016010000 +0000" stop="20251016020000 +0000">
-		<title>The Source with Kaitlan Collins</title>
-		<desc>Kaitlan Collins goes straight to the source for the best reporting on the day's biggest stories.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch711_the_source.jpg?w=960&amp;h=540" />
+	<programme channel="711" start="20251016010000 +0000" stop="20251016023000 +0000">
+		<title>CNN Town Hall</title>
+		<desc>As the government shutdown continues, Sen. Bernie Sanders and Rep. Alexandria Ocasio-Cortez take questions from a live studio audience on the Democratic strategy and a pathway forward. Kaitlan Collins moderates.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch711_cnn_town_hall.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="711" start="20251016020000 +0000" stop="20251016030000 +0000">
+	<programme channel="711" start="20251016023000 +0000" stop="20251016040000 +0000">
 		<title>CNN NewsNight</title>
 		<desc>Abby Phillip leads a roundtable discussion on the day's biggest stories and issues shaping our world.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch711_cnn_newsnight_with_abby_phillip.jpg?w=341&amp;h=192" />
-	</programme>
-	<programme channel="711" start="20251016030000 +0000" stop="20251016040000 +0000">
-		<title>Laura Coates Live</title>
-		<desc>Laura Coates goes inside the story with a relentless pursuit of the facts.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch711_laura_coates_live.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="711" start="20251016040000 +0000" stop="20251016044500 +0000">
 		<title>CNN Newsroom (CNNI)</title>
@@ -30978,7 +30978,7 @@
 	</programme>
 	<programme channel="812" start="20251015003000 +0000" stop="20251015010000 +0000">
 		<title>Dive in Tokyo</title>
-		<desc>Karuizawa in Nagano Pref. is a mountain town with deep ties to Tokyo. Originally a bustling lodging town, a Western missionary's love for the area paved the way for its rebirth as a summer getaway.</desc>
+		<desc>Karuizawa in Nagano Prefecture is a mountain town with deep ties to Tokyo - once a bustling lodging town, a Western missionary's love for the area paved the way for its rebirth as a summer getaway.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20251015010000 +0000" stop="20251015013000 +0000">
@@ -30988,7 +30988,7 @@
 	</programme>
 	<programme channel="812" start="20251015013000 +0000" stop="20251015014500 +0000">
 		<title>Direct Talk</title>
-		<desc>Nail artist Kawajiri Mei is acclaimed by global fashion icons and artists for her boundless imagination and unique sense of humour. She tells us about the source of her inspiration.</desc>
+		<desc>Nail artist Kawajiri Mei is acclaimed by global fashion icons and artists for her boundless imagination and unique sense of humour - she tells us about the source of her inspiration.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20251015014500 +0000" stop="20251015020000 +0000">
@@ -31013,7 +31013,7 @@
 	</programme>
 	<programme channel="812" start="20251015033000 +0000" stop="20251015040000 +0000">
 		<title>Science View</title>
-		<desc>Discover how Japan's complex geology led to the advancement of bridge construction technology. Plus, research on how nature benefits your wellbeing.</desc>
+		<desc>Discover how Japan's complex geology led to the advancement of bridge construction technology, plus research on how nature benefits our wellbeing.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20251015040000 +0000" stop="20251015043000 +0000">
@@ -31033,7 +31033,7 @@
 	</programme>
 	<programme channel="812" start="20251015053000 +0000" stop="20251015060000 +0000">
 		<title>Dive in Tokyo</title>
-		<desc>Karuizawa in Nagano Pref. is a mountain town with deep ties to Tokyo. Originally a bustling lodging town, a Western missionary's love for the area paved the way for its rebirth as a summer getaway.</desc>
+		<desc>Karuizawa in Nagano Prefecture is a mountain town with deep ties to Tokyo - once a bustling lodging town, a Western missionary's love for the area paved the way for its rebirth as a summer getaway.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20251015060000 +0000" stop="20251015063000 +0000">
@@ -31043,7 +31043,7 @@
 	</programme>
 	<programme channel="812" start="20251015063000 +0000" stop="20251015064500 +0000">
 		<title>Direct Talk</title>
-		<desc>Nail artist Kawajiri Mei is acclaimed by global fashion icons and artists for her boundless imagination and unique sense of humour. She tells us about the source of her inspiration.</desc>
+		<desc>Nail artist Kawajiri Mei is acclaimed by global fashion icons and artists for her boundless imagination and unique sense of humour - she tells us about the source of her inspiration.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20251015064500 +0000" stop="20251015070000 +0000">
@@ -31078,7 +31078,7 @@
 	</programme>
 	<programme channel="812" start="20251015093000 +0000" stop="20251015100000 +0000">
 		<title>Science View</title>
-		<desc>Discover how Japan's complex geology led to the advancement of bridge construction technology. Plus, research on how nature benefits your wellbeing.</desc>
+		<desc>Discover how Japan's complex geology led to the advancement of bridge construction technology, plus research on how nature benefits our wellbeing.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20251015100000 +0000" stop="20251015103000 +0000">
@@ -31088,7 +31088,7 @@
 	</programme>
 	<programme channel="812" start="20251015103000 +0000" stop="20251015110000 +0000">
 		<title>Dive in Tokyo</title>
-		<desc>Karuizawa in Nagano Pref. is a mountain town with deep ties to Tokyo. Originally a bustling lodging town, a Western missionary's love for the area paved the way for its rebirth as a summer getaway.</desc>
+		<desc>Karuizawa in Nagano Prefecture is a mountain town with deep ties to Tokyo - once a bustling lodging town, a Western missionary's love for the area paved the way for its rebirth as a summer getaway.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20251015110000 +0000" stop="20251015112800 +0000">
@@ -31108,7 +31108,7 @@
 	</programme>
 	<programme channel="812" start="20251015114800 +0000" stop="20251015115500 +0000">
 		<title>Hit the Road</title>
-		<desc>To truly enjoy Gunma, travel by car is key. We start from Takasaki, where the bullet train stops, and make our way to Kusatsu hot springs, with world Heritage sites and local food along the way.</desc>
+		<desc>To truly enjoy Gunma, travel by car is key - we start from Takasaki, where a bullet train stops, and make our way to Kusatsu's hot springs with World Heritage Sites and local food along the way.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20251015115500 +0000" stop="20251015120000 +0000">
@@ -31123,7 +31123,7 @@
 	</programme>
 	<programme channel="812" start="20251015123000 +0000" stop="20251015124500 +0000">
 		<title>Direct Talk</title>
-		<desc>Nail artist Kawajiri Mei is acclaimed by global fashion icons and artists for her boundless imagination and unique sense of humour. She tells us about the source of her inspiration.</desc>
+		<desc>Nail artist Kawajiri Mei is acclaimed by global fashion icons and artists for her boundless imagination and unique sense of humour - she tells us about the source of her inspiration.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20251015124500 +0000" stop="20251015130000 +0000">
@@ -31158,7 +31158,7 @@
 	</programme>
 	<programme channel="812" start="20251015153000 +0000" stop="20251015160000 +0000">
 		<title>Dive in Tokyo</title>
-		<desc>Karuizawa in Nagano Pref. is a mountain town with deep ties to Tokyo. Originally a bustling lodging town, a Western missionary's love for the area paved the way for its rebirth as a summer getaway.</desc>
+		<desc>Karuizawa in Nagano Prefecture is a mountain town with deep ties to Tokyo - once a bustling lodging town, a Western missionary's love for the area paved the way for its rebirth as a summer getaway.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20251015160000 +0000" stop="20251015163000 +0000">
@@ -31178,7 +31178,7 @@
 	</programme>
 	<programme channel="812" start="20251015173000 +0000" stop="20251015174500 +0000">
 		<title>Direct Talk</title>
-		<desc>Nail artist Kawajiri Mei is acclaimed by global fashion icons and artists for her boundless imagination and unique sense of humour. She tells us about the source of her inspiration.</desc>
+		<desc>Nail artist Kawajiri Mei is acclaimed by global fashion icons and artists for her boundless imagination and unique sense of humour - she tells us about the source of her inspiration.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20251015174500 +0000" stop="20251015180000 +0000">
@@ -31203,7 +31203,7 @@
 	</programme>
 	<programme channel="812" start="20251015184800 +0000" stop="20251015185500 +0000">
 		<title>Hit the Road</title>
-		<desc>To truly enjoy Gunma, travel by car is key. We start from Takasaki, where the bullet train stops, and make our way to Kusatsu hot springs, with world Heritage sites and local food along the way.</desc>
+		<desc>To truly enjoy Gunma, travel by car is key - we start from Takasaki, where a bullet train stops, and make our way to Kusatsu's hot springs with World Heritage Sites and local food along the way.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20251015185500 +0000" stop="20251015190000 +0000">
@@ -31213,7 +31213,7 @@
 	</programme>
 	<programme channel="812" start="20251015190000 +0000" stop="20251015193000 +0000">
 		<title>Biz Stream</title>
-		<desc>Japan possesses large amounts of usable forestland. This episode focuses on business initiatives that are trying to increase the use of Japanese timber and wood waste.</desc>
+		<desc>Japan possesses large amounts of usable forestland - this episode focuses on business initiatives that are trying to increase the use of Japanese timber and reduce wood waste.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20251015193000 +0000" stop="20251015200000 +0000">
@@ -31238,7 +31238,7 @@
 	</programme>
 	<programme channel="812" start="20251015213000 +0000" stop="20251015220000 +0000">
 		<title>Dive in Tokyo</title>
-		<desc>Karuizawa in Nagano Pref. is a mountain town with deep ties to Tokyo. Originally a bustling lodging town, a Western missionary's love for the area paved the way for its rebirth as a summer getaway.</desc>
+		<desc>Karuizawa in Nagano Prefecture is a mountain town with deep ties to Tokyo - once a bustling lodging town, a Western missionary's love for the area paved the way for its rebirth as a summer getaway.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20251015220000 +0000" stop="20251015223000 +0000">
@@ -31248,7 +31248,7 @@
 	</programme>
 	<programme channel="812" start="20251015223000 +0000" stop="20251015224500 +0000">
 		<title>Direct Talk</title>
-		<desc>Nail artist Kawajiri Mei is acclaimed by global fashion icons and artists for her boundless imagination and unique sense of humour. She tells us about the source of her inspiration.</desc>
+		<desc>Nail artist Kawajiri Mei is acclaimed by global fashion icons and artists for her boundless imagination and unique sense of humour - she tells us about the source of her inspiration.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20251015224500 +0000" stop="20251015230000 +0000">
@@ -33546,42 +33546,47 @@
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20251015150000 +0000" stop="20251015170000 +0000">
+	<programme channel="832" start="20251015150000 +0000" stop="20251015161000 +0000">
 		<title>Ai Romance</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20251015170000 +0000" stop="20251015180000 +0000">
+	<programme channel="832" start="20251015161000 +0000" stop="20251015172000 +0000">
+		<title>Ai Romance</title>
+		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="832" start="20251015172000 +0000" stop="20251015183000 +0000">
 		<title>Dragon TV Primetime News</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20251015180000 +0000" stop="20251015190000 +0000">
-		<title>Future China</title>
+	<programme channel="832" start="20251015183000 +0000" stop="20251015190000 +0000">
+		<title>I LOVE SHANGHAI</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20251015190000 +0000" stop="20251015193000 +0000">
+	<programme channel="832" start="20251015190000 +0000" stop="20251015192000 +0000">
 		<title>Next Station</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20251015193000 +0000" stop="20251015210000 +0000">
-		<title>the city of musicals</title>
+	<programme channel="832" start="20251015192000 +0000" stop="20251015211000 +0000">
+		<title>THE CITY OF MUSICALS</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20251015210000 +0000" stop="20251015220000 +0000">
+	<programme channel="832" start="20251015211000 +0000" stop="20251015221000 +0000">
 		<title>A Green Trip</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20251015220000 +0000" stop="20251015223000 +0000">
+	<programme channel="832" start="20251015221000 +0000" stop="20251015223500 +0000">
 		<title>New Entertainment</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20251015223000 +0000" stop="20251015230000 +0000">
+	<programme channel="832" start="20251015223500 +0000" stop="20251015230000 +0000">
 		<title>CARE ON THE WAY</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
@@ -33623,11 +33628,6 @@
 	</programme>
 	<programme channel="832" start="20251016060000 +0000" stop="20251016063000 +0000">
 		<title>Searching for flavor</title>
-		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="832" start="20251016063000 +0000" stop="20251016070000 +0000">
-		<title>I LOVE SHANGHAI</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
