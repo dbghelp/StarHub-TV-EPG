@@ -1123,7 +1123,7 @@
 	</programme>
 	<programme channel="103" start="20251017123000 +0000" stop="20251017130000 +0000">
 		<title>Frontline - EP 25</title>
-		<desc>Frontline is a weekly investigative current affairs programme that aims to address issues closest to the hearts of Singaporeans.</desc>
+		<desc>Singaporeans are now more open to talking about death but still lack awareness of end-of-life planning. Why do young and healthy individuals begin such preparations, and why did another attend a workshop on death? On average, each Singaporean generates 3.1kg of plastic waste weekly. Should neighbourhood stores charge for single-use plastic bags to curb overconsumption?</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/103_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="103" start="20251017130000 +0000" stop="20251017140000 +0000">
@@ -2246,12 +2246,12 @@
 		<desc>(Dual language Mandarin and Korean) In order to gain Baishan's trust, Jiang Hai sneaks into Gao En's office and steals confidential information on Tian Shan Hua. Later on, Jiang Hai is arrested by the police.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/107_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="107" start="20251017173000 +0000" stop="20251017182500 +0000">
+	<programme channel="107" start="20251017173000 +0000" stop="20251017183000 +0000">
 		<title>Vengeance of the Bride - EP 65</title>
 		<desc>(Dual language Mandarin and Korean) Taifeng decides to divorce Ruiyan after knowing why his father allowed him to marry her. He feels that he can protect her in this way.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/107_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="107" start="20251017182500 +0000" stop="20251018010000 +0000">
+	<programme channel="107" start="20251017183000 +0000" stop="20251018010000 +0000">
 		<title>End of transmission</title>
 		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_channels2/107_1920x1080_HTV.png?w=341&amp;h=192" />
@@ -7427,18 +7427,13 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/141_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="141" start="20251018023000 +0000" stop="20251018033000 +0000">
-		<title>Best of Unmai Vellum</title>
-		<desc>Unmai Vellum is a reality talk show that uncovers real-life emotional truths and seeks resolution through honest conversations hosted by Lakshmi Ramakrishnan</desc>
+		<title>1 HR SPL MOVIE - PAIYAA</title>
+		<desc>Best Scenes from this special movie</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/141_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="141" start="20251018033000 +0000" stop="20251018043000 +0000">
-		<title>Best of Unmai Vellum</title>
-		<desc>Unmai Vellum is a reality talk show that uncovers real-life emotional truths and seeks resolution through honest conversations hosted by Lakshmi Ramakrishnan</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/141_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="141" start="20251018043000 +0000" stop="20251018073000 +0000">
-		<title>MOVIE - IDIOT (U)</title>
-		<desc>MOVIE - IDIOT (U) Starring Mirchi Shiva, Nikki Galrani</desc>
+	<programme channel="141" start="20251018033000 +0000" stop="20251018073000 +0000">
+		<title>MOVIE - SIVAJI (U)</title>
+		<desc>MOVIE - SIVAJI (U) Starring Rajinikanth, Shriya Saran, Vivek, Suman, Manivannan, Raghuvaran</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/141_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="141" start="20251018073000 +0000" stop="20251018080000 +0000">
@@ -7446,9 +7441,14 @@
 		<desc>Live News from Kalaignar TV studio</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/141_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="141" start="20251018080000 +0000" stop="20251018110000 +0000">
-		<title>MOVIE - KAZHUVETHI MOORKKAN (U/A)</title>
-		<desc>MOVIE - KAZHUVETHI MOORKKAN (U/A) Starring Arulnidhi Thamizharasu, Dushara Vijayan, Santhosh Prathap</desc>
+	<programme channel="141" start="20251018080000 +0000" stop="20251018103000 +0000">
+		<title>PREMIERE MOVIE - SUZHAL - THE VORTEX (U/A) SEASON 1 - PART I</title>
+		<desc>PREMIERE MOVIE - SUZHAL - THE VORTEX (U/A) SEASON 1 - PART I Starring Kathir, Aishwarya Rajesh, Parthiban, Shriya Reddy</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/141_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="141" start="20251018103000 +0000" stop="20251018110000 +0000">
+		<title>Inthavaara kalakalappu</title>
+		<desc>Back to back Comedy</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/141_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="141" start="20251018110000 +0000" stop="20251018120000 +0000">
@@ -7463,21 +7463,21 @@
 	</programme>
 	<programme channel="141" start="20251018123000 +0000" stop="20251018133000 +0000">
 		<title>Thamizhodu Vilayaadu Season 3</title>
-		<desc>Best Scenes from this special movie</desc>
+		<desc>Following the success of its first two seasons, Thamizhodu Vilayaadu, the popular Tamil game show, is back with vibrant new rounds and bright young school participants.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/141_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="141" start="20251018133000 +0000" stop="20251018140000 +0000">
-		<title>Kaathuvaakula Rendu Kaadhal - EP 41</title>
+		<title>Kaathuvaakula Rendu Kaadhal - EP 47</title>
 		<desc>A Mega Serial of A loyal jeweller torn between love, manipulation, and duty, Saravanan is forced into a marriage that destroys his true relationship, only to later face a heart-wrenching choice between his past, his present, and his future.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/141_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="141" start="20251018140000 +0000" stop="20251018143000 +0000">
-		<title>Rudhra - EP 11</title>
+		<title>Rudhra - EP 17</title>
 		<desc>Story of a woman with a hidden past moves to Chennai with her young daughter, unraveling mysteries, suspense, and unexpected alliances in a gripping family-thriller drama.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/141_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="141" start="20251018143000 +0000" stop="20251018150000 +0000">
-		<title>Gauri - EP 533</title>
+		<title>Gauri - EP 539</title>
 		<desc>A devotional mega series of Gauri is a child blessed by Goddess masani in maraiyanur village, two zameens of that village plans to kill gauri for their development, Finally what happened to guari and thet zameen is story</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/141_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
@@ -8179,7 +8179,7 @@
 	<programme channel="144" start="20251018141500 +0000" stop="20251018161500 +0000">
 		<title>Tik Tak Toys: My Kolokotoys</title>
 		<desc>Elvis and Presley are two quirky clown performers who entertain shoppers at a bustling mall. Their lives take an unexpected turn when they cross paths with Bullet, a lonely young girl from a wealthy family, and her father, a hardworking tailor.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/144_1920x1080_HTV.png?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch144_tik_tak_toys_my_kolokotoys.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="145" start="20251016160000 +0000" stop="20251016180000 +0000">
 		<title>Ang Mananggal Sa Unit 23b</title>
@@ -11939,12 +11939,12 @@
 	<programme channel="221" start="20251017000000 +0000" stop="20251017003000 +0000">
 		<title>THE BIG INTERVIEW - EP 10</title>
 		<desc>With 97 Premier League goals for some of the biggest clubs in English football, Emmanuel Adebayor was one of Africa's finest footballers to play on these shores. Now, through his SEA Foundation, Adebayor is making a significant impact off the pitch, providing inspiration and opportunity for people in Togo and across the continent.</desc>
-		<icon src="https://poster.starhubgo.com/poster/the_big_interview_V3.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/the_big_interview_2025_26_ep10.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="221" start="20251017003000 +0000" stop="20251017010000 +0000">
 		<title>PL STORIES - EP 20</title>
 		<desc>We sit down with Duncan Ferguson to discuss the fierce, passionate, and often unpredictable career of one of Everton's most legendary figures. From his early days in Scotland to his turbulent arrival in English football, PL Stories focuses on Ferguson's deep bond with the blue half of Merseyside; a connection built on loyalty, grit, and unforgettable moments.</desc>
-		<icon src="https://poster.starhubgo.com/poster/pl_stories_V2.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/pl_stories_2025_26_ep20.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="221" start="20251017010000 +0000" stop="20251017020000 +0000">
 		<title>THE CATCH-UP SHOW - EP 9</title>
@@ -11959,12 +11959,12 @@
 	<programme channel="221" start="20251017040000 +0000" stop="20251017043000 +0000">
 		<title>THE BIG INTERVIEW - EP 10</title>
 		<desc>With 97 Premier League goals for some of the biggest clubs in English football, Emmanuel Adebayor was one of Africa's finest footballers to play on these shores. Now, through his SEA Foundation, Adebayor is making a significant impact off the pitch, providing inspiration and opportunity for people in Togo and across the continent.</desc>
-		<icon src="https://poster.starhubgo.com/poster/the_big_interview_V3.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/the_big_interview_2025_26_ep10.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="221" start="20251017043000 +0000" stop="20251017050000 +0000">
 		<title>PL STORIES - EP 20</title>
 		<desc>We sit down with Duncan Ferguson to discuss the fierce, passionate, and often unpredictable career of one of Everton's most legendary figures. From his early days in Scotland to his turbulent arrival in English football, PL Stories focuses on Ferguson's deep bond with the blue half of Merseyside; a connection built on loyalty, grit, and unforgettable moments.</desc>
-		<icon src="https://poster.starhubgo.com/poster/pl_stories_V2.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/pl_stories_2025_26_ep20.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="221" start="20251017050000 +0000" stop="20251017053000 +0000">
 		<title>NETBUSTERS - EP 7</title>
@@ -11989,12 +11989,12 @@
 	<programme channel="221" start="20251017080000 +0000" stop="20251017083000 +0000">
 		<title>PL STORIES - EP 20</title>
 		<desc>We sit down with Duncan Ferguson to discuss the fierce, passionate, and often unpredictable career of one of Everton's most legendary figures. From his early days in Scotland to his turbulent arrival in English football, PL Stories focuses on Ferguson's deep bond with the blue half of Merseyside; a connection built on loyalty, grit, and unforgettable moments.</desc>
-		<icon src="https://poster.starhubgo.com/poster/pl_stories_V2.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/pl_stories_2025_26_ep20.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="221" start="20251017083000 +0000" stop="20251017090000 +0000">
 		<title>THE BIG INTERVIEW - EP 10</title>
 		<desc>With 97 Premier League goals for some of the biggest clubs in English football, Emmanuel Adebayor was one of Africa's finest footballers to play on these shores. Now, through his SEA Foundation, Adebayor is making a significant impact off the pitch, providing inspiration and opportunity for people in Togo and across the continent.</desc>
-		<icon src="https://poster.starhubgo.com/poster/the_big_interview_V3.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/the_big_interview_2025_26_ep10.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="221" start="20251017090000 +0000" stop="20251017093000 +0000">
 		<title>NETBUSTERS - EP 7</title>
@@ -12029,7 +12029,7 @@
 	<programme channel="221" start="20251017133000 +0000" stop="20251017140000 +0000">
 		<title>THE BIG INTERVIEW - EP 10</title>
 		<desc>With 97 Premier League goals for some of the biggest clubs in English football, Emmanuel Adebayor was one of Africa's finest footballers to play on these shores. Now, through his SEA Foundation, Adebayor is making a significant impact off the pitch, providing inspiration and opportunity for people in Togo and across the continent.</desc>
-		<icon src="https://poster.starhubgo.com/poster/the_big_interview_V3.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/the_big_interview_2025_26_ep10.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="221" start="20251017140000 +0000" stop="20251017143000 +0000">
 		<title>FANTASY SHOW - FRI 17 OCT</title>
@@ -12064,7 +12064,7 @@
 	<programme channel="221" start="20251017183000 +0000" stop="20251017190000 +0000">
 		<title>THE BIG INTERVIEW - EP 10</title>
 		<desc>With 97 Premier League goals for some of the biggest clubs in English football, Emmanuel Adebayor was one of Africa's finest footballers to play on these shores. Now, through his SEA Foundation, Adebayor is making a significant impact off the pitch, providing inspiration and opportunity for people in Togo and across the continent.</desc>
-		<icon src="https://poster.starhubgo.com/poster/the_big_interview_V3.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/the_big_interview_2025_26_ep10.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="221" start="20251017190000 +0000" stop="20251017200000 +0000">
 		<title>FANZONE - FRI 17 OCT</title>
@@ -12084,12 +12084,12 @@
 	<programme channel="221" start="20251017213000 +0000" stop="20251017220000 +0000">
 		<title>PL STORIES - EP 20</title>
 		<desc>We sit down with Duncan Ferguson to discuss the fierce, passionate, and often unpredictable career of one of Everton's most legendary figures. From his early days in Scotland to his turbulent arrival in English football, PL Stories focuses on Ferguson's deep bond with the blue half of Merseyside; a connection built on loyalty, grit, and unforgettable moments.</desc>
-		<icon src="https://poster.starhubgo.com/poster/pl_stories_V2.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/pl_stories_2025_26_ep20.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="221" start="20251017220000 +0000" stop="20251017223000 +0000">
 		<title>THE BIG INTERVIEW - EP 10</title>
 		<desc>With 97 Premier League goals for some of the biggest clubs in English football, Emmanuel Adebayor was one of Africa's finest footballers to play on these shores. Now, through his SEA Foundation, Adebayor is making a significant impact off the pitch, providing inspiration and opportunity for people in Togo and across the continent.</desc>
-		<icon src="https://poster.starhubgo.com/poster/the_big_interview_V3.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/the_big_interview_2025_26_ep10.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="221" start="20251017223000 +0000" stop="20251017233000 +0000">
 		<title>TEAM TALKS - FRI 17 OCT</title>
@@ -12328,7 +12328,7 @@
 	</programme>
 	<programme channel="223" start="20251018135000 +0000" stop="20251018160000 +0000">
 		<title>Crystal Palace vs Bournemouth (MW08) (Live) - EP 74</title>
-		<desc>The 34th season of the Premier League sees Liverpool defend its title against a host of teams keen for glory themselves. 20 teams are in the mix but only 1 champion will emerge ultimately.</desc>
+		<desc>Antoine Semenyo has scored (10) or assisted (4) 14 of Bournemouth’s last 18 Premier League goals (78%). Since the start of this period (14th April), this is at least three more goal involvements than any other player in the division.</desc>
 		<icon src="https://poster.starhubgo.com/poster/crystal_palace_stadium.jpg?w=960" />
 	</programme>
 	<programme channel="224" start="20251016160000 +0000" stop="20251016220000 +0000">
@@ -12373,7 +12373,7 @@
 	</programme>
 	<programme channel="224" start="20251018135000 +0000" stop="20251018160000 +0000">
 		<title>Sunderland vs Wolverhampton Wanderers (MW08) (Live) - EP 76</title>
-		<desc>The 34th season of the Premier League sees Liverpool defend its title against a host of teams keen for glory themselves. 20 teams are in the mix but only 1 champion will emerge ultimately.</desc>
+		<desc>This will be the first league meeting between Sunderland and Wolves since the Black Cats won a Championship game 3-0 in May 2018, and first in the Premier League since a 0-0 draw in April 2012.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch221_MW8_SUNvWOL_26.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="225" start="20251016160000 +0000" stop="20251016220000 +0000">
@@ -12418,7 +12418,7 @@
 	</programme>
 	<programme channel="225" start="20251018135000 +0000" stop="20251018160000 +0000">
 		<title>Burnley vs Leeds United (MW08) (Live) - EP 73</title>
-		<desc>The 34th season of the Premier League sees Liverpool defend its title against a host of teams keen for glory themselves. 20 teams are in the mix but only 1 champion will emerge ultimately.</desc>
+		<desc>Leeds have only lost one of their last six league meetings with Burnley (W3 D2), although failed to score in both Championship meetings between the two sides last season (D1 L1).</desc>
 		<icon src="https://poster.starhubgo.com/poster/burnley_stadium.jpg?w=960" />
 	</programme>
 	<programme channel="226" start="20251016160000 +0000" stop="20251016220000 +0000">
@@ -12463,7 +12463,7 @@
 	</programme>
 	<programme channel="226" start="20251018135000 +0000" stop="20251018160000 +0000">
 		<title>Manchester City vs Everton (MW08) (Live) - EP 75</title>
-		<desc>The 34th season of the Premier League sees Liverpool defend its title against a host of teams keen for glory themselves. 20 teams are in the mix but only 1 champion will emerge ultimately.</desc>
+		<desc>In 2025, Manchester City are averaging more points-per-game in the Premier League than any other side (2.04 - 53 in 26). They are the league’s top scorers this calendar year (55 goals), and have picked up the joint-most wins (16, level with Liverpool).</desc>
 		<icon src="https://poster.starhubgo.com/poster/man_city_stadium.jpg?w=960" />
 	</programme>
 	<programme channel="228" start="20251016160000 +0000" stop="20251016220000 +0000">
@@ -12558,13 +12558,13 @@
 	</programme>
 	<programme channel="232" start="20251018072500 +0000" stop="20251018075500 +0000">
 		<title>PL Stories 2025/26 - EP 20</title>
-		<desc>We sit down with Duncan Ferguson to discuss the fierce, passionate, and often unpredictable career of one of Everton’s most legendary figures. From his early days in Scotland to his turbulent arrival in English football, PL Stories focuses on Ferguson’s d</desc>
-		<icon src="https://poster.starhubgo.com/poster/pl_stories_V2.jpg?w=341&amp;h=192" />
+		<desc>We sit down with Duncan Ferguson to discuss the fierce, passionate, and often unpredictable career of one of Everton’s most legendary figures. From his early days in Scotland to his turbulent arrival in English football, PL Stories focuses on Ferguson’s deep bond with the blue half of Merseyside; a connection built on loyalty, grit, and unforgettable moments.</desc>
+		<icon src="https://poster.starhubgo.com/poster/pl_stories_2025_26_ep20.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="232" start="20251018075500 +0000" stop="20251018082500 +0000">
 		<title>The Big Interview 2025/26 - EP 10</title>
-		<desc>Extended sit-downs and more informal ‘out and about’ interviews with the Premier League’s biggest stars, providing players with a platform to tell their story in their own words.</desc>
-		<icon src="https://poster.starhubgo.com/poster/the_big_interview_V3.jpg?w=341&amp;h=192" />
+		<desc>With 97 Premier League goals for some of the biggest clubs in English football, Emmanuel Adebayor was one of Africa’s finest footballers to play on these shores. Now, through his SEA Foundation, Adebayor is making a significant impact off the pitch, providing inspiration and opportunity for people in Togo and across the continent.</desc>
+		<icon src="https://poster.starhubgo.com/poster/the_big_interview_2025_26_ep10.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="232" start="20251018082500 +0000" stop="20251018085500 +0000">
 		<title>Fantasy Show 2025/26 - EP 8</title>
@@ -12583,23 +12583,23 @@
 	</programme>
 	<programme channel="232" start="20251018112000 +0000" stop="20251018132000 +0000">
 		<title>Nottingham Forest vs Chelsea (MW08) (Live) - EP 71</title>
-		<desc>The 34th season of the Premier League sees Liverpool defend its title against a host of teams keen for glory themselves. 20 teams are in the mix but only 1 champion will emerge ultimately.</desc>
+		<desc>Nottingham Forest have won just one of their last eight Premier League meetings with Chelsea (D3 L4), a 1-0 victory at Stamford Bridge in September 2023.</desc>
 		<icon src="https://poster.starhubgo.com/poster/nottingham_forest_stadium.jpg?w=960" />
 	</programme>
 	<programme channel="232" start="20251018132000 +0000" stop="20251018135000 +0000">
 		<title>PL Rewind 2025/26 - EP 5</title>
-		<desc>An evergreen strand that relives classic matches, seasons and moments in the company of those who starred in them. PL Rewind delves back into the Premier League archive in 'watch along' style.</desc>
+		<desc>After 11 years at Burnley, in July 2022 Ben Mee signed for Brentford in West London. In his first season with the Bees, in 2022/23, he helped them secure their best-ever finish in England’s top flight. Mee looks back at some of the key games in that historic season.</desc>
 		<icon src="https://poster.starhubgo.com/poster/pl_rewind_V2.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="232" start="20251018135000 +0000" stop="20251018155000 +0000">
 		<title>Brighton and Hove Albion vs Newcastle United (MW08) (Live) - EP 72</title>
-		<desc>The 34th season of the Premier League sees Liverpool defend its title against a host of teams keen for glory themselves. 20 teams are in the mix but only 1 champion will emerge ultimately.</desc>
+		<desc>Newcastle United have won just two of their 16 Premier League games against Brighton (D8 L6), a win rate of 13% - their lowest ratio against any side they have faced 3+ times in the competition.</desc>
 		<icon src="https://poster.starhubgo.com/poster/brighton_stadium.jpg?w=960" />
 	</programme>
 	<programme channel="232" start="20251018155000 +0000" stop="20251018162000 +0000">
 		<title>PL Stories 2025/26 - EP 20</title>
-		<desc>We sit down with Duncan Ferguson to discuss the fierce, passionate, and often unpredictable career of one of Everton’s most legendary figures. From his early days in Scotland to his turbulent arrival in English football, PL Stories focuses on Ferguson’s d</desc>
-		<icon src="https://poster.starhubgo.com/poster/pl_stories_V2.jpg?w=341&amp;h=192" />
+		<desc>We sit down with Duncan Ferguson to discuss the fierce, passionate, and often unpredictable career of one of Everton’s most legendary figures. From his early days in Scotland to his turbulent arrival in English football, PL Stories focuses on Ferguson’s deep bond with the blue half of Merseyside; a connection built on loyalty, grit, and unforgettable moments.</desc>
+		<icon src="https://poster.starhubgo.com/poster/pl_stories_2025_26_ep20.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="241" start="20251016160000 +0000" stop="20251016170000 +0000">
 		<title>FS MMA Courtney Ray vs. Dan Hornbuckle</title>
