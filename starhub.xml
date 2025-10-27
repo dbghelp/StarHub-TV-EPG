@@ -1932,7 +1932,7 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="106" start="20251028050000 +0000" stop="20251028060000 +0000">
-		<title>Inside Police Coast Guard - EP 2</title>
+		<title>Inside The Police Coast Guard - EP 2</title>
 		<desc>Across a complex tapestry of maritime spaces, from bustling sea lanes to lively islands to the quieter inland waterways, witness how the Singapore Police Coast Guard provides a reassuring presence.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
@@ -1972,7 +1972,7 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="106" start="20251028110000 +0000" stop="20251028120000 +0000">
-		<title>Inside Police Coast Guard - EP 1</title>
+		<title>Inside The Police Coast Guard - EP 1</title>
 		<desc>An unfiltered look inside Singapore’s Police Coast Guard, defenders at our maritime frontline, responsible for not only our inner and outer waters but our shorelines.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
@@ -9906,6 +9906,16 @@
 		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_Channels2/204_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
+	<programme channel="204" start="20251028003500 +0000" stop="20251028013500 +0000">
+		<title>ICC Women's Cricket World Cup 2025: M26 - Australia vs South Africa HLs</title>
+		<desc>The 2025 ICC Women's Cricket World Cup will be the 13th edition of Women's Cricket World Cup. It is scheduled to be hosted in India, their fourth tournament after the 1978, 1997, and 2013 editions, and Sri Lanka, their first tournament. This will be the last time that the tournament will have eight teams. Australia are the defending champions, having won their seventh title in 2022.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ICCWCWC2025.jpg?w=960&amp;h=540" />
+	</programme>
+	<programme channel="204" start="20251028013500 +0000" stop="20251028080000 +0000">
+		<title>ICC Women's Cricket World Cup 2025: M27 - England vs New Zealand</title>
+		<desc>The 2025 ICC Women's Cricket World Cup will be the 13th edition of Women's Cricket World Cup. It is scheduled to be hosted in India, their fourth tournament after the 1978, 1997, and 2013 editions, and Sri Lanka, their first tournament. This will be the last time that the tournament will have eight teams. Australia are the defending champions, having won their seventh title in 2022.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ICCWCWC2025.jpg?w=960&amp;h=540" />
+	</programme>
 	<programme channel="204" start="20251028080000 +0000" stop="20251028090000 +0000">
 		<title>ICC Women's Cricket World Cup 2025: M27 - England vs New Zealand HLs</title>
 		<desc>The 2025 ICC Women's Cricket World Cup will be the 13th edition of Women's Cricket World Cup. It is scheduled to be hosted in India, their fourth tournament after the 1978, 1997, and 2013 editions, and Sri Lanka, their first tournament. This will be the last time that the tournament will have eight teams. Australia are the defending champions, having won their seventh title in 2022.</desc>
@@ -10081,10 +10091,15 @@
 		<desc>Top flight men's soccer returns in the ISUZU UTE A-League Men. Catch every moment on SPOTV NOW as 13 of Australia's best teams compete in the regular season with top 4 advancing to the knockouts.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/209_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
+	<programme channel="209" start="20251026170000 +0000" stop="20251026193000 +0000">
+		<title>WTT Star Contender London 2025 (Live)</title>
+		<desc>WTT Star Contenders consist of 6 events throughout the year, which serve as the platform for the next best in the world to earn ranking points to make the step up into the WTT Champions Series.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch209_table_tennis.jpg?w=341&amp;h=192" />
+	</programme>
 	<programme channel="209" start="20251026193000 +0000" stop="20251026203000 +0000">
 		<title>2025 WSL Replay</title>
 		<desc>Be sure to catch the inspirational power of surfing through the 2025 WSL Championship Tour &amp; Challenger Series.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/209_1920x1080_HTV.png?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch209_motorsports.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="209" start="20251026203000 +0000" stop="20251026223000 +0000">
 		<title>GT World Challenge Asia 2025, Beijing (CHN)</title>
@@ -10164,7 +10179,7 @@
 	<programme channel="209" start="20251028053000 +0000" stop="20251028063000 +0000">
 		<title>2025 WSL Replay</title>
 		<desc>Be sure to catch the inspirational power of surfing through the 2025 WSL Championship Tour &amp; Challenger Series.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/209_1920x1080_HTV.png?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch209_motorsports.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="209" start="20251028063000 +0000" stop="20251028073000 +0000">
 		<title>2025 FIA Extreme H World Cup, Saudi Arabia</title>
@@ -10182,7 +10197,7 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/209_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="209" start="20251028120000 +0000" stop="20251028170000 +0000">
-		<title>WTT Champions Montpellier 2025</title>
+		<title>WTT Champions Montpellier 2025 (Live)</title>
 		<desc>Watch 32 of the world’s best table tennis stars battle for glory at Sud de France Arena. Fast-paced action, fierce rallies, and world-class skill on display.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch209_table_tennis.jpg?w=341&amp;h=192" />
 	</programme>
@@ -10321,12 +10336,12 @@
 		<desc>The 2025 MotoGP sees 22 of the world's best riders battle on 1000cc prototype machines, delivering over 250hp and reaching speeds of 360kph across 22 thrilling Grands Prix in 18 countries.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_motogp.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="210" start="20251028101000 +0000" stop="20251028114500 +0000">
+	<programme channel="210" start="20251028101000 +0000" stop="20251028113000 +0000">
 		<title>MotoGP 2025 Round 20- Petronas Grand Prix of Malaysia</title>
 		<desc>The 2025 MotoGP sees 22 of the world's best riders battle on 1000cc prototype machines, delivering over 250hp and reaching speeds of 360kph across 22 thrilling Grands Prix in 18 countries.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_motogp.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="210" start="20251028114500 +0000" stop="20251028124000 +0000">
+	<programme channel="210" start="20251028113000 +0000" stop="20251028124000 +0000">
 		<title>MotoGP 2025 Round 20- Petronas Grand Prix of Malaysia</title>
 		<desc>The 2025 MotoGP sees 22 of the world's best riders battle on 1000cc prototype machines, delivering over 250hp and reaching speeds of 360kph across 22 thrilling Grands Prix in 18 countries.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_motogp.jpg?w=960&amp;h=540" />
@@ -10341,7 +10356,7 @@
 		<desc>The 2025 MotoGP sees 22 of the world's best riders battle on 1000cc prototype machines, delivering over 250hp and reaching speeds of 360kph across 22 thrilling Grands Prix in 18 countries.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_motogp.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="210" start="20251028150000 +0000" stop="20251028180000 +0000">
+	<programme channel="210" start="20251028150000 +0000" stop="20251028175500 +0000">
 		<title>MLB 2025 World Series - Game 3 Los Angeles Dodgers vs Toronto Blue Jays</title>
 		<desc>12 top MLB teams battle through Wild Card, Division, Championship &amp; World Series to be crowned champions. Download and watch all MLB games live on SPOTV NOW</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_baseball.jpg?w=960&amp;h=540" />
@@ -33496,38 +33511,43 @@
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20251028010000 +0000" stop="20251028020000 +0000">
+	<programme channel="832" start="20251028010000 +0000" stop="20251028021000 +0000">
 		<title>A Green Trip</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20251028020000 +0000" stop="20251028040000 +0000">
+	<programme channel="832" start="20251028021000 +0000" stop="20251028040000 +0000">
 		<title>THE CITY OF MUSICALS</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20251028040000 +0000" stop="20251028043000 +0000">
+	<programme channel="832" start="20251028040000 +0000" stop="20251028042500 +0000">
 		<title>MIDDAY NEWS</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20251028043000 +0000" stop="20251028061000 +0000">
+	<programme channel="832" start="20251028042500 +0000" stop="20251028060500 +0000">
 		<title>Future China</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20251028061000 +0000" stop="20251028065500 +0000">
+	<programme channel="832" start="20251028060500 +0000" stop="20251028070000 +0000">
 		<title>CHINA NOW</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20251028065500 +0000" stop="20251028072000 +0000">
+	<programme channel="832" start="20251028070000 +0000" stop="20251028073000 +0000">
 		<title>Next Station</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20251028072000 +0000" stop="20251028093500 +0000">
+	<programme channel="832" start="20251028073000 +0000" stop="20251028091000 +0000">
 		<title>THE CITY OF MUSICALS</title>
+		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="832" start="20251028091000 +0000" stop="20251028093500 +0000">
+		<title>New Entertainment</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
@@ -33551,27 +33571,27 @@
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20251028120500 +0000" stop="20251028130000 +0000">
+	<programme channel="832" start="20251028120500 +0000" stop="20251028130500 +0000">
 		<title>A Green Trip</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20251028130000 +0000" stop="20251028135000 +0000">
+	<programme channel="832" start="20251028130500 +0000" stop="20251028144500 +0000">
 		<title>Future China</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20251028135000 +0000" stop="20251028142000 +0000">
+	<programme channel="832" start="20251028144500 +0000" stop="20251028151000 +0000">
 		<title>New Entertainment</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20251028142000 +0000" stop="20251028144500 +0000">
+	<programme channel="832" start="20251028151000 +0000" stop="20251028153000 +0000">
 		<title>CARE ON THE WAY</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20251028144500 +0000" stop="20251028164000 +0000">
+	<programme channel="832" start="20251028153000 +0000" stop="20251028164000 +0000">
 		<title>THE CITY OF MUSICALS</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
