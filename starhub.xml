@@ -1568,7 +1568,7 @@
 	</programme>
 	<programme channel="104" start="20251106070000 +0000" stop="20251106073000 +0000">
 		<title>Detik Semasa - EP 19</title>
-		<desc>The program analyses and dissect issues of concern to the Malay/Muslim Singaporeans - be it at the community level, national, regional or global. Apart from raising awareness, each DETIK episode hopes to set viewers thinking and make informed decisions on matters that can impact their lives.</desc>
+		<desc>Safety is a top priority for those traveling to Malaysia by land this holiday season. Unfamiliar road conditions and driver habits are among the reasons Singaporeans hire private car services with drivers.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/104_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="104" start="20251106073000 +0000" stop="20251106080000 +0000">
@@ -4768,7 +4768,7 @@
 	</programme>
 	<programme channel="128" start="20251104180000 +0000" stop="20251104183000 +0000">
 		<title>Noyontara - EP 148</title>
-		<desc>Noyontara's spirit-seeing gift reveals veiled mysteries and family secrets.</desc>
+		<desc>Noyontara communicates with Chameli's late daughter and helps the mother.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch128_colors_logo.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="128" start="20251104183000 +0000" stop="20251104190000 +0000">
@@ -4803,7 +4803,7 @@
 	</programme>
 	<programme channel="128" start="20251104220000 +0000" stop="20251104223000 +0000">
 		<title>Noyontara - EP 148</title>
-		<desc>Noyontara's spirit-seeing gift reveals veiled mysteries and family secrets.</desc>
+		<desc>Noyontara communicates with Chameli's late daughter and helps the mother.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch128_colors_logo.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="128" start="20251104223000 +0000" stop="20251104230000 +0000">
@@ -5028,7 +5028,7 @@
 	</programme>
 	<programme channel="128" start="20251106013000 +0000" stop="20251106020000 +0000">
 		<title>Shiv-Shakti Tap..Tyaag..Tandav - EP 863</title>
-		<desc>Lord Shiva and Goddess Paravati navigate their union and perform duties for humanity.</desc>
+		<desc>Parvati confronts Mahadev about his opposition to Viprachit's marriage to Devsena.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch128_shiv_shakti_tap_tyaag_tandav.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="128" start="20251106020000 +0000" stop="20251106033000 +0000">
@@ -5038,17 +5038,17 @@
 	</programme>
 	<programme channel="128" start="20251106033000 +0000" stop="20251106040000 +0000">
 		<title>Dhaakad Beera - EP 96</title>
-		<desc>A young boy vows to safeguard his little sister against societal oppression.</desc>
+		<desc>Dushyant stops Kishmish from giving the exam after assuming that she lied to him.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch128_dhaakad_beera.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="128" start="20251106040000 +0000" stop="20251106043000 +0000">
 		<title>Mannat Harr Khushi Paane Ki - EP 241</title>
-		<desc>Chef Mannat's dreams clash with her employer, who is her secret birth mother and nemesis.</desc>
+		<desc>After the Lakshmi Pooja, Mannat decides to reveal the truth of Vikrant's birth.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch128_mannat_harr_khushi_paane_ki.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="128" start="20251106043000 +0000" stop="20251106050000 +0000">
 		<title>Binddii - EP 49</title>
-		<desc>A prison-born girl discovers her father's betrayal and fights to free her mother.</desc>
+		<desc>Daya stands against Kajal and threatens the latter to confess while Aviraj gets arrested.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch128_binddii.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="128" start="20251106050000 +0000" stop="20251106053000 +0000">
@@ -10811,6 +10811,11 @@
 		<desc>Prominent professional players take centre-stage in the ROSHN Saudi League. Don't miss a moment of these matches every week. Download SPOTV NOW and catch these live matches and highlights.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_spotv2_logo.jpg?w=960&amp;h=540" />
 	</programme>
+	<programme channel="210" start="20251104173000 +0000" stop="20251104210000 +0000">
+		<title>WTT Champions Frankfurt 2025 (Live)</title>
+		<desc>Experience the ultimate table tennis showdown at Frankfurt 2025. One arena, one table, countless moments of glory and drama!</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch210_wtt.jpg?w=960&amp;h=540" />
+	</programme>
 	<programme channel="210" start="20251104210000 +0000" stop="20251104230000 +0000">
 		<title>2025/26 A-League Men Round 3 Newcastle Jets FC vs Sydney FC</title>
 		<desc>Top flight men's soccer returns in the ISUZU UTE A-League Men. Catch every moment on SPOTV NOW as 12 of Australia's best teams compete in the regular season with top 4 advancing to a single-game knockout.</desc>
@@ -10917,7 +10922,7 @@
 		<icon src="https://poster.starhubgo.com/poster/ch210_spotv2_logo.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="210" start="20251106100000 +0000" stop="20251106140000 +0000">
-		<title>WTT Champions Frankfurt 2025</title>
+		<title>WTT Champions Frankfurt 2025 (Live)</title>
 		<desc>Experience the ultimate table tennis showdown at Frankfurt 2025. One arena, one table, countless moments of glory and drama!</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_wtt.jpg?w=960&amp;h=540" />
 	</programme>
@@ -11109,15 +11114,15 @@
 	<programme channel="213" start="20251104174000 +0000" stop="20251104195500 +0000">
 		<title>UEFA Champions League 2025/26: Slavia Prague vs Arsenal - MD4 (Live)</title>
 		<desc>The most prestigious tournament in the world contested by top-division elite European clubs</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch213_uefa_champions_league_live_match.jpg?w=960&amp;h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch213_uefa_conference_league_live_match.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="213" start="20251104195500 +0000" stop="20251104220000 +0000">
-		<title>UEFA Champions League 2025/26: Liverpool vs Real Madrid - MD4 (Live)</title>
+		<title>UEFA Champions League 2025/26: PSG vs Bayern - MD4 (Live)</title>
 		<desc>The most prestigious tournament in the world contested by top-division elite European clubs</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch213_uefa_champions_league_live_match.jpg?w=960&amp;h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch213_uefa_conference_league_live_match.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="213" start="20251104220000 +0000" stop="20251104224500 +0000">
-		<title>The UCL Review Show 2025/26 Liverpool vs Real Madrid -Tue, MD4 (Live)</title>
+		<title>The UCL Review Show 2025/26 PSG vs Bayern -Tue, MD4 (Live)</title>
 		<desc>beIN's panel of football legends deliver their opinion on every game from this morning's UCL action</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch213_the_ucl_review_show_202526.jpg?w=960&amp;h=540" />
 	</programme>
@@ -11204,12 +11209,12 @@
 	<programme channel="213" start="20251105174000 +0000" stop="20251105195500 +0000">
 		<title>UEFA Champions League 2025/26: Qarabag vs Chelsea - MD4 (Live)</title>
 		<desc>The most prestigious tournament in the world contested by top-division elite European clubs</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch213_uefa_champions_league_live_match.jpg?w=960&amp;h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch213_uefa_conference_league_live_match.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="213" start="20251105195500 +0000" stop="20251105220000 +0000">
 		<title>UEFA Champions League 2025/26: Club Brugge vs Barcelona - MD4 (Live)</title>
 		<desc>The most prestigious tournament in the world contested by top-division elite European clubs</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch213_uefa_champions_league_live_match.jpg?w=960&amp;h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch213_uefa_conference_league_live_match.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="213" start="20251105220000 +0000" stop="20251105224500 +0000">
 		<title>The UCL Review Show 2025/26 Club Brugge vs Barcelona - Wed,MD4 (Live)</title>
@@ -11332,7 +11337,7 @@
 		<icon src="https://poster.starhubgo.com/poster/ch214_UCL_live_match.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="214" start="20251104195500 +0000" stop="20251104220000 +0000">
-		<title>UEFA Champions League 2025/26 PSG vs Bayern - MD4 (Live)</title>
+		<title>UEFA Champions League 2025/26: Liverpool vs Real Madrid - MD4 (Live)</title>
 		<desc>The most prestigious tournament in the world contested by top-division elite European clubs</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch214_UCL_live_match.jpg?w=341&amp;h=192" />
 	</programme>
@@ -26351,20 +26356,20 @@
 		<desc>Richard Quest speaks to the top names in global business to bring viewers the bottom line.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch711_quest_means_business.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="711" start="20251104214500 +0000" stop="20251104223000 +0000">
+	<programme channel="711" start="20251104214500 +0000" stop="20251104220000 +0000">
 		<title>Connecting Africa</title>
-		<desc>Across the continent, food security is emerging as both a challenge and an opportunity. From climate-resilient seeds to cold-chain infrastructure and crop diversification, African agribusinesses are pioneering new ways to feed growing populations while cr</desc>
+		<desc>Across the continent, food security is emerging as both a challenge and an opportunity. From climate-resilient seeds to cold-chain infrastructure and crop diversification, African agribusinesses are pioneering new ways to feed growing populations while creating sustainable export markets.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch711_connecting_africa.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="711" start="20251104223000 +0000" stop="20251104230000 +0000">
-		<title>World Sport</title>
-		<desc>Daily sports show features major stories and issues making news in the world of sports.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch711_world_sport.jpg?w=341&amp;h=192" />
+	<programme channel="711" start="20251104220000 +0000" stop="20251104230000 +0000">
+		<title>CNN Election Night 2025</title>
+		<desc>Live election night results from key state and local political races. Jake Tapper and Erin Burnett anchor.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch711_cnn_election_night_2025.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="711" start="20251104230000 +0000" stop="20251105000000 +0000">
-		<title>The Brief with Jim Sciutto</title>
-		<desc>The best of CNN's reporting from correspondents across the world, to guide global audiences through the fast-paced news cycle with insight, analysis and hard-hitting interviews.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch711_cnn_generic.jpg?w=960&amp;h=540" />
+		<title>CNN Election Night 2025</title>
+		<desc>Live election night results from key state and local political races. Jake Tapper and Erin Burnett anchor.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch711_cnn_election_night_2025.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="711" start="20251105000000 +0000" stop="20251105010000 +0000">
 		<title>CNN Election Night 2025</title>
@@ -26443,7 +26448,7 @@
 	</programme>
 	<programme channel="711" start="20251105154500 +0000" stop="20251105160000 +0000">
 		<title>Marketplace Middle East</title>
-		<desc>Uncertainty around U.S. policy is pushing businesses, investors, and governments to rethink long-standing relationships. Rising protectionism is accelerating a shift towards new trade corridors linking the Gulf with China, India, Africa, and within the re</desc>
+		<desc>Uncertainty around U.S. policy is pushing businesses, investors, and governments to rethink long-standing relationships. Rising protectionism is accelerating a shift towards new trade corridors linking the Gulf with China, India, Africa, and within the region itself. At the same time, global capital is on the move.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch711_marketplace_middle_east.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="711" start="20251105160000 +0000" stop="20251105170000 +0000">
@@ -26558,7 +26563,7 @@
 	</programme>
 	<programme channel="711" start="20251106130000 +0000" stop="20251106133000 +0000">
 		<title>Call to Earth</title>
-		<desc>Legendary oceanographer Dr. Sylvia Earle sits down for an exclusive interview with CNN Chief Climate Correspondent Bill Weir to discuss a lifetime of lessons learned, a promising future for our planet and why the 21st Century is full of "lucky kids".</desc>
+		<desc>CNN Chief Climate Correspondent Bill Weir sits down for an exclusive interview with legendary oceanographer Dr. Sylvia Earle to discuss a lifetime of lessons learned, a promising future for our planet and why the 21st Century is full of "lucky kids."</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch711_call_to_earth.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="711" start="20251106133000 +0000" stop="20251106140000 +0000">
