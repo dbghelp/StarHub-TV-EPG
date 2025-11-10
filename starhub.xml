@@ -7281,12 +7281,12 @@
 		<desc>Kunhikuttan, a Kathakali dancer, falls into depression due to the hardships in his life.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="140" start="20251110013000 +0000" stop="20251110043000 +0000">
+	<programme channel="140" start="20251110013000 +0000" stop="20251110044000 +0000">
 		<title>The King &amp; The Commissioner</title>
 		<desc>Two police officers try to stop a terror attack on Delhi before it is too late.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="140" start="20251110043000 +0000" stop="20251110073000 +0000">
+	<programme channel="140" start="20251110044000 +0000" stop="20251110073000 +0000">
 		<title>Oru Yamandan Premakadha</title>
 		<desc>Lallu, who is looking for true love, sees a photo of a missing woman and feels a spark.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=341&amp;h=192" />
@@ -7306,22 +7306,22 @@
 		<desc>An evil moneylender tries to malign Velayudhan, who is loved by the villagers.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="140" start="20251110163000 +0000" stop="20251110193000 +0000">
+	<programme channel="140" start="20251110163000 +0000" stop="20251110193500 +0000">
 		<title>Bangalore Days</title>
 		<desc>Three cousins relocate to Bangalore to fulfil their childhood dreams.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="140" start="20251110193000 +0000" stop="20251110213000 +0000">
+	<programme channel="140" start="20251110193500 +0000" stop="20251110220000 +0000">
 		<title>Janatha Garage</title>
 		<desc>An activist finds his purpose in life after encountering a man who fights for the poor.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="140" start="20251110213000 +0000" stop="20251110233000 +0000">
+	<programme channel="140" start="20251110220000 +0000" stop="20251110234500 +0000">
 		<title>Cheriya Kallanum Valiya Poleesum</title>
 		<desc>Sadasivan protects Soumini from many people who start appearing after her husband's death.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="140" start="20251110233000 +0000" stop="20251111013000 +0000">
+	<programme channel="140" start="20251110234500 +0000" stop="20251111013000 +0000">
 		<title>Chettayees</title>
 		<desc>A New Year's Eve party leads to a lot of unpleasantness for five close friends.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=341&amp;h=192" />
@@ -10091,7 +10091,12 @@
 		<desc>End of Transmission</desc>
 		<icon src="https://poster.starhubgo.com/Linear_Channels2/203_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="203" start="20251110100000 +0000" stop="20251110130000 +0000">
+	<programme channel="203" start="20251110100000 +0000" stop="20251110123000 +0000">
+		<title>LPGA Tour 2025</title>
+		<desc>The TOTO Japan Classic is the LPGA's only official event in Japan. The tournament features top players from the JLPGA and LPGA competing in a no-cut event at the Seta Golf Course in Shiga Prefecture.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch203_lpga_tour.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="203" start="20251110123000 +0000" stop="20251110130000 +0000">
 		<title>LPGA Tour 2025</title>
 		<desc>The TOTO Japan Classic is the LPGA's only official event in Japan. The tournament features top players from the JLPGA and LPGA competing in a no-cut event at the Seta Golf Course in Shiga Prefecture.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch203_lpga_tour.jpg?w=341&amp;h=192" />
@@ -30628,7 +30633,7 @@
 	</programme>
 	<programme channel="812" start="20251109235700 +0000" stop="20251110000000 +0000">
 		<title>Sumopedia</title>
-		<desc>'Sumopedia' enriches your sumo experience with information on the techniques, traditions and famous wrestlers of the past - the rules may be simple, but there is a lot more to sumo than meets the eye.</desc>
+		<desc>Sumopedia enriches your sumo experience with information on the techniques, traditions and famous wrestlers of the past. The rules may be simple but there is a lot more to sumo than meets the eye.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20251110000000 +0000" stop="20251110001000 +0000">
@@ -30637,13 +30642,13 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20251110001000 +0000" stop="20251110001500 +0000">
-		<title>Chatroom Japan</title>
-		<desc>A spotlight on our diverse international community as we report on issues, speak to those involved, and get a fresh look at what it's like to live in Japan.</desc>
+		<title>Education Chance Opens the World</title>
+		<desc>Maxine is a university student who joined a school providing educational support and life advice to international students wanting to enter Japanese high school, and this experience changed her life.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20251110001500 +0000" stop="20251110002500 +0000">
 		<title>Impacts: Climates Change the World</title>
-		<desc>The entire Earth is affected by climate change occurring with a greater speed and scale than ever before - this programme uses scientific data and the latest findings to raise awareness on its impact.</desc>
+		<desc>Japanese chum salmon migrate over 20,000 kilometres in their return journey across the North Pacific - global warming has caused an alarming decline in returning salmon and requires urgent action.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20251110002500 +0000" stop="20251110003000 +0000">
@@ -30678,7 +30683,7 @@
 	</programme>
 	<programme channel="812" start="20251110014500 +0000" stop="20251110015500 +0000">
 		<title>Culture Crossroads</title>
-		<desc>This programme provides information for a multicultural society - we cover interesting topics from various angles such as Japanese local movements for the Tokyo Olympics and disaster preparedness.</desc>
+		<desc>More and more foreign students come to Japan to become certified auto mechanics and find long-term employment - we follow one such student, a young woman from Myanmar who pursues her Japanese dream.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20251110015500 +0000" stop="20251110020000 +0000">
@@ -30703,7 +30708,7 @@
 	</programme>
 	<programme channel="812" start="20251110033000 +0000" stop="20251110040000 +0000">
 		<title>Biz Stream</title>
-		<desc>This programme focuses on the latest Japanese business trends, corporate strategies and technologies - we look behind the scenes and discuss their global impact from various perspectives.</desc>
+		<desc>Giving a Spark to the Power Grid: This episode features strategies to maintain Japan's power grid. One company is recruiting climbers, and another created a mobile game for checking power poles.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20251110040000 +0000" stop="20251110043000 +0000">
@@ -30713,12 +30718,12 @@
 	</programme>
 	<programme channel="812" start="20251110043000 +0000" stop="20251110045700 +0000">
 		<title>Grand Sumo Highlights</title>
-		<desc>As interest in sumo grows worldwide, daily coverage of the highlights of all 6 annual tournaments in Japan is about to take off on NHK World TV.</desc>
+		<desc>A sumo highlights programme for fans around the globe. Today the show features all top-division bouts from November 9, Day 1 of the Grand Sumo Tournament in Fukuoka.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20251110045700 +0000" stop="20251110050000 +0000">
 		<title>Sumopedia</title>
-		<desc>'Sumopedia' enriches your sumo experience with information on the techniques, traditions and famous wrestlers of the past - the rules may be simple, but there is a lot more to sumo than meets the eye.</desc>
+		<desc>Sumopedia enriches your sumo experience with information on the techniques, traditions and famous wrestlers of the past. The rules may be simple but there is a lot more to sumo than meets the eye.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20251110050000 +0000" stop="20251110053000 +0000">
@@ -30743,7 +30748,7 @@
 	</programme>
 	<programme channel="812" start="20251110064500 +0000" stop="20251110065500 +0000">
 		<title>Culture Crossroads</title>
-		<desc>This programme provides information for a multicultural society - we cover interesting topics from various angles such as Japanese local movements for the Tokyo Olympics and disaster preparedness.</desc>
+		<desc>More and more foreign students come to Japan to become certified auto mechanics and find long-term employment - we follow one such student, a young woman from Myanmar who pursues her Japanese dream.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20251110065500 +0000" stop="20251110070000 +0000">
@@ -30768,12 +30773,12 @@
 	</programme>
 	<programme channel="812" start="20251110083000 +0000" stop="20251110085700 +0000">
 		<title>Grand Sumo Highlights</title>
-		<desc>As interest in sumo grows worldwide, daily coverage of the highlights of all 6 annual tournaments in Japan is about to take off on NHK World TV.</desc>
+		<desc>A sumo highlights programme for fans around the globe. Today the show features all top-division bouts from November 9, Day 1 of the Grand Sumo Tournament in Fukuoka.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20251110085700 +0000" stop="20251110090000 +0000">
 		<title>Sumopedia</title>
-		<desc>'Sumopedia' enriches your sumo experience with information on the techniques, traditions and famous wrestlers of the past - the rules may be simple, but there is a lot more to sumo than meets the eye.</desc>
+		<desc>Sumopedia enriches your sumo experience with information on the techniques, traditions and famous wrestlers of the past. The rules may be simple but there is a lot more to sumo than meets the eye.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20251110090000 +0000" stop="20251110093000 +0000">
@@ -30783,7 +30788,7 @@
 	</programme>
 	<programme channel="812" start="20251110093000 +0000" stop="20251110100000 +0000">
 		<title>Biz Stream</title>
-		<desc>This programme focuses on the latest Japanese business trends, corporate strategies and technologies - we look behind the scenes and discuss their global impact from various perspectives.</desc>
+		<desc>Giving a Spark to the Power Grid: This episode features strategies to maintain Japan's power grid. One company is recruiting climbers, and another created a mobile game for checking power poles.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20251110100000 +0000" stop="20251110103000 +0000">
@@ -30808,7 +30813,7 @@
 	</programme>
 	<programme channel="812" start="20251110114300 +0000" stop="20251110115500 +0000">
 		<title>Impacts: Climates Change the World</title>
-		<desc>The entire Earth is affected by climate change occurring with a greater speed and scale than ever before - this programme uses scientific data and the latest findings to raise awareness on its impact.</desc>
+		<desc>The World is too divided to unite and tackle the issue of the Earth getting hotter every year. Alongside the COP30 discussions, we will explore possible ways to overcome this harsh reality.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20251110115500 +0000" stop="20251110120000 +0000">
@@ -30828,7 +30833,7 @@
 	</programme>
 	<programme channel="812" start="20251110124500 +0000" stop="20251110125500 +0000">
 		<title>Culture Crossroads</title>
-		<desc>This programme provides information for a multicultural society - we cover interesting topics from various angles such as Japanese local movements for the Tokyo Olympics and disaster preparedness.</desc>
+		<desc>More and more foreign students come to Japan to become certified auto mechanics and find long-term employment - we follow one such student, a young woman from Myanmar who pursues her Japanese dream.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20251110125500 +0000" stop="20251110130000 +0000">
@@ -30873,12 +30878,12 @@
 	</programme>
 	<programme channel="812" start="20251110163000 +0000" stop="20251110165700 +0000">
 		<title>Grand Sumo Highlights</title>
-		<desc>As interest in sumo grows worldwide, daily coverage of the highlights of all 6 annual tournaments in Japan is about to take off on NHK World TV.</desc>
+		<desc>A sumo highlights programme for fans around the globe. Today the show features all top-division bouts from November 10, Day 2 of the Grand Sumo Tournament in Fukuoka.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20251110165700 +0000" stop="20251110170000 +0000">
 		<title>Sumopedia</title>
-		<desc>'Sumopedia' enriches your sumo experience with information on the techniques, traditions and famous wrestlers of the past - the rules may be simple, but there is a lot more to sumo than meets the eye.</desc>
+		<desc>Sumopedia enriches your sumo experience with information on the techniques, traditions and famous wrestlers of the past. The rules may be simple but there is a lot more to sumo than meets the eye.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20251110170000 +0000" stop="20251110173000 +0000">
@@ -30893,7 +30898,7 @@
 	</programme>
 	<programme channel="812" start="20251110174500 +0000" stop="20251110175500 +0000">
 		<title>Culture Crossroads</title>
-		<desc>This programme provides information for a multicultural society - we cover interesting topics from various angles such as Japanese local movements for the Tokyo Olympics and disaster preparedness.</desc>
+		<desc>More and more foreign students come to Japan to become certified auto mechanics and find long-term employment - we follow one such student, a young woman from Myanmar who pursues her Japanese dream.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20251110175500 +0000" stop="20251110180000 +0000">
@@ -30913,7 +30918,7 @@
 	</programme>
 	<programme channel="812" start="20251110184300 +0000" stop="20251110185500 +0000">
 		<title>Impacts: Climates Change the World</title>
-		<desc>The entire Earth is affected by climate change occurring with a greater speed and scale than ever before - this programme uses scientific data and the latest findings to raise awareness on its impact.</desc>
+		<desc>The World is too divided to unite and tackle the issue of the Earth getting hotter every year. Alongside the COP30 discussions, we will explore possible ways to overcome this harsh reality.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20251110185500 +0000" stop="20251110190000 +0000">
@@ -30923,7 +30928,7 @@
 	</programme>
 	<programme channel="812" start="20251110190000 +0000" stop="20251110193000 +0000">
 		<title>Today's Close-Up</title>
-		<desc>Dig deeper into current affairs with cutting-edge information and critical analysis on important issues confronting Japanese lives.</desc>
+		<desc>Apartment prices and rents are surging in Japanese cities as investors scoop up properties and resell them for profit. We look at the impact on residents and consider how authorities are responding.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20251110193000 +0000" stop="20251110200000 +0000">
@@ -30963,7 +30968,7 @@
 	</programme>
 	<programme channel="812" start="20251110224500 +0000" stop="20251110225500 +0000">
 		<title>Culture Crossroads</title>
-		<desc>This programme provides information for a multicultural society - we cover interesting topics from various angles such as Japanese local movements for the Tokyo Olympics and disaster preparedness.</desc>
+		<desc>More and more foreign students come to Japan to become certified auto mechanics and find long-term employment - we follow one such student, a young woman from Myanmar who pursues her Japanese dream.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20251110225500 +0000" stop="20251110230000 +0000">
@@ -30978,12 +30983,12 @@
 	</programme>
 	<programme channel="812" start="20251110233000 +0000" stop="20251110235700 +0000">
 		<title>Grand Sumo Highlights</title>
-		<desc>As interest in sumo grows worldwide, daily coverage of the highlights of all 6 annual tournaments in Japan is about to take off on NHK World TV.</desc>
+		<desc>A sumo highlights programme for fans around the globe. Today the show features all top-division bouts from November 10, Day 2 of the Grand Sumo Tournament in Fukuoka.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20251110235700 +0000" stop="20251111000000 +0000">
 		<title>Sumopedia</title>
-		<desc>'Sumopedia' enriches your sumo experience with information on the techniques, traditions and famous wrestlers of the past - the rules may be simple, but there is a lot more to sumo than meets the eye.</desc>
+		<desc>Sumopedia enriches your sumo experience with information on the techniques, traditions and famous wrestlers of the past. The rules may be simple but there is a lot more to sumo than meets the eye.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20251111000000 +0000" stop="20251111003000 +0000">
