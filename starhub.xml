@@ -484,6 +484,10 @@
 		<display-name>TestChannel1</display-name>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/101_1920x1080_HTV.png?w=272" />
 	</channel>
+	<channel id="995">
+		<display-name>TestChannel 995</display-name>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/101_1920x1080_HTV.png?w=272" />
+	</channel>
 	<channel id="996">
 		<display-name>TestChannel 996</display-name>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/101_1920x1080_HTV.png?w=272" />
@@ -33061,32 +33065,37 @@
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20251113160000 +0000" stop="20251113170500 +0000">
+	<programme channel="832" start="20251113160000 +0000" stop="20251113162300 +0000">
+		<title>CARE ON THE WAY</title>
+		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="832" start="20251113162300 +0000" stop="20251113170000 +0000">
 		<title>Cheer up!small shops</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20251113170500 +0000" stop="20251113180500 +0000">
+	<programme channel="832" start="20251113170000 +0000" stop="20251113175900 +0000">
 		<title>Dragon TV Primetime News</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20251113180500 +0000" stop="20251113183500 +0000">
+	<programme channel="832" start="20251113175900 +0000" stop="20251113190300 +0000">
 		<title>Cheer up!small shops</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20251113183500 +0000" stop="20251113200500 +0000">
+	<programme channel="832" start="20251113190300 +0000" stop="20251113200800 +0000">
 		<title>Dream Home</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20251113200500 +0000" stop="20251113210000 +0000">
+	<programme channel="832" start="20251113200800 +0000" stop="20251113210400 +0000">
 		<title>Future China</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20251113210000 +0000" stop="20251113221000 +0000">
+	<programme channel="832" start="20251113210400 +0000" stop="20251113221000 +0000">
 		<title>A Green Trip</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
@@ -33113,11 +33122,6 @@
 	</programme>
 	<programme channel="832" start="20251114020500 +0000" stop="20251114033500 +0000">
 		<title>Go Fighting</title>
-		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="832" start="20251114033500 +0000" stop="20251114040000 +0000">
-		<title>CARE ON THE WAY</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
@@ -35152,12 +35156,12 @@
 		<icon src="https://poster.starhubgo.com/poster/TheEscapeOfTheSeven.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="996" start="20251113081000 +0000" stop="20251113090000 +0000">
-		<title>The Litchi Road - EP 25</title>
+		<title>New Event A - EP 25</title>
 		<desc>[With English and Chinese subtitles] Adapted from the same-name novel, the drama features a minor official, Li Shande (Lei Jia Yin), during the Tang Dynasty. He overcomes numerous hardships and travels thousands of miles to deliver lychees from Gaozhou in Lingnan to Chang’an.</desc>
 		<icon src="https://poster.starhubgo.com/poster/TheLitchiRoad.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="996" start="20251113090000 +0000" stop="20251113094500 +0000">
-		<title>Sinister Beings 2 - EP 15</title>
+		<title>Replaced Event B - EP 15</title>
 		<desc>Tin-cho helps police decode something and manages to locate Perses, who is one of Chi-lok’s contacts on the dark web. They find out he has obtained a substantial amout of Chi-lok’s cryptocurrency. While playing some ball game with Kwun-fung, Chi-lok has flashbacks of some fuzzy memory. Tin-cho asks Cheung Hei to come out of hiding and go after Perses.</desc>
 		<icon src="https://poster.starhubgo.com/poster/SinisterBeings2_L.jpg?w=960" />
 	</programme>
