@@ -10831,15 +10831,20 @@
 		<desc>Exclusive coverage from the Spanish LaLiga, Spain's top division of football, with the world's biggest teams and best players.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch213_mini_match_laliga.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="213" start="20251117110000 +0000" stop="20251117133000 +0000">
+	<programme channel="213" start="20251117110000 +0000" stop="20251117131500 +0000">
 		<title>LFCTV Specials 2025/26</title>
 		<desc>Enjoy documentaries and other special programming from LFCTV on beIN SPORTS</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch213_ltctv_specials.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="213" start="20251117133000 +0000" stop="20251117140000 +0000">
+	<programme channel="213" start="20251117131500 +0000" stop="20251117134500 +0000">
 		<title>LFC Trending 2025/26</title>
 		<desc>The official LFCTV weekly magazine program featuring news, stories, videos and social media highlights from across Liverpool football club, its players and supporters</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch213_lfc_trending.jpg?w=960&amp;h=540" />
+	</programme>
+	<programme channel="213" start="20251117134500 +0000" stop="20251117140000 +0000">
+		<title>LaLiga Goals Galore 2024/25</title>
+		<desc>Relive every goal from the best players in 2024/25 season.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch213_laliga_goals_galore.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="213" start="20251117140000 +0000" stop="20251117160000 +0000">
 		<title>LaLiga 2 2025/26: Valladolid vs Las Palmas</title>
