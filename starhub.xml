@@ -603,7 +603,7 @@
 	</programme>
 	<programme channel="102" start="20251117000000 +0000" stop="20251117003000 +0000">
 		<title>Ollie &amp; Friends (Season 3) - EP 10</title>
-		<desc>Talking frogs. The three little pigs. Fairy Tale animals help to add much fun into a story. Join Ollie and friends on another exciting adventure as they explore the world of fairy tale animals.</desc>
+		<desc>Put on your helmets and get ready to blast off into outer space. This episode, Ollie and his friends explore the role of Astronauts. Join them as they sing, dance and see the world from the earth and beyond.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="102" start="20251117003000 +0000" stop="20251117010000 +0000">
@@ -828,7 +828,7 @@
 	</programme>
 	<programme channel="102" start="20251118000000 +0000" stop="20251118003000 +0000">
 		<title>Ollie &amp; Friends (Season 3) - EP 11</title>
-		<desc>Sings like the bees and flap like the butterflies. This episode, Ollie and friends take you on a buggy buggy adventure as they explore the wonders of these little creatures and how there is little to be afraid once we learn more about them.</desc>
+		<desc>Put on your helmets and get ready to blast off into outer space. This episode, Ollie and his friends explore the role of Astronauts. Join them as they sing, dance and see the world from the earth and beyond.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="102" start="20251118003000 +0000" stop="20251118010000 +0000">
@@ -9806,12 +9806,12 @@
 		<desc>Two sisters, Parvathi and Eshwari, are devotees of Goddess Kaaligaambaal. When their aunt is told that the birth of Eshwari's baby will lead to her death, she devises an evil plan.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/159_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="201" start="20251116124500 +0000" stop="20251116163000 +0000">
+	<programme channel="201" start="20251116124500 +0000" stop="20251116164000 +0000">
 		<title>Champion of Champions Snooker 2025 Final Afternoon Session (Live)</title>
 		<desc>Champion of Champions snooker is a prestigious annual invitational tournament featuring 16 elite players, primarily winners of significant tournaments from the past year, who compete for the title. It will take place at the Leicester Arena in Leicester.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch201_ChampionOFChampions2025.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="201" start="20251116163000 +0000" stop="20251116173000 +0000">
+	<programme channel="201" start="20251116164000 +0000" stop="20251116173000 +0000">
 		<title>ASO Miscellaneous Programming 2025</title>
 		<desc>The One Water Race is a professional race and created for the absolute best endurance racers in the world. The race distance is about 250 km, a distance of 6 marathons, split up into approximately 200 km running and 50 km swimming. Running takes place on all types of terrain, rocks, cliffs, gravel roads, paths but mostly unpaved and difficult terrain. Swimming is in open sea and can often feature strong winds, currents and waves.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch201_aso.jpg?w=960&amp;h=540" />
@@ -9826,17 +9826,12 @@
 		<desc>The Lidl Deutschland Tour is Germany's biggest cycling event, and it's part of the UCI Pro Series. The five-day stage race attracts top international teams and also offers mass participation events for amateur and young cyclists. The 2025 edition begins in Essen and concludes in Magdeburg.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch201_aso.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="201" start="20251116184500 +0000" stop="20251116220000 +0000">
+	<programme channel="201" start="20251116184500 +0000" stop="20251116230800 +0000">
 		<title>Champion of Champions Snooker 2025 Final Evening Session (Live)</title>
 		<desc>Champion of Champions snooker is a prestigious annual invitational tournament featuring 16 elite players, primarily winners of significant tournaments from the past year, who compete for the title. It will take place at the Leicester Arena in Leicester.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch201_ChampionOFChampions2025.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="201" start="20251116220000 +0000" stop="20251116230000 +0000">
-		<title>Davis Cup Qualifiers 2025</title>
-		<desc>Catch all the thrilling moments from the second round of qualifying as top tennis nations face off across the world to earn one of the seven remaining berths at the Davis Cup Final 8.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch201_DAVISCup2024.jpg?w=341&amp;h=192" />
-	</programme>
-	<programme channel="201" start="20251116230000 +0000" stop="20251117033000 +0000">
+	<programme channel="201" start="20251116230800 +0000" stop="20251117033000 +0000">
 		<title>Billie Jean King Cup Play-Offs 2025 Group B: New Zealand vs Romania</title>
 		<desc>The Billie Jean King Cup Playoffs are a series of team-based matches where 21 nations compete in groups of three. The 7 group winners advance to the BJK Cup Qualifiers in 2026, while the remaining 14 teams compete in the BJK Cup Regional Group I the following year.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch201_billie_jean_king_cup_GENERIC.jpg?w=960&amp;h=540" />
@@ -9886,13 +9881,18 @@
 		<desc>The Billie Jean King Cup Playoffs are a series of team-based matches where 21 nations compete in groups of three. The 7 group winners advance to the BJK Cup Qualifiers in 2026, while the remaining 14 teams compete in the BJK Cup Regional Group I the following year.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch201_billie_jean_king_cup_GENERIC.jpg?w=960&amp;h=540" />
 	</programme>
+	<programme channel="201" start="20251118023000 +0000" stop="20251118033000 +0000">
+		<title>ASO Cycling Programming 2025</title>
+		<desc>The Czech Tour is a professional road cycling stage race held annually in the Czech Republic and is part of the UCI Europe Tour. The race is known for its challenging routes, often including climbs in the Jeseníky and Beskydy mountains, and attracts both climbers and sprinters.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch201_aso.jpg?w=960&amp;h=540" />
+	</programme>
 	<programme channel="201" start="20251118033000 +0000" stop="20251118080000 +0000">
-		<title>Billie Jean King Cup Play-Offs 2025 Group D: Croatia vs Colombia</title>
+		<title>Billie Jean King Cup Play-Offs 2025 Group D: Croatia vs Czechia</title>
 		<desc>The Billie Jean King Cup Playoffs are a series of team-based matches where 21 nations compete in groups of three. The 7 group winners advance to the BJK Cup Qualifiers in 2026, while the remaining 14 teams compete in the BJK Cup Regional Group I the following year.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch201_billie_jean_king_cup_GENERIC.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="201" start="20251118080000 +0000" stop="20251118123000 +0000">
-		<title>Billie Jean King Cup Play-Offs 2025 Group D: Croatia vs Czechia</title>
+		<title>Billie Jean King Cup Play-Offs 2025 Group E: Australia vs Portugal</title>
 		<desc>The Billie Jean King Cup Playoffs are a series of team-based matches where 21 nations compete in groups of three. The 7 group winners advance to the BJK Cup Qualifiers in 2026, while the remaining 14 teams compete in the BJK Cup Regional Group I the following year.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch201_billie_jean_king_cup_GENERIC.jpg?w=960&amp;h=540" />
 	</programme>
@@ -10432,9 +10432,9 @@
 		<icon src="https://poster.starhubgo.com/poster/ch210_motorsports.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="210" start="20251116165500 +0000" stop="20251116183000 +0000">
-		<title>2025 MotoGP Awards (Live)</title>
+		<title>2025 MotoGP Awards</title>
 		<desc>Celebrate the stars and stories of an unforgettable season at the 2025 MotoGP Awards, honouring the best riders, teams, and moments of the year.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch210_motorsports.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch210_motogp.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="210" start="20251116183000 +0000" stop="20251116200000 +0000">
 		<title>SailGP S5: Spain Sail Grand Prix, Cadiz</title>
@@ -10454,7 +10454,7 @@
 	<programme channel="210" start="20251116223000 +0000" stop="20251116233000 +0000">
 		<title>MotoGP Rd22 Motul GP of the Valencian Community</title>
 		<desc>The 2025 MotoGP sees 22 of the world's best riders battle on 1000cc prototype machines, delivering over 250hp and reaching speeds of 360kph across 22 thrilling Grands Prix in 18 countries.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch210_motorsports.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch210_motogp.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="210" start="20251116233000 +0000" stop="20251117043000 +0000">
 		<title>MotoGP Rd22 Motul GP of the Valencian Community</title>
@@ -10516,30 +10516,30 @@
 		<desc>The 2025 MotoGP sees 22 of the world's best riders battle on 1000cc prototype machines, delivering over 250hp and reaching speeds of 360kph across 22 thrilling Grands Prix in 18 countries.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_motogp.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="210" start="20251118011500 +0000" stop="20251118043000 +0000">
+	<programme channel="210" start="20251118012000 +0000" stop="20251118043000 +0000">
 		<title>MotoGP Rd22 Motul GP of the Valencian Community</title>
 		<desc>The 2025 MotoGP sees 22 of the world's best riders battle on 1000cc prototype machines, delivering over 250hp and reaching speeds of 360kph across 22 thrilling Grands Prix in 18 countries.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch210_motorsports.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch210_motogp.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="210" start="20251118043000 +0000" stop="20251118073000 +0000">
+	<programme channel="210" start="20251118043000 +0000" stop="20251118071500 +0000">
 		<title>MLB 2025 Postseason: ALDS Game 3 New York Yankees vs Toronto Blue Jays</title>
-		<desc>Watch baseball’s top teams battle it out in the ultimate test of skill, strategy, and endurance. Every pitch, every swing, every moment counts. Download and watch all MLB games live on SPOTV NOW.</desc>
+		<desc>Watch baseball's top teams battle it out in the ultimate test of skill, strategy, and endurance. Every pitch, every swing, every moment counts. Download and watch all MLB games live on SPOTV NOW.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_baseball.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="210" start="20251118073000 +0000" stop="20251118093000 +0000">
+	<programme channel="210" start="20251118071500 +0000" stop="20251118093000 +0000">
 		<title>Supercars 2025: Penrite Oil Sandown 500</title>
 		<desc>Supercars delivers exhilarating and accessible motorsports-led entertainment to engaged and passionate fans.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_motorsports.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="210" start="20251118093000 +0000" stop="20251118124500 +0000">
+	<programme channel="210" start="20251118093000 +0000" stop="20251118125000 +0000">
 		<title>MotoGP Rd22 Motul GP of the Valencian Community</title>
 		<desc>The 2025 MotoGP sees 22 of the world's best riders battle on 1000cc prototype machines, delivering over 250hp and reaching speeds of 360kph across 22 thrilling Grands Prix in 18 countries.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch210_motorsports.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch210_motogp.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="210" start="20251118124500 +0000" stop="20251118160000 +0000">
+	<programme channel="210" start="20251118125000 +0000" stop="20251118160000 +0000">
 		<title>MotoGP Rd22 Motul GP of the Valencian Community</title>
 		<desc>The 2025 MotoGP sees 22 of the world's best riders battle on 1000cc prototype machines, delivering over 250hp and reaching speeds of 360kph across 22 thrilling Grands Prix in 18 countries.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch210_motorsports.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch210_motogp.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="211" start="20251116160000 +0000" stop="20251116170000 +0000">
 		<title>ATP Tour Review Show 2025</title>
@@ -19913,12 +19913,12 @@
 	</programme>
 	<programme channel="447" start="20251116170000 +0000" stop="20251116175500 +0000">
 		<title>Landline (2025) - EP 40</title>
-		<desc>Hosted by award-winning journalist Pip Courtney, Landline is Australia's only national agricultural television program covering stories from Australia's rural and regional heartland.</desc>
+		<desc>Australia's bumper harvest overshadowed by a surge in international grain production; Finding a balance between koalas and timber; Water politics in the Macquarie Marshes; and restoring community spirit in a tiny border town.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="447" start="20251116175500 +0000" stop="20251116183000 +0000">
 		<title>Offsiders (2025) - EP 41</title>
-		<desc>Five days out from the First Ashes Test in Perth, Abbey Gelmi and the panel bring you the latest ahead of the much-anticipated series between Australia and England, plus AFLW Semi Finals, the WBBL, A Leagues, NBL and WNBL.</desc>
+		<desc>Abbey Gelmi and the panel Gideon Haigh, Peter Lalor and Alexia Pesce discuss the lead up to the First Ashes Test in Perth, the opening week of the WBBL and the AFLW Finals._x000D_</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="447" start="20251116183000 +0000" stop="20251116190000 +0000">
@@ -20101,12 +20101,12 @@
 		<desc>Good Tucker heads to spa country for a Kaiseki inspired Japanese restaurant.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="447" start="20251118022000 +0000" stop="20251118025500 +0000">
+	<programme channel="447" start="20251118022000 +0000" stop="20251118025000 +0000">
 		<title>First Generation S1 - EP 1</title>
 		<desc>First Generation follows nine inspiring people from the Asia-Pacific who built new lives and forged their own path. Their stories celebrate ambition, belonging, and the diverse spirit that defines modern Australia.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="447" start="20251118025500 +0000" stop="20251118032500 +0000">
+	<programme channel="447" start="20251118025000 +0000" stop="20251118032500 +0000">
 		<title>Eat The Invaders S1 - EP 2</title>
 		<desc>Tony Armstrong explores the European Carp's culinary potential and ecological impact in Australia, challenging perceptions while transforming this invasive fish into a sustainable food source.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341&amp;h=192" />
@@ -20122,7 +20122,7 @@
 		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="447" start="20251118044500 +0000" stop="20251118050000 +0000">
-		<title>The Beautiful Bush S2021 - EP 4</title>
+		<title>The Beautiful Bush (2021) - EP 4</title>
 		<desc>John Glover was a colonial artist called the father of Australian landscape painting. His historic Tasmanian home and property has been restored, while remaining a wool business. Landline's Margot Ellis reported in 2019</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341&amp;h=192" />
 	</programme>
@@ -20141,12 +20141,12 @@
 		<desc>Good Tucker heads to spa country for a Kaiseki inspired Japanese restaurant.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="447" start="20251118072000 +0000" stop="20251118072500 +0000">
+	<programme channel="447" start="20251118072000 +0000" stop="20251118073000 +0000">
 		<title>Pasin Wantok S1 - EP 4</title>
 		<desc>In the arid village of Wamira, traditional irrigation is used for good cultivation and harvest.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="447" start="20251118072500 +0000" stop="20251118080000 +0000">
+	<programme channel="447" start="20251118073000 +0000" stop="20251118080000 +0000">
 		<title>First Generation S1 - EP 1</title>
 		<desc>First Generation follows nine inspiring people from the Asia-Pacific who built new lives and forged their own path. Their stories celebrate ambition, belonging, and the diverse spirit that defines modern Australia.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341&amp;h=192" />
@@ -22212,7 +22212,7 @@
 		<icon src="https://poster.starhubgo.com/poster/ch633_Beetlejuice_Beetlejuice.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="603" start="20251118071000 +0000" stop="20251118084500 +0000">
-		<title>PU-239</title>
+		<title>Pu-239</title>
 		<desc>A worker at a Russian nuclear plant steals a small amount of weapons grade plutonium and tries to sell it on the Moscow black market.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch633_PU239.jpg?w=960&amp;h=540" />
 	</programme>
@@ -32766,12 +32766,17 @@
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20251117154400 +0000" stop="20251117163500 +0000">
+	<programme channel="832" start="20251117154400 +0000" stop="20251117160000 +0000">
 		<title>Overtime No More</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20251117163500 +0000" stop="20251117170000 +0000">
+	<programme channel="832" start="20251117160000 +0000" stop="20251117163400 +0000">
+		<title>Overtime No More</title>
+		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="832" start="20251117163400 +0000" stop="20251117170000 +0000">
 		<title>Searching for flavor</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
