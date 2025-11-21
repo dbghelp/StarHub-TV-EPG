@@ -7176,12 +7176,17 @@
 		<desc>The life of a lazy magazine reporter takes a turn after he is asked to interview a lawyer.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="140" start="20251121193000 +0000" stop="20251121213000 +0000">
+	<programme channel="140" start="20251121193000 +0000" stop="20251121215500 +0000">
 		<title>Sound Thoma</title>
 		<desc>Thoma, a man with a cleft lip, tries to portray his greedy father as a charitable person.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="140" start="20251121213000 +0000" stop="20251122013000 +0000">
+	<programme channel="140" start="20251121215500 +0000" stop="20251121232000 +0000">
+		<title>Kili Poyi</title>
+		<desc>Two friends, who are fed up with their employer, go to Goa and discover a mysterious bag.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="140" start="20251121232000 +0000" stop="20251122013000 +0000">
 		<title>Thinkal Muthal Velli Vare</title>
 		<desc>A famous scriptwriter is forced into marriage by a woman who threatens to commit suicide.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=341&amp;h=192" />
@@ -10416,10 +10421,15 @@
 		<desc>Supercars delivers exhilarating and accessible motorsports-led entertainment to engaged and passionate fans.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_motorsports.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="210" start="20251121013000 +0000" stop="20251121060000 +0000">
+	<programme channel="210" start="20251121013000 +0000" stop="20251121053000 +0000">
 		<title>WTT Star Contender Muscat 2025</title>
 		<desc>WTT Star Contenders consist of 6 events throughout the year, which serve as the platform for the next best in the world to earn ranking points to make the step up into the WTT Champions Series.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_wtt.jpg?w=960&amp;h=540" />
+	</programme>
+	<programme channel="210" start="20251121053000 +0000" stop="20251121060000 +0000">
+		<title>2025/26 ALM Mini Match Rd 4 Wellington Phoenix vs Auckland FC</title>
+		<desc>Top flight men's soccer returns in the ISUZU UTE A-League Men. Catch every moment on SPOTV NOW as 12 teams compete in the regular season with top 4 advancing to a single-game knockout.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch210_spotv2_logo.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="210" start="20251121060000 +0000" stop="20251121063000 +0000">
 		<title>MotoGP 2025 Spotlight</title>
