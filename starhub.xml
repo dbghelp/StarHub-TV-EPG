@@ -232,6 +232,10 @@
 		<display-name>Hub Premier 6</display-name>
 		<icon src="https://poster.starhubgo.com/Linear_Channels2/226_1920x1080_HTV.png?w=272" />
 	</channel>
+	<channel id="227">
+		<display-name>Hub Premier 7</display-name>
+		<icon src="https://poster.starhubgo.com/Linear_Channels2/227_1920x1080_HTV.png?w=272" />
+	</channel>
 	<channel id="228">
 		<display-name>Hub Premier 8</display-name>
 		<icon src="https://poster.starhubgo.com/Linear_Channels2/228_1920x1080_HTV.png?w=272" />
@@ -6108,7 +6112,7 @@
 	</programme>
 	<programme channel="135" start="20251202003000 +0000" stop="20251202010000 +0000">
 		<title>Chinna Marumagal Panirendaam Vaguppu - EP 487</title>
-		<desc>A woman's educational aspirations are curtailed by her betrothal to a patriarch's son.</desc>
+		<desc>Sethupathi exposes Bose's lies about fetching the life-saving medicine.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch135_chinna_marumagal_panirendaam_vaguppu.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="135" start="20251202010000 +0000" stop="20251202013000 +0000">
@@ -6123,7 +6127,7 @@
 	</programme>
 	<programme channel="135" start="20251202020000 +0000" stop="20251202023000 +0000">
 		<title>Siragadikka Aasai - EP 863</title>
-		<desc>Meena and Muthukumar face various trials and tribulations in their marriage.</desc>
+		<desc>Manoj and Rohini feature in an advertisement for their showroom.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch135_siragadikka_aasai.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="135" start="20251202023000 +0000" stop="20251202040000 +0000">
@@ -6143,7 +6147,7 @@
 	</programme>
 	<programme channel="135" start="20251202050000 +0000" stop="20251202053000 +0000">
 		<title>Chinna Marumagal Panirendaam Vaguppu - EP 487</title>
-		<desc>A woman's educational aspirations are curtailed by her betrothal to a patriarch's son.</desc>
+		<desc>Sethupathi exposes Bose's lies about fetching the life-saving medicine.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch135_chinna_marumagal_panirendaam_vaguppu.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="135" start="20251202053000 +0000" stop="20251202060000 +0000">
@@ -6158,7 +6162,7 @@
 	</programme>
 	<programme channel="135" start="20251202063000 +0000" stop="20251202070000 +0000">
 		<title>Siragadikka Aasai - EP 863</title>
-		<desc>Meena and Muthukumar face various trials and tribulations in their marriage.</desc>
+		<desc>Manoj and Rohini feature in an advertisement for their showroom.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch135_siragadikka_aasai.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="135" start="20251202070000 +0000" stop="20251202073000 +0000">
@@ -7391,17 +7395,22 @@
 		<desc>Sadasivan protects Soumini from many people who start appearing after her husband's death.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="140" start="20251201233000 +0000" stop="20251202013000 +0000">
+	<programme channel="140" start="20251201232000 +0000" stop="20251202013000 +0000">
 		<title>Payyans</title>
 		<desc>Josy's carefree life ends after his mother's death and the return of his estranged father.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="140" start="20251202013000 +0000" stop="20251202043000 +0000">
+	<programme channel="140" start="20251202013000 +0000" stop="20251202020000 +0000">
+		<title>Chirikkum Thalika - EP 32</title>
+		<desc>A compilation of various entertaining comedy scenes from various Malayalam movies.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="140" start="20251202020000 +0000" stop="20251202044500 +0000">
 		<title>Neelakasham Pachakadal Chuvanna Bhoomi</title>
 		<desc>The lives of Kasi and Suni change when they go on a road trip from Kerala to Nagaland.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="140" start="20251202043000 +0000" stop="20251202073000 +0000">
+	<programme channel="140" start="20251202044500 +0000" stop="20251202073000 +0000">
 		<title>Romancham</title>
 		<desc>Trouble ensues when a group of seven men contact a spirit through their seance.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=341&amp;h=192" />
@@ -7421,12 +7430,12 @@
 		<desc>A carpenter's life takes a turn when he rescues an ill-treated maid and takes care of her.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="140" start="20251202163000 +0000" stop="20251202193000 +0000">
+	<programme channel="140" start="20251202163000 +0000" stop="20251202192000 +0000">
 		<title>Nerariyan CBI</title>
 		<desc>Sethurama Iyer, a CBI officer, tries to track down a mysterious murderer.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="140" start="20251202193000 +0000" stop="20251202213000 +0000">
+	<programme channel="140" start="20251202192000 +0000" stop="20251202213000 +0000">
 		<title>Manoharam</title>
 		<desc>A poster artist tries to rebuild his life after facing professional and personal setbacks.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=341&amp;h=192" />
@@ -9123,7 +9132,7 @@
 	</programme>
 	<programme channel="153" start="20251201233000 +0000" stop="20251202000000 +0000">
 		<title>Close up</title>
-		<desc>The weekly half-hour program delivers in-depth reporting on topical political issues and newsworthy events. Revealing the story behind the stories, "Close up" is informative, gripping and visually powerful.</desc>
+		<desc>Rescue groups are going undercover to save children from trafficking. But a DW investigation finds some are putting children at risk. Several girls in the Philippines say they were abused by men sent to save them.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20251202000000 +0000" stop="20251202000200 +0000">
@@ -9138,7 +9147,7 @@
 	</programme>
 	<programme channel="153" start="20251202003000 +0000" stop="20251202010000 +0000">
 		<title>Eco Africa</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+		<desc>In Uganda, e-cargo bikes support the health service, boost businesses and cut emissions. Also: A sustainable women's cooperative in Mauritania and bird protection in Burundi.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20251202010000 +0000" stop="20251202011500 +0000">
@@ -9163,7 +9172,7 @@
 	</programme>
 	<programme channel="153" start="20251202023000 +0000" stop="20251202030000 +0000">
 		<title>REV</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+		<desc>Adolf Rosenberger, Jewish co-founder of Porsche, was forced out under the Nazis and largely erased from history. New research now reveals his vital role. And the Audi Q3 impresses on the road, but is it worth €60,000?</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20251202030000 +0000" stop="20251202031500 +0000">
@@ -9172,13 +9181,13 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20251202031500 +0000" stop="20251202033000 +0000">
-		<title>Best of DW-online Content</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+		<title>The Dip</title>
+		<desc>Americans pay far more for health care than Europeans, facing huge surgery bills and rising premiums as Obamacare subsidies near expiration and Trump and Congress fight over what comes next. DW reporter Arthur Sullivan explains.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20251202033000 +0000" stop="20251202040000 +0000">
 		<title>Close up</title>
-		<desc>The weekly half-hour program delivers in-depth reporting on topical political issues and newsworthy events. Revealing the story behind the stories, "Close up" is informative, gripping and visually powerful.</desc>
+		<desc>Rescue groups are going undercover to save children from trafficking. But a DW investigation finds some are putting children at risk. Several girls in the Philippines say they were abused by men sent to save them.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20251202040000 +0000" stop="20251202041500 +0000">
@@ -9203,7 +9212,7 @@
 	</programme>
 	<programme channel="153" start="20251202053000 +0000" stop="20251202060000 +0000">
 		<title>Eco India</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+		<desc>Reducing food waste with local cold storage facilities; smart, sustainable hydropower; India's villages go green and AI weeds cropland with precision.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20251202060000 +0000" stop="20251202061500 +0000">
@@ -9212,13 +9221,13 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20251202061500 +0000" stop="20251202063000 +0000">
-		<title>Best of DW-online Content</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+		<title>The Dip</title>
+		<desc>Americans pay far more for health care than Europeans, facing huge surgery bills and rising premiums as Obamacare subsidies near expiration and Trump and Congress fight over what comes next. DW reporter Arthur Sullivan explains.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20251202063000 +0000" stop="20251202070000 +0000">
 		<title>Arts Unveiled</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+		<desc>Cigarettes affect us all! How smoking became a global phenomenon and what power politics and propaganda have to do with it. Also: Thriller writer Ken Follett explores the mystery of Stonehenge. And: Samoan tenor Pene Pati has an angelic voice.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20251202070000 +0000" stop="20251202073000 +0000">
@@ -9238,7 +9247,7 @@
 	</programme>
 	<programme channel="153" start="20251202083000 +0000" stop="20251202090000 +0000">
 		<title>Eco Africa</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+		<desc>In Uganda, e-cargo bikes support the health service, boost businesses and cut emissions. Also: A sustainable women's cooperative in Mauritania and bird protection in Burundi.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20251202090000 +0000" stop="20251202091500 +0000">
@@ -9248,12 +9257,12 @@
 	</programme>
 	<programme channel="153" start="20251202091500 +0000" stop="20251202094500 +0000">
 		<title>Close up</title>
-		<desc>The weekly half-hour program delivers in-depth reporting on topical political issues and newsworthy events. Revealing the story behind the stories, "Close up" is informative, gripping and visually powerful.</desc>
+		<desc>Rescue groups are going undercover to save children from trafficking. But a DW investigation finds some are putting children at risk. Several girls in the Philippines say they were abused by men sent to save them.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20251202094500 +0000" stop="20251202100000 +0000">
 		<title>Reporter</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+		<desc>The calm is over and the Baltics face very real threats: human trafficking from Belarus, acts of sabotage and Russian military jets in NATO airspace._x000D_</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20251202100000 +0000" stop="20251202103000 +0000">
@@ -9263,7 +9272,7 @@
 	</programme>
 	<programme channel="153" start="20251202103000 +0000" stop="20251202110000 +0000">
 		<title>Tomorrow Today</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+		<desc>High-speed X-rays let researchers see exactly what happens during a collision. Also on the show: plastic-eating worms, a sailboat for ocean research, and why women in soccer run farther and play harder than men.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20251202110000 +0000" stop="20251202113000 +0000">
@@ -9283,12 +9292,12 @@
 	</programme>
 	<programme channel="153" start="20251202121500 +0000" stop="20251202124500 +0000">
 		<title>Close up</title>
-		<desc>The weekly half-hour program delivers in-depth reporting on topical political issues and newsworthy events. Revealing the story behind the stories, "Close up" is informative, gripping and visually powerful.</desc>
+		<desc>Rescue groups are going undercover to save children from trafficking. But a DW investigation finds some are putting children at risk. Several girls in the Philippines say they were abused by men sent to save them.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20251202124500 +0000" stop="20251202130000 +0000">
 		<title>Shift</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+		<desc>AI chatbots are being treated like friends and advisors. Sometimes even as therapists or romantic partners. Can algorithms fulfill our social needs and what are the limits of chatbots?</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20251202130000 +0000" stop="20251202131500 +0000">
@@ -9297,13 +9306,13 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20251202131500 +0000" stop="20251202133000 +0000">
-		<title>Best of DW-online Content</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+		<title>Planet A</title>
+		<desc>Hydropower is considered green energy, but huge dams always come at a huge cost. However, there are innovative small hydropower approaches that claim to harness the water’s power without harming nature. We take a look at three promising examples: the vort</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20251202133000 +0000" stop="20251202140000 +0000">
 		<title>Eco India</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+		<desc>Reducing food waste with local cold storage facilities; smart, sustainable hydropower; India's villages go green and AI weeds cropland with precision.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20251202140000 +0000" stop="20251202143000 +0000">
@@ -9313,7 +9322,7 @@
 	</programme>
 	<programme channel="153" start="20251202143000 +0000" stop="20251202150000 +0000">
 		<title>Global Us</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+		<desc>Much of the Global South is racing ahead with renewables, but who is leading the way? And how cities worldwide scramble to stay livable as temperatures rise. In Angola's Lobito Corridor, a race for resources.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20251202150000 +0000" stop="20251202153000 +0000">
@@ -9323,7 +9332,7 @@
 	</programme>
 	<programme channel="153" start="20251202153000 +0000" stop="20251202160000 +0000">
 		<title>Eco Africa</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+		<desc>In Uganda, e-cargo bikes support the health service, boost businesses and cut emissions. Also: A sustainable women's cooperative in Mauritania and bird protection in Burundi.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20251202160000 +0000" stop="20251202161500 +0000">
@@ -9333,12 +9342,12 @@
 	</programme>
 	<programme channel="153" start="20251202161500 +0000" stop="20251202164500 +0000">
 		<title>Close up</title>
-		<desc>The weekly half-hour program delivers in-depth reporting on topical political issues and newsworthy events. Revealing the story behind the stories, "Close up" is informative, gripping and visually powerful.</desc>
+		<desc>Rescue groups are going undercover to save children from trafficking. But a DW investigation finds some are putting children at risk. Several girls in the Philippines say they were abused by men sent to save them.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20251202164500 +0000" stop="20251202170000 +0000">
 		<title>Reporter</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+		<desc>The calm is over and the Baltics face very real threats: human trafficking from Belarus, acts of sabotage and Russian military jets in NATO airspace._x000D_</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20251202170000 +0000" stop="20251202171500 +0000">
@@ -9347,13 +9356,13 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20251202171500 +0000" stop="20251202173000 +0000">
-		<title>Best of DW-online Content</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+		<title>Planet A</title>
+		<desc>Hydropower is considered green energy, but huge dams always come at a huge cost. However, there are innovative small hydropower approaches that claim to harness the water’s power without harming nature. We take a look at three promising examples: the vort</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20251202173000 +0000" stop="20251202180000 +0000">
 		<title>REV</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+		<desc>Adolf Rosenberger, Jewish co-founder of Porsche, was forced out under the Nazis and largely erased from history. New research now reveals his vital role. And the Audi Q3 impresses on the road, but is it worth €60,000?</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20251202180000 +0000" stop="20251202183000 +0000">
@@ -9363,7 +9372,7 @@
 	</programme>
 	<programme channel="153" start="20251202183000 +0000" stop="20251202190000 +0000">
 		<title>Eco Africa</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+		<desc>In Uganda, e-cargo bikes support the health service, boost businesses and cut emissions. Also: A sustainable women's cooperative in Mauritania and bird protection in Burundi.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20251202190000 +0000" stop="20251202190200 +0000">
@@ -9373,12 +9382,12 @@
 	</programme>
 	<programme channel="153" start="20251202190200 +0000" stop="20251202193000 +0000">
 		<title>Eco India</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+		<desc>Reducing food waste with local cold storage facilities; smart, sustainable hydropower; India's villages go green and AI weeds cropland with precision.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20251202193000 +0000" stop="20251202200000 +0000">
 		<title>Tomorrow Today</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+		<desc>High-speed X-rays let researchers see exactly what happens during a collision. Also on the show: plastic-eating worms, a sailboat for ocean research, and why women in soccer run farther and play harder than men.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20251202200000 +0000" stop="20251202203000 +0000">
@@ -9397,18 +9406,18 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20251202210200 +0000" stop="20251202211500 +0000">
-		<title>Best of DW-online Content</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+		<title>Planet A</title>
+		<desc>Hydropower is considered green energy, but huge dams always come at a huge cost. However, there are innovative small hydropower approaches that claim to harness the water’s power without harming nature. We take a look at three promising examples: the vort</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20251202211500 +0000" stop="20251202214500 +0000">
 		<title>Close up</title>
-		<desc>The weekly half-hour program delivers in-depth reporting on topical political issues and newsworthy events. Revealing the story behind the stories, "Close up" is informative, gripping and visually powerful.</desc>
+		<desc>Rescue groups are going undercover to save children from trafficking. But a DW investigation finds some are putting children at risk. Several girls in the Philippines say they were abused by men sent to save them.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20251202214500 +0000" stop="20251202220000 +0000">
 		<title>Shift</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+		<desc>AI chatbots are being treated like friends and advisors. Sometimes even as therapists or romantic partners. Can algorithms fulfill our social needs and what are the limits of chatbots?</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20251202220000 +0000" stop="20251202220200 +0000">
@@ -9423,7 +9432,7 @@
 	</programme>
 	<programme channel="153" start="20251202223000 +0000" stop="20251202230000 +0000">
 		<title>The 77 Percent</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+		<desc>This week on The 77 Percent, we look at the movements shaping Africa’s political future. Young people are challenging election results and asking whether democracy can survive as aging leaders cling to power.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20251202230000 +0000" stop="20251202231500 +0000">
@@ -9432,13 +9441,13 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20251202231500 +0000" stop="20251202233000 +0000">
-		<title>Best of DW-online Content</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+		<title>Planet A</title>
+		<desc>Hydropower is considered green energy, but huge dams always come at a huge cost. However, there are innovative small hydropower approaches that claim to harness the water’s power without harming nature. We take a look at three promising examples: the vort</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20251202233000 +0000" stop="20251203000000 +0000">
 		<title>Global Us</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+		<desc>Much of the Global South is racing ahead with renewables, but who is leading the way? And how cities worldwide scramble to stay livable as temperatures rise. In Angola's Lobito Corridor, a race for resources.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20251203000000 +0000" stop="20251203000200 +0000">
@@ -12385,6 +12394,31 @@
 		<title>End of Transmission</title>
 		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_Channels2/226_1920x1080_HTV.png?w=960&amp;h=540" />
+	</programme>
+	<programme channel="227" start="20251201220000 +0000" stop="20251202040000 +0000">
+		<title>End of Transmission</title>
+		<desc />
+		<icon src="https://poster.starhubgo.com/Linear_Channels2/227_1920x1080_HTV.png?w=960&amp;h=540" />
+	</programme>
+	<programme channel="227" start="20251202040000 +0000" stop="20251202100000 +0000">
+		<title>End of Transmission</title>
+		<desc />
+		<icon src="https://poster.starhubgo.com/Linear_Channels2/227_1920x1080_HTV.png?w=960&amp;h=540" />
+	</programme>
+	<programme channel="227" start="20251202100000 +0000" stop="20251202160000 +0000">
+		<title>End of Transmission</title>
+		<desc />
+		<icon src="https://poster.starhubgo.com/Linear_Channels2/227_1920x1080_HTV.png?w=960&amp;h=540" />
+	</programme>
+	<programme channel="227" start="20251202160000 +0000" stop="20251202220000 +0000">
+		<title>End of Transmission</title>
+		<desc />
+		<icon src="https://poster.starhubgo.com/Linear_Channels2/227_1920x1080_HTV.png?w=960&amp;h=540" />
+	</programme>
+	<programme channel="227" start="20251202220000 +0000" stop="20251203040000 +0000">
+		<title>End of Transmission</title>
+		<desc />
+		<icon src="https://poster.starhubgo.com/Linear_Channels2/227_1920x1080_HTV.png?w=960&amp;h=540" />
 	</programme>
 	<programme channel="228" start="20251201160000 +0000" stop="20251201220000 +0000">
 		<title>End of Transmission</title>
@@ -33342,9 +33376,9 @@
 		<icon src="https://poster.starhubgo.com/poster/ch838_handsup.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="838" start="20251202020000 +0000" stop="20251202023000 +0000">
-		<title>Take Liza to the World &amp; What's On Today</title>
-		<desc>Featuring Liza Wang, this travel variety show journeys to unique destinations alongside a cast of younger artists. Each guest leads Liza to places meaningful to them, introducing local scenery, culture, cuisine and little-known attractions.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch838_take_liza_to_the_world.jpg?w=341&amp;h=192" />
+		<title>10 Festive Ways to Enjoy Hong Kong</title>
+		<desc>As the holidays are approaching, host Jiang Meiyi and guest artists introduce the best places to eat, drink and have fun during this season. With engaging travel guides, they'll encourage viewers to stay in Hong Kong and enjoy their time there.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch838_10_festive_ways_to_enjoy_hong_kong.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="838" start="20251202023000 +0000" stop="20251202030000 +0000">
 		<title>Gourmet Express</title>
@@ -33387,9 +33421,9 @@
 		<icon src="https://poster.starhubgo.com/poster/ch838_under_the_moonlight.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="838" start="20251202073000 +0000" stop="20251202080000 +0000">
-		<title>Take Liza to the World</title>
-		<desc>Featuring Liza Wang, this travel variety show journeys to unique destinations alongside a cast of younger artists. Each guest leads Liza to places meaningful to them, introducing local scenery, culture, cuisine and little-known attractions.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch838_take_liza_to_the_world.jpg?w=341&amp;h=192" />
+		<title>Gourmet Express</title>
+		<desc>Hong Kong is home to gourmet food from all over the world. Our food anchors and hosts keep up with the latest foodie information and offers, gaining an in-depth understanding of the stories behind the taste.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch838_gourmet_express.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="838" start="20251202080000 +0000" stop="20251202083000 +0000">
 		<title>Funny Funny Home</title>
