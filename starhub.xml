@@ -752,7 +752,7 @@
 	</programme>
 	<programme channel="102" start="20251205133000 +0000" stop="20251205140000 +0000">
 		<title>On The Red Dot - EP 30</title>
-		<desc>On The Red Dot offers weekly in-depth analysis and discussion on key issues and events that matter to Singaporeans.</desc>
+		<desc>In remote Ladakh, where medical care is scarce, Singaporean gynaecologist offers free cervical cancer screenings - giving women access to preventive healthcare that could save their lives.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="102" start="20251205140000 +0000" stop="20251205162000 +0000">
@@ -772,7 +772,7 @@
 	</programme>
 	<programme channel="102" start="20251205180000 +0000" stop="20251205183000 +0000">
 		<title>On The Red Dot - EP 30</title>
-		<desc>On The Red Dot offers weekly in-depth analysis and discussion on key issues and events that matter to Singaporeans.</desc>
+		<desc>In remote Ladakh, where medical care is scarce, Singaporean gynaecologist offers free cervical cancer screenings - giving women access to preventive healthcare that could save their lives.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="102" start="20251205183000 +0000" stop="20251205190000 +0000">
@@ -2260,12 +2260,12 @@
 		<desc>(Dual language Mandarin and Korean) Shina and Daoxian become the new advertising models for the company. _x000D_Yin Song finally finds the evidence to prove her innocence in the cabin fire._x000D_</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/107_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="107" start="20251205173000 +0000" stop="20251205183000 +0000">
+	<programme channel="107" start="20251205173000 +0000" stop="20251205182500 +0000">
 		<title>Meant To Be - EP 66</title>
 		<desc>(Dual language Mandarin and Korean) Yin Song discovers Shina’s blood test results concealed in Daoxian’s room and is determined to uncover the reason they were hidden.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/107_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="107" start="20251205183000 +0000" stop="20251206005700 +0000">
+	<programme channel="107" start="20251205182500 +0000" stop="20251206005700 +0000">
 		<title>End of transmission</title>
 		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_channels2/107_1920x1080_HTV.png?w=341&amp;h=192" />
@@ -26335,45 +26335,30 @@
 		<desc>Becky Anderson explores diverse perspectives and explains global issues of the day.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch711_connect_the_world.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="711" start="20251205160000 +0000" stop="20251205170000 +0000">
+	<programme channel="711" start="20251205160000 +0000" stop="20251205190000 +0000">
 		<title>One World</title>
 		<desc>Zain Asher and Bianna Golodryga cover the top global and national issues of the day.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch711_one_world_with_zain_asher_and_bianna_golodryga.jpg?w=341&amp;h=192" />
-	</programme>
-	<programme channel="711" start="20251205170000 +0000" stop="20251205180000 +0000">
-		<title>One World</title>
-		<desc>Zain Asher and Bianna Golodryga cover the top global and national issues of the day.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch711_one_world_with_zain_asher_and_bianna_golodryga.jpg?w=341&amp;h=192" />
-	</programme>
-	<programme channel="711" start="20251205180000 +0000" stop="20251205190000 +0000">
-		<title>Amanpour</title>
-		<desc>Christiane Amanpour provides her powerful interview skills and provocative analysis on global stories that matter to you.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch711_amanpour.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="711" start="20251205190000 +0000" stop="20251205200000 +0000">
 		<title>Isa Soares Tonight</title>
 		<desc>Isa Soares deep dives into today's top stories with insightful conversations and reports from around the world.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch711_isa_soares_tonight.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="711" start="20251205200000 +0000" stop="20251205210000 +0000">
+	<programme channel="711" start="20251205200000 +0000" stop="20251205213000 +0000">
 		<title>What We Know with Max Foster</title>
 		<desc>Max Foster has a definitive roundup of the day's top stories, giving you the urgent need-to-know context, plus a deeper dive into the questions sparking debate around the world.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch711_what_we_know_with_max_foster.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="711" start="20251205210000 +0000" stop="20251205220000 +0000">
-		<title>Quest Means Business</title>
-		<desc>Richard Quest speaks to the top names in global business to bring viewers the bottom line.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch711_quest_means_business.jpg?w=341&amp;h=192" />
-	</programme>
-	<programme channel="711" start="20251205220000 +0000" stop="20251205223000 +0000">
-		<title>The Lead with Jake Tapper (30m)</title>
-		<desc>The latest, up-to-date news stories from around the globe.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch711_the_lead_with_jake_tapper.jpg?w=960&amp;h=540" />
-	</programme>
-	<programme channel="711" start="20251205223000 +0000" stop="20251205230000 +0000">
+	<programme channel="711" start="20251205213000 +0000" stop="20251205220000 +0000">
 		<title>World Sport</title>
 		<desc>Daily sports show features major stories and issues making news in the world of sports.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch711_world_sport.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="711" start="20251205220000 +0000" stop="20251205230000 +0000">
+		<title>Amanpour</title>
+		<desc>Christiane Amanpour provides her powerful interview skills and provocative analysis on global stories that matter to you.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch711_amanpour.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="711" start="20251205230000 +0000" stop="20251206000000 +0000">
 		<title>The Brief with Jim Sciutto</title>
