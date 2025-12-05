@@ -895,9 +895,14 @@
 		<desc>P. King Duckling is an animated comedy series that follows the adventures of a friendly but slightly hapless duck P. King and his two best friends, Wombat and Chumpkins, as they find hilarious and creative ways to overcome challenges.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="102" start="20251206050000 +0000" stop="20251206063000 +0000">
+	<programme channel="102" start="20251206050000 +0000" stop="20251206061500 +0000">
 		<title>Slugterra: Return Of The Elementals</title>
 		<desc>A new member has joined Eli and the Shane Gang! Junjie, once the protector of the Eastern Caverns, is a master of the slugslinging art of Slug Fu!</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="102" start="20251206061500 +0000" stop="20251206063000 +0000">
+		<title>Minibods - EP 33</title>
+		<desc>Lulu learns about a magical Snowhoof and goes on an exciting adventure to find out if it is real.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="102" start="20251206063000 +0000" stop="20251206070000 +0000">
@@ -2027,7 +2032,7 @@
 	</programme>
 	<programme channel="106" start="20251206130200 +0000" stop="20251206140000 +0000">
 		<title>Inside The Great ATM Heist - EP 1</title>
-		<desc>Documentary on how international cybercriminals staged one of the largest cash heists in the world in Taiwan and how the case was solved</desc>
+		<desc>ATMs across Taiwan spewed millions in cash with no ATM cards or PINs required - sparking the island’s most bizarre crime wave in history.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="106" start="20251206140000 +0000" stop="20251206143000 +0000">
@@ -2037,7 +2042,7 @@
 	</programme>
 	<programme channel="106" start="20251206143000 +0000" stop="20251206150000 +0000">
 		<title>On The Red Dot - EP 30</title>
-		<desc>On The Red Dot offers weekly in-depth analysis and discussion on key issues and events that matter to Singaporeans.</desc>
+		<desc>In remote Ladakh, where medical care is scarce, Singaporean gynaecologist offers free cervical cancer screenings - giving women access to preventive healthcare that could save their lives.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="106" start="20251206150000 +0000" stop="20251206150300 +0000">
@@ -7440,14 +7445,14 @@
 		<desc>Live News from Kalaignar TV studio</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/141_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="141" start="20251206023000 +0000" stop="20251206033000 +0000">
-		<title>MOVIE - VASUKI (U/A)</title>
-		<desc>MOVIE - VASUKI (U/A) Starring Mammootty, Nayanthara</desc>
+	<programme channel="141" start="20251206023000 +0000" stop="20251206043000 +0000">
+		<title>MOVIE - SEMA (U)</title>
+		<desc>MOVIE - SEMA (U) Starring GV Prakash Kumar, Arthana Binu, Yogi Babu</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/141_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="141" start="20251206033000 +0000" stop="20251206073000 +0000">
-		<title>MOVIE - KALLOORI (U)</title>
-		<desc>MOVIE - KALLOORI (U) Starring Akhil,Tamannah Bhatia, Bharani</desc>
+	<programme channel="141" start="20251206043000 +0000" stop="20251206073000 +0000">
+		<title>MOVIE - IDIOT (U)</title>
+		<desc>MOVIE - IDIOT (U) Starring Mirchi Shiva, Nikki Galrani</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/141_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="141" start="20251206073000 +0000" stop="20251206080000 +0000">
@@ -7456,8 +7461,8 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/141_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="141" start="20251206080000 +0000" stop="20251206110000 +0000">
-		<title>MOVIE - PAIYAA (U)</title>
-		<desc>MOVIE - PAIYAA (U) Starring Karthi, Tamannaah Bhatia, Jegan, Milind Soman</desc>
+		<title>MOVIE - SINGAPPORE SALOON (U)</title>
+		<desc>MOVIE - SINGAPPORE SALOON (U) Starring RJ Balaji, Meenakshi Chaudhry, Sathyaraj, Lal, Kishen Das</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/141_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="141" start="20251206110000 +0000" stop="20251206120000 +0000">
@@ -7476,23 +7481,23 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/141_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="141" start="20251206133000 +0000" stop="20251206140000 +0000">
-		<title>Kaathuvaakula Rendu Kaadhal - EP 82</title>
+		<title>Kaathuvaakula Rendu Kaadhal - EP 88</title>
 		<desc>A Mega Serial of A loyal jeweller torn between love, manipulation, and duty, Saravanan is forced into a marriage that destroys his true relationship, only to later face a heart-wrenching choice between his past, his present, and his future.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/141_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="141" start="20251206140000 +0000" stop="20251206143000 +0000">
-		<title>Rudhra - EP 52</title>
+		<title>Rudhra - EP 58</title>
 		<desc>Story of a woman with a hidden past moves to Chennai with her young daughter, unraveling mysteries, suspense, and unexpected alliances in a gripping family-thriller drama.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/141_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="141" start="20251206143000 +0000" stop="20251206150000 +0000">
-		<title>Gauri - EP 574</title>
+		<title>Gauri - EP 580</title>
 		<desc>A devotional mega series of Gauri is a child blessed by Goddess masani in maraiyanur village, two zameens of that village plans to kill gauri for their development, Finally what happened to guari and thet zameen is story</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/141_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="141" start="20251206150000 +0000" stop="20251206160000 +0000">
-		<title>Best of Unmai Vellum</title>
-		<desc>Unmai Vellum is a reality talk show that uncovers real-life emotional truths and seeks resolution through honest conversations hosted by Lakshmi Ramakrishnan</desc>
+		<title>Little Super Heroes - EP 1</title>
+		<desc>Little Super Heroes is a reality show, hosted by Karunakaran where children showcased their talents</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/141_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="143" start="20251204160000 +0000" stop="20251204163000 +0000">
@@ -9312,7 +9317,7 @@
 	</programme>
 	<programme channel="153" start="20251206050200 +0000" stop="20251206053000 +0000">
 		<title>Arts Unveiled</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+		<desc>500 years ago, Jakob Fugger ran a financial empire - much like Elon Musk does today. Born in 1775, Jane Austen can still teach readers about romance today. Markus Karstieß’s ceramic creations are somewhere between monstrous and human.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20251206053000 +0000" stop="20251206060000 +0000">
@@ -10260,10 +10265,15 @@
 		<desc>The 2025/26 East Asia Super League is the third regular season of the League, an international basketball club competition involving 12 teams from Hong Kong, Japan, Macau, Mongolia, South Korea, Philippines and Taiwan.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch201_easl.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="206" start="20251206120000 +0000" stop="20251206160000 +0000">
+	<programme channel="206" start="20251206120000 +0000" stop="20251206144500 +0000">
 		<title>End of Transmission</title>
 		<desc>End of Transmission</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/206_1920x1080_HTV.png?w=960&amp;h=540" />
+	</programme>
+	<programme channel="206" start="20251206144500 +0000" stop="20251206180000 +0000">
+		<title>The Emirates FA Cup 2025/26 Goals Show (Live)</title>
+		<desc>The FA Cup Goals Show showcases all goals scored during the matchday.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch206_the_emirates_fa_cup_2425.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="207" start="20251204160000 +0000" stop="20251204220000 +0000">
 		<title>End of Transmission</title>
@@ -20725,10 +20735,20 @@
 		<desc>The action packed franchise is back…with the next generation of Spy Kids!</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch509_Spy_Kids_All_The_Time_In_The_World.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="509" start="20251206023000 +0000" stop="20251206070500 +0000">
-		<title>Asian Academy Creative Awards 2025</title>
-		<desc>The Asian Academy Creative Awards 2025, Asia-Pacific’s most prestigious celebration of creative excellence.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch509_asian_academy_creative_awards_2025_Grand_Awards_Gala.jpg?w=960&amp;h=540" />
+	<programme channel="509" start="20251206023000 +0000" stop="20251206040000 +0000">
+		<title>Hotel Transylvania 2</title>
+		<desc>When the old-old-old-fashioned vampire Vlad arrives at the hotel for an impromptu family get-together, Hotel Transylvania is in for a collision of supernatural old-school and modern day cool.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch509_Hotel_Transylvania_2.jpg?w=960&amp;h=540" />
+	</programme>
+	<programme channel="509" start="20251206040000 +0000" stop="20251206053000 +0000">
+		<title>Smurfs: The Lost Village</title>
+		<desc>Smurfette and her friends go to the Forbidden Forest to find a lost village. When the evil wizard Gargamel gets to know of this, he devises a plan to stop the smurfs from discovering the town.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch509_Smurfs_The_Lost_Village.jpg?w=960&amp;h=540" />
+	</programme>
+	<programme channel="509" start="20251206053000 +0000" stop="20251206070500 +0000">
+		<title>City Of Ember</title>
+		<desc>Ember was built as a refuge for humanity 200 years ago. Now, the great generator that powers the city is failing, and Ember is falling into darkness as the dazzling lights begin to flicker and fade.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch509_City_Of_Ember.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="509" start="20251206070500 +0000" stop="20251206084500 +0000">
 		<title>Zathura: A Space Adventure</title>
@@ -23537,7 +23557,7 @@
 	</programme>
 	<programme channel="701" start="20251206003000 +0000" stop="20251206010000 +0000">
 		<title>Tech Now</title>
-		<desc>Tech Now explores the latest innovation and technology shaping our lives. Bringing you the inside track on global trends and advancements happening in the tech space today.</desc>
+		<desc>Nick Kwek visits the National Space Industry Hub in Sydney to meet some of the most innovative startups on the scene.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch701_BBC_news.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="701" start="20251206010000 +0000" stop="20251206013000 +0000">
@@ -23597,7 +23617,7 @@
 	</programme>
 	<programme channel="701" start="20251206063000 +0000" stop="20251206070000 +0000">
 		<title>Tech Now</title>
-		<desc>Tech Now explores the latest innovation and technology shaping our lives. Bringing you the inside track on global trends and advancements happening in the tech space today.</desc>
+		<desc>Nick Kwek visits the National Space Industry Hub in Sydney to meet some of the most innovative startups on the scene.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch701_BBC_news.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="701" start="20251206070000 +0000" stop="20251206073000 +0000">
@@ -23617,7 +23637,7 @@
 	</programme>
 	<programme channel="701" start="20251206083000 +0000" stop="20251206090000 +0000">
 		<title>Global Eye</title>
-		<desc>A weekly programme from the BBC World Service, bringing forensic journalism from all corners of the world.</desc>
+		<desc>BBC Eye investigates allegations that police in Georgia used a chemical weapon against protestors. Elizaveta Fokht reports from Berlin on Russia's shadow war against the West.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch701_BBC_news.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="701" start="20251206090000 +0000" stop="20251206100000 +0000">
@@ -23632,7 +23652,7 @@
 	</programme>
 	<programme channel="701" start="20251206103000 +0000" stop="20251206110000 +0000">
 		<title>Talking Business</title>
-		<desc>Examining the business stories and economic trends that are re-shaping our world.</desc>
+		<desc>Mark Lobel explores burnout at work, he talks to Christina Maslach who helped discover the term and examines how the issue impacts on CEOs.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch701_talking_business.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="701" start="20251206110000 +0000" stop="20251206113000 +0000">
@@ -26402,7 +26422,7 @@
 	</programme>
 	<programme channel="711" start="20251206063000 +0000" stop="20251206070000 +0000">
 		<title>Tech for Good</title>
-		<desc>The power of technology to build a better world - incredible people beating the odds to follow their dreams, and the remarkable new technologies enabling them and others to thrive.</desc>
+		<desc>They feed us, sustain us, and produce the oxygen we breathe. From farms to forests, agriculture is the foundation of life itself. Meet the young innovators developing technology to make the agriculture industry smarter, greener, and more resilient. From r</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch711_tech_for_good.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="711" start="20251206070000 +0000" stop="20251206073000 +0000">
@@ -26422,7 +26442,7 @@
 	</programme>
 	<programme channel="711" start="20251206083000 +0000" stop="20251206090000 +0000">
 		<title>Connecting Africa</title>
-		<desc>We profile the people, projects and companies revolutionising African business and bringing the continent together.</desc>
+		<desc>We travel to Egypt to meet one of the continent's most influential business leaders, Sir Mohammed Mansour, an Egyptian billionaire whose enterprises span mobility, industry, sports, and culture. We visit several locations across Cairo and include a specia</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch711_connecting_africa.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="711" start="20251206090000 +0000" stop="20251206093000 +0000">
@@ -26447,7 +26467,7 @@
 	</programme>
 	<programme channel="711" start="20251206113000 +0000" stop="20251206120000 +0000">
 		<title>Tech for Good</title>
-		<desc>The power of technology to build a better world - incredible people beating the odds to follow their dreams, and the remarkable new technologies enabling them and others to thrive.</desc>
+		<desc>They feed us, sustain us, and produce the oxygen we breathe. From farms to forests, agriculture is the foundation of life itself. Meet the young innovators developing technology to make the agriculture industry smarter, greener, and more resilient. From r</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch711_tech_for_good.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="711" start="20251206120000 +0000" stop="20251206130000 +0000">
@@ -26472,7 +26492,7 @@
 	</programme>
 	<programme channel="711" start="20251206153000 +0000" stop="20251206160000 +0000">
 		<title>Inside Africa</title>
-		<desc>Inside Africa takes its viewers on a journey across Africa, exploring the true diversity and depth of different cultures, countries and regions.</desc>
+		<desc>We celebrate the nation's emerging athletic talent, from the Olympic 4 × 400 meters relay team's record-breaking performance to Ross Branch's trailblazing achievements in the Dakar Rally and young tennis sensation Malak Macheng's rise. We follow the relay</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch711_inside_africa.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="722" start="20251204160000 +0000" stop="20251204170000 +0000">
