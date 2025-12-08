@@ -640,9 +640,24 @@
 		<desc>Young Geo explores Tangra-planet, an amazing place with geometrical landscapes, along with his friends the Tangranimals . These amusing creatures can link together like Tangram pieces, and thus create all sorts of vehicles, creatures and objects. With that power, plus a good measure of imagination, Geo and his friends are ready to meet any challenge!</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="102" start="20251208025500 +0000" stop="20251208073000 +0000">
-		<title>33rd SEA Games Thailand 2025: Daily Action At The Games - EP 23</title>
-		<desc>Catch Team Singapore athletes in action at the Games and cheer them on as they pit themselves against some of the region's best at 33rd SEA Games in Thailand.</desc>
+	<programme channel="102" start="20251208025500 +0000" stop="20251208060000 +0000">
+		<title>33rd SEA Games 2025: Daily Action At The Games - EP 23</title>
+		<desc>Catch Team Singapore in action as they face some of the region’s top athletes at the 33rd SEA Games. - Badminton (WT) SF THA vs SGP</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="102" start="20251208060000 +0000" stop="20251208063000 +0000">
+		<title>Supa Strikas - EP 34</title>
+		<desc>(Dual Language English and Malay) Follow Shakes, Rasta and the rest of the Supa Strikas on their quest to become the world's greatest football team!</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="102" start="20251208063000 +0000" stop="20251208070000 +0000">
+		<title>Gigantosaurus S2 - EP 11</title>
+		<desc>Rocky, Bill, Tiny and Mazu are four young dinosaurs growing up in the Cretaceous period. Life is always an adventure: new volcanoes are popping up all the time, long-necked brachiosauruses and enormous triceratopses roam free, meteor showers light up the night sky and... the fierce Gigantosaurus reigns over it all!</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="102" start="20251208070000 +0000" stop="20251208073000 +0000">
+		<title>Planet Action S4 - EP 4</title>
+		<desc>Planet Action takes you behind the scenes of the best action movies released. Each episode you'll get all the secrets straight from your favorite action heroes, get exclusive trivia and special reports from the most dangerous film sets, and get insight information on how the filmmakers make giant monsters come to life. This show is a sci-fi, cowboy, world-destruction, action-combo that will literally blow your mind!</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="102" start="20251208073000 +0000" stop="20251208080000 +0000">
@@ -4567,7 +4582,7 @@
 	</programme>
 	<programme channel="128" start="20251207233000 +0000" stop="20251208000000 +0000">
 		<title>Tuu Juliet Jatt Di - EP 20</title>
-		<desc>This is a Network Series Category</desc>
+		<desc>This is Drama Category</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch128_tuu_juliet_jatt_di.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="128" start="20251208000000 +0000" stop="20251208010000 +0000">
@@ -4592,7 +4607,7 @@
 	</programme>
 	<programme channel="128" start="20251208040000 +0000" stop="20251208043000 +0000">
 		<title>Mannat Harr Khushi Paane Ki - EP 273</title>
-		<desc>Chef Mannat's dreams clash with her employer, who is her secret birth mother and nemesis.</desc>
+		<desc>Vikrant confronts Mannat, accusing her of putting Dhairya before him.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch128_mannat_harr_khushi_paane_ki.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="128" start="20251208043000 +0000" stop="20251208050000 +0000">
@@ -4637,7 +4652,7 @@
 	</programme>
 	<programme channel="128" start="20251208090000 +0000" stop="20251208093000 +0000">
 		<title>Mannat Harr Khushi Paane Ki - EP 273</title>
-		<desc>Chef Mannat's dreams clash with her employer, who is her secret birth mother and nemesis.</desc>
+		<desc>Vikrant confronts Mannat, accusing her of putting Dhairya before him.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch128_mannat_harr_khushi_paane_ki.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="128" start="20251208093000 +0000" stop="20251208103000 +0000">
@@ -4692,7 +4707,7 @@
 	</programme>
 	<programme channel="128" start="20251208183000 +0000" stop="20251208190000 +0000">
 		<title>Mannat Harr Khushi Paane Ki - EP 273</title>
-		<desc>Chef Mannat's dreams clash with her employer, who is her secret birth mother and nemesis.</desc>
+		<desc>Vikrant confronts Mannat, accusing her of putting Dhairya before him.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch128_mannat_harr_khushi_paane_ki.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="128" start="20251208190000 +0000" stop="20251208200000 +0000">
@@ -4707,7 +4722,7 @@
 	</programme>
 	<programme channel="128" start="20251208203000 +0000" stop="20251208210000 +0000">
 		<title>Tuu Juliet Jatt Di - EP 20</title>
-		<desc>This is a Network Series Category</desc>
+		<desc>This is Drama Category</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch128_tuu_juliet_jatt_di.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="128" start="20251208210000 +0000" stop="20251208213000 +0000">
@@ -4747,7 +4762,7 @@
 	</programme>
 	<programme channel="128" start="20251209010000 +0000" stop="20251209043000 +0000">
 		<title>Bigg Boss - EP 106</title>
-		<desc>Celebrity contestants live in an isolated house and perform tasks in order to win.</desc>
+		<desc>The housemates present some power-packed performances before the winner is announced.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch128_bigg_boss.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="128" start="20251209043000 +0000" stop="20251209050000 +0000">
@@ -10345,27 +10360,27 @@
 		<desc>The 2025 Ryder Cup Official Film tells the story of the 45th Ryder Cup, the biggest and most anticipated match in the event's rich history.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch209_golf.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="209" start="20251208040000 +0000" stop="20251208050000 +0000">
+	<programme channel="209" start="20251208040000 +0000" stop="20251208051000 +0000">
 		<title>Formula E S12: Rd1 Sao Paulo E-Prix</title>
 		<desc>The electric racing revolution continues in Formula E Season 12, as top drivers battle across iconic cities for the world championship crown.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch209_motorsports.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="209" start="20251208050000 +0000" stop="20251208060000 +0000">
+	<programme channel="209" start="20251208051000 +0000" stop="20251208070500 +0000">
 		<title>Formula E S12: Rd1 Sao Paulo E-Prix</title>
 		<desc>The electric racing revolution continues in Formula E Season 12, as top drivers battle across iconic cities for the world championship crown.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch209_motorsports.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="209" start="20251208060000 +0000" stop="20251208080000 +0000">
+	<programme channel="209" start="20251208070500 +0000" stop="20251208094500 +0000">
 		<title>Formula E S12: Rd1 Sao Paulo E-Prix</title>
 		<desc>The electric racing revolution continues in Formula E Season 12, as top drivers battle across iconic cities for the world championship crown.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch209_motorsports.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="209" start="20251208080000 +0000" stop="20251208100000 +0000">
+	<programme channel="209" start="20251208094500 +0000" stop="20251208110000 +0000">
 		<title>Formula E S12: Rd1 Sao Paulo E-Prix</title>
 		<desc>The electric racing revolution continues in Formula E Season 12, as top drivers battle across iconic cities for the world championship crown.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch209_motorsports.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="209" start="20251208100000 +0000" stop="20251208150000 +0000">
+	<programme channel="209" start="20251208110000 +0000" stop="20251208150000 +0000">
 		<title>Snow League 25/26: Yunding Snow Park</title>
 		<desc>Young snowboarders and freeski athletes battle in The Snow League, showcasing big tricks, high drama and world-class halfpipe action.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/209_1920x1080_HTV.png?w=341&amp;h=192" />
@@ -10490,17 +10505,17 @@
 		<desc>Adrenaline-fueled races, legendary global locations, rival national teams and record-breaking speeds. SailGP is the most exciting racing on water - Powered By Nature.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_spotv2_logo.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="210" start="20251208060000 +0000" stop="20251208080000 +0000">
+	<programme channel="210" start="20251208060000 +0000" stop="20251208075100 +0000">
 		<title>2025 Women's Football Friendlies Match 1 Australia v New Zealand</title>
 		<desc>The Matildas take on New Zealand in a scheduled women's international friendly, giving both squads key preparation for upcoming tournaments.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_spotv2_logo.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="210" start="20251208080000 +0000" stop="20251208083000 +0000">
+	<programme channel="210" start="20251208075100 +0000" stop="20251208081800 +0000">
 		<title>2025/26 A-League Men Round 6</title>
 		<desc>Relive the best goals, key moments &amp; top performances from the Isuzu UTE A-League Men. Weekly highlights cover every club &amp; thrilling match. Download and watch every moment on SPOTV NOW.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_spotv2_logo.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="210" start="20251208083000 +0000" stop="20251208123000 +0000">
+	<programme channel="210" start="20251208081800 +0000" stop="20251208123000 +0000">
 		<title>2025 FIM ARRC Round 6 Thailand</title>
 		<desc>The FIM Asia Road Racing Championship is the regional motorcycle road racing championship for Asia, held since 1996.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_motorsports.jpg?w=341&amp;h=192" />
@@ -10540,12 +10555,12 @@
 		<desc>Relive the best goals, key moments &amp; top performances from the Isuzu UTE A-League Men. Weekly highlights cover every club &amp; thrilling match. Download and watch every moment on SPOTV NOW.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_spotv2_logo.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="210" start="20251208210000 +0000" stop="20251209013000 +0000">
+	<programme channel="210" start="20251208210000 +0000" stop="20251209014000 +0000">
 		<title>2025 FIM ARRC Round 6 Thailand</title>
 		<desc>The FIM Asia Road Racing Championship is the regional motorcycle road racing championship for Asia, held since 1996.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_motorsports.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="210" start="20251209013000 +0000" stop="20251209033000 +0000">
+	<programme channel="210" start="20251209014000 +0000" stop="20251209033000 +0000">
 		<title>25/26 A-League Men Round 7 Newcastle Jets FC vs Melbourne City FC</title>
 		<desc>Top flight men's soccer returns in the ISUZU UTE A-League Men. Catch every moment on SPOTV NOW as 12 teams compete in the regular season with top 4 advancing to a single-game knockout.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_spotv2_logo.jpg?w=960&amp;h=540" />
@@ -10570,12 +10585,12 @@
 		<desc>Launched in 2022, The International Series is a set of 10 elevated events that form an Asian Tour-sanctioned pathway onto the lucrative LIV Golf League.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_golf.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="210" start="20251209083000 +0000" stop="20251209130000 +0000">
+	<programme channel="210" start="20251209083000 +0000" stop="20251209131000 +0000">
 		<title>2025 FIM ARRC Round 6 Thailand</title>
 		<desc>The FIM Asia Road Racing Championship is the regional motorcycle road racing championship for Asia, held since 1996.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_motorsports.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="210" start="20251209130000 +0000" stop="20251209150000 +0000">
+	<programme channel="210" start="20251209131000 +0000" stop="20251209150000 +0000">
 		<title>25/26 A-League Men Round 7 Newcastle Jets FC vs Melbourne City FC</title>
 		<desc>Top flight men's soccer returns in the ISUZU UTE A-League Men. Catch every moment on SPOTV NOW as 12 teams compete in the regular season with top 4 advancing to a single-game knockout.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_spotv2_logo.jpg?w=960&amp;h=540" />
@@ -26217,17 +26232,17 @@
 	</programme>
 	<programme channel="711" start="20251207173000 +0000" stop="20251207180000 +0000">
 		<title>Inside Africa</title>
-		<desc>We celebrate the nation's emerging athletic talent, from the Olympic 4 × 400 meters relay team's record-breaking performance to Ross Branch's trailblazing achievements in the Dakar Rally and young tennis sensation Malak Macheng's rise. We follow the relay</desc>
+		<desc>We celebrate the nation's emerging athletic talent, from the Olympic 4 × 400 meters relay team's record-breaking performance to Ross Branch's trailblazing achievements in the Dakar Rally and young tennis sensation Malak Macheng's rise. We follow the relay team's historic silver medal at the Paris 2024 Olympics, Branch's role in putting Botswana on the global motorsport map, and Malak's journey as the 2025 Junior Sportswoman of the Year.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch711_inside_africa.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="711" start="20251207180000 +0000" stop="20251207183000 +0000">
 		<title>African Voices Changemakers</title>
-		<desc>Ebuka Obi-Uchendu sits down with Larry Madowo to share how he went from a shy law graduate to the celebrated host of Big Brother Naija. We explore his bold fashion collaborations with designer Mai Atafo and the cultural stories behind his iconic style, pl</desc>
+		<desc>Ebuka Obi-Uchendu sits down with Larry Madowo to share how he went from a shy law graduate to the celebrated host of Big Brother Naija. We explore his bold fashion collaborations with designer Mai Atafo and the cultural stories behind his iconic style, plus a rare look at his home life, his advocacy for young boys and his growing influence.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch711_african_voices_changemakers.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="711" start="20251207183000 +0000" stop="20251207190000 +0000">
 		<title>Tech for Good</title>
-		<desc>They feed us, sustain us, and produce the oxygen we breathe. From farms to forests, agriculture is the foundation of life itself. Meet the young innovators developing technology to make the agriculture industry smarter, greener, and more resilient. From r</desc>
+		<desc>They feed us, sustain us, and produce the oxygen we breathe. From farms to forests, agriculture is the foundation of life itself. Meet the young innovators developing technology to make the agriculture industry smarter, greener, and more resilient. From robot harvesters to self-burying seeds, we dive into the future of farming and reforestation - designed, coded, and cultivated by the next generation.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch711_tech_for_good.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="711" start="20251207190000 +0000" stop="20251207200000 +0000">
@@ -26240,6 +26255,11 @@
 		<desc>Updates of the latest news from around the world.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch711_cnn_newsroom.jpg?w=960&amp;h=540" />
 	</programme>
+	<programme channel="711" start="20251207210000 +0000" stop="20251207220000 +0000">
+		<title>State of the Union with Jake Tapper and Dana Bash</title>
+		<desc>Jake Tapper and Dana Bash bring together major newsmakers, analysts and experts to tackle pressing domestic issues and diplomacy on the global stage.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch711_state_of_the_union_with_jake_tapper_and_dana_bash.jpg?w=960&amp;h=540" />
+	</programme>
 	<programme channel="711" start="20251207220000 +0000" stop="20251207223000 +0000">
 		<title>World Sport</title>
 		<desc>Daily sports show features major stories and issues making news in the world of sports.</desc>
@@ -26247,7 +26267,7 @@
 	</programme>
 	<programme channel="711" start="20251207223000 +0000" stop="20251207230000 +0000">
 		<title>Connecting Africa</title>
-		<desc>We travel to Egypt to meet one of the continent's most influential business leaders, Sir Mohammed Mansour, an Egyptian billionaire whose enterprises span mobility, industry, sports, and culture. We visit several locations across Cairo and include a specia</desc>
+		<desc>We travel to Egypt to meet one of the continent's most influential business leaders, Sir Mohammed Mansour, an Egyptian billionaire whose enterprises span mobility, industry, sports, and culture. We visit several locations across Cairo and include a special walk and talk with Eleni Giokos at the Grand Egyptian Museum, where history, culture and modern business leadership converge, and where Sir Mohamed serves as a trustee.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch711_connecting_africa.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="711" start="20251207230000 +0000" stop="20251208000000 +0000">
@@ -26522,7 +26542,7 @@
 	</programme>
 	<programme channel="711" start="20251209154500 +0000" stop="20251209160000 +0000">
 		<title>Marketplace Middle East</title>
-		<desc>With nearly five billion passengers expected in 2025, global aviation is entering a high-growth phase, pushing major hubs to innovate through AI, automation, and new infrastructure to handle record demand. Also, at the Dubai Airshow, we track how industry</desc>
+		<desc>With nearly five billion passengers expected in 2025, global aviation is entering a high-growth phase, pushing major hubs to innovate through AI, automation, and new infrastructure to handle record demand. Also, at the Dubai Airshow, we track how industry giants are shaping the next era of commercial flight amid rising profits and shifting global routes.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch711_marketplace_middle_east.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="722" start="20251207160000 +0000" stop="20251207163000 +0000">
