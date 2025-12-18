@@ -646,12 +646,12 @@
 	</programme>
 	<programme channel="102" start="20251218030000 +0000" stop="20251218110000 +0000">
 		<title>33rd SEA Games 2025: Daily Action At The Games - EP 17</title>
-		<desc>(Live) Catch Team Singapore in action as they face some of the region’s top athletes at the 33rd SEA Games._x000D_- Floorball (W) &amp; (M) SF / Diving (M) 3m Spring Board Final / Floorball (W) &amp; (M) SF / Table Tennis (MS/WS) Prelims &amp; QF / Fencing (MT) Foil + (WT) Epee + (WT) Sabre Prelim-Final (Live/Delayed)</desc>
+		<desc>(Live) Catch Team Singapore in action as they face some of the region’s top athletes at the 33rd SEA Games._x000D_- Table Tennis Prelims R2: Table 1: (MS) SGP vs MAS [Quek], (MS) SGP vs THA [Le], (WS) THA vs SGP (Ser), Table 3: (WS) SGP vs MAS [Zeng] (Live) / Water Polo (M) RR: PHI vs SGP (Recorded) / Diving (M) 3m Spring Board Final (Live) / Table Tennis (MS/WS) Prelims R3: Table 1: (MS) SGP vs LAO [Quek], Table 3: (MS) SGP vs INA [Le], (WS) SGP vs PHI (Ser)</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="102" start="20251218110000 +0000" stop="20251218130000 +0000">
 		<title>33rd SEA Games 2025: Daily Action At The Games - EP 18</title>
-		<desc>(Live) Catch Team Singapore in action as they face some of the region’s top athletes at the 33rd SEA Games._x000D_- Floorball (W) &amp; (M) SF / Table Tennis (MS/WS) Prelims &amp; QF / Fencing (MT) Foil + (WT) Epee + (WT) Sabre Prelim-Final</desc>
+		<desc>(Live) Catch Team Singapore in action as they face some of the region’s top athletes at the 33rd SEA Games._x000D_- Water Polo (W) RR: SGP vs INA (Live) / Cycling (Track) Finals</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="102" start="20251218130000 +0000" stop="20251218133000 +0000">
@@ -1694,14 +1694,9 @@
 		<desc>From business to politics, health to technology, the latest news from Singapore and analysis of the impact.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="106" start="20251217230000 +0000" stop="20251218020000 +0000">
+	<programme channel="106" start="20251217230000 +0000" stop="20251218030000 +0000">
 		<title>Asia First - EP 188</title>
 		<desc>(Live) Top stories, business news and market updates from across the region as Asia gears up for the day ahead.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="106" start="20251218020000 +0000" stop="20251218030000 +0000">
-		<title>Extraordinary People - EP 3</title>
-		<desc>Steven used to be a financial advisor, now he declutters homes of the elderly, for free; 85-year-old Hang Chung founded a charity to provide lonely seniors with free medical and funeral services.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="106" start="20251218030000 +0000" stop="20251218050000 +0000">
@@ -26110,12 +26105,12 @@
 		<icon src="https://poster.starhubgo.com/poster/ch711_world_sport.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="711" start="20251218070000 +0000" stop="20251218080000 +0000">
-		<title>CNN Newsroom (CNNI)</title>
+		<title>CNN Newsroom (CNNI) (60m)</title>
 		<desc>Live context and clarity to the day's top stories from around the world.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch711_cnn_newsroom.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="711" start="20251218080000 +0000" stop="20251218084500 +0000">
-		<title>CNN Newsroom (CNNI)</title>
+		<title>CNN Newsroom (CNNI) (60m)</title>
 		<desc>Live context and clarity to the day's top stories from around the world.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch711_cnn_newsroom.jpg?w=960&amp;h=540" />
 	</programme>
@@ -26176,7 +26171,7 @@
 	</programme>
 	<programme channel="711" start="20251218163000 +0000" stop="20251218170000 +0000">
 		<title>CNN Creators: The Intro</title>
-		<desc>Live from Doha, Qatar, CNN Creators follows a team of digital-native storytellers as they navigate the stories that matter most, with a focus on tech, art, culture, sport, and social trends.</desc>
+		<desc>We look back on the trends and stories they were clicking on in 2025, and a look at one team's ambitions to reach soccer's World Cup. ?</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch711_cnn_generic.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="711" start="20251218170000 +0000" stop="20251218180000 +0000">
@@ -30761,42 +30756,42 @@
 	</programme>
 	<programme channel="815" start="20251218002500 +0000" stop="20251218010000 +0000">
 		<title>Marie and Her Three Daddies - EP 43</title>
-		<desc>Marie's turbulent journey to find her father leads to the birth of an eccentric new family, one that proves stronger than blood and more persistent than DNA.</desc>
+		<desc>Marie's turbulent journey to find her father leads to the birth of an eccentric new family - one that proves stronger than blood and more persistent than DNA.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch815_marie_and_her_three_daddies.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="815" start="20251218010000 +0000" stop="20251218014000 +0000">
 		<title>A Graceful Liar - EP 53</title>
-		<desc>A bold yet heartbreaking story of a mother and daughter-in-law who meet through marriage and wage a war of lies to seize the Geonhyang family, struggling for a dramatic reversal of fortune.</desc>
+		<desc>In this bold yet heartbreaking story, a mother and daughter-in-law meet through marriage and wage a war of lies to seize the Geonhyang family, struggling for a dramatic reversal of fortune.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch815_a_graceful_liar.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="815" start="20251218014000 +0000" stop="20251218022000 +0000">
 		<title>Queen's House - EP 10</title>
-		<desc>A revenge story about a woman in the top 1% starting over from the ground up to reclaim her stolen life and find her true 'home'. A passionate drama of people striving to regain the true meaning of life.</desc>
+		<desc>This revenge story is about a woman in the top one per cent who starts over from the ground up to reclaim her stolen life and find her true 'home'. A passionate drama about people striving to regain the true meaning of life.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch815_queens_house.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="815" start="20251218022000 +0000" stop="20251218033500 +0000">
 		<title>Our Golden Days - EP 32</title>
-		<desc>Everyone has their golden days. Whether now, in the past, or the future. A heartfelt family melodrama that resonates across generations, exploring those dazzling days we all encounter with different meanings.</desc>
+		<desc>Everyone has their golden days, whether now, in the past, or in the future. This heartfelt family melodrama resonates across generations, exploring those dazzling days we all encounter with different meanings.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch815_our_golden_day.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="815" start="20251218033500 +0000" stop="20251218034000 +0000">
 		<title>The Best of Immortal Songs</title>
-		<desc>The true classic of the century is born again! The legendary classic is reinterpreted by the best vocalists in Korea. Don't miss out on the heart-moving moments that transcend generations.</desc>
+		<desc>The true classics of the century are born again! Classic songs are reinterpreted by the best idol groups in Korea! Don't miss this beautiful competition with heart-moving moments that transcend generations!</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch815_the_best_of_immortal_songs.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="815" start="20251218034000 +0000" stop="20251218045500 +0000">
 		<title>Go Back - EP 12</title>
-		<desc>Almost everyone wants to go back to the moment before making the most regrettable decision of their lives. The same goes for the married couple in this drama--their life-changing project is about to begin!</desc>
+		<desc>Almost everyone wants to go back to the moment before making the most regrettable decision of their lives. The same goes for a married couple in this drama - their life-changing project is about to begin!</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch815_go_back.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="815" start="20251218045500 +0000" stop="20251218051000 +0000">
 		<title>My Run, My Way - EP 8</title>
-		<desc>My Run, My Way - Your Run-trip Guide_x000D__x000D_The moment you run, the journey begins! _x000D_Travel is a way to rediscover yourself in unfamiliar places._x000D_The moment you start to run, it's no longer just sightseeing - it becomes an experience._x000D_&lt;My Run, My Way&gt; is a run-trip project that combines running, local travel, and recovery all in one.</desc>
+		<desc>The moment you run, the journey begins! Travel is a way to rediscover yourself in unfamiliar places. My Run, My Way is a run-trip project that combines running, local travel, and recovery all in one.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch815_my_run_my_way.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="815" start="20251218051000 +0000" stop="20251218062500 +0000">
 		<title>Problem Child in House - EP 32</title>
-		<desc>A collection of outrageous problems that you have never heard of!_x000D_A great 'knowledge talk show' where problematic children who are struggling and fighting in the emotional rooftop room gain true wisdom about life and the world.</desc>
+		<desc>This is a great "knowledge talk show" where problematic children who are struggling and fighting in the emotional rooftop room gain true wisdom about life and the world.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch815_problem_child_in_house.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="815" start="20251218062500 +0000" stop="20251218074000 +0000">
@@ -30806,92 +30801,92 @@
 	</programme>
 	<programme channel="815" start="20251218074000 +0000" stop="20251218080000 +0000">
 		<title>KBS WORLD News Today</title>
-		<desc>KBS World Daily English News _x000D_Anchor : Choi Kyu-yeon</desc>
+		<desc>Bringing you KBS World daily English news, anchored by Choi Kyu-yeon.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch815_kbsworld_news_today.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="815" start="20251218080000 +0000" stop="20251218091500 +0000">
 		<title>The Merchant : Gaekju 2015 - EP 27</title>
-		<desc>This drama tells a story of a successor of the ruined merchant family. Cheon Bongsam, who begins his life as a market tout, becomes the most powerful merchant of Joseon after going through experiences as a head of a private merchant army and a chief master merchant.</desc>
+		<desc>Cheon Bongsam, who begins his life as a market tout, becomes the most powerful merchant of Joseon after going through experiences as a head of a private merchant army and a chief master merchant.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch815_the_merchant_gaekju_2015.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="815" start="20251218091500 +0000" stop="20251218102500 +0000">
 		<title>The Merchant : Gaekju 2015 - EP 28</title>
-		<desc>This drama tells a story of a successor of the ruined merchant family. Cheon Bongsam, who begins his life as a market tout, becomes the most powerful merchant of Joseon after going through experiences as a head of a private merchant army and a chief master merchant.</desc>
+		<desc>Cheon Bongsam, who begins his life as a market tout, becomes the most powerful merchant of Joseon after going through experiences as a head of a private merchant army and a chief master merchant.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch815_the_merchant_gaekju_2015.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="815" start="20251218102500 +0000" stop="20251218113500 +0000">
 		<title>Problem Child in House - EP 32</title>
-		<desc>A collection of outrageous problems that you have never heard of!_x000D_A great 'knowledge talk show' where problematic children who are struggling and fighting in the emotional rooftop room gain true wisdom about life and the world.</desc>
+		<desc>This is a great "knowledge talk show" where problematic children who are struggling and fighting in the emotional rooftop room gain true wisdom about life and the world.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch815_problem_child_in_house.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="815" start="20251218113500 +0000" stop="20251218121000 +0000">
 		<title>Marie and Her Three Daddies - EP 44</title>
-		<desc>Marie's turbulent journey to find her father leads to the birth of an eccentric new family, one that proves stronger than blood and more persistent than DNA.</desc>
+		<desc>Marie's turbulent journey to find her father leads to the birth of an eccentric new family - one that proves stronger than blood and more persistent than DNA.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch815_marie_and_her_three_daddies.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="815" start="20251218121000 +0000" stop="20251218125000 +0000">
 		<title>A Graceful Liar - EP 54</title>
-		<desc>A bold yet heartbreaking story of a mother and daughter-in-law who meet through marriage and wage a war of lies to seize the Geonhyang family, struggling for a dramatic reversal of fortune.</desc>
+		<desc>In this bold yet heartbreaking story, a mother and daughter-in-law meet through marriage and wage a war of lies to seize the Geonhyang family, struggling for a dramatic reversal of fortune.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch815_a_graceful_liar.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="815" start="20251218125000 +0000" stop="20251218140500 +0000">
 		<title>Uncontrollably Fond - EP 15</title>
-		<desc>It's a love story of a man and woman who meet again after they broke up in the past. The man, in the presence of his death, wishes to make amends. Their romance will have you seek comfort and hope in love.</desc>
+		<desc>Uncontrollably Fond is a love story of a man and woman who meet again after they had broken up in the past. The man, in the presence of his death, decides to make her life better as he had destroyed it. Their romance will have you seek comfort, recovery a</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch815_uncontrollably_fond.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="815" start="20251218140500 +0000" stop="20251218153500 +0000">
 		<title>Boss in the Mirror - EP 333</title>
-		<desc>Korean celebrity-bosses go through self-examinations to create truly fulfilling workplaces.</desc>
+		<desc>Korean celebrity-bosses go through self-examination to create a better working environment for their employees.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch815_bossinthemirror.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="815" start="20251218153500 +0000" stop="20251218154000 +0000">
 		<title>The Best of Immortal Songs</title>
-		<desc>The true classic of the century is born again! The legendary classic is reinterpreted by the best vocalists in Korea. Don't miss out on the heart-moving moments that transcend generations.</desc>
+		<desc>The true classics of the century are born again! Classic songs are reinterpreted by the best idol groups in Korea! Don't miss this beautiful competition with heart-moving moments that transcend generations!</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch815_the_best_of_immortal_songs.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="815" start="20251218154000 +0000" stop="20251218165500 +0000">
 		<title>Nothing Uncovered - EP 3</title>
-		<desc>A romantic suspense drama about Seo Jeongwon, a journalist who's accused as the suspect of a murder, and Kim Taeheon, a detective and her ex-boyfriend; the two start to track down the real suspect.</desc>
+		<desc>This romantic suspense drama revolves around Seo Jeongwon, a journalist accused as the suspect of a murder, and Kim Taeheon, a detective and her ex-boyfriend. Together, the two start to track down the real suspect.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch815_nothing_uncovered.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="815" start="20251218165500 +0000" stop="20251218181000 +0000">
 		<title>Nothing Uncovered - EP 4</title>
-		<desc>A romantic suspense drama about Seo Jeongwon, a journalist who's accused as the suspect of a murder, and Kim Taeheon, a detective and her ex-boyfriend; the two start to track down the real suspect.</desc>
+		<desc>This romantic suspense drama revolves around Seo Jeongwon, a journalist accused as the suspect of a murder, and Kim Taeheon, a detective and her ex-boyfriend. Together, the two start to track down the real suspect.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch815_nothing_uncovered.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="815" start="20251218181000 +0000" stop="20251218182500 +0000">
 		<title>Moving Voices Mini Album</title>
-		<desc>A global music trip to experience the music and the culture of various countries.</desc>
+		<desc>Embark on a global music trip to experience the music and the culture of various countries.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch815_moving_voices_mini_album.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="815" start="20251218182500 +0000" stop="20251218183000 +0000">
 		<title>The Best of Immortal Songs</title>
-		<desc>The true classic of the century is born again! The legendary classic is reinterpreted by the best vocalists in Korea. Don't miss out on the heart-moving moments that transcend generations.</desc>
+		<desc>The true classics of the century are born again! Classic songs are reinterpreted by the best idol groups in Korea! Don't miss this beautiful competition with heart-moving moments that transcend generations!</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch815_the_best_of_immortal_songs.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="815" start="20251218183000 +0000" stop="20251218190500 +0000">
 		<title>Marie and Her Three Daddies - EP 44</title>
-		<desc>Marie's turbulent journey to find her father leads to the birth of an eccentric new family, one that proves stronger than blood and more persistent than DNA.</desc>
+		<desc>Marie's turbulent journey to find her father leads to the birth of an eccentric new family - one that proves stronger than blood and more persistent than DNA.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch815_marie_and_her_three_daddies.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="815" start="20251218190500 +0000" stop="20251218194500 +0000">
 		<title>A Graceful Liar - EP 54</title>
-		<desc>A bold yet heartbreaking story of a mother and daughter-in-law who meet through marriage and wage a war of lies to seize the Geonhyang family, struggling for a dramatic reversal of fortune.</desc>
+		<desc>In this bold yet heartbreaking story, a mother and daughter-in-law meet through marriage and wage a war of lies to seize the Geonhyang family, struggling for a dramatic reversal of fortune.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch815_a_graceful_liar.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="815" start="20251218194500 +0000" stop="20251218210000 +0000">
 		<title>Uncontrollably Fond - EP 15</title>
-		<desc>It's a love story of a man and woman who meet again after they broke up in the past. The man, in the presence of his death, wishes to make amends. Their romance will have you seek comfort and hope in love.</desc>
+		<desc>Uncontrollably Fond is a love story of a man and woman who meet again after they had broken up in the past. The man, in the presence of his death, decides to make her life better as he had destroyed it. Their romance will have you seek comfort, recovery a</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch815_uncontrollably_fond.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="815" start="20251218210000 +0000" stop="20251218223000 +0000">
 		<title>Boss in the Mirror - EP 333</title>
-		<desc>Korean celebrity-bosses go through self-examinations to create truly fulfilling workplaces.</desc>
+		<desc>Korean celebrity-bosses go through self-examination to create a better working environment for their employees.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch815_bossinthemirror.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="815" start="20251218223000 +0000" stop="20251218231000 +0000">
 		<title>Queen's House - EP 11</title>
-		<desc>A revenge story about a woman in the top 1% starting over from the ground up to reclaim her stolen life and find her true 'home'. A passionate drama of people striving to regain the true meaning of life.</desc>
+		<desc>This revenge story is about a woman in the top one per cent who starts over from the ground up to reclaim her stolen life and find her true 'home'. A passionate drama about people striving to regain the true meaning of life.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch815_queens_house.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="815" start="20251218231000 +0000" stop="20251219002500 +0000">
