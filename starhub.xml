@@ -2329,12 +2329,12 @@
 		<desc>(Dual language Mandarin and Korean) Zhenxi is looking for Zhenguo but bumps into Dongxi instead. She is shocked to see her brother-in-law working as a security guard. Dongxi looks uneasy and asks her to keep it a secret.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/107_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="107" start="20251230173000 +0000" stop="20251230183000 +0000">
+	<programme channel="107" start="20251230173000 +0000" stop="20251230183500 +0000">
 		<title>Sunny Again Tomorrow - EP 22</title>
 		<desc>(Dual language Mandarin and Korean) At President Jin Haozhe's request, Heni visits SJ Boutique to explore their fashion style. Shanxi mocks En-ai, provoking her to throw salt in retaliation.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/107_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="107" start="20251230183000 +0000" stop="20251231025700 +0000">
+	<programme channel="107" start="20251230183500 +0000" stop="20251231025700 +0000">
 		<title>End of transmission</title>
 		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_channels2/107_1920x1080_HTV.png?w=341&amp;h=192" />
@@ -10175,7 +10175,7 @@
 		<icon src="https://poster.starhubgo.com/poster/ch201_world_darts_championship_2025.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="201" start="20251230230000 +0000" stop="20251231020000 +0000">
-		<title>Badminton Asia 2025 Mixed Team C'ship Finals: China vs Indonesia</title>
+		<title>Badminton Asia 2025 Mixed Team Championship Finals: China vs Indonesia</title>
 		<desc>The Badminton Asia Mixed Team Championships is a biennial tournament organized by Badminton Asia to crown the best national badminton mixed team in Asia. It started as a standalone event for mixed teams since 2017, a year after the Asian Confederation organized the Badminton Asia Men's and Women's Team Championships.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch201_BadmintonWeekly.jpg?w=960&amp;h=540" />
 	</programme>
@@ -10367,7 +10367,7 @@
 	<programme channel="203" start="20251230100000 +0000" stop="20251230110000 +0000">
 		<title>PGA Tour Champions 2025 Highlights</title>
 		<desc>Relive heart warming family moments from the Ritz-Carlton Golf Club in Orlando, Florida.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch203_PGA_TOUR.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch203_pga_tour_cship.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="203" start="20251230110000 +0000" stop="20251230160000 +0000">
 		<title>U.S. Women's Open Championship 2025 presented by Ally</title>
@@ -12726,7 +12726,7 @@
 	</programme>
 	<programme channel="232" start="20251230200500 +0000" stop="20251230221500 +0000">
 		<title>Arsenal vs Aston Villa (MW19) (Live) - EP 185</title>
-		<desc>The 34th season of the Premier League sees Liverpool defend its title against a host of teams keen for glory themselves. 20 teams are in the mix but only 1 champion will emerge ultimately.</desc>
+		<desc>Aston Villa are unbeaten in their last two away league games against Arsenal, beating them 2-0 in April 2024 and drawing 2-2 in January last season. They last had a longer run without defeat the Emirates between 2006-07 and 2008-09 (3).</desc>
 		<icon src="https://poster.starhubgo.com/poster/arsenal_stadium.jpg?w=960" />
 	</programme>
 	<programme channel="232" start="20251230221500 +0000" stop="20251231040000 +0000">
@@ -12736,32 +12736,32 @@
 	</programme>
 	<programme channel="232" start="20251231040000 +0000" stop="20251231060000 +0000">
 		<title>West Ham United vs Brighton and Hove Albion (MW19) - EP 184</title>
-		<desc>The 34th season of the Premier League sees Liverpool defend its title against a host of teams keen for glory themselves. 20 teams are in the mix but only 1 champion will emerge ultimately.</desc>
+		<desc>West Ham have won none of their eight Premier League home games against Brighton (D6 L2) - only Burnley have ever faced an opponent more at home without ever winning in the competition (10 vs Arsenal, 10 vs Chelsea).</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch221_MW19_WHUvBHA_26.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="232" start="20251231060000 +0000" stop="20251231080000 +0000">
 		<title>Nottingham Forest vs Everton (MW19) - EP 183</title>
-		<desc>The 34th season of the Premier League sees Liverpool defend its title against a host of teams keen for glory themselves. 20 teams are in the mix but only 1 champion will emerge ultimately.</desc>
-		<icon src="https://poster.starhubgo.com/poster/nottingham_forest_stadium1.jpg?w=341&amp;h=192" />
+		<desc>Since returning to the Premier League in 2022-23, Nottingham Forest have won just one of their seven matches against Everton (D2 L4), a 2-0 away win in December 2024.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch221_MW19_NFOvEVE_26.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="232" start="20251231080000 +0000" stop="20251231100000 +0000">
 		<title>Burnley vs Newcastle United (MW19) - EP 181</title>
-		<desc>The 34th season of the Premier League sees Liverpool defend its title against a host of teams keen for glory themselves. 20 teams are in the mix but only 1 champion will emerge ultimately.</desc>
+		<desc>Burnley have scored exactly once in all seven of their Premier League home games against Newcastle, though they’ve lost each of the last three since a 1-0 victory in December 2019.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch221_MW19_BURvNEW_26.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="232" start="20251231100000 +0000" stop="20251231120000 +0000">
 		<title>Manchester United vs Wolverhampton Wanderers (MW19) - EP 186</title>
-		<desc>The 34th season of the Premier League sees Liverpool defend its title against a host of teams keen for glory themselves. 20 teams are in the mix but only 1 champion will emerge ultimately.</desc>
+		<desc>Manchester United kept just their second Premier League clean sheet of the season against Newcastle last time out. They last recorded a shutout in consecutive league games in September 2024 under Erik ten Hag (vs Southampton and Crystal Palace).</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch221_MW19_MUNvWOL_26.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="232" start="20251231120000 +0000" stop="20251231140000 +0000">
 		<title>Arsenal vs Aston Villa (MW19) - EP 185</title>
-		<desc>The 34th season of the Premier League sees Liverpool defend its title against a host of teams keen for glory themselves. 20 teams are in the mix but only 1 champion will emerge ultimately.</desc>
+		<desc>Aston Villa are unbeaten in their last two away league games against Arsenal, beating them 2-0 in April 2024 and drawing 2-2 in January last season. They last had a longer run without defeat the Emirates between 2006-07 and 2008-09 (3).</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch221_MW19_ARSvAVL_26.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="232" start="20251231140000 +0000" stop="20251231160000 +0000">
 		<title>Chelsea vs Bournemouth (MW19) - EP 182</title>
-		<desc>The 34th season of the Premier League sees Liverpool defend its title against a host of teams keen for glory themselves. 20 teams are in the mix but only 1 champion will emerge ultimately.</desc>
+		<desc>Bournemouth are winless in their last eight Premier League matches against Chelsea (D4 L4), with the last two ending as draws - only two of the first 15 meetings between the teams had been drawn.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch221_MW19_CHEvBOU_26.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="241" start="20251229160000 +0000" stop="20251229170000 +0000">
@@ -33734,13 +33734,13 @@
 		<desc>Keep up with the news on the entertainment circle in Hong Kong and all over the world, with reports on the latest drama series, movies, concert highlights, award ceremonies and more.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch838_extra.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="838" start="20251231151500 +0000" stop="20251231155000 +0000">
+	<programme channel="838" start="20251231151500 +0000" stop="20251231154000 +0000">
 		<title>News Roundup</title>
 		<desc>A round-up of the news before the day ends.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch838_news_roundup.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="838" start="20251231155000 +0000" stop="20251231163000 +0000">
-		<title>New Year Countdown (Live)</title>
+	<programme channel="838" start="20251231154000 +0000" stop="20251231163000 +0000">
+		<title>Hong Kong New Year Countdown Celebrations (Live)</title>
 		<desc>Don't miss this star‑studded live show where TVB artists, singers and dancers gather on an outdoor stage to celebrate the final night of the year with Hong Kong.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch838_tvb_logo.jpg?w=960&amp;h=540" />
 	</programme>
