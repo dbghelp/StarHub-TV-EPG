@@ -2084,12 +2084,12 @@
 		<desc>(Dual language Mandarin and Korean) Zhenxi is looking for Zhenguo but bumps into Dongxi instead. She is shocked to see her brother-in-law working as a security guard. Dongxi looks uneasy and asks her to keep it a secret.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/107_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="107" start="20251230173000 +0000" stop="20251230183500 +0000">
+	<programme channel="107" start="20251230173000 +0000" stop="20251230183000 +0000">
 		<title>Sunny Again Tomorrow - EP 22</title>
 		<desc>(Dual language Mandarin and Korean) At President Jin Haozhe's request, Heni visits SJ Boutique to explore their fashion style. Shanxi mocks En-ai, provoking her to throw salt in retaliation.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/107_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="107" start="20251230183500 +0000" stop="20251231025700 +0000">
+	<programme channel="107" start="20251230183000 +0000" stop="20251231025700 +0000">
 		<title>End of transmission</title>
 		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_channels2/107_1920x1080_HTV.png?w=341&amp;h=192" />
@@ -5374,6 +5374,11 @@
 		<desc>A constable must make a difficult decision to right a grave injustice.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch132_writer.jpg?w=960&amp;h=540" />
 	</programme>
+	<programme channel="132" start="20260101050000 +0000" stop="20260101053000 +0000">
+		<title>Shiva Shakthi Thiruvilayadal - EP 750</title>
+		<desc>Shiv accepts Ganga into Kailash amidst Mansa's orchestrated turmoil.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch132_shiva_shakthi_thiruvilayadal.jpg?w=341&amp;h=192" />
+	</programme>
 	<programme channel="132" start="20260101053000 +0000" stop="20260101060000 +0000">
 		<title>Shiva Shakthi Thiruvilayadal - EP 751</title>
 		<desc>Ganga's assertion of her ancient connection with Mahadev unsettles Parvati.</desc>
@@ -5383,6 +5388,16 @@
 		<title>Jiivi 2</title>
 		<desc>Saravanan's life turns into a series of challenging situations when Mani returns.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch132_jiivi2.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="132" start="20260101083000 +0000" stop="20260101090000 +0000">
+		<title>Kadhala Kadhala - EP 229</title>
+		<desc>Despite their differing characters, three brothers maintain a close-knit relationship.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch132_kadhala_kadhala.jpg?w=960&amp;h=540" />
+	</programme>
+	<programme channel="132" start="20260101090000 +0000" stop="20260101093000 +0000">
+		<title>Kadhala Kadhala - EP 230</title>
+		<desc>Despite their differing characters, three brothers maintain a close-knit relationship.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch132_kadhala_kadhala.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="132" start="20260101093000 +0000" stop="20260101100000 +0000">
 		<title>Thendral Vandhu Ennai Thodum - EP 163</title>
@@ -5609,14 +5624,9 @@
 		<desc>Moondru Mudichu Serial Stars Celebrates New Year with Sun Stars</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/133_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="133" start="20260101003000 +0000" stop="20260101013000 +0000">
-		<title>Singapenne</title>
-		<desc>Born into a humble &amp; rustic background troubled by familial &amp; financial concerns, Anandhi takes it upon herself to leave home &amp; fearlessly pursue a better life for her family. Watch her bravely face the odds of life with unwavering spirit.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/133_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="133" start="20260101013000 +0000" stop="20260101020000 +0000">
-		<title>Nandhini</title>
-		<desc>Nandini is a supernatural drama series. The story is about a rich influential family haunted by a snake's curse and how a good spirit helps the family from the snake by its supernatural powers.</desc>
+	<programme channel="133" start="20260101010000 +0000" stop="20260101020000 +0000">
+		<title>PUTHAANDU DARBAR</title>
+		<desc>A fun show with Serial Celebrities.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/133_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="133" start="20260101020000 +0000" stop="20260101023000 +0000">
@@ -5624,54 +5634,24 @@
 		<desc>This news programme chronicles the latest events, developments, inventions, discoveries and happenings around the world.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch25_news.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="133" start="20260101023000 +0000" stop="20260101033000 +0000">
-		<title>Nandhini</title>
-		<desc>Nandini is a supernatural drama series. The story is about a rich influential family haunted by a snake's curse and how a good spirit helps the family from the snake by its supernatural powers.</desc>
+	<programme channel="133" start="20260101023000 +0000" stop="20260101030000 +0000">
+		<title>PUTHAANDU JODIGAL</title>
+		<desc>A show with a reel couples Serial Celebrities</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/133_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="133" start="20260101033000 +0000" stop="20260101040000 +0000">
-		<title>Poongodi</title>
-		<desc>Poongodi rises above her father's male chauvinism, intent on proving herself &amp; pursuing a college education. Her path crosses with Saravanan, a naïve young man who blindly trusts his manipulative stepmother. Uncover the fate of the two kindred souls.</desc>
+	<programme channel="133" start="20260101030000 +0000" stop="20260101060000 +0000">
+		<title>Movie- DARBAR</title>
+		<desc>Aaditya, the commissioner of Mumbai Police, sets out to catch Ajay, a drug peddler. However, he uncovers a deeper controversy linked to an international drug lord and must mete out justice.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch25_movie.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="133" start="20260101060000 +0000" stop="20260101070000 +0000">
+		<title>PUTHAANDE VARUGA</title>
+		<desc>A funfilled dance show with Sun Stars</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/133_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="133" start="20260101040000 +0000" stop="20260101043000 +0000">
-		<title>Punitha</title>
-		<desc>Maragatham holds her step-daughter Punitha dear, to the point of being overbearing. However, their bond turns twisted &amp; burdened when Punitha finds her soulmate, Kabilan. Amidst family betrayals, can Punitha show her mother the true meaning of love?</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/133_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="133" start="20260101043000 +0000" stop="20260101050000 +0000">
-		<title>MANAMAGALE VAA</title>
-		<desc>Narmada's mission to her ancestral village to reunite her father &amp; his estranged family entwines with Kathir's task of finding suitable grooms for his three sisters. What unfolds when they fall in love, striving for a cause against the same enemy?</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/133_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="133" start="20260101050000 +0000" stop="20260101053000 +0000">
-		<title>VINODHINI</title>
-		<desc>When her husband, a soldier, disappears in a military accident, Vinothini never loses hope, firmly believing he'll come back. Join her inspiring journey as she cares for his family &amp; meets life's hardships as a single mother with resilience &amp; love</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/133_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="133" start="20260101053000 +0000" stop="20260101060000 +0000">
-		<title>PUTHU VASANTHAM</title>
-		<desc>Raised as a single child, Selvi longs for the loving embrace &amp; heart-warming bond of a joint family. And when her dream comes true, watch her battle all odds &amp; win over her husband's large family.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch25_pudhu_vasantham.jpg?w=341&amp;h=192" />
-	</programme>
-	<programme channel="133" start="20260101060000 +0000" stop="20260101063000 +0000">
-		<title>ilakkiya</title>
-		<desc>Bold and beautiful Ilakkiya finds happiness in making others happy. Circumstance leads to her tying the knot with her friend Gautham. Can Ilakkiya create her destiny, despite Gautham's controlling aunt Bairavi &amp; her conniving cousin Anjali?</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/133_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="133" start="20260101063000 +0000" stop="20260101070000 +0000">
-		<title>LAKSHMI</title>
-		<desc>Maha, her family’s financial backbone, marries Selvam, on condition that she will continue to support her family financially even after marriage. Post which they confront challenges that put the family’s peace and happiness to test.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/133_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="133" start="20260101070000 +0000" stop="20260101073000 +0000">
-		<title>ANANDA RAGAM</title>
-		<desc>Unfortunate events force an ambitious Eashwari and a school dropout Azhagar to tie the knot. Can this odd couple turn their marriage into a happily ever after? Will Eashwari realize her IPS dream amidst life's many hardships?</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/133_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="133" start="20260101073000 +0000" stop="20260101080000 +0000">
-		<title>Movie- PALLIKKOODAM</title>
-		<desc>Three friends who are alumni of a dilapidated school join hands to save it from demolition. While gathering support, they revisit old memories which shaped their personalities.</desc>
+	<programme channel="133" start="20260101070000 +0000" stop="20260101080000 +0000">
+		<title>Movie- AAMBALA</title>
+		<desc>Three brothers return to their native village to mend the relationship between their estranged father and his sisters. However, to unite the family, the brothers are told to marry their cousins.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch25_movie.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="133" start="20260101080000 +0000" stop="20260101083000 +0000">
@@ -5680,8 +5660,8 @@
 		<icon src="https://poster.starhubgo.com/poster/ch25_news.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="133" start="20260101083000 +0000" stop="20260101103000 +0000">
-		<title>Movie contd - PALLIKKOODAM</title>
-		<desc>Three friends who are alumni of a dilapidated school join hands to save it from demolition. While gathering support, they revisit old memories which shaped their personalities.</desc>
+		<title>Movie contd - AAMBALA</title>
+		<desc>Three brothers return to their native village to mend the relationship between their estranged father and his sisters. However, to unite the family, the brothers are told to marry their cousins.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch25_movie.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="133" start="20260101103000 +0000" stop="20260101110000 +0000">
@@ -12299,20 +12279,15 @@
 		<desc>Aston Villa are unbeaten in their last two away league games against Arsenal, beating them 2-0 in April 2024 and drawing 2-2 in January last season. They last had a longer run without defeat the Emirates between 2006-07 and 2008-09 (3).</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch221_MW19_ARSvAVL_26.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="223" start="20251230160000 +0000" stop="20251230192000 +0000">
+	<programme channel="223" start="20251230160000 +0000" stop="20251230200500 +0000">
 		<title>End of Transmission</title>
 		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_Channels2/223_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="223" start="20251230192000 +0000" stop="20251230213000 +0000">
+	<programme channel="223" start="20251230200500 +0000" stop="20251230221500 +0000">
 		<title>Manchester United vs Wolverhampton Wanderers (MW19) (Live) - EP 186</title>
 		<desc>Manchester United kept just their second Premier League clean sheet of the season against Newcastle last time out. They last recorded a shutout in consecutive league games in September 2024 under Erik ten Hag (vs Southampton and Crystal Palace).</desc>
 		<icon src="https://poster.starhubgo.com/poster/man_united_stadium.jpg?w=960" />
-	</programme>
-	<programme channel="223" start="20251230213000 +0000" stop="20251230220000 +0000">
-		<title>End of Transmission</title>
-		<desc />
-		<icon src="https://poster.starhubgo.com/Linear_Channels2/223_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="223" start="20251230221500 +0000" stop="20251231040000 +0000">
 		<title>End of Transmission</title>
@@ -22756,7 +22731,7 @@
 	</programme>
 	<programme channel="604" start="20251231001000 +0000" stop="20251231003500 +0000">
 		<title>Sesame Street S54 - EP 10</title>
-		<desc>To make food shopping more fun, Alan turns it into a game. Elmo, Abby, and Cookie Monster need to find three foods that start with the letter C from different sections of the supermarket.   Can they get the food in Alan's cart before he finishes checking out?</desc>
+		<desc>To make food shopping more fun, Alan turns it into a game. Elmo, Abby, and Cookie Monster need to find three foods that start with the letter C from different sections of the supermarket.   Can they get the food in Alan's cart before he finishes checking</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch604_sesame_street_s54.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="604" start="20251231003500 +0000" stop="20251231010500 +0000">
@@ -22796,8 +22771,8 @@
 	</programme>
 	<programme channel="604" start="20251231025500 +0000" stop="20251231034000 +0000">
 		<title>Top Chef Junior S2 - EP 7</title>
-		<desc>The chefs are joined at the hip when they must share the infamous "double apron" with a teammate and whip up a pie for members of the hit a Capella group, Pentatonix. For the Elimination Challenge, the chefs team up again to create a hot &amp; cold dish for some of the best chefs in Los Angeles. However, the chefs will have to be mindful of their food scraps as they'll be judged not just on the dishes, but on how much food they waste.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch604_top_chef_junior_s2.jpg?w=341&amp;h=192" />
+		<desc>The chefs are joined at the hip when they must share the infamous "double apron" with a teammate and whip up a pie for members of the hit a Capella group, Pentatonix. For the Elimination Challenge, the chefs team up again to create a hot &amp; cold dish for s</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch604_top_chef_jr_s2.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="604" start="20251231034000 +0000" stop="20251231051500 +0000">
 		<title>Must Love Dogs</title>
@@ -22871,8 +22846,8 @@
 	</programme>
 	<programme channel="604" start="20251231110000 +0000" stop="20251231114500 +0000">
 		<title>Top Chef Junior S2 - EP 8</title>
-		<desc>In the most anticipated challenge of Top Chef, the chefs form two teams to plan and execute an entire restaurant concept in only 24 hours! From designing the decor to establishing a menu, the chefs have their hands full. Meanwhile, two very different personalities emerge as the executive chefs for each restaurant: Will the more trusting, collaborative chef lead their team to victory? Or will the demanding visionary help bring their restaurant the win?</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch604_top_chef_junior_s2.jpg?w=341&amp;h=192" />
+		<desc>In the most anticipated challenge of Top Chef, the chefs form two teams to plan and execute an entire restaurant concept in only 24 hours! From designing the decor to establishing a menu, the chefs have their hands full. Meanwhile, two very different pers</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch604_top_chef_jr_s2.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="604" start="20251231114500 +0000" stop="20251231123500 +0000">
 		<title>Ben 10: Ben Gen 10</title>
@@ -30947,12 +30922,12 @@
 	<programme channel="815" start="20251231140500 +0000" stop="20251231152500 +0000">
 		<title>The 46th Blue Dragon Film Awards</title>
 		<desc>An annual film festival established to improve the quality of Korean films and to promote the development of the Korean film industry.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch815_the_46th_blue_dragon_film_awards.jpg?w=960&amp;h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch815_stars_top_recipe_at_fun_staurant.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="815" start="20251231152500 +0000" stop="20251231164500 +0000">
 		<title>The 46th Blue Dragon Film Awards</title>
 		<desc>An annual film festival established to improve the quality of Korean films and to promote the development of the Korean film industry.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch815_the_46th_blue_dragon_film_awards.jpg?w=960&amp;h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch815_stars_top_recipe_at_fun_staurant.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="815" start="20251231164500 +0000" stop="20251231181500 +0000">
 		<title>Stars' Top Recipe at Fun-Staurant - EP 301</title>
@@ -31056,7 +31031,7 @@
 	</programme>
 	<programme channel="815" start="20260101074000 +0000" stop="20260101075500 +0000">
 		<title>Got The Spot - EP 2</title>
-		<desc>This groundbreaking travel initiative highlights locations that are truly exceptional, blending traditional elements with modern trends. Through the eyes of foreign influencers who thrive on social media, we aim to showcase the unique charm of different regions!</desc>
+		<desc>This groundbreaking travel initiative highlights locations that are truly exceptional, blending traditional elements with modern trends. Through the eyes of foreign influencers who thrive on social media, we aim to showcase the unique charm of different r</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch815_got_the_spot.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="815" start="20260101075500 +0000" stop="20260101080000 +0000">
@@ -31091,7 +31066,7 @@
 	</programme>
 	<programme channel="815" start="20260101125000 +0000" stop="20260101140500 +0000">
 		<title>Uncontrollably Fond - EP 19</title>
-		<desc>Uncontrollably Fond is a love story of a man and woman who meet again after they had broken up in the past. The man, in the presence of his death, decides to make her life better as he had destroyed it. Their romance will have you seek comfort, recovery and hope in love.</desc>
+		<desc>Uncontrollably Fond is a love story of a man and woman who meet again after they had broken up in the past. The man, in the presence of his death, decides to make her life better as he had destroyed it. Their romance will have you seek comfort, recovery a</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch815_uncontrollably_fond.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="815" start="20260101140500 +0000" stop="20260101153500 +0000">
@@ -33247,7 +33222,7 @@
 	<programme channel="838" start="20260101020000 +0000" stop="20260101023000 +0000">
 		<title>Scoop Review 2025&amp; What's On Today</title>
 		<desc>TVB Jade brings you endless entertainment with concurrent dramas and sitcoms, as well as the latest news, variety and infotainment programmes from TVB.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch838_tvb_logo.jpg?w=960&amp;h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch838_scoop_review_2025.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="838" start="20260101023000 +0000" stop="20260101030000 +0000">
 		<title>Not Far From Here</title>
@@ -33292,7 +33267,7 @@
 	<programme channel="838" start="20260101073000 +0000" stop="20260101080000 +0000">
 		<title>Scoop Review 2025</title>
 		<desc>TVB Jade brings you endless entertainment with concurrent dramas and sitcoms, as well as the latest news, variety and infotainment programmes from TVB.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch838_tvb_logo.jpg?w=960&amp;h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch838_scoop_review_2025.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="838" start="20260101080000 +0000" stop="20260101083000 +0000">
 		<title>I Will Be Back</title>
@@ -33327,7 +33302,7 @@
 	<programme channel="838" start="20260101113500 +0000" stop="20260101120000 +0000">
 		<title>Scoop 2026</title>
 		<desc>This programme goes hot on the heels of the biggest happenings in society and the entertainment scene, bringing you the latest scoops.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch838_tvb_logo.jpg?w=960&amp;h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch838_scoop_2026.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="838" start="20260101120000 +0000" stop="20260101130000 +0000">
 		<title>Homeland Guardian - EP 13</title>
@@ -33337,7 +33312,7 @@
 	<programme channel="838" start="20260101130000 +0000" stop="20260101151500 +0000">
 		<title>Once A Thief</title>
 		<desc>Three orphans, raised under the deliberate tutelage of a crime boss, become art thieves. When they are betrayed, their romantic feelings for each other complicate the situation further.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch838_tvb_logo.jpg?w=960&amp;h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch838_once_a_thief.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="838" start="20260101151500 +0000" stop="20260101153000 +0000">
 		<title>JSG Billboard 2026</title>
