@@ -2379,7 +2379,12 @@
 		<desc>Led by popular host Ho Mei, this programme will explore seven major cities in the three major Southeast Asian countries - Malaysia, Thailand and the Philippines, taking the audience on a passionate and mysterious adventure to unlock unknown secrets and cultural charm!</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/107_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="111" start="20260104160000 +0000" stop="20260104170000 +0000">
+	<programme channel="111" start="20260104143500 +0000" stop="20260104160500 +0000">
+		<title>The Shopaholics</title>
+		<desc>A woman is seeing a psychologist to help her with her shopping addiction, and they eventually fall in love. However, when she meets a rich man who is also a shopaholic, she finds herself in conflict.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch825_the_shopaholics.jpg?w=960&amp;h=540" />
+	</programme>
+	<programme channel="111" start="20260104160500 +0000" stop="20260104170000 +0000">
 		<title>The Ordinary Road - EP 10</title>
 		<desc>It tells an inspirational story. Led by experienced seniors in the industry, a group of youngsters who have just started their careers are growing alongside each other and ultimately surpassing themselves through their strong belief, learning from one another.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch825_the_ordinary_road.jpg?w=960&amp;h=540" />
@@ -10925,9 +10930,9 @@
 		<icon src="https://poster.starhubgo.com/poster/ch213_lfctv.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="213" start="20260105130000 +0000" stop="20260105133000 +0000">
-		<title>LFC Trending 2025/26</title>
-		<desc>The official LFCTV weekly magazine program featuring news, stories, videos and social media highlights from across Liverpool football club, its players and supporters</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch213_lfc_trending.jpg?w=341&amp;h=192" />
+		<title>LFCTV Specials 2025/26</title>
+		<desc>Enjoy documentaries and other special programming from LFCTV on beIN SPORTS</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch213_ltctv_specials.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="213" start="20260105133000 +0000" stop="20260105140000 +0000">
 		<title>LFCTV Highlights 2025/26 Liverpool vs Leeds</title>
@@ -11879,12 +11884,12 @@
 		<desc>Whether it was for club or country, Stuart Pearce was one of English football's greatest servants, with a reputation as a fiercely uncompromising defender. Pearce looks back at some of the highs and lows of a playing career that took him from Nottingham Forest to Newcastle, West Ham, and Manchester City, who he would then go on to manage in memorable fashion.</desc>
 		<icon src="https://poster.starhubgo.com/poster/pl_rewind_V2.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="222" start="20260104145000 +0000" stop="20260104165000 +0000">
+	<programme channel="222" start="20260104150500 +0000" stop="20260104171500 +0000">
 		<title>Fulham vs Liverpool (MW20) (Live) - EP 197</title>
 		<desc>Fulham were one of just three teams Liverpool failed to beat in their Premier League title winning campaign last season (D1 L1) along with Nottingham Forest (D1 L1) and Arsenal (D2).</desc>
 		<icon src="https://poster.starhubgo.com/poster/fulham_stadium.jpg?w=960" />
 	</programme>
-	<programme channel="222" start="20260104165000 +0000" stop="20260104172000 +0000">
+	<programme channel="222" start="20260104171500 +0000" stop="20260104172000 +0000">
 		<title>PL Stories 2025/26 - EP 31</title>
 		<desc>A life-threatening head injury ended Oliver Glasner’s playing career early, but it did nothing to quell his ambition. We go behind-the-scenes to reveal the makings of a manager who has achieved success throughout the past decade in European management, winning European titles in Germany, and the first major silverware in Crystal Palace’s 120-year history.</desc>
 		<icon src="https://poster.starhubgo.com/poster/pl_stories_V2.jpg?w=341&amp;h=192" />
@@ -26946,17 +26951,17 @@
 	</programme>
 	<programme channel="722" start="20260106010000 +0000" stop="20260106013000 +0000">
 		<title>The World Today</title>
-		<desc>The core rolling news service of CGTN, with regular updates from Beijing, Washington, Nairobi and London, keep viewers up-to-date with all the world's top stories as they happen. The World Today delivers breaking news, live events, in-depth reporting, expert analysis and sustained coverage.</desc>
+		<desc>The core rolling news service of CGTN, with regular updates from Beijing, Washington, Nairobi and London, keep viewers up-to-date with all the world’s top stories as they happen. The World Today delivers breaking news, live events, in-depth reporting, expert analysis and sustained coverage.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/722_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="722" start="20260106013000 +0000" stop="20260106020000 +0000">
 		<title>China 24</title>
-		<desc>China 24 is a prime time news program featuring in-depth reports and analysis of the stories in the headlines in China. Produced by CGTN's studios in Beijing and Washington D.C., the show takes a compelling and comprehensive look at China. It explores the country's business, politics, technology, culture, entertainment and more. China 24 tackles head-on the issues that matter most to the nation and its people, with topical reports highlighting challenges facing this fast-changing country.</desc>
+		<desc>China 24 is a prime time news program featuring in-depth reports and analysis of the stories in the headlines in China. Produced by CGTN’s studios in Beijing and Washington D.C., the show takes a compelling and comprehensive look at China. It explores the country’s business, politics, technology, culture, entertainment and more. China 24 tackles head-on the issues that matter most to the nation and its people, with topical reports highlighting challenges facing this fast-changing country.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/722_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="722" start="20260106020000 +0000" stop="20260106023000 +0000">
 		<title>The World Today</title>
-		<desc>The core rolling news service of CGTN, with regular updates from Beijing, Washington, Nairobi and London, keep viewers up-to-date with all the world's top stories as they happen. The World Today delivers breaking news, live events, in-depth reporting, expert analysis and sustained coverage.</desc>
+		<desc>The core rolling news service of CGTN, with regular updates from Beijing, Washington, Nairobi and London, keep viewers up-to-date with all the world’s top stories as they happen. The World Today delivers breaking news, live events, in-depth reporting, expert analysis and sustained coverage.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/722_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="722" start="20260106023000 +0000" stop="20260106030000 +0000">
@@ -26966,7 +26971,7 @@
 	</programme>
 	<programme channel="722" start="20260106030000 +0000" stop="20260106031500 +0000">
 		<title>The World Today</title>
-		<desc>The core rolling news service of CGTN, with regular updates from Beijing, Washington, Nairobi and London, keep viewers up-to-date with all the world's top stories as they happen. The World Today delivers breaking news, live events, in-depth reporting, expert analysis and sustained coverage.</desc>
+		<desc>The core rolling news service of CGTN, with regular updates from Beijing, Washington, Nairobi and London, keep viewers up-to-date with all the world’s top stories as they happen. The World Today delivers breaking news, live events, in-depth reporting, expert analysis and sustained coverage.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/722_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="722" start="20260106031500 +0000" stop="20260106033000 +0000">
@@ -26976,17 +26981,17 @@
 	</programme>
 	<programme channel="722" start="20260106033000 +0000" stop="20260106040000 +0000">
 		<title>The Hub With Wang Guan</title>
-		<desc>The Hub with Wang Guan covers hot-button geopolitical and economic issues, as well as interesting stories and trends in culture, education, technology and lifestyle. It aims to connect people, cultures and societies across the East and the West. The program features dynamic designs, fast pace and rich visuals to keep viewers engaged. It also makes use of trending topics online, while focusing on what's relevant in China and the world.</desc>
+		<desc>The Hub with Wang Guan covers hot-button geopolitical and economic issues, as well as interesting stories and trends in culture, education, technology and lifestyle. It aims to connect people, cultures and societies across the East and the West. The program features dynamic designs, fast pace and rich visuals to keep viewers engaged. It also makes use of trending topics online, while focusing on what’s relevant in China and the world.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/722_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="722" start="20260106040000 +0000" stop="20260106050000 +0000">
 		<title>Global Watch</title>
-		<desc>GLOBAL WATCH is a 60 minute-long news program. The show stresses Chinese elements, emphasizing China's perspective, policies and stories. The program, relying on global reporting resources, presents in-depth analysis and coverage of major global issues, from a Chinese perspective on international affairs. The program presents to-the-point interpretation of Chinese policies and stories that are of interest to foreign audiences, in a style they are familiar with.</desc>
+		<desc>GLOBAL WATCH is a 60 minute-long news program. The show stresses Chinese elements, emphasizing China’s perspective, policies and stories. The program, relying on global reporting resources, presents in-depth analysis and coverage of major global issues, from a Chinese perspective on international affairs. The program presents to-the-point interpretation of Chinese policies and stories that are of interest to foreign audiences, in a style they are familiar with.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/722_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="722" start="20260106050000 +0000" stop="20260106051500 +0000">
 		<title>The World Today</title>
-		<desc>The core rolling news service of CGTN, with regular updates from Beijing, Washington, Nairobi and London, keep viewers up-to-date with all the world's top stories as they happen. The World Today delivers breaking news, live events, in-depth reporting, expert analysis and sustained coverage.</desc>
+		<desc>The core rolling news service of CGTN, with regular updates from Beijing, Washington, Nairobi and London, keep viewers up-to-date with all the world’s top stories as they happen. The World Today delivers breaking news, live events, in-depth reporting, expert analysis and sustained coverage.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/722_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="722" start="20260106051500 +0000" stop="20260106053000 +0000">
@@ -26996,12 +27001,12 @@
 	</programme>
 	<programme channel="722" start="20260106053000 +0000" stop="20260106060000 +0000">
 		<title>Rediscovering China</title>
-		<desc>Rediscovering China is a half-hour documentary program on CGTN. Each edition offers unique insight into various aspects of life in China today. With unrivalled access to the country's people and places, the program aims to show the global audience an inclusive and vigorous China._x005F_x000D__x005F_x000D_</desc>
+		<desc>Rediscovering China is a half-hour documentary program on CGTN. Each edition offers unique insight into various aspects of life in China today. With unrivalled access to the country's people and places, the program aims to show the global audience an inclusive and vigorous China._x000D__x000D_</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/722_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="722" start="20260106060000 +0000" stop="20260106063000 +0000">
 		<title>The World Today</title>
-		<desc>The core rolling news service of CGTN, with regular updates from Beijing, Washington, Nairobi and London, keep viewers up-to-date with all the world's top stories as they happen. The World Today delivers breaking news, live events, in-depth reporting, expert analysis and sustained coverage.</desc>
+		<desc>The core rolling news service of CGTN, with regular updates from Beijing, Washington, Nairobi and London, keep viewers up-to-date with all the world’s top stories as they happen. The World Today delivers breaking news, live events, in-depth reporting, expert analysis and sustained coverage.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/722_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="722" start="20260106063000 +0000" stop="20260106070000 +0000">
@@ -27011,7 +27016,7 @@
 	</programme>
 	<programme channel="722" start="20260106070000 +0000" stop="20260106073000 +0000">
 		<title>The World Today</title>
-		<desc>The core rolling news service of CGTN, with regular updates from Beijing, Washington, Nairobi and London, keep viewers up-to-date with all the world's top stories as they happen. The World Today delivers breaking news, live events, in-depth reporting, expert analysis and sustained coverage.</desc>
+		<desc>The core rolling news service of CGTN, with regular updates from Beijing, Washington, Nairobi and London, keep viewers up-to-date with all the world’s top stories as they happen. The World Today delivers breaking news, live events, in-depth reporting, expert analysis and sustained coverage.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/722_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="722" start="20260106073000 +0000" stop="20260106080000 +0000">
@@ -27021,17 +27026,17 @@
 	</programme>
 	<programme channel="722" start="20260106080000 +0000" stop="20260106081500 +0000">
 		<title>The World Today</title>
-		<desc>The core rolling news service of CGTN, with regular updates from Beijing, Washington, Nairobi and London, keep viewers up-to-date with all the world's top stories as they happen. The World Today delivers breaking news, live events, in-depth reporting, expert analysis and sustained coverage.</desc>
+		<desc>The core rolling news service of CGTN, with regular updates from Beijing, Washington, Nairobi and London, keep viewers up-to-date with all the world’s top stories as they happen. The World Today delivers breaking news, live events, in-depth reporting, expert analysis and sustained coverage.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/722_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="722" start="20260106081500 +0000" stop="20260106090000 +0000">
 		<title>Global Business</title>
-		<desc>The flagship business program of CGTN's English language service. The program offers in-depth analysis of the latest economic data, business trends and market moving policies, zooming in on how all this affects ordinary people. With separate editions out of Asia, Europe, Africa and the Americas, Global Business features analysts and news-makers supported through a global network of correspondents. Global Business shows you what's moving markets in both developed and emerging economies.</desc>
+		<desc>The flagship business program of CGTN’s English language service. The program offers in-depth analysis of the latest economic data, business trends and market moving policies, zooming in on how all this affects ordinary people. With separate editions out of Asia, Europe, Africa and the Americas, Global Business features analysts and news-makers supported through a global network of correspondents. Global Business shows you what's moving markets in both developed and emerging economies.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/722_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="722" start="20260106090000 +0000" stop="20260106093000 +0000">
 		<title>The World Today</title>
-		<desc>The core rolling news service of CGTN, with regular updates from Beijing, Washington, Nairobi and London, keep viewers up-to-date with all the world's top stories as they happen. The World Today delivers breaking news, live events, in-depth reporting, expert analysis and sustained coverage.</desc>
+		<desc>The core rolling news service of CGTN, with regular updates from Beijing, Washington, Nairobi and London, keep viewers up-to-date with all the world’s top stories as they happen. The World Today delivers breaking news, live events, in-depth reporting, expert analysis and sustained coverage.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/722_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="722" start="20260106093000 +0000" stop="20260106100000 +0000">
@@ -27041,17 +27046,17 @@
 	</programme>
 	<programme channel="722" start="20260106100000 +0000" stop="20260106101500 +0000">
 		<title>The World Today</title>
-		<desc>The core rolling news service of CGTN, with regular updates from Beijing, Washington, Nairobi and London, keep viewers up-to-date with all the world's top stories as they happen. The World Today delivers breaking news, live events, in-depth reporting, expert analysis and sustained coverage.</desc>
+		<desc>The core rolling news service of CGTN, with regular updates from Beijing, Washington, Nairobi and London, keep viewers up-to-date with all the world’s top stories as they happen. The World Today delivers breaking news, live events, in-depth reporting, expert analysis and sustained coverage.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/722_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="722" start="20260106101500 +0000" stop="20260106110000 +0000">
 		<title>Africa Live</title>
-		<desc>Africa Live is a news program that focuses on African issues and issues related to this diverse continent. CGTN's Nairobi-based broadcast center produces Africa Live. Local correspondents and local production teams provide authoritative and in-depth stories from across the region. Africa Live is an objective and comprehensive look at every facet of African life.</desc>
+		<desc>Africa Live is a news program that focuses on African issues and issues related to this diverse continent. CGTN’s Nairobi-based broadcast center produces Africa Live. Local correspondents and local production teams provide authoritative and in-depth stories from across the region. Africa Live is an objective and comprehensive look at every facet of African life.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/722_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="722" start="20260106110000 +0000" stop="20260106113000 +0000">
 		<title>Asia Today</title>
-		<desc>Asia Today highlights the latest news and social developments across Asia. Correspondents in over a dozen countries report on the region's top stories as they happen. Analysts bring Asian perspective to topical and developing issues. Asia Today also emphasizes the diverse cultures and lifestyles of the world's most populous continent.</desc>
+		<desc>Asia Today highlights the latest news and social developments across Asia. Correspondents in over a dozen countries report on the region’s top stories as they happen. Analysts bring Asian perspective to topical and developing issues. Asia Today also emphasizes the diverse cultures and lifestyles of the world’s most populous continent.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/722_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="722" start="20260106113000 +0000" stop="20260106120000 +0000">
@@ -27061,27 +27066,27 @@
 	</programme>
 	<programme channel="722" start="20260106120000 +0000" stop="20260106121500 +0000">
 		<title>The World Today</title>
-		<desc>The core rolling news service of CGTN, with regular updates from Beijing, Washington, Nairobi and London, keep viewers up-to-date with all the world's top stories as they happen. The World Today delivers breaking news, live events, in-depth reporting, expert analysis and sustained coverage.</desc>
+		<desc>The core rolling news service of CGTN, with regular updates from Beijing, Washington, Nairobi and London, keep viewers up-to-date with all the world’s top stories as they happen. The World Today delivers breaking news, live events, in-depth reporting, expert analysis and sustained coverage.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/722_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="722" start="20260106121500 +0000" stop="20260106130000 +0000">
 		<title>China 24</title>
-		<desc>China 24 is a prime time news program featuring in-depth reports and analysis of the stories in the headlines in China. Produced by CGTN's studios in Beijing and Washington D.C., the show takes a compelling and comprehensive look at China. It explores the country's business, politics, technology, culture, entertainment and more. China 24 tackles head-on the issues that matter most to the nation and its people, with topical reports highlighting challenges facing this fast-changing country.</desc>
+		<desc>China 24 is a prime time news program featuring in-depth reports and analysis of the stories in the headlines in China. Produced by CGTN’s studios in Beijing and Washington D.C., the show takes a compelling and comprehensive look at China. It explores the country’s business, politics, technology, culture, entertainment and more. China 24 tackles head-on the issues that matter most to the nation and its people, with topical reports highlighting challenges facing this fast-changing country.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/722_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="722" start="20260106130000 +0000" stop="20260106133000 +0000">
 		<title>Global Business</title>
-		<desc>The flagship business program of CGTN's English language service. The program offers in-depth analysis of the latest economic data, business trends and market moving policies, zooming in on how all this affects ordinary people. With separate editions out of Asia, Europe, Africa and the Americas, Global Business features analysts and news-makers supported through a global network of correspondents. Global Business shows you what's moving markets in both developed and emerging economies.</desc>
+		<desc>The flagship business program of CGTN’s English language service. The program offers in-depth analysis of the latest economic data, business trends and market moving policies, zooming in on how all this affects ordinary people. With separate editions out of Asia, Europe, Africa and the Americas, Global Business features analysts and news-makers supported through a global network of correspondents. Global Business shows you what's moving markets in both developed and emerging economies.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/722_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="722" start="20260106133000 +0000" stop="20260106140000 +0000">
 		<title>The Hub With Wang Guan</title>
-		<desc>The Hub with Wang Guan covers hot-button geopolitical and economic issues, as well as interesting stories and trends in culture, education, technology and lifestyle. It aims to connect people, cultures and societies across the East and the West. The program features dynamic designs, fast pace and rich visuals to keep viewers engaged. It also makes use of trending topics online, while focusing on what's relevant in China and the world.</desc>
+		<desc>The Hub with Wang Guan covers hot-button geopolitical and economic issues, as well as interesting stories and trends in culture, education, technology and lifestyle. It aims to connect people, cultures and societies across the East and the West. The program features dynamic designs, fast pace and rich visuals to keep viewers engaged. It also makes use of trending topics online, while focusing on what’s relevant in China and the world.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/722_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="722" start="20260106140000 +0000" stop="20260106143000 +0000">
 		<title>The World Today</title>
-		<desc>The core rolling news service of CGTN, with regular updates from Beijing, Washington, Nairobi and London, keep viewers up-to-date with all the world's top stories as they happen. The World Today delivers breaking news, live events, in-depth reporting, expert analysis and sustained coverage.</desc>
+		<desc>The core rolling news service of CGTN, with regular updates from Beijing, Washington, Nairobi and London, keep viewers up-to-date with all the world’s top stories as they happen. The World Today delivers breaking news, live events, in-depth reporting, expert analysis and sustained coverage.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/722_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="722" start="20260106143000 +0000" stop="20260106150000 +0000">
@@ -27091,7 +27096,7 @@
 	</programme>
 	<programme channel="722" start="20260106150000 +0000" stop="20260106153000 +0000">
 		<title>The World Today</title>
-		<desc>The core rolling news service of CGTN, with regular updates from Beijing, Washington, Nairobi and London, keep viewers up-to-date with all the world's top stories as they happen. The World Today delivers breaking news, live events, in-depth reporting, expert analysis and sustained coverage.</desc>
+		<desc>The core rolling news service of CGTN, with regular updates from Beijing, Washington, Nairobi and London, keep viewers up-to-date with all the world’s top stories as they happen. The World Today delivers breaking news, live events, in-depth reporting, expert analysis and sustained coverage.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/722_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="722" start="20260106153000 +0000" stop="20260106160000 +0000">
@@ -32359,7 +32364,12 @@
 		<desc>Yi Deun is stabbed before he could testify against Pil Soo in court. Gye Jeol learns Kokdu is dying because he refuses to return to the afterlife.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch823_kokdu_season_deity.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="825" start="20260104160000 +0000" stop="20260104170000 +0000">
+	<programme channel="825" start="20260104143500 +0000" stop="20260104160500 +0000">
+		<title>The Shopaholics</title>
+		<desc>A woman is seeing a psychologist to help her with her shopping addiction, and they eventually fall in love. However, when she meets a rich man who is also a shopaholic, she finds herself in conflict.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch825_the_shopaholics.jpg?w=960&amp;h=540" />
+	</programme>
+	<programme channel="825" start="20260104160500 +0000" stop="20260104170000 +0000">
 		<title>The Ordinary Road - EP 10</title>
 		<desc>It tells an inspirational story. Led by experienced seniors in the industry, a group of youngsters who have just started their careers are growing alongside each other and ultimately surpassing themselves through their strong belief, learning from one another.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch825_the_ordinary_road.jpg?w=960&amp;h=540" />
@@ -34944,7 +34954,12 @@
 		<desc>The show invites younger generations to talk about relationship, career, entertainment, current affairs, and all the other popular topics that they care and complain about.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch828_chop_chop_show.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="994" start="20260104160000 +0000" stop="20260104170000 +0000">
+	<programme channel="994" start="20260104143500 +0000" stop="20260104160500 +0000">
+		<title>The Shopaholics</title>
+		<desc>A woman is seeing a psychologist to help her with her shopping addiction, and they eventually fall in love. However, when she meets a rich man who is also a shopaholic, she finds herself in conflict.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch825_the_shopaholics.jpg?w=960&amp;h=540" />
+	</programme>
+	<programme channel="994" start="20260104160500 +0000" stop="20260104170000 +0000">
 		<title>The Ordinary Road - EP 10</title>
 		<desc>It tells an inspirational story. Led by experienced seniors in the industry, a group of youngsters who have just started their careers are growing alongside each other and ultimately surpassing themselves through their strong belief, learning from one another.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch825_the_ordinary_road.jpg?w=960&amp;h=540" />
