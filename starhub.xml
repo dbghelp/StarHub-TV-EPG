@@ -240,6 +240,10 @@
 		<display-name>Hub Premier 8</display-name>
 		<icon src="https://poster.starhubgo.com/Linear_Channels2/228_1920x1080_HTV.png?w=272" />
 	</channel>
+	<channel id="229">
+		<display-name>Hub Premier 9</display-name>
+		<icon src="https://poster.starhubgo.com/Linear_Channels2/229_1920x1080_HTV.png?w=272" />
+	</channel>
 	<channel id="232">
 		<display-name>Hub Premier 2 (4K)</display-name>
 		<icon src="https://poster.starhubgo.com/Linear_Channels2/222_1920x1080_HTV.png?w=272" />
@@ -12258,6 +12262,31 @@
 		<title>End of Transmission</title>
 		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_Channels2/228_1920x1080_HTV.png?w=960&amp;h=540" />
+	</programme>
+	<programme channel="229" start="20260104220000 +0000" stop="20260105040000 +0000">
+		<title>End of Transmission</title>
+		<desc />
+		<icon src="https://poster.starhubgo.com/Linear_Channels2/229_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="229" start="20260105040000 +0000" stop="20260105100000 +0000">
+		<title>End of Transmission</title>
+		<desc />
+		<icon src="https://poster.starhubgo.com/Linear_Channels2/229_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="229" start="20260105100000 +0000" stop="20260105160000 +0000">
+		<title>End of Transmission</title>
+		<desc />
+		<icon src="https://poster.starhubgo.com/Linear_Channels2/229_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="229" start="20260105160000 +0000" stop="20260105220000 +0000">
+		<title>End of Transmission</title>
+		<desc />
+		<icon src="https://poster.starhubgo.com/Linear_Channels2/229_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="229" start="20260105220000 +0000" stop="20260106040000 +0000">
+		<title>End of Transmission</title>
+		<desc />
+		<icon src="https://poster.starhubgo.com/Linear_Channels2/229_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="232" start="20260104145000 +0000" stop="20260104165000 +0000">
 		<title>Fulham vs Liverpool (MW20) (Live) - EP 197</title>
