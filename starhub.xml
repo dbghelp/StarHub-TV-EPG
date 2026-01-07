@@ -11701,12 +11701,12 @@
 	<programme channel="221" start="20260106180000 +0000" stop="20260106183000 +0000">
 		<title>THE BIG INTERVIEW - EP 21</title>
 		<desc>As far as cult hero's go, few are as beloved as Dimitar Berbatov. In a seven-year Premier League career, the Bulgarian set the league alight with his grace and elegance with the ball at his feet. This week, Berbatov sits down with the Big Interview to discuss his upbringing in Blagoevgrad and making a name for himself first with CSKA Sofia and then Bayer Leverkusen.</desc>
-		<icon src="https://poster.starhubgo.com/poster/the_big_interview_V3.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/the_big_interview_2025_26_ep21.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="221" start="20260106183000 +0000" stop="20260106190000 +0000">
 		<title>PL STORIES - EP 31</title>
 		<desc>A life-threatening head injury ended Oliver Glasner's playing career early, but it did nothing to quell his ambition. We go behind-the-scenes to reveal the makings of a manager who has achieved success throughout the past decade in European management, winning European titles in Germany, and the first major silverware in Crystal Palace's 120-year history.</desc>
-		<icon src="https://poster.starhubgo.com/poster/pl_stories_V2.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/pl_stories_2025_26_ep31.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="221" start="20260106190000 +0000" stop="20260106193000 +0000">
 		<title>NETBUSTERS - EP 20</title>
@@ -12453,6 +12453,11 @@
 		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_Channels2/228_1920x1080_HTV.png?w=960&amp;h=540" />
 	</programme>
+	<programme channel="229" start="20260106160000 +0000" stop="20260106220000 +0000">
+		<title>End of Transmission</title>
+		<desc />
+		<icon src="https://poster.starhubgo.com/Linear_Channels2/229_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
 	<programme channel="229" start="20260106220000 +0000" stop="20260107040000 +0000">
 		<title>End of Transmission</title>
 		<desc />
@@ -12484,6 +12489,16 @@
 		<icon src="https://poster.starhubgo.com/Linear_Channels2/229_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="229" start="20260107220000 +0000" stop="20260108040000 +0000">
+		<title>End of Transmission</title>
+		<desc />
+		<icon src="https://poster.starhubgo.com/Linear_Channels2/229_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="229" start="20260108040000 +0000" stop="20260108100000 +0000">
+		<title>End of Transmission</title>
+		<desc />
+		<icon src="https://poster.starhubgo.com/Linear_Channels2/229_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="229" start="20260108100000 +0000" stop="20260108160000 +0000">
 		<title>End of Transmission</title>
 		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_Channels2/229_1920x1080_HTV.png?w=341&amp;h=192" />
@@ -33583,13 +33598,18 @@
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20260108010000 +0000" stop="20260108020100 +0000">
+	<programme channel="832" start="20260108010000 +0000" stop="20260108015400 +0000">
 		<title>A Green Trip</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20260108020100 +0000" stop="20260108033400 +0000">
+	<programme channel="832" start="20260108015400 +0000" stop="20260108030900 +0000">
 		<title>Cheer up!small shops</title>
+		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="832" start="20260108030900 +0000" stop="20260108033400 +0000">
+		<title>New Entertainment</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
@@ -33603,22 +33623,22 @@
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20260108042700 +0000" stop="20260108061400 +0000">
+	<programme channel="832" start="20260108042700 +0000" stop="20260108061200 +0000">
 		<title>Future China</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20260108061400 +0000" stop="20260108070400 +0000">
+	<programme channel="832" start="20260108061200 +0000" stop="20260108071300 +0000">
 		<title>Searching for flavor</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20260108070400 +0000" stop="20260108073400 +0000">
+	<programme channel="832" start="20260108071300 +0000" stop="20260108073800 +0000">
 		<title>I LOVE SHANGHAI</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20260108073400 +0000" stop="20260108084400 +0000">
+	<programme channel="832" start="20260108073800 +0000" stop="20260108084400 +0000">
 		<title>Cheer up!small shops</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
@@ -33653,27 +33673,27 @@
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20260108114800 +0000" stop="20260108124900 +0000">
+	<programme channel="832" start="20260108114800 +0000" stop="20260108124200 +0000">
 		<title>A Green Trip</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20260108124900 +0000" stop="20260108143600 +0000">
+	<programme channel="832" start="20260108124200 +0000" stop="20260108142700 +0000">
 		<title>Future China</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20260108143600 +0000" stop="20260108150100 +0000">
+	<programme channel="832" start="20260108142700 +0000" stop="20260108145200 +0000">
 		<title>New Entertainment</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20260108150100 +0000" stop="20260108152600 +0000">
+	<programme channel="832" start="20260108145200 +0000" stop="20260108151700 +0000">
 		<title>CARE ON THE WAY</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20260108152600 +0000" stop="20260108160000 +0000">
+	<programme channel="832" start="20260108151700 +0000" stop="20260108160000 +0000">
 		<title>Cheer up!small shops</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
@@ -34046,7 +34066,7 @@
 	<programme channel="838" start="20260108133000 +0000" stop="20260108143000 +0000">
 		<title>Double Happiness - EP 20</title>
 		<desc>Xu Kaixin, a single mother of two, is betrayed by her ex‑husband and forced out of her home, but she fights back to protect her children and reclaim her life.​ During this battle, she meets Mei Chengyi, a single father of two, and their chaotic blended family gradually grows into a loving household.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch838_double_happiness.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch838_double_happiness_still_ep20.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="838" start="20260108143000 +0000" stop="20260108150000 +0000">
 		<title>Sis and the Tempting Cities</title>
