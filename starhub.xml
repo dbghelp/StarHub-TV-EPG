@@ -1556,7 +1556,7 @@
 	</programme>
 	<programme channel="104" start="20260108123000 +0000" stop="20260108133000 +0000">
 		<title>Detik Dialog - EP 2</title>
-		<desc>A special episode of DETIK that deep dive into contemporary issues in Singapore and around the region.</desc>
+		<desc>After nearly five decades dikir barat started in Singapore, it is timely for the community to discuss and be involved to ensure this traditional arts will continue to flourish.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/104_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="104" start="20260108133000 +0000" stop="20260108143000 +0000">
@@ -1986,7 +1986,7 @@
 	</programme>
 	<programme channel="106" start="20260108020000 +0000" stop="20260108023000 +0000">
 		<title>Money Mind - EP 33</title>
-		<desc>A beginner’s guide to starting investing in the new year. 30k a month and no boss by age 35 will Gen Z side hustles cut it? Plus, tiny home living how small would you go to save big?</desc>
+		<desc>A beginner’s guide to starting investing in the new year. 30k a month and no boss by age 35 - will Gen Z side hustles cut it? Plus, tiny home living - how small would you go to save big?</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="106" start="20260108023000 +0000" stop="20260108030000 +0000">
@@ -2056,7 +2056,7 @@
 	</programme>
 	<programme channel="106" start="20260108150000 +0000" stop="20260108153000 +0000">
 		<title>Money Mind - EP 33</title>
-		<desc>A beginner’s guide to starting investing in the new year. 30k a month and no boss by age 35 will Gen Z side hustles cut it? Plus, tiny home living how small would you go to save big?</desc>
+		<desc>A beginner’s guide to starting investing in the new year. 30k a month and no boss by age 35 - will Gen Z side hustles cut it? Plus, tiny home living - how small would you go to save big?</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="106" start="20260108153000 +0000" stop="20260108160000 +0000">
@@ -5329,7 +5329,7 @@
 		<desc>The story is about standing up to the hate politics, age-old traditions and an eventual threats as a couple faces opposition from their respective families.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch618_sony_max_logo.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="132" start="20260106140000 +0000" stop="20260106170000 +0000">
+	<programme channel="132" start="20260106160000 +0000" stop="20260106170000 +0000">
 		<title>Kuruthi Aattam</title>
 		<desc>A man embarks on a journey to seek revenge for the death of his friend.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch132_kuruthi_aattam.jpg?w=341&amp;h=192" />
@@ -5360,8 +5360,8 @@
 		<icon src="https://poster.starhubgo.com/poster/ch132_kadhala_kadhala.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="132" start="20260106213000 +0000" stop="20260106220000 +0000">
-		<title>Thendral Vandhu Ennai Thodum - EP 66</title>
-		<desc>Abhinaya, a traditionalist, faces upheaval when she encounters Vetri, a village thug.</desc>
+		<title>Thendral Vandhu Ennai Thodum - EP 166</title>
+		<desc>Vetri plans to take action against Ashokan for targeting his family.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch132_thendral_vandhu_ennai_thodum.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="132" start="20260106220000 +0000" stop="20260106223000 +0000">
@@ -5524,6 +5524,11 @@
 		<desc>A compilation of unseen moments from the house, where celebrities compete to win the grand prize.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch132_bigg_boss.jpg?w=960&amp;h=540" />
 	</programme>
+	<programme channel="132" start="20260108020000 +0000" stop="20260108050000 +0000">
+		<title>Nitham Oru Vaanam</title>
+		<desc>Arjun, who has OCD, reads stories on his doctor's advice after his wedding gets cancelled.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch132_nitham_oru_vaanam.jpg?w=960&amp;h=540" />
+	</programme>
 	<programme channel="132" start="20260108050000 +0000" stop="20260108053000 +0000">
 		<title>Shiva Shakthi Thiruvilayadal - EP 760</title>
 		<desc>Parvati asks Mahadev to remove her from her hair after she disrespects her.</desc>
@@ -5584,7 +5589,7 @@
 		<desc>A compilation of unseen moments from the house, where celebrities compete to win the grand prize.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch132_bigg_boss.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="132" start="20260108140000 +0000" stop="20260108170000 +0000">
+	<programme channel="132" start="20260108140000 +0000" stop="20260108160000 +0000">
 		<title>Anbulla Ghilli</title>
 		<desc>Ghilli, a dog, navigates through several challenges and experiences with his owner.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch132_anbulla_ghilli.jpg?w=341&amp;h=192" />
@@ -11905,9 +11910,9 @@
 		<icon src="https://poster.starhubgo.com/poster/the_catch_up_show_V3.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="221" start="20260108013000 +0000" stop="20260108020000 +0000">
-		<title>MATCH HIGHLIGHTS 25/26 MW21 Manchester City v Brighton and Hove Albion</title>
+		<title>MATCH HIGHLIGHTS 25/26 MW21 Fulham v Chelsea</title>
 		<desc>Each Premier League game from the 2025/26 season condensed into an individual 26-minute highlights show.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch221_MW21_MCIvBHA_26.jpg?w=960&amp;h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch221_MW21_FULvCHE_26.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="221" start="20260108020000 +0000" stop="20260108023000 +0000">
 		<title>MATCH HIGHLIGHTS 25/26 MW21 Crystal Palace v Aston Villa</title>
@@ -11925,9 +11930,9 @@
 		<icon src="https://poster.starhubgo.com/poster/ch221_MW21_BREvSUN_26.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="221" start="20260108033000 +0000" stop="20260108040000 +0000">
-		<title>MATCH HIGHLIGHTS 25/26 MW21 Fulham v Chelsea</title>
+		<title>MATCH HIGHLIGHTS 25/26 MW21 Manchester City v Brighton and Hove Albion</title>
 		<desc>Each Premier League game from the 2025/26 season condensed into an individual 26-minute highlights show.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch221_MW21_FULvCHE_26.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch221_MW21_MCIvBHA_26.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="221" start="20260108040000 +0000" stop="20260108043000 +0000">
 		<title>MATCH HIGHLIGHTS 25/26 MW21 Everton v Wolverhampton Wanderers</title>
@@ -11955,9 +11960,9 @@
 		<icon src="https://poster.starhubgo.com/poster/ch221_classic_match_rewind.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="221" start="20260108063000 +0000" stop="20260108070000 +0000">
-		<title>MATCH HIGHLIGHTS 25/26 MW21 Manchester City v Brighton and Hove Albion</title>
+		<title>MATCH HIGHLIGHTS 25/26 MW21 Fulham v Chelsea</title>
 		<desc>Each Premier League game from the 2025/26 season condensed into an individual 26-minute highlights show.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch221_MW21_MCIvBHA_26.jpg?w=960&amp;h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch221_MW21_FULvCHE_26.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="221" start="20260108070000 +0000" stop="20260108073000 +0000">
 		<title>MATCH HIGHLIGHTS 25/26 MW21 Crystal Palace v Aston Villa</title>
@@ -11975,9 +11980,9 @@
 		<icon src="https://poster.starhubgo.com/poster/ch221_MW21_BREvSUN_26.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="221" start="20260108083000 +0000" stop="20260108090000 +0000">
-		<title>MATCH HIGHLIGHTS 25/26 MW21 Fulham v Chelsea</title>
+		<title>MATCH HIGHLIGHTS 25/26 MW21 Manchester City v Brighton and Hove Albion</title>
 		<desc>Each Premier League game from the 2025/26 season condensed into an individual 26-minute highlights show.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch221_MW21_FULvCHE_26.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch221_MW21_MCIvBHA_26.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="221" start="20260108090000 +0000" stop="20260108093000 +0000">
 		<title>MATCH HIGHLIGHTS 25/26 MW21 Everton v Wolverhampton Wanderers</title>
@@ -12000,9 +12005,9 @@
 		<icon src="https://poster.starhubgo.com/poster/the_catch_up_show_V3.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="221" start="20260108113000 +0000" stop="20260108120000 +0000">
-		<title>MATCH HIGHLIGHTS 25/26 MW21 Manchester City v Brighton and Hove Albion</title>
+		<title>MATCH HIGHLIGHTS 25/26 MW21 Fulham v Chelsea</title>
 		<desc>Each Premier League game from the 2025/26 season condensed into an individual 26-minute highlights show.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch221_MW21_MCIvBHA_26.jpg?w=960&amp;h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch221_MW21_FULvCHE_26.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="221" start="20260108120000 +0000" stop="20260108123000 +0000">
 		<title>MATCH HIGHLIGHTS 25/26 MW21 Crystal Palace v Aston Villa</title>
@@ -12021,7 +12026,7 @@
 	</programme>
 	<programme channel="221" start="20260108133000 +0000" stop="20260108140000 +0000">
 		<title>THE BIG INTERVIEW - EP 22</title>
-		<desc>Extended sit-downs and more informal 'out and about' interviews with the Premier League's biggest stars, providing players with a platform to tell their story in their own words.</desc>
+		<desc>From rural Brittany to the Premier League, Georginio Rutter has come a long way from the quiet streets of Plescop in North West France. Now a central figure in Brighton's hunt for continental qualification, Rutter's journey has seen him play in both Ligue 1 and the Bundesliga, as well as being a transfer record signing for both Leeds and the Seagulls.</desc>
 		<icon src="https://poster.starhubgo.com/poster/the_big_interview_V3.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="221" start="20260108140000 +0000" stop="20260108143000 +0000">
@@ -12040,9 +12045,9 @@
 		<icon src="https://poster.starhubgo.com/poster/ch221_MW21_BREvSUN_26.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="221" start="20260108153000 +0000" stop="20260108160000 +0000">
-		<title>MATCH HIGHLIGHTS 25/26 MW21 Fulham v Chelsea</title>
+		<title>MATCH HIGHLIGHTS 25/26 MW21 Manchester City v Brighton and Hove Albion</title>
 		<desc>Each Premier League game from the 2025/26 season condensed into an individual 26-minute highlights show.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch221_MW21_FULvCHE_26.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch221_MW21_MCIvBHA_26.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="222" start="20260106160000 +0000" stop="20260106195000 +0000">
 		<title>End of Transmission</title>
@@ -21386,7 +21391,7 @@
 	</programme>
 	<programme channel="513" start="20260106163000 +0000" stop="20260106173000 +0000">
 		<title>Fire Country S4 - EP 2</title>
-		<desc>Station 42 faces a high-stakes wildfire situation that tests their unity, leadership and personal resilience. The new battalion chief (Shawn Hatosy) is on site, but he has a polarizing leadership style that gets under everyone’s skin.</desc>
+		<desc>Station 42 faces a highstakes wildfire situation that tests their unity, leadership and personal resilience. The new battalion chief (Shawn Hatosy) is on site, but he has a polarizing leadership style that gets under everyone’s skin.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch518_FireCountryS4.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="513" start="20260106173000 +0000" stop="20260106183000 +0000">
@@ -21396,7 +21401,7 @@
 	</programme>
 	<programme channel="513" start="20260106183000 +0000" stop="20260106193000 +0000">
 		<title>Baked With Love: Holiday - EP 2</title>
-		<desc>Bakers are tasked with creating a Christmas cookie wreath, but the seemingly simple assignment proves to be too much for some; a 3-D Christmas tree cake leads to a major meltdown for one family pair.</desc>
+		<desc>Bakers are tasked with creating a Christmas cookie wreath, but the seemingly simple assignment proves to be too much for some; a 3D Christmas tree cake leads to a major meltdown for one family pair.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch513_BakedWithLoveHoliday.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="513" start="20260106193000 +0000" stop="20260106203000 +0000">
@@ -21601,32 +21606,27 @@
 	</programme>
 	<programme channel="513" start="20260108043000 +0000" stop="20260108053000 +0000">
 		<title>Shark Tank S17 - EP 7</title>
-		<desc>The critically acclaimed and multi-Emmy Award-winning entrepreneurial-themed reality show returns to spearhead entrepreneurship and inspire a nation to dream bigger.</desc>
+		<desc>The critically acclaimed and multiEmmy Awardwinning entrepreneurialthemed reality show returns to spearhead entrepreneurship and inspire a nation to dream bigger.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch518_SharkTankS15.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="513" start="20260108053000 +0000" stop="20260108060000 +0000">
-		<title>Family Feud - EP 25</title>
-		<desc>Hosted by Daytime Emmy Award® winning host Steve Harvey, Family Feud brings all new hilarious moments and families as they compete for a chance to win up to $20,000 by guessing the most popular answers to questions posed to 100 people surveyed.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch518_FamilyFeud.jpg?w=341&amp;h=192" />
-	</programme>
-	<programme channel="513" start="20260108060000 +0000" stop="20260108063000 +0000">
 		<title>The Goldbergs S3 - EP 18</title>
 		<desc>Adam sets out to defraud a record club, but Erica gets the blame. Barry looks to win the respect of his girlfriend’s dad.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch518_TheGoldbergsS3.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="513" start="20260108063000 +0000" stop="20260108073000 +0000">
+	<programme channel="513" start="20260108060000 +0000" stop="20260108070000 +0000">
 		<title>Alert: Missing Persons Unit S3 - EP 4</title>
 		<desc>The series continues to follow detectives Jason Grant and Nikki Batista of the Philadelphia Police Department's Missing Persons Unit (MPU) as they undertake intense searches for missing individuals.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch518_AlertMissingPersonsUnitS3.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="513" start="20260108073000 +0000" stop="20260108083000 +0000">
+	<programme channel="513" start="20260108070000 +0000" stop="20260108081500 +0000">
 		<title>Sandokan: The Pirate Prince - EP 1</title>
 		<desc>Sandokan and his crew board a ship and free a captive, who is convinced the pirate is the warrior from an old prophecy. Landing in Labuan in disguise, Sandokan meets Marianne, the consul's daughter and clashes with Brooke, a pirate hunter.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch518_sandokan_the_pirate_prince.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="513" start="20260108083000 +0000" stop="20260108093000 +0000">
+	<programme channel="513" start="20260108081500 +0000" stop="20260108093000 +0000">
 		<title>Sandokan: The Pirate Prince - EP 2</title>
-		<desc>Marianne is celebrating her twenty-first birthday. Sandokan and Brooke are invited to the ball. Tension builds between the three, but Sandokan must first free Yanez and his crew, imprisoned in the dungeons, and try not to blow his cover.</desc>
+		<desc>Marianne is celebrating her twentyfirst birthday. Sandokan and Brooke are invited to the ball. Tension builds between the three, but Sandokan must first free Yanez and his crew, imprisoned in the dungeons, and try not to blow his cover.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch518_sandokan_the_pirate_prince.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="513" start="20260108093000 +0000" stop="20260108103000 +0000">
@@ -21649,12 +21649,12 @@
 		<desc>The seven remaining chefs fight for black jackets. For the first time in Hell’s Kitchen history, the top five is all female.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch518_HellsKitchenUSAS24.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="513" start="20260108130000 +0000" stop="20260108140000 +0000">
+	<programme channel="513" start="20260108130000 +0000" stop="20260108141500 +0000">
 		<title>Sandokan: The Pirate Prince - EP 3</title>
 		<desc>Sandokan sets his sights on the Sultan's antimony mines. Brooke and Murray are hunting him. Marianne, shocked by the events, finally opens her eyes to the atrocities committed by the English in the colonies, and her worldview changes.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch518_sandokan_the_pirate_prince.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="513" start="20260108140000 +0000" stop="20260108150000 +0000">
+	<programme channel="513" start="20260108141500 +0000" stop="20260108150000 +0000">
 		<title>Killer Couples S15 - EP 6</title>
 		<desc>A horrific killing spree leads Pennsylvania investigators on the hunt for two young lovers willing to do whatever it takes to evade the law.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch518_KillerCouplesS15.jpg?w=960&amp;h=540" />
@@ -26755,14 +26755,14 @@
 		<icon src="https://poster.starhubgo.com/poster/ch711_one_world_with_zain_asher_and_bianna_golodryga.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="711" start="20260106170000 +0000" stop="20260106180000 +0000">
-		<title>One World (60m)</title>
-		<desc>Zain Asher and Bianna Golodryga cover the top global and national issues of the day.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch711_one_world_with_zain_asher_and_bianna_golodryga.jpg?w=341&amp;h=192" />
-	</programme>
-	<programme channel="711" start="20260106180000 +0000" stop="20260106190000 +0000">
 		<title>Amanpour</title>
 		<desc>Christiane Amanpour provides her powerful interview skills and provocative analysis on global stories that matter to you.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch711_amanpour.jpg?w=960&amp;h=540" />
+	</programme>
+	<programme channel="711" start="20260106180000 +0000" stop="20260106190000 +0000">
+		<title>One World (60m)</title>
+		<desc>Zain Asher and Bianna Golodryga cover the top global and national issues of the day.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch711_one_world_with_zain_asher_and_bianna_golodryga.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="711" start="20260106190000 +0000" stop="20260106200000 +0000">
 		<title>Isa Soares Tonight (60m)</title>
@@ -26849,28 +26849,23 @@
 		<desc>Start your day with Audie Cornish bringing you the latest headlines and analysis.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch711_cnn_this_morning.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="711" start="20260107120000 +0000" stop="20260107133000 +0000">
+	<programme channel="711" start="20260107120000 +0000" stop="20260107130000 +0000">
 		<title>CNN News Central</title>
 		<desc>Stay up to date with John Berman, Kate Bolduan and Sara Sidner from CNN's immersive news hub.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch711_cnn_news_central.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="711" start="20260107133000 +0000" stop="20260107140000 +0000">
-		<title>World Sport (30m)</title>
-		<desc>Daily sports show features major stories and issues making news in the world of sports.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch711_world_sport.jpg?w=341&amp;h=192" />
+	<programme channel="711" start="20260107130000 +0000" stop="20260107140000 +0000">
+		<title>CNN News Central</title>
+		<desc>Stay up to date with John Berman, Kate Bolduan and Sara Sidner from CNN's immersive news hub.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch711_cnn_news_central.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="711" start="20260107140000 +0000" stop="20260107144500 +0000">
-		<title>Connect the World (45m)</title>
+	<programme channel="711" start="20260107140000 +0000" stop="20260107150000 +0000">
+		<title>Connect the World (60m)</title>
 		<desc>Becky Anderson explores diverse perspectives and explains global issues of the day.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch711_connect_the_world.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="711" start="20260107144500 +0000" stop="20260107150000 +0000">
-		<title>World Sport (15m)</title>
-		<desc>Daily sports show features major stories and issues making news in the world of sports.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch711_world_sport.jpg?w=341&amp;h=192" />
-	</programme>
 	<programme channel="711" start="20260107150000 +0000" stop="20260107160000 +0000">
-		<title>Connect the World (45m)</title>
+		<title>Connect the World (60m)</title>
 		<desc>Becky Anderson explores diverse perspectives and explains global issues of the day.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch711_connect_the_world.jpg?w=341&amp;h=192" />
 	</programme>
@@ -26899,15 +26894,15 @@
 		<desc>Max Foster has a definitive roundup of the day's top stories, giving you the urgent need-to-know context, plus a deeper dive into the questions sparking debate around the world.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch711_what_we_know_with_max_foster.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="711" start="20260107210000 +0000" stop="20260107223000 +0000">
+	<programme channel="711" start="20260107210000 +0000" stop="20260107220000 +0000">
 		<title>Quest Means Business (60m)</title>
 		<desc>Richard Quest speaks to the top names in global business to bring viewers the bottom line.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch711_quest_means_business.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="711" start="20260107223000 +0000" stop="20260107230000 +0000">
-		<title>World Sport (30m)</title>
-		<desc>Daily sports show features major stories and issues making news in the world of sports.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch711_world_sport.jpg?w=341&amp;h=192" />
+	<programme channel="711" start="20260107220000 +0000" stop="20260107230000 +0000">
+		<title>The Lead with Jake Tapper</title>
+		<desc>Jake Tapper covers all the day's top stories around the country and the globe, from politics to money, sports to popular culture.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch711_the_lead_with_jake_tapper.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="711" start="20260107230000 +0000" stop="20260108000000 +0000">
 		<title>The Brief with Jim Sciutto</title>
@@ -26939,7 +26934,12 @@
 		<desc>Laura Coates goes inside the story with a relentless pursuit of the facts.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch711_laura_coates_live.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="711" start="20260108050000 +0000" stop="20260108070000 +0000">
+	<programme channel="711" start="20260108050000 +0000" stop="20260108060000 +0000">
+		<title>The Story Is With Elex Michaelson</title>
+		<desc>Elex Michaelson tackles the breaking stories making headlines with sharp analysis, fresh perspective, and a dose of humor.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch711_the_story_is_with_elex_michaelson.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="711" start="20260108060000 +0000" stop="20260108070000 +0000">
 		<title>The Story Is With Elex Michaelson</title>
 		<desc>Elex Michaelson tackles the breaking stories making headlines with sharp analysis, fresh perspective, and a dose of humor.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch711_the_story_is_with_elex_michaelson.jpg?w=341&amp;h=192" />
@@ -26950,7 +26950,7 @@
 		<icon src="https://poster.starhubgo.com/poster/ch711_cnn_newsroom.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="711" start="20260108080000 +0000" stop="20260108090000 +0000">
-		<title>CNN Newsroom (CNNI) (45m)</title>
+		<title>CNN Newsroom (CNNI) (60m)</title>
 		<desc>Live context and clarity to the day's top stories from around the world.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch711_cnn_newsroom.jpg?w=960&amp;h=540" />
 	</programme>
