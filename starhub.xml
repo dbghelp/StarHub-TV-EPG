@@ -1916,7 +1916,7 @@
 	</programme>
 	<programme channel="106" start="20260107130000 +0000" stop="20260107133000 +0000">
 		<title>Money Mind - EP 33</title>
-		<desc>A beginner’s guide to starting investing in the new year. 30k a month and no boss by age 35 will Gen Z side hustles cut it? Plus, tiny home living how small would you go to save big?</desc>
+		<desc>A beginner’s guide to starting investing in the new year. 30k a month and no boss by age 35 - will Gen Z side hustles cut it? Plus, tiny home living - how small would you go to save big?</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="106" start="20260107133000 +0000" stop="20260107140000 +0000">
@@ -1966,7 +1966,7 @@
 	</programme>
 	<programme channel="106" start="20260107210000 +0000" stop="20260107213000 +0000">
 		<title>Money Mind - EP 33</title>
-		<desc>A beginner’s guide to starting investing in the new year. 30k a month and no boss by age 35 will Gen Z side hustles cut it? Plus, tiny home living how small would you go to save big?</desc>
+		<desc>A beginner’s guide to starting investing in the new year. 30k a month and no boss by age 35 - will Gen Z side hustles cut it? Plus, tiny home living - how small would you go to save big?</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="106" start="20260107213000 +0000" stop="20260107220000 +0000">
@@ -5459,7 +5459,12 @@
 		<desc>A compilation of unseen moments from the house, where celebrities compete to win the grand prize.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch132_bigg_boss.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="132" start="20260107140000 +0000" stop="20260107170000 +0000">
+	<programme channel="132" start="20260107140000 +0000" stop="20260107160000 +0000">
+		<title>Nitham Oru Vaanam</title>
+		<desc>Arjun, who has OCD, reads stories on his doctor's advice after his wedding gets cancelled.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch132_nitham_oru_vaanam.jpg?w=960&amp;h=540" />
+	</programme>
+	<programme channel="132" start="20260107160000 +0000" stop="20260107170000 +0000">
 		<title>Nitham Oru Vaanam</title>
 		<desc>Arjun, who has OCD, reads stories on his doctor's advice after his wedding gets cancelled.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch132_nitham_oru_vaanam.jpg?w=960&amp;h=540" />
@@ -5474,15 +5479,10 @@
 		<desc>Mansa takes the opportunity to manipulate Ganga and turn her against Mahadev.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch132_shiva_shakthi_thiruvilayadal.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="132" start="20260107180000 +0000" stop="20260107203000 +0000">
+	<programme channel="132" start="20260107180000 +0000" stop="20260107210000 +0000">
 		<title>Ellaame En Raasa Thaan</title>
 		<desc>A man moves to a remote village with his daughter to find his wife's murderer.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch132_ellaame_en_raasa_thaan.jpg?w=341&amp;h=192" />
-	</programme>
-	<programme channel="132" start="20260107203000 +0000" stop="20260107210000 +0000">
-		<title>Kadhala Kadhala - EP 239</title>
-		<desc>Despite their differing characters, three brothers maintain a close-knit relationship.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch132_kadhala_kadhala.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="132" start="20260107210000 +0000" stop="20260107213000 +0000">
 		<title>Kadhala Kadhala - EP 240</title>
@@ -5523,11 +5523,6 @@
 		<title>Bigg Boss Unseen - EP 66</title>
 		<desc>A compilation of unseen moments from the house, where celebrities compete to win the grand prize.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch132_bigg_boss.jpg?w=960&amp;h=540" />
-	</programme>
-	<programme channel="132" start="20260108020000 +0000" stop="20260108050000 +0000">
-		<title>Nitham Oru Vaanam</title>
-		<desc>Arjun, who has OCD, reads stories on his doctor's advice after his wedding gets cancelled.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch132_nitham_oru_vaanam.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="132" start="20260108050000 +0000" stop="20260108053000 +0000">
 		<title>Shiva Shakthi Thiruvilayadal - EP 760</title>
@@ -7564,22 +7559,22 @@
 		<desc>When a trusted employee cheats on his boss, Kunjumon takes charge of helping him.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="140" start="20260107163000 +0000" stop="20260107193000 +0000">
+	<programme channel="140" start="20260107163000 +0000" stop="20260107191000 +0000">
 		<title>Janatha Garage</title>
 		<desc>An activist finds his purpose in life after encountering a man who fights for the poor.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="140" start="20260107193000 +0000" stop="20260107213000 +0000">
+	<programme channel="140" start="20260107191000 +0000" stop="20260107213000 +0000">
 		<title>BOYFRIEND</title>
 		<desc>A wealthy girl's disapproving mother sends thugs to kill her poverty-stricken lover.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="140" start="20260107213000 +0000" stop="20260107233000 +0000">
+	<programme channel="140" start="20260107213000 +0000" stop="20260107231000 +0000">
 		<title>Mizhi Thurakku</title>
 		<desc>A woman seeks refuge in a man's house, but soon faces the evils of casteism.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="140" start="20260107233000 +0000" stop="20260108013000 +0000">
+	<programme channel="140" start="20260107231000 +0000" stop="20260108013000 +0000">
 		<title>Theerppu</title>
 		<desc>Four friends reunite at a resort and deal with unexpected repercussions from their past.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=341&amp;h=192" />
@@ -11871,16 +11866,16 @@
 	</programme>
 	<programme channel="221" start="20260107183000 +0000" stop="20260107192000 +0000">
 		<title>PREMIER LEAGUE LIVE (Live)</title>
-		<desc>Live match action from the latest match round of the Premier League, with insight, analysis, and reaction from our expert panel of studio guests.</desc>
+		<desc>What a night of Premier League football. An 8-game Goal Rush will bring you the full 90 minutes of Fulham against Chelsea, before heading to Turf Moor for the second half of Burnley versus Man Utd.</desc>
 		<icon src="https://poster.starhubgo.com/poster/pl_live.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="221" start="20260107192000 +0000" stop="20260107213000 +0000">
-		<title>Manchester City v Brighton &amp; Hove Albion (MW21) (Goal Rush) (Live)</title>
+		<title>Fulham v Chelsea (MW21) (Goal Rush) (Live)</title>
 		<desc>Live match action from the latest match round of the Premier League, with insight, analysis, and reaction from our expert panel of studio guests.</desc>
-		<icon src="https://poster.starhubgo.com/poster/man_city_stadium.jpg?w=960" />
+		<icon src="https://poster.starhubgo.com/poster/fulham_stadium.jpg?w=960" />
 	</programme>
 	<programme channel="221" start="20260107213000 +0000" stop="20260107221500 +0000">
-		<title>Burnley v Manchester United (MW21) (Join-In-Progress) (Live)</title>
+		<title>Burnley v Manchester United (MW21( (Join-In-Progress) (Live)</title>
 		<desc>Live match action from the latest match round of the Premier League, with insight, analysis, and reaction from our expert panel of studio guests.</desc>
 		<icon src="https://poster.starhubgo.com/poster/burnley_stadium.jpg?w=960" />
 	</programme>
@@ -12180,9 +12175,9 @@
 		<icon src="https://poster.starhubgo.com/Linear_Channels2/223_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="223" start="20260107192000 +0000" stop="20260107213000 +0000">
-		<title>Fulham vs Chelsea (MW21) (Live) - EP 206</title>
-		<desc>Chelsea are unbeaten in their last nine Premier League London derbies (W5 D4) since a 1-0 defeat to Arsenal last March. The Blues last enjoyed a longer run of unbeaten London meetings between January 2013 and March 2014 (13).</desc>
-		<icon src="https://poster.starhubgo.com/poster/fulham_stadium.jpg?w=960" />
+		<title>Manchester City vs Brighton and Hove Albion (MW21) (Live) - EP 207</title>
+		<desc>Man City have never lost in 15 home league games against Brighton (W12 D3), both the most they’ve faced a side without ever losing at home, and the most Brighton have played anyone on the road without ever winning.</desc>
+		<icon src="https://poster.starhubgo.com/poster/man_city_stadium.jpg?w=960" />
 	</programme>
 	<programme channel="223" start="20260107213000 +0000" stop="20260107220000 +0000">
 		<title>End of Transmission</title>
@@ -21436,7 +21431,7 @@
 	</programme>
 	<programme channel="513" start="20260107000000 +0000" stop="20260107010000 +0000">
 		<title>Fire Country S4 - EP 2</title>
-		<desc>Station 42 faces a high-stakes wildfire situation that tests their unity, leadership and personal resilience. The new battalion chief (Shawn Hatosy) is on site, but he has a polarizing leadership style that gets under everyone’s skin.</desc>
+		<desc>Station 42 faces a highstakes wildfire situation that tests their unity, leadership and personal resilience. The new battalion chief (Shawn Hatosy) is on site, but he has a polarizing leadership style that gets under everyone’s skin.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch518_FireCountryS4.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="513" start="20260107010000 +0000" stop="20260107020000 +0000">
@@ -21446,7 +21441,7 @@
 	</programme>
 	<programme channel="513" start="20260107020000 +0000" stop="20260107030000 +0000">
 		<title>Baked With Love: Holiday - EP 2</title>
-		<desc>Bakers are tasked with creating a Christmas cookie wreath, but the seemingly simple assignment proves to be too much for some; a 3-D Christmas tree cake leads to a major meltdown for one family pair.</desc>
+		<desc>Bakers are tasked with creating a Christmas cookie wreath, but the seemingly simple assignment proves to be too much for some; a 3D Christmas tree cake leads to a major meltdown for one family pair.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch513_BakedWithLoveHoliday.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="513" start="20260107030000 +0000" stop="20260107040000 +0000">
@@ -21466,7 +21461,7 @@
 	</programme>
 	<programme channel="513" start="20260107053000 +0000" stop="20260107063000 +0000">
 		<title>Fire Country S4 - EP 2</title>
-		<desc>Station 42 faces a high-stakes wildfire situation that tests their unity, leadership and personal resilience. The new battalion chief (Shawn Hatosy) is on site, but he has a polarizing leadership style that gets under everyone’s skin.</desc>
+		<desc>Station 42 faces a highstakes wildfire situation that tests their unity, leadership and personal resilience. The new battalion chief (Shawn Hatosy) is on site, but he has a polarizing leadership style that gets under everyone’s skin.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch518_FireCountryS4.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="513" start="20260107063000 +0000" stop="20260107073000 +0000">
@@ -21506,7 +21501,7 @@
 	</programme>
 	<programme channel="513" start="20260107120000 +0000" stop="20260107130000 +0000">
 		<title>Shark Tank S17 - EP 7</title>
-		<desc>The critically acclaimed and multi-Emmy Award-winning entrepreneurial-themed reality show returns to spearhead entrepreneurship and inspire a nation to dream bigger.</desc>
+		<desc>The critically acclaimed and multiEmmy Awardwinning entrepreneurialthemed reality show returns to spearhead entrepreneurship and inspire a nation to dream bigger.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch518_SharkTankS15.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="513" start="20260107130000 +0000" stop="20260107133000 +0000">
@@ -21531,7 +21526,7 @@
 	</programme>
 	<programme channel="513" start="20260107153000 +0000" stop="20260107163000 +0000">
 		<title>Shark Tank S17 - EP 7</title>
-		<desc>The critically acclaimed and multi-Emmy Award-winning entrepreneurial-themed reality show returns to spearhead entrepreneurship and inspire a nation to dream bigger.</desc>
+		<desc>The critically acclaimed and multiEmmy Awardwinning entrepreneurialthemed reality show returns to spearhead entrepreneurship and inspire a nation to dream bigger.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch518_SharkTankS15.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="513" start="20260107163000 +0000" stop="20260107170000 +0000">
@@ -21539,34 +21534,29 @@
 		<desc>Hosted by Daytime Emmy Award® winning host Steve Harvey, Family Feud brings all new hilarious moments and families as they compete for a chance to win up to $20,000 by guessing the most popular answers to questions posed to 100 people surveyed.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch518_FamilyFeud.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="513" start="20260107170000 +0000" stop="20260107173000 +0000">
-		<title>The Goldbergs S3 - EP 18</title>
-		<desc>Adam sets out to defraud a record club, but Erica gets the blame. Barry looks to win the respect of his girlfriend’s dad.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch518_TheGoldbergsS3.jpg?w=341&amp;h=192" />
-	</programme>
-	<programme channel="513" start="20260107173000 +0000" stop="20260107183000 +0000">
+	<programme channel="513" start="20260107170000 +0000" stop="20260107180000 +0000">
 		<title>Alert: Missing Persons Unit S3 - EP 4</title>
 		<desc>The series continues to follow detectives Jason Grant and Nikki Batista of the Philadelphia Police Department's Missing Persons Unit (MPU) as they undertake intense searches for missing individuals.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch518_AlertMissingPersonsUnitS3.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="513" start="20260107183000 +0000" stop="20260107193000 +0000">
+	<programme channel="513" start="20260107180000 +0000" stop="20260107190000 +0000">
 		<title>Baked With Love: Holiday - EP 3</title>
 		<desc>With each team given a lyric from "The 12 Days of Christmas," the ovens are going full tilt to turn out 12 perfect cupcakes; families trifle with lots of lush layers to create showstoppers for the holiday table.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch513_BakedWithLoveHoliday.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="513" start="20260107193000 +0000" stop="20260107203000 +0000">
+	<programme channel="513" start="20260107190000 +0000" stop="20260107200000 +0000">
 		<title>Sullivan's Crossing S1 - EP 10</title>
 		<desc>Maggie returns to Boston prepared to face the consequences of her actions, while Cal attempts to reconcile with his past. When Maggie thinks life finally might be returning to normal, a secret is revealed.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch518_SullivansCrossingS1.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="513" start="20260107203000 +0000" stop="20260107213000 +0000">
+	<programme channel="513" start="20260107200000 +0000" stop="20260107211500 +0000">
 		<title>Sandokan: The Pirate Prince - EP 1</title>
 		<desc>Sandokan and his crew board a ship and free a captive, who is convinced the pirate is the warrior from an old prophecy. Landing in Labuan in disguise, Sandokan meets Marianne, the consul's daughter and clashes with Brooke, a pirate hunter.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch518_sandokan_the_pirate_prince.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="513" start="20260107213000 +0000" stop="20260107223000 +0000">
+	<programme channel="513" start="20260107211500 +0000" stop="20260107223000 +0000">
 		<title>Sandokan: The Pirate Prince - EP 2</title>
-		<desc>Marianne is celebrating her twenty-first birthday. Sandokan and Brooke are invited to the ball. Tension builds between the three, but Sandokan must first free Yanez and his crew, imprisoned in the dungeons, and try not to blow his cover.</desc>
+		<desc>Marianne is celebrating her twentyfirst birthday. Sandokan and Brooke are invited to the ball. Tension builds between the three, but Sandokan must first free Yanez and his crew, imprisoned in the dungeons, and try not to blow his cover.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch518_sandokan_the_pirate_prince.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="513" start="20260107223000 +0000" stop="20260107230000 +0000">
@@ -21576,7 +21566,7 @@
 	</programme>
 	<programme channel="513" start="20260107230000 +0000" stop="20260108000000 +0000">
 		<title>Shark Tank S17 - EP 7</title>
-		<desc>The critically acclaimed and multi-Emmy Award-winning entrepreneurial-themed reality show returns to spearhead entrepreneurship and inspire a nation to dream bigger.</desc>
+		<desc>The critically acclaimed and multiEmmy Awardwinning entrepreneurialthemed reality show returns to spearhead entrepreneurship and inspire a nation to dream bigger.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch518_SharkTankS15.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="513" start="20260108000000 +0000" stop="20260108003000 +0000">
