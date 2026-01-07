@@ -240,6 +240,10 @@
 		<display-name>Hub Premier 8</display-name>
 		<icon src="https://poster.starhubgo.com/Linear_Channels2/228_1920x1080_HTV.png?w=272" />
 	</channel>
+	<channel id="229">
+		<display-name>Hub Premier 9</display-name>
+		<icon src="https://poster.starhubgo.com/Linear_Channels2/229_1920x1080_HTV.png?w=272" />
+	</channel>
 	<channel id="232">
 		<display-name>Hub Premier 2 (4K)</display-name>
 		<icon src="https://poster.starhubgo.com/Linear_Channels2/222_1920x1080_HTV.png?w=272" />
@@ -11757,12 +11761,12 @@
 	<programme channel="221" start="20260107020000 +0000" stop="20260107023000 +0000">
 		<title>PL STORIES - EP 31</title>
 		<desc>A life-threatening head injury ended Oliver Glasner's playing career early, but it did nothing to quell his ambition. We go behind-the-scenes to reveal the makings of a manager who has achieved success throughout the past decade in European management, winning European titles in Germany, and the first major silverware in Crystal Palace's 120-year history.</desc>
-		<icon src="https://poster.starhubgo.com/poster/pl_stories_V2.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/pl_stories_2025_26_ep31.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="221" start="20260107023000 +0000" stop="20260107030000 +0000">
 		<title>THE BIG INTERVIEW - EP 21</title>
 		<desc>As far as cult hero's go, few are as beloved as Dimitar Berbatov. In a seven-year Premier League career, the Bulgarian set the league alight with his grace and elegance with the ball at his feet. This week, Berbatov sits down with the Big Interview to discuss his upbringing in Blagoevgrad and making a name for himself first with CSKA Sofia and then Bayer Leverkusen.</desc>
-		<icon src="https://poster.starhubgo.com/poster/the_big_interview_V3.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/the_big_interview_2025_26_ep21.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="221" start="20260107030000 +0000" stop="20260107040000 +0000">
 		<title>PL GOATS - EP 1</title>
@@ -12448,6 +12452,41 @@
 		<title>End of Transmission</title>
 		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_Channels2/228_1920x1080_HTV.png?w=960&amp;h=540" />
+	</programme>
+	<programme channel="229" start="20260106220000 +0000" stop="20260107040000 +0000">
+		<title>End of Transmission</title>
+		<desc />
+		<icon src="https://poster.starhubgo.com/Linear_Channels2/229_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="229" start="20260107040000 +0000" stop="20260107100000 +0000">
+		<title>End of Transmission</title>
+		<desc />
+		<icon src="https://poster.starhubgo.com/Linear_Channels2/229_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="229" start="20260107100000 +0000" stop="20260107160000 +0000">
+		<title>End of Transmission</title>
+		<desc />
+		<icon src="https://poster.starhubgo.com/Linear_Channels2/229_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="229" start="20260107160000 +0000" stop="20260107192000 +0000">
+		<title>End of Transmission</title>
+		<desc />
+		<icon src="https://poster.starhubgo.com/Linear_Channels2/229_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="229" start="20260107192000 +0000" stop="20260107213000 +0000">
+		<title>Fulham vs Chelsea (MW21) (Live) - EP 206</title>
+		<desc>Chelsea are unbeaten in their last nine Premier League London derbies (W5 D4) since a 1-0 defeat to Arsenal last March. The Blues last enjoyed a longer run of unbeaten London meetings between January 2013 and March 2014 (13).</desc>
+		<icon src="https://poster.starhubgo.com/poster/fulham_stadium.jpg?w=960" />
+	</programme>
+	<programme channel="229" start="20260107213000 +0000" stop="20260107220000 +0000">
+		<title>End of Transmission</title>
+		<desc />
+		<icon src="https://poster.starhubgo.com/Linear_Channels2/229_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="229" start="20260107220000 +0000" stop="20260108040000 +0000">
+		<title>End of Transmission</title>
+		<desc />
+		<icon src="https://poster.starhubgo.com/Linear_Channels2/229_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="232" start="20260106160000 +0000" stop="20260106195000 +0000">
 		<title>End of Transmission</title>
