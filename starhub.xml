@@ -1980,7 +1980,7 @@
 	</programme>
 	<programme channel="106" start="20260109020000 +0000" stop="20260109030000 +0000">
 		<title>Insight - EP 33</title>
-		<desc>Insight investigates and analyses topical issues that impact Asia and the rest of the world.</desc>
+		<desc>More than half of Chinese adults are overweight or obese, a potential ticking timebomb for the country's healthcare sector. As tackling obesity becomes a national priority, can China beat the bulge?</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="106" start="20260109030000 +0000" stop="20260109050000 +0000">
@@ -7459,7 +7459,7 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/139_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="139" start="20260109090000 +0000" stop="20260109093000 +0000">
-		<title>Amma Manassu (Dub . Fiction)</title>
+		<title>Amma Manassu(Dub . Fiction)</title>
 		<desc>Daily Soap</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/139_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
@@ -11334,12 +11334,12 @@
 		<icon src="https://poster.starhubgo.com/poster/ch214_mutv.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="214" start="20260108133000 +0000" stop="20260108140000 +0000">
-		<title>MUTV: Match Day Review 2025/26 Burnley vs Man United</title>
-		<desc>Directly after the final whistle of every Manchester United match the MUTV team review the game and all the talking points.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch214_mutv_match_day_review.jpg?w=960&amp;h=540" />
+		<title>MUTV: Specials</title>
+		<desc>Get your fix of award winning films, documentaries &amp; original programming related to the Red Devils as part of MUTV, only on beIN Sports</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch214_mutv.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="214" start="20260108140000 +0000" stop="20260108160000 +0000">
-		<title>TotalEnergies Africa Cup of Nations, Morocco 2025: Algeria vs DR Congo - Rd of 1</title>
+		<title>TotalEnergies Africa Cup of Nations, Morocco 2025: Ivory Coast vs Burkina Faso -</title>
 		<desc>beIN SPORTS brings you coverage from the 35th edition of the Africa Cup of Nations hosted by Morocco.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch214_Total_Energies_Africa_Cup_of_Nations_Morocco_2025.jpg?w=341&amp;h=192" />
 	</programme>
@@ -24428,10 +24428,25 @@
 		<desc>Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch701_verified_live.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="702" start="20260107150000 +0000" stop="20260107200000 +0000">
-		<title>America's Newsroom</title>
+	<programme channel="702" start="20260107160000 +0000" stop="20260107170000 +0000">
+		<title>The Faulkner Focus</title>
+		<desc>Harris Faulkner continues the conversation on the days news with roundtable discussions and interviews</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch241_TheFaulknerFocus.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="702" start="20260107170000 +0000" stop="20260107180000 +0000">
+		<title>Outnumbered</title>
+		<desc>Rotating panel featuring four women and one man, gives a fresh take on the days news</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch241_Outnumbered.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="702" start="20260107180000 +0000" stop="20260107190000 +0000">
+		<title>America Reports</title>
 		<desc>For the latest news, expert analyses and special reports from across the globe, stay tuned for more top quality news programmes right here!</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch241_AmericasNewsroomFOXNewsLive.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch241_AmericaReportsFOXNewsLive.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="702" start="20260107190000 +0000" stop="20260107200000 +0000">
+		<title>America Reports</title>
+		<desc>For the latest news, expert analyses and special reports from across the globe, stay tuned for more top quality news programmes right here!</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch241_AmericaReportsFOXNewsLive.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="702" start="20260107200000 +0000" stop="20260107210000 +0000">
 		<title>The Story</title>
@@ -26933,7 +26948,12 @@
 		<desc>Laura Coates goes inside the story with a relentless pursuit of the facts.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch711_laura_coates_live.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="711" start="20260109050000 +0000" stop="20260109070000 +0000">
+	<programme channel="711" start="20260109050000 +0000" stop="20260109060000 +0000">
+		<title>The Story Is With Elex Michaelson</title>
+		<desc>Elex Michaelson tackles the breaking stories making headlines with sharp analysis, fresh perspective, and a dose of humor.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch711_the_story_is_with_elex_michaelson.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="711" start="20260109060000 +0000" stop="20260109070000 +0000">
 		<title>The Story Is With Elex Michaelson</title>
 		<desc>Elex Michaelson tackles the breaking stories making headlines with sharp analysis, fresh perspective, and a dose of humor.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch711_the_story_is_with_elex_michaelson.jpg?w=341&amp;h=192" />
@@ -26944,7 +26964,7 @@
 		<icon src="https://poster.starhubgo.com/poster/ch711_cnn_newsroom.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="711" start="20260109080000 +0000" stop="20260109090000 +0000">
-		<title>CNN Newsroom (CNNI) (45m)</title>
+		<title>CNN Newsroom (CNNI) (60m)</title>
 		<desc>Live context and clarity to the day's top stories from around the world.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch711_cnn_newsroom.jpg?w=960&amp;h=540" />
 	</programme>
@@ -26963,6 +26983,11 @@
 		<desc>Start your day with Audie Cornish bringing you the latest headlines and analysis.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch711_cnn_this_morning.jpg?w=341&amp;h=192" />
 	</programme>
+	<programme channel="711" start="20260109120000 +0000" stop="20260109133000 +0000">
+		<title>CNN News Central</title>
+		<desc>Stay up to date with John Berman, Kate Bolduan and Sara Sidner from CNN's immersive news hub.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch711_cnn_news_central.jpg?w=960&amp;h=540" />
+	</programme>
 	<programme channel="711" start="20260109133000 +0000" stop="20260109140000 +0000">
 		<title>World Sport (30m)</title>
 		<desc>Daily sports show features major stories and issues making news in the world of sports.</desc>
@@ -26977,6 +27002,11 @@
 		<title>World Sport (15m)</title>
 		<desc>Daily sports show features major stories and issues making news in the world of sports.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch711_world_sport.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="711" start="20260109150000 +0000" stop="20260109160000 +0000">
+		<title>Connect the World (60m)</title>
+		<desc>Becky Anderson explores diverse perspectives and explains global issues of the day.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch711_connect_the_world.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="722" start="20260107160000 +0000" stop="20260107170000 +0000">
 		<title>Global Business</title>
