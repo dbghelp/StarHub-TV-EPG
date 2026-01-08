@@ -240,10 +240,6 @@
 		<display-name>Hub Premier 8</display-name>
 		<icon src="https://poster.starhubgo.com/Linear_Channels2/228_1920x1080_HTV.png?w=272" />
 	</channel>
-	<channel id="229">
-		<display-name>Hub Premier 9</display-name>
-		<icon src="https://poster.starhubgo.com/Linear_Channels2/229_1920x1080_HTV.png?w=272" />
-	</channel>
 	<channel id="232">
 		<display-name>Hub Premier 2 (4K)</display-name>
 		<icon src="https://poster.starhubgo.com/Linear_Channels2/222_1920x1080_HTV.png?w=272" />
@@ -1165,7 +1161,7 @@
 	</programme>
 	<programme channel="103" start="20260108143000 +0000" stop="20260108150000 +0000">
 		<title>Focus - EP 33</title>
-		<desc>Focus provides timely reports and analyses on international news and current affairs from Singapore's perspective.</desc>
+		<desc>As we enter the new year, many people are wondering where to safely keep their hard-earned money: gold, silver, or Bitcoin? Everyone is also concerned about job security. Will the prices of mixed rice at coffee shops go up again? Let the experts analyze this for you. In new school year, middle schools have banned the use of mobile phones on campus. Has children's screen time really decreased?</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/103_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="103" start="20260108150000 +0000" stop="20260108160000 +0000">
@@ -10131,7 +10127,7 @@
 	<programme channel="201" start="20260107233000 +0000" stop="20260108010000 +0000">
 		<title>Hologic WTA Tour 2026</title>
 		<desc>The Brisbane International, founded in 2009, is a premier professional tennis event staged on outdoor hard courts in Brisbane, Queensland. It takes place at the Queensland Tennis Centre and serves as a warm-up for the Australian open.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch201_wta_tour.jpg?w=960&amp;h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch201_WTA500Generic.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="201" start="20260108010000 +0000" stop="20260108060000 +0000">
 		<title>HSBC BWF World Tour 2026 PETRONAS Malaysia Open (Super 1000): Rd 16 Session 1 (C</title>
@@ -10161,7 +10157,7 @@
 	<programme channel="201" start="20260108160000 +0000" stop="20260108180000 +0000">
 		<title>Hologic WTA Tour 2025</title>
 		<desc>The 2025 Chennai Open will be the second edition of the Chennai Open and the first WTA tournament on India since 2022, when the first edition of this tournament was held, marking the end of a three year hiatus.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch201_wta_tour.jpg?w=960&amp;h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch201_WTA250Generic.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="201" start="20260108180000 +0000" stop="20260108223000 +0000">
 		<title>Billie Jean King Cup Play-Offs 2025 Group C: Argentina vs Switerland</title>
@@ -10181,7 +10177,7 @@
 	<programme channel="201" start="20260108233000 +0000" stop="20260109010000 +0000">
 		<title>Hologic WTA Tour 2026</title>
 		<desc>The Brisbane International, founded in 2009, is a premier professional tennis event staged on outdoor hard courts in Brisbane, Queensland. It takes place at the Queensland Tennis Centre and serves as a warm-up for the Australian open.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch201_wta_tour.jpg?w=960&amp;h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch201_WTA500Generic.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="201" start="20260109010000 +0000" stop="20260109040000 +0000">
 		<title>HSBC BWF World Tour 2026 PETRONAS Malaysia Open (Super 1000): QF Session 1 (Cour</title>
@@ -12577,56 +12573,6 @@
 		<title>End of Transmission</title>
 		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_Channels2/228_1920x1080_HTV.png?w=960&amp;h=540" />
-	</programme>
-	<programme channel="229" start="20260107160000 +0000" stop="20260107192000 +0000">
-		<title>End of Transmission</title>
-		<desc />
-		<icon src="https://poster.starhubgo.com/Linear_Channels2/229_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="229" start="20260107192000 +0000" stop="20260107213000 +0000">
-		<title>Fulham vs Chelsea (MW21) (Live) - EP 206</title>
-		<desc>Chelsea are unbeaten in their last nine Premier League London derbies (W5 D4) since a 1-0 defeat to Arsenal last March. The Blues last enjoyed a longer run of unbeaten London meetings between January 2013 and March 2014 (13).</desc>
-		<icon src="https://poster.starhubgo.com/poster/fulham_stadium.jpg?w=960" />
-	</programme>
-	<programme channel="229" start="20260107213000 +0000" stop="20260107220000 +0000">
-		<title>End of Transmission</title>
-		<desc />
-		<icon src="https://poster.starhubgo.com/Linear_Channels2/229_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="229" start="20260107220000 +0000" stop="20260108040000 +0000">
-		<title>End of Transmission</title>
-		<desc />
-		<icon src="https://poster.starhubgo.com/Linear_Channels2/229_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="229" start="20260108040000 +0000" stop="20260108100000 +0000">
-		<title>End of Transmission</title>
-		<desc />
-		<icon src="https://poster.starhubgo.com/Linear_Channels2/229_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="229" start="20260108100000 +0000" stop="20260108160000 +0000">
-		<title>End of Transmission</title>
-		<desc />
-		<icon src="https://poster.starhubgo.com/Linear_Channels2/229_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="229" start="20260108160000 +0000" stop="20260108220000 +0000">
-		<title>End of Transmission</title>
-		<desc />
-		<icon src="https://poster.starhubgo.com/Linear_Channels2/229_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="229" start="20260108220000 +0000" stop="20260109040000 +0000">
-		<title>End of Transmission</title>
-		<desc />
-		<icon src="https://poster.starhubgo.com/Linear_Channels2/229_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="229" start="20260109040000 +0000" stop="20260109100000 +0000">
-		<title>End of Transmission</title>
-		<desc />
-		<icon src="https://poster.starhubgo.com/Linear_Channels2/229_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="229" start="20260109100000 +0000" stop="20260109160000 +0000">
-		<title>End of Transmission</title>
-		<desc />
-		<icon src="https://poster.starhubgo.com/Linear_Channels2/229_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="232" start="20260107160000 +0000" stop="20260107180000 +0000">
 		<title>Brighton and Hove Albion vs Burnley (MW20) - EP 192</title>
@@ -33518,33 +33464,28 @@
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20260108160000 +0000" stop="20260108170700 +0000">
+	<programme channel="832" start="20260108160000 +0000" stop="20260108165500 +0000">
 		<title>Cheer up!small shops</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20260108170700 +0000" stop="20260108180500 +0000">
+	<programme channel="832" start="20260108165500 +0000" stop="20260108175300 +0000">
 		<title>Dragon TV Primetime News</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20260108180500 +0000" stop="20260108192400 +0000">
+	<programme channel="832" start="20260108175300 +0000" stop="20260108185500 +0000">
 		<title>Dream Home</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20260108192400 +0000" stop="20260108203100 +0000">
+	<programme channel="832" start="20260108185500 +0000" stop="20260108211500 +0000">
 		<title>Ai Romance</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20260108203100 +0000" stop="20260108214500 +0000">
+	<programme channel="832" start="20260108211500 +0000" stop="20260108221000 +0000">
 		<title>A Green Trip</title>
-		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="832" start="20260108214500 +0000" stop="20260108221000 +0000">
-		<title>Next Station</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
