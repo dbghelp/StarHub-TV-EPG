@@ -26848,25 +26848,20 @@
 		<desc>Start your day with Audie Cornish bringing you the latest headlines and analysis.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch711_cnn_this_morning.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="711" start="20260108120000 +0000" stop="20260108133000 +0000">
+	<programme channel="711" start="20260108120000 +0000" stop="20260108130000 +0000">
 		<title>CNN News Central</title>
 		<desc>Stay up to date with John Berman, Kate Bolduan and Sara Sidner from CNN's immersive news hub.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch711_cnn_news_central.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="711" start="20260108133000 +0000" stop="20260108140000 +0000">
-		<title>World Sport (30m)</title>
-		<desc>Daily sports show features major stories and issues making news in the world of sports.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch711_world_sport.jpg?w=341&amp;h=192" />
+	<programme channel="711" start="20260108130000 +0000" stop="20260108140000 +0000">
+		<title>CNN News Central</title>
+		<desc>Stay up to date with John Berman, Kate Bolduan and Sara Sidner from CNN's immersive news hub.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch711_cnn_news_central.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="711" start="20260108140000 +0000" stop="20260108144500 +0000">
-		<title>Connect the World (45m)</title>
+	<programme channel="711" start="20260108140000 +0000" stop="20260108150000 +0000">
+		<title>Connect the World (60m)</title>
 		<desc>Becky Anderson explores diverse perspectives and explains global issues of the day.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch711_connect_the_world.jpg?w=341&amp;h=192" />
-	</programme>
-	<programme channel="711" start="20260108144500 +0000" stop="20260108150000 +0000">
-		<title>World Sport (15m)</title>
-		<desc>Daily sports show features major stories and issues making news in the world of sports.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch711_world_sport.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="711" start="20260108150000 +0000" stop="20260108160000 +0000">
 		<title>Connect the World (60m)</title>
@@ -26874,7 +26869,7 @@
 		<icon src="https://poster.starhubgo.com/poster/ch711_connect_the_world.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="711" start="20260108160000 +0000" stop="20260108170000 +0000">
-		<title>One World (30m)</title>
+		<title>One World (60m)</title>
 		<desc>Zain Asher and Bianna Golodryga cover the top global and national issues of the day.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch711_one_world_with_zain_asher_and_bianna_golodryga.jpg?w=341&amp;h=192" />
 	</programme>
@@ -26898,15 +26893,15 @@
 		<desc>Max Foster has a definitive roundup of the day's top stories, giving you the urgent need-to-know context, plus a deeper dive into the questions sparking debate around the world.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch711_what_we_know_with_max_foster.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="711" start="20260108210000 +0000" stop="20260108223000 +0000">
+	<programme channel="711" start="20260108210000 +0000" stop="20260108220000 +0000">
 		<title>Quest Means Business (60m)</title>
 		<desc>Richard Quest speaks to the top names in global business to bring viewers the bottom line.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch711_quest_means_business.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="711" start="20260108223000 +0000" stop="20260108230000 +0000">
-		<title>World Sport (30m)</title>
-		<desc>Daily sports show features major stories and issues making news in the world of sports.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch711_world_sport.jpg?w=341&amp;h=192" />
+	<programme channel="711" start="20260108220000 +0000" stop="20260108230000 +0000">
+		<title>The Lead with Jake Tapper</title>
+		<desc>Jake Tapper covers all the day's top stories around the country and the globe, from politics to money, sports to popular culture.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch711_the_lead_with_jake_tapper.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="711" start="20260108230000 +0000" stop="20260109000000 +0000">
 		<title>The Brief with Jim Sciutto</title>
@@ -26968,11 +26963,6 @@
 		<desc>Start your day with Audie Cornish bringing you the latest headlines and analysis.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch711_cnn_this_morning.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="711" start="20260109120000 +0000" stop="20260109133000 +0000">
-		<title>CNN News Central</title>
-		<desc>Stay up to date with John Berman, Kate Bolduan and Sara Sidner from CNN's immersive news hub.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch711_cnn_news_central.jpg?w=960&amp;h=540" />
-	</programme>
 	<programme channel="711" start="20260109133000 +0000" stop="20260109140000 +0000">
 		<title>World Sport (30m)</title>
 		<desc>Daily sports show features major stories and issues making news in the world of sports.</desc>
@@ -26987,11 +26977,6 @@
 		<title>World Sport (15m)</title>
 		<desc>Daily sports show features major stories and issues making news in the world of sports.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch711_world_sport.jpg?w=341&amp;h=192" />
-	</programme>
-	<programme channel="711" start="20260109150000 +0000" stop="20260109160000 +0000">
-		<title>Connect the World (60m)</title>
-		<desc>Becky Anderson explores diverse perspectives and explains global issues of the day.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch711_connect_the_world.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="722" start="20260107160000 +0000" stop="20260107170000 +0000">
 		<title>Global Business</title>
