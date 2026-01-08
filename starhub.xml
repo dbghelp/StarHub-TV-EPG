@@ -1336,12 +1336,12 @@
 	</programme>
 	<programme channel="103" start="20260109123000 +0000" stop="20260109130000 +0000">
 		<title>Frontline - EP 34</title>
-		<desc>Frontline is a weekly investigative current affairs programme that aims to address issues closest to the hearts of Singaporeans.</desc>
+		<desc>Nearly 28 years after Wang Sha’s passing, his wife Ong Siew Eng reveals his love letters for the first time, telling a story of love rediscovered, and a devotion that endured to the very end. From beanless coffee made with upcycled by-products to beverages brewed from used coffee grounds, how safe and nutritious are these sustainable beverages?</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/103_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="103" start="20260109130000 +0000" stop="20260109140000 +0000">
-		<title>The Climb To... - EP 1</title>
-		<desc />
+		<title>The Grind - EP 1</title>
+		<desc>Rongjia quits badminton so that she can better support her mother Meiping, who is battling kidney failure. She plans to marry Wenkai, but his parents disapprove of her. Sam instructs Caitlin to cancel a deal with the Yasuda Group. New Gen Z hires shake up the office. Junjie hopes to end a stagnant career with a transfer to the sales team. Expectations and stress drive Rongjia into a breakdown.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/103_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="103" start="20260109140000 +0000" stop="20260109143000 +0000">
@@ -10112,7 +10112,7 @@
 	<programme channel="201" start="20260107160000 +0000" stop="20260107180000 +0000">
 		<title>Hologic WTA Tour 2025</title>
 		<desc>The Guangzhou Open is an annual professional tennis tournament for women, part of the WTA 250 series, held in Guangzhou, China. It features 32 singles players competing on outdoor hard courts. The tournament has been a fixture on the WTA Tour since 2004, with the inaugural singles title won by China's Li Na.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch201_wta_tour.jpg?w=960&amp;h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch201_WTA250Generic.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="201" start="20260107180000 +0000" stop="20260107230000 +0000">
 		<title>Billie Jean King Cup Play-Offs 2025 Group C: Slovakia vs Switzerland</title>
@@ -10975,27 +10975,27 @@
 		<icon src="https://poster.starhubgo.com/poster/ch211_AOGeneric.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="211" start="20260108130000 +0000" stop="20260108173000 +0000">
-		<title>United Cup 2026 Day 6 QF 2</title>
+		<title>United Cup 2026: QF 2 Switzerland vs Argentina</title>
 		<desc>The world’s best players will unite to compete side by side with mixed teams from 18 countries playing across three Australian cities over 11 days.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_UnitedCup.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="211" start="20260108173000 +0000" stop="20260108220000 +0000">
-		<title>United Cup 2026 Night 7 QF 3</title>
+		<title>United Cup 2026: QF 3 Belgium v Czechia</title>
 		<desc>The world’s best players will unite to compete side by side with mixed teams from 18 countries playing across three Australian cities over 11 days.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_UnitedCup.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="211" start="20260108220000 +0000" stop="20260108223000 +0000">
-		<title>Australian Open Classic 1996 Women's Singles QF Sanchez Vicario v Rubin</title>
+		<title>Australian Open Classic: 1996 Women's Singles QF Sanchez Vicario v Rubin</title>
 		<desc>Relive the best and most memorable Australian Open matches over the years in this series of classics.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_AOGeneric.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="211" start="20260108223000 +0000" stop="20260108233000 +0000">
-		<title>AO Originals 2026 Ambition: Next Gen Now</title>
+		<title>AO Originals 2026</title>
 		<desc>AO program series that offers exclusive content, on and off court interviews with new insights and never seen before details.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_AOGeneric.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="211" start="20260108233000 +0000" stop="20260109013000 +0000">
-		<title>Best Of AO 2025 Men's Singles Rd 1 Tiafoe v Rinderknech</title>
+		<title>Best Of AO 2025: Men's Singles Rd 1 Tiafoe v Rinderknech</title>
 		<desc>Catch the Best Matches from the Australian Open 2025</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_AOGeneric.jpg?w=341&amp;h=192" />
 	</programme>
@@ -11340,17 +11340,17 @@
 		<icon src="https://poster.starhubgo.com/poster/ch214_Total_Energies_Africa_Cup_of_Nations_Morocco_2025.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="214" start="20260108160000 +0000" stop="20260108175000 +0000">
-		<title>UEFA Women's Champions League 2025/26: Paris FC vs Barcelona - MD6</title>
+		<title>UEFA Women's Champions League 2025/26 Paris FC vs Barcelona - MD6</title>
 		<desc>Catch all the exhilarating and high quality action involving the best clubs in Europe's most prestigious women's football competition.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch214_UEFA_Womens_Champions_League.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="214" start="20260108175000 +0000" stop="20260108194000 +0000">
-		<title>UEFA Women's Champions League 2025/26: Benfica vs PSG - MD6</title>
+		<title>UEFA Women's Champions League 2025/26 Benfica vs PSG - MD6</title>
 		<desc>Catch all the exhilarating and high quality action involving the best clubs in Europe's most prestigious women's football competition.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch214_UEFA_Womens_Champions_League.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="214" start="20260108194000 +0000" stop="20260108213000 +0000">
-		<title>UEFA Women's Champions League 2025/26: Wolfsburg vs Chelsea - MD6</title>
+		<title>UEFA Women's Champions League 2025/26 Wolfsburg vs Chelsea - MD6</title>
 		<desc>Catch all the exhilarating and high quality action involving the best clubs in Europe's most prestigious women's football competition.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch214_UEFA_Womens_Champions_League.jpg?w=341&amp;h=192" />
 	</programme>
@@ -11361,11 +11361,11 @@
 	</programme>
 	<programme channel="214" start="20260108220000 +0000" stop="20260108223000 +0000">
 		<title>Nastro Rosa Tour 2025</title>
-		<desc>The Marina Militare Nastro Rosa Tour returns in 2025 for its fifth edition, offering a unique journey that blends high-level competition with Italy's maritime culture and coastal beauty.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch214_nastro_rosa_tour.jpg?w=341&amp;h=192" />
+		<desc>The Marina Militare Nastro Rosa Tour returns in 2025 for its fifth edition, offering a unique journey that blends high-level competition with Italy’s maritime culture and coastal beauty.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch214_nastro_rosa_tour_2025.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="214" start="20260108223000 +0000" stop="20260109003000 +0000">
-		<title>TotalEnergies Africa Cup of Nations, Morocco 2025: Nigeria vs Mozambique - Rd of</title>
+		<title>TotalEnergies Africa Cup of Nations, Morocco 2025 Nigeria vs Mozambique - Rd of</title>
 		<desc>beIN SPORTS brings you coverage from the 35th edition of the Africa Cup of Nations hosted by Morocco.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch214_Total_Energies_Africa_Cup_of_Nations_Morocco_2025.jpg?w=341&amp;h=192" />
 	</programme>
@@ -33504,17 +33504,17 @@
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20260109010000 +0000" stop="20260109020000 +0000">
+	<programme channel="832" start="20260109010000 +0000" stop="20260109020600 +0000">
 		<title>A Green Trip</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20260109020000 +0000" stop="20260109033400 +0000">
+	<programme channel="832" start="20260109020600 +0000" stop="20260109032100 +0000">
 		<title>Go Fighting</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20260109033400 +0000" stop="20260109040000 +0000">
+	<programme channel="832" start="20260109032100 +0000" stop="20260109040000 +0000">
 		<title>CARE ON THE WAY</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
@@ -33524,17 +33524,17 @@
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20260109042700 +0000" stop="20260109061300 +0000">
+	<programme channel="832" start="20260109042700 +0000" stop="20260109060200 +0000">
 		<title>Future China</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20260109061300 +0000" stop="20260109064300 +0000">
+	<programme channel="832" start="20260109060200 +0000" stop="20260109070400 +0000">
 		<title>China - Back to the Roots</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20260109064300 +0000" stop="20260109081900 +0000">
+	<programme channel="832" start="20260109070400 +0000" stop="20260109081900 +0000">
 		<title>Go Fighting</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
@@ -33564,32 +33564,32 @@
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20260109105800 +0000" stop="20260109115700 +0000">
+	<programme channel="832" start="20260109105800 +0000" stop="20260109115800 +0000">
 		<title>China - Back to the Roots</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20260109115700 +0000" stop="20260109125700 +0000">
+	<programme channel="832" start="20260109115800 +0000" stop="20260109130400 +0000">
 		<title>A Green Trip</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20260109125700 +0000" stop="20260109144400 +0000">
+	<programme channel="832" start="20260109130400 +0000" stop="20260109144000 +0000">
 		<title>Future China</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20260109144400 +0000" stop="20260109150900 +0000">
+	<programme channel="832" start="20260109144000 +0000" stop="20260109150500 +0000">
 		<title>New Entertainment</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20260109150900 +0000" stop="20260109153400 +0000">
+	<programme channel="832" start="20260109150500 +0000" stop="20260109153000 +0000">
 		<title>CARE ON THE WAY</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20260109153400 +0000" stop="20260109160000 +0000">
+	<programme channel="832" start="20260109153000 +0000" stop="20260109160000 +0000">
 		<title>Go Fighting</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
