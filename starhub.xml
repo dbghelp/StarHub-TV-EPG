@@ -7299,17 +7299,17 @@
 		<desc>Gopalan, a thief, teams up with Lakshmanan, and together they begin to loot people.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="140" start="20260109163000 +0000" stop="20260109193000 +0000">
+	<programme channel="140" start="20260109163000 +0000" stop="20260109191500 +0000">
 		<title>Ring Master</title>
 		<desc>Prince is embarrassed when his pet dog acts in a film with Diana, his former lover.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="140" start="20260109193000 +0000" stop="20260109213000 +0000">
+	<programme channel="140" start="20260109191500 +0000" stop="20260109215000 +0000">
 		<title>Padheyam</title>
 		<desc>Chandradas takes Harita to his ancestral home but she starts missing her stepfather.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="140" start="20260109213000 +0000" stop="20260109233000 +0000">
+	<programme channel="140" start="20260109215000 +0000" stop="20260109233000 +0000">
 		<title>Cheriya Kallanum Valiya Poleesum</title>
 		<desc>Sadasivan protects Soumini from many people who start appearing after her husband's death.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=341&amp;h=192" />
@@ -31119,17 +31119,27 @@
 		<desc>Bringing you KBS World daily English news, anchored by Choi Kyu-yeon.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch815_kbsworld_news_today.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="815" start="20260109080000 +0000" stop="20260109093000 +0000">
+	<programme channel="815" start="20260109080000 +0000" stop="20260109082000 +0000">
+		<title>The 46th Blue Dragon Film Awards Highlights</title>
+		<desc>KBS World continues to bring entertaining and informative programmes to viewers!</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch815_kbs_logo.jpg?w=960&amp;h=540" />
+	</programme>
+	<programme channel="815" start="20260109082000 +0000" stop="20260109082500 +0000">
+		<title>Music Bank K-Chart</title>
+		<desc>Follow the latest trend in the Korean music scene through the K-chart, a summary of the week's hottest songs.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch815_kbsworld_music_bank.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="815" start="20260109082500 +0000" stop="20260109093500 +0000">
 		<title>Music Bank - EP 1275</title>
 		<desc>The best tunes in Korea, on the most sensational TV music show that satisfies all your senses! Follow the latest trend in the Korean music scene through the K-chart, a summary of the week's hottest songs.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch815_kbsworld_music_bank.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="815" start="20260109093000 +0000" stop="20260109094500 +0000">
+	<programme channel="815" start="20260109093500 +0000" stop="20260109095000 +0000">
 		<title>The Dropout Employee - EP 1</title>
 		<desc>A company's flagship idol is seemingly "abandoned" by their own agency! Stepping away from life as a popular idol, the new journey begins.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch815_kbs_logo.jpg?w=960&amp;h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch815_the_dropout_employee.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="815" start="20260109094500 +0000" stop="20260109104000 +0000">
+	<programme channel="815" start="20260109095000 +0000" stop="20260109104000 +0000">
 		<title>The Great Journey</title>
 		<desc>KBS World continues to bring entertaining and informative programmes to viewers!</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch815_kbs_logo.jpg?w=960&amp;h=540" />
