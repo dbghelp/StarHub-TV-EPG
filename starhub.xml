@@ -8479,6 +8479,16 @@
 		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
+	<programme channel="153" start="20260110003000 +0000" stop="20260110010000 +0000">
+		<title>REV</title>
+		<desc>With its young, growing population, India’s tastes will grow ever more important to car designers. Will the cars of the future will be designed in India? And: a party bus guarantees fun and safety in Lagos.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="153" start="20260110010000 +0000" stop="20260110011500 +0000">
+		<title>DW News</title>
+		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
 	<programme channel="153" start="20260110011500 +0000" stop="20260110013000 +0000">
 		<title>Best of DW-online Content</title>
 		<desc>The wolves are back! But that means more farm animals are being killed as the predators spread through Western Europe. So this year, the EU decided to bring hunting back too. Scientists and the courts are calling this unjustified. We look at the case in Germany to figure out the best way to handle the carnivores in our backyard.</desc>
@@ -8486,7 +8496,7 @@
 	</programme>
 	<programme channel="153" start="20260110013000 +0000" stop="20260110020000 +0000">
 		<title>Tomorrow Today</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+		<desc>Houses made of straw; Gardens on a giant bunker; Climbing like Spiderman; Bouldering against depression; Gravity differences on Earth</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20260110020000 +0000" stop="20260110020200 +0000">
@@ -8509,14 +8519,9 @@
 		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="153" start="20260110031500 +0000" stop="20260110033000 +0000">
-		<title>REV</title>
-		<desc>What really happens when you drive under the influence of cannabis? We put it to the test in a professional driving simulator with police-style impairment tests - walking the line, eye tracking, reflex checks, and cognitive tasks. With experts Dr. Benno Hartung and Dr. Katharina Zube, we find out how weed affects reaction time, focus, steering, and driving safety.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="153" start="20260110033000 +0000" stop="20260110040000 +0000">
+	<programme channel="153" start="20260110031500 +0000" stop="20260110040000 +0000">
 		<title>DocFilm</title>
-		<desc>Tigers in Lamborghinis, costumed dogs and cheetahs on the sofa generate clicks on social media. Good business for the "petfluencers". But what price is paid by the animals?</desc>
+		<desc>Almost all Latin American crises of the 1960s and 1970s were influenced by the USA. Whether it was Brazil's dictatorship, the coup in Chile or the Cuban Missile Crisis - at some level, American politics were involved.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20260110040000 +0000" stop="20260110041500 +0000">
@@ -8541,12 +8546,12 @@
 	</programme>
 	<programme channel="153" start="20260110050200 +0000" stop="20260110053000 +0000">
 		<title>Arts Unveiled</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+		<desc>In 1917 Russian workers and women marched for bread and equality, catalyzing the end of czarist rule. A radical group, the Bolsheviks, had seized power in their name. What started as a dream of democracy ended up in totalitarian repression.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20260110053000 +0000" stop="20260110060000 +0000">
 		<title>The 77 Percent</title>
-		<desc>In this week's episode of The 77 Percent, we explore the relationship between money and personal connections. In Lagos, we ask young people whether they believe this connection is real. Next, we engage in an unfiltered Street Debate in Nairobi. Then, we take a closer look at the world of 'sugar daddies' in South Africa. Finally, we meet Kenya's pioneering female tour guide in the Maasai community.</desc>
+		<desc>Across Uganda, young people are stepping boldly into the political arena. In our Street Debate we ask them: Where does your drive and sense of urgency come from? And: Do they actually stand a chance?</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20260110060000 +0000" stop="20260110061500 +0000">
@@ -8560,8 +8565,8 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20260110063000 +0000" stop="20260110070000 +0000">
-		<title>REV</title>
-		<desc>With its young, growing population, India’s tastes will grow ever more important to car designers. Will the cars of the future will be designed in India? And: a party bus guarantees fun and safety in Lagos.</desc>
+		<title>Best of DW Podcasts</title>
+		<desc>Select DW podcasts enrich the program with current analyses of world politics and its influence on our daily lives. There will also be space in the program for lively discussions about social standards and taboos.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20260110070000 +0000" stop="20260110071500 +0000">
@@ -8571,12 +8576,12 @@
 	</programme>
 	<programme channel="153" start="20260110071500 +0000" stop="20260110073000 +0000">
 		<title>Sports Life</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+		<desc>Kenyan para sprinter Jairus Ong’eta defies stigma and vision impairment to qualify for the World Para Athletics Championships-becoming a trailblazer for athletes with albinism.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20260110073000 +0000" stop="20260110080000 +0000">
 		<title>Tomorrow Today</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+		<desc>Houses made of straw; Gardens on a giant bunker; Climbing like Spiderman; Bouldering against depression; Gravity differences on Earth</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20260110080000 +0000" stop="20260110081500 +0000">
@@ -8594,14 +8599,9 @@
 		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="153" start="20260110091500 +0000" stop="20260110093000 +0000">
-		<title>Sports Life</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="153" start="20260110093000 +0000" stop="20260110100000 +0000">
-		<title>In Good Shape</title>
-		<desc>Vision problems can affect people at any age. How can these problems be treated? And worldwide, the number of children who are nearsighted is rising steadily. Why is that? In Good Shape has some tips to make sure you have a clear view ahead.</desc>
+	<programme channel="153" start="20260110091500 +0000" stop="20260110100000 +0000">
+		<title>DocFilm</title>
+		<desc>Almost all Latin American crises of the 1960s and 1970s were influenced by the USA. Whether it was Brazil's dictatorship, the coup in Chile or the Cuban Missile Crisis - at some level, American politics were involved.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20260110100000 +0000" stop="20260110101500 +0000">
@@ -8615,8 +8615,8 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20260110103000 +0000" stop="20260110110000 +0000">
-		<title>Arts Unveiled</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+		<title>Best of DW Podcasts</title>
+		<desc>Select DW podcasts enrich the program with current analyses of world politics and its influence on our daily lives. There will also be space in the program for lively discussions about social standards and taboos.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20260110110000 +0000" stop="20260110110300 +0000">
@@ -8666,7 +8666,7 @@
 	</programme>
 	<programme channel="153" start="20260110143000 +0000" stop="20260110150000 +0000">
 		<title>The 77 Percent</title>
-		<desc>In this week's episode of The 77 Percent, we explore the relationship between money and personal connections. In Lagos, we ask young people whether they believe this connection is real. Next, we engage in an unfiltered Street Debate in Nairobi. Then, we take a closer look at the world of 'sugar daddies' in South Africa. Finally, we meet Kenya's pioneering female tour guide in the Maasai community.</desc>
+		<desc>Across Uganda, young people are stepping boldly into the political arena. In our Street Debate we ask them: Where does your drive and sense of urgency come from? And: Do they actually stand a chance?</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20260110150000 +0000" stop="20260110151500 +0000">
@@ -8691,7 +8691,7 @@
 	</programme>
 	<programme channel="153" start="20260110161500 +0000" stop="20260110163000 +0000">
 		<title>Sports Life</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+		<desc>Kenyan para sprinter Jairus Ong’eta defies stigma and vision impairment to qualify for the World Para Athletics Championships-becoming a trailblazer for athletes with albinism.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20260110163000 +0000" stop="20260110170000 +0000">
@@ -8711,7 +8711,7 @@
 	</programme>
 	<programme channel="153" start="20260110173000 +0000" stop="20260110180000 +0000">
 		<title>The 77 Percent</title>
-		<desc>In this week's episode of The 77 Percent, we explore the relationship between money and personal connections. In Lagos, we ask young people whether they believe this connection is real. Next, we engage in an unfiltered Street Debate in Nairobi. Then, we take a closer look at the world of 'sugar daddies' in South Africa. Finally, we meet Kenya's pioneering female tour guide in the Maasai community.</desc>
+		<desc>Across Uganda, young people are stepping boldly into the political arena. In our Street Debate we ask them: Where does your drive and sense of urgency come from? And: Do they actually stand a chance?</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20260110180000 +0000" stop="20260110181500 +0000">
@@ -8725,8 +8725,8 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20260110183000 +0000" stop="20260110190000 +0000">
-		<title>DW News</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+		<title>Best of DW Podcasts</title>
+		<desc>Select DW podcasts enrich the program with current analyses of world politics and its influence on our daily lives. There will also be space in the program for lively discussions about social standards and taboos.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20260110190000 +0000" stop="20260110191500 +0000">
@@ -8751,7 +8751,7 @@
 	</programme>
 	<programme channel="153" start="20260110203000 +0000" stop="20260110210000 +0000">
 		<title>Afrimaxx</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+		<desc>Today's episode with host Zahir from Malawi, is all about identity. How to find it, shape it, and even fight for it. Get ready to meet the creative minds that are transforming identity into something bold and beautiful.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20260110210000 +0000" stop="20260110211500 +0000">
@@ -8784,14 +8784,9 @@
 		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="153" start="20260110231500 +0000" stop="20260110233000 +0000">
-		<title>Sports Life</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="153" start="20260110233000 +0000" stop="20260111000000 +0000">
-		<title>Tomorrow Today</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+	<programme channel="153" start="20260110231500 +0000" stop="20260111000000 +0000">
+		<title>DocFilm</title>
+		<desc>Almost all Latin American crises of the 1960s and 1970s were influenced by the USA. Whether it was Brazil's dictatorship, the coup in Chile or the Cuban Missile Crisis - at some level, American politics were involved.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20260111000000 +0000" stop="20260111000200 +0000">
@@ -8831,7 +8826,7 @@
 	</programme>
 	<programme channel="153" start="20260111020200 +0000" stop="20260111021500 +0000">
 		<title>Sports Life</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+		<desc>Kenyan para sprinter Jairus Ong’eta defies stigma and vision impairment to qualify for the World Para Athletics Championships-becoming a trailblazer for athletes with albinism.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20260111021500 +0000" stop="20260111030000 +0000">
@@ -8861,7 +8856,7 @@
 	</programme>
 	<programme channel="153" start="20260111041500 +0000" stop="20260111043000 +0000">
 		<title>Sports Life</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+		<desc>Kenyan para sprinter Jairus Ong’eta defies stigma and vision impairment to qualify for the World Para Athletics Championships-becoming a trailblazer for athletes with albinism.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20260111043000 +0000" stop="20260111050000 +0000">
@@ -8884,14 +8879,9 @@
 		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="153" start="20260111061500 +0000" stop="20260111063000 +0000">
-		<title>Reporter</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="153" start="20260111063000 +0000" stop="20260111070000 +0000">
-		<title>Euromaxx</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+	<programme channel="153" start="20260111061500 +0000" stop="20260111070000 +0000">
+		<title>DocFilm</title>
+		<desc>Almost all Latin American crises of the 1960s and 1970s were influenced by the USA. Whether it was Brazil's dictatorship, the coup in Chile or the Cuban Missile Crisis - at some level, American politics were involved.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20260111070000 +0000" stop="20260111071500 +0000">
@@ -8906,7 +8896,7 @@
 	</programme>
 	<programme channel="153" start="20260111073000 +0000" stop="20260111080000 +0000">
 		<title>Arts Unveiled</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+		<desc>In 1917 Russian workers and women marched for bread and equality, catalyzing the end of czarist rule. A radical group, the Bolsheviks, had seized power in their name. What started as a dream of democracy ended up in totalitarian repression.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20260111080000 +0000" stop="20260111081500 +0000">
@@ -8931,7 +8921,7 @@
 	</programme>
 	<programme channel="153" start="20260111093000 +0000" stop="20260111100000 +0000">
 		<title>The 77 Percent</title>
-		<desc>In this week's episode of The 77 Percent, we explore the relationship between money and personal connections. In Lagos, we ask young people whether they believe this connection is real. Next, we engage in an unfiltered Street Debate in Nairobi. Then, we take a closer look at the world of 'sugar daddies' in South Africa. Finally, we meet Kenya's pioneering female tour guide in the Maasai community.</desc>
+		<desc>Across Uganda, young people are stepping boldly into the political arena. In our Street Debate we ask them: Where does your drive and sense of urgency come from? And: Do they actually stand a chance?</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20260111100000 +0000" stop="20260111101500 +0000">
@@ -8956,7 +8946,7 @@
 	</programme>
 	<programme channel="153" start="20260111111500 +0000" stop="20260111113000 +0000">
 		<title>Sports Life</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+		<desc>Kenyan para sprinter Jairus Ong’eta defies stigma and vision impairment to qualify for the World Para Athletics Championships-becoming a trailblazer for athletes with albinism.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20260111113000 +0000" stop="20260111120000 +0000">
@@ -8976,7 +8966,7 @@
 	</programme>
 	<programme channel="153" start="20260111123000 +0000" stop="20260111130000 +0000">
 		<title>Arts Unveiled</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+		<desc>In 1917 Russian workers and women marched for bread and equality, catalyzing the end of czarist rule. A radical group, the Bolsheviks, had seized power in their name. What started as a dream of democracy ended up in totalitarian repression.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20260111130000 +0000" stop="20260111131500 +0000">
@@ -9000,8 +8990,8 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20260111143000 +0000" stop="20260111150000 +0000">
-		<title>Best of DW Podcasts</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+		<title>Under the Baobab</title>
+		<desc>Many Ugandans say President Yoweri Museveni would not win a free and fair election outright. But after four decades of Museveni in power, uncertainty over electoral credibility, economic growth, and the potential for a transfer of power, remains bigger than ever in Kampala. Lawyer and rights advocate Miria Matembe joins us to dissect why the 2026 Ugandan general election matters more than ever.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20260111150000 +0000" stop="20260111151500 +0000">
@@ -9009,14 +8999,9 @@
 		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="153" start="20260111151500 +0000" stop="20260111153000 +0000">
-		<title>Choices - Dare to dream</title>
-		<desc>Chirag Malhotra dreams of starting over in nature. Can he support himself financially if he moves there? Muzammil Hussain used to be a city boy but 8 years ago, he left his safe job to start a tour company in the mountains of Kashmir. He gives Chirag a series of tests to see he is ready for mountain life.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="153" start="20260111153000 +0000" stop="20260111160000 +0000">
-		<title>Arts Unveiled</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+	<programme channel="153" start="20260111151500 +0000" stop="20260111160000 +0000">
+		<title>DocFilm</title>
+		<desc>Almost all Latin American crises of the 1960s and 1970s were influenced by the USA. Whether it was Brazil's dictatorship, the coup in Chile or the Cuban Missile Crisis - at some level, American politics were involved.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="158" start="20260109153000 +0000" stop="20260109163000 +0000">
