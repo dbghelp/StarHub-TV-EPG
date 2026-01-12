@@ -1944,9 +1944,19 @@
 		<desc>(Live) Top stories, business news and market updates from across the region as Asia gears up for the day ahead.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
+	<programme channel="106" start="20260113020000 +0000" stop="20260113030000 +0000">
+		<title>Wombless - EP 2</title>
+		<desc>For over a decade, activists and government officials have been fighting back against the practice of unnecessary hysterectomies in India. From spreading awareness, to raiding faulty clinics and legal battles, we learn about the fight to protect women against unscrupulous medical practitioners who rob them of their wombs.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
 	<programme channel="106" start="20260113030000 +0000" stop="20260113050000 +0000">
 		<title>Asia Now - EP 199</title>
 		<desc>(Live) Non-stop breaking stories, expert analysis and extensive news coverage every hour.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="106" start="20260113050000 +0000" stop="20260113060000 +0000">
+		<title>Wombless - EP 1</title>
+		<desc>In Maharashtra’s Beed region, female cane cutters sacrifice their wombs to keep earning for their families. But these women are now fighting for a different future, determined to break the cycle and give their daughters a life beyond the sugarcane fields.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="106" start="20260113060000 +0000" stop="20260113080000 +0000">
@@ -10772,7 +10782,7 @@
 	<programme channel="210" start="20260111183000 +0000" stop="20260111220000 +0000">
 		<title>MotoGP Rd22 Motul GP of the Valencian Community</title>
 		<desc>The 2025 MotoGP sees 22 of the world's best riders battle on 1000cc prototype machines, delivering over 250hp and reaching speeds of 360kph across 22 thrilling Grands Prix in 18 countries.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch210_motorsports.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch210_motogp.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="210" start="20260111220000 +0000" stop="20260112030000 +0000">
 		<title>MotoGP Rd22 Motul GP of the Valencian Community</title>
@@ -10832,7 +10842,7 @@
 	<programme channel="210" start="20260113002000 +0000" stop="20260113045500 +0000">
 		<title>WTT Champions Doha 2026</title>
 		<desc>The world's top table tennis stars return to Doha for another high-intensity Champions event, delivering elite rallies, big upsets and world-class action on the desert stage.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch210_table_tennis.jpg?w=960&amp;h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch210_wtt.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="210" start="20260113045500 +0000" stop="20260113052500 +0000">
 		<title>2025/26 ALM Mini Match Rd 11 Melbourne Victory vs Perth Glory</title>
@@ -10842,7 +10852,7 @@
 	<programme channel="210" start="20260113052500 +0000" stop="20260113103000 +0000">
 		<title>WTT Champions Doha 2026</title>
 		<desc>The world's top table tennis stars return to Doha for another high-intensity Champions event, delivering elite rallies, big upsets and world-class action on the desert stage.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch210_table_tennis.jpg?w=960&amp;h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch210_wtt.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="210" start="20260113103000 +0000" stop="20260113110000 +0000">
 		<title>2025/26 A-League Men Round 11</title>
@@ -10852,12 +10862,12 @@
 	<programme channel="210" start="20260113110000 +0000" stop="20260113113000 +0000">
 		<title>MotoGP 2025 Spotlight</title>
 		<desc>Rookies FermÃ­n Aldeguer, Ai Ogura and Somkiat Chantra face the ultimate MotoGP test. Exclusive access captures their fight for survival and the brutal reality of joining the racing elite.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch210_motorsports.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch210_motogp.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="210" start="20260113113000 +0000" stop="20260113160000 +0000">
+	<programme channel="210" start="20260113113000 +0000" stop="20260113173000 +0000">
 		<title>WTT Champions Doha 2026</title>
 		<desc>The world's top table tennis stars return to Doha for another high-intensity Champions event, delivering elite rallies, big upsets and world-class action on the desert stage.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch210_table_tennis.jpg?w=960&amp;h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch210_wtt.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="211" start="20260111150000 +0000" stop="20260111170000 +0000">
 		<title>Best Of AO 2025: Men's Singles Rd 3 Alcaraz v Borges</title>
@@ -33524,12 +33534,12 @@
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20260113010000 +0000" stop="20260113020900 +0000">
+	<programme channel="832" start="20260113010000 +0000" stop="20260113015800 +0000">
 		<title>A Green Trip</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20260113020900 +0000" stop="20260113040000 +0000">
+	<programme channel="832" start="20260113015800 +0000" stop="20260113040000 +0000">
 		<title>THE CITY OF MUSICALS</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
@@ -33539,22 +33549,22 @@
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20260113042700 +0000" stop="20260113061300 +0000">
+	<programme channel="832" start="20260113042700 +0000" stop="20260113060900 +0000">
 		<title>Future China</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20260113061300 +0000" stop="20260113065500 +0000">
+	<programme channel="832" start="20260113060900 +0000" stop="20260113064600 +0000">
 		<title>CHINA Now</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20260113065500 +0000" stop="20260113072000 +0000">
+	<programme channel="832" start="20260113064600 +0000" stop="20260113071100 +0000">
 		<title>Next Station</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20260113072000 +0000" stop="20260113090900 +0000">
+	<programme channel="832" start="20260113071100 +0000" stop="20260113090900 +0000">
 		<title>THE CITY OF MUSICALS</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
@@ -33574,37 +33584,37 @@
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20260113105800 +0000" stop="20260113113900 +0000">
+	<programme channel="832" start="20260113105800 +0000" stop="20260113113600 +0000">
 		<title>CHINA Now</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20260113113900 +0000" stop="20260113120400 +0000">
+	<programme channel="832" start="20260113113600 +0000" stop="20260113120100 +0000">
 		<title>Next Station</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20260113120400 +0000" stop="20260113131300 +0000">
+	<programme channel="832" start="20260113120100 +0000" stop="20260113125900 +0000">
 		<title>A Green Trip</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20260113131300 +0000" stop="20260113140400 +0000">
+	<programme channel="832" start="20260113125900 +0000" stop="20260113135000 +0000">
 		<title>Future China</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20260113140400 +0000" stop="20260113142900 +0000">
+	<programme channel="832" start="20260113135000 +0000" stop="20260113141500 +0000">
 		<title>New Entertainment</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20260113142900 +0000" stop="20260113145400 +0000">
+	<programme channel="832" start="20260113141500 +0000" stop="20260113144000 +0000">
 		<title>CARE ON THE WAY</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20260113145400 +0000" stop="20260113160000 +0000">
+	<programme channel="832" start="20260113144000 +0000" stop="20260113160000 +0000">
 		<title>THE CITY OF MUSICALS</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
@@ -35494,6 +35504,41 @@
 		<desc>In the process of traversing the rivers and lakes after ten years of training, Yun Xiang (Chen Xiao) met Shu Yanan (Rachel Momo), a weird and intelligent woman and several others and gradually realized the warmth of friendship.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch825_the_ingenious_one.jpg?w=341&amp;h=192" />
 	</programme>
+	<programme channel="995" start="20260111161500 +0000" stop="20260111170500 +0000">
+		<title>Lost You Forever Season 1 - EP 14</title>
+		<desc>A drama of mythical ancient times starring Yang Zi and Zhang Wanyi. The drama is adapted from novel titled Miss You Forever by the writer, Tonghua. It tells the story of love and hatred between Xiaoyao and Qiangxuan, Tu Shanjing, Chishui Fenglong and Xiangliu.</desc>
+		<icon src="https://poster.starhubgo.com/poster/LostYouForeverSeason1.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="995" start="20260111170500 +0000" stop="20260111180000 +0000">
+		<title>Lost You Forever Season 1 - EP 15</title>
+		<desc>A drama of mythical ancient times starring Yang Zi and Zhang Wanyi. The drama is adapted from novel titled Miss You Forever by the writer, Tonghua. It tells the story of love and hatred between Xiaoyao and Qiangxuan, Tu Shanjing, Chishui Fenglong and Xiangliu.</desc>
+		<icon src="https://poster.starhubgo.com/poster/LostYouForeverSeason1.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="995" start="20260111180000 +0000" stop="20260111190000 +0000">
+		<title>Ye Cheng - EP 15</title>
+		<desc>Shu Cheng (Claire Jia), the daughter of the first aristocratic family, pretends to be a playgirl to conceal her identify. While promoting Shen Ye (Yuan Hao) as a courtesan, she discovers his multiple identities. They have no choice but to work together.</desc>
+		<icon src="https://poster.starhubgo.com/poster/YeCheng.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="995" start="20260111190000 +0000" stop="20260111195000 +0000">
+		<title>Love's Ambition - EP 14</title>
+		<desc>[With English and Chinese subtitles] TV host Xu Yan (Zhao Lusi) and urban elite Shen Haoming (William Chan) appear to have a perfect marriage, but it is riddled with secrets. Eventually, they shed their facades, grow closer again, and rediscover themselves.</desc>
+		<icon src="https://poster.starhubgo.com/poster/LovesAmbition.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="995" start="20260111195000 +0000" stop="20260111204500 +0000">
+		<title>Love's Ambition - EP 15</title>
+		<desc>[With English and Chinese subtitles] TV host Xu Yan (Zhao Lusi) and urban elite Shen Haoming (William Chan) appear to have a perfect marriage, but it is riddled with secrets. Eventually, they shed their facades, grow closer again, and rediscover themselves.</desc>
+		<icon src="https://poster.starhubgo.com/poster/LovesAmbition.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="995" start="20260111204500 +0000" stop="20260111220000 +0000">
+		<title>Ms Incognito - EP 7</title>
+		<desc>[With English and Chinese subtitles] A bodyguard hides in a village as a kindergarten teacher to avoid her boss' enemies – but faces a new challenge in a skeptical strawberry farmer!</desc>
+		<icon src="https://poster.starhubgo.com/poster/MsIncognito.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="995" start="20260111220000 +0000" stop="20260111231500 +0000">
+		<title>Good Job - EP 12</title>
+		<desc>Eun Seon-Woo (Jung Il-Woo) owns the biggest company in Korea and secretly runs a private detective office. Don Se-Ra (Kwon Yuri) was born with hyperacuity and uses it to help people. As the arrogant and the helpful meet to solve cases together, romance blossoms.</desc>
+		<icon src="https://poster.starhubgo.com/poster/GoodJob_L.jpg?w=960" />
+	</programme>
 	<programme channel="995" start="20260111231500 +0000" stop="20260112003000 +0000">
 		<title>Good Partner - EP 11</title>
 		<desc>The story follows popular divorce lawyer Cha Eun-Kyung (Jang Na-ra), who finds herself faced with her own marital crisis. She often clashes with rookie lawyer Han Yoo-Ri (Nam Ji-Hyun) over cases. A workplace battle between the two lawyers is about to unfold.</desc>
@@ -35644,6 +35689,141 @@
 		<desc>The story follows popular divorce lawyer Cha Eun-Kyung (Jang Na-ra), who finds herself faced with her own marital crisis. She often clashes with rookie lawyer Han Yoo-Ri (Nam Ji-Hyun) over cases. A workplace battle between the two lawyers is about to unfold.</desc>
 		<icon src="https://poster.starhubgo.com/poster/GoodPartner.jpg?w=341&amp;h=192" />
 	</programme>
+	<programme channel="995" start="20260113003000 +0000" stop="20260113013000 +0000">
+		<title>Under the Moonlight - EP 3</title>
+		<desc>[With English and Chinese subtitles] The story follows Luo Shu (Hu Bingqing), a young woman trapped in the plight of fate yet determined to save herself, who meets Qi Menglin (Zhai Zilu), a spirited youth eager to roam the martial world. Together, they brave hardships and solve mysteries.</desc>
+		<icon src="https://poster.starhubgo.com/poster/UnderTheMoonlight_L.jpg?w=960" />
+	</programme>
+	<programme channel="995" start="20260113013000 +0000" stop="20260113020000 +0000">
+		<title>Lo And Behold - EP 2123</title>
+		<desc>This story revolves around the Hung family, their working lives and friends.</desc>
+		<icon src="https://poster.starhubgo.com/poster/LoAndBehold_L.jpg?w=960" />
+	</programme>
+	<programme channel="995" start="20260113020000 +0000" stop="20260113025500 +0000">
+		<title>Golden City (Ep 751-800) VVD Mandarin - EP 795</title>
+		<desc>Set in the 60s in Jioufen, the story tells how three sworn brothers conquer the world with their bare hands. While connecting romance from the previous generation to the shared emotions with the present, the drama explores differences in generational values.</desc>
+		<icon src="https://poster.starhubgo.com/poster/GoldenCity.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="995" start="20260113025500 +0000" stop="20260113035000 +0000">
+		<title>The Queen of News Season 2 - EP 25</title>
+		<desc>[With English and Chinese subtitles] Wai-sum and Ka-yin team up with other media organizations to expose the true face of Fuyu Fund. Kingston still wants to manipulate public opinion, unaware that he has been drawn into a precarious situation. At the critical moment, a mysterious individual appears on the livestream, threatening Chi-ngo’s life and forcing Wai-sum to read some script in support of Fuyu!</desc>
+		<icon src="https://poster.starhubgo.com/poster/TheQueenOfNewsSeason2_L.jpg?w=960" />
+	</programme>
+	<programme channel="995" start="20260113035000 +0000" stop="20260113044500 +0000">
+		<title>Shadow Love - EP 21</title>
+		<desc>[With English and Chinese subtitles] The story follows Li Shuang (played by Song Yi), the adopted daughter of a great general guarding the borders of the Great Jin, and Jin An (played by Cheng Lei), the heir of Western Rong. The two join forces to root out a traitor, resolve a national crisis, and gradually fall in love.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ShadowLove_L.jpg?w=960" />
+	</programme>
+	<programme channel="995" start="20260113044500 +0000" stop="20260113051000 +0000">
+		<title>Lo And Behold - EP 2123</title>
+		<desc>This story revolves around the Hung family, their working lives and friends.</desc>
+		<icon src="https://poster.starhubgo.com/poster/LoAndBehold_L.jpg?w=960" />
+	</programme>
+	<programme channel="995" start="20260113051000 +0000" stop="20260113055500 +0000">
+		<title>In Bed With A Stranger - EP 25</title>
+		<desc>This drama features the most intimate strangers who are married for 7 years, but perhaps they are better off apart than together. Who’s the killer? Him? Her? Or both?</desc>
+		<icon src="https://poster.starhubgo.com/poster/InBedWithAStranger.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="995" start="20260113055500 +0000" stop="20260113064500 +0000">
+		<title>Golden City (Ep 751-800) VVD Mandarin - EP 795</title>
+		<desc>Set in the 60s in Jioufen, the story tells how three sworn brothers conquer the world with their bare hands. While connecting romance from the previous generation to the shared emotions with the present, the drama explores differences in generational values.</desc>
+		<icon src="https://poster.starhubgo.com/poster/GoldenCity.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="995" start="20260113064500 +0000" stop="20260113073000 +0000">
+		<title>Love Song in Winter - EP 18</title>
+		<desc>Detective Jiang Chengyi (Huang Jingyu) and anesthesiologist Lu Yan (Sun Qian) unexpectedly reunite eight years after their breakup. Together, they solve a serial murder case, clear up misunderstandings, and rekindle their relationship.</desc>
+		<icon src="https://poster.starhubgo.com/poster/LoveSongInWinter.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="995" start="20260113073000 +0000" stop="20260113081000 +0000">
+		<title>Love Song in Winter - EP 19</title>
+		<desc>Detective Jiang Chengyi (Huang Jingyu) and anesthesiologist Lu Yan (Sun Qian) unexpectedly reunite eight years after their breakup. Together, they solve a serial murder case, clear up misunderstandings, and rekindle their relationship.</desc>
+		<icon src="https://poster.starhubgo.com/poster/LoveSongInWinter.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="995" start="20260113081000 +0000" stop="20260113090000 +0000">
+		<title>Under the Moonlight - EP 3</title>
+		<desc>[With English and Chinese subtitles] The story follows Luo Shu (Hu Bingqing), a young woman trapped in the plight of fate yet determined to save herself, who meets Qi Menglin (Zhai Zilu), a spirited youth eager to roam the martial world. Together, they brave hardships and solve mysteries.</desc>
+		<icon src="https://poster.starhubgo.com/poster/UnderTheMoonlight_L.jpg?w=960" />
+	</programme>
+	<programme channel="995" start="20260113090000 +0000" stop="20260113094500 +0000">
+		<title>Forensic Heroes VI: Redemption - EP 3</title>
+		<desc>Pui-ching goes to the clinic to get some medicine. She accidentally runs into someone who looks like her old friend Sin Yeung. International A-list model Miu Na-na’s agent Cola applies for leave and goes to Macau. Na-na realizes she is tailed, so she asks Sing-pak for help. She also takes shelter in Sing-pak’s place.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ForensicHeroesVIRedemption_L.jpg?w=960" />
+	</programme>
+	<programme channel="995" start="20260113094500 +0000" stop="20260113103500 +0000">
+		<title>Golden City (Ep 751-800) VVD Mandarin - EP 796</title>
+		<desc>Set in the 60s in Jioufen, the story tells how three sworn brothers conquer the world with their bare hands. While connecting romance from the previous generation to the shared emotions with the present, the drama explores differences in generational values.</desc>
+		<icon src="https://poster.starhubgo.com/poster/GoldenCity.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="995" start="20260113103500 +0000" stop="20260113110000 +0000">
+		<title>Lo And Behold - EP 2123</title>
+		<desc>This story revolves around the Hung family, their working lives and friends.</desc>
+		<icon src="https://poster.starhubgo.com/poster/LoAndBehold_L.jpg?w=960" />
+	</programme>
+	<programme channel="995" start="20260113110000 +0000" stop="20260113120000 +0000">
+		<title>Under the Moonlight - EP 4</title>
+		<desc>[With English and Chinese subtitles] The story follows Luo Shu (Hu Bingqing), a young woman trapped in the plight of fate yet determined to save herself, who meets Qi Menglin (Zhai Zilu), a spirited youth eager to roam the martial world. Together, they brave hardships and solve mysteries.</desc>
+		<icon src="https://poster.starhubgo.com/poster/UnderTheMoonlight_L.jpg?w=960" />
+	</programme>
+	<programme channel="995" start="20260113120000 +0000" stop="20260113130000 +0000">
+		<title>Heavenly Hand - EP 1</title>
+		<desc>[With English and Chinese subtitles] Tai Lung Fung Mahjong Parlor boss Szeto Kau has been taking care of Ching Long and Ching Ching. The trio regard each other as siblings. Somewhere outside the parlor, Szeto Kau plays loud mahjong clatter noise to pay his respects to deceased old customers.</desc>
+		<icon src="https://poster.starhubgo.com/poster/HeavenlyHand.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="995" start="20260113130000 +0000" stop="20260113140000 +0000">
+		<title>Shadow Love - EP 22</title>
+		<desc>[With English and Chinese subtitles] The story follows Li Shuang (played by Song Yi), the adopted daughter of a great general guarding the borders of the Great Jin, and Jin An (played by Cheng Lei), the heir of Western Rong. The two join forces to root out a traitor, resolve a national crisis, and gradually fall in love.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ShadowLove_L.jpg?w=960" />
+	</programme>
+	<programme channel="995" start="20260113140000 +0000" stop="20260113143000 +0000">
+		<title>Lo And Behold - EP 2124</title>
+		<desc>This story revolves around the Hung family, their working lives and friends.</desc>
+		<icon src="https://poster.starhubgo.com/poster/LoAndBehold_L.jpg?w=960" />
+	</programme>
+	<programme channel="995" start="20260113143000 +0000" stop="20260113152000 +0000">
+		<title>Follow Your Heart - EP 1</title>
+		<desc>While secretly investigating a case, Jiang Xin Bai, a proud prince and head constable who suffers from face blindness, meets the unorthodox Dr Yan Nan Xing, who ‘changes her appearance’ each month. They go from being at odds to solving cases together.</desc>
+		<icon src="https://poster.starhubgo.com/poster/FollowYourHeart.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="995" start="20260113152000 +0000" stop="20260113161500 +0000">
+		<title>Golden City (Ep 751-800) VVD Mandarin - EP 796</title>
+		<desc>Set in the 60s in Jioufen, the story tells how three sworn brothers conquer the world with their bare hands. While connecting romance from the previous generation to the shared emotions with the present, the drama explores differences in generational values.</desc>
+		<icon src="https://poster.starhubgo.com/poster/GoldenCity.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="996" start="20260111161500 +0000" stop="20260111170500 +0000">
+		<title>Lost You Forever Season 1 - EP 14</title>
+		<desc>A drama of mythical ancient times starring Yang Zi and Zhang Wanyi. The drama is adapted from novel titled Miss You Forever by the writer, Tonghua. It tells the story of love and hatred between Xiaoyao and Qiangxuan, Tu Shanjing, Chishui Fenglong and Xiangliu.</desc>
+		<icon src="https://poster.starhubgo.com/poster/LostYouForeverSeason1.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="996" start="20260111170500 +0000" stop="20260111180000 +0000">
+		<title>Lost You Forever Season 1 - EP 15</title>
+		<desc>A drama of mythical ancient times starring Yang Zi and Zhang Wanyi. The drama is adapted from novel titled Miss You Forever by the writer, Tonghua. It tells the story of love and hatred between Xiaoyao and Qiangxuan, Tu Shanjing, Chishui Fenglong and Xiangliu.</desc>
+		<icon src="https://poster.starhubgo.com/poster/LostYouForeverSeason1.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="996" start="20260111180000 +0000" stop="20260111190000 +0000">
+		<title>Ye Cheng - EP 15</title>
+		<desc>Shu Cheng (Claire Jia), the daughter of the first aristocratic family, pretends to be a playgirl to conceal her identify. While promoting Shen Ye (Yuan Hao) as a courtesan, she discovers his multiple identities. They have no choice but to work together.</desc>
+		<icon src="https://poster.starhubgo.com/poster/YeCheng.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="996" start="20260111190000 +0000" stop="20260111195000 +0000">
+		<title>Love's Ambition - EP 14</title>
+		<desc>[With English and Chinese subtitles] TV host Xu Yan (Zhao Lusi) and urban elite Shen Haoming (William Chan) appear to have a perfect marriage, but it is riddled with secrets. Eventually, they shed their facades, grow closer again, and rediscover themselves.</desc>
+		<icon src="https://poster.starhubgo.com/poster/LovesAmbition.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="996" start="20260111195000 +0000" stop="20260111204500 +0000">
+		<title>Love's Ambition - EP 15</title>
+		<desc>[With English and Chinese subtitles] TV host Xu Yan (Zhao Lusi) and urban elite Shen Haoming (William Chan) appear to have a perfect marriage, but it is riddled with secrets. Eventually, they shed their facades, grow closer again, and rediscover themselves.</desc>
+		<icon src="https://poster.starhubgo.com/poster/LovesAmbition.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="996" start="20260111204500 +0000" stop="20260111220000 +0000">
+		<title>Ms Incognito - EP 7</title>
+		<desc>[With English and Chinese subtitles] A bodyguard hides in a village as a kindergarten teacher to avoid her boss' enemies – but faces a new challenge in a skeptical strawberry farmer!</desc>
+		<icon src="https://poster.starhubgo.com/poster/MsIncognito.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="996" start="20260111220000 +0000" stop="20260111231500 +0000">
+		<title>Good Job - EP 12</title>
+		<desc>Eun Seon-Woo (Jung Il-Woo) owns the biggest company in Korea and secretly runs a private detective office. Don Se-Ra (Kwon Yuri) was born with hyperacuity and uses it to help people. As the arrogant and the helpful meet to solve cases together, romance blossoms.</desc>
+		<icon src="https://poster.starhubgo.com/poster/GoodJob_L.jpg?w=960" />
+	</programme>
 	<programme channel="996" start="20260111231500 +0000" stop="20260112003000 +0000">
 		<title>Good Partner - EP 11</title>
 		<desc>The story follows popular divorce lawyer Cha Eun-Kyung (Jang Na-ra), who finds herself faced with her own marital crisis. She often clashes with rookie lawyer Han Yoo-Ri (Nam Ji-Hyun) over cases. A workplace battle between the two lawyers is about to unfold.</desc>
@@ -35793,5 +35973,105 @@
 		<title>Good Partner - EP 12</title>
 		<desc>The story follows popular divorce lawyer Cha Eun-Kyung (Jang Na-ra), who finds herself faced with her own marital crisis. She often clashes with rookie lawyer Han Yoo-Ri (Nam Ji-Hyun) over cases. A workplace battle between the two lawyers is about to unfold.</desc>
 		<icon src="https://poster.starhubgo.com/poster/GoodPartner.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="996" start="20260113003000 +0000" stop="20260113013000 +0000">
+		<title>Under the Moonlight - EP 3</title>
+		<desc>[With English and Chinese subtitles] The story follows Luo Shu (Hu Bingqing), a young woman trapped in the plight of fate yet determined to save herself, who meets Qi Menglin (Zhai Zilu), a spirited youth eager to roam the martial world. Together, they brave hardships and solve mysteries.</desc>
+		<icon src="https://poster.starhubgo.com/poster/UnderTheMoonlight_L.jpg?w=960" />
+	</programme>
+	<programme channel="996" start="20260113013000 +0000" stop="20260113020000 +0000">
+		<title>Lo And Behold - EP 2123</title>
+		<desc>This story revolves around the Hung family, their working lives and friends.</desc>
+		<icon src="https://poster.starhubgo.com/poster/LoAndBehold_L.jpg?w=960" />
+	</programme>
+	<programme channel="996" start="20260113020000 +0000" stop="20260113025500 +0000">
+		<title>Golden City (Ep 751-800) VVD Mandarin - EP 795</title>
+		<desc>Set in the 60s in Jioufen, the story tells how three sworn brothers conquer the world with their bare hands. While connecting romance from the previous generation to the shared emotions with the present, the drama explores differences in generational values.</desc>
+		<icon src="https://poster.starhubgo.com/poster/GoldenCity.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="996" start="20260113025500 +0000" stop="20260113035000 +0000">
+		<title>The Queen of News Season 2 - EP 25</title>
+		<desc>[With English and Chinese subtitles] Wai-sum and Ka-yin team up with other media organizations to expose the true face of Fuyu Fund. Kingston still wants to manipulate public opinion, unaware that he has been drawn into a precarious situation. At the critical moment, a mysterious individual appears on the livestream, threatening Chi-ngo’s life and forcing Wai-sum to read some script in support of Fuyu!</desc>
+		<icon src="https://poster.starhubgo.com/poster/TheQueenOfNewsSeason2_L.jpg?w=960" />
+	</programme>
+	<programme channel="996" start="20260113035000 +0000" stop="20260113044500 +0000">
+		<title>Shadow Love - EP 21</title>
+		<desc>[With English and Chinese subtitles] The story follows Li Shuang (played by Song Yi), the adopted daughter of a great general guarding the borders of the Great Jin, and Jin An (played by Cheng Lei), the heir of Western Rong. The two join forces to root out a traitor, resolve a national crisis, and gradually fall in love.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ShadowLove_L.jpg?w=960" />
+	</programme>
+	<programme channel="996" start="20260113044500 +0000" stop="20260113051000 +0000">
+		<title>Lo And Behold - EP 2123</title>
+		<desc>This story revolves around the Hung family, their working lives and friends.</desc>
+		<icon src="https://poster.starhubgo.com/poster/LoAndBehold_L.jpg?w=960" />
+	</programme>
+	<programme channel="996" start="20260113051000 +0000" stop="20260113055500 +0000">
+		<title>In Bed With A Stranger - EP 25</title>
+		<desc>This drama features the most intimate strangers who are married for 7 years, but perhaps they are better off apart than together. Who’s the killer? Him? Her? Or both?</desc>
+		<icon src="https://poster.starhubgo.com/poster/InBedWithAStranger.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="996" start="20260113055500 +0000" stop="20260113064500 +0000">
+		<title>Golden City (Ep 751-800) VVD Mandarin - EP 795</title>
+		<desc>Set in the 60s in Jioufen, the story tells how three sworn brothers conquer the world with their bare hands. While connecting romance from the previous generation to the shared emotions with the present, the drama explores differences in generational values.</desc>
+		<icon src="https://poster.starhubgo.com/poster/GoldenCity.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="996" start="20260113064500 +0000" stop="20260113073000 +0000">
+		<title>Love Song in Winter - EP 18</title>
+		<desc>Detective Jiang Chengyi (Huang Jingyu) and anesthesiologist Lu Yan (Sun Qian) unexpectedly reunite eight years after their breakup. Together, they solve a serial murder case, clear up misunderstandings, and rekindle their relationship.</desc>
+		<icon src="https://poster.starhubgo.com/poster/LoveSongInWinter.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="996" start="20260113073000 +0000" stop="20260113081000 +0000">
+		<title>Love Song in Winter - EP 19</title>
+		<desc>Detective Jiang Chengyi (Huang Jingyu) and anesthesiologist Lu Yan (Sun Qian) unexpectedly reunite eight years after their breakup. Together, they solve a serial murder case, clear up misunderstandings, and rekindle their relationship.</desc>
+		<icon src="https://poster.starhubgo.com/poster/LoveSongInWinter.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="996" start="20260113081000 +0000" stop="20260113090000 +0000">
+		<title>Under the Moonlight - EP 3</title>
+		<desc>[With English and Chinese subtitles] The story follows Luo Shu (Hu Bingqing), a young woman trapped in the plight of fate yet determined to save herself, who meets Qi Menglin (Zhai Zilu), a spirited youth eager to roam the martial world. Together, they brave hardships and solve mysteries.</desc>
+		<icon src="https://poster.starhubgo.com/poster/UnderTheMoonlight_L.jpg?w=960" />
+	</programme>
+	<programme channel="996" start="20260113090000 +0000" stop="20260113094500 +0000">
+		<title>Forensic Heroes VI: Redemption - EP 3</title>
+		<desc>Pui-ching goes to the clinic to get some medicine. She accidentally runs into someone who looks like her old friend Sin Yeung. International A-list model Miu Na-na’s agent Cola applies for leave and goes to Macau. Na-na realizes she is tailed, so she asks Sing-pak for help. She also takes shelter in Sing-pak’s place.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ForensicHeroesVIRedemption_L.jpg?w=960" />
+	</programme>
+	<programme channel="996" start="20260113094500 +0000" stop="20260113103500 +0000">
+		<title>Golden City (Ep 751-800) VVD Mandarin - EP 796</title>
+		<desc>Set in the 60s in Jioufen, the story tells how three sworn brothers conquer the world with their bare hands. While connecting romance from the previous generation to the shared emotions with the present, the drama explores differences in generational values.</desc>
+		<icon src="https://poster.starhubgo.com/poster/GoldenCity.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="996" start="20260113103500 +0000" stop="20260113110000 +0000">
+		<title>Lo And Behold - EP 2123</title>
+		<desc>This story revolves around the Hung family, their working lives and friends.</desc>
+		<icon src="https://poster.starhubgo.com/poster/LoAndBehold_L.jpg?w=960" />
+	</programme>
+	<programme channel="996" start="20260113110000 +0000" stop="20260113120000 +0000">
+		<title>Under the Moonlight - EP 4</title>
+		<desc>[With English and Chinese subtitles] The story follows Luo Shu (Hu Bingqing), a young woman trapped in the plight of fate yet determined to save herself, who meets Qi Menglin (Zhai Zilu), a spirited youth eager to roam the martial world. Together, they brave hardships and solve mysteries.</desc>
+		<icon src="https://poster.starhubgo.com/poster/UnderTheMoonlight_L.jpg?w=960" />
+	</programme>
+	<programme channel="996" start="20260113120000 +0000" stop="20260113130000 +0000">
+		<title>Heavenly Hand - EP 1</title>
+		<desc>[With English and Chinese subtitles] Tai Lung Fung Mahjong Parlor boss Szeto Kau has been taking care of Ching Long and Ching Ching. The trio regard each other as siblings. Somewhere outside the parlor, Szeto Kau plays loud mahjong clatter noise to pay his respects to deceased old customers.</desc>
+		<icon src="https://poster.starhubgo.com/poster/HeavenlyHand.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="996" start="20260113130000 +0000" stop="20260113140000 +0000">
+		<title>Shadow Love - EP 22</title>
+		<desc>[With English and Chinese subtitles] The story follows Li Shuang (played by Song Yi), the adopted daughter of a great general guarding the borders of the Great Jin, and Jin An (played by Cheng Lei), the heir of Western Rong. The two join forces to root out a traitor, resolve a national crisis, and gradually fall in love.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ShadowLove_L.jpg?w=960" />
+	</programme>
+	<programme channel="996" start="20260113140000 +0000" stop="20260113143000 +0000">
+		<title>Lo And Behold - EP 2124</title>
+		<desc>This story revolves around the Hung family, their working lives and friends.</desc>
+		<icon src="https://poster.starhubgo.com/poster/LoAndBehold_L.jpg?w=960" />
+	</programme>
+	<programme channel="996" start="20260113143000 +0000" stop="20260113152000 +0000">
+		<title>Follow Your Heart - EP 1</title>
+		<desc>While secretly investigating a case, Jiang Xin Bai, a proud prince and head constable who suffers from face blindness, meets the unorthodox Dr Yan Nan Xing, who ‘changes her appearance’ each month. They go from being at odds to solving cases together.</desc>
+		<icon src="https://poster.starhubgo.com/poster/FollowYourHeart.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="996" start="20260113152000 +0000" stop="20260113161500 +0000">
+		<title>Golden City (Ep 751-800) VVD Mandarin - EP 796</title>
+		<desc>Set in the 60s in Jioufen, the story tells how three sworn brothers conquer the world with their bare hands. While connecting romance from the previous generation to the shared emotions with the present, the drama explores differences in generational values.</desc>
+		<icon src="https://poster.starhubgo.com/poster/GoldenCity.jpg?w=341&amp;h=192" />
 	</programme>
 </tv>
