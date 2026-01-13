@@ -26529,11 +26529,6 @@
 		<desc>Richard Quest speaks to the top names in global business to bring viewers the bottom line.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch711_quest_means_business.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="711" start="20260112223000 +0000" stop="20260112230000 +0000">
-		<title>World Sport (30m)</title>
-		<desc>Daily sports show features major stories and issues making news in the world of sports.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch711_world_sport.jpg?w=341&amp;h=192" />
-	</programme>
 	<programme channel="711" start="20260112230000 +0000" stop="20260113000000 +0000">
 		<title>The Brief with Jim Sciutto</title>
 		<desc>The best of CNN's reporting from correspondents across the world, to guide global audiences through the fast-paced news cycle with insight, analysis and hard-hitting interviews.</desc>
@@ -26564,30 +26559,25 @@
 		<desc>Laura Coates goes inside the story with a relentless pursuit of the facts.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch711_laura_coates_live.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="711" start="20260113050000 +0000" stop="20260113064500 +0000">
+	<programme channel="711" start="20260113050000 +0000" stop="20260113060000 +0000">
 		<title>The Story Is With Elex Michaelson</title>
 		<desc>Elex Michaelson tackles the breaking stories making headlines with sharp analysis, fresh perspective, and a dose of humor.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch711_the_story_is_with_elex_michaelson.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="711" start="20260113064500 +0000" stop="20260113070000 +0000">
-		<title>World Sport (15m)</title>
-		<desc>Daily sports show features major stories and issues making news in the world of sports.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch711_world_sport.jpg?w=341&amp;h=192" />
+	<programme channel="711" start="20260113060000 +0000" stop="20260113070000 +0000">
+		<title>The Story Is With Elex Michaelson</title>
+		<desc>Elex Michaelson tackles the breaking stories making headlines with sharp analysis, fresh perspective, and a dose of humor.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch711_the_story_is_with_elex_michaelson.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="711" start="20260113070000 +0000" stop="20260113080000 +0000">
 		<title>CNN Newsroom (CNNI) (60m)</title>
 		<desc>Live context and clarity to the day's top stories from around the world.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch711_cnn_newsroom.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="711" start="20260113080000 +0000" stop="20260113084500 +0000">
-		<title>CNN Newsroom (CNNI) (45m)</title>
+	<programme channel="711" start="20260113080000 +0000" stop="20260113090000 +0000">
+		<title>CNN Newsroom (CNNI) (60m)</title>
 		<desc>Live context and clarity to the day's top stories from around the world.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch711_cnn_newsroom.jpg?w=960&amp;h=540" />
-	</programme>
-	<programme channel="711" start="20260113084500 +0000" stop="20260113090000 +0000">
-		<title>World Sport (15m)</title>
-		<desc>Daily sports show features major stories and issues making news in the world of sports.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch711_world_sport.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="711" start="20260113090000 +0000" stop="20260113100000 +0000">
 		<title>Amanpour</title>
