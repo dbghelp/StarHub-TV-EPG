@@ -1156,7 +1156,7 @@
 	</programme>
 	<programme channel="103" start="20260115143000 +0000" stop="20260115150000 +0000">
 		<title>Focus - EP 34</title>
-		<desc>Focus provides timely reports and analyses on international news and current affairs from Singapore's perspective.</desc>
+		<desc>US President Trump's military action to arrest Venezuelan President Maduro shocked the world and elevated fentanyl from a mere street drug to a matter of national security, sanctions, and geopolitics. In fact, Trump's series of actions aligns with the framework of the newly released US National Security Strategy report. How will this report affect Southeast Asia and Singapore?</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/103_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="103" start="20260115150000 +0000" stop="20260115160000 +0000">
@@ -1625,7 +1625,7 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/105_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="105" start="20260115110000 +0000" stop="20260115123000 +0000">
-		<title>The Arumugam Family</title>
+		<title>Hey Surya</title>
 		<desc>When Surya, a celebrated actor from Singapore, falls in love with Nila, a rising Malaysian star, their cross-border romance blossoms into a decision to marry on their own terms.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/105_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
@@ -25919,11 +25919,6 @@
 		<desc>Richard Quest speaks to the top names in global business to bring viewers the bottom line.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch711_quest_means_business.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="711" start="20260114223000 +0000" stop="20260114230000 +0000">
-		<title>World Sport (30m)</title>
-		<desc>Daily sports show features major stories and issues making news in the world of sports.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch711_world_sport.jpg?w=341&amp;h=192" />
-	</programme>
 	<programme channel="711" start="20260114230000 +0000" stop="20260115000000 +0000">
 		<title>The Brief with Jim Sciutto</title>
 		<desc>The best of CNN's reporting from correspondents across the world, to guide global audiences through the fast-paced news cycle with insight, analysis and hard-hitting interviews.</desc>
@@ -25954,25 +25949,30 @@
 		<desc>Laura Coates goes inside the story with a relentless pursuit of the facts.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch711_laura_coates_live.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="711" start="20260115050000 +0000" stop="20260115070000 +0000">
+	<programme channel="711" start="20260115050000 +0000" stop="20260115060000 +0000">
+		<title>The Story Is With Elex Michaelson</title>
+		<desc>Elex Michaelson tackles the breaking stories making headlines with sharp analysis, fresh perspective, and a dose of humor.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch711_the_story_is_with_elex_michaelson.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="711" start="20260115060000 +0000" stop="20260115070000 +0000">
 		<title>The Story Is With Elex Michaelson</title>
 		<desc>Elex Michaelson tackles the breaking stories making headlines with sharp analysis, fresh perspective, and a dose of humor.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch711_the_story_is_with_elex_michaelson.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="711" start="20260115070000 +0000" stop="20260115080000 +0000">
-		<title>CNN Newsroom (CNNI) (60m)</title>
-		<desc>Live context and clarity to the day's top stories from around the world.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch711_cnn_newsroom.jpg?w=960&amp;h=540" />
+		<title>The Story Is With Elex Michaelson</title>
+		<desc>Elex Michaelson tackles the breaking stories making headlines with sharp analysis, fresh perspective, and a dose of humor.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch711_the_story_is_with_elex_michaelson.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="711" start="20260115080000 +0000" stop="20260115090000 +0000">
-		<title>CNN Newsroom (CNNI) (45m)</title>
-		<desc>Live context and clarity to the day's top stories from around the world.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch711_cnn_newsroom.jpg?w=960&amp;h=540" />
+		<title>The Story Is With Elex Michaelson</title>
+		<desc>Elex Michaelson tackles the breaking stories making headlines with sharp analysis, fresh perspective, and a dose of humor.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch711_the_story_is_with_elex_michaelson.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="711" start="20260115090000 +0000" stop="20260115100000 +0000">
-		<title>Amanpour</title>
-		<desc>Christiane Amanpour provides her powerful interview skills and provocative analysis on global stories that matter to you.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch711_amanpour.jpg?w=960&amp;h=540" />
+		<title>Early Start with Rahel Solomon</title>
+		<desc>The news you need, first thing. Rahel Solomon has you covered with the latest headlines.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch711_early_start_with_rahel_solomon.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="711" start="20260115100000 +0000" stop="20260115110000 +0000">
 		<title>Early Start with Rahel Solomon</title>
@@ -26074,11 +26074,6 @@
 		<desc>Laura Coates goes inside the story with a relentless pursuit of the facts.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch711_laura_coates_live.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="711" start="20260116050000 +0000" stop="20260116070000 +0000">
-		<title>The Story Is With Elex Michaelson</title>
-		<desc>Elex Michaelson tackles the breaking stories making headlines with sharp analysis, fresh perspective, and a dose of humor.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch711_the_story_is_with_elex_michaelson.jpg?w=341&amp;h=192" />
-	</programme>
 	<programme channel="711" start="20260116070000 +0000" stop="20260116080000 +0000">
 		<title>CNN Newsroom (CNNI) (60m)</title>
 		<desc>Live context and clarity to the day's top stories from around the world.</desc>
@@ -26093,11 +26088,6 @@
 		<title>Amanpour</title>
 		<desc>Christiane Amanpour provides her powerful interview skills and provocative analysis on global stories that matter to you.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch711_amanpour.jpg?w=960&amp;h=540" />
-	</programme>
-	<programme channel="711" start="20260116100000 +0000" stop="20260116110000 +0000">
-		<title>Early Start with Rahel Solomon</title>
-		<desc>The news you need, first thing. Rahel Solomon has you covered with the latest headlines.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch711_early_start_with_rahel_solomon.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="711" start="20260116110000 +0000" stop="20260116120000 +0000">
 		<title>CNN This Morning</title>
