@@ -1440,7 +1440,7 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/104_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="104" start="20260116180000 +0000" stop="20260117010000 +0000">
-		<title>End of transmission</title>
+		<title>End of Transmission</title>
 		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_channels2/104_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
@@ -1660,7 +1660,7 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/105_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="105" start="20260116180000 +0000" stop="20260117010000 +0000">
-		<title>End of transmission</title>
+		<title>End of Transmission</title>
 		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_channels2/105_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
@@ -6854,12 +6854,17 @@
 		<desc>Uncertainty ensues when Vivek marries Kavya and a rift crops up between the two.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="140" start="20260116013000 +0000" stop="20260116043000 +0000">
+	<programme channel="140" start="20260116013000 +0000" stop="20260116020000 +0000">
+		<title>Chirikkum Thalika - EP 46</title>
+		<desc>A compilation of various entertaining comedy scenes from various Malayalam movies.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="140" start="20260116020000 +0000" stop="20260116043500 +0000">
 		<title>Ohm Shanthi Oshaana</title>
 		<desc>A spirited young girl stops at nothing to impress the boy who saved her from goons.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="140" start="20260116043000 +0000" stop="20260116073000 +0000">
+	<programme channel="140" start="20260116043500 +0000" stop="20260116073000 +0000">
 		<title>Adi Kapyare Koottamani</title>
 		<desc>Lakshmi pays a college student to sneak her into the hostel but ends up getting trapped.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=341&amp;h=192" />
@@ -6879,24 +6884,29 @@
 		<desc>Despite facing rejection, Sachin, a young man, continues to pursue love.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="140" start="20260116163000 +0000" stop="20260116193000 +0000">
+	<programme channel="140" start="20260116163000 +0000" stop="20260116193500 +0000">
 		<title>Bangalore Days</title>
 		<desc>Three cousins relocate to Bangalore to fulfil their childhood dreams.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="140" start="20260116193000 +0000" stop="20260116213000 +0000">
+	<programme channel="140" start="20260116193500 +0000" stop="20260116221000 +0000">
 		<title>Anchil Oral Arjunan</title>
 		<desc>Sudheendran's life changes for the better when he reconnects with his childhood friend.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="140" start="20260116213000 +0000" stop="20260116233000 +0000">
-		<title>42217</title>
-		<desc>Officer Perumal is assigned to catch a criminal who wants to kill the chief minister.</desc>
+	<programme channel="140" start="20260116221000 +0000" stop="20260116224000 +0000">
+		<title>Chirikkum Thalika - EP 44</title>
+		<desc>A compilation of various entertaining comedy scenes from various Malayalam movies.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="140" start="20260116233000 +0000" stop="20260117013000 +0000">
-		<title>Movie</title>
-		<desc>Bringing the best in television.</desc>
+	<programme channel="140" start="20260116224000 +0000" stop="20260116231000 +0000">
+		<title>Chirikkum Thalika - EP 45</title>
+		<desc>A compilation of various entertaining comedy scenes from various Malayalam movies.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="140" start="20260116231000 +0000" stop="20260117013000 +0000">
+		<title>42217</title>
+		<desc>Officer Perumal is assigned to catch a criminal who wants to kill the chief minister.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="140" start="20260117013000 +0000" stop="20260117043000 +0000">
@@ -8536,7 +8546,7 @@
 	</programme>
 	<programme channel="153" start="20260116003000 +0000" stop="20260116010000 +0000">
 		<title>To the Point</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+		<desc>Donald Trump eyes Greenland, by purchase or by force. How far will he go, and could Europe be pulled into defending the island? Our guests: Rasmus Sinding Søndergaard (political analyst), Michael Paul (SWP) and Anja Wehler‑Schöck (Tagesspiegel)</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20260116010000 +0000" stop="20260116011500 +0000">
@@ -8561,7 +8571,7 @@
 	</programme>
 	<programme channel="153" start="20260116023000 +0000" stop="20260116030000 +0000">
 		<title>Focus on Europe</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+		<desc>Crans-Montana is in shock after the devastating fire on New Year’s Eve. First responders struggle with the trauma. +++ In the UK, sustainable housing is being built on unused parking lots and urban wastelands.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20260116030000 +0000" stop="20260116031500 +0000">
@@ -8569,14 +8579,9 @@
 		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="153" start="20260116031500 +0000" stop="20260116033000 +0000">
-		<title>Arts Unveiled</title>
-		<desc>Discover the history of the Bonn Republic, the era when Bonn served as the capital of West Germany after World War II. Why was Bonn chosen over Berlin? How did this small city in the west of Germany become the political center of a divided nation?</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="153" start="20260116033000 +0000" stop="20260116040000 +0000">
-		<title>Made in Germany</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+	<programme channel="153" start="20260116031500 +0000" stop="20260116040000 +0000">
+		<title>DocFilm</title>
+		<desc>Filmed in secret, this documentary is a behind-the-scenes look at the "Woman, Life, Freedom" uprising in Iran. The story begins a few weeks after the death of Jina Mahsa Amini, a young Kurdish student who died on 16 September 2022.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20260116040000 +0000" stop="20260116041500 +0000">
@@ -8681,7 +8686,7 @@
 	</programme>
 	<programme channel="153" start="20260116113000 +0000" stop="20260116120000 +0000">
 		<title>To the Point</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+		<desc>Donald Trump eyes Greenland, by purchase or by force. How far will he go, and could Europe be pulled into defending the island? Our guests: Rasmus Sinding Søndergaard (political analyst), Michael Paul (SWP) and Anja Wehler‑Schöck (Tagesspiegel)</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20260116120000 +0000" stop="20260116121500 +0000">
@@ -8706,7 +8711,7 @@
 	</programme>
 	<programme channel="153" start="20260116133000 +0000" stop="20260116140000 +0000">
 		<title>In Good Shape</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+		<desc>Microplastics in food and water, chemicals in canned goods, pesticides on fruits and vegetables - what do these substances do to our bodies? In Good Shape uncovers the hidden health risks.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20260116140000 +0000" stop="20260116141500 +0000">
@@ -8721,7 +8726,7 @@
 	</programme>
 	<programme channel="153" start="20260116143000 +0000" stop="20260116150000 +0000">
 		<title>Eco India</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+		<desc>Our lives, livelihoods and much more depend on water. Floods, water scarcity and pollution all impact us. How do we best manage this precious resource?</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20260116150000 +0000" stop="20260116151500 +0000">
@@ -8736,7 +8741,7 @@
 	</programme>
 	<programme channel="153" start="20260116153000 +0000" stop="20260116160000 +0000">
 		<title>To the Point</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+		<desc>Donald Trump eyes Greenland, by purchase or by force. How far will he go, and could Europe be pulled into defending the island? Our guests: Rasmus Sinding Søndergaard (political analyst), Michael Paul (SWP) and Anja Wehler‑Schöck (Tagesspiegel)</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20260116160000 +0000" stop="20260116161500 +0000">
@@ -8761,7 +8766,7 @@
 	</programme>
 	<programme channel="153" start="20260116173000 +0000" stop="20260116180000 +0000">
 		<title>Afrimaxx</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+		<desc>This time, host Seitebatso Khomari meets with His Royal Highness Prince Seeiso Bereng at The Oxenhill in Lesotho. Plus, why you should try snake meat, why in Ghana they dance in schools and adaptive fashion from Malawi.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20260116180000 +0000" stop="20260116183000 +0000">
@@ -8781,12 +8786,12 @@
 	</programme>
 	<programme channel="153" start="20260116190200 +0000" stop="20260116193000 +0000">
 		<title>Focus on Europe</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+		<desc>Crans-Montana is in shock after the devastating fire on New Year’s Eve. First responders struggle with the trauma. +++ In the UK, sustainable housing is being built on unused parking lots and urban wastelands.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20260116193000 +0000" stop="20260116200000 +0000">
 		<title>Eco Africa</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+		<desc>Communities in Ghana name environment chiefs to fight climate change; plus Mali's motorcycles go electric and sculptures in Zimbabwe help boost conservation.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20260116200000 +0000" stop="20260116203000 +0000">
@@ -8826,7 +8831,7 @@
 	</programme>
 	<programme channel="153" start="20260116223000 +0000" stop="20260116230000 +0000">
 		<title>Eco India</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+		<desc>Our lives, livelihoods and much more depend on water. Floods, water scarcity and pollution all impact us. How do we best manage this precious resource?</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20260116230000 +0000" stop="20260116231500 +0000">
@@ -8882,11 +8887,6 @@
 	<programme channel="153" start="20260117020200 +0000" stop="20260117021500 +0000">
 		<title>Shift</title>
 		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="153" start="20260117021500 +0000" stop="20260117030000 +0000">
-		<title>DocFilm</title>
-		<desc>Carsten Breuer is Inspector General of the German Armed Forces, and thus the highest-ranking soldier in Germany. He says that Russia will be ready for a military conflict with the West in just a few years.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20260117030000 +0000" stop="20260117031500 +0000">
@@ -11926,7 +11926,7 @@
 	</programme>
 	<programme channel="226" start="20260117145000 +0000" stop="20260117170000 +0000">
 		<title>Liverpool vs Burnley (MW22) (Live) - EP 214</title>
-		<desc>The 34th season of the Premier League sees Liverpool defend its title against a host of teams keen for glory themselves. 20 teams are in the mix but only 1 champion will emerge ultimately.</desc>
+		<desc>Burnley have scored just 11 goals in 19 Premier League games against Liverpool (0.6 per game), only averaging fewer against Arsenal among sides they’ve faced more than twice (0.5, 9 goals in 19 games).</desc>
 		<icon src="https://poster.starhubgo.com/poster/liverpool_stadium.jpg?w=960" />
 	</programme>
 	<programme channel="227" start="20260115160000 +0000" stop="20260115220000 +0000">
@@ -23146,7 +23146,7 @@
 	</programme>
 	<programme channel="701" start="20260116013000 +0000" stop="20260116020000 +0000">
 		<title>The Media Show</title>
-		<desc>A global, topical weekly show that lifts the hood on the entertainment and news business. The Media Show explores the companies and personalities who command our attention.</desc>
+		<desc>US newspapers and military secrecy, UK defence reporting rules, and Equity's warning over AI scanning of actors, with Max Tani, Brigadier Geoffrey Dodds, Larisa Brown and Paul Fleming.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch701_BBC_news.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="701" start="20260116020000 +0000" stop="20260116023000 +0000">
@@ -23381,7 +23381,7 @@
 	</programme>
 	<programme channel="701" start="20260116223000 +0000" stop="20260116230000 +0000">
 		<title>Talking Business</title>
-		<desc>Examining the business stories and economic trends that are re-shaping our world.</desc>
+		<desc>2026 has started with a leader captured in Venezuela, pressure on the streets of Iran and a spat between the American President and the Chair of the Federal Reserve.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch701_talking_business.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="701" start="20260116230000 +0000" stop="20260116233000 +0000">
