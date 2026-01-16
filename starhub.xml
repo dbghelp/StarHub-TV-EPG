@@ -2086,7 +2086,7 @@
 	</programme>
 	<programme channel="106" start="20260117150300 +0000" stop="20260117160000 +0000">
 		<title>Wombless - EP 2</title>
-		<desc>For over a decade, activists and government officials have been fighting back against the practice of unnecessary hysterectomies in India. From spreading awareness, to raiding faulty clinics and legal battles, we learn about the fight to protect women aga</desc>
+		<desc>For over a decade, activists and government officials have been fighting back against the practice of unnecessary hysterectomies in India. From spreading awareness, to raiding faulty clinics and legal battles, we learn about the fight to protect women against unscrupulous medical practitioners who rob them of their wombs.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="107" start="20260115153000 +0000" stop="20260115163000 +0000">
@@ -4846,7 +4846,7 @@
 	</programme>
 	<programme channel="128" start="20260117043000 +0000" stop="20260117051500 +0000">
 		<title>Tuu Juliet Jatt Di - EP 61</title>
-		<desc>Focused Heer encounters privileged Nawab, sparking an unexpected romance.</desc>
+		<desc>Nawab prevents Heer from hitting Sumeeth by pulling her into a hug.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch128_tuu_juliet_jatt_di.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="128" start="20260117051500 +0000" stop="20260117060000 +0000">
@@ -4886,7 +4886,7 @@
 	</programme>
 	<programme channel="128" start="20260117103000 +0000" stop="20260117111500 +0000">
 		<title>Tuu Juliet Jatt Di - EP 61</title>
-		<desc>Focused Heer encounters privileged Nawab, sparking an unexpected romance.</desc>
+		<desc>Nawab prevents Heer from hitting Sumeeth by pulling her into a hug.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch128_tuu_juliet_jatt_di.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="128" start="20260117111500 +0000" stop="20260117120000 +0000">
@@ -9404,35 +9404,15 @@
 		<desc>Catch world class tennis action from the Optics Valley International Tennis Centre in Wuhan, Hubei.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch201_wta_tour.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="201" start="20260115223000 +0000" stop="20260116000000 +0000">
+	<programme channel="201" start="20260115223000 +0000" stop="20260116011500 +0000">
 		<title>WTA Tour 2026 Adelaide International (500) QF 4</title>
 		<desc>The Adelaide International is a professional tennis tournament held annually in Adelaide, South Australia, at the Memorial Drive Tennis Centre. It is part of the lead-up to the first Grand Slam tournament of the season.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch201_WTA500Generic.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="201" start="20260116000000 +0000" stop="20260116040000 +0000">
+	<programme channel="201" start="20260116011500 +0000" stop="20260116053000 +0000">
 		<title>ATP Tour 2026 ASB Classic (250) SF 1 &amp; 2 (Live)</title>
 		<desc>The ASB Classic is the biggest men’s professional sporting event in New Zealand and has been held in Auckland since 1956. Played in the week prior to the Australian Open, the ATP 250 event is a crucial stop in preparation for the year's first Grand Slam tournament.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch201_ATP250ASBClassic.jpg?w=341&amp;h=192" />
-	</programme>
-	<programme channel="201" start="20260116040000 +0000" stop="20260116043000 +0000">
-		<title>Hologic WTA Tour 2025 H/Ls Finals Riyadh H/Ls Show</title>
-		<desc>Catch spectacular tennis action from the season ending spectacle at the King Saud University Indoor Arena.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch201_wta_tour.jpg?w=960&amp;h=540" />
-	</programme>
-	<programme channel="201" start="20260116043000 +0000" stop="20260116050000 +0000">
-		<title>ATP Tour: This Week 2026</title>
-		<desc>This programme tells the story of the ATP tour, its tournaments, personalities behind the tennis, funny feature content and much more.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch201_ATPTourThisWeek.jpg?w=960&amp;h=540" />
-	</programme>
-	<programme channel="201" start="20260116050000 +0000" stop="20260116051500 +0000">
-		<title>Badminton Weekly 20260</title>
-		<desc>Badminton Weekly discusses about the standout moments from the tour, as well as insights, unforgettable matches and close shaves as players make their final push to become champion in their own right.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch201_BadmintonWeekly.jpg?w=960&amp;h=540" />
-	</programme>
-	<programme channel="201" start="20260116051500 +0000" stop="20260116053000 +0000">
-		<title>Badminton Weekly 20260</title>
-		<desc>Badminton Weekly discusses about the standout moments from the tour, as well as insights, unforgettable matches and close shaves as players make their final push to become champion in their own right.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch201_BadmintonWeekly.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="201" start="20260116053000 +0000" stop="20260116093000 +0000">
 		<title>HSBC BWF World Tour 2026 YONEX-SUNRISE India Open (Super 750): QF Session 1 (Cou</title>
@@ -10322,7 +10302,7 @@
 	<programme channel="211" start="20260116192200 +0000" stop="20260116213000 +0000">
 		<title>LaLiga 2 2025/26: Castellon vs Leganes (Live)</title>
 		<desc>Extensive coverage from LaLiga 2, Spain's second division of football.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch211_laliga_2.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch211_laliga.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="211" start="20260116213000 +0000" stop="20260116230000 +0000">
 		<title>Australian Open Qualifying 2026: Blockx v Kubler</title>
@@ -20716,7 +20696,7 @@
 	</programme>
 	<programme channel="513" start="20260115163000 +0000" stop="20260115174500 +0000">
 		<title>Sandokan: The Pirate Prince - EP 5</title>
-		<desc>Sandokan decides to free Marianne and journeys to Sarawak to find his real parents. Sandokan and Marianne are captured by a rogue Dayak tribe, which happens to be Sani’s. Yanez and crew are also caught while tracking Sandokan. Forced to fight a cobra to p</desc>
+		<desc>Sandokan decides to free Marianne and journeys to Sarawak to find his real parents. Sandokan and Marianne are captured by a rogue Dayak tribe, which happens to be Sani’s. Yanez and crew are also caught while tracking Sandokan. Forced to fight a cobra to prove his Dayak heritage, Sandokan is poisoned but survives, gaining the tribe’s acceptance. Meanwhile, Brooke and Murray defy orders and follow Sandokan’s trail.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch518_sandokan_the_pirate_prince.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="513" start="20260115174500 +0000" stop="20260115183000 +0000">
@@ -20891,7 +20871,7 @@
 	</programme>
 	<programme channel="513" start="20260117010000 +0000" stop="20260117040000 +0000">
 		<title>The 83rd Annual Golden Globes - EP 1</title>
-		<desc>For over 80 years, the Golden Globes has championed artistry in all of its forms, honoring the very best achievements in both film and television. The annual show brings the most stars together under one roof to kickoff awards season, creating some of the</desc>
+		<desc>For over 80 years, the Golden Globes has championed artistry in all of its forms, honoring the very best achievements in both film and television. The annual show brings the most stars together under one roof to kickoff awards season, creating some of the most talkedabout moments in Hollywood - and beyond.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch518_the_83rd_annual_golden_globes.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="513" start="20260117040000 +0000" stop="20260117043000 +0000">
@@ -20916,7 +20896,7 @@
 	</programme>
 	<programme channel="513" start="20260117064500 +0000" stop="20260117080000 +0000">
 		<title>Sandokan: The Pirate Prince - EP 6</title>
-		<desc>Believing him to be the prophesied leader, the tribe’s chief, Balau, helps Sandokan uncover his past, despite his son Lang’s jealousy. As Sandokan makes progress, he and Marianne confess their love for each other. Yanez argues with Sandokan not to get inv</desc>
+		<desc>Believing him to be the prophesied leader, the tribe’s chief, Balau, helps Sandokan uncover his past, despite his son Lang’s jealousy. As Sandokan makes progress, he and Marianne confess their love for each other. Yanez argues with Sandokan not to get involved with the Dayak’s struggle and leaves. Sandokan discovers his tribe was massacred under orders from Marianne’s father. The lovers fall out, and Brooke rescues Marianne.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch518_sandokan_the_pirate_prince.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="513" start="20260117080000 +0000" stop="20260117103000 +0000">
@@ -20936,7 +20916,7 @@
 	</programme>
 	<programme channel="513" start="20260117120000 +0000" stop="20260117150000 +0000">
 		<title>The 83rd Annual Golden Globes - EP 1</title>
-		<desc>For over 80 years, the Golden Globes has championed artistry in all of its forms, honoring the very best achievements in both film and television. The annual show brings the most stars together under one roof to kickoff awards season, creating some of the</desc>
+		<desc>For over 80 years, the Golden Globes has championed artistry in all of its forms, honoring the very best achievements in both film and television. The annual show brings the most stars together under one roof to kickoff awards season, creating some of the most talkedabout moments in Hollywood - and beyond.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch518_the_83rd_annual_golden_globes.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="513" start="20260117150000 +0000" stop="20260117153000 +0000">
@@ -22204,7 +22184,7 @@
 		<desc>Thirty years after their last title fight, two retired boxers and lifelong rivals decide to step into the ring once more to settle an old score.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch633_grudge_match.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="603" start="20260117003000 +0000" stop="20260117020000 +0000">
+	<programme channel="603" start="20260117003500 +0000" stop="20260117020000 +0000">
 		<title>A Choice Of Weapons: Inspired By Gordon Parks</title>
 		<desc>Celebrating the legacy of trailblazing photographer Gordon Parks through the lens of contemporary artists influenced by his work.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch633_AChoiceOfWeaponsInspiredByGordonParks.jpg?w=960&amp;h=540" />
@@ -27357,7 +27337,7 @@
 	<programme channel="724" start="20260116181000 +0000" stop="20260116190000 +0000">
 		<title>The World This Week</title>
 		<desc>Join host Francois Picard's and his team of Paris-based journalists, as they explore all of the week's most interesting and important news stories. Viewers can react to mentioned stories and the host reads their comments.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch724_the_world_this_week.jpg?w=960&amp;h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch724_the_reporters_week.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="724" start="20260116190000 +0000" stop="20260116191500 +0000">
 		<title>News</title>
@@ -27462,7 +27442,7 @@
 	<programme channel="724" start="20260116231000 +0000" stop="20260117000000 +0000">
 		<title>The World This Week</title>
 		<desc>Join host Francois Picard's and his team of Paris-based journalists, as they explore all of the week's most interesting and important news stories. Viewers can react to mentioned stories and the host reads their comments.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch724_the_world_this_week.jpg?w=960&amp;h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch724_the_reporters_week.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="724" start="20260117000000 +0000" stop="20260117001500 +0000">
 		<title>News</title>
@@ -27517,7 +27497,7 @@
 	<programme channel="724" start="20260117021000 +0000" stop="20260117030000 +0000">
 		<title>The World This Week</title>
 		<desc>Join host Francois Picard's and his team of Paris-based journalists, as they explore all of the week's most interesting and important news stories. Viewers can react to mentioned stories and the host reads their comments.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch724_the_world_this_week.jpg?w=960&amp;h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch724_the_reporters_week.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="724" start="20260117030000 +0000" stop="20260117031500 +0000">
 		<title>News</title>
@@ -27567,7 +27547,7 @@
 	<programme channel="724" start="20260117051200 +0000" stop="20260117060000 +0000">
 		<title>The World This Week</title>
 		<desc>Join host Francois Picard's and his team of Paris-based journalists, as they explore all of the week's most interesting and important news stories. Viewers can react to mentioned stories and the host reads their comments.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch724_the_world_this_week.jpg?w=960&amp;h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch724_the_reporters_week.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="724" start="20260117060000 +0000" stop="20260117062000 +0000">
 		<title>News</title>
@@ -29850,7 +29830,7 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="811" start="20260117110000 +0000" stop="20260117114800 +0000">
-		<title>Project X:The Challengers-New Beginnings"The World’s Largest Container Ship"</title>
+		<title>Project X: The Challengers-New Beginnings "The World’s Largest Container Ship"</title>
 		<desc>Project X returns for the first time in 18 years. The former series featured people involved in project related to the Japanese industry and contemporary history. The new series focuses on people in the "Lost Era" following the collapse of the bubble economy. In every era, there are always those take on challenges. Even without receiving praise or being in the spotlight, some dedicate themselves to their work. The documentary delivers passion and courage right to you.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
@@ -29916,7 +29896,7 @@
 	</programme>
 	<programme channel="812" start="20260115173000 +0000" stop="20260115180000 +0000">
 		<title>Today's Close-Up</title>
-		<desc>Dig deeper into current affairs with cutting-edge information and critical analysis on important issues confronting Japanese lives.</desc>
+		<desc>Japan's ageing population has put elderly drivers at the centre of a debate about road safety - now scientists are using a data-driven approach to define the limits of a safe 'driving lifespan'.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20260115180000 +0000" stop="20260115182800 +0000">
@@ -29986,7 +29966,7 @@
 	</programme>
 	<programme channel="812" start="20260115223000 +0000" stop="20260115230000 +0000">
 		<title>Today's Close-Up</title>
-		<desc>Dig deeper into current affairs with cutting-edge information and critical analysis on important issues confronting Japanese lives.</desc>
+		<desc>Japan's ageing population has put elderly drivers at the centre of a debate about road safety - now scientists are using a data-driven approach to define the limits of a safe 'driving lifespan'.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20260115230000 +0000" stop="20260115233000 +0000">
@@ -30011,7 +29991,7 @@
 	</programme>
 	<programme channel="812" start="20260116003000 +0000" stop="20260116010000 +0000">
 		<title>Asia Insight</title>
-		<desc>An in-depth look at the realities of Asia today, a dynamic region which faces political, economic, cultural and technological change.</desc>
+		<desc>Fifty years after the end of the Vietnam War, many people still search for family separated in the chaos - YouTuber Tuan Vy uses his channel to track down clues and reunite loved ones.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20260116010000 +0000" stop="20260116013000 +0000">
@@ -30021,7 +30001,7 @@
 	</programme>
 	<programme channel="812" start="20260116013000 +0000" stop="20260116020000 +0000">
 		<title>Today's Close-Up</title>
-		<desc>Dig deeper into current affairs with cutting-edge information and critical analysis on important issues confronting Japanese lives.</desc>
+		<desc>Gold prices are surging as anxiety drives a global rush - while Japan sees renewed prospecting and competition in e-waste recycling, illegal mining exposing the boom's darker side spreads in Africa.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20260116020000 +0000" stop="20260116023000 +0000">
@@ -30066,7 +30046,7 @@
 	</programme>
 	<programme channel="812" start="20260116053000 +0000" stop="20260116060000 +0000">
 		<title>Asia Insight</title>
-		<desc>An in-depth look at the realities of Asia today, a dynamic region which faces political, economic, cultural and technological change.</desc>
+		<desc>Fifty years after the end of the Vietnam War, many people still search for family separated in the chaos - YouTuber Tuan Vy uses his channel to track down clues and reunite loved ones.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20260116060000 +0000" stop="20260116063000 +0000">
@@ -30076,7 +30056,7 @@
 	</programme>
 	<programme channel="812" start="20260116063000 +0000" stop="20260116070000 +0000">
 		<title>Today's Close-Up</title>
-		<desc>Dig deeper into current affairs with cutting-edge information and critical analysis on important issues confronting Japanese lives.</desc>
+		<desc>Gold prices are surging as anxiety drives a global rush - while Japan sees renewed prospecting and competition in e-waste recycling, illegal mining exposing the boom's darker side spreads in Africa.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20260116070000 +0000" stop="20260116073000 +0000">
@@ -30121,7 +30101,7 @@
 	</programme>
 	<programme channel="812" start="20260116103000 +0000" stop="20260116110000 +0000">
 		<title>Asia Insight</title>
-		<desc>An in-depth look at the realities of Asia today, a dynamic region which faces political, economic, cultural and technological change.</desc>
+		<desc>Fifty years after the end of the Vietnam War, many people still search for family separated in the chaos - YouTuber Tuan Vy uses his channel to track down clues and reunite loved ones.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20260116110000 +0000" stop="20260116112800 +0000">
@@ -30136,7 +30116,7 @@
 	</programme>
 	<programme channel="812" start="20260116114300 +0000" stop="20260116115500 +0000">
 		<title>Impacts: Climates Change the World</title>
-		<desc>The entire Earth is affected by climate change occurring with a greater speed and scale than ever before - this programme uses scientific data and the latest findings to raise awareness on its impact.</desc>
+		<desc>Reductions in Arctic sea ice caused by global warming have ironically led to record-breaking Northern Hemisphere snowfalls and frequent winter storms - what mechanism is at work?</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20260116115500 +0000" stop="20260116120000 +0000">
@@ -30151,7 +30131,7 @@
 	</programme>
 	<programme channel="812" start="20260116123000 +0000" stop="20260116130000 +0000">
 		<title>Today's Close-Up</title>
-		<desc>Dig deeper into current affairs with cutting-edge information and critical analysis on important issues confronting Japanese lives.</desc>
+		<desc>Gold prices are surging as anxiety drives a global rush - while Japan sees renewed prospecting and competition in e-waste recycling, illegal mining exposing the boom's darker side spreads in Africa.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20260116130000 +0000" stop="20260116133000 +0000">
@@ -30181,7 +30161,7 @@
 	</programme>
 	<programme channel="812" start="20260116153000 +0000" stop="20260116160000 +0000">
 		<title>Asia Insight</title>
-		<desc>An in-depth look at the realities of Asia today, a dynamic region which faces political, economic, cultural and technological change.</desc>
+		<desc>Fifty years after the end of the Vietnam War, many people still search for family separated in the chaos - YouTuber Tuan Vy uses his channel to track down clues and reunite loved ones.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20260116160000 +0000" stop="20260116163000 +0000">
@@ -30206,7 +30186,7 @@
 	</programme>
 	<programme channel="812" start="20260116173000 +0000" stop="20260116180000 +0000">
 		<title>Today's Close-Up</title>
-		<desc>Dig deeper into current affairs with cutting-edge information and critical analysis on important issues confronting Japanese lives.</desc>
+		<desc>Gold prices are surging as anxiety drives a global rush - while Japan sees renewed prospecting and competition in e-waste recycling, illegal mining exposing the boom's darker side spreads in Africa.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20260116180000 +0000" stop="20260116182800 +0000">
@@ -30221,7 +30201,7 @@
 	</programme>
 	<programme channel="812" start="20260116184300 +0000" stop="20260116185500 +0000">
 		<title>Impacts: Climates Change the World</title>
-		<desc>The entire Earth is affected by climate change occurring with a greater speed and scale than ever before - this programme uses scientific data and the latest findings to raise awareness on its impact.</desc>
+		<desc>Reductions in Arctic sea ice caused by global warming have ironically led to record-breaking Northern Hemisphere snowfalls and frequent winter storms - what mechanism is at work?</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20260116185500 +0000" stop="20260116190000 +0000">
@@ -30256,7 +30236,7 @@
 	</programme>
 	<programme channel="812" start="20260116213000 +0000" stop="20260116220000 +0000">
 		<title>Asia Insight</title>
-		<desc>An in-depth look at the realities of Asia today, a dynamic region which faces political, economic, cultural and technological change.</desc>
+		<desc>Fifty years after the end of the Vietnam War, many people still search for family separated in the chaos - YouTuber Tuan Vy uses his channel to track down clues and reunite loved ones.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20260116220000 +0000" stop="20260116223000 +0000">
@@ -30266,7 +30246,7 @@
 	</programme>
 	<programme channel="812" start="20260116223000 +0000" stop="20260116230000 +0000">
 		<title>Today's Close-Up</title>
-		<desc>Dig deeper into current affairs with cutting-edge information and critical analysis on important issues confronting Japanese lives.</desc>
+		<desc>Gold prices are surging as anxiety drives a global rush - while Japan sees renewed prospecting and competition in e-waste recycling, illegal mining exposing the boom's darker side spreads in Africa.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20260116230000 +0000" stop="20260116231000 +0000">
@@ -30384,9 +30364,14 @@
 		<desc>NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="812" start="20260117051000 +0000" stop="20260117054000 +0000">
-		<title>NHK World Selection</title>
-		<desc>A selection of acclaimed programmes from NHK's domestic channels dubbed into English.</desc>
+	<programme channel="812" start="20260117051000 +0000" stop="20260117053500 +0000">
+		<title>Spiritual Explorers</title>
+		<desc>Koyasan is a revered Buddhist temple complex built on a towering mountain - our explorer seeks to discover the Buddha within us all through rituals and meditation.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="812" start="20260117053500 +0000" stop="20260117054000 +0000">
+		<title>Japan Delish 5min.</title>
+		<desc>Curry rice is one of Japan's most iconic national dishes - how did Jimbocho in Tokyo become a curry town?</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20260117054000 +0000" stop="20260117055500 +0000">
@@ -30489,9 +30474,14 @@
 		<desc>NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="812" start="20260117111000 +0000" stop="20260117114000 +0000">
-		<title>NHK World Selection</title>
-		<desc>A selection of acclaimed programmes from NHK's domestic channels dubbed into English.</desc>
+	<programme channel="812" start="20260117111000 +0000" stop="20260117113500 +0000">
+		<title>Spiritual Explorers</title>
+		<desc>Koyasan is a revered Buddhist temple complex built on a towering mountain - our explorer seeks to discover the Buddha within us all through rituals and meditation.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="812" start="20260117113500 +0000" stop="20260117114000 +0000">
+		<title>Japan Delish 5min.</title>
+		<desc>Curry rice is one of Japan's most iconic national dishes - how did Jimbocho in Tokyo become a curry town?</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20260117114000 +0000" stop="20260117115500 +0000">
@@ -30536,7 +30526,7 @@
 	</programme>
 	<programme channel="812" start="20260117141000 +0000" stop="20260117144000 +0000">
 		<title>Biz Stream</title>
-		<desc>This upbeat programme combines business and economic news with in-depth feature stories that give you a closer look at the latest trends within Japan and around the world.</desc>
+		<desc>Back to Grooves and Grain: This episode features businesses that are capitalising on the resurgence in popularity of physical media such as vinyl records and self-published books.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20260117144000 +0000" stop="20260117145000 +0000">
@@ -30990,7 +30980,7 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/817_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="817" start="20260116033000 +0000" stop="20260116040000 +0000">
-		<title>With Science, We Live</title>
+		<title>News Special [R]</title>
 		<desc>Stay tuned for more of the best of Korea on Arirang, as we bring you a variety of genres that include dramas, movies, concerts, game shows, animation, music, documentaries, lifestyle and tourism.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/817_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
@@ -31005,7 +30995,7 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/817_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="817" start="20260116053000 +0000" stop="20260116060000 +0000">
-		<title>News Generation</title>
+		<title>News Generation [R]</title>
 		<desc>Stay tuned for more of the best of Korea on Arirang, as we bring you a variety of genres that include dramas, movies, concerts, game shows, animation, music, documentaries, lifestyle and tourism.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/817_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
@@ -31025,7 +31015,7 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/817_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="817" start="20260116070500 +0000" stop="20260116074000 +0000">
-		<title>With Science, We Live</title>
+		<title>News Special [R]</title>
 		<desc>Stay tuned for more of the best of Korea on Arirang, as we bring you a variety of genres that include dramas, movies, concerts, game shows, animation, music, documentaries, lifestyle and tourism.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/817_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
@@ -31070,7 +31060,7 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/817_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="817" start="20260116120000 +0000" stop="20260116123000 +0000">
-		<title>K-Culture Dive</title>
+		<title>K-Culture Dive [R]</title>
 		<desc>Stay tuned for more of the best of Korea on Arirang, as we bring you a variety of genres that include dramas, movies, concerts, game shows, animation, music, documentaries, lifestyle and tourism.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/817_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
@@ -31090,7 +31080,7 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/817_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="817" start="20260116130500 +0000" stop="20260116133000 +0000">
-		<title>Art And The City</title>
+		<title>News Special [R]</title>
 		<desc>Stay tuned for more of the best of Korea on Arirang, as we bring you a variety of genres that include dramas, movies, concerts, game shows, animation, music, documentaries, lifestyle and tourism.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/817_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
@@ -31105,12 +31095,12 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/817_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="817" start="20260116140000 +0000" stop="20260116143000 +0000">
-		<title>Press Perspective</title>
+		<title>Press Perspective [R]</title>
 		<desc>Stay tuned for more of the best of Korea on Arirang, as we bring you a variety of genres that include dramas, movies, concerts, game shows, animation, music, documentaries, lifestyle and tourism.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/817_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="817" start="20260116143000 +0000" stop="20260116150000 +0000">
-		<title>With Science, We Live</title>
+		<title>News Special [R]</title>
 		<desc>Stay tuned for more of the best of Korea on Arirang, as we bring you a variety of genres that include dramas, movies, concerts, game shows, animation, music, documentaries, lifestyle and tourism.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/817_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
@@ -31135,12 +31125,12 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/817_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="817" start="20260116170000 +0000" stop="20260116173000 +0000">
-		<title>K-Culture Dive</title>
+		<title>K-Culture Dive [R]</title>
 		<desc>Stay tuned for more of the best of Korea on Arirang, as we bring you a variety of genres that include dramas, movies, concerts, game shows, animation, music, documentaries, lifestyle and tourism.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/817_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="817" start="20260116173000 +0000" stop="20260116180000 +0000">
-		<title>Within The Frame</title>
+		<title>Within The Frame [R]</title>
 		<desc>Stay tuned for more of the best of Korea on Arirang, as we bring you a variety of genres that include dramas, movies, concerts, game shows, animation, music, documentaries, lifestyle and tourism.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/817_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
@@ -31160,7 +31150,7 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/817_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="817" start="20260116190000 +0000" stop="20260116192000 +0000">
-		<title>Taste Log</title>
+		<title>Drawing Diary</title>
 		<desc>Stay tuned for more of the best of Korea on Arirang, as we bring you a variety of genres that include dramas, movies, concerts, game shows, animation, music, documentaries, lifestyle and tourism.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/817_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
@@ -31175,7 +31165,7 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/817_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="817" start="20260116200000 +0000" stop="20260116203000 +0000">
-		<title>With Science, We Live</title>
+		<title>News Special [R]</title>
 		<desc>Stay tuned for more of the best of Korea on Arirang, as we bring you a variety of genres that include dramas, movies, concerts, game shows, animation, music, documentaries, lifestyle and tourism.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/817_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
@@ -31185,12 +31175,12 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/817_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="817" start="20260116210000 +0000" stop="20260116213000 +0000">
-		<title>Press Perspective</title>
+		<title>Press Perspective [R]</title>
 		<desc>Stay tuned for more of the best of Korea on Arirang, as we bring you a variety of genres that include dramas, movies, concerts, game shows, animation, music, documentaries, lifestyle and tourism.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/817_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="817" start="20260116213000 +0000" stop="20260116215000 +0000">
-		<title>Rpg</title>
+		<title>News Special [R]</title>
 		<desc>Stay tuned for more of the best of Korea on Arirang, as we bring you a variety of genres that include dramas, movies, concerts, game shows, animation, music, documentaries, lifestyle and tourism.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/817_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
@@ -32644,47 +32634,52 @@
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20260117010000 +0000" stop="20260117015900 +0000">
+	<programme channel="832" start="20260117010000 +0000" stop="20260117015200 +0000">
 		<title>A Green Trip</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20260117015900 +0000" stop="20260117030800 +0000">
+	<programme channel="832" start="20260117015200 +0000" stop="20260117025900 +0000">
 		<title>Super Diva</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20260117030800 +0000" stop="20260117035200 +0000">
+	<programme channel="832" start="20260117025900 +0000" stop="20260117032400 +0000">
+		<title>CARE ON THE WAY</title>
+		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="832" start="20260117032400 +0000" stop="20260117035500 +0000">
 		<title>Next Station</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20260117035200 +0000" stop="20260117041900 +0000">
+	<programme channel="832" start="20260117035500 +0000" stop="20260117042200 +0000">
 		<title>China Archaeology Weekly</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20260117041900 +0000" stop="20260117045900 +0000">
+	<programme channel="832" start="20260117042200 +0000" stop="20260117050200 +0000">
 		<title>Amazing 2 cities</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20260117045900 +0000" stop="20260117064500 +0000">
+	<programme channel="832" start="20260117050200 +0000" stop="20260117064900 +0000">
 		<title>Future China</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20260117064500 +0000" stop="20260117074500 +0000">
+	<programme channel="832" start="20260117064900 +0000" stop="20260117074100 +0000">
 		<title>A Green Trip</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20260117074500 +0000" stop="20260117085100 +0000">
+	<programme channel="832" start="20260117074100 +0000" stop="20260117085200 +0000">
 		<title>Ai Romance</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20260117085100 +0000" stop="20260117100000 +0000">
+	<programme channel="832" start="20260117085200 +0000" stop="20260117100000 +0000">
 		<title>Super Diva</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
@@ -32694,27 +32689,22 @@
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20260117105800 +0000" stop="20260117115700 +0000">
+	<programme channel="832" start="20260117105800 +0000" stop="20260117115000 +0000">
 		<title>A Green Trip</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20260117115700 +0000" stop="20260117134400 +0000">
+	<programme channel="832" start="20260117115000 +0000" stop="20260117135800 +0000">
 		<title>Future China</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20260117134400 +0000" stop="20260117145000 +0000">
+	<programme channel="832" start="20260117135800 +0000" stop="20260117150900 +0000">
 		<title>Ai Romance</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20260117145000 +0000" stop="20260117152400 +0000">
-		<title>Cheer up!small shops</title>
-		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="832" start="20260117152400 +0000" stop="20260117160000 +0000">
+	<programme channel="832" start="20260117150900 +0000" stop="20260117160000 +0000">
 		<title>A Green Trip</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
@@ -33072,7 +33062,7 @@
 	<programme channel="838" start="20260117120000 +0000" stop="20260117140500 +0000">
 		<title>Yan Chai Charity Show 2026 (Live)</title>
 		<desc>An annual TVB charity gala hosted with Yan Chai Hospital, featuring celebrity performances, touching beneficiary stories, and fundraising to support hospital services and funds like paralysed patient care.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch838_tvb_logo.jpg?w=960&amp;h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch838_yan_chai_charity_show.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="838" start="20260117140500 +0000" stop="20260117143000 +0000">
 		<title>Sis and the Tempting Cities</title>
