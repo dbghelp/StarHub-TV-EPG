@@ -1126,7 +1126,7 @@
 	</programme>
 	<programme channel="103" start="20260116123000 +0000" stop="20260116130000 +0000">
 		<title>Frontline - EP 35</title>
-		<desc>Frontline is a weekly investigative current affairs programme that aims to address issues closest to the hearts of Singaporeans.</desc>
+		<desc>More people have been reported missing in recent years. In 2024, close to 1360 people were reported lost or missing, an increase of more than 20 from 2023. Some are autistic children and people living with dementia. Why are they more likely to lose their way and go missing? What can their caregivers and the public do to reduce the likelihood of them going missing?</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/103_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="103" start="20260116130000 +0000" stop="20260116140000 +0000">
@@ -1896,7 +1896,7 @@
 	</programme>
 	<programme channel="106" start="20260116190300 +0000" stop="20260116200000 +0000">
 		<title>Wombless - EP 2</title>
-		<desc>For over a decade, activists and government officials have been fighting back against the practice of unnecessary hysterectomies in India. From spreading awareness, to raiding faulty clinics and legal battles, we learn about the fight to protect women aga</desc>
+		<desc>For over a decade, activists and government officials have been fighting back against the practice of unnecessary hysterectomies in India. From spreading awareness, to raiding faulty clinics and legal battles, we learn about the fight to protect women against unscrupulous medical practitioners who rob them of their wombs.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="106" start="20260116200000 +0000" stop="20260116210000 +0000">
@@ -22179,27 +22179,27 @@
 		<desc>In Rhaenyra and Daemon’s absence, Rhaenys tries to steady the Black Council as Cole mounts a campaign into the Crownlands.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch633_house_of_the_dragon_s2.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="603" start="20260116180000 +0000" stop="20260116185000 +0000">
+	<programme channel="603" start="20260116180000 +0000" stop="20260116185500 +0000">
 		<title>Industry S4 - EP 1</title>
-		<desc>Industry is an exhilarating dive into the world of international finance, as seen through the eyes of ambitious twenty-somethings struggling to secure their futures.</desc>
+		<desc>While Harper makes a bold move as head of her own fund, Whitney Halberstram works to ensure the successful evolution of Tender.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch633_industry.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="603" start="20260116185000 +0000" stop="20260116193500 +0000">
+	<programme channel="603" start="20260116185500 +0000" stop="20260116194000 +0000">
 		<title>Banshee S4 - EP 4</title>
 		<desc>Carrie strikes again; Bunker treads on thin ice; another grisly murder rocks Banshee.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch633_Banshee.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="603" start="20260116193500 +0000" stop="20260116211500 +0000">
+	<programme channel="603" start="20260116194000 +0000" stop="20260116212000 +0000">
 		<title>Fast &amp; Furious</title>
 		<desc>Vin Diesel and Paul Walker reteam for the fourth chapter of the franchise built on speed - Fast and Furious.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch633_fast_and_furious.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="603" start="20260116211500 +0000" stop="20260116224000 +0000">
+	<programme channel="603" start="20260116212000 +0000" stop="20260116224500 +0000">
 		<title>Everyday People</title>
 		<desc>The closure of a beloved New York City diner deeply affects its employees and neighbors in this HBO Original Movie.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch633_everyday_people.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="603" start="20260116224000 +0000" stop="20260117003000 +0000">
+	<programme channel="603" start="20260116224500 +0000" stop="20260117003500 +0000">
 		<title>Grudge Match</title>
 		<desc>Thirty years after their last title fight, two retired boxers and lifelong rivals decide to step into the ring once more to settle an old score.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch633_grudge_match.jpg?w=341&amp;h=192" />
@@ -30654,12 +30654,17 @@
 		<desc>Bringing you KBS World daily English news, anchored by Choi Kyu-yeon.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch815_kbsworld_news_today.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="815" start="20260116080000 +0000" stop="20260116080500 +0000">
+	<programme channel="815" start="20260116080000 +0000" stop="20260116082000 +0000">
+		<title>The 46th Blue Dragon Film Awards Highlights</title>
+		<desc>KBS World continues to bring entertaining and informative programmes to viewers!</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch815_kbs_logo.jpg?w=960&amp;h=540" />
+	</programme>
+	<programme channel="815" start="20260116082000 +0000" stop="20260116082500 +0000">
 		<title>Music Bank K-Chart</title>
 		<desc>Follow the latest trend in the Korean music scene through the K-chart, a summary of the week's hottest songs.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch815_kbsworld_music_bank.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="815" start="20260116080500 +0000" stop="20260116093500 +0000">
+	<programme channel="815" start="20260116082500 +0000" stop="20260116093500 +0000">
 		<title>Music Bank - EP 1276</title>
 		<desc>The best tunes in Korea, on the most sensational TV music show that satisfies all your senses! Follow the latest trend in the Korean music scene through the K-chart, a summary of the week's hottest songs.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch815_kbsworld_music_bank.jpg?w=341&amp;h=192" />
@@ -32589,37 +32594,37 @@
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20260116160000 +0000" stop="20260116165900 +0000">
+	<programme channel="832" start="20260116160000 +0000" stop="20260116170400 +0000">
 		<title>Go Fighting</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20260116165900 +0000" stop="20260116172400 +0000">
+	<programme channel="832" start="20260116170400 +0000" stop="20260116172900 +0000">
 		<title>Next Station</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20260116172400 +0000" stop="20260116182300 +0000">
+	<programme channel="832" start="20260116172900 +0000" stop="20260116183200 +0000">
 		<title>Dragon TV Primetime News</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20260116182300 +0000" stop="20260116184800 +0000">
+	<programme channel="832" start="20260116183200 +0000" stop="20260116192200 +0000">
 		<title>Searching for flavor</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20260116184800 +0000" stop="20260116191300 +0000">
+	<programme channel="832" start="20260116192200 +0000" stop="20260116194800 +0000">
 		<title>I LOVE SHANGHAI</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20260116191300 +0000" stop="20260116205300 +0000">
+	<programme channel="832" start="20260116194800 +0000" stop="20260116205700 +0000">
 		<title>Cheer up!small shops</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20260116205300 +0000" stop="20260116221000 +0000">
+	<programme channel="832" start="20260116205700 +0000" stop="20260116221000 +0000">
 		<title>A Green Trip</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
