@@ -1496,7 +1496,7 @@
 	</programme>
 	<programme channel="104" start="20260120040000 +0000" stop="20260120050000 +0000">
 		<title>Di Luar Garisan - EP 3</title>
-		<desc>Di Luar Garisan (Out of Line) (Episodic)</desc>
+		<desc>Di Luar Garisan is a crime fiction drama which shows the important role of psychology and science in helping police to crack down crime cases.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/104_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="104" start="20260120050000 +0000" stop="20260120060000 +0000">
@@ -9804,9 +9804,19 @@
 		<desc>Don't miss this fun-filled talk show, along with a delightful blend of sketches, stand-up performances and humorous segments!</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch158_vedi_sirippu.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="159" start="20260118160000 +0000" stop="20260118220000 +0000">
+	<programme channel="159" start="20260118160000 +0000" stop="20260118170000 +0000">
 		<title>Information Not Available</title>
 		<desc />
+		<icon src="https://poster.starhubgo.com/Linear_channels2/159_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="159" start="20260118170000 +0000" stop="20260118200000 +0000">
+		<title>Movie - Eetti</title>
+		<desc>An athlete suffers from a rare health condition that prevents him from physical exertion. But he must play to his strengths when he comes across a gang that specialises in printing counterfeit money.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/159_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="159" start="20260118200000 +0000" stop="20260118223000 +0000">
+		<title>Movie - Naanga</title>
+		<desc>Five friends from the 1985 batch of their college reunite after many years to help Devi, one of their own who has woken up from a coma, get back with her lover, Babu.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/159_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="159" start="20260118223000 +0000" stop="20260119010000 +0000">
@@ -9859,14 +9869,34 @@
 		<desc>Nanda (Hemachandran) is thrown out of his home by his drunkard dad. He falls in love with Nanditha (Meghna). He then agrees to kill a political candidate, Knockout Chandran (Shanmugaraja). Does he succeed in his job? Does he unite with Nanditha?</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/159_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="159" start="20260120040000 +0000" stop="20260120100000 +0000">
-		<title>Information Not Available</title>
-		<desc />
+	<programme channel="159" start="20260120010000 +0000" stop="20260120013000 +0000">
+		<title>Fillers</title>
+		<desc>Fillers</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/159_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="159" start="20260120100000 +0000" stop="20260120160000 +0000">
-		<title>Information Not Available</title>
-		<desc />
+	<programme channel="159" start="20260120013000 +0000" stop="20260120043000 +0000">
+		<title>Movie - VaaiKozhuppu</title>
+		<desc>Bhaskar struggles to earn the admiration and approval of his rich father-in-law. To make matters worse, he is constantly belittled by the elder son-in-law of the family.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/159_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="159" start="20260120043000 +0000" stop="20260120073000 +0000">
+		<title>Movie - Raja Nadai</title>
+		<desc>Vijayakanth, a CID officer, is married to Seetha, who suffers from blood cancer but hides it from her husband. When she gets killed by a criminal, Vijayakanth sets out to capture him.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/159_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="159" start="20260120073000 +0000" stop="20260120103000 +0000">
+		<title>Movie - Nayagan</title>
+		<desc>Velu Nayakan, who witnesses the brutal murder of his father, kills a corrupt policeman and escapes to Mumbai, only to become a gangster.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/159_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="159" start="20260120103000 +0000" stop="20260120133000 +0000">
+		<title>Movie - Makkal En Pakkam</title>
+		<desc>Childhood friends Samraj and Rajmohan become enemies after Samraj is falsely accused of theft. While Samraj, becomes a smuggler, he constantly faces problems due to Rajmohan's political influence.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/159_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="159" start="20260120133000 +0000" stop="20260120170000 +0000">
+		<title>Movie - Mayie</title>
+		<desc>A man is always protective of the women in his village. One day, he learns that his father has a second wife and gets upset at him. After his father commits suicide, he brings home his stepsister.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/159_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="201" start="20260118160000 +0000" stop="20260118200000 +0000">
@@ -9980,7 +10010,7 @@
 		<icon src="https://poster.starhubgo.com/poster/ch202_total_combat_2024.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="202" start="20260118163000 +0000" stop="20260118193000 +0000">
-		<title>NFL 2025/26</title>
+		<title>NFL 2025/26 Division Round: Buffalo Bills vs Denver Broncos</title>
 		<desc>Follow us for the thrilling 2025/26 NFL season as teams battle for glory. The Philadelphia Eagles defend their Super Bowl crown, facing fierce rivals and rising stars in America's ultimate football showdown.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch202_nfl_2024_25.jpg?w=960&amp;h=540" />
 	</programme>
@@ -9990,7 +10020,7 @@
 		<icon src="https://poster.starhubgo.com/poster/ch202_nfl_2024_25.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="202" start="20260118200000 +0000" stop="20260118233000 +0000">
-		<title>NFL 2025/26 (Live)</title>
+		<title>NFL 2025/26 Division Round: Houston Texans vs New England Patriots (Live)</title>
 		<desc>Follow us for the thrilling 2025/26 NFL season as teams battle for glory. The Philadelphia Eagles defend their Super Bowl crown, facing fierce rivals and rising stars in America's ultimate football showdown.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch202_nfl_2024_25.jpg?w=960&amp;h=540" />
 	</programme>
@@ -10090,7 +10120,7 @@
 		<icon src="https://poster.starhubgo.com/poster/ch202_singapore_premier_league.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="202" start="20260120050000 +0000" stop="20260120080000 +0000">
-		<title>NFL 2025/26</title>
+		<title>NFL 2025/26 Division Round: Buffalo Bills vs Denver Broncos</title>
 		<desc>Follow us for the thrilling 2025/26 NFL season as teams battle for glory. The Philadelphia Eagles defend their Super Bowl crown, facing fierce rivals and rising stars in America's ultimate football showdown.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch202_nfl_2024_25.jpg?w=960&amp;h=540" />
 	</programme>
@@ -10115,7 +10145,7 @@
 		<icon src="https://poster.starhubgo.com/poster/ch202_world_strongest_man_2025.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="202" start="20260120130000 +0000" stop="20260120160000 +0000">
-		<title>NFL 2025/26</title>
+		<title>NFL 2025/26 Division Round: Houston Texans vs New England Patriots</title>
 		<desc>Follow us for the thrilling 2025/26 NFL season as teams battle for glory. The Philadelphia Eagles defend their Super Bowl crown, facing fierce rivals and rising stars in America's ultimate football showdown.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch202_nfl_2024_25.jpg?w=960&amp;h=540" />
 	</programme>
@@ -11055,12 +11085,12 @@
 		<icon src="https://poster.starhubgo.com/poster/ch214_mutv_match_day_review.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="214" start="20260120003000 +0000" stop="20260120080000 +0000">
-		<title>Australian Open 2026 (2) (Live)</title>
+		<title>Australian Open 2026 (2) Day 3 (Live)</title>
 		<desc>The 1st Grand Slam of the year kick starts on beIN Sports as the world’s best players battle it out to win the 114th edition of the Australian Open.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch214_australian_open.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="214" start="20260120080000 +0000" stop="20260120130000 +0000">
-		<title>Australian Open 2026 (2) (Live)</title>
+		<title>Australian Open 2026 (2) Night 3 (Live)</title>
 		<desc>The 1st Grand Slam of the year kick starts on beIN Sports as the world’s best players battle it out to win the 114th edition of the Australian Open.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch214_australian_open.jpg?w=341&amp;h=192" />
 	</programme>
@@ -33204,13 +33234,18 @@
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20260120010000 +0000" stop="20260120020900 +0000">
+	<programme channel="832" start="20260120010000 +0000" stop="20260120014500 +0000">
 		<title>A Green Trip</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20260120020900 +0000" stop="20260120040000 +0000">
+	<programme channel="832" start="20260120014500 +0000" stop="20260120033400 +0000">
 		<title>THE CITY OF MUSICALS</title>
+		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="832" start="20260120033400 +0000" stop="20260120040000 +0000">
+		<title>CARE ON THE WAY</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
@@ -33219,22 +33254,22 @@
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20260120042700 +0000" stop="20260120061300 +0000">
+	<programme channel="832" start="20260120042700 +0000" stop="20260120060700 +0000">
 		<title>Future China</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20260120061300 +0000" stop="20260120065500 +0000">
+	<programme channel="832" start="20260120060700 +0000" stop="20260120064500 +0000">
 		<title>CHINA Now</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20260120065500 +0000" stop="20260120072000 +0000">
+	<programme channel="832" start="20260120064500 +0000" stop="20260120071000 +0000">
 		<title>Next Station</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20260120072000 +0000" stop="20260120090900 +0000">
+	<programme channel="832" start="20260120071000 +0000" stop="20260120090900 +0000">
 		<title>THE CITY OF MUSICALS</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
@@ -33254,37 +33289,37 @@
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20260120105800 +0000" stop="20260120113900 +0000">
+	<programme channel="832" start="20260120105800 +0000" stop="20260120113600 +0000">
 		<title>CHINA Now</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20260120113900 +0000" stop="20260120120400 +0000">
+	<programme channel="832" start="20260120113600 +0000" stop="20260120120100 +0000">
 		<title>Next Station</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20260120120400 +0000" stop="20260120131300 +0000">
+	<programme channel="832" start="20260120120100 +0000" stop="20260120124700 +0000">
 		<title>A Green Trip</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20260120131300 +0000" stop="20260120140400 +0000">
+	<programme channel="832" start="20260120124700 +0000" stop="20260120142700 +0000">
 		<title>Future China</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20260120140400 +0000" stop="20260120142900 +0000">
+	<programme channel="832" start="20260120142700 +0000" stop="20260120145200 +0000">
 		<title>New Entertainment</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20260120142900 +0000" stop="20260120145400 +0000">
+	<programme channel="832" start="20260120145200 +0000" stop="20260120151700 +0000">
 		<title>CARE ON THE WAY</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20260120145400 +0000" stop="20260120160000 +0000">
+	<programme channel="832" start="20260120151700 +0000" stop="20260120160000 +0000">
 		<title>THE CITY OF MUSICALS</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
