@@ -17867,7 +17867,7 @@
 	<programme channel="422" start="20260121013000 +0000" stop="20260121022000 +0000">
 		<title>Ed Stafford's Rite Of Passage (S1) - EP 1</title>
 		<desc>Ed travels to the Ecuadorian rainforest to meet the Waorani, hunting monkeys and crocodiles, making poison blow-darts.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch422_discovery_logo.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch422_ed_staffords_rite_of_passage.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="422" start="20260121022000 +0000" stop="20260121031000 +0000">
 		<title>Outback Opal Hunters (S5) - EP 19</title>
@@ -26550,9 +26550,9 @@
 		<icon src="https://poster.starhubgo.com/poster/ch711_cnn_newsroom.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="711" start="20260121090000 +0000" stop="20260121100000 +0000">
-		<title>Amanpour</title>
-		<desc>Christiane Amanpour provides her powerful interview skills and provocative analysis on global stories that matter to you.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch711_amanpour.jpg?w=960&amp;h=540" />
+		<title>Early Start with Rahel Solomon</title>
+		<desc>The news you need, first thing. Rahel Solomon has you covered with the latest headlines.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch711_early_start_with_rahel_solomon.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="711" start="20260121100000 +0000" stop="20260121110000 +0000">
 		<title>Early Start with Rahel Solomon</title>
@@ -26564,15 +26564,15 @@
 		<desc>Start your day with Audie Cornish bringing you the latest headlines and analysis.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch711_cnn_this_morning.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="711" start="20260121120000 +0000" stop="20260121133000 +0000">
+	<programme channel="711" start="20260121120000 +0000" stop="20260121130000 +0000">
 		<title>CNN News Central</title>
 		<desc>Stay up to date with John Berman, Kate Bolduan and Sara Sidner from CNN's immersive news hub.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch711_cnn_news_central.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="711" start="20260121133000 +0000" stop="20260121140000 +0000">
-		<title>World Sport (30m)</title>
-		<desc>Daily sports show features major stories and issues making news in the world of sports.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch711_world_sport.jpg?w=341&amp;h=192" />
+	<programme channel="711" start="20260121130000 +0000" stop="20260121140000 +0000">
+		<title>CNN News Central</title>
+		<desc>Stay up to date with John Berman, Kate Bolduan and Sara Sidner from CNN's immersive news hub.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch711_cnn_news_central.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="711" start="20260121140000 +0000" stop="20260121144500 +0000">
 		<title>Connect the World (45m)</title>
@@ -26615,7 +26615,7 @@
 		<icon src="https://poster.starhubgo.com/poster/ch711_what_we_know_with_max_foster.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="711" start="20260121210000 +0000" stop="20260121223000 +0000">
-		<title>Quest Means Business (45m)</title>
+		<title>Quest Means Business (60m)</title>
 		<desc>Richard Quest speaks to the top names in global business to bring viewers the bottom line.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch711_quest_means_business.jpg?w=341&amp;h=192" />
 	</programme>
@@ -26669,11 +26669,6 @@
 		<desc>Live context and clarity to the day's top stories from around the world.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch711_cnn_newsroom.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="711" start="20260122090000 +0000" stop="20260122100000 +0000">
-		<title>Early Start with Rahel Solomon</title>
-		<desc>The news you need, first thing. Rahel Solomon has you covered with the latest headlines.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch711_early_start_with_rahel_solomon.jpg?w=341&amp;h=192" />
-	</programme>
 	<programme channel="711" start="20260122100000 +0000" stop="20260122110000 +0000">
 		<title>Early Start with Rahel Solomon</title>
 		<desc>The news you need, first thing. Rahel Solomon has you covered with the latest headlines.</desc>
@@ -26683,11 +26678,6 @@
 		<title>CNN This Morning</title>
 		<desc>Start your day with Audie Cornish bringing you the latest headlines and analysis.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch711_cnn_this_morning.jpg?w=341&amp;h=192" />
-	</programme>
-	<programme channel="711" start="20260122120000 +0000" stop="20260122133000 +0000">
-		<title>CNN News Central</title>
-		<desc>Stay up to date with John Berman, Kate Bolduan and Sara Sidner from CNN's immersive news hub.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch711_cnn_news_central.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="711" start="20260122133000 +0000" stop="20260122140000 +0000">
 		<title>World Sport (30m)</title>
