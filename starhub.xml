@@ -5324,6 +5324,11 @@
 		<desc>Best friends Bantu and Chantu try make two wealthy girls fall in love with them. However, they find out that the girls have been murdered and become prime suspects.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch618_sony_max_logo.jpg?w=341&amp;h=192" />
 	</programme>
+	<programme channel="132" start="20260120140000 +0000" stop="20260120170000 +0000">
+		<title>Raj Bahaddur</title>
+		<desc>A man belonging to a royal family must woo a simple girl engaged to someone else.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch132_raj_bahaddur.jpg?w=960&amp;h=540" />
+	</programme>
 	<programme channel="132" start="20260120170000 +0000" stop="20260120173000 +0000">
 		<title>Shiva Shakthi Thiruvilayadal - EP 778</title>
 		<desc>Lord Shiva and Goddess Parvati navigate their relationship while caring for humanity.</desc>
@@ -5609,7 +5614,7 @@
 		<desc>Despite their differing characters, three brothers maintain a close-knit relationship.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch132_kadhala_kadhala.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="132" start="20260122140000 +0000" stop="20260122160000 +0000">
+	<programme channel="132" start="20260122140000 +0000" stop="20260122170000 +0000">
 		<title>Appatha</title>
 		<desc>Appatha is phobic of dogs but in an unanticipated situation, her fear turns into love.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch132_appatha.jpg?w=341&amp;h=192" />
@@ -17822,7 +17827,7 @@
 	<programme channel="422" start="20260120164000 +0000" stop="20260120173500 +0000">
 		<title>Ed Stafford's Rite Of Passage (S1) - EP 1</title>
 		<desc>Ed travels to the Ecuadorian rainforest to meet the Waorani, hunting monkeys and crocodiles, making poison blow-darts.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch422_discovery_logo.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch422_ed_staffords_rite_of_passage.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="422" start="20260120173500 +0000" stop="20260120183000 +0000">
 		<title>Survive The Raft (S1) - EP 9</title>
@@ -21001,7 +21006,7 @@
 	</programme>
 	<programme channel="511" start="20260122100500 +0000" stop="20260122110000 +0000">
 		<title>The Rookie (Season 8) - EP 3</title>
-		<desc>John Nolan, the oldest rookie in the LAPD, has used his life experience, determination and sense of humor to keep up with rookies 20 years his junior. Nearing the end of his training, Nolan now faces his biggest challenge as a police officer when he must come to terms with the choices he has made in pursuit of the truth.</desc>
+		<desc>Nolan makes a quiet arrest, and Lucy and Celina race to rescue a kidnapping victim. Meanwhile, Harper and Lopez help outsmart a killer, and Miles visits a familiar face.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch511_the_rookie_8.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="511" start="20260122110000 +0000" stop="20260122115500 +0000">
@@ -24070,14 +24075,14 @@
 		<icon src="https://poster.starhubgo.com/poster/ch701_bbc_news_now.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="701" start="20260122130000 +0000" stop="20260122133000 +0000">
-		<title>BBC News Now</title>
-		<desc>All the big stories, live as they happen, presented by Lucy Hockings.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch701_bbc_news_now.jpg?w=960&amp;h=540" />
+		<title>BBC News</title>
+		<desc>The latest news from the BBC.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch701_BBC_news.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="701" start="20260122133000 +0000" stop="20260122140000 +0000">
-		<title>BBC News Now</title>
-		<desc>All the big stories, live as they happen, presented by Lucy Hockings.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch701_bbc_news_now.jpg?w=960&amp;h=540" />
+		<title>Oscar Nominations Live</title>
+		<desc>Lewis Vaughan Jones presents as the nominations for this year's Oscars are announced in Hollywood.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch701_BBC_news.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="701" start="20260122140000 +0000" stop="20260122143000 +0000">
 		<title>BBC News Now</title>
@@ -26669,6 +26674,11 @@
 		<desc>Live context and clarity to the day's top stories from around the world.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch711_cnn_newsroom.jpg?w=960&amp;h=540" />
 	</programme>
+	<programme channel="711" start="20260122090000 +0000" stop="20260122100000 +0000">
+		<title>Early Start with Rahel Solomon</title>
+		<desc>The news you need, first thing. Rahel Solomon has you covered with the latest headlines.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch711_early_start_with_rahel_solomon.jpg?w=341&amp;h=192" />
+	</programme>
 	<programme channel="711" start="20260122100000 +0000" stop="20260122110000 +0000">
 		<title>Early Start with Rahel Solomon</title>
 		<desc>The news you need, first thing. Rahel Solomon has you covered with the latest headlines.</desc>
@@ -26678,6 +26688,11 @@
 		<title>CNN This Morning</title>
 		<desc>Start your day with Audie Cornish bringing you the latest headlines and analysis.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch711_cnn_this_morning.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="711" start="20260122120000 +0000" stop="20260122133000 +0000">
+		<title>CNN News Central</title>
+		<desc>Stay up to date with John Berman, Kate Bolduan and Sara Sidner from CNN's immersive news hub.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch711_cnn_news_central.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="711" start="20260122133000 +0000" stop="20260122140000 +0000">
 		<title>World Sport (30m)</title>
