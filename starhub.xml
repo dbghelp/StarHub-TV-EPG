@@ -1476,7 +1476,7 @@
 	</programme>
 	<programme channel="104" start="20260122123000 +0000" stop="20260122133000 +0000">
 		<title>Detik Dokumentari 2025 - EP 3</title>
-		<desc>An-hour long documentary that explores social, political, and economic issues in Singapore, the region and around the world.</desc>
+		<desc>'DIKIR' Part 2 plunges into the intense year-long journey of four profiles racing toward Mega Perdana, Singapore’s most prestigious dikir barat stage. Amid grueling rehearsals, setbacks, and sacrifice, deeper bonds are forgedrevealing kinship and unity as the true heartbeat of this art form, beyond rivalry and glory.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/104_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="104" start="20260122133000 +0000" stop="20260122143000 +0000">
@@ -4831,7 +4831,7 @@
 	</programme>
 	<programme channel="128" start="20260122073000 +0000" stop="20260122080000 +0000">
 		<title>Mahadev &amp; Sons - EP 13</title>
-		<desc>This is Drama, Soap Category</desc>
+		<desc>Domestic discord intensifies as Mahadev and Vidya discover Ashish in an intoxicated state.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch128_mahadev_&amp;_sons.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="128" start="20260122080000 +0000" stop="20260122083000 +0000">
@@ -4846,7 +4846,7 @@
 	</programme>
 	<programme channel="128" start="20260122090000 +0000" stop="20260122093000 +0000">
 		<title>Mahadev &amp; Sons - EP 13</title>
-		<desc>This is Drama, Soap Category</desc>
+		<desc>Domestic discord intensifies as Mahadev and Vidya discover Ashish in an intoxicated state.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch128_mahadev_&amp;_sons.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="128" start="20260122093000 +0000" stop="20260122103000 +0000">
@@ -4876,7 +4876,7 @@
 	</programme>
 	<programme channel="128" start="20260122133000 +0000" stop="20260122140000 +0000">
 		<title>Mahadev &amp; Sons - EP 13</title>
-		<desc>This is Drama, Soap Category</desc>
+		<desc>Domestic discord intensifies as Mahadev and Vidya discover Ashish in an intoxicated state.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch128_mahadev_&amp;_sons.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="128" start="20260122140000 +0000" stop="20260122143000 +0000">
@@ -4891,7 +4891,7 @@
 	</programme>
 	<programme channel="128" start="20260122150000 +0000" stop="20260122153000 +0000">
 		<title>Mahadev &amp; Sons - EP 13</title>
-		<desc>This is Drama, Soap Category</desc>
+		<desc>Domestic discord intensifies as Mahadev and Vidya discover Ashish in an intoxicated state.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch128_mahadev_&amp;_sons.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="128" start="20260122153000 +0000" stop="20260122160000 +0000">
@@ -6114,16 +6114,6 @@
 		<desc>Pandian's life is centered around his large, close-knit family. But when his children get involved with dangerous rivals, will their strong family bonds survive the challenges?</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch135_pandian_stores_thanthai_sol_mikka_mandhi.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="135" start="20260121163000 +0000" stop="20260121170000 +0000">
-		<title>Ayyanar Thunai - EP 302</title>
-		<desc>In a bid to escape her ill-fate, Nila becomes the daughter-in-law of a family with a tainted past. Can she restore their lost hope, or will it shatter hers?</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch135_ayyanar_thunai.jpg?w=341&amp;h=192" />
-	</programme>
-	<programme channel="135" start="20260121170000 +0000" stop="20260121180000 +0000">
-		<title>Siragadikka Aasai - EP 907</title>
-		<desc>Meena and Muthukumar, both carrying emotional baggage, struggle through challenges in their marriage due to their troubled backgrounds.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch135_siragadikka_aasai.jpg?w=341&amp;h=192" />
-	</programme>
 	<programme channel="135" start="20260121180000 +0000" stop="20260121183000 +0000">
 		<title>Kana Kandenadi - EP 3</title>
 		<desc>Kana Kandenadi</desc>
@@ -6138,11 +6128,6 @@
 		<title>Sakthivel - Theeyaai Oru Theeraakkaadhal - EP 650</title>
 		<desc>Shakthi an aspiring professor, is coerced into marriage weds Velan to teach him a lesson. Her brother marries Velan's sister for her protection. Shakthi's journey in Velan's patriarchal family.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch135_sakthivel_theeyaai_oru_theeraakkaadhal.jpg?w=960&amp;h=540" />
-	</programme>
-	<programme channel="135" start="20260121203000 +0000" stop="20260121210000 +0000">
-		<title>Kanmani Anbudan - EP 408</title>
-		<desc>Kanmani, a talented chef, falls for Anbu, heir to Raj Foods, while her actress friend Vennila also catches his eye. After an unexpected marriage, will Anbu accept Kanmani as his wife?</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch135_kanmani_anbudan.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="135" start="20260121210000 +0000" stop="20260121213000 +0000">
 		<title>Thendrale Mella Pesu - EP 188</title>
@@ -6159,240 +6144,230 @@
 		<desc>A debt-ridden man's attempt to report smugglers for a reward backfires, leading to a dangerous pursuit as the criminals seek revenge on him.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch135_dhanam_ungalil_oruthi.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="135" start="20260121223000 +0000" stop="20260121230000 +0000">
-		<title>Ayyanar Thunai - EP 302</title>
-		<desc>In a bid to escape her ill-fate, Nila becomes the daughter-in-law of a family with a tainted past. Can she restore their lost hope, or will it shatter hers?</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch135_ayyanar_thunai.jpg?w=341&amp;h=192" />
-	</programme>
 	<programme channel="135" start="20260121230000 +0000" stop="20260121233000 +0000">
 		<title>Magale En Marumagale - EP 125</title>
 		<desc>When tragedy strikes Tulasi, she turns to her matriarchal mother-in-law for solace. As the boundaries blur between affection and captivity, how will she cope?</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch135_magale_en_marumagale.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="135" start="20260121233000 +0000" stop="20260122000000 +0000">
+	<programme channel="135" start="20260121233100 +0000" stop="20260122000000 +0000">
 		<title>Mahanadhi Sagodharigalin Kadhai - EP 770</title>
-		<desc>When a family loses their father, the sole member of their lives, they take it as a challenge to rise back stronger in all situations.</desc>
+		<desc>Four sisters try to find their place in society after the loss of their father.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch135_mahanadhi_sagodharigalin_kadhai.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="135" start="20260122000000 +0000" stop="20260122003000 +0000">
 		<title>Sindhu Bairavi Kacheri Arambam - EP 263</title>
-		<desc>For her father's word, Bairavi ties the knot with Arumugam, while Siva rejects Sindhu's proposal yet ends up marrying her. How will these couples find solace?</desc>
+		<desc>Two sisters who are worlds apart end up getting married to unexpected partners.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch135_sindhu_bairavi_kacheri_arambam.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="135" start="20260122003000 +0000" stop="20260122010000 +0000">
 		<title>Chinna Marumagal Panirendaam Vaguppu - EP 523</title>
-		<desc>Teen girls' medical dreams are dashed by forced marriage to a patriarchal family. She struggles to adapt while clinging to her aspirations.</desc>
+		<desc>A woman's educational aspirations are curtailed by her betrothal to a patriarch's son.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch135_chinna_marumagal_panirendaam_vaguppu.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="135" start="20260122010000 +0000" stop="20260122013000 +0000">
-		<title>Pandian Stores Thanthai Sol Mikka Mandhi - EP 695</title>
-		<desc>Pandian's life is centered around his large, close-knit family. But when his children get involved with dangerous rivals, will their strong family bonds survive the challenges?</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch135_pandian_stores_thanthai_sol_mikka_mandhi.jpg?w=960&amp;h=540" />
+		<title>Pandian Stores Thanthai Sol Mikka Mandhiram Illai - EP 695</title>
+		<desc>Chaos ensues when a strict father interacts with his three unmarried lazy sons.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch135_pandian_stores_thanthai_sol_mikka_mandhiram_illai.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="135" start="20260122013000 +0000" stop="20260122020000 +0000">
 		<title>Ayyanar Thunai - EP 302</title>
-		<desc>In a bid to escape her ill-fate, Nila becomes the daughter-in-law of a family with a tainted past. Can she restore their lost hope, or will it shatter hers?</desc>
+		<desc>A newly married woman faces challenges settling in her husband's house and his family.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch135_ayyanar_thunai.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="135" start="20260122020000 +0000" stop="20260122030000 +0000">
 		<title>Siragadikka Aasai - EP 907</title>
-		<desc>Meena and Muthukumar, both carrying emotional baggage, struggle through challenges in their marriage due to their troubled backgrounds.</desc>
+		<desc>Meena and Muthukumar face various trials and tribulations in their marriage.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch135_siragadikka_aasai.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="135" start="20260122030000 +0000" stop="20260122033000 +0000">
 		<title>Kana Kandenadi - EP 3</title>
-		<desc>Kana Kandenadi</desc>
+		<desc>This is Entertainment Category</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch135_kana_kandenadi.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="135" start="20260122033000 +0000" stop="20260122040000 +0000">
 		<title>Mahanadhi Sagodharigalin Kadhai - EP 770</title>
-		<desc>When a family loses their father, the sole member of their lives, they take it as a challenge to rise back stronger in all situations.</desc>
+		<desc>Four sisters try to find their place in society after the loss of their father.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch135_mahanadhi_sagodharigalin_kadhai.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="135" start="20260122040000 +0000" stop="20260122043000 +0000">
 		<title>Sindhu Bairavi Kacheri Arambam - EP 263</title>
-		<desc>For her father's word, Bairavi ties the knot with Arumugam, while Siva rejects Sindhu's proposal yet ends up marrying her. How will these couples find solace?</desc>
+		<desc>Two sisters who are worlds apart end up getting married to unexpected partners.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch135_sindhu_bairavi_kacheri_arambam.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="135" start="20260122043000 +0000" stop="20260122050000 +0000">
 		<title>Chinna Marumagal Panirendaam Vaguppu - EP 523</title>
-		<desc>Teen girls' medical dreams are dashed by forced marriage to a patriarchal family. She struggles to adapt while clinging to her aspirations.</desc>
+		<desc>A woman's educational aspirations are curtailed by her betrothal to a patriarch's son.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch135_chinna_marumagal_panirendaam_vaguppu.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="135" start="20260122050000 +0000" stop="20260122053000 +0000">
-		<title>Pandian Stores Thanthai Sol Mikka Mandhi - EP 695</title>
-		<desc>Pandian's life is centered around his large, close-knit family. But when his children get involved with dangerous rivals, will their strong family bonds survive the challenges?</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch135_pandian_stores_thanthai_sol_mikka_mandhi.jpg?w=960&amp;h=540" />
+		<title>Pandian Stores Thanthai Sol Mikka Mandhiram Illai - EP 695</title>
+		<desc>Chaos ensues when a strict father interacts with his three unmarried lazy sons.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch135_pandian_stores_thanthai_sol_mikka_mandhiram_illai.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="135" start="20260122053000 +0000" stop="20260122060000 +0000">
 		<title>Ayyanar Thunai - EP 302</title>
-		<desc>In a bid to escape her ill-fate, Nila becomes the daughter-in-law of a family with a tainted past. Can she restore their lost hope, or will it shatter hers?</desc>
+		<desc>A newly married woman faces challenges settling in her husband's house and his family.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch135_ayyanar_thunai.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="135" start="20260122060000 +0000" stop="20260122070000 +0000">
 		<title>Siragadikka Aasai - EP 907</title>
-		<desc>Meena and Muthukumar, both carrying emotional baggage, struggle through challenges in their marriage due to their troubled backgrounds.</desc>
+		<desc>Meena and Muthukumar face various trials and tribulations in their marriage.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch135_siragadikka_aasai.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="135" start="20260122070000 +0000" stop="20260122073000 +0000">
-		<title>Sakthivel - Theeyaai Oru Theeraakkaadhal - EP 651</title>
-		<desc>Shakthi an aspiring professor, is coerced into marriage weds Velan to teach him a lesson. Her brother marries Velan's sister for her protection. Shakthi's journey in Velan's patriarchal family.</desc>
+		<title>Sakthivel: Theeyaai Oru Theeraakkaadhal - EP 651</title>
+		<desc>A lowlife boy working for his father, falls in love and marries a righteous girl.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch135_sakthivel_theeyaai_oru_theeraakkaadhal.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="135" start="20260122073000 +0000" stop="20260122080000 +0000">
 		<title>Kanmani Anbudan - EP 409</title>
-		<desc>Kanmani, a talented chef, falls for Anbu, heir to Raj Foods, while her actress friend Vennila also catches his eye. After an unexpected marriage, will Anbu accept Kanmani as his wife?</desc>
+		<desc>Kanmani and Vennila's bond undergoes a tough trial when they both fall for the same man.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch135_kanmani_anbudan.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="135" start="20260122080000 +0000" stop="20260122083000 +0000">
 		<title>Thendrale Mella Pesu - EP 189</title>
-		<desc>Ilamathi is stuck between a brave cop and a bad goon. This love triangle is dangerous. Can her heart handle the trouble? She must choose between the two men.</desc>
+		<desc>A courageous girl gets entangled in a love triangle with a daring cop and a reckless goon.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch135_thendrale_mella_pesu.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="135" start="20260122083000 +0000" stop="20260122090000 +0000">
-		<title>Suttum Vizhi Sudare - Oru Chinanjiru Kuyilin Kadhai - EP 14</title>
-		<desc>A poetic drama about love, memory, and gentle emotional experiences of childhood and growth.</desc>
+		<title>Suttum Vizhi Sudare Oru Chinanjiru Kuyilin Kadhai - EP 14</title>
+		<desc>This is a Network Series Category</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch135_suttum_vizhi_sudare_oru_chinanjiru_kuyilin_kadhai.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="135" start="20260122090000 +0000" stop="20260122093000 +0000">
 		<title>Dhanam - Ungalil Oruthi - EP 283</title>
-		<desc>A debt-ridden man's attempt to report smugglers for a reward backfires, leading to a dangerous pursuit as the criminals seek revenge on him.</desc>
+		<desc>After the death of her husband, a woman become the sole breadwinner of the family.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch135_dhanam_ungalil_oruthi.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="135" start="20260122093000 +0000" stop="20260122100000 +0000">
 		<title>Ayyanar Thunai - EP 302</title>
-		<desc>In a bid to escape her ill-fate, Nila becomes the daughter-in-law of a family with a tainted past. Can she restore their lost hope, or will it shatter hers?</desc>
+		<desc>A newly married woman faces challenges settling in her husband's house and his family.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch135_ayyanar_thunai.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="135" start="20260122100000 +0000" stop="20260122103000 +0000">
 		<title>Magale En Marumagale - EP 126</title>
-		<desc>When tragedy strikes Tulasi, she turns to her matriarchal mother-in-law for solace. As the boundaries blur between affection and captivity, how will she cope?</desc>
+		<desc>Grieving woman's solace from mother-in-law blurs line between care and captivity.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch135_magale_en_marumagale.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="135" start="20260122103000 +0000" stop="20260122110000 +0000">
 		<title>Mahanadhi Sagodharigalin Kadhai - EP 771</title>
-		<desc>When a family loses their father, the sole member of their lives, they take it as a challenge to rise back stronger in all situations.</desc>
+		<desc>Four sisters try to find their place in society after the loss of their father.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch135_mahanadhi_sagodharigalin_kadhai.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="135" start="20260122110000 +0000" stop="20260122113000 +0000">
 		<title>Sindhu Bairavi Kacheri Arambam - EP 264</title>
-		<desc>For her father's word, Bairavi ties the knot with Arumugam, while Siva rejects Sindhu's proposal yet ends up marrying her. How will these couples find solace?</desc>
+		<desc>Two sisters who are worlds apart end up getting married to unexpected partners.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch135_sindhu_bairavi_kacheri_arambam.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="135" start="20260122113000 +0000" stop="20260122120000 +0000">
 		<title>Chinna Marumagal Panirendaam Vaguppu - EP 524</title>
-		<desc>Teen girls' medical dreams are dashed by forced marriage to a patriarchal family. She struggles to adapt while clinging to her aspirations.</desc>
+		<desc>A woman's educational aspirations are curtailed by her betrothal to a patriarch's son.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch135_chinna_marumagal_panirendaam_vaguppu.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="135" start="20260122120000 +0000" stop="20260122123000 +0000">
-		<title>Pandian Stores Thanthai Sol Mikka Mandhi - EP 696</title>
-		<desc>Pandian's life is centered around his large, close-knit family. But when his children get involved with dangerous rivals, will their strong family bonds survive the challenges?</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch135_pandian_stores_thanthai_sol_mikka_mandhi.jpg?w=960&amp;h=540" />
+		<title>Pandian Stores Thanthai Sol Mikka Mandhiram Illai - EP 696</title>
+		<desc>Chaos ensues when a strict father interacts with his three unmarried lazy sons.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch135_pandian_stores_thanthai_sol_mikka_mandhiram_illai.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="135" start="20260122123000 +0000" stop="20260122130000 +0000">
 		<title>Ayyanar Thunai - EP 303</title>
-		<desc>In a bid to escape her ill-fate, Nila becomes the daughter-in-law of a family with a tainted past. Can she restore their lost hope, or will it shatter hers?</desc>
+		<desc>A newly married woman faces challenges settling in her husband's house and his family.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch135_ayyanar_thunai.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="135" start="20260122130000 +0000" stop="20260122140000 +0000">
 		<title>Siragadikka Aasai - EP 908</title>
-		<desc>Meena and Muthukumar, both carrying emotional baggage, struggle through challenges in their marriage due to their troubled backgrounds.</desc>
+		<desc>Meena and Muthukumar face various trials and tribulations in their marriage.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch135_siragadikka_aasai.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="135" start="20260122140000 +0000" stop="20260122143000 +0000">
 		<title>Kana Kandenadi - EP 4</title>
-		<desc>Kana Kandenadi</desc>
+		<desc>This is Entertainment Category</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch135_kana_kandenadi.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="135" start="20260122143000 +0000" stop="20260122150000 +0000">
 		<title>Mahanadhi Sagodharigalin Kadhai - EP 771</title>
-		<desc>When a family loses their father, the sole member of their lives, they take it as a challenge to rise back stronger in all situations.</desc>
+		<desc>Four sisters try to find their place in society after the loss of their father.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch135_mahanadhi_sagodharigalin_kadhai.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="135" start="20260122150000 +0000" stop="20260122153000 +0000">
 		<title>Sindhu Bairavi Kacheri Arambam - EP 264</title>
-		<desc>For her father's word, Bairavi ties the knot with Arumugam, while Siva rejects Sindhu's proposal yet ends up marrying her. How will these couples find solace?</desc>
+		<desc>Two sisters who are worlds apart end up getting married to unexpected partners.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch135_sindhu_bairavi_kacheri_arambam.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="135" start="20260122153000 +0000" stop="20260122160000 +0000">
 		<title>Chinna Marumagal Panirendaam Vaguppu - EP 524</title>
-		<desc>Teen girls' medical dreams are dashed by forced marriage to a patriarchal family. She struggles to adapt while clinging to her aspirations.</desc>
+		<desc>A woman's educational aspirations are curtailed by her betrothal to a patriarch's son.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch135_chinna_marumagal_panirendaam_vaguppu.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="135" start="20260122160000 +0000" stop="20260122163000 +0000">
-		<title>Pandian Stores Thanthai Sol Mikka Mandhi - EP 696</title>
-		<desc>Pandian's life is centered around his large, close-knit family. But when his children get involved with dangerous rivals, will their strong family bonds survive the challenges?</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch135_pandian_stores_thanthai_sol_mikka_mandhi.jpg?w=960&amp;h=540" />
+		<title>Pandian Stores Thanthai Sol Mikka Mandhiram Illai - EP 696</title>
+		<desc>Chaos ensues when a strict father interacts with his three unmarried lazy sons.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch135_pandian_stores_thanthai_sol_mikka_mandhiram_illai.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="135" start="20260122163000 +0000" stop="20260122170000 +0000">
 		<title>Ayyanar Thunai - EP 303</title>
-		<desc>In a bid to escape her ill-fate, Nila becomes the daughter-in-law of a family with a tainted past. Can she restore their lost hope, or will it shatter hers?</desc>
+		<desc>A newly married woman faces challenges settling in her husband's house and his family.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch135_ayyanar_thunai.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="135" start="20260122170000 +0000" stop="20260122180000 +0000">
 		<title>Siragadikka Aasai - EP 908</title>
-		<desc>Meena and Muthukumar, both carrying emotional baggage, struggle through challenges in their marriage due to their troubled backgrounds.</desc>
+		<desc>Meena and Muthukumar face various trials and tribulations in their marriage.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch135_siragadikka_aasai.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="135" start="20260122180000 +0000" stop="20260122183000 +0000">
 		<title>Kana Kandenadi - EP 4</title>
-		<desc>Kana Kandenadi</desc>
+		<desc>This is Entertainment Category</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch135_kana_kandenadi.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="135" start="20260122183000 +0000" stop="20260122200000 +0000">
-		<title>Super Singer S11 - EP 47</title>
-		<desc>Judges Anuradha, Unnikrishnan, Thaman, and Mysskin search for India's next singing sensation. Talented contestants battle melodiously, chasing dreams and the ultimate musical crown.</desc>
+		<title>Super Singer - EP 47</title>
+		<desc>Participants showcase their singing talents to impress judges and win the contest.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch135_super_singer.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="135" start="20260122200000 +0000" stop="20260122203000 +0000">
-		<title>Sakthivel - Theeyaai Oru Theeraakkaadhal - EP 651</title>
-		<desc>Shakthi an aspiring professor, is coerced into marriage weds Velan to teach him a lesson. Her brother marries Velan's sister for her protection. Shakthi's journey in Velan's patriarchal family.</desc>
+		<title>Sakthivel: Theeyaai Oru Theeraakkaadhal - EP 651</title>
+		<desc>A lowlife boy working for his father, falls in love and marries a righteous girl.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch135_sakthivel_theeyaai_oru_theeraakkaadhal.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="135" start="20260122203000 +0000" stop="20260122210000 +0000">
 		<title>Kanmani Anbudan - EP 409</title>
-		<desc>Kanmani, a talented chef, falls for Anbu, heir to Raj Foods, while her actress friend Vennila also catches his eye. After an unexpected marriage, will Anbu accept Kanmani as his wife?</desc>
+		<desc>Kanmani and Vennila's bond undergoes a tough trial when they both fall for the same man.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch135_kanmani_anbudan.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="135" start="20260122210000 +0000" stop="20260122213000 +0000">
 		<title>Thendrale Mella Pesu - EP 189</title>
-		<desc>Ilamathi is stuck between a brave cop and a bad goon. This love triangle is dangerous. Can her heart handle the trouble? She must choose between the two men.</desc>
+		<desc>A courageous girl gets entangled in a love triangle with a daring cop and a reckless goon.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch135_thendrale_mella_pesu.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="135" start="20260122213000 +0000" stop="20260122220000 +0000">
-		<title>Suttum Vizhi Sudare - Oru Chinanjiru Kuyilin Kadhai - EP 14</title>
-		<desc>A poetic drama about love, memory, and gentle emotional experiences of childhood and growth.</desc>
+		<title>Suttum Vizhi Sudare Oru Chinanjiru Kuyilin Kadhai - EP 14</title>
+		<desc>This is a Network Series Category</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch135_suttum_vizhi_sudare_oru_chinanjiru_kuyilin_kadhai.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="135" start="20260122220000 +0000" stop="20260122223000 +0000">
 		<title>Dhanam - Ungalil Oruthi - EP 283</title>
-		<desc>A debt-ridden man's attempt to report smugglers for a reward backfires, leading to a dangerous pursuit as the criminals seek revenge on him.</desc>
+		<desc>After the death of her husband, a woman become the sole breadwinner of the family.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch135_dhanam_ungalil_oruthi.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="135" start="20260122223000 +0000" stop="20260122230000 +0000">
 		<title>Ayyanar Thunai - EP 303</title>
-		<desc>In a bid to escape her ill-fate, Nila becomes the daughter-in-law of a family with a tainted past. Can she restore their lost hope, or will it shatter hers?</desc>
+		<desc>A newly married woman faces challenges settling in her husband's house and his family.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch135_ayyanar_thunai.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="135" start="20260122230000 +0000" stop="20260122233000 +0000">
 		<title>Magale En Marumagale - EP 126</title>
-		<desc>When tragedy strikes Tulasi, she turns to her matriarchal mother-in-law for solace. As the boundaries blur between affection and captivity, how will she cope?</desc>
+		<desc>Grieving woman's solace from mother-in-law blurs line between care and captivity.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch135_magale_en_marumagale.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="135" start="20260122233000 +0000" stop="20260123000000 +0000">
 		<title>Mahanadhi Sagodharigalin Kadhai - EP 771</title>
-		<desc>When a family loses their father, the sole member of their lives, they take it as a challenge to rise back stronger in all situations.</desc>
+		<desc>Four sisters try to find their place in society after the loss of their father.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch135_mahanadhi_sagodharigalin_kadhai.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="135" start="20260123000000 +0000" stop="20260123003000 +0000">
 		<title>Sindhu Bairavi Kacheri Arambam - EP 264</title>
-		<desc>For her father's word, Bairavi ties the knot with Arumugam, while Siva rejects Sindhu's proposal yet ends up marrying her. How will these couples find solace?</desc>
+		<desc>Two sisters who are worlds apart end up getting married to unexpected partners.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch135_sindhu_bairavi_kacheri_arambam.jpg?w=960&amp;h=540" />
-	</programme>
-	<programme channel="135" start="20260123003000 +0000" stop="20260123010000 +0000">
-		<title>Chinna Marumagal Panirendaam Vaguppu - EP 524</title>
-		<desc>Teen girls' medical dreams are dashed by forced marriage to a patriarchal family. She struggles to adapt while clinging to her aspirations.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch135_chinna_marumagal_panirendaam_vaguppu.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="135" start="20260123010000 +0000" stop="20260123013000 +0000">
 		<title>Pandian Stores Thanthai Sol Mikka Mandhi - EP 696</title>
@@ -6941,7 +6916,7 @@
 	</programme>
 	<programme channel="138" start="20260122113000 +0000" stop="20260122120000 +0000">
 		<title>Thirumangalyam - EP 58</title>
-		<desc>The story of Lakshmi, an innocent orphan raised by her grandmother. Unexpectedly married into a wealthy family, she discovers her husband Nanthan loves his cousin Dhivya. Choosing not to stand in his way, Lakshmi walks away, torn between her dreams and ha</desc>
+		<desc>The story of Lakshmi, an innocent orphan raised by her grandmother. Unexpectedly married into a wealthy family, she discovers her husband Nanthan loves his cousin Dhivya. Choosing not to stand in his way, Lakshmi walks away, torn between her dreams and harsh reality. A heartfelt love triangle woven with deep family drama.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch656_zee_tamil_exclusive.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="138" start="20260122120000 +0000" stop="20260122123000 +0000">
@@ -6976,7 +6951,7 @@
 	</programme>
 	<programme channel="138" start="20260122150000 +0000" stop="20260122153000 +0000">
 		<title>Thirumangalyam - EP 48</title>
-		<desc>The story of Lakshmi, an innocent orphan raised by her grandmother. Unexpectedly married into a wealthy family, she discovers her husband Nanthan loves his cousin Dhivya. Choosing not to stand in his way, Lakshmi walks away, torn between her dreams and ha</desc>
+		<desc>The story of Lakshmi, an innocent orphan raised by her grandmother. Unexpectedly married into a wealthy family, she discovers her husband Nanthan loves his cousin Dhivya. Choosing not to stand in his way, Lakshmi walks away, torn between her dreams and harsh reality. A heartfelt love triangle woven with deep family drama.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch656_zee_tamil_exclusive.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="138" start="20260122153000 +0000" stop="20260122160000 +0000">
@@ -7504,22 +7479,27 @@
 		<desc>Venu, a successful businessman, becomes an obstacle in the way of his rivals.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="140" start="20260122013000 +0000" stop="20260122043000 +0000">
+	<programme channel="140" start="20260122013000 +0000" stop="20260122020000 +0000">
+		<title>Chirikkum Thalika - EP 48</title>
+		<desc>A compilation of various entertaining comedy scenes from various Malayalam movies.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="140" start="20260122020000 +0000" stop="20260122044500 +0000">
 		<title>Sallapam</title>
 		<desc>Radha's life takes a turn when her lover refuses to marry her due to his family problems.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="140" start="20260122043000 +0000" stop="20260122073000 +0000">
+	<programme channel="140" start="20260122044500 +0000" stop="20260122074000 +0000">
 		<title>Janatha Garage</title>
 		<desc>An activist finds his purpose in life after encountering a man who fights for the poor.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="140" start="20260122073000 +0000" stop="20260122103000 +0000">
+	<programme channel="140" start="20260122074000 +0000" stop="20260122102000 +0000">
 		<title>Romancham</title>
 		<desc>Trouble ensues when a group of seven men contact a spirit through their seance.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="140" start="20260122103000 +0000" stop="20260122133000 +0000">
+	<programme channel="140" start="20260122102000 +0000" stop="20260122133000 +0000">
 		<title>Moz &amp; Cat</title>
 		<desc>The lives of two orphans take an unexpected turn when a woman seeks their help.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=341&amp;h=192" />
@@ -9221,7 +9201,7 @@
 	</programme>
 	<programme channel="153" start="20260121233000 +0000" stop="20260122000000 +0000">
 		<title>Focus on Europe</title>
-		<desc>Ukraine: In the "Steppe Wolves" unit, older volunteers support troops on the frontlines. +++ In Italy, Arianna Sacripante and Giorgio Minisini aim to redefine the sport of synchronized swimming.</desc>
+		<desc>Ukraine: In the "Steppe Wolves" unit, older volunteers support troops on the front lines. +++ In Italy, Arianna Sacripante and Giorgio Minisini aim to redefine the sport of artistic swimming.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20260122000000 +0000" stop="20260122000200 +0000">
@@ -9269,14 +9249,9 @@
 		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="153" start="20260122031500 +0000" stop="20260122033000 +0000">
-		<title>Transforming Business</title>
-		<desc>An European biotech company is developing a lab-grown alternative to one of the world's most ubiquitous and controversial ingredients: palm oil. But this oil is made from fermented yeast -- and doesn't drive deforestation and loss of wildlife. Does this small company have the potential to disrupt a growing, $70 billion industry?</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="153" start="20260122033000 +0000" stop="20260122040000 +0000">
-		<title>Eco India</title>
-		<desc>Our lives, livelihoods and much more depend on water. Floods, water scarcity and pollution all impact us. How do we best manage this precious resource?</desc>
+	<programme channel="153" start="20260122031500 +0000" stop="20260122040000 +0000">
+		<title>Conflict Zone</title>
+		<desc>Sarah Kelly interviews</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20260122040000 +0000" stop="20260122041500 +0000">
@@ -9301,7 +9276,7 @@
 	</programme>
 	<programme channel="153" start="20260122053000 +0000" stop="20260122060000 +0000">
 		<title>Focus on Europe</title>
-		<desc>Ukraine: In the "Steppe Wolves" unit, older volunteers support troops on the frontlines. +++ In Italy, Arianna Sacripante and Giorgio Minisini aim to redefine the sport of synchronized swimming.</desc>
+		<desc>Ukraine: In the "Steppe Wolves" unit, older volunteers support troops on the front lines. +++ In Italy, Arianna Sacripante and Giorgio Minisini aim to redefine the sport of artistic swimming.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20260122060000 +0000" stop="20260122061500 +0000">
@@ -9310,8 +9285,8 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20260122061500 +0000" stop="20260122063000 +0000">
-		<title>Transforming Business</title>
-		<desc>An European biotech company is developing a lab-grown alternative to one of the world's most ubiquitous and controversial ingredients: palm oil. But this oil is made from fermented yeast -- and doesn't drive deforestation and loss of wildlife. Does this small company have the potential to disrupt a growing, $70 billion industry?</desc>
+		<title>Interview</title>
+		<desc>A possible new trade war is a key topic at the World Economic Forum in Davos, Switzerland. DW reporter Ashutosh Pandey talks to Rebeca Grynspan, Secretary General of the UN trade organisation UNCTAD.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20260122063000 +0000" stop="20260122070000 +0000">
@@ -9325,8 +9300,8 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20260122071500 +0000" stop="20260122080000 +0000">
-		<title>DocFilm</title>
-		<desc>"Everyone who survived has a story that you simply can't believe." Charlotte Knobloch survived the Holocaust - because farmer's wife Kreszentia Hummel passed her off as her own, illegitimate child and kept her hidden on her farm.</desc>
+		<title>Conflict Zone</title>
+		<desc>Sarah Kelly interviews</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20260122080000 +0000" stop="20260122081500 +0000">
@@ -9339,19 +9314,19 @@
 		<desc>Many women across Asia still lack access to basic education, and even educated women often face significant obstacles at work and in their daily lives. How can women secure their income? How can they succeed in male dominated professions? Are careers compatible with family life? Three women tell us their stories.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="153" start="20260122083000 +0000" stop="20260122090000 +0000">
-		<title>Focus on Europe</title>
-		<desc>Ukraine: In the "Steppe Wolves" unit, older volunteers support troops on the frontlines. +++ In Italy, Arianna Sacripante and Giorgio Minisini aim to redefine the sport of synchronized swimming.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="153" start="20260122090000 +0000" stop="20260122091500 +0000">
+	<programme channel="153" start="20260122083000 +0000" stop="20260122091500 +0000">
 		<title>DW News</title>
 		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="153" start="20260122091500 +0000" stop="20260122100000 +0000">
-		<title>DocFilm</title>
-		<desc>When the sun goes down, India's megacity most intense side comes to light. Queer subculture, everyday slum life and spiritual celebrity culture - Mumbai nightlife could hardly be more diverse. Anything is possible, here!</desc>
+	<programme channel="153" start="20260122091500 +0000" stop="20260122093000 +0000">
+		<title>Interview</title>
+		<desc>A possible new trade war is a key topic at the World Economic Forum in Davos, Switzerland. DW reporter Ashutosh Pandey talks to Rebeca Grynspan, Secretary General of the UN trade organisation UNCTAD.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="153" start="20260122093000 +0000" stop="20260122100000 +0000">
+		<title>Focus on Europe</title>
+		<desc>Ukraine: In the "Steppe Wolves" unit, older volunteers support troops on the front lines. +++ In Italy, Arianna Sacripante and Giorgio Minisini aim to redefine the sport of artistic swimming.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20260122100000 +0000" stop="20260122101500 +0000">
@@ -9376,7 +9351,7 @@
 	</programme>
 	<programme channel="153" start="20260122113000 +0000" stop="20260122120000 +0000">
 		<title>Focus on Europe</title>
-		<desc>Ukraine: In the "Steppe Wolves" unit, older volunteers support troops on the frontlines. +++ In Italy, Arianna Sacripante and Giorgio Minisini aim to redefine the sport of synchronized swimming.</desc>
+		<desc>Ukraine: In the "Steppe Wolves" unit, older volunteers support troops on the front lines. +++ In Italy, Arianna Sacripante and Giorgio Minisini aim to redefine the sport of artistic swimming.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20260122120000 +0000" stop="20260122121500 +0000">
@@ -9416,7 +9391,7 @@
 	</programme>
 	<programme channel="153" start="20260122143000 +0000" stop="20260122150000 +0000">
 		<title>Focus on Europe</title>
-		<desc>Ukraine: In the "Steppe Wolves" unit, older volunteers support troops on the frontlines. +++ In Italy, Arianna Sacripante and Giorgio Minisini aim to redefine the sport of synchronized swimming.</desc>
+		<desc>Ukraine: In the "Steppe Wolves" unit, older volunteers support troops on the front lines. +++ In Italy, Arianna Sacripante and Giorgio Minisini aim to redefine the sport of artistic swimming.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20260122150000 +0000" stop="20260122151500 +0000">
@@ -9481,7 +9456,7 @@
 	</programme>
 	<programme channel="153" start="20260122193000 +0000" stop="20260122200000 +0000">
 		<title>To the Point</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+		<desc>Donald Trump is threatening new tariffs. Will they bring the EU to its knees? Or is it time for Europe to look for new allies and trading partners? Our guests: Stormy-Annika Mildner (Aspen Institute), Melissa Eddy (New York Times), Ulrike Herrmann (author), Rolf Langhammer (Kiel Institute)</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20260122200000 +0000" stop="20260122203000 +0000">
@@ -9521,7 +9496,7 @@
 	</programme>
 	<programme channel="153" start="20260122223000 +0000" stop="20260122230000 +0000">
 		<title>To the Point</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+		<desc>Donald Trump is threatening new tariffs. Will they bring the EU to its knees? Or is it time for Europe to look for new allies and trading partners? Our guests: Stormy-Annika Mildner (Aspen Institute), Melissa Eddy (New York Times), Ulrike Herrmann (author), Rolf Langhammer (Kiel Institute)</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20260122230000 +0000" stop="20260122231500 +0000">
@@ -23526,7 +23501,7 @@
 	</programme>
 	<programme channel="701" start="20260122013000 +0000" stop="20260122020000 +0000">
 		<title>AI Decoded</title>
-		<desc>Join our AI Decoded team as we unpack and take a deep dive into the world of artificial intelligence.</desc>
+		<desc>AI Decoded follows economist and broadcaster Yanis Varoufakis's descent down the rabbit hole of the hundreds of deepfake versions of him flooding the internet.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch701_BBC_news.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="701" start="20260122020000 +0000" stop="20260122023000 +0000">
@@ -24045,9 +24020,9 @@
 		<icon src="https://poster.starhubgo.com/poster/ch241_Gutfeld.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="702" start="20260122090000 +0000" stop="20260122100000 +0000">
-		<title>The Ingraham Angle</title>
-		<desc>Laura Ingraham discusses the issues our counrty is in turmoil about</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch241_TheIngrahamAngle.jpg?w=341&amp;h=192" />
+		<title>The President in Davos</title>
+		<desc>For the latest news, expert analyses and special reports from across the globe, stay tuned for more top quality news programmes right here!</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch241_ThePresidentINDavos.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="702" start="20260122100000 +0000" stop="20260122110000 +0000">
 		<title>FOX &amp; Friends First</title>
@@ -25991,7 +25966,7 @@
 	</programme>
 	<programme channel="708" start="20260122110000 +0000" stop="20260122113000 +0000">
 		<title>The David Rubenstein Show</title>
-		<desc>Kevin Hassett, National Economic Council Director discusses the negative impact of the recent government shutdown on GDP and the administration's strong legal standing on tariffs.</desc>
+		<desc>Jamie Dimon, JPMorgan Chase Chairman &amp; CEO. Philanthropist and financier David Rubenstein uncovers inside stories from the most influential minds in business.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/708_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="708" start="20260122113000 +0000" stop="20260122120000 +0000">
