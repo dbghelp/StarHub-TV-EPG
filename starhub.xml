@@ -1724,6 +1724,11 @@
 		<desc>Explore how city-states like Singapore safeguard sovereignty in a complex world. Host Kelly Latimer examines defence, diplomacy and resilience, revealing ancient wisdom and cutting-edge strategies.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/105_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
+	<programme channel="105" start="20260124120000 +0000" stop="20260124123000 +0000">
+		<title>Comedy Galatta Season 5 - EP 4</title>
+		<desc>Get ready to LOL with a new season of Comedy Galatta!</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/105_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
 	<programme channel="105" start="20260124123000 +0000" stop="20260124130000 +0000">
 		<title>Seithi - EP 298</title>
 		<desc>(Live) Tamil Seithi focuses primarily on local and international news, information and current affairs. Catch the online news portal at http://seithi.mediacorp.sg/</desc>
@@ -6194,35 +6199,10 @@
 		<desc>This is Entertainment Category</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch135_kana_kandenadi.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="135" start="20260124033000 +0000" stop="20260124040000 +0000">
-		<title>Mahanadhi Sagodharigalin Kadhai - EP 772</title>
-		<desc>Four sisters try to find their place in society after the loss of their father.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch135_mahanadhi_sagodharigalin_kadhai.jpg?w=341&amp;h=192" />
-	</programme>
-	<programme channel="135" start="20260124040000 +0000" stop="20260124043000 +0000">
-		<title>Sindhu Bairavi Kacheri Arambam - EP 265</title>
-		<desc>Two sisters who are worlds apart end up getting married to unexpected partners.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch135_sindhu_bairavi_kacheri_arambam.jpg?w=960&amp;h=540" />
-	</programme>
-	<programme channel="135" start="20260124043000 +0000" stop="20260124050000 +0000">
-		<title>Chinna Marumagal Panirendaam Vaguppu - EP 525</title>
-		<desc>A woman's educational aspirations are curtailed by her betrothal to a patriarch's son.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch135_chinna_marumagal_panirendaam_vaguppu.jpg?w=341&amp;h=192" />
-	</programme>
-	<programme channel="135" start="20260124050000 +0000" stop="20260124053000 +0000">
-		<title>Pandian Stores Thanthai Sol Mikka Mandhiram Illai - EP 697</title>
-		<desc>Chaos ensues when a strict father interacts with his three unmarried lazy sons.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch135_pandian_stores_thanthai_sol_mikka_mandhiram_illai.jpg?w=960&amp;h=540" />
-	</programme>
-	<programme channel="135" start="20260124053000 +0000" stop="20260124060000 +0000">
-		<title>Ayyanar Thunai - EP 304</title>
-		<desc>A newly married woman faces challenges settling in her husband's house and his family.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch135_ayyanar_thunai.jpg?w=341&amp;h=192" />
-	</programme>
-	<programme channel="135" start="20260124060000 +0000" stop="20260124070000 +0000">
-		<title>Siragadikka Aasai - EP 909</title>
-		<desc>Meena and Muthukumar face various trials and tribulations in their marriage.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch135_siragadikka_aasai.jpg?w=341&amp;h=192" />
+	<programme channel="135" start="20260124033000 +0000" stop="20260124070000 +0000">
+		<title>Bigg Boss Tamil - EP 106</title>
+		<desc>Contestants live in an isolated house and perform assigned tasks to win the cash prize.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch135_bigg_boss_tamil.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="135" start="20260124070000 +0000" stop="20260124073000 +0000">
 		<title>Sakthivel: Theeyaai Oru Theeraakkaadhal - EP 653</title>
@@ -6244,15 +6224,10 @@
 		<desc>This is a Network Series Category</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch135_suttum_vizhi_sudare_oru_chinanjiru_kuyilin_kadhai.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="135" start="20260124090000 +0000" stop="20260124093000 +0000">
+	<programme channel="135" start="20260124090000 +0000" stop="20260124100000 +0000">
 		<title>Dhanam - Ungalil Oruthi - EP 285</title>
 		<desc>After the death of her husband, a woman become the sole breadwinner of the family.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch135_dhanam_ungalil_oruthi.jpg?w=960&amp;h=540" />
-	</programme>
-	<programme channel="135" start="20260124093000 +0000" stop="20260124100000 +0000">
-		<title>Ayyanar Thunai - EP 304</title>
-		<desc>A newly married woman faces challenges settling in her husband's house and his family.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch135_ayyanar_thunai.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="135" start="20260124100000 +0000" stop="20260124103000 +0000">
 		<title>Chinna Marumagal Panirendaam Vaguppu - EP 61</title>
@@ -9824,19 +9799,44 @@
 		<desc>Karthik's wife Priya is being harassed by a police officer and as a result she ends her life. However, Karthik is held responsible for her death and imprisoned. While in prison, a social worker offers to help him and clear his name.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/159_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="159" start="20260123200000 +0000" stop="20260124040000 +0000">
-		<title>Information Not Available</title>
-		<desc />
+	<programme channel="159" start="20260123200000 +0000" stop="20260123223000 +0000">
+		<title>Movie - Nimidangal</title>
+		<desc>A man manages to find a job in the city. There, he befriends a young girl and finds love. Things change after he falls into the trap of a blackmailer.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/159_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="159" start="20260124040000 +0000" stop="20260124100000 +0000">
-		<title>Information Not Available</title>
-		<desc />
+	<programme channel="159" start="20260123223000 +0000" stop="20260124010000 +0000">
+		<title>Movie - Ninaithaley</title>
+		<desc>Rupa, An Orphan Yet A Self-Made Woman Is Dismayed When Her Marriage Is Called Off On Her Wedding Day. Anand Who Comes To Attend Her Wedding Falls For Her. Will Rupa Give Relationship A Second Chance?</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/159_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="159" start="20260124100000 +0000" stop="20260124160000 +0000">
-		<title>Information Not Available</title>
-		<desc />
+	<programme channel="159" start="20260124010000 +0000" stop="20260124013000 +0000">
+		<title>Fillers</title>
+		<desc>Fillers</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/159_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="159" start="20260124013000 +0000" stop="20260124043000 +0000">
+		<title>Movie - Thambi</title>
+		<desc>Thambi, a young man with a tragic past, wishes to see the city free of crime and violence. In order to succeed in this mission, he tries to reform Shankara Pandian, a notorious gangster.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/159_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="159" start="20260124043000 +0000" stop="20260124073000 +0000">
+		<title>Movie - Pistha</title>
+		<desc>Vennila, the arrogant daughter of a wealthy businessman, gets married to Mani in order to inherit her grandfather's property. However, her life changes when she finds out that Mani is an ex-convict.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/159_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="159" start="20260124073000 +0000" stop="20260124103000 +0000">
+		<title>Movie - Ponmana Chelvan</title>
+		<desc>Raja, the eldest of three brothers, finds out that he is adopted and is shocked to learn the truth. To make matters worse, his brothers start avoiding him but he helps them when they land in trouble.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/159_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="159" start="20260124103000 +0000" stop="20260124133000 +0000">
+		<title>Movie - Aayudham Seiyvom</title>
+		<desc>Sathya, a mechanic, faces trouble as a lawyer files a public nuisance case against him. His life turns for the worst when a politician forces him to steal a file from the same lawyer's office.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/159_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="159" start="20260124133000 +0000" stop="20260124170000 +0000">
+		<title>Movie - Santhosh Subramaniam</title>
+		<desc>Santosh's life is dictated by his father, who decides everything for him. However, when Santosh falls in love with a girl, he struggles to convince his father to let him marry his ladylove.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/159_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="201" start="20260122160000 +0000" stop="20260122200000 +0000">
@@ -10765,57 +10765,62 @@
 		<icon src="https://poster.starhubgo.com/poster/ch211_AOGeneric.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="211" start="20260123143000 +0000" stop="20260123163000 +0000">
-		<title>Best Of AO 2026: Day 6 Match 2</title>
+		<title>Best Of AO 2026 Men's Singles Rd 3 Alcaraz v Moutet</title>
 		<desc>Catch the Best Matches from the Australian Open 2026</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_AOGeneric.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="211" start="20260123163000 +0000" stop="20260123165500 +0000">
-		<title>HSBC SVNS Series 2026: New Zealand vs Australia - Dubai Day 2, Women</title>
+		<title>HSBC SVNS Series 2026 New Zealand vs Australia - Dubai Day 2, Women</title>
 		<desc>Catch the action from the world's very best rugby sevens stars from the top tier of a new three-division global Sevens model, from sunrise to sunset.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_HSBCSVNSSeries2026.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="211" start="20260123165500 +0000" stop="20260123190000 +0000">
-		<title>Super Lig 2025/26: Trabzonspor vs Kasimpasa (Live)</title>
+		<title>Super Lig 2025/26 Trabzonspor vs Kasimpasa (Live)</title>
 		<desc>beIN SPORTS brings you coverage of the Turkish top-flight Super Lig with Fenerbahce battling the defending champion Galatasaray for the title.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_superlig.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="211" start="20260123190000 +0000" stop="20260123192200 +0000">
-		<title>HSBC SVNS3 2026: Tonga vs Colombia - Dubai Day 2, Men</title>
+		<title>HSBC SVNS3 2026 Tonga vs Colombia - Dubai Day 2, Men</title>
 		<desc>Catch the action from the world's very best rugby sevens stars from the top tier of a new three-division global Sevens model, from sunrise to sunset.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_HSBCSVNSSeries2026.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="211" start="20260123192200 +0000" stop="20260123213000 +0000">
-		<title>LaLiga 2 2025/26: Malaga vs Burgos (Live)</title>
+		<title>LaLiga 2 2025/26 Malaga vs Burgos (Live)</title>
 		<desc>Extensive coverage from LaLiga 2, Spain's second division of football.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_laliga_2.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="211" start="20260123213000 +0000" stop="20260123233000 +0000">
-		<title>Best Of AO 2026: Day 6 Match 4</title>
-		<desc>Catch the Best Matches from the Australian Open 2026</desc>
+	<programme channel="211" start="20260123213000 +0000" stop="20260123220000 +0000">
+		<title>Australian Open Classic 2022 Women’s Final Barty v Collins</title>
+		<desc>Relive the best and most memorable Australian Open matches over the years in this series of classics.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_AOGeneric.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="211" start="20260123233000 +0000" stop="20260124003000 +0000">
-		<title>Australian Open H/Ls 2026 Day 6</title>
-		<desc>Daily highlights show reviewing each day of the tournament, the best action and best moments, biggest wins and winners’ celebrations.</desc>
+	<programme channel="211" start="20260123220000 +0000" stop="20260123223000 +0000">
+		<title>Australian Open Classic 2022 Men’s Final Nadal v Medvedev</title>
+		<desc>Relive the best and most memorable Australian Open matches over the years in this series of classics.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_AOGeneric.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="211" start="20260124003000 +0000" stop="20260124074000 +0000">
-		<title>Australian Open 2026: Day 7 (Live)</title>
+	<programme channel="211" start="20260123223000 +0000" stop="20260123233000 +0000">
+		<title>Australian Open Highlights 2026 Day 6</title>
+		<desc>Relive the best and most memorable Australian Open matches over the years in this series of classics.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch211_AOGeneric.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="211" start="20260123233000 +0000" stop="20260124074000 +0000">
+		<title>Australian Open 2026 Day 7 (Live)</title>
 		<desc>The 1st Grand Slam of the year kick start on beIN Sports as the world’s best players battle it out to win the 114th edition of the Australian Open.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_AOGeneric.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="211" start="20260124074000 +0000" stop="20260124130000 +0000">
-		<title>Australian Open 2026: Night 7 (Live)</title>
+		<title>Australian Open 2026 Night 7 (Live)</title>
 		<desc>The 1st Grand Slam of the year kick start on beIN Sports as the world’s best players battle it out to win the 114th edition of the Australian Open.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_AOGeneric.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="211" start="20260124130000 +0000" stop="20260124143000 +0000">
-		<title>Best Of AO 2026: Day 7 Match 1</title>
+		<title>Best Of AO 2026 Day 7 Match 1</title>
 		<desc>Catch the Best Matches from the Australian Open 2026</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_AOGeneric.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="211" start="20260124143000 +0000" stop="20260124163000 +0000">
-		<title>Best Of AO 2026: Day 7 Match 2</title>
+		<title>Best Of AO 2026 Day 7 Match 2</title>
 		<desc>Catch the Best Matches from the Australian Open 2026</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_AOGeneric.jpg?w=341&amp;h=192" />
 	</programme>
@@ -11059,22 +11064,12 @@
 		<desc>Tune in for the coverage of 2025/26 Bundesliga 2, where some of the most prominent teams in German football are vying for a coveted spot in the Bundesliga.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch214_bundesliga2.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="214" start="20260123232000 +0000" stop="20260123235000 +0000">
-		<title>Bundesliga Special 2025/26</title>
-		<desc>Unique insights and behind the scenes stories about Bundesliga clubs and players.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch214_bundesliga_special.jpg?w=960&amp;h=540" />
-	</programme>
-	<programme channel="214" start="20260123235000 +0000" stop="20260124000000 +0000">
+	<programme channel="214" start="20260123232000 +0000" stop="20260123233000 +0000">
 		<title>Bundesliga Club Classic Archive: Augsburg vs Leipzig - 2022/23</title>
 		<desc>Rewind the clock and enjoy some of the classic matches from the Bundesliga.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch214_bundesliga_clubs.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="214" start="20260124000000 +0000" stop="20260124003000 +0000">
-		<title>UEFA Champions League Magazine Show 2025/26</title>
-		<desc>Official magazine show blends match highlights and interviews, epic moments and fascinating features from across Europe</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch214_UCL_magazine_show.jpg?w=341&amp;h=192" />
-	</programme>
-	<programme channel="214" start="20260124003000 +0000" stop="20260124080000 +0000">
+	<programme channel="214" start="20260123233000 +0000" stop="20260124080000 +0000">
 		<title>Australian Open 2026 (2): Day 7 (Live)</title>
 		<desc>The 1st Grand Slam of the year kick starts on beIN Sports as the world’s best players battle it out to win the 114th edition of the Australian Open.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch214_australian_open.jpg?w=341&amp;h=192" />
@@ -11084,10 +11079,15 @@
 		<desc>The 1st Grand Slam of the year kick starts on beIN Sports as the world’s best players battle it out to win the 114th edition of the Australian Open.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch214_australian_open.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="214" start="20260124130000 +0000" stop="20260124140000 +0000">
-		<title>SailGP Highlights 2026</title>
-		<desc>Catch up with highlights, review and behind-the-scenes action from the latest season of SailGP</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch214_sail_gp_highlights.jpg?w=341&amp;h=192" />
+	<programme channel="214" start="20260124130000 +0000" stop="20260124133000 +0000">
+		<title>Bundesliga Special 2025/26</title>
+		<desc>Unique insights and behind the scenes stories about Bundesliga clubs and players.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch214_bundesliga_special.jpg?w=960&amp;h=540" />
+	</programme>
+	<programme channel="214" start="20260124133000 +0000" stop="20260124140000 +0000">
+		<title>UEFA Champions League Magazine Show 2025/26</title>
+		<desc>Official magazine show blends match highlights and interviews, epic moments and fascinating features from across Europe</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch214_UCL_magazine_show.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="214" start="20260124140000 +0000" stop="20260124142000 +0000">
 		<title>MUTV: One Love</title>
@@ -11926,7 +11926,7 @@
 	</programme>
 	<programme channel="222" start="20260124070000 +0000" stop="20260124075500 +0000">
 		<title>PL Moments 2025/26 - EP 3</title>
-		<desc>With 481 Premier League appearances and five titles - Michael Carrick is a Premier League icon. Carrick sits down with Premier League Moments to look back over his glittering career - from the West Ham youth academy through to being a key figure in Sir Alex’s Ferguson’s Manchester United side. In addition to his Premier League career, he also reflects on winning the Champions League, Europa League, the FA Cup as well as his international career.</desc>
+		<desc>With 481 Premier League appearances and five titles - Michael Carrick is a Premier League icon. Carrick sits down with Premier League Moments to look back over his glittering career - from the West Ham youth academy through to being a key figure in Sir Al</desc>
 		<icon src="https://poster.starhubgo.com/poster/PL_Moments_V2.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="222" start="20260124075500 +0000" stop="20260124082500 +0000">
@@ -11936,8 +11936,8 @@
 	</programme>
 	<programme channel="222" start="20260124082500 +0000" stop="20260124085500 +0000">
 		<title>PL Stories 2025/26 - EP 34</title>
-		<desc>We chart the rapid emergence of Fabian Hürzeler, tracing his evolution from a young, inexperienced coach in his native Germany to becoming one of the Premier League’s most progressive managerial voices. With unprecedented behind-the-scenes access at Brighton, Hürzeler opens up on the ideas, influences and leadership principles shaping his footballing philosophy. Revisiting the environments and mentors that defined him, we uncover the innovation that have powered his impact at the highest level.</desc>
-		<icon src="https://poster.starhubgo.com/poster/pl_stories_V2.jpg?w=341&amp;h=192" />
+		<desc>We chart the rapid emergence of Fabian Hürzeler, tracing his evolution from a young, inexperienced coach in his native Germany to becoming one of the Premier League’s most progressive managerial voices. With unprecedented behind-the-scenes access at Brigh</desc>
+		<icon src="https://poster.starhubgo.com/poster/pl_stories_2025_26_ep34.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="222" start="20260124085500 +0000" stop="20260124092500 +0000">
 		<title>Fantasy Show 2025/26 - EP 23</title>
@@ -11956,7 +11956,7 @@
 	</programme>
 	<programme channel="222" start="20260124115000 +0000" stop="20260124122000 +0000">
 		<title>The Big Interview 2025/26 - EP 24</title>
-		<desc>Harry Wilson is having the season of his career, and is one of the league leaders in direct goal involvements. Now in his fourth season at Fulham, the midfielder is on pace to set career highs in both goals and assists this term. This week, the Wales international sits down with the Big Interview to discuss his prolific form and his journey to the Premier League.</desc>
+		<desc>Harry Wilson is having the season of his career, and is one of the league leaders in direct goal involvements. Now in his fourth season at Fulham, the midfielder is on pace to set career highs in both goals and assists this term. This week, the Wales inte</desc>
 		<icon src="https://poster.starhubgo.com/poster/the_big_interview_V3.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="222" start="20260124122000 +0000" stop="20260124142000 +0000">
@@ -22391,7 +22391,7 @@
 	</programme>
 	<programme channel="601" start="20260124023500 +0000" stop="20260124030000 +0000">
 		<title>Hollywood On Set S1 - EP 1153</title>
-		<desc />
+		<desc>Each week Hollywood On Set goes behind-the-scenes on three major movies in production, featuring action footage and interviews with filmmakers.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch601_hollywood_on_set_S1.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="601" start="20260124030000 +0000" stop="20260124052500 +0000">
@@ -27567,7 +27567,7 @@
 	<programme channel="724" start="20260123181000 +0000" stop="20260123190000 +0000">
 		<title>The World This Week</title>
 		<desc>Join host Francois Picard's and his team of Paris-based journalists, as they explore all of the week's most interesting and important news stories. Viewers can react to mentioned stories and the host reads their comments.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch724_the_reporters_week.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch724_the_world_this_week.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="724" start="20260123190000 +0000" stop="20260123191500 +0000">
 		<title>News</title>
@@ -27672,7 +27672,7 @@
 	<programme channel="724" start="20260123231000 +0000" stop="20260124000000 +0000">
 		<title>The World This Week</title>
 		<desc>Join host Francois Picard's and his team of Paris-based journalists, as they explore all of the week's most interesting and important news stories. Viewers can react to mentioned stories and the host reads their comments.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch724_the_reporters_week.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch724_the_world_this_week.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="724" start="20260124000000 +0000" stop="20260124001500 +0000">
 		<title>News</title>
@@ -27727,7 +27727,7 @@
 	<programme channel="724" start="20260124021000 +0000" stop="20260124030000 +0000">
 		<title>The World This Week</title>
 		<desc>Join host Francois Picard's and his team of Paris-based journalists, as they explore all of the week's most interesting and important news stories. Viewers can react to mentioned stories and the host reads their comments.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch724_the_reporters_week.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch724_the_world_this_week.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="724" start="20260124030000 +0000" stop="20260124031500 +0000">
 		<title>News</title>
@@ -27777,7 +27777,7 @@
 	<programme channel="724" start="20260124051200 +0000" stop="20260124060000 +0000">
 		<title>The World This Week</title>
 		<desc>Join host Francois Picard's and his team of Paris-based journalists, as they explore all of the week's most interesting and important news stories. Viewers can react to mentioned stories and the host reads their comments.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch724_the_reporters_week.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch724_the_world_this_week.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="724" start="20260124060000 +0000" stop="20260124062000 +0000">
 		<title>News</title>
@@ -29709,12 +29709,12 @@
 		<desc>The 113th Drama Serial, inspired by the lives of Koizumi Setsu and Lafcadio Hearn also known as Koizumi Yakumo, portrays those who were left behind in the rapidly Westernizing Meiji era. At its heart is a woman captivated by ghost stories and her foreign-born husband. Together, they share a life that seems ordinary yet delightfully odd.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="811" start="20260123040000 +0000" stop="20260123040500 +0000">
+	<programme channel="811" start="20260123040000 +0000" stop="20260123045500 +0000">
 		<title>News</title>
 		<desc>The latest up-to-date news from Tokyo.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="811" start="20260123040500 +0000" stop="20260123055000 +0000">
+	<programme channel="811" start="20260123045500 +0000" stop="20260123055000 +0000">
 		<title>News Around Japan</title>
 		<desc>Program introduces the latest news from all over Japan.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
@@ -29830,7 +29830,7 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="811" start="20260123161300 +0000" stop="20260123161500 +0000">
-		<title>Mini Program</title>
+		<title>Information on Overseas Voting</title>
 		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
@@ -29949,19 +29949,24 @@
 		<desc>The latest up-to-date news and nationwide weather information.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="811" start="20260124010500 +0000" stop="20260124013800 +0000">
+	<programme channel="811" start="20260124010500 +0000" stop="20260124013500 +0000">
 		<title>The Visualization Entertainment: Go! Kaneo-kun (R)</title>
 		<desc>The show is MC-ed by comedian Ariyoshi Hiroiki, who hosts an NHK program on a regular basis for the first time. The mascot character "Kaneo-kun" (voice of Nobu, of comedy duo Chidori), who loves money, visits various places, including popular visiting locations, and looks into different phenomena to learn how money plays a role. The undertaking help unravel unexpected trends in society. The program, which can be enjoyed by every member of the family, offers much food for thought.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="811" start="20260124013800 +0000" stop="20260124014000 +0000">
+	<programme channel="811" start="20260124013500 +0000" stop="20260124014000 +0000">
 		<title>Mini Program</title>
 		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="811" start="20260124014000 +0000" stop="20260124024000 +0000">
+	<programme channel="811" start="20260124014000 +0000" stop="20260124023900 +0000">
 		<title>NHK Special "Gift from Heaven: Living in the Mountain of Shiiba" (R)</title>
 		<desc>A documentary based on timely subjects famous for its dignity and in-depth reporting.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="811" start="20260124023900 +0000" stop="20260124024000 +0000">
+		<title>Information on Overseas Voting</title>
+		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="811" start="20260124024000 +0000" stop="20260124030000 +0000">
@@ -30069,9 +30074,14 @@
 		<desc>A Saturday night show presents the latest news on domestic and foreign affairs with reliable coverage and innovative presentation.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="811" start="20260124130000 +0000" stop="20260124135000 +0000">
+	<programme channel="811" start="20260124130000 +0000" stop="20260124134900 +0000">
 		<title>Unsolved Cases "File 12: Stalker Murders"</title>
 		<desc>NHK Special's iconic series "Unsolved Cases" becomes a standalone program! Through in-depth investigations, the series explores a wide range of cases-from historic incidents that shook society to mysterious local crimes that cast long shadows over communities, both in Japan and abroad. Each episode reveals the enduring impact of these cases on contemporary society and uncovers valuable lessons for the future.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="811" start="20260124134900 +0000" stop="20260124135000 +0000">
+		<title>Information on Overseas Voting</title>
+		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="811" start="20260124135000 +0000" stop="20260124135500 +0000">
@@ -32814,47 +32824,52 @@
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20260124010000 +0000" stop="20260124015900 +0000">
+	<programme channel="832" start="20260124010000 +0000" stop="20260124015100 +0000">
 		<title>A Green Trip</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20260124015900 +0000" stop="20260124030800 +0000">
+	<programme channel="832" start="20260124015100 +0000" stop="20260124025900 +0000">
 		<title>Super Diva</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20260124030800 +0000" stop="20260124035200 +0000">
+	<programme channel="832" start="20260124025900 +0000" stop="20260124032400 +0000">
+		<title>CARE ON THE WAY</title>
+		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="832" start="20260124032400 +0000" stop="20260124040000 +0000">
 		<title>Next Station</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20260124035200 +0000" stop="20260124041900 +0000">
+	<programme channel="832" start="20260124040000 +0000" stop="20260124042700 +0000">
 		<title>China Archaeology Weekly</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20260124041900 +0000" stop="20260124045900 +0000">
+	<programme channel="832" start="20260124042700 +0000" stop="20260124050700 +0000">
 		<title>Amazing 2 cities</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20260124045900 +0000" stop="20260124064500 +0000">
+	<programme channel="832" start="20260124050700 +0000" stop="20260124064800 +0000">
 		<title>Future China</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20260124064500 +0000" stop="20260124074500 +0000">
+	<programme channel="832" start="20260124064800 +0000" stop="20260124073900 +0000">
 		<title>A Green Trip</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20260124074500 +0000" stop="20260124085100 +0000">
+	<programme channel="832" start="20260124073900 +0000" stop="20260124084800 +0000">
 		<title>Ai Romance</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20260124085100 +0000" stop="20260124100000 +0000">
+	<programme channel="832" start="20260124084800 +0000" stop="20260124100000 +0000">
 		<title>Super Diva</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
@@ -32864,27 +32879,27 @@
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20260124105800 +0000" stop="20260124115700 +0000">
+	<programme channel="832" start="20260124105800 +0000" stop="20260124114900 +0000">
 		<title>A Green Trip</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20260124115700 +0000" stop="20260124134400 +0000">
+	<programme channel="832" start="20260124114900 +0000" stop="20260124133000 +0000">
 		<title>Future China</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20260124134400 +0000" stop="20260124145000 +0000">
+	<programme channel="832" start="20260124133000 +0000" stop="20260124143900 +0000">
 		<title>Ai Romance</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20260124145000 +0000" stop="20260124152400 +0000">
+	<programme channel="832" start="20260124143900 +0000" stop="20260124151900 +0000">
 		<title>Cheer up!small shops</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20260124152400 +0000" stop="20260124160000 +0000">
+	<programme channel="832" start="20260124151900 +0000" stop="20260124160000 +0000">
 		<title>A Green Trip</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
@@ -33195,7 +33210,7 @@
 		<icon src="https://poster.starhubgo.com/poster/ch838_midlife_sing_and_shine_4.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="838" start="20260124073000 +0000" stop="20260124080000 +0000">
-		<title>China Resources (Holdings) Co. Ltd. Presents: No Poverty Land V - Odyssey of Int</title>
+		<title>China Resources (Holdings) Co. Ltd. Presents: No Poverty Land V - Odyssey of Intelligence</title>
 		<desc>Follow host Janis Chan and her team as they travel across more than 10 provinces in China, exploring the nation's cutting-edge technological breakthroughs that have transformed society and accelerated development.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch838_no_poverty_land_v_odyssey_of_intelligence.jpg?w=341&amp;h=192" />
 	</programme>
