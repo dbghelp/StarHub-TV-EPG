@@ -10594,9 +10594,14 @@
 		<desc>Top flight men's soccer returns in the ISUZU UTE A-League Men. Catch every moment on SPOTV NOW as 12 teams compete in the regular season with top 4 advancing to a single-game knockout.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_spotv2_logo.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="210" start="20260122223000 +0000" stop="20260123034500 +0000">
+	<programme channel="210" start="20260122223000 +0000" stop="20260123013000 +0000">
 		<title>Reserve Cup Series Miami 2026 (Live)</title>
 		<desc>Reserve Cup Series Miami 2026 features elite padel competition led by celebrity team captains, as top players battle in a high-profile event blending sport, lifestyle, and entertainment.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch210_spotv2_logo.jpg?w=960&amp;h=540" />
+	</programme>
+	<programme channel="210" start="20260123013000 +0000" stop="20260123034500 +0000">
+		<title>25/26 ROSHN Saudi League MW 17 Al Ahli vs Al Khaleej</title>
+		<desc>Prominent professional players take centre-stage in the ROSHN Saudi League. Don't miss a moment of these matches every week. Download SPOTV NOW and catch these live matches and highlights.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_spotv2_logo.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="210" start="20260123034500 +0000" stop="20260123041500 +0000">
@@ -26239,11 +26244,6 @@
 		<desc>The hosts talk with Emmanuel Acho about his reinvention from NFL linebacker to media leader, his show "Uncomfortable Conversations" and his new effort, "Speakeasy."</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/709_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="711" start="20260122160000 +0000" stop="20260122170000 +0000">
-		<title>One World (30m)</title>
-		<desc>Zain Asher and Bianna Golodryga cover the top global and national issues of the day.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch711_one_world_with_zain_asher_and_bianna_golodryga.jpg?w=341&amp;h=192" />
-	</programme>
 	<programme channel="711" start="20260122170000 +0000" stop="20260122180000 +0000">
 		<title>One World (60m)</title>
 		<desc>Zain Asher and Bianna Golodryga cover the top global and national issues of the day.</desc>
@@ -26360,7 +26360,7 @@
 		<icon src="https://poster.starhubgo.com/poster/ch711_connect_the_world.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="711" start="20260123160000 +0000" stop="20260123170000 +0000">
-		<title>One World (60m)</title>
+		<title>One World (30m)</title>
 		<desc>Zain Asher and Bianna Golodryga cover the top global and national issues of the day.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch711_one_world_with_zain_asher_and_bianna_golodryga.jpg?w=341&amp;h=192" />
 	</programme>
