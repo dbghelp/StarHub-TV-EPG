@@ -2001,7 +2001,7 @@
 	</programme>
 	<programme channel="106" start="20260128110000 +0000" stop="20260128120000 +0000">
 		<title>The Mark of Empire: Kingdoms of the Sea - EP 2</title>
-		<desc>Vietnam’s majestic Cham towers are vestiges of a 1,500-year-old kingdom that is no longer. Heritage curator Peter Lee delves into the mysterious civilisation's history and its enduring legacy today.Vietnam’s majestic Cham towers are vestiges of a 1,500-year-old kingdom that is no longer. Heritage curator Peter Lee delves into the mysterious civilisation's history and its enduring legacy today.</desc>
+		<desc>Vietnam’s majestic Cham towers are vestiges of a 1,500-year-old kingdom that is no longer. Heritage curator Peter Lee delves into the mysterious civilisation's history and its enduring legacy today.Vietnam’s majestic Cham towers are vestiges of a 1,500-ye</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="106" start="20260128120000 +0000" stop="20260128130000 +0000">
@@ -27105,14 +27105,14 @@
 		<icon src="https://poster.starhubgo.com/poster/ch711_one_world_with_zain_asher_and_bianna_golodryga.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="711" start="20260126170000 +0000" stop="20260126180000 +0000">
-		<title>One World (45m)</title>
-		<desc>Zain Asher and Bianna Golodryga cover the top global and national issues of the day.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch711_one_world_with_zain_asher_and_bianna_golodryga.jpg?w=341&amp;h=192" />
-	</programme>
-	<programme channel="711" start="20260126180000 +0000" stop="20260126190000 +0000">
 		<title>Amanpour</title>
 		<desc>Christiane Amanpour provides her powerful interview skills and provocative analysis on global stories that matter to you.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch711_amanpour.jpg?w=960&amp;h=540" />
+	</programme>
+	<programme channel="711" start="20260126180000 +0000" stop="20260126190000 +0000">
+		<title>One World (45m)</title>
+		<desc>Zain Asher and Bianna Golodryga cover the top global and national issues of the day.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch711_one_world_with_zain_asher_and_bianna_golodryga.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="711" start="20260126190000 +0000" stop="20260126200000 +0000">
 		<title>Isa Soares Tonight (60m)</title>
@@ -27124,10 +27124,15 @@
 		<desc>Max Foster has a definitive roundup of the day's top stories, giving you the urgent need-to-know context, plus a deeper dive into the questions sparking debate around the world.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch711_what_we_know_with_max_foster.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="711" start="20260126210000 +0000" stop="20260126223000 +0000">
+	<programme channel="711" start="20260126210000 +0000" stop="20260126220000 +0000">
 		<title>Quest Means Business (45m)</title>
 		<desc>Richard Quest speaks to the top names in global business to bring viewers the bottom line.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch711_quest_means_business.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="711" start="20260126220000 +0000" stop="20260126230000 +0000">
+		<title>The Lead with Jake Tapper</title>
+		<desc>Jake Tapper covers all the day's top stories around the country and the globe, from politics to money, sports to popular culture.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch711_the_lead_with_jake_tapper.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="711" start="20260126230000 +0000" stop="20260127000000 +0000">
 		<title>The Brief with Jim Sciutto</title>
@@ -27278,6 +27283,11 @@
 		<title>Laura Coates Live</title>
 		<desc>Laura Coates goes inside the story with a relentless pursuit of the facts.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch711_laura_coates_live.jpg?w=960&amp;h=540" />
+	</programme>
+	<programme channel="711" start="20260128050000 +0000" stop="20260128070000 +0000">
+		<title>The Story Is With Elex Michaelson</title>
+		<desc>Elex Michaelson tackles the breaking stories making headlines with sharp analysis, fresh perspective, and a dose of humor.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch711_the_story_is_with_elex_michaelson.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="711" start="20260128070000 +0000" stop="20260128080000 +0000">
 		<title>CNN Newsroom (CNNI) (60m)</title>
@@ -30491,7 +30501,7 @@
 	</programme>
 	<programme channel="811" start="20260126171000 +0000" stop="20260126173000 +0000">
 		<title>French in a Happy Mood</title>
-		<desc>Let’s learn simple and easy-to-remember phrases, looking at a modern Europe that cherishes its history and traditions while pursuing a lifestyle that fits its stature. Furthermore, we explore tips for "happiness" and various forms of "joy" through the unique European way of thinking and values behind their languages and lifestyles.</desc>
+		<desc>Let’s learn simple and easy-to-remember phrases, looking at a modern Europe that cherishes its history and traditions while pursuing a lifestyle that fits its stature. Furthermore, we explore tips for "happiness" and various forms of "joy" through the uni</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="811" start="20260126173000 +0000" stop="20260126174000 +0000">
@@ -30521,7 +30531,7 @@
 	</programme>
 	<programme channel="811" start="20260126183000 +0000" stop="20260126184500 +0000">
 		<title>Drama Serial "The Ghost Writer's Wife" Ep. 81 (R)</title>
-		<desc>The 113th Drama Serial, inspired by the lives of Koizumi Setsu and Lafcadio Hearn also known as Koizumi Yakumo, portrays those who were left behind in the rapidly Westernizing Meiji era. At its heart is a woman captivated by ghost stories and her foreign-born husband. Together, they share a life that seems ordinary yet delightfully odd.</desc>
+		<desc>The 113th Drama Serial, inspired by the lives of Koizumi Setsu and Lafcadio Hearn also known as Koizumi Yakumo, portrays those who were left behind in the rapidly Westernizing Meiji era. At its heart is a woman captivated by ghost stories and her foreign-</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="811" start="20260126184500 +0000" stop="20260126191200 +0000">
@@ -30540,7 +30550,7 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="811" start="20260126191500 +0000" stop="20260126200000 +0000">
-		<title>Tsurube's Salute to Families "Itagaki Rihito in Yawatahama City, Ehime Prefecture" Part 2 (R)</title>
+		<title>Tsurube's Salute to Families "Itagaki Rihito in Yawatahama City, Ehime Prefectur</title>
 		<desc>Veteran rakugo storyteller Shofukutei Tsurube travels across Japan with a personality, introducing families they meet along the way.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
@@ -30576,7 +30586,7 @@
 	</programme>
 	<programme channel="811" start="20260126230000 +0000" stop="20260126231500 +0000">
 		<title>Drama Serial "The Ghost Writer's Wife" Ep. 82</title>
-		<desc>The 113th Drama Serial, inspired by the lives of Koizumi Setsu and Lafcadio Hearn also known as Koizumi Yakumo, portrays those who were left behind in the rapidly Westernizing Meiji era. At its heart is a woman captivated by ghost stories and her foreign-born husband. Together, they share a life that seems ordinary yet delightfully odd.</desc>
+		<desc>The 113th Drama Serial, inspired by the lives of Koizumi Setsu and Lafcadio Hearn also known as Koizumi Yakumo, portrays those who were left behind in the rapidly Westernizing Meiji era. At its heart is a woman captivated by ghost stories and her foreign-</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="811" start="20260126231500 +0000" stop="20260127005400 +0000">
@@ -30935,8 +30945,8 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="811" start="20260128010500 +0000" stop="20260128022300 +0000">
-		<title>Project X: The Challengers-New Beginnings "Iiyama Tunnel on Hokuriku Shinkansen" (R)</title>
-		<desc>Project X returns for the first time in 18 years. The former series featured people involved in project related to the Japanese industry and contemporary history. The new series focuses on people in the "Lost Era" following the collapse of the bubble economy. In every era, there are always those take on challenges. Even without receiving praise or being in the spotlight, some dedicate themselves to their work. The documentary delivers passion and courage right to you.</desc>
+		<title>Project X: The Challengers-New Beginnings "Iiyama Tunnel on Hokuriku Shinkansen"</title>
+		<desc>Project X returns for the first time in 18 years. The former series featured people involved in project related to the Japanese industry and contemporary history. The new series focuses on people in the "Lost Era" following the collapse of the bubble econ</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="811" start="20260128022300 +0000" stop="20260128025200 +0000">
@@ -30964,14 +30974,19 @@
 		<desc>The commentators present trending news, its background, and engaging information related to daily life in an easy-to -understand manner.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
+	<programme channel="811" start="20260128032800 +0000" stop="20260128033000 +0000">
+		<title>Mini Program</title>
+		<desc />
+		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
 	<programme channel="811" start="20260128033000 +0000" stop="20260128034500 +0000">
 		<title>Drama Serial "Massan" Encore Ep. 23</title>
-		<desc>Masaharu (Tamayama Tetsuji), who travels alone to Scotland to learn the art of whisky making, meets Ellie (Charlotte Kate Fox) and falls in love. Masaharu dreams of creating Japan’s first domestically produced whisky, while Ellie, who has left her homeland and come to Japan for the first time, faces a series of challenges. This is the story of love and adventure as Massan and Ellie, united by the strength of their bond, through a turbulent era with unwavering resolve.</desc>
+		<desc>Masaharu (Tamayama Tetsuji), who travels alone to Scotland to learn the art of whisky making, meets Ellie (Charlotte Kate Fox) and falls in love. Masaharu dreams of creating Japan’s first domestically produced whisky, while Ellie, who has left her homelan</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="811" start="20260128034500 +0000" stop="20260128040000 +0000">
 		<title>Drama Serial "The Ghost Writer's Wife" Ep. 83 (R)</title>
-		<desc>The 113th Drama Serial, inspired by the lives of Koizumi Setsu and Lafcadio Hearn also known as Koizumi Yakumo, portrays those who were left behind in the rapidly Westernizing Meiji era. At its heart is a woman captivated by ghost stories and her foreign-born husband. Together, they share a life that seems ordinary yet delightfully odd.</desc>
+		<desc>The 113th Drama Serial, inspired by the lives of Koizumi Setsu and Lafcadio Hearn also known as Koizumi Yakumo, portrays those who were left behind in the rapidly Westernizing Meiji era. At its heart is a woman captivated by ghost stories and her foreign-</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="811" start="20260128040000 +0000" stop="20260128040500 +0000">
@@ -31106,12 +31121,12 @@
 	</programme>
 	<programme channel="811" start="20260128134500 +0000" stop="20260128140000 +0000">
 		<title>Night Drama Serial "Bravo Extra Noodles!" Eps. 15</title>
-		<desc>When advertising agent Chimoto Karina (Kita Kana) is forced to replace an absent dancer at a balletwear showcase, her day takes an even more unexpected turn: her childhood friend and ballerina Futagi Yumi (Amano Hana) declares that their friendship is over. Shocked, Karina chases answers-only to stumble upon Yumi working at a ramen shop.</desc>
+		<desc>When advertising agent Chimoto Karina (Kita Kana) is forced to replace an absent dancer at a balletwear showcase, her day takes an even more unexpected turn: her childhood friend and ballerina Futagi Yumi (Amano Hana) declares that their friendship is ove</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="811" start="20260128140000 +0000" stop="20260128142900 +0000">
 		<title>Unaginobori LAB: What Makes People Gather</title>
-		<desc>‘Unaginobori’ is a Japanese idiom that describes a rapid and powerful upward surge-like an eel shooting upward. This program uses a uniquely developed a map to track places where people are gathering with unaginobori momentum, revealing the mystery behind these sudden population spikes. Where people gather, there lies the key to unlocking the story of our times!</desc>
+		<desc>‘Unaginobori’ is a Japanese idiom that describes a rapid and powerful upward surge-like an eel shooting upward. This program uses a uniquely developed a map to track places where people are gathering with unaginobori momentum, revealing the mystery behind</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="811" start="20260128142900 +0000" stop="20260128143000 +0000">
