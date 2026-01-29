@@ -2001,7 +2001,7 @@
 	</programme>
 	<programme channel="106" start="20260130090000 +0000" stop="20260130090200 +0000">
 		<title>Headline News 2025/2026 - EP 1074</title>
-		<desc>The latest top stories of the hour.</desc>
+		<desc>(Live) The latest top stories of the hour.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="106" start="20260130090200 +0000" stop="20260130093000 +0000">
@@ -2041,7 +2041,7 @@
 	</programme>
 	<programme channel="106" start="20260130150000 +0000" stop="20260130160000 +0000">
 		<title>Insight - EP 36</title>
-		<desc>Insight investigates and analyses topical issues that impact Asia and the rest of the world.</desc>
+		<desc>The wealth gap between the rich and poor in South Korea is wider than ever. Its elderly poverty rate is the highest among OECD countries. Can South Korea address inequality?</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="107" start="20260128153000 +0000" stop="20260128163000 +0000">
@@ -10386,7 +10386,7 @@
 	</programme>
 	<programme channel="202" start="20260130070000 +0000" stop="20260130080000 +0000">
 		<title>Giants Live 2025</title>
-		<desc>Giants Live is the official, global qualifying tour for the World's Strongest Man (WSM) competition. It features elite strongmen competing in huge arena shows with events like deadlifts, log lifts, and heavy carries, where top finishers earn their "golden</desc>
+		<desc>Giants Live is the official, global qualifying tour for the World's Strongest Man (WSM) competition. It features elite strongmen competing in huge arena shows with events like deadlifts, log lifts, and heavy carries, where top finishers earn their "golden ticket" to the WSM finals.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch202_giants_live.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="202" start="20260130080000 +0000" stop="20260130100000 +0000">
@@ -10403,6 +10403,11 @@
 		<title>NFL GameDay 2025/26</title>
 		<desc>NFL GameDay is a recap of all the previous weekend's NFL action and showcases the Emmyaward-winning cinematography and music composition of NFL Films.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch202_nfl_2024_25.jpg?w=960&amp;h=540" />
+	</programme>
+	<programme channel="202" start="20260130110000 +0000" stop="20260130112000 +0000">
+		<title>The Football Review 2026</title>
+		<desc>Take a look back at the highlights and incidents that shaped the footballing world!</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch202_the_football_review.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="202" start="20260130112000 +0000" stop="20260130133000 +0000">
 		<title>Singapore Premier League 2025/26 Hougang United FC vs Young Lions (Live)</title>
@@ -12296,7 +12301,7 @@
 	</programme>
 	<programme channel="221" start="20260130010000 +0000" stop="20260130013000 +0000">
 		<title>THE BIG INTERVIEW - EP 25</title>
-		<desc>Extended sit-downs and more informal 'out and about' interviews with the Premier League's biggest stars, providing players with a platform to tell their story in their own words.</desc>
+		<desc>In a career spanning 20 years, Petr Cech established himself as one of the greatest goalkeepers the game has ever seen. This week, The Big Interview sits down with the four-time Premier League champion to reflect on his playing career and the mentality it takes to be a goalkeeper at the very pinnacle of world football. Cech reflects on his journey from Plzen to becoming the only player record 200 clean sheets in the Premier League.</desc>
 		<icon src="https://poster.starhubgo.com/poster/the_big_interview_V3.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="221" start="20260130013000 +0000" stop="20260130020000 +0000">
@@ -12321,7 +12326,7 @@
 	</programme>
 	<programme channel="221" start="20260130050000 +0000" stop="20260130053000 +0000">
 		<title>THE BIG INTERVIEW - EP 25</title>
-		<desc>Extended sit-downs and more informal 'out and about' interviews with the Premier League's biggest stars, providing players with a platform to tell their story in their own words.</desc>
+		<desc>In a career spanning 20 years, Petr Cech established himself as one of the greatest goalkeepers the game has ever seen. This week, The Big Interview sits down with the four-time Premier League champion to reflect on his playing career and the mentality it takes to be a goalkeeper at the very pinnacle of world football. Cech reflects on his journey from Plzen to becoming the only player record 200 clean sheets in the Premier League.</desc>
 		<icon src="https://poster.starhubgo.com/poster/the_big_interview_V3.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="221" start="20260130053000 +0000" stop="20260130060000 +0000">
@@ -12356,7 +12361,7 @@
 	</programme>
 	<programme channel="221" start="20260130093000 +0000" stop="20260130100000 +0000">
 		<title>THE BIG INTERVIEW - EP 25</title>
-		<desc>Extended sit-downs and more informal 'out and about' interviews with the Premier League's biggest stars, providing players with a platform to tell their story in their own words.</desc>
+		<desc>In a career spanning 20 years, Petr Cech established himself as one of the greatest goalkeepers the game has ever seen. This week, The Big Interview sits down with the four-time Premier League champion to reflect on his playing career and the mentality it takes to be a goalkeeper at the very pinnacle of world football. Cech reflects on his journey from Plzen to becoming the only player record 200 clean sheets in the Premier League.</desc>
 		<icon src="https://poster.starhubgo.com/poster/the_big_interview_V3.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="221" start="20260130100000 +0000" stop="20260130103000 +0000">
@@ -12376,7 +12381,7 @@
 	</programme>
 	<programme channel="221" start="20260130120000 +0000" stop="20260130130000 +0000">
 		<title>WELCOME TO THE WEEKEND - FRI 30 JAN (Live)</title>
-		<desc>Light-hearted, inclusive and entertaining, Welcome to the Weekend is the show that kicks off the Premier League weekend. We will focus on the football but also on the lifestyle topics that footballers and fans love - food, fashion, music, movies and much, much more.</desc>
+		<desc>Ayo's joined by an artist who's created work for Liverpool players as well as former manager Jurgen Klopp, while Florian Wirtz is with Emil Franchi for a game of Picture This. Plus, the team discuss all the latest news and speculation as the January transfer window approaches its end.</desc>
 		<icon src="https://poster.starhubgo.com/poster/welcome_to_the_weekend_V2.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="221" start="20260130130000 +0000" stop="20260130133000 +0000">
@@ -12391,7 +12396,7 @@
 	</programme>
 	<programme channel="221" start="20260130143000 +0000" stop="20260130150000 +0000">
 		<title>THE BIG INTERVIEW - EP 25</title>
-		<desc>Extended sit-downs and more informal 'out and about' interviews with the Premier League's biggest stars, providing players with a platform to tell their story in their own words.</desc>
+		<desc>In a career spanning 20 years, Petr Cech established himself as one of the greatest goalkeepers the game has ever seen. This week, The Big Interview sits down with the four-time Premier League champion to reflect on his playing career and the mentality it takes to be a goalkeeper at the very pinnacle of world football. Cech reflects on his journey from Plzen to becoming the only player record 200 clean sheets in the Premier League.</desc>
 		<icon src="https://poster.starhubgo.com/poster/the_big_interview_V3.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="221" start="20260130150000 +0000" stop="20260130153000 +0000">
@@ -12752,7 +12757,7 @@
 	<programme channel="241" start="20260128210000 +0000" stop="20260128213000 +0000">
 		<title>Karate 1 Premier League</title>
 		<desc>Rabat, Morocco welcomes one of the most anticipated events in Martial Arts this year as the Karate 1 Premier League returns. The last edition of Karate 1 Premier League in Rabat saw nearly 200 athletes from 44 countries participating in this event, one of the most prestigious in the world of Karate. The World Karate Federation expects another tremendous turnout, featuring Olympic medalists and world-ranked competitors, when the Karate 1 Premier League is back in Rabat, Morocco.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch241_Karate1_premier_league_RABAT.jpg?w=960&amp;h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch241_Karate1_premier_league_fukuoka.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="241" start="20260128213000 +0000" stop="20260128220000 +0000">
 		<title>MMA:30</title>
@@ -12967,7 +12972,7 @@
 	<programme channel="241" start="20260130133000 +0000" stop="20260130140000 +0000">
 		<title>Karate 1 Premier League</title>
 		<desc>Rabat, Morocco welcomes one of the most anticipated events in Martial Arts this year as the Karate 1 Premier League returns. The last edition of Karate 1 Premier League in Rabat saw nearly 200 athletes from 44 countries participating in this event, one of the most prestigious in the world of Karate. The World Karate Federation expects another tremendous turnout, featuring Olympic medalists and world-ranked competitors, when the Karate 1 Premier League is back in Rabat, Morocco.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch241_Karate1_premier_league_RABAT.jpg?w=960&amp;h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch241_Karate1_premier_league_fukuoka.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="241" start="20260130140000 +0000" stop="20260130143000 +0000">
 		<title>KNOCKOUTS! Joe Calzaghe vs. Roy Jones, Jr.</title>
@@ -24111,7 +24116,7 @@
 	</programme>
 	<programme channel="701" start="20260128220000 +0000" stop="20260128223000 +0000">
 		<title>BBC World News America</title>
-		<desc>In-depth reports on the major international and US news of the day presented from Washington DC.</desc>
+		<desc>The BBC presents in-depth reports on the major international and US news of the day presented from Washington DC.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch701_bbc_world_news_america.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="701" start="20260128223000 +0000" stop="20260128230000 +0000">
@@ -24406,7 +24411,7 @@
 	</programme>
 	<programme channel="701" start="20260130013000 +0000" stop="20260130020000 +0000">
 		<title>The Media Show</title>
-		<desc>A global, topical weekly show that lifts the hood on the entertainment and news business. The Media Show explores the companies and personalities who command our attention.</desc>
+		<desc>Media coverage of Brooklyn Beckham's family dispute, reporting on Trump and Greenland, and Australia's under-16s social media ban.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch701_BBC_news.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="701" start="20260130020000 +0000" stop="20260130023000 +0000">
@@ -33962,7 +33967,7 @@
 	<programme channel="838" start="20260129123000 +0000" stop="20260129133000 +0000">
 		<title>The Unusual Prosecutor - EP 9</title>
 		<desc>This legal suspense drama follows Pak Hei-yan, who suffers from mirror-touch synesthesia enabling extreme empathy, and his prosecutors tackling complex crimes via unconventional methods across eight gripping cases, balancing truth, empathy and courtroom battles.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch838_the_unusual_prosecutor.jpg?w=960&amp;h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch838_the_unusual_prosecutor_still_ep9.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="838" start="20260129133000 +0000" stop="20260129143000 +0000">
 		<title>Yummy, Yummy? Yummy! - EP 1</title>
@@ -34107,7 +34112,7 @@
 	<programme channel="838" start="20260130063000 +0000" stop="20260130073000 +0000">
 		<title>Yummy, Yummy? Yummy! &amp; What's On Today - EP 1</title>
 		<desc>TVB Jade brings you endless entertainment with concurrent dramas and sitcoms, as well as the latest news, variety and infotainment programmes from TVB.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch838_tvb_logo.jpg?w=960&amp;h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch838_yummy_yummy_yummy.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="838" start="20260130073000 +0000" stop="20260130080000 +0000">
 		<title>60 Delicacies For Guests</title>
@@ -34157,7 +34162,7 @@
 	<programme channel="838" start="20260130123000 +0000" stop="20260130133000 +0000">
 		<title>The Unusual Prosecutor - EP 10</title>
 		<desc>This legal suspense drama follows Pak Hei-yan, who suffers from mirror-touch synesthesia enabling extreme empathy, and his prosecutors tackling complex crimes via unconventional methods across eight gripping cases, balancing truth, empathy and courtroom battles.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch838_the_unusual_prosecutor.jpg?w=960&amp;h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch838_the_unusual_prosecutor_still_ep10.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="838" start="20260130133000 +0000" stop="20260130143000 +0000">
 		<title>Yummy, Yummy? Yummy! - EP 2</title>
