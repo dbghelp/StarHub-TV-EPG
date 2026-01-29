@@ -1881,7 +1881,7 @@
 	</programme>
 	<programme channel="106" start="20260129090000 +0000" stop="20260129090200 +0000">
 		<title>Headline News 2025/2026 - EP 1072</title>
-		<desc>The latest top stories of the hour.</desc>
+		<desc>(Live) The latest top stories of the hour.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="106" start="20260129090200 +0000" stop="20260129100000 +0000">
@@ -1906,7 +1906,7 @@
 	</programme>
 	<programme channel="106" start="20260129130000 +0000" stop="20260129140000 +0000">
 		<title>Insight - EP 36</title>
-		<desc>Insight investigates and analyses topical issues that impact Asia and the rest of the world.</desc>
+		<desc>The wealth gap between the rich and poor in South Korea is wider than ever. Its elderly poverty rate is the highest among OECD countries. Can South Korea address inequality?</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="106" start="20260129140000 +0000" stop="20260129150000 +0000">
@@ -1956,7 +1956,7 @@
 	</programme>
 	<programme channel="106" start="20260129210000 +0000" stop="20260129220000 +0000">
 		<title>Insight - EP 36</title>
-		<desc>Insight investigates and analyses topical issues that impact Asia and the rest of the world.</desc>
+		<desc>The wealth gap between the rich and poor in South Korea is wider than ever. Its elderly poverty rate is the highest among OECD countries. Can South Korea address inequality?</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="106" start="20260129220000 +0000" stop="20260129230000 +0000">
@@ -7614,22 +7614,22 @@
 		<desc>An evil moneylender tries to malign Velayudhan, who is loved by the villagers.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="140" start="20260129170000 +0000" stop="20260129193000 +0000">
+	<programme channel="140" start="20260129170000 +0000" stop="20260129190500 +0000">
 		<title>Thanneermathan Dinangal</title>
 		<desc>Jaison, a teenager, gets in trouble with Ravi, the new teacher who is liked by everyone.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="140" start="20260129193000 +0000" stop="20260129213000 +0000">
+	<programme channel="140" start="20260129190500 +0000" stop="20260129211000 +0000">
 		<title>Aayudham</title>
 		<desc>Police Officer Rishikesh investigates the reason behind the explosion at Vilayam beach.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="140" start="20260129213000 +0000" stop="20260129233000 +0000">
+	<programme channel="140" start="20260129211000 +0000" stop="20260129234000 +0000">
 		<title>Rosapoo</title>
 		<desc>In a desperate attempt to make ends meet, Shajahan resorts to an unusual venture.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="140" start="20260129233000 +0000" stop="20260130013000 +0000">
+	<programme channel="140" start="20260129234000 +0000" stop="20260130013000 +0000">
 		<title>Malayali</title>
 		<desc>Madhavan is loved by all except his brothers who hate him and even frame him for murder.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=341&amp;h=192" />
@@ -10326,7 +10326,7 @@
 	</programme>
 	<programme channel="202" start="20260129070000 +0000" stop="20260129080000 +0000">
 		<title>Giants Live 2025</title>
-		<desc>Giants Live is the official, global qualifying tour for the World's Strongest Man (WSM) competition. It features elite strongmen competing in huge arena shows with events like deadlifts, log lifts, and heavy carries, where top finishers earn their "golden</desc>
+		<desc>Giants Live is the official, global qualifying tour for the World's Strongest Man (WSM) competition. It features elite strongmen competing in huge arena shows with events like deadlifts, log lifts, and heavy carries, where top finishers earn their "golden ticket" to the WSM finals.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch202_giants_live.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="202" start="20260129080000 +0000" stop="20260129103000 +0000">
@@ -10344,10 +10344,15 @@
 		<desc>The Ultimate Fighting Championship features some of the world's best mixed martial arts exponents on its roster. This is the premier event of the UFC and is traditionally preluded with preliminaries before the main card showdown.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch202_ufc_324_gaethje_vs_pimblett.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="202" start="20260129160000 +0000" stop="20260129200000 +0000">
+	<programme channel="202" start="20260129160000 +0000" stop="20260129193000 +0000">
 		<title>HSBC BWF World Tour 2026 DAIHATSU Indonesia Masters (S500) SF S1</title>
 		<desc>The Indonesia Masters is an annual international badminton tournament held in Indonesia. It has been classified as a Super 500 event on the BWF World Tour since 2018. It is typically held at the iconic Istora Gelora Bung Karno in Jakarta.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch202_bwf_world_tour_2026_daihatsu_indonesia_masters.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="202" start="20260129193000 +0000" stop="20260129200000 +0000">
+		<title>The Football Review 2026</title>
+		<desc>Take a look back at the highlights and incidents that shaped the footballing world!</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch202_the_football_review.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="202" start="20260129200000 +0000" stop="20260129210000 +0000">
 		<title>World's Strongest Man 2025</title>
@@ -10398,11 +10403,6 @@
 		<title>NFL GameDay 2025/26</title>
 		<desc>NFL GameDay is a recap of all the previous weekend's NFL action and showcases the Emmyaward-winning cinematography and music composition of NFL Films.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch202_nfl_2024_25.jpg?w=960&amp;h=540" />
-	</programme>
-	<programme channel="202" start="20260130110000 +0000" stop="20260130112000 +0000">
-		<title>The Football Review 2026</title>
-		<desc>Take a look back at the highlights and incidents that shaped the footballing world!</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch202_the_football_review.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="202" start="20260130112000 +0000" stop="20260130133000 +0000">
 		<title>Singapore Premier League 2025/26 Hougang United FC vs Young Lions (Live)</title>
@@ -12787,7 +12787,7 @@
 	<programme channel="241" start="20260129030000 +0000" stop="20260129033000 +0000">
 		<title>Karate 1 Premier League</title>
 		<desc>Rabat, Morocco welcomes one of the most anticipated events in Martial Arts this year as the Karate 1 Premier League returns. The last edition of Karate 1 Premier League in Rabat saw nearly 200 athletes from 44 countries participating in this event, one of the most prestigious in the world of Karate. The World Karate Federation expects another tremendous turnout, featuring Olympic medalists and world-ranked competitors, when the Karate 1 Premier League is back in Rabat, Morocco.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch241_Karate1_premier_league_RABAT.jpg?w=960&amp;h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch241_Karate1_premier_league_fukuoka.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="241" start="20260129033000 +0000" stop="20260129040000 +0000">
 		<title>MMA:30</title>
@@ -12822,7 +12822,7 @@
 	<programme channel="241" start="20260129090000 +0000" stop="20260129093000 +0000">
 		<title>Karate 1 Premier League</title>
 		<desc>Rabat, Morocco welcomes one of the most anticipated events in Martial Arts this year as the Karate 1 Premier League returns. The last edition of Karate 1 Premier League in Rabat saw nearly 200 athletes from 44 countries participating in this event, one of the most prestigious in the world of Karate. The World Karate Federation expects another tremendous turnout, featuring Olympic medalists and world-ranked competitors, when the Karate 1 Premier League is back in Rabat, Morocco.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch241_Karate1_premier_league_RABAT.jpg?w=960&amp;h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch241_Karate1_premier_league_fukuoka.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="241" start="20260129093000 +0000" stop="20260129100000 +0000">
 		<title>MMA:30</title>
@@ -24121,7 +24121,7 @@
 	</programme>
 	<programme channel="701" start="20260128230000 +0000" stop="20260129000000 +0000">
 		<title>BBC World News America</title>
-		<desc>In-depth reports on the major international and US news of the day presented from Washington DC.</desc>
+		<desc>The BBC presents in-depth reports on the major international and US news of the day presented from Washington DC.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch701_bbc_world_news_america.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="701" start="20260129000000 +0000" stop="20260129003000 +0000">
@@ -24376,17 +24376,17 @@
 	</programme>
 	<programme channel="701" start="20260129220000 +0000" stop="20260129223000 +0000">
 		<title>BBC World News America</title>
-		<desc>In-depth reports on the major international and US news of the day presented from Washington DC.</desc>
+		<desc>The BBC presents in-depth reports on the major international and US news of the day presented from Washington DC.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch701_bbc_world_news_america.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="701" start="20260129223000 +0000" stop="20260129230000 +0000">
 		<title>BBC World News America</title>
-		<desc>In-depth reports on the major international and US news of the day presented from Washington DC.</desc>
+		<desc>The BBC presents in-depth reports on the major international and US news of the day presented from Washington DC.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch701_bbc_world_news_america.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="701" start="20260129230000 +0000" stop="20260130000000 +0000">
 		<title>BBC World News America</title>
-		<desc>In-depth reports on the major international and US news of the day presented from Washington DC.</desc>
+		<desc>The BBC presents in-depth reports on the major international and US news of the day presented from Washington DC.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch701_bbc_world_news_america.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="701" start="20260130000000 +0000" stop="20260130003000 +0000">
