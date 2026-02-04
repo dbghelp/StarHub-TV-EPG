@@ -10339,12 +10339,12 @@
 		<desc>The World's Strongest Man is the premier annual international strongman competition, established in 1977, that tests athletes' pure physical strength, power, and endurance through a series of brutal events like lifting immense weights.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch202_world_strongest_man_2025.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="202" start="20260204010000 +0000" stop="20260204030000 +0000">
+	<programme channel="202" start="20260204010000 +0000" stop="20260204035000 +0000">
 		<title>NFL 2025/26 Pro Bowl Games Championship (Live)</title>
 		<desc>Follow us for the thrilling 2025/26 NFL season as teams battle for glory. The Philadelphia Eagles defend their Super Bowl crown, facing fierce rivals and rising stars in America's ultimate football showdown.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch202_nfl202526_pro_bowl_games_championship.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="202" start="20260204030000 +0000" stop="20260204080000 +0000">
+	<programme channel="202" start="20260204035000 +0000" stop="20260204080000 +0000">
 		<title>TSINGTAO Badminton Asia Team C'ships 2026 D1 Morning Session: China vs Malaysia</title>
 		<desc>The TSINGTAO Badminton Asia Team Championships 2026 is the 6th edition of the premier Asian badminton team event, held in Qingdao, China, crowning Asia's top men's and women's teams competing in singles and doubles formats for continental glory.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch202_tsingtao_badminton_asia_team_cships_2026.jpg?w=960&amp;h=540" />
@@ -10989,20 +10989,15 @@
 		<desc>Experience the most memorable MotoGP races from 1992 to 2016. This classic collection revisits legendary battles, dramatic twists, and the riders who defined an era of two-wheeled greatness.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_motogp.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="210" start="20260204133000 +0000" stop="20260204143000 +0000">
-		<title>MotoGP 2026 Team Presentation</title>
-		<desc>Engines ignite as the 2026 MotoGP team is revealed. Fresh livery, bold ambition &amp; pure speed set the stage for a relentless chase for glory. Download SPOTV NOW &amp; watch season 2026 live races &amp; highlights.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch210_motogp.jpg?w=960&amp;h=540" />
-	</programme>
-	<programme channel="210" start="20260204143000 +0000" stop="20260204163000 +0000">
-		<title>25/26 A-League Men Round 15 Perth Glory vs Auckland FC</title>
-		<desc>Top flight men's soccer returns in the ISUZU UTE A-League Men. Catch every moment on SPOTV NOW as 12 teams compete in the regular season with top 4 advancing to a single-game knockout.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch210_spotv2_logo.jpg?w=960&amp;h=540" />
-	</programme>
-	<programme channel="210" start="20260204163000 +0000" stop="20260205020000 +0000">
+	<programme channel="210" start="20260204133000 +0000" stop="20260204230000 +0000">
 		<title>Generali Hexagon Cup 2026</title>
 		<desc>Hexagon Cup is born as a tribute to padel under a revolutionary format, with the best players competing in mixed-gender teams for the biggest prize.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_spotv2_logo.jpg?w=960&amp;h=540" />
+	</programme>
+	<programme channel="210" start="20260204230000 +0000" stop="20260205010000 +0000">
+		<title>2026 NASCAR Cup Series (Live)</title>
+		<desc>Feel the adrenaline as NASCAR's top drivers battle wheel-to-wheel across iconic tracks, delivering high-speed action, bold overtakes, and championship drama all season long.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch210_motorsports.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="210" start="20260205020000 +0000" stop="20260205030000 +0000">
 		<title>MotoGP Classic</title>
