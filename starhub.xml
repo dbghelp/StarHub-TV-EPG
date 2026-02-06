@@ -2366,12 +2366,12 @@
 	</programme>
 	<programme channel="107" start="20260207070000 +0000" stop="20260207080000 +0000">
 		<title>Miss Monte Cristo - EP 41</title>
-		<desc>(Dual Language Mandarin and Korean) This is a suspenseful revenge drama about a woman whose life was destroyed by the friends she trusted most. After making up her mind to take revenge on those who betrayed her, she returns to reclaim the life that was stolen from her.</desc>
+		<desc>(Dual Language Chinese and Korean) This is a suspenseful revenge drama about a woman whose life was destroyed by the friends she trusted most. After making up her mind to take revenge on those who betrayed her, she returns to reclaim the life that was stolen from her.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/107_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="107" start="20260207080000 +0000" stop="20260207090000 +0000">
 		<title>Miss Monte Cristo - EP 42</title>
-		<desc>(Dual Language Mandarin and Korean) This is a suspenseful revenge drama about a woman whose life was destroyed by the friends she trusted most. After making up her mind to take revenge on those who betrayed her, she returns to reclaim the life that was stolen from her.</desc>
+		<desc>(Dual Language Chinese and Korean) This is a suspenseful revenge drama about a woman whose life was destroyed by the friends she trusted most. After making up her mind to take revenge on those who betrayed her, she returns to reclaim the life that was stolen from her.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/107_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="107" start="20260207090000 +0000" stop="20260207100000 +0000">
@@ -2381,7 +2381,7 @@
 	</programme>
 	<programme channel="107" start="20260207100000 +0000" stop="20260207110000 +0000">
 		<title>Gold Mask - EP 26</title>
-		<desc>(Dual Language Mandarin and Korean) The drama tells the story of finding the answer to life in a mad fight between three women due to a tragedy caused by false desires and greed.</desc>
+		<desc>(Dual Language Chinese and Korean) The drama tells the story of finding the answer to life in a mad fight between three women due to a tragedy caused by false desires and greed.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/107_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="107" start="20260207110000 +0000" stop="20260207123000 +0000">
@@ -24636,7 +24636,7 @@
 	</programme>
 	<programme channel="701" start="20260207033000 +0000" stop="20260207040000 +0000">
 		<title>The Media Show</title>
-		<desc>A global, topical weekly show that lifts the hood on the entertainment and news business. The Media Show explores the companies and personalities who command our attention.</desc>
+		<desc>How journalists are covering the Epstein Files, debate over TV access to professional athletes, and the impact of a cancelled Moon mission on space reporting.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch701_BBC_news.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="701" start="20260207040000 +0000" stop="20260207043000 +0000">
@@ -24646,7 +24646,7 @@
 	</programme>
 	<programme channel="701" start="20260207043000 +0000" stop="20260207050000 +0000">
 		<title>The Travel Show</title>
-		<desc>Barcelona's Sagrada Familia has recently become the world's tallest church, on the 100th anniversary of the death of its creator Antoni Gaudi, the Travel Show visits the basilica.</desc>
+		<desc>Barcelona's Sagrada Familia has recently become the world's tallest church, on the 100th anniversary of the death of its creator Antoni Gaudi, The Travel Show visits the basilica.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch701_the_travel_show.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="701" start="20260207050000 +0000" stop="20260207053000 +0000">
@@ -24686,7 +24686,7 @@
 	</programme>
 	<programme channel="701" start="20260207083000 +0000" stop="20260207090000 +0000">
 		<title>Global Eye</title>
-		<desc>A weekly programme from the BBC World Service, bringing forensic journalism from all corners of the world.</desc>
+		<desc>The foreigners lured to fight on the front line for Russia, and more than a year on from the fall of Bashar al-Assad, Lyse Doucet reports from Damascus on the challenges of building a new Syria.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch701_BBC_news.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="701" start="20260207090000 +0000" stop="20260207100000 +0000">
@@ -24711,8 +24711,8 @@
 	</programme>
 	<programme channel="701" start="20260207113000 +0000" stop="20260207120000 +0000">
 		<title>Unspun World with John Simpson</title>
-		<desc>Unspun World provides an unvarnished version of the week's major global news stories - reliable, honest and essential viewing with the BBC's world affairs editor John Simpson.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch701_BBC_news.jpg?w=341&amp;h=192" />
+		<desc>John Simpson looks at the dangers facing the Iranian clerical regime, explores whether peace talks on the war in Ukraine can succeed, and analyses who is actually governing Venezuela.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch701_unspun_world_with_john_simpson.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="701" start="20260207120000 +0000" stop="20260207123000 +0000">
 		<title>BBC News</title>
@@ -24741,7 +24741,7 @@
 	</programme>
 	<programme channel="701" start="20260207143000 +0000" stop="20260207150000 +0000">
 		<title>The Media Show</title>
-		<desc>A global, topical weekly show that lifts the hood on the entertainment and news business. The Media Show explores the companies and personalities who command our attention.</desc>
+		<desc>How journalists are covering the Epstein Files, debate over TV access to professional athletes, and the impact of a cancelled Moon mission on space reporting.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch701_BBC_news.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="701" start="20260207150000 +0000" stop="20260207153000 +0000">
@@ -27419,7 +27419,12 @@
 		<desc>Laura Coates goes inside the story with a relentless pursuit of the facts.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch711_laura_coates_live.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="711" start="20260207050000 +0000" stop="20260207070000 +0000">
+	<programme channel="711" start="20260207050000 +0000" stop="20260207060000 +0000">
+		<title>The Story Is With Elex Michaelson</title>
+		<desc>Elex Michaelson tackles the breaking stories making headlines with sharp analysis, fresh perspective, and a dose of humor.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch711_the_story_is_with_elex_michaelson.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="711" start="20260207060000 +0000" stop="20260207070000 +0000">
 		<title>The Story Is With Elex Michaelson</title>
 		<desc>Elex Michaelson tackles the breaking stories making headlines with sharp analysis, fresh perspective, and a dose of humor.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch711_the_story_is_with_elex_michaelson.jpg?w=341&amp;h=192" />
@@ -34340,7 +34345,7 @@
 		<icon src="https://poster.starhubgo.com/poster/ch838_midlife_sing_and_shine_4.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="838" start="20260207073000 +0000" stop="20260207080000 +0000">
-		<title>China Resources (Holdings) Co. Ltd. Presents: No Poverty Land V - Odyssey of Intelligence</title>
+		<title>China Resources (Holdings) Co. Ltd. Presents: No Poverty Land V - Odyssey of Int</title>
 		<desc>Follow host Janis Chan and her team as they travel across more than 10 provinces in China, exploring the nation's cutting-edge technological breakthroughs that have transformed society and accelerated development.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch838_no_poverty_land_v_odyssey_of_intelligence.jpg?w=341&amp;h=192" />
 	</programme>
