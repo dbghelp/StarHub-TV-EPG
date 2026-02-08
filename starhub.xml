@@ -9514,17 +9514,12 @@
 		<desc>The Qatar Open is a professional tennis WTA 1000 tournament held in Doha, Qatar. It is played on outdoor hardcourts at the Khalifa International Tennis and Squash Complex, which has a capacity of 6,911.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch201_WTA_Tour_1000_Generic.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="202" start="20260207160000 +0000" stop="20260207180000 +0000">
+	<programme channel="202" start="20260207160000 +0000" stop="20260207184700 +0000">
 		<title>ATP Tour 2026 Open Occitanie (250) SF 2 (Live)</title>
 		<desc>The Open Occitanie is a professional men's tennis tournament held annually in Montpellier, France featuring top international players on indoor hardcourts at the Sud de France Arena. The event was founded in 1987 and combines top-level sports and entertainment.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch202_ATP_250_Open_Occitanie.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="202" start="20260207180000 +0000" stop="20260207183000 +0000">
-		<title>The Football Review 2026</title>
-		<desc>Take a look back at the highlights and incidents that shaped the footballing world!</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch202_the_football_review.jpg?w=960&amp;h=540" />
-	</programme>
-	<programme channel="202" start="20260207183000 +0000" stop="20260207190000 +0000">
+	<programme channel="202" start="20260207184700 +0000" stop="20260207190000 +0000">
 		<title>Total Combat 2026</title>
 		<desc>The first of its kind program covering all disciplines of combat sports including MMA, boxing, kickboxing, muay thai and more.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch202_total_combat_2024.jpg?w=341&amp;h=192" />
@@ -10670,7 +10665,7 @@
 		<icon src="https://poster.starhubgo.com/poster/ch213_laliga.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="213" start="20260208194000 +0000" stop="20260208195500 +0000">
-		<title>LaLiga Goals Galore 2024/25</title>
+		<title>LaLiga Goals Galore 2024/25: Julian Alvarez</title>
 		<desc>Relive every goal from the best players in 2024/25 season.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch213_laliga_goals_galore.jpg?w=960&amp;h=540" />
 	</programme>
@@ -10685,19 +10680,19 @@
 		<icon src="https://poster.starhubgo.com/poster/ch213_laliga.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="213" start="20260208235000 +0000" stop="20260209014000 +0000">
-		<title>LaLiga 2025/26: Alaves vs Getafe</title>
+		<title>LaLiga 2 2025/26: Cadiz vs Almeria</title>
 		<desc>Extensive coverage from every round of the Spanish LaLiga, Spain's top division of football with the World's biggest teams.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch213_laliga.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="213" start="20260209014000 +0000" stop="20260209033000 +0000">
 		<title>LaLiga 2 2025/26: Valladolid vs Castellon</title>
-		<desc>Extensive coverage from LaLiga 2, Spain's second division of football.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch213_laliga_2.jpg?w=960&amp;h=540" />
+		<desc>Extensive coverage from every round of the Spanish LaLiga, Spain's top division of football with the World's biggest teams.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch213_laliga.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="213" start="20260209033000 +0000" stop="20260209053000 +0000">
-		<title>Super Lig 2025/26: Besiktas vs Alanyaspor</title>
-		<desc>beIN SPORTS brings you coverage of the Turkish top-flight Super Lig with Fenerbahce battling the defending champion Galatasaray for the title.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch213_superlig.jpg?w=341&amp;h=192" />
+		<title>LaLiga 2025/26: Sevilla vs Girona</title>
+		<desc>Extensive coverage from every round of the Spanish LaLiga, Spain's top division of football with the World's biggest teams.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch213_laliga.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="213" start="20260209053000 +0000" stop="20260209060000 +0000">
 		<title>Mini Match - UEFA Europa League 2025/26: Basel vs Aston Villa - MD6</title>
