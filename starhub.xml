@@ -2169,9 +2169,14 @@
 		<desc>A daily wellness duo that strengthens bones, supports joints, and protects eyesight. Bone Health Formula combines Japanese shell-derived calcium, fish collagen, and chondroitin to reinforce bones and joints, while Eyes Nourisher adds Japanese blueberries, carrots, and lutein to reduce eye fatigue, filter blue light, and maintain clear vision.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/107_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="107" start="20260210061400 +0000" stop="20260210061600 +0000">
-		<title>The Wonder Shop - EP 307</title>
-		<desc>Ju Xing Ji Exclusive Tangerine Flavour Bak Kwa is created by Mediacorp Artistes Pan Ling Ling and Xiang Yun with heritage brand Jin Yu Yuan. Made from fresh Australian pork leg and premium Jeju Hanrabong citrus, it is charcoal grilled by hand for a tender, naturally fragrant finish. Each set comes elegantly presented on a food-grade Jufu acacia wood tray - the perfect gift for your loved ones.</desc>
+	<programme channel="107" start="20260210061400 +0000" stop="20260210061500 +0000">
+		<title>The Wonder Shop - EP 302</title>
+		<desc>When Hazelle walks into an empty office, she discovers a full-blown flu outbreak! Find out how Hazelle uses the 2-in-1 Humidifier and Purifier to fight back against stale air, germs, and dry office conditions.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/107_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="107" start="20260210061500 +0000" stop="20260210061600 +0000">
+		<title>The Wonder Shop - EP 301</title>
+		<desc>What starts as another chaotic workday turns into a full-blown chair investigation! From posture analysis to ergonomic upgrades, Zeliang’s on a mission to save Hazelle (and her spine) from bad office habits. Discover how a few smart adjustments and one seriously comfy chair can make every hour at your desk feel a whole lot lighter!</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/107_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="107" start="20260210061600 +0000" stop="20260210063000 +0000">
@@ -2257,11 +2262,6 @@
 	<programme channel="107" start="20260210220000 +0000" stop="20260211025700 +0000">
 		<title>End of Transmission</title>
 		<desc />
-		<icon src="https://poster.starhubgo.com/Linear_channels2/107_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="107" start="20260211025700 +0000" stop="20260211031400 +0000">
-		<title>The Wonder Shop - EP 274</title>
-		<desc>Kampo Blood Clean Supplement combines traditional herbal wisdom with modern wellness needs. Helps normalize blood pressure, blood sugar, and cholesterol levels. Helps to promote clear, flexible, and elastic blood vessels, reducing stroke risk. Kampo Anti-dampness capsules help remove excess dampness from the body and balance internal energy for optimal health. Helps eliminate edema and reduce water retention.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/107_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="107" start="20260211031400 +0000" stop="20260211031600 +0000">
@@ -4841,7 +4841,7 @@
 	</programme>
 	<programme channel="128" start="20260210040000 +0000" stop="20260210043000 +0000">
 		<title>DR. Aarambhi - EP 9</title>
-		<desc>Aarambhi, an ex-AIPMT star trapped in chores, fights to revive her forgotten dream.</desc>
+		<desc>Vishwas stuns Avantika by telling her how he can have custody post Aarambhi's death.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch128_dr_aarambhi.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="128" start="20260210043000 +0000" stop="20260210050000 +0000">
@@ -7574,22 +7574,22 @@
 		<desc>Following an incident, Pullu Giri gets dragged into the affairs of some local gangs.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="140" start="20260210163000 +0000" stop="20260210193000 +0000">
+	<programme channel="140" start="20260210163000 +0000" stop="20260210192000 +0000">
 		<title>Neru</title>
 		<desc>Aiming to seek justice, a visually-impaired sculptor joins hands with a disbarred lawyer.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="140" start="20260210193000 +0000" stop="20260210213000 +0000">
+	<programme channel="140" start="20260210192000 +0000" stop="20260210215000 +0000">
 		<title>Achammakuttiyude Achayan</title>
 		<desc>Achamma's life turns upside down when she bumps into her ex-husband, John.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="140" start="20260210213000 +0000" stop="20260210233000 +0000">
+	<programme channel="140" start="20260210215000 +0000" stop="20260210232000 +0000">
 		<title>Aanum Pennum</title>
 		<desc>An anthology of female-centric stories set in different timelines in history.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="140" start="20260210233000 +0000" stop="20260211013000 +0000">
+	<programme channel="140" start="20260210232000 +0000" stop="20260211013000 +0000">
 		<title>Love 24x7</title>
 		<desc>The love story of two media executives takes an unexpected turn due to unforeseen events.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=341&amp;h=192" />
@@ -10109,14 +10109,14 @@
 		<desc>Ravi, an assistant director, struggles to direct his first movie. He falls in love with a dancer, Sandya. This film is about Ravi's struggles both in the film industry and in life.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/159_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="159" start="20260210200000 +0000" stop="20260210220000 +0000">
-		<title>Information Not Available</title>
-		<desc />
+	<programme channel="159" start="20260210200000 +0000" stop="20260210223000 +0000">
+		<title>Movie - Sindanai Sei</title>
+		<desc>Aadhi meets his childhood friends in the city who struggle to make ends meet. Together, they successfully execute a bank robbery. However, they get killed one after another after the robbery.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/159_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="159" start="20260210220000 +0000" stop="20260211040000 +0000">
-		<title>Information Not Available</title>
-		<desc />
+	<programme channel="159" start="20260210223000 +0000" stop="20260211010000 +0000">
+		<title>Movie - Sindhubath</title>
+		<desc>Sindhu Bath is a 1995 Tamil drama film directed by Balu Anand, starring Mansoor Ali Khan, Kasthuri and Sanghavi in the lead roles.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/159_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="159" start="20260211040000 +0000" stop="20260211100000 +0000">
@@ -10584,7 +10584,12 @@
 		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_channels2/205_1920x1080_HTV.png?w=960&amp;h=540" />
 	</programme>
-	<programme channel="206" start="20260209160000 +0000" stop="20260209183000 +0000">
+	<programme channel="206" start="20260209141500 +0000" stop="20260209170000 +0000">
+		<title>ATP Tour 2026 ABN Amro Open (500) D1 R1 S2 (Live)</title>
+		<desc>The ABN AMRO Open is a prestigious, long-running ATP 500 indoor hard-court tennis tournament held annually at Rotterdam Ahoy in the Netherlands. It has been held since 1974 and is considered one of the most innovative tournaments of the tour, both by the ATP and the other tournaments.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch201_ATPTour2026ABNAmroOpen500.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="206" start="20260209170000 +0000" stop="20260209183000 +0000">
 		<title>End of Transmission</title>
 		<desc>End of Transmission</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/206_1920x1080_HTV.png?w=960&amp;h=540" />
@@ -11129,27 +11134,27 @@
 		<desc>The official global Padel tour. Catch world’s top players battle it out across the globe.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_premier_padel.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="211" start="20260210190000 +0000" stop="20260210191500 +0000">
+	<programme channel="211" start="20260210190000 +0000" stop="20260210191000 +0000">
 		<title>Premier Padel Match H/Ls 2025 Mexico Major Men</title>
 		<desc>Men &amp; Women's Final Match Highlights from Premier Padel Tour 2025</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_premier_padel.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="211" start="20260210191500 +0000" stop="20260210194000 +0000">
+	<programme channel="211" start="20260210191000 +0000" stop="20260210193500 +0000">
 		<title>HSBC SVNS Series 2026: Australia vs Canada - Perth Day 1, Women</title>
 		<desc>Catch the action from the world's very best rugby sevens stars from the top tier of a new three-division global Sevens model, from sunrise to sunset.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_HSBCSVNSSeries2026.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="211" start="20260210194000 +0000" stop="20260210200500 +0000">
+	<programme channel="211" start="20260210193500 +0000" stop="20260210200000 +0000">
 		<title>HSBC SVNS Series 2026: Spain vs Argentina - Perth Day 1, Men</title>
 		<desc>Catch the action from the world's very best rugby sevens stars from the top tier of a new three-division global Sevens model, from sunrise to sunset.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_HSBCSVNSSeries2026.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="211" start="20260210200500 +0000" stop="20260210203000 +0000">
+	<programme channel="211" start="20260210200000 +0000" stop="20260210202500 +0000">
 		<title>HSBC SVNS Series 2026: Fiji vs South Africa - Perth Day 1, Men</title>
 		<desc>Catch the action from the world's very best rugby sevens stars from the top tier of a new three-division global Sevens model, from sunrise to sunset.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_HSBCSVNSSeries2026.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="211" start="20260210203000 +0000" stop="20260210205500 +0000">
+	<programme channel="211" start="20260210202500 +0000" stop="20260210205500 +0000">
 		<title>HSBC SVNS Series 2026: France vs New Zealand - Perth Day 1, Men</title>
 		<desc>Catch the action from the world's very best rugby sevens stars from the top tier of a new three-division global Sevens model, from sunrise to sunset.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_HSBCSVNSSeries2026.jpg?w=960&amp;h=540" />
@@ -11365,14 +11370,14 @@
 		<icon src="https://poster.starhubgo.com/poster/ch213_laliga_archive.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="213" start="20260210175000 +0000" stop="20260210194000 +0000">
-		<title>LaLiga 2025/26: Rayo Vallecano vs Real Oviedo</title>
+		<title>LaLiga 2025/26: Villarreal vs Espanyol</title>
 		<desc>Extensive coverage from every round of the Spanish LaLiga, Spain's top division of football with the World's biggest teams.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch213_laliga.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="213" start="20260210194000 +0000" stop="20260210213000 +0000">
 		<title>LaLiga 2025/26: Alaves vs Getafe</title>
 		<desc>Extensive coverage from every round of the Spanish LaLiga, Spain's top division of football with the World's biggest teams.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch213_laliga.jpg?w=960&amp;h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch213_laliga_2.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="213" start="20260210213000 +0000" stop="20260210220000 +0000">
 		<title>FIA World Rally Championships Magazine Show 2026</title>
@@ -11529,23 +11534,18 @@
 		<desc />
 		<icon src="https://poster.starhubgo.com/poster/ch214_UCL_specials.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="214" start="20260210045000 +0000" stop="20260210050000 +0000">
-		<title>UCL Classic Matches Barcelona vs Arsenal (2005/06)</title>
-		<desc>Take a walk back in time and relive some of the most dramatic and remarkable moments in the UEFA Champions League</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch214_UCL_classic_matches.jpg?w=960&amp;h=540" />
-	</programme>
-	<programme channel="214" start="20260210050000 +0000" stop="20260210053000 +0000">
-		<title>MUTV Highlights 2025/26 Man United vs Fulham</title>
+	<programme channel="214" start="20260210045000 +0000" stop="20260210052000 +0000">
+		<title>MUTV Highlights 2025/26</title>
 		<desc>Enjoy match highlights from Manchester United's Premier League, FA Cup and Carabao Cup games from MUTV on beIN SPORTS</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch214_mutv_highlights.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="214" start="20260210053000 +0000" stop="20260210073000 +0000">
+	<programme channel="214" start="20260210052000 +0000" stop="20260210072000 +0000">
 		<title>MUTV 2025/26: Man United vs Tottenham</title>
 		<desc>Enjoy every Manchester United match from the Premier League, FA Cup and Carabao Cup and friendlies, from MUTV on beIN SPORTS</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch214_mutv.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="214" start="20260210073000 +0000" stop="20260210080000 +0000">
-		<title>MUTV: Match Day Review 2025/26 Man United vs Tottenham</title>
+	<programme channel="214" start="20260210072000 +0000" stop="20260210080000 +0000">
+		<title>MUTV: Match Day Review 2025/26</title>
 		<desc>Directly after the final whistle of every Manchester United match the MUTV team review the game and all the talking points.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch214_mutv_match_day_review.jpg?w=960&amp;h=540" />
 	</programme>
@@ -11570,7 +11570,7 @@
 		<icon src="https://poster.starhubgo.com/poster/ch214_UCL_full_match.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="214" start="20260210162000 +0000" stop="20260210181000 +0000">
-		<title>TotalEnergies CAF Confederation Cup 2025/26: Singida Black Stars vs CR Belouizdad</title>
+		<title>TotalEnergies CAF Confederation Cup 2025/26: Singida Black Stars vs CR Belouizda</title>
 		<desc>Watch the top club sides from Africa's football leagues battle it out in the CAF Confederations Cup.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch214_caf_confederation_cup.jpg?w=341&amp;h=192" />
 	</programme>
@@ -12681,7 +12681,7 @@
 	</programme>
 	<programme channel="222" start="20260210200500 +0000" stop="20260210221500 +0000">
 		<title>West Ham United vs Manchester United (MW26) (Live) - EP 254</title>
-		<desc>The 34th season of the Premier League sees Liverpool defend its title against a host of teams keen for glory themselves. 20 teams are in the mix but only 1 champion will emerge ultimately.</desc>
+		<desc>West Ham have won each of their last three home league games against Manchester United, last having a longer run between 1974 and 1977 (4).</desc>
 		<icon src="https://poster.starhubgo.com/poster/westham_united_stadium.jpg?w=960" />
 	</programme>
 	<programme channel="222" start="20260210221500 +0000" stop="20260211040000 +0000">
@@ -12746,7 +12746,7 @@
 	</programme>
 	<programme channel="223" start="20260210192000 +0000" stop="20260210213000 +0000">
 		<title>Tottenham Hotspur vs Newcastle United (MW26) (Live) - EP 253</title>
-		<desc>The 34th season of the Premier League sees Liverpool defend its title against a host of teams keen for glory themselves. 20 teams are in the mix but only 1 champion will emerge ultimately.</desc>
+		<desc>Since winning four of their first five home Premier League matches in the 2024-25 season, Tottenham have won just four out of 26 games at the Tottenham Hotspur Stadium (D7 L15).</desc>
 		<icon src="https://poster.starhubgo.com/poster/tottenham_hotspur_stadium.jpg?w=960" />
 	</programme>
 	<programme channel="223" start="20260210213000 +0000" stop="20260210220000 +0000">
@@ -12796,7 +12796,7 @@
 	</programme>
 	<programme channel="224" start="20260210192000 +0000" stop="20260210213000 +0000">
 		<title>Everton vs Bournemouth (MW26) (Live) - EP 252</title>
-		<desc>The 34th season of the Premier League sees Liverpool defend its title against a host of teams keen for glory themselves. 20 teams are in the mix but only 1 champion will emerge ultimately.</desc>
+		<desc>Following their 1-0 win at the Vitality Stadium in December, Everton are looking to complete the league double over Bournemouth for the very first time.</desc>
 		<icon src="https://poster.starhubgo.com/poster/everton_stadium.jpg?w=960" />
 	</programme>
 	<programme channel="224" start="20260210213000 +0000" stop="20260210220000 +0000">
@@ -12841,7 +12841,7 @@
 	</programme>
 	<programme channel="225" start="20260210192000 +0000" stop="20260210213000 +0000">
 		<title>Chelsea vs Leeds United (MW26) (Live) - EP 251</title>
-		<desc>The 34th season of the Premier League sees Liverpool defend its title against a host of teams keen for glory themselves. 20 teams are in the mix but only 1 champion will emerge ultimately.</desc>
+		<desc>Chelsea are unbeaten in their last seven Premier League home games against Leeds, winning the last six in a row (D1). Their last defeat was in December 1999, losing 2-0 thanks to a Stephen McPhail brace.</desc>
 		<icon src="https://poster.starhubgo.com/poster/chelsea_stadium.jpg?w=960" />
 	</programme>
 	<programme channel="225" start="20260210213000 +0000" stop="20260210220000 +0000">
@@ -12971,7 +12971,7 @@
 	</programme>
 	<programme channel="228" start="20260210192000 +0000" stop="20260210213000 +0000">
 		<title>Tottenham Hotspur vs Newcastle United (MW26) (Live) - EP 253</title>
-		<desc>The 34th season of the Premier League sees Liverpool defend its title against a host of teams keen for glory themselves. 20 teams are in the mix but only 1 champion will emerge ultimately.</desc>
+		<desc>Since winning four of their first five home Premier League matches in the 2024-25 season, Tottenham have won just four out of 26 games at the Tottenham Hotspur Stadium (D7 L15).</desc>
 		<icon src="https://poster.starhubgo.com/poster/tottenham_hotspur_stadium.jpg?w=960" />
 	</programme>
 	<programme channel="228" start="20260210213000 +0000" stop="20260210220000 +0000">
@@ -13021,7 +13021,7 @@
 	</programme>
 	<programme channel="232" start="20260210200500 +0000" stop="20260210221500 +0000">
 		<title>West Ham United vs Manchester United (MW26) (Live) - EP 254</title>
-		<desc>The 34th season of the Premier League sees Liverpool defend its title against a host of teams keen for glory themselves. 20 teams are in the mix but only 1 champion will emerge ultimately.</desc>
+		<desc>West Ham have won each of their last three home league games against Manchester United, last having a longer run between 1974 and 1977 (4).</desc>
 		<icon src="https://poster.starhubgo.com/poster/westham_united_stadium.jpg?w=960" />
 	</programme>
 	<programme channel="232" start="20260210221500 +0000" stop="20260211040000 +0000">
@@ -30664,11 +30664,6 @@
 		<desc>Weather information of the different areas around the world.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="811" start="20260209174500 +0000" stop="20260209180000 +0000">
-		<title>Kid's Discovery (R)</title>
-		<desc>In this program, children around the age of 4 can experience the pleasure of playing with friends, the wonder of life, the joy of doing thigs by themselves, and consideration for others, all while having fun through various discoveries.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
 	<programme channel="811" start="20260209180000 +0000" stop="20260209182500 +0000">
 		<title>With Mother (R)</title>
 		<desc>This children's program includes a puppet show, cartoon, music, and gymnastics in which children can participate.</desc>
@@ -30717,11 +30712,6 @@
 	<programme channel="811" start="20260209202500 +0000" stop="20260209205600 +0000">
 		<title>TBA</title>
 		<desc />
-		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="811" start="20260209205600 +0000" stop="20260209210000 +0000">
-		<title>World Weather</title>
-		<desc>Weather information of the different areas around the world.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="811" start="20260209210000 +0000" stop="20260209220000 +0000">
@@ -30839,8 +30829,13 @@
 		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="811" start="20260210061000 +0000" stop="20260210064000 +0000">
-		<title>TBA</title>
+	<programme channel="811" start="20260210061000 +0000" stop="20260210063700 +0000">
+		<title>Where We Call Home Encore (B) (R)</title>
+		<desc>People from around the globe who put down roots in Japan offer a glimpse into their lives and the hardships they face in Japanese society.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="811" start="20260210063700 +0000" stop="20260210064000 +0000">
+		<title>Mini Program</title>
 		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
@@ -30860,8 +30855,8 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="811" start="20260210074500 +0000" stop="20260210080000 +0000">
-		<title>Nosy's Inspiring Atelier (R)</title>
-		<desc>Curious fairies "Nosy" create unique works using their imaginations, inspired by interesting phenomena and materials they found in the world of humans. Let’s express your idea through creation with Nosy, as you think and explore.</desc>
+		<title>RAMEN JAPAN 15min.</title>
+		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="811" start="20260210080000 +0000" stop="20260210081000 +0000">
@@ -30924,14 +30919,9 @@
 		<desc>This is the complete edition of a travel show uncovering Tohoku’s new charms, featuring actor Kyoka Suzuki, who loves traveling. Towada City in Aomori Prefecture is an art town she has long hoped to visit for years. She visits the Towada Art Center and is thrilled by the works of world-renowned artist Nara Yoshitomo. She is also deeply impressed by the library designed by Ando Tadao. What’s more, an Aomori-born actor who starred in a historical drama promotes traditional crafts!</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="811" start="20260210113800 +0000" stop="20260210115300 +0000">
+	<programme channel="811" start="20260210113800 +0000" stop="20260210115500 +0000">
 		<title>Wild Hokkaido!</title>
 		<desc>Featuring distinguished programs ranging from entertainment shows to documentaries.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="811" start="20260210115300 +0000" stop="20260210115500 +0000">
-		<title>Mini Program</title>
-		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="811" start="20260210115500 +0000" stop="20260210120000 +0000">
