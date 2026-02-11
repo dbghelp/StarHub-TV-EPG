@@ -6164,25 +6164,10 @@
 		<desc>Non Stop Hits showcases a collection of some of the most popular songs by renowned musicians.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch134_non_stop_hits.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="135" start="20260210160000 +0000" stop="20260210163000 +0000">
-		<title>Pandian Stores Thanthai Sol Mikka Mandhi - EP 712</title>
-		<desc>Pandian's life is centered around his large, close-knit family. But when his children get involved with dangerous rivals, will their strong family bonds survive the challenges?</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch135_pandian_stores_thanthai_sol_mikka_mandhi.jpg?w=960&amp;h=540" />
-	</programme>
 	<programme channel="135" start="20260210163000 +0000" stop="20260210170000 +0000">
 		<title>Ayyanar Thunai - EP 319</title>
 		<desc>In a bid to escape her ill-fate, Nila becomes the daughter-in-law of a family with a tainted past. Can she restore their lost hope, or will it shatter hers?</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch135_ayyanar_thunai.jpg?w=341&amp;h=192" />
-	</programme>
-	<programme channel="135" start="20260210170000 +0000" stop="20260210173000 +0000">
-		<title>Siragadikka Aasai - EP 924</title>
-		<desc>Meena and Muthukumar, both carrying emotional baggage, struggle through challenges in their marriage due to their troubled backgrounds.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch135_siragadikka_aasai.jpg?w=341&amp;h=192" />
-	</programme>
-	<programme channel="135" start="20260210173000 +0000" stop="20260210180000 +0000">
-		<title>Chinna Marumagal Panirendaam Vaguppu - EP 539</title>
-		<desc>Teen girls' medical dreams are dashed by forced marriage to a patriarchal family. She struggles to adapt while clinging to her aspirations.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch135_chinna_marumagal_panirendaam_vaguppu.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="135" start="20260210180000 +0000" stop="20260210183000 +0000">
 		<title>Kana Kandenadi - EP 20</title>
@@ -6223,11 +6208,6 @@
 		<title>Dhanam - Ungalil Oruthi - EP 299</title>
 		<desc>A debt-ridden man's attempt to report smugglers for a reward backfires, leading to a dangerous pursuit as the criminals seek revenge on him.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch135_dhanam_ungalil_oruthi.jpg?w=960&amp;h=540" />
-	</programme>
-	<programme channel="135" start="20260210223000 +0000" stop="20260210230000 +0000">
-		<title>Ayyanar Thunai - EP 319</title>
-		<desc>In a bid to escape her ill-fate, Nila becomes the daughter-in-law of a family with a tainted past. Can she restore their lost hope, or will it shatter hers?</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch135_ayyanar_thunai.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="135" start="20260210230000 +0000" stop="20260210233000 +0000">
 		<title>Magale En Marumagale - EP 139</title>
@@ -6315,8 +6295,8 @@
 		<icon src="https://poster.starhubgo.com/poster/ch135_sakthivel_theeyaai_oru_theeraakkaadhal.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="135" start="20260211073000 +0000" stop="20260211083000 +0000">
-		<title>Maha Sangamam - Kanmani Anbudan &amp; Thendrale Mella Pesu - EP 426</title>
-		<desc>Best friends Kanmani and Vennila face a hard choice when they both fall in love with the same guy. Can their strong friendship endure this challenge?</desc>
+		<title>Maha Sangamam- Kanmani Anbudan &amp; Thendrale Mella Pesu - EP 426</title>
+		<desc>Maha Sangamam- Kanmani Anbudan and Thendrale Mella Pesu</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch135_vijaylogo.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="135" start="20260211083000 +0000" stop="20260211090000 +0000">
@@ -6440,8 +6420,8 @@
 		<icon src="https://poster.starhubgo.com/poster/ch135_sakthivel_theeyaai_oru_theeraakkaadhal.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="135" start="20260211203000 +0000" stop="20260211213000 +0000">
-		<title>Maha Sangamam - Kanmani Anbudan &amp; Thendrale Mella Pesu - EP 426</title>
-		<desc>Best friends Kanmani and Vennila face a hard choice when they both fall in love with the same guy. Can their strong friendship endure this challenge?</desc>
+		<title>Maha Sangamam- Kanmani Anbudan &amp; Thendrale Mella Pesu - EP 426</title>
+		<desc>Maha Sangamam- Kanmani Anbudan and Thendrale Mella Pesu</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch135_vijaylogo.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="135" start="20260211213000 +0000" stop="20260211220000 +0000">
@@ -9316,97 +9296,97 @@
 	</programme>
 	<programme channel="153" start="20260210233000 +0000" stop="20260211000000 +0000">
 		<title>Global Us</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country's news, current affairs and showcases its people's life and mentality.</desc>
+		<desc>Refugees returning to Syria face destroyed homes, lost family members, and the struggle to rebuild in Yarmouk. Meanwhile, Kazakhstan moves toward a new nuclear plant despite the legacy of Soviet-era nuclear testing.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20260211000000 +0000" stop="20260211000200 +0000">
 		<title>DW News</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country's news, current affairs and showcases its people's life and mentality.</desc>
+		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20260211000200 +0000" stop="20260211003000 +0000">
 		<title>The Day</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country's news, current affairs and showcases its people's life and mentality.</desc>
+		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20260211003000 +0000" stop="20260211010000 +0000">
 		<title>Made in Germany</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country's news, current affairs and showcases its people's life and mentality.</desc>
+		<desc>Many countries are building nuclear power plants. They want to reduce greenhouse-gas emissions and generate energy cost-effectively. But have they also thought about decommissioning? It can be very expensive.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20260211010000 +0000" stop="20260211011500 +0000">
 		<title>DW News</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country's news, current affairs and showcases its people's life and mentality.</desc>
+		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20260211011500 +0000" stop="20260211020000 +0000">
 		<title>DocFilm</title>
-		<desc>Liberland is a country that doesn't officially exist. A country that promises voluntary taxes and a lean state. It's a libertarian utopia that's finding more supporters worldwide.</desc>
+		<desc>Liberland is a country that doesn’t officially exist. A country that promises voluntary taxes and a lean state. It’s a libertarian utopia that’s finding more supporters worldwide.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20260211020000 +0000" stop="20260211020200 +0000">
 		<title>DW News</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country's news, current affairs and showcases its people's life and mentality.</desc>
+		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20260211020200 +0000" stop="20260211023000 +0000">
 		<title>The Day</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country's news, current affairs and showcases its people's life and mentality.</desc>
+		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20260211023000 +0000" stop="20260211030000 +0000">
 		<title>Global Us</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country's news, current affairs and showcases its people's life and mentality.</desc>
+		<desc>Refugees returning to Syria face destroyed homes, lost family members, and the struggle to rebuild in Yarmouk. Meanwhile, Kazakhstan moves toward a new nuclear plant despite the legacy of Soviet-era nuclear testing.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20260211030000 +0000" stop="20260211031500 +0000">
 		<title>DW News</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country's news, current affairs and showcases its people's life and mentality.</desc>
+		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20260211031500 +0000" stop="20260211033000 +0000">
-		<title>Best of DW-online Content</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country's news, current affairs and showcases its people's life and mentality.</desc>
+		<title>Interview</title>
+		<desc>Munich Security Conference 2026 will kick off on February 13. DW’s chief political correspondent Nina Haase speaks with Wolfgang Ischinger, Chairman of the MSC, about the state of transatlantic relations, whether US Vice President JD Vance will attend after his widely debated speech last year, and why politicians from the far-right AfD were invited.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20260211033000 +0000" stop="20260211040000 +0000">
 		<title>Eco Africa</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country's news, current affairs and showcases its people's life and mentality.</desc>
+		<desc>For 3,000 years sea turtles have come to Libya’s coast to nest. Now locals are fighting to save them. Plus: sun-baked bread and beating Mali’s fuel crisis.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20260211040000 +0000" stop="20260211041500 +0000">
 		<title>DW News</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country's news, current affairs and showcases its people's life and mentality.</desc>
+		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20260211041500 +0000" stop="20260211050000 +0000">
 		<title>DocFilm</title>
-		<desc>Liberland is a country that doesn't officially exist. A country that promises voluntary taxes and a lean state. It's a libertarian utopia that's finding more supporters worldwide.</desc>
+		<desc>Liberland is a country that doesn’t officially exist. A country that promises voluntary taxes and a lean state. It’s a libertarian utopia that’s finding more supporters worldwide.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20260211050000 +0000" stop="20260211050200 +0000">
 		<title>DW News</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country's news, current affairs and showcases its people's life and mentality.</desc>
+		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20260211050200 +0000" stop="20260211053000 +0000">
 		<title>The Day</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country's news, current affairs and showcases its people's life and mentality.</desc>
+		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20260211053000 +0000" stop="20260211060000 +0000">
 		<title>Made in Germany</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country's news, current affairs and showcases its people's life and mentality.</desc>
+		<desc>Many countries are building nuclear power plants. They want to reduce greenhouse-gas emissions and generate energy cost-effectively. But have they also thought about decommissioning? It can be very expensive.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20260211060000 +0000" stop="20260211061500 +0000">
 		<title>DW News</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country's news, current affairs and showcases its people's life and mentality.</desc>
+		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20260211061500 +0000" stop="20260211063000 +0000">
-		<title>Best of DW-online Content</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country's news, current affairs and showcases its people's life and mentality.</desc>
+		<title>Interview</title>
+		<desc>Munich Security Conference 2026 will kick off on February 13. DW’s chief political correspondent Nina Haase speaks with Wolfgang Ischinger, Chairman of the MSC, about the state of transatlantic relations, whether US Vice President JD Vance will attend after his widely debated speech last year, and why politicians from the far-right AfD were invited.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20260211063000 +0000" stop="20260211070000 +0000">
@@ -9416,22 +9396,22 @@
 	</programme>
 	<programme channel="153" start="20260211070000 +0000" stop="20260211071500 +0000">
 		<title>DW News</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country's news, current affairs and showcases its people's life and mentality.</desc>
+		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20260211071500 +0000" stop="20260211074500 +0000">
 		<title>Close up</title>
-		<desc>The weekly half-hour program delivers in-depth reporting on topical political issues and newsworthy events. Revealing the story behind the stories, "Close up" is informative, gripping and visually powerful.</desc>
+		<desc>The mayor of Budapest, Gergely Karácsony, is facing criminal charges. In defiance of President Viktor Orbán’s ban, he organized a Pride march in the city on 28 June 2025-the largest such event ever held in Hungary.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20260211074500 +0000" stop="20260211080000 +0000">
 		<title>Reporter</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country's news, current affairs and showcases its people's life and mentality.</desc>
+		<desc>In Afghanistan, cricket is more than just a sport-for many young people, it is a way out of poverty and hopelessness.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20260211080000 +0000" stop="20260211081500 +0000">
 		<title>DW News</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country's news, current affairs and showcases its people's life and mentality.</desc>
+		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20260211081500 +0000" stop="20260211090000 +0000">
@@ -9441,7 +9421,7 @@
 	</programme>
 	<programme channel="153" start="20260211090000 +0000" stop="20260211091500 +0000">
 		<title>DW News</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country's news, current affairs and showcases its people's life and mentality.</desc>
+		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20260211091500 +0000" stop="20260211100000 +0000">
@@ -9451,37 +9431,37 @@
 	</programme>
 	<programme channel="153" start="20260211100000 +0000" stop="20260211101500 +0000">
 		<title>DW News</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country's news, current affairs and showcases its people's life and mentality.</desc>
+		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20260211101500 +0000" stop="20260211103000 +0000">
 		<title>Choices - Dare to dream</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country's news, current affairs and showcases its people's life and mentality.</desc>
+		<desc>Avanti, an architecture student turned aspiring pastry chef, faces skepticism from her parents. Can she prove herself in the baking world? With Pooja Dhingra, India’s Macaron Queen, as her guide, Avanti takes on challenges that test more than just her tastebuds. Will she rise to the challenge and make her baking dreams a reality?</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20260211103000 +0000" stop="20260211110000 +0000">
 		<title>Close up</title>
-		<desc>The weekly half-hour program delivers in-depth reporting on topical political issues and newsworthy events. Revealing the story behind the stories, "Close up" is informative, gripping and visually powerful.</desc>
+		<desc>The mayor of Budapest, Gergely Karácsony, is facing criminal charges. In defiance of President Viktor Orbán’s ban, he organized a Pride march in the city on 28 June 2025-the largest such event ever held in Hungary.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20260211110000 +0000" stop="20260211111500 +0000">
 		<title>DW News</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country's news, current affairs and showcases its people's life and mentality.</desc>
+		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20260211111500 +0000" stop="20260211113000 +0000">
 		<title>HER Women in Asia</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country's news, current affairs and showcases its people's life and mentality.</desc>
+		<desc>Around the world, women play important roles in business. Either as bosses and high-ranking managers of international corporations, or as self-employed owners and operators of small kiosks, and even founders of start-ups. This edition portrays three women from three different worlds, but they all have one thing in common: their passion for their business.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20260211113000 +0000" stop="20260211120000 +0000">
 		<title>Made in Germany</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country's news, current affairs and showcases its people's life and mentality.</desc>
+		<desc>Many countries are building nuclear power plants. They want to reduce greenhouse-gas emissions and generate energy cost-effectively. But have they also thought about decommissioning? It can be very expensive.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20260211120000 +0000" stop="20260211121500 +0000">
 		<title>DW News</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country's news, current affairs and showcases its people's life and mentality.</desc>
+		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20260211121500 +0000" stop="20260211130000 +0000">
@@ -9491,52 +9471,52 @@
 	</programme>
 	<programme channel="153" start="20260211130000 +0000" stop="20260211131500 +0000">
 		<title>DW News</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country's news, current affairs and showcases its people's life and mentality.</desc>
+		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20260211131500 +0000" stop="20260211133000 +0000">
-		<title>Best of DW-online Content</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country's news, current affairs and showcases its people's life and mentality.</desc>
+		<title>Arts Unveiled</title>
+		<desc>Ever wondered why people say "Eat the Rich"? This slogan isn’t just a meme, it has roots in the French Revolution, resurfaced in the 1970s, and now dominates protest signs worldwide. But is it a call for change or just a catchy buzzword? We break down its history, why it’s trending again, and how it became a movie genre in films like Parasite and Triangle of Sadness.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20260211133000 +0000" stop="20260211140000 +0000">
 		<title>Eco Africa</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country's news, current affairs and showcases its people's life and mentality.</desc>
+		<desc>For 3,000 years sea turtles have come to Libya’s coast to nest. Now locals are fighting to save them. Plus: sun-baked bread and beating Mali’s fuel crisis.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20260211140000 +0000" stop="20260211141500 +0000">
 		<title>DW News</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country's news, current affairs and showcases its people's life and mentality.</desc>
+		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20260211141500 +0000" stop="20260211143000 +0000">
 		<title>Asia 2050</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country's news, current affairs and showcases its people's life and mentality.</desc>
+		<desc>By 2050, the future of Bangladesh’s coastal communities faces a defining challenge. As climate change accelerates coastal erosion, we travel to two contrasting regions - a sea beach and a coastal river area - to explore the unique protection needs of the people living there. Through conversations with Abdullah and Rabeya, two local voices, we hear their hopes and expectations for a safer tomorrow.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20260211143000 +0000" stop="20260211150000 +0000">
 		<title>Made in Germany</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country's news, current affairs and showcases its people's life and mentality.</desc>
+		<desc>Many countries are building nuclear power plants. They want to reduce greenhouse-gas emissions and generate energy cost-effectively. But have they also thought about decommissioning? It can be very expensive.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20260211150000 +0000" stop="20260211151500 +0000">
 		<title>DW News</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country's news, current affairs and showcases its people's life and mentality.</desc>
+		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20260211151500 +0000" stop="20260211153000 +0000">
-		<title>Best of DW-online Content</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country's news, current affairs and showcases its people's life and mentality.</desc>
+		<title>Arts Unveiled</title>
+		<desc>Ever wondered why people say "Eat the Rich"? This slogan isn’t just a meme, it has roots in the French Revolution, resurfaced in the 1970s, and now dominates protest signs worldwide. But is it a call for change or just a catchy buzzword? We break down its history, why it’s trending again, and how it became a movie genre in films like Parasite and Triangle of Sadness.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20260211153000 +0000" stop="20260211160000 +0000">
 		<title>Eco India</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country's news, current affairs and showcases its people's life and mentality.</desc>
+		<desc>Artisans defy economic and climate-related challenges to maintain their traditional industries. Plus: sustainable construction.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20260211160000 +0000" stop="20260211161500 +0000">
 		<title>DW News</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country's news, current affairs and showcases its people's life and mentality.</desc>
+		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20260211161500 +0000" stop="20260211170000 +0000">
@@ -9546,22 +9526,22 @@
 	</programme>
 	<programme channel="153" start="20260211170000 +0000" stop="20260211171500 +0000">
 		<title>DW News</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country's news, current affairs and showcases its people's life and mentality.</desc>
+		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20260211171500 +0000" stop="20260211173000 +0000">
-		<title>Best of DW-online Content</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country's news, current affairs and showcases its people's life and mentality.</desc>
+		<title>Arts Unveiled</title>
+		<desc>Ever wondered why people say "Eat the Rich"? This slogan isn’t just a meme, it has roots in the French Revolution, resurfaced in the 1970s, and now dominates protest signs worldwide. But is it a call for change or just a catchy buzzword? We break down its history, why it’s trending again, and how it became a movie genre in films like Parasite and Triangle of Sadness.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20260211173000 +0000" stop="20260211180000 +0000">
 		<title>Close up</title>
-		<desc>The weekly half-hour program delivers in-depth reporting on topical political issues and newsworthy events. Revealing the story behind the stories, "Close up" is informative, gripping and visually powerful.</desc>
+		<desc>The mayor of Budapest, Gergely Karácsony, is facing criminal charges. In defiance of President Viktor Orbán’s ban, he organized a Pride march in the city on 28 June 2025-the largest such event ever held in Hungary.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20260211180000 +0000" stop="20260211183000 +0000">
 		<title>DW News</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country's news, current affairs and showcases its people's life and mentality.</desc>
+		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20260211183000 +0000" stop="20260211190000 +0000">
@@ -9571,7 +9551,7 @@
 	</programme>
 	<programme channel="153" start="20260211190000 +0000" stop="20260211190200 +0000">
 		<title>DW News</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country's news, current affairs and showcases its people's life and mentality.</desc>
+		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20260211190200 +0000" stop="20260211193000 +0000">
@@ -9581,27 +9561,27 @@
 	</programme>
 	<programme channel="153" start="20260211193000 +0000" stop="20260211200000 +0000">
 		<title>The 77 Percent</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country's news, current affairs and showcases its people's life and mentality.</desc>
+		<desc>The UN calls gender-based violence a global human rights emergency-but in Uganda, it’s daily reality. Nearly 95% of women in Uganda have experienced violence, perpetrators walk free, and silence is survival.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20260211200000 +0000" stop="20260211203000 +0000">
 		<title>DW News</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country's news, current affairs and showcases its people's life and mentality.</desc>
+		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20260211203000 +0000" stop="20260211210000 +0000">
 		<title>The Day</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country's news, current affairs and showcases its people's life and mentality.</desc>
+		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20260211210000 +0000" stop="20260211210200 +0000">
 		<title>DW News</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country's news, current affairs and showcases its people's life and mentality.</desc>
+		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20260211210200 +0000" stop="20260211211500 +0000">
-		<title>Best of DW-online Content</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country's news, current affairs and showcases its people's life and mentality.</desc>
+		<title>Arts Unveiled</title>
+		<desc>Ever wondered why people say "Eat the Rich"? This slogan isn’t just a meme, it has roots in the French Revolution, resurfaced in the 1970s, and now dominates protest signs worldwide. But is it a call for change or just a catchy buzzword? We break down its history, why it’s trending again, and how it became a movie genre in films like Parasite and Triangle of Sadness.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20260211211500 +0000" stop="20260211220000 +0000">
@@ -9611,46 +9591,41 @@
 	</programme>
 	<programme channel="153" start="20260211220000 +0000" stop="20260211220200 +0000">
 		<title>DW News</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country's news, current affairs and showcases its people's life and mentality.</desc>
+		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20260211220200 +0000" stop="20260211223000 +0000">
 		<title>The Day</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country's news, current affairs and showcases its people's life and mentality.</desc>
+		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20260211223000 +0000" stop="20260211230000 +0000">
 		<title>Made in Germany</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country's news, current affairs and showcases its people's life and mentality.</desc>
+		<desc>Many countries are building nuclear power plants. They want to reduce greenhouse-gas emissions and generate energy cost-effectively. But have they also thought about decommissioning? It can be very expensive.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20260211230000 +0000" stop="20260211231500 +0000">
 		<title>DW News</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country's news, current affairs and showcases its people's life and mentality.</desc>
+		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20260211231500 +0000" stop="20260211233000 +0000">
-		<title>Best of DW-online Content</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country's news, current affairs and showcases its people's life and mentality.</desc>
+		<title>Arts Unveiled</title>
+		<desc>Ever wondered why people say "Eat the Rich"? This slogan isn’t just a meme, it has roots in the French Revolution, resurfaced in the 1970s, and now dominates protest signs worldwide. But is it a call for change or just a catchy buzzword? We break down its history, why it’s trending again, and how it became a movie genre in films like Parasite and Triangle of Sadness.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20260211233000 +0000" stop="20260212000000 +0000">
 		<title>Focus on Europe</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country's news, current affairs and showcases its people's life and mentality.</desc>
+		<desc>Why is the rate of HIV infections rising in Poland? +++ An island off Venice could become a retreat for locals.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20260212000000 +0000" stop="20260212000200 +0000">
 		<title>DW News</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country's news, current affairs and showcases its people's life and mentality.</desc>
+		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20260212000200 +0000" stop="20260212003000 +0000">
 		<title>The Day</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country's news, current affairs and showcases its people's life and mentality.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="153" start="20260212003000 +0000" stop="20260212010000 +0000">
-		<title>Arts Unveiled</title>
 		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country's news, current affairs and showcases its people's life and mentality.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
@@ -11575,12 +11550,12 @@
 		<icon src="https://poster.starhubgo.com/poster/ch214_UCL_classic_matches.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="214" start="20260211174000 +0000" stop="20260211195500 +0000">
-		<title>UEFA Women's Champions League 2025/26: OH Leuven vs Arsenal - KO Play-Offs,1st L</title>
+		<title>UEFA Women's Champions League 2025/26: OH Leuven vs Arsenal - KO Play-Offs,1st Leg (Live)</title>
 		<desc>Catch all the exhilarating and high quality action involving the best clubs in Europe's most prestigious women's football competition.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch214_UEFA_Womens_Champions_League.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="214" start="20260211195500 +0000" stop="20260211220000 +0000">
-		<title>UEFA Women's Champions League 2025/26: Paris FC vs Real Madrid - KO Play-Offs,1s</title>
+		<title>UEFA Women's Champions League 2025/26: Paris FC vs Real Madrid - KO Play-Offs,1st Leg (Live)</title>
 		<desc>Catch all the exhilarating and high quality action involving the best clubs in Europe's most prestigious women's football competition.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch214_UEFA_Womens_Champions_League.jpg?w=960&amp;h=540" />
 	</programme>
@@ -11590,7 +11565,7 @@
 		<icon src="https://poster.starhubgo.com/poster/ch214_fei_western_europe_league.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="214" start="20260211230000 +0000" stop="20260212005000 +0000">
-		<title>UEFA Women's Champions League 2025/26: OH Leuven vs Arsenal - KO Play-Offs,1st L</title>
+		<title>UEFA Women's Champions League 2025/26: OH Leuven vs Arsenal - KO Play-Offs,1st Leg</title>
 		<desc>Catch all the exhilarating and high quality action involving the best clubs in Europe's most prestigious women's football competition.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch214_UEFA_Womens_Champions_League.jpg?w=960&amp;h=540" />
 	</programme>
@@ -11650,12 +11625,12 @@
 		<icon src="https://poster.starhubgo.com/poster/ch214_bundesliga_weekly.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="214" start="20260212113000 +0000" stop="20260212133000 +0000">
-		<title>UEFA Women's Champions League 2025/26: OH Leuven vs Arsenal - KO Play-Offs,1st L</title>
+		<title>UEFA Women's Champions League 2025/26: OH Leuven vs Arsenal - KO Play-Offs,1st Leg</title>
 		<desc>Catch all the exhilarating and high quality action involving the best clubs in Europe's most prestigious women's football competition.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch214_UEFA_Womens_Champions_League.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="214" start="20260212133000 +0000" stop="20260212153000 +0000">
-		<title>UEFA Women's Champions League 2025/26: Paris FC vs Real Madrid - KO Play-Offs,1s</title>
+		<title>UEFA Women's Champions League 2025/26: Paris FC vs Real Madrid - KO Play-Offs,1st Leg</title>
 		<desc>Catch all the exhilarating and high quality action involving the best clubs in Europe's most prestigious women's football competition.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch214_UEFA_Womens_Champions_League.jpg?w=960&amp;h=540" />
 	</programme>
@@ -13525,8 +13500,8 @@
 		<icon src="https://poster.starhubgo.com/poster/ch207_premier_sports.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="247" start="20260211062000 +0000" stop="20260211081000 +0000">
-		<title>Super Rugby Crusaders v Chiefs</title>
-		<desc>Another thrilling Super Rugby season comes to a climax at Orangetheory Stadium where the Crusaders and Chiefs lock horns in a repeat of the 2023 final.</desc>
+		<title>URC Ulster v Dragons</title>
+		<desc>Ulster host the Dragons at Affidea Stadium in Belfast in this URC contest.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch207_premier_sports.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="247" start="20260211081000 +0000" stop="20260211082000 +0000">
@@ -25185,9 +25160,9 @@
 		<icon src="https://poster.starhubgo.com/poster/ch241_Gutfeld.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="702" start="20260211090000 +0000" stop="20260211100000 +0000">
-		<title>The Ingraham Angle</title>
-		<desc>Laura Ingraham discusses the issues our counrty is in turmoil about</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch241_TheIngrahamAngle.jpg?w=341&amp;h=192" />
+		<title>FOX News @Night</title>
+		<desc>Shannon Bream gives news analysis on the most compelling stories</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch241_FOXNewsNight.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="702" start="20260211100000 +0000" stop="20260211110000 +0000">
 		<title>FOX &amp; Friends First</title>
@@ -25278,11 +25253,6 @@
 		<title>Gutfeld!</title>
 		<desc>Greg Gutfeld looks at the news of the day through a satiric lens fused with pop culture</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch241_Gutfeld.jpg?w=960&amp;h=540" />
-	</programme>
-	<programme channel="702" start="20260212040000 +0000" stop="20260212050000 +0000">
-		<title>FOX News @Night</title>
-		<desc>Shannon Bream gives news analysis on the most compelling stories</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch241_FOXNewsNight.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="702" start="20260212050000 +0000" stop="20260212060000 +0000">
 		<title>The Five</title>
