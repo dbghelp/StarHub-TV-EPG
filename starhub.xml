@@ -11495,12 +11495,12 @@
 		<icon src="https://poster.starhubgo.com/poster/ch214_UCL_classic_matches.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="214" start="20260212174000 +0000" stop="20260212195500 +0000">
-		<title>UEFA Women's Champions League 2025/26: Wolfsburg vs Juventus - KO Play-Offs,1st</title>
+		<title>UEFA Women's Champions League 2025/26: Wolfsburg vs Juventus - KO Play-Offs,1st Leg (Live)</title>
 		<desc>Catch all the exhilarating and high quality action involving the best clubs in Europe's most prestigious women's football competition.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch214_UEFA_Womens_Champions_League.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="214" start="20260212195500 +0000" stop="20260212220000 +0000">
-		<title>UEFA Women's Champions League 2025/26: Atletico Madrid vs Man United - KO Play-O</title>
+		<title>UEFA Women's Champions League 2025/26: Atletico Madrid vs Man United - KO Play-Offs,1st Leg (Live)</title>
 		<desc>Catch all the exhilarating and high quality action involving the best clubs in Europe's most prestigious women's football competition.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch214_UEFA_Womens_Champions_League.jpg?w=960&amp;h=540" />
 	</programme>
@@ -11515,7 +11515,7 @@
 		<icon src="https://poster.starhubgo.com/poster/ch214_one_weekly_2026.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="214" start="20260212233000 +0000" stop="20260213012000 +0000">
-		<title>UEFA Women's Champions League 2025/26: Wolfsburg vs Juventus - KO Play-Offs,1st</title>
+		<title>UEFA Women's Champions League 2025/26: Wolfsburg vs Juventus - KO Play-Offs,1st Leg</title>
 		<desc>Catch all the exhilarating and high quality action involving the best clubs in Europe's most prestigious women's football competition.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch214_UEFA_Womens_Champions_League.jpg?w=960&amp;h=540" />
 	</programme>
@@ -11540,7 +11540,7 @@
 		<icon src="https://poster.starhubgo.com/poster/ch214_fei_western_europe_league.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="214" start="20260213070000 +0000" stop="20260213090000 +0000">
-		<title>UEFA Women's Champions League 2025/26: Wolfsburg vs Juventus - KO Play-Offs,1st</title>
+		<title>UEFA Women's Champions League 2025/26: Wolfsburg vs Juventus - KO Play-Offs,1st Leg</title>
 		<desc>Catch all the exhilarating and high quality action involving the best clubs in Europe's most prestigious women's football competition.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch214_UEFA_Womens_Champions_League.jpg?w=960&amp;h=540" />
 	</programme>
@@ -11550,7 +11550,7 @@
 		<icon src="https://poster.starhubgo.com/poster/ch214_bundesliga_weekly.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="214" start="20260213093000 +0000" stop="20260213113000 +0000">
-		<title>UEFA Women's Champions League 2025/26: Atletico Madrid vs Man United - KO Play-O</title>
+		<title>UEFA Women's Champions League 2025/26: Atletico Madrid vs Man United - KO Play-Offs,1st Leg</title>
 		<desc>Catch all the exhilarating and high quality action involving the best clubs in Europe's most prestigious women's football competition.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch214_UEFA_Womens_Champions_League.jpg?w=960&amp;h=540" />
 	</programme>
@@ -30439,8 +30439,13 @@
 		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="811" start="20260212191200 +0000" stop="20260212193000 +0000">
+	<programme channel="811" start="20260212191200 +0000" stop="20260212191500 +0000">
 		<title>Mini Program</title>
+		<desc />
+		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="811" start="20260212191500 +0000" stop="20260212193000 +0000">
+		<title>Magnificent Sight!--Mountain Lodges in Europe</title>
 		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
