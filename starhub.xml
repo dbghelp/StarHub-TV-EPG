@@ -9954,7 +9954,7 @@
 		<desc>The ABN AMRO Open is a prestigious, long-running ATP 500 indoor hard-court tennis tournament held annually at Rotterdam Ahoy in the Netherlands. It has been held since 1974 and is considered one of the most innovative tournaments of the tour, both by the ATP and the other tournaments.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch201_ATPTour2026ABNAmroOpen500.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="206" start="20260213223000 +0000" stop="20260214040000 +0000">
+	<programme channel="206" start="20260213234500 +0000" stop="20260214040000 +0000">
 		<title>End of Transmission</title>
 		<desc>End of Transmission</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/206_1920x1080_HTV.png?w=960&amp;h=540" />
@@ -10439,19 +10439,14 @@
 		<desc>Top flight men's soccer returns in the ISUZU UTE A-League Men. Catch every moment on SPOTV NOW as 12 teams compete in the regular season with top 4 advancing to a single-game knockout.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_spotv2_logo.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="210" start="20260214223000 +0000" stop="20260214230000 +0000">
-		<title>2025/26 A-League Men Round 16</title>
-		<desc>Relive the best goals, key moments &amp; top performances from the Isuzu UTE A-League Men. Weekly highlights cover every club &amp; thrilling match. Download and watch every moment on SPOTV NOW.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch210_spotv2_logo.jpg?w=960&amp;h=540" />
-	</programme>
-	<programme channel="210" start="20260214230000 +0000" stop="20260215030000 +0000">
-		<title>WTT Star Contender Chennai 2026</title>
-		<desc>WTT Star Contender Chennai 2026 is providing a platform for emerging top players to earn vital ranking points and take a step toward the WTT Champions Series.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch210_wtt.jpg?w=960&amp;h=540" />
-	</programme>
-	<programme channel="210" start="20260215030000 +0000" stop="20260215043000 +0000">
+	<programme channel="210" start="20260214223000 +0000" stop="20260215000000 +0000">
 		<title>SailGP S6: ITM New Zealand SailGP (Live)</title>
 		<desc>Adrenaline-fueled races, legendary global locations, rival national teams and record-breaking speeds. SailGP is the most exciting racing on water - Powered By Nature.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch210_spotv2_logo.jpg?w=960&amp;h=540" />
+	</programme>
+	<programme channel="210" start="20260215000000 +0000" stop="20260215003000 +0000">
+		<title>2025/26 A-League Men Round 16</title>
+		<desc>Relive the best goals, key moments &amp; top performances from the Isuzu UTE A-League Men. Weekly highlights cover every club &amp; thrilling match. Download and watch every moment on SPOTV NOW.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_spotv2_logo.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="210" start="20260215043000 +0000" stop="20260215050000 +0000">
