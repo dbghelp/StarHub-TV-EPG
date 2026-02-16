@@ -1845,7 +1845,7 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="106" start="20260217110200 +0000" stop="20260217120000 +0000">
-		<title>CNA Summit 2026: Smart Growth - Navigating Investment and Innovation in a New Er - EP 1</title>
+		<title>CNA Summit 2026: Smart Growth - Navigating Investment and Innovation in a New Era - EP 1</title>
 		<desc>Regional state investors optimistic for collaboration among ASEAN’s sovereign wealth funds to drive long-term growth.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
@@ -11079,10 +11079,15 @@
 		<desc>Catch up with highlights, review and behind-the-scenes action from the latest season of SailGP</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch214_sail_gp_highlights.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="214" start="20260217100000 +0000" stop="20260217143000 +0000">
+	<programme channel="214" start="20260217100000 +0000" stop="20260217140000 +0000">
 		<title>ONE Fight Night 2026: OFN 40: Buntan vs Hemetsberger</title>
 		<desc>A monthly series of live martial arts events showcasing MMA, Muay Thai, Kickboxing and Submission Grappling with major World Title fights and global stars</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch214_ONE_FC_FIGHTS_140.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="214" start="20260217140000 +0000" stop="20260217143000 +0000">
+		<title>The Outdoor Sports Show 2026</title>
+		<desc>A series showcasing a diverse array of outdoor sports from marathon races to climbing, skiing to surfing, hiking to triathlon, sailing to cycling.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch214_the_outdoor_sports_show.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="214" start="20260217143000 +0000" stop="20260217153000 +0000">
 		<title>Bundesliga Highlights 2025/26</title>
