@@ -905,8 +905,8 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="102" start="20260225083000 +0000" stop="20260225093000 +0000">
-		<title>Lion Mums S3 - EP 15</title>
-		<desc>As Winston spends more time with Spencer, he finally realises the value of his friendship and his new educational landscape. There are awkward moments between lovebirds Beng Hian and Chae Lian who might try to take the next step... Another fight ensues as Durrani has a huge quarrel with Nabilah, and she grows suspicious - something is not right with her daughter...</desc>
+		<title>Lion Mums S3 - EP 14</title>
+		<desc>Something is gnawing at Durrani's conscience as she oscillates between feelings of guilt and defensiveness - but Reza, who is himself a bag of emotions - is certain it is not good as we wonder if this power couple will ever recover. In this period, the gradual grooming of Nabilah escalates with her new phone, which begins to cause a slight discomfort. Meanwhile as kids and adults continue to be distracted by their technologies, Kai is isolated by his peers in the virtual world.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="102" start="20260225093000 +0000" stop="20260225095000 +0000">
@@ -1924,14 +1924,9 @@
 		<desc>From business to politics, health to technology, the latest news from Singapore and analysis of the impact.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="106" start="20260224230000 +0000" stop="20260225020000 +0000">
+	<programme channel="106" start="20260224230000 +0000" stop="20260225030000 +0000">
 		<title>Asia First - EP 228</title>
 		<desc>(Live) Top stories, business news and market updates from across the region as Asia gears up for the day ahead.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="106" start="20260225020000 +0000" stop="20260225030000 +0000">
-		<title>Who's Driving Now? - EP 2</title>
-		<desc>From delivery vans to air taxis, hosts Justin Ang and Vernon Anthonisz explore how autonomous technology is reshaping cities in China, and what life could look like in a fully driverless world.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="106" start="20260225030000 +0000" stop="20260225050000 +0000">
@@ -10217,7 +10212,7 @@
 	<programme channel="201" start="20260224063000 +0000" stop="20260224070000 +0000">
 		<title>WTA Tour 2026 H/Ls Qatar TotalEnergies Open</title>
 		<desc>Catch all the thrills and spills from the Khalifa International Tennis and Squash Complex in Doha, Qatar.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch201_hologic_wta_tour.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch201_WTA_Tour_1000_Generic.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="201" start="20260224070000 +0000" stop="20260224083000 +0000">
 		<title>ATP Tour 2026 BCI Seguros Chile Open (250) D1 R1 S1</title>
@@ -11004,14 +10999,19 @@
 		<desc>World Pickleball League Season 2 heads to Mumbai, as top international players compete in fast-paced team action, showcasing skill, intensity, and excitement in one of the sport's fast-growing leagues</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_spotv2_logo.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="210" start="20260223180000 +0000" stop="20260223200000 +0000">
+	<programme channel="210" start="20260223180000 +0000" stop="20260223195000 +0000">
 		<title>25/26 A-League Men Round 18 Wellington Phoenix vs Auckland FC</title>
 		<desc>Top flight men's soccer returns in the ISUZU UTE A-League Men. Catch every moment on SPOTV NOW as 12 teams compete in the regular season with top 4 advancing to a single-game knockout.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_spotv2_logo.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="210" start="20260223200000 +0000" stop="20260223220000 +0000">
-		<title>25/26 A-League Men Round 18 Central Coast Mariners FC vs Western Sydney Wanderers FC</title>
+	<programme channel="210" start="20260223195000 +0000" stop="20260223214200 +0000">
+		<title>25/26 A-League Men Round 18 Central Coast Mariners FC vs Western Sydney Wanderer</title>
 		<desc>Top flight men's soccer returns in the ISUZU UTE A-League Men. Catch every moment on SPOTV NOW as 12 teams compete in the regular season with top 4 advancing to a single-game knockout.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch210_spotv2_logo.jpg?w=960&amp;h=540" />
+	</programme>
+	<programme channel="210" start="20260223214200 +0000" stop="20260223233500 +0000">
+		<title>25/26 ROSHN Saudi League MW 23 Al Hilal vs Al Ittihad</title>
+		<desc>Prominent professional players take centre-stage in the ROSHN Saudi League. Don't miss a moment of these matches every week. Download SPOTV NOW and catch these live matches and highlights.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_spotv2_logo.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="210" start="20260223233500 +0000" stop="20260224040000 +0000">
@@ -33744,43 +33744,38 @@
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20260224160000 +0000" stop="20260224165900 +0000">
+	<programme channel="832" start="20260224160000 +0000" stop="20260224165800 +0000">
 		<title>THE CITY OF MUSICALS</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20260224165900 +0000" stop="20260224172400 +0000">
-		<title>I LOVE SHANGHAI</title>
-		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="832" start="20260224172400 +0000" stop="20260224182300 +0000">
+	<programme channel="832" start="20260224165800 +0000" stop="20260224175700 +0000">
 		<title>Dragon TV Primetime News</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20260224182300 +0000" stop="20260224200800 +0000">
+	<programme channel="832" start="20260224175700 +0000" stop="20260224194200 +0000">
 		<title>Future China</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20260224200800 +0000" stop="20260224205800 +0000">
+	<programme channel="832" start="20260224194200 +0000" stop="20260224203600 +0000">
 		<title>Overtime No More</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20260224205800 +0000" stop="20260224221000 +0000">
+	<programme channel="832" start="20260224203600 +0000" stop="20260224213500 +0000">
 		<title>A Green Trip</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20260224221000 +0000" stop="20260224223500 +0000">
-		<title>New Entertainment</title>
+	<programme channel="832" start="20260224213500 +0000" stop="20260224223500 +0000">
+		<title>China before China</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="832" start="20260224223500 +0000" stop="20260224230000 +0000">
-		<title>CARE ON THE WAY</title>
+		<title>Next Station</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
