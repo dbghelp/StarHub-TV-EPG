@@ -651,7 +651,7 @@
 	</programme>
 	<programme channel="102" start="20260226023000 +0000" stop="20260226073000 +0000">
 		<title>HSBC Women's World Championship 2026 - EP 1</title>
-		<desc />
+		<desc>(Live) Showcasing one of the strongest fields in women's golf outside the five Majors, the HSBC Women's World Championship returns to the vibrant city of Singapore from 26 February to 1 March 2026, where the top LPGA players will compete on The Tanjong at Sentosa Golf Club. Golf fans can look forward to a thrilling four-day spectacle, featuring world-class competition.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="102" start="20260226073000 +0000" stop="20260226080000 +0000">
@@ -826,7 +826,7 @@
 	</programme>
 	<programme channel="102" start="20260227023000 +0000" stop="20260227073000 +0000">
 		<title>HSBC Women's World Championship 2026 - EP 2</title>
-		<desc />
+		<desc>(Live) Showcasing one of the strongest fields in women's golf outside the five Majors, the HSBC Women's World Championship returns to the vibrant city of Singapore from 26 February to 1 March 2026, where the top LPGA players will compete on The Tanjong at Sentosa Golf Club. Golf fans can look forward to a thrilling four-day spectacle, featuring world-class competition.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="102" start="20260227073000 +0000" stop="20260227080000 +0000">
@@ -7255,18 +7255,18 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/139_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="139" start="20260226133000 +0000" stop="20260226140000 +0000">
-		<title>Sindhoorapottu (Dub)</title>
-		<desc>Daily Soap</desc>
+		<title>Star Singer Season 10</title>
+		<desc>Musical Reality show</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/139_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="139" start="20260226140000 +0000" stop="20260226143000 +0000">
-		<title>Mounaragam</title>
-		<desc>Daily Soap</desc>
+		<title>Star Singer Season 10</title>
+		<desc>Musical Reality show</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/139_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="139" start="20260226143000 +0000" stop="20260226150000 +0000">
-		<title>Santhwanam-2</title>
-		<desc>Daily Soap</desc>
+		<title>Star Singer Season 10</title>
+		<desc>Musical Reality show</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/139_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="139" start="20260226150000 +0000" stop="20260226153000 +0000">
@@ -7304,14 +7304,14 @@
 		<desc>Daily Soap</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/139_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="139" start="20260226183000 +0000" stop="20260226190000 +0000">
-		<title>Teacher Amma</title>
-		<desc>Daily Soap</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/139_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="139" start="20260226190000 +0000" stop="20260226220000 +0000">
+	<programme channel="139" start="20260226183000 +0000" stop="20260226213000 +0000">
 		<title>Koode</title>
 		<desc>Malayalam Feature Film</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/139_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="139" start="20260226213000 +0000" stop="20260226220000 +0000">
+		<title>Chirikkum Thalika II</title>
+		<desc>Film based show</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/139_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="139" start="20260226220000 +0000" stop="20260226223000 +0000">
@@ -7320,8 +7320,8 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/139_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="139" start="20260226223000 +0000" stop="20260226230000 +0000">
-		<title>Teacher Amma</title>
-		<desc>Cookery Show</desc>
+		<title>Chirikkum Thalika II</title>
+		<desc>Film based show</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/139_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="139" start="20260226230000 +0000" stop="20260226233000 +0000">
@@ -7392,11 +7392,6 @@
 	<programme channel="139" start="20260227093000 +0000" stop="20260227120000 +0000">
 		<title>Home</title>
 		<desc>Malayalam Feature Film</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/139_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="139" start="20260227120000 +0000" stop="20260227123000 +0000">
-		<title>Chirikkum Thalika II</title>
-		<desc>Film based show</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/139_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="139" start="20260227123000 +0000" stop="20260227130000 +0000">
@@ -10084,12 +10079,12 @@
 		<desc>Dong Lee, from China, arrives in India to start a biological war. However, a genetic engineering student tries to revive the skills of Bodhidharma with the help of his descendant to defeat Dong Lee.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/159_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="201" start="20260225150000 +0000" stop="20260225190000 +0000">
+	<programme channel="201" start="20260225150000 +0000" stop="20260225203800 +0000">
 		<title>ATP Tour 2026 Dubai Duty Free Tennis C'ships (500) D3 R2 S3 (Live)</title>
 		<desc>The Dubai Duty Free Tennis Championships is a premier professional tennis tournament in the UAE. It was founded in 1993 and matches are held at the Aviation Club Tennis Centre. The 2026 edition will be the 34th year of the ATP tournament.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch201_ATP500DubaiTennisChampionships.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="201" start="20260225190000 +0000" stop="20260225220000 +0000">
+	<programme channel="201" start="20260225203800 +0000" stop="20260225220000 +0000">
 		<title>WTA Tour 2026 Transylvania Open powered by Kaufland (250) QF 3 &amp; 4</title>
 		<desc>The Transylvania Open is a popular annual WTA 250 professional women's tennis tournament held in Cluj-Napoca, Romania, at the BT arena. It is played on indoor hard courts and it is voted the best WTA 250 event for 2022 &amp; 2023 by players.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch201_WTA_Tour_250_Generic.jpg?w=341&amp;h=192" />
@@ -10250,12 +10245,12 @@
 		<icon src="https://poster.starhubgo.com/poster/ch202_aso.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="202" start="20260225200000 +0000" stop="20260226000000 +0000">
-		<title>WTA Tour 2026 Merida Open (500) D3 S1 (Live)</title>
+		<title>WTA Tour 2026 Merida Open (500) Day 3 Session 1 (Live)</title>
 		<desc>The Merida Open is a professional women's tennis tournament in Mexico. The inaugural event was in 2023 and is held at Yucatán Country Club on outdoor hardcourts offering roughly US$1 million in prize money.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch202_WTA_ATP_Tour_500_Generic.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="202" start="20260226000000 +0000" stop="20260226040000 +0000">
-		<title>WTA Tour 2026 Merida Open (500) D3 S2 (Live)</title>
+		<title>WTA Tour 2026 Merida Open (500) Day 3 Session 2 (Live)</title>
 		<desc>The Merida Open is a professional women's tennis tournament in Mexico. The inaugural event was in 2023 and is held at Yucatán Country Club on outdoor hardcourts offering roughly US$1 million in prize money.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch202_WTA_ATP_Tour_500_Generic.jpg?w=341&amp;h=192" />
 	</programme>
@@ -10270,7 +10265,7 @@
 		<icon src="https://poster.starhubgo.com/poster/BURNLEY_vs_MANSFIELD_TOWN.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="202" start="20260226070000 +0000" stop="20260226100000 +0000">
-		<title>WTA Tour 2026 Merida Open (500) D3 S1</title>
+		<title>WTA Tour 2026 Merida Open (500) Day 3 Session 1</title>
 		<desc>The Merida Open is a professional women's tennis tournament in Mexico. The inaugural event was in 2023 and is held at Yucatán Country Club on outdoor hardcourts offering roughly US$1 million in prize money.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch202_WTA_ATP_Tour_500_Generic.jpg?w=341&amp;h=192" />
 	</programme>
@@ -10295,7 +10290,7 @@
 		<icon src="https://poster.starhubgo.com/poster/ch202_singapore_premier_league.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="202" start="20260226143000 +0000" stop="20260226173000 +0000">
-		<title>WTA Tour 2026 Merida Open (500) D3 S2</title>
+		<title>WTA Tour 2026 Merida Open (500) Day 3 Session 2</title>
 		<desc>The Merida Open is a professional women's tennis tournament in Mexico. The inaugural event was in 2023 and is held at Yucatán Country Club on outdoor hardcourts offering roughly US$1 million in prize money.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch202_WTA_ATP_Tour_500_Generic.jpg?w=341&amp;h=192" />
 	</programme>
@@ -10310,12 +10305,12 @@
 		<icon src="https://poster.starhubgo.com/poster/ch202_aso.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="202" start="20260226200000 +0000" stop="20260227000000 +0000">
-		<title>WTA Tour 2026 Merida Open (500) R16 S1 (Live)</title>
+		<title>WTA Tour 2026 Merida Open (500) R16 Session 1 (Live)</title>
 		<desc>The Merida Open is a professional women's tennis tournament in Mexico. The inaugural event was in 2023 and is held at Yucatán Country Club on outdoor hardcourts offering roughly US$1 million in prize money.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch202_WTA_ATP_Tour_500_Generic.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="202" start="20260227000000 +0000" stop="20260227040000 +0000">
-		<title>WTA Tour 2026 Merida Open (500) R16 S2 (Live)</title>
+		<title>WTA Tour 2026 Merida Open (500) R16 Session 2 (Live)</title>
 		<desc>The Merida Open is a professional women's tennis tournament in Mexico. The inaugural event was in 2023 and is held at Yucatán Country Club on outdoor hardcourts offering roughly US$1 million in prize money.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch202_WTA_ATP_Tour_500_Generic.jpg?w=341&amp;h=192" />
 	</programme>
@@ -11020,7 +11015,7 @@
 		<icon src="https://poster.starhubgo.com/poster/ch210_motorsports.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="210" start="20260227113000 +0000" stop="20260227153000 +0000">
-		<title>World Pickleball League S2, Mumbai Day 7 Chennai vs Bengaluru|Hyderabad vs Mumbai</title>
+		<title>World Pickleball League S2, Mumbai Day 7 Chennai vs Bengaluru|Hyderabad vs Mumba</title>
 		<desc>World Pickleball League Season 2 heads to Mumbai, as top international players compete in fast-paced team action, showcasing skill, intensity, and excitement in one of the sport's fast-growing leagues</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_spotv2_logo.jpg?w=960&amp;h=540" />
 	</programme>
@@ -11445,12 +11440,12 @@
 		<icon src="https://poster.starhubgo.com/poster/ch214_caf_champions_league.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="214" start="20260225180000 +0000" stop="20260225195500 +0000">
-		<title>UEFA Women's Champions League 2025/26: Man United vs Atletico Madrid - KO Play-O</title>
+		<title>UEFA Women's Champions League 2025/26: Man United vs Atletico Madrid - KO Play-Offs, 2nd Leg</title>
 		<desc>Catch all the exhilarating and high quality action involving the best clubs in Europe's most prestigious women's football competition.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch214_UEFA_Womens_Champions_League.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="214" start="20260225195500 +0000" stop="20260225220000 +0000">
-		<title>UEFA Champions League 2025/26: Real Madrid vs Benfica - KO Play-Offs,2nd Leg (Li</title>
+		<title>UEFA Champions League 2025/26: Real Madrid vs Benfica - KO Play-Offs,2nd Leg (Live)</title>
 		<desc>The most prestigious tournament in the world contested by top-division elite European clubs</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch214_UCL_live_match.jpg?w=341&amp;h=192" />
 	</programme>
@@ -12202,7 +12197,7 @@
 	<programme channel="221" start="20260225180000 +0000" stop="20260225183000 +0000">
 		<title>PL STORIES - EP 39</title>
 		<desc>Fresh from lifting the Africa Cup of Nations trophy with Senegal, Iliman Ndiaye reflects on a journey defined by resilience, imagination and quiet determination. From the academy pitches of France to the unforgiving grounds of non-league Boreham Wood, and on to the bright lights of the Premier League with Everton, we trace a rise that defied convention and expectation at every turn.</desc>
-		<icon src="https://poster.starhubgo.com/poster/pl_stories_V2.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/pl_stories_2025_26_ep39.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="221" start="20260225183000 +0000" stop="20260225190000 +0000">
 		<title>PL STORIES - EP 22</title>
@@ -12242,7 +12237,7 @@
 	<programme channel="221" start="20260225230000 +0000" stop="20260225233000 +0000">
 		<title>PL STORIES - EP 39</title>
 		<desc>Fresh from lifting the Africa Cup of Nations trophy with Senegal, Iliman Ndiaye reflects on a journey defined by resilience, imagination and quiet determination. From the academy pitches of France to the unforgiving grounds of non-league Boreham Wood, and on to the bright lights of the Premier League with Everton, we trace a rise that defied convention and expectation at every turn.</desc>
-		<icon src="https://poster.starhubgo.com/poster/pl_stories_V2.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/pl_stories_2025_26_ep39.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="221" start="20260225233000 +0000" stop="20260226000000 +0000">
 		<title>PL REWIND - EP 2</title>
@@ -12411,13 +12406,13 @@
 	</programme>
 	<programme channel="221" start="20260227010000 +0000" stop="20260227013000 +0000">
 		<title>THE BIG INTERVIEW - EP 29</title>
-		<desc>Extended sit-downs and more informal 'out and about' interviews with the Premier League's biggest stars, providing players with a platform to tell their story in their own words.</desc>
+		<desc>Michael Kayode's journey to the Premier League has been anything but straightforward. After spending seven years in the Juventus academy, Kayode moved to Gozzano in Serie D. A breakout campaign saw the then 16-year-old play a big part in Gozzano's title win and promotion. His form soon caught the attention of Fiorentina, where he made his Serie A debut and played in back-to-back UEFA Conference League finals.</desc>
 		<icon src="https://poster.starhubgo.com/poster/the_big_interview_V3.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="221" start="20260227013000 +0000" stop="20260227020000 +0000">
 		<title>PL STORIES - EP 39</title>
 		<desc>Fresh from lifting the Africa Cup of Nations trophy with Senegal, Iliman Ndiaye reflects on a journey defined by resilience, imagination and quiet determination. From the academy pitches of France to the unforgiving grounds of non-league Boreham Wood, and on to the bright lights of the Premier League with Everton, we trace a rise that defied convention and expectation at every turn.</desc>
-		<icon src="https://poster.starhubgo.com/poster/pl_stories_V2.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/pl_stories_2025_26_ep39.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="221" start="20260227020000 +0000" stop="20260227030000 +0000">
 		<title>THE CATCH-UP SHOW - EP 28</title>
@@ -12441,13 +12436,13 @@
 	</programme>
 	<programme channel="221" start="20260227050000 +0000" stop="20260227053000 +0000">
 		<title>THE BIG INTERVIEW - EP 29</title>
-		<desc>Extended sit-downs and more informal 'out and about' interviews with the Premier League's biggest stars, providing players with a platform to tell their story in their own words.</desc>
+		<desc>Michael Kayode's journey to the Premier League has been anything but straightforward. After spending seven years in the Juventus academy, Kayode moved to Gozzano in Serie D. A breakout campaign saw the then 16-year-old play a big part in Gozzano's title win and promotion. His form soon caught the attention of Fiorentina, where he made his Serie A debut and played in back-to-back UEFA Conference League finals.</desc>
 		<icon src="https://poster.starhubgo.com/poster/the_big_interview_V3.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="221" start="20260227053000 +0000" stop="20260227060000 +0000">
 		<title>PL STORIES - EP 39</title>
 		<desc>Fresh from lifting the Africa Cup of Nations trophy with Senegal, Iliman Ndiaye reflects on a journey defined by resilience, imagination and quiet determination. From the academy pitches of France to the unforgiving grounds of non-league Boreham Wood, and on to the bright lights of the Premier League with Everton, we trace a rise that defied convention and expectation at every turn.</desc>
-		<icon src="https://poster.starhubgo.com/poster/pl_stories_V2.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/pl_stories_2025_26_ep39.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="221" start="20260227060000 +0000" stop="20260227063000 +0000">
 		<title>NETBUSTERS - EP 27</title>
@@ -12472,11 +12467,11 @@
 	<programme channel="221" start="20260227090000 +0000" stop="20260227093000 +0000">
 		<title>PL STORIES - EP 39</title>
 		<desc>Fresh from lifting the Africa Cup of Nations trophy with Senegal, Iliman Ndiaye reflects on a journey defined by resilience, imagination and quiet determination. From the academy pitches of France to the unforgiving grounds of non-league Boreham Wood, and on to the bright lights of the Premier League with Everton, we trace a rise that defied convention and expectation at every turn.</desc>
-		<icon src="https://poster.starhubgo.com/poster/pl_stories_V2.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/pl_stories_2025_26_ep39.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="221" start="20260227093000 +0000" stop="20260227100000 +0000">
 		<title>THE BIG INTERVIEW - EP 29</title>
-		<desc>Extended sit-downs and more informal 'out and about' interviews with the Premier League's biggest stars, providing players with a platform to tell their story in their own words.</desc>
+		<desc>Michael Kayode's journey to the Premier League has been anything but straightforward. After spending seven years in the Juventus academy, Kayode moved to Gozzano in Serie D. A breakout campaign saw the then 16-year-old play a big part in Gozzano's title win and promotion. His form soon caught the attention of Fiorentina, where he made his Serie A debut and played in back-to-back UEFA Conference League finals.</desc>
 		<icon src="https://poster.starhubgo.com/poster/the_big_interview_V3.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="221" start="20260227100000 +0000" stop="20260227103000 +0000">
@@ -12496,7 +12491,7 @@
 	</programme>
 	<programme channel="221" start="20260227120000 +0000" stop="20260227130000 +0000">
 		<title>WELCOME TO THE WEEKEND - FRI 27 FEB</title>
-		<desc>Light-hearted, inclusive and entertaining, Welcome to the Weekend is the show that kicks off the Premier League weekend. We will focus on the football but also on the lifestyle topics that footballers and fans love - food, fashion, music, movies and much, much more.</desc>
+		<desc>As Lunar New Year celebrations continue, Declan Rice and Gabriel learn Chinese traditions and attempt to make dumplings. We spend 4 minutes with Chelsea full-back Malo Gusto who tells us about his rise to the Premier League, while Ellie Collins is live in Bournemouth ahead of Saturday's early match against Sunderland.</desc>
 		<icon src="https://poster.starhubgo.com/poster/welcome_to_the_weekend_V2.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="221" start="20260227130000 +0000" stop="20260227133000 +0000">
@@ -12511,7 +12506,7 @@
 	</programme>
 	<programme channel="221" start="20260227143000 +0000" stop="20260227150000 +0000">
 		<title>THE BIG INTERVIEW - EP 29</title>
-		<desc>Extended sit-downs and more informal 'out and about' interviews with the Premier League's biggest stars, providing players with a platform to tell their story in their own words.</desc>
+		<desc>Michael Kayode's journey to the Premier League has been anything but straightforward. After spending seven years in the Juventus academy, Kayode moved to Gozzano in Serie D. A breakout campaign saw the then 16-year-old play a big part in Gozzano's title win and promotion. His form soon caught the attention of Fiorentina, where he made his Serie A debut and played in back-to-back UEFA Conference League finals.</desc>
 		<icon src="https://poster.starhubgo.com/poster/the_big_interview_V3.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="221" start="20260227150000 +0000" stop="20260227153000 +0000">
@@ -24180,8 +24175,8 @@
 		<icon src="https://poster.starhubgo.com/poster/ch701_BBC_news.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="701" start="20260226013000 +0000" stop="20260226020000 +0000">
-		<title>Ukraine 4 Years On: Boris Johnson and Sir Tony Radakin</title>
-		<desc>Laura Kuenssberg speaks to former Prime Minister Boris Johnson and his Chief of the Defence Staff Tony Radakin in an exclusive interview. They reflect on four years of war in Ukraine; their attempts to prevent it, their efforts to support Ukraine and their hopes for the future.</desc>
+		<title>Ukraine 4 Years On</title>
+		<desc>Laura Kuenssberg speaks to former Prime Minister Boris Johnson and his Chief of the Defence Staff Tony Radakin in an exclusive interview. They reflect on four years of war in Ukraine.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch701_BBC_news.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="701" start="20260226020000 +0000" stop="20260226023000 +0000">
@@ -30475,13 +30470,13 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="811" start="20260226005500 +0000" stop="20260226010000 +0000">
-		<title>Exercise for Everyone</title>
-		<desc>An easy-to-do exercise program for everyone from children to the elderly.</desc>
+		<title>News &amp; Weather</title>
+		<desc>The latest up-to-date news and nationwide weather information.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="811" start="20260226010000 +0000" stop="20260226010500 +0000">
-		<title>News &amp; Weather</title>
-		<desc>The latest up-to-date news and nationwide weather information.</desc>
+		<title>100 Beautiful Mountains of Japan Mini</title>
+		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="811" start="20260226010500 +0000" stop="20260226015000 +0000">
@@ -30539,19 +30534,24 @@
 		<desc>The 113th Drama Serial, inspired by the lives of Koizumi Setsu and Lafcadio Hearn also known as Koizumi Yakumo, portrays those who were left behind in the rapidly Westernizing Meiji era. At its heart is a woman captivated by ghost stories and her foreign-born husband. Together, they share a life that seems ordinary yet delightfully odd.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="811" start="20260226040000 +0000" stop="20260226040500 +0000">
-		<title>News</title>
-		<desc>The latest up-to-date news from Tokyo.</desc>
+	<programme channel="811" start="20260226040000 +0000" stop="20260226045500 +0000">
+		<title>Classical Music Club</title>
+		<desc>Enjoy chamber music performed by first-class Japanese musicians as well as chamber orchestra and soloists from overseas.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="811" start="20260226040500 +0000" stop="20260226055000 +0000">
-		<title>News Around Japan</title>
-		<desc>Program introduces the latest news from all over Japan.</desc>
+	<programme channel="811" start="20260226045500 +0000" stop="20260226052200 +0000">
+		<title>JAPAN DELISH</title>
+		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="811" start="20260226055000 +0000" stop="20260226055500 +0000">
-		<title>World Weather</title>
-		<desc>Weather information of the different areas around the world.</desc>
+	<programme channel="811" start="20260226052200 +0000" stop="20260226055200 +0000">
+		<title>The Great Nature "The Colossal Waterfall Forged by the Great Rift"</title>
+		<desc>Experience marvelous nature that you have never seen before. This program introduces ultimate forms of ‘great nature’ including ground, ocean, and natural phenomena of the earth that existed from 4.6 billion years ago.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="811" start="20260226055200 +0000" stop="20260226055500 +0000">
+		<title>Mini Program</title>
+		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="811" start="20260226055500 +0000" stop="20260226060000 +0000">
@@ -30560,8 +30560,8 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="811" start="20260226060000 +0000" stop="20260226061000 +0000">
-		<title>News &amp; Weather</title>
-		<desc>The latest up-to-date news and nationwide weather information.</desc>
+		<title>Natural Grandeur of the East Mini</title>
+		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="811" start="20260226061000 +0000" stop="20260226063700 +0000">
@@ -30645,7 +30645,7 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="811" start="20260226111500 +0000" stop="20260226114000 +0000">
-		<title>NHK Regional Showcases</title>
+		<title>NHK Regional Showcases: Nagasaki Special</title>
 		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
@@ -30675,7 +30675,7 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="811" start="20260226134500 +0000" stop="20260226140000 +0000">
-		<title>Night Drama Serial Encore "The Incidents are Happening All Around It." Season 1 Ep. 4</title>
+		<title>Night Drama Serial "The Incidents are Happening All Around It." Series 1 Encore</title>
 		<desc>A comedy drama by the production team of NHK's comedy show "The Comedy of LIFE" revolving around local police station Shingetsu-sho. Enjoy this new style police drama that focuses on "unimportant" troubles that occur around incidents.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
@@ -30797,11 +30797,6 @@
 	<programme channel="811" start="20260226202500 +0000" stop="20260226205300 +0000">
 		<title>Journeys in Japan (B)</title>
 		<desc>Explore a different side of Japan. Meet the locals and discover traditions and cultures not usually found in guidebooks!</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="811" start="20260226205300 +0000" stop="20260226205600 +0000">
-		<title>Mini Program</title>
-		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="811" start="20260226205600 +0000" stop="20260226210000 +0000">
@@ -33739,37 +33734,37 @@
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20260226160000 +0000" stop="20260226170500 +0000">
+	<programme channel="832" start="20260226160000 +0000" stop="20260226171100 +0000">
 		<title>Cheer up!small shops</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20260226170500 +0000" stop="20260226180400 +0000">
+	<programme channel="832" start="20260226171100 +0000" stop="20260226181000 +0000">
 		<title>Dragon TV Primetime News</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20260226180400 +0000" stop="20260226185500 +0000">
+	<programme channel="832" start="20260226181000 +0000" stop="20260226192900 +0000">
 		<title>Dream Home</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20260226185500 +0000" stop="20260226201100 +0000">
+	<programme channel="832" start="20260226192900 +0000" stop="20260226204500 +0000">
 		<title>Ai Romance</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20260226201100 +0000" stop="20260226211700 +0000">
+	<programme channel="832" start="20260226204500 +0000" stop="20260226213500 +0000">
 		<title>A Green Trip</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20260226211700 +0000" stop="20260226220900 +0000">
-		<title>Future China</title>
+	<programme channel="832" start="20260226213500 +0000" stop="20260226221000 +0000">
+		<title>Searching for flavor</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20260226220900 +0000" stop="20260226223500 +0000">
+	<programme channel="832" start="20260226221000 +0000" stop="20260226223500 +0000">
 		<title>New Entertainment</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
@@ -34037,7 +34032,7 @@
 	<programme channel="838" start="20260226123000 +0000" stop="20260226133000 +0000">
 		<title>Pretty Dangerous - EP 4</title>
 		<desc>Undercover cop Pan Yifeng leads three elite female agents - the Sherlock-like Shen Jiaqi, martial artist Jiang Miaozhi, and data whiz Tong Xiaoru - to bust a "Fairy Dust" drug ring near tycoon Liu Biao's circle.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch838_pretty_dangerous.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch838_pretty_dangerous_still_ep4.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="838" start="20260226133000 +0000" stop="20260226143000 +0000">
 		<title>Yummy, Yummy? Yummy! - EP 19</title>
