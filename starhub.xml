@@ -30499,6 +30499,11 @@
 		<desc>Explore a different side of Japan. Meet the locals and discover traditions and cultures not usually found in guidebooks!</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
+	<programme channel="811" start="20260226205300 +0000" stop="20260226205600 +0000">
+		<title>Mini Program</title>
+		<desc />
+		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
 	<programme channel="811" start="20260226205600 +0000" stop="20260226210000 +0000">
 		<title>World Weather</title>
 		<desc>Weather information of the different areas around the world.</desc>
@@ -30619,12 +30624,17 @@
 		<desc>If you have any interests in Chinese community, join us to study the Chinese language!</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="811" start="20260227063000 +0000" stop="20260227072900 +0000">
+	<programme channel="811" start="20260227063000 +0000" stop="20260227073000 +0000">
 		<title>ETV Special "Fading Homeland" (R)</title>
 		<desc>As battles with Russia persist in an eastern Ukrainian town, electricity is vital. Through power grid workers risking their lives to fix the grid, we depict people losing their homeland to war.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="811" start="20260227072900 +0000" stop="20260227074000 +0000">
+	<programme channel="811" start="20260227073000 +0000" stop="20260227073700 +0000">
+		<title>Mini Program</title>
+		<desc />
+		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="811" start="20260227073700 +0000" stop="20260227074000 +0000">
 		<title>Mini Program</title>
 		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
@@ -30845,8 +30855,8 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="811" start="20260227230000 +0000" stop="20260227231500 +0000">
-		<title>Drama Serial "The Ghost Writer's Wife"</title>
-		<desc />
+		<title>Drama Serial "The Ghost Writer's Wife" Week 21</title>
+		<desc>The 113th Drama Serial, inspired by the lives of Koizumi Setsu and Lafcadio Hearn also known as Koizumi Yakumo, portrays those who were left behind in the rapidly Westernizing Meiji era. At its heart is a woman captivated by ghost stories and her foreign-born husband. Together, they share a life that seems ordinary yet delightfully odd.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="811" start="20260227231500 +0000" stop="20260228000000 +0000">
@@ -30884,19 +30894,34 @@
 		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="811" start="20260228014000 +0000" stop="20260228021000 +0000">
+	<programme channel="811" start="20260228014000 +0000" stop="20260228020700 +0000">
 		<title>Prime Fukushima (R)</title>
 		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="811" start="20260228021000 +0000" stop="20260228023000 +0000">
-		<title>TBA</title>
+	<programme channel="811" start="20260228020700 +0000" stop="20260228021000 +0000">
+		<title>Mini Program</title>
 		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="811" start="20260228023000 +0000" stop="20260228025000 +0000">
-		<title>Documentary: 20 Minutes</title>
-		<desc>A documentary program targeting the younger generation, who are turning away from TV, produced and directed by young creators.</desc>
+	<programme channel="811" start="20260228021000 +0000" stop="20260228022500 +0000">
+		<title>RAMEN JAPAN 15min.</title>
+		<desc />
+		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="811" start="20260228022500 +0000" stop="20260228023000 +0000">
+		<title>This World is Filled with Wants 5min.</title>
+		<desc />
+		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="811" start="20260228023000 +0000" stop="20260228024000 +0000">
+		<title>Giant Trees in Japan Mini</title>
+		<desc />
+		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="811" start="20260228024000 +0000" stop="20260228025000 +0000">
+		<title>The Great Nature 10min.</title>
+		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="811" start="20260228025000 +0000" stop="20260228025600 +0000">
@@ -30925,8 +30950,8 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="811" start="20260228034500 +0000" stop="20260228040000 +0000">
-		<title>Drama Serial "The Ghost Writer's Wife" (R)</title>
-		<desc />
+		<title>Drama Serial "The Ghost Writer's Wife" Week 21 (R)</title>
+		<desc>The 113th Drama Serial, inspired by the lives of Koizumi Setsu and Lafcadio Hearn also known as Koizumi Yakumo, portrays those who were left behind in the rapidly Westernizing Meiji era. At its heart is a woman captivated by ghost stories and her foreign-born husband. Together, they share a life that seems ordinary yet delightfully odd.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="811" start="20260228040000 +0000" stop="20260228040500 +0000">
@@ -30940,7 +30965,7 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="811" start="20260228045000 +0000" stop="20260228051500 +0000">
-		<title>NHK Regional Showcases (R)</title>
+		<title>NHK Regional Showcases: Nagasaki Special (R)</title>
 		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
@@ -31030,7 +31055,7 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="811" start="20260228130000 +0000" stop="20260228135000 +0000">
-		<title>Unsolved Cases</title>
+		<title>Unsolved Cases "File 13: Tokyo Kabukicho Building Fire"</title>
 		<desc>NHK Special's iconic series "Unsolved Cases" becomes a standalone program! Through in-depth investigations, the series explores a wide range of cases-from historic incidents that shook society to mysterious local crimes that cast long shadows over communities, both in Japan and abroad. Each episode reveals the enduring impact of these cases on contemporary society and uncovers valuable lessons for the future.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
