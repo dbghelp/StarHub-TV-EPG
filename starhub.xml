@@ -1346,7 +1346,7 @@
 	</programme>
 	<programme channel="103" start="20260306123000 +0000" stop="20260306130000 +0000">
 		<title>Frontline - EP 42</title>
-		<desc>Frontline is a weekly investigative current affairs programme that aims to address issues closest to the hearts of Singaporeans.</desc>
+		<desc>Singapore will establish a new National AI Council to drive Singapore's AI agenda. What are the AI adoption used in F&amp;Bs to overcome the challenges faced? Are the SMEs coping well with AI? Singapore’s secondary schools tightened phone rules in January, reducing screen time on campus. Do stricter policies truly eliminate rule-breaking, or do some students continue to find ways around them?</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/103_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="103" start="20260306130000 +0000" stop="20260306140000 +0000">
@@ -9344,19 +9344,9 @@
 		<desc>The British Parliament has tightened laws to protect defenseless victims of sexualised deepfakes. +++ It’s widely believed that equality is a normal part of life in Norwegian barracks, but there have been multiple</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="153" start="20260305090000 +0000" stop="20260305090200 +0000">
+	<programme channel="153" start="20260305090000 +0000" stop="20260305100000 +0000">
 		<title>DW News</title>
 		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="153" start="20260305090200 +0000" stop="20260305091500 +0000">
-		<title>DW News Focus</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="153" start="20260305091500 +0000" stop="20260305100000 +0000">
-		<title>DocFilm</title>
-		<desc>Sugar has long played a central role in the global economy. But this lucrative business was also a major driver of both colonialism and slavery. To this day, workers are systematically exploited for sugar production.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20260305100000 +0000" stop="20260305100200 +0000">
@@ -9386,7 +9376,7 @@
 	</programme>
 	<programme channel="153" start="20260305111500 +0000" stop="20260305113000 +0000">
 		<title>Sports Life</title>
-		<desc>_x000D__x000D_In Sisimiut, young musher Nukaaraq Olsen keeps Greenland’s dogsledding tradition alive. Raised around sled dogs, he trains, hunts and prepares for the national race with his 23 dogs. For him and his father, dogsledding is culture, identity and a way to live in touch with nature._x000D__x000D_</desc>
+		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20260305113000 +0000" stop="20260305120000 +0000">
@@ -9506,7 +9496,7 @@
 	</programme>
 	<programme channel="153" start="20260305193000 +0000" stop="20260305200000 +0000">
 		<title>To the Point</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+		<desc>After the US and Israel attack Iran, conflagration promises to have lasting consequences for the entire Gulf region. What’s the endgame and is there a viable exit strategy? _x000D_Our guests: Diba Mirzaei, (Iran-Expert, Giga-Inst.) Kristin Helberg (Middle-East-Expert); Hans-Jakob Schindler (Security-expert); Daniel-Dylan Böhmer (Journalist, Die Welt); _x000D_</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20260305200000 +0000" stop="20260305203000 +0000">
@@ -9546,7 +9536,7 @@
 	</programme>
 	<programme channel="153" start="20260305223000 +0000" stop="20260305230000 +0000">
 		<title>To the Point</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+		<desc>After the US and Israel attack Iran, conflagration promises to have lasting consequences for the entire Gulf region. What’s the endgame and is there a viable exit strategy? _x000D_Our guests: Diba Mirzaei, (Iran-Expert, Giga-Inst.) Kristin Helberg (Middle-East-Expert); Hans-Jakob Schindler (Security-expert); Daniel-Dylan Böhmer (Journalist, Die Welt); _x000D_</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20260305230000 +0000" stop="20260305230200 +0000">
@@ -9565,8 +9555,8 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20260305233000 +0000" stop="20260306000000 +0000">
-		<title>Best of DW Podcasts</title>
-		<desc>Select DW podcasts enrich the program with current analyses of world politics and its influence on our daily lives. There will also be space in the program for lively discussions about social standards and taboos.</desc>
+		<title>DW News</title>
+		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20260306000000 +0000" stop="20260306000200 +0000">
@@ -10345,12 +10335,12 @@
 		<icon src="https://poster.starhubgo.com/poster/ch202_giants_live.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="202" start="20260305100000 +0000" stop="20260305140000 +0000">
-		<title>HSBC BWF World Tour 2026 All England Open Badminton C'ships (S1000) R16 S1 C2 (L</title>
+		<title>HSBC BWF World Tour 2026 All England Open Badminton C'ships (S1000) R16 S1 C2 (Live)</title>
 		<desc>The All England Open Badminton Championships is the world's oldest and one of the most prestigious annual badminton tournaments. It was established in 1899 and is held annually in Birmingham, England.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch202_bwf_world_tour_2026_yonex_all_england_open.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="202" start="20260305140000 +0000" stop="20260305180000 +0000">
-		<title>HSBC BWF World Tour 2026 All England Open Badminton C'ships (S1000) R16 S2 C2 (L</title>
+		<title>HSBC BWF World Tour 2026 All England Open Badminton C'ships (S1000) R16 S2 C2 (Live)</title>
 		<desc>The All England Open Badminton Championships is the world's oldest and one of the most prestigious annual badminton tournaments. It was established in 1899 and is held annually in Birmingham, England.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch202_bwf_world_tour_2026_yonex_all_england_open.jpg?w=960&amp;h=540" />
 	</programme>
@@ -11460,7 +11450,7 @@
 		<icon src="https://poster.starhubgo.com/poster/ch214_inside_sailing.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="214" start="20260304220000 +0000" stop="20260304235000 +0000">
-		<title>UEFA Europa League 2025/26: Nottingham Forest vs Fenerbahce - KO Play-Offs,2nd Leg</title>
+		<title>UEFA Europa League 2025/26: Nottingham Forest vs Fenerbahce - KO Play-Offs,2nd L</title>
 		<desc>The 55th season of the UEL as Europe's elite clubs compete in this premier football tournament</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch214_UEL_full_match.jpg?w=960&amp;h=540" />
 	</programme>
