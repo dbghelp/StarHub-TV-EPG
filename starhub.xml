@@ -896,7 +896,7 @@
 	</programme>
 	<programme channel="102" start="20260308113000 +0000" stop="20260308130000 +0000">
 		<title>Chingay 2026 - Wish</title>
-		<desc />
+		<desc>Little Star, the main character, lands on Chingay 2026 centre stage. Unsure of her own wish, she embarks on a journey of self discovery. Guided by Yuan Bao, Nenek, Diya, and Reindeer, she learns the true meaning of courage, family, light, and love. Inspired by the unity and passion around her, she discovers her wish to become a shooting star that shines for a brighter, multicultural Singapore.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="102" start="20260308130000 +0000" stop="20260308133000 +0000">
@@ -1066,7 +1066,7 @@
 	</programme>
 	<programme channel="103" start="20260307075000 +0000" stop="20260307080000 +0000">
 		<title>Old Taste Detectives S3 - EP 26</title>
-		<desc />
+		<desc>Delicacies change over time and may differ from the original version. Although time can create tradition and authenticity but it can also change the original taste of the delicacies. The host will revisit the delicacies based on local traditional taste and reproduce the old taste through a chef.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/103_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="103" start="20260307080000 +0000" stop="20260307083000 +0000">
@@ -9854,15 +9854,15 @@
 		<desc>Catch all the best action from the Millbrook Resort in Queenstown, New Zeland.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch203_asian_tour.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="203" start="20260307100000 +0000" stop="20260307143000 +0000">
-		<title>DP World Tour 2026 (Live)</title>
-		<desc>The Joburg Open is a men's professional golf tournament that is held in Johannesburg, South Africa. It was launched in 2007 as a Sunshine Tour event, and has since become a permanent fixture on the schedule. It is held at the Houghton Golf Club.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch203_dp_world_tour.jpg?w=960&amp;h=540" />
-	</programme>
-	<programme channel="203" start="20260307143000 +0000" stop="20260307153000 +0000">
+	<programme channel="203" start="20260307100000 +0000" stop="20260307110000 +0000">
 		<title>PGA Tour 2026 Highlights</title>
 		<desc>Relive all the unforgettable moments from the PGA National Resort and Spa at Palm Beach Gardens, Florida.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch203_PGA_TOUR.jpg?w=960&amp;h=540" />
+	</programme>
+	<programme channel="203" start="20260307110000 +0000" stop="20260307153000 +0000">
+		<title>DP World Tour 2026 (Live)</title>
+		<desc>The Joburg Open is a men's professional golf tournament that is held in Johannesburg, South Africa. It was launched in 2007 as a Sunshine Tour event, and has since become a permanent fixture on the schedule. It is held at the Houghton Golf Club.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch203_dp_world_tour.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="203" start="20260307153000 +0000" stop="20260307160000 +0000">
 		<title>DP World Tour 2026 Highlights</title>
@@ -24185,9 +24185,9 @@
 		<icon src="https://poster.starhubgo.com/poster/ch241_MyViewWithLaraTrump.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="702" start="20260308100000 +0000" stop="20260308110000 +0000">
-		<title>FOX &amp; Friends Weekend</title>
-		<desc>News, weather, sports &amp; entertainment</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch241_FOXAndFriendsWeekend.jpg?w=341&amp;h=192" />
+		<title>FOX News Saturday Night with Jimmy Failla</title>
+		<desc>For the latest news, expert analyses and special reports from across the globe, stay tuned for more top quality news programmes right here!</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch241_FOXNewsJIMMYFAILLA.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="702" start="20260308110000 +0000" stop="20260308120000 +0000">
 		<title>FOX &amp; Friends Weekend</title>
@@ -24205,14 +24205,14 @@
 		<icon src="https://poster.starhubgo.com/poster/ch241_FOXAndFriendsWeekend.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="702" start="20260308140000 +0000" stop="20260308150000 +0000">
+		<title>FOX &amp; Friends Weekend</title>
+		<desc>News, weather, sports &amp; entertainment</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch241_FOXAndFriendsWeekend.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="702" start="20260308150000 +0000" stop="20260308160000 +0000">
 		<title>Sunday Morning Futures</title>
 		<desc>Takes a hard look at job creation, investment opprotunities and more</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch241_SundayMorningFutures.jpg?w=960&amp;h=540" />
-	</programme>
-	<programme channel="702" start="20260308150000 +0000" stop="20260308160000 +0000">
-		<title>The Sunday Briefing</title>
-		<desc>For the latest news, expert analyses and special reports from across the globe, stay tuned for more top quality news programmes right here!</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch241_TheSundayBriefing.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="703" start="20260306160000 +0000" stop="20260306163000 +0000">
 		<title>Sky News Today</title>
