@@ -11215,7 +11215,7 @@
 		<icon src="https://poster.starhubgo.com/poster/ch211_AOGeneric.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="211" start="20260310051000 +0000" stop="20260310061000 +0000">
-		<title>UCI Women's World Tour H/Ls 2026 Santos Tour Down Under Post Event</title>
+		<title>UCI Women's World Tour Highlights 2026 Santos Tour Down Under Post Event</title>
 		<desc>Highlights of the premier annual female elite road cycling tour.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_uci_womens_world_tour_2026.jpg?w=960&amp;h=540" />
 	</programme>
@@ -11295,7 +11295,7 @@
 		<icon src="https://poster.starhubgo.com/poster/ch211_AOGeneric.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="211" start="20260310164500 +0000" stop="20260310165500 +0000">
-		<title>Premier Padel Match H/Ls 2026 Riyadh P1 Women</title>
+		<title>Premier Padel Match Highlights 2026 Riyadh P1 Women</title>
 		<desc>Men &amp; Women's Final Match Highlights from Premier Padel Tour 2026</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_premier_padel.jpg?w=341&amp;h=192" />
 	</programme>
@@ -11665,7 +11665,7 @@
 		<icon src="https://poster.starhubgo.com/poster/ch214_mutv.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="214" start="20260310013000 +0000" stop="20260310020000 +0000">
-		<title>MUTV: Match Day Review 2025/26</title>
+		<title>MUTV: Match Day Review 2025/26 Newcastle vs Man United</title>
 		<desc>Directly after the final whistle of every Manchester United match the MUTV team review the game and all the talking points.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch214_mutv_match_day_review.jpg?w=960&amp;h=540" />
 	</programme>
@@ -11680,7 +11680,7 @@
 		<icon src="https://poster.starhubgo.com/poster/ch214_HSBC_SVNS_Series_2026.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="214" start="20260310050000 +0000" stop="20260310053000 +0000">
-		<title>MUTV Highlights 2025/26</title>
+		<title>MUTV Highlights 2025/26 Man United vs Crystal Palace</title>
 		<desc>Enjoy match highlights from Manchester United's Premier League, FA Cup and Carabao Cup games from MUTV on beIN SPORTS</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch214_mutv_highlights.jpg?w=341&amp;h=192" />
 	</programme>
@@ -11690,7 +11690,7 @@
 		<icon src="https://poster.starhubgo.com/poster/ch214_mutv.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="214" start="20260310073000 +0000" stop="20260310080000 +0000">
-		<title>MUTV: Match Day Review 2025/26</title>
+		<title>MUTV: Match Day Review 2025/26 Newcastle vs Man United</title>
 		<desc>Directly after the final whistle of every Manchester United match the MUTV team review the game and all the talking points.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch214_mutv_match_day_review.jpg?w=960&amp;h=540" />
 	</programme>
@@ -11725,7 +11725,7 @@
 		<icon src="https://poster.starhubgo.com/poster/ch214_sail_gp_highlights.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="214" start="20260310195500 +0000" stop="20260310220000 +0000">
-		<title>UEFA Champions League 2025/26: Atletico Madrid vs Tottenham - R16, 1st Leg (Live)</title>
+		<title>UEFA Champions League 2025/26: Atletico Madrid vs Tottenham - R16, 1st Leg (Live</title>
 		<desc>The most prestigious tournament in the world contested by top-division elite European clubs</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch214_UCL_live_match.jpg?w=341&amp;h=192" />
 	</programme>
@@ -13419,77 +13419,87 @@
 		<desc>Live coverage of the 2026 Super Rugby Championship featuring teams from across the southern hemisphere.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch207_premier_sports.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="247" start="20260310062000 +0000" stop="20260310081000 +0000">
+	<programme channel="247" start="20260310062000 +0000" stop="20260310075000 +0000">
 		<title>Super Rugby Brumbies v Reds</title>
 		<desc>Live coverage of the 2026 Super Rugby Championship featuring teams from across the southern hemisphere.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch207_premier_sports.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="247" start="20260310081000 +0000" stop="20260310091000 +0000">
+	<programme channel="247" start="20260310075000 +0000" stop="20260310082000 +0000">
+		<title>5 &amp; 6 Nations Classics 2003 - England v Scotland</title>
+		<desc>A look at some of the best matches in the history of rugby's Six Nations.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch207_premier_sports.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="247" start="20260310082000 +0000" stop="20260310092000 +0000">
 		<title>NRL Try Time</title>
 		<desc>A round-up of all the tries and key moments from the latest round of fixtures in the 2026 NRL Premiership.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch207_premier_sports.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="247" start="20260310091000 +0000" stop="20260310093000 +0000">
+	<programme channel="247" start="20260310092000 +0000" stop="20260310094000 +0000">
 		<title>AFL Highlights Sydney v Carlton</title>
 		<desc>Catch all the standout moments from the latest matches of the 2026 Toyota AFL Premiership Season.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch207_premier_sports.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="247" start="20260310093000 +0000" stop="20260310095000 +0000">
+	<programme channel="247" start="20260310094000 +0000" stop="20260310100000 +0000">
 		<title>AFL Highlights Gold Coast v Geelong</title>
 		<desc>Catch all the standout moments from the latest matches of the 2026 Toyota AFL Premiership Season.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch207_premier_sports.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="247" start="20260310095000 +0000" stop="20260310101000 +0000">
+	<programme channel="247" start="20260310100000 +0000" stop="20260310102000 +0000">
 		<title>AFL Highlights GWS Giants v Hawthorn</title>
 		<desc>Catch all the standout moments from the latest matches of the 2026 Toyota AFL Premiership Season.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch207_premier_sports.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="247" start="20260310101000 +0000" stop="20260310103000 +0000">
+	<programme channel="247" start="20260310102000 +0000" stop="20260310104000 +0000">
 		<title>AFL Highlights Brisbane v Bulldogs</title>
 		<desc>Catch all the standout moments from the latest matches of the 2026 Toyota AFL Premiership Season.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch207_premier_sports.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="247" start="20260310103000 +0000" stop="20260310105000 +0000">
+	<programme channel="247" start="20260310104000 +0000" stop="20260310110000 +0000">
 		<title>AFL Highlights St Kilda v Collingwood</title>
 		<desc>Catch all the standout moments from the latest matches of the 2026 Toyota AFL Premiership Season.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch207_premier_sports.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="247" start="20260310105000 +0000" stop="20260310124000 +0000">
+	<programme channel="247" start="20260310110000 +0000" stop="20260310124000 +0000">
 		<title>NRL Broncos v Panthers</title>
 		<desc>Coverage of the 2026 NRL season featuring the brightest stars in Rugby League universe.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch207_premier_sports.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="247" start="20260310124000 +0000" stop="20260310143000 +0000">
+	<programme channel="247" start="20260310124000 +0000" stop="20260310142000 +0000">
 		<title>Guinness Six Nations Ireland v Wales</title>
 		<desc>Coverage of the 2026 Guinness Six Nations.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch207_premier_sports.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="247" start="20260310143000 +0000" stop="20260310162000 +0000">
+	<programme channel="247" start="20260310142000 +0000" stop="20260310160000 +0000">
 		<title>Guinness Six Nations Scotland v France</title>
-		<desc>Coverage of the 2026 Guinness Six Nations.</desc>
+		<desc>Scotland welcome an unbeaten France to Scottish Gas Murrayfield Stadium in this mouthwatering Guinness Men's Six Nations Championship matchup.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch207_premier_sports.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="247" start="20260310162000 +0000" stop="20260310181000 +0000">
+	<programme channel="247" start="20260310160000 +0000" stop="20260310175000 +0000">
 		<title>Guinness Six Nations Italy v England</title>
 		<desc>Coverage of the 2026 Guinness Six Nations.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch207_premier_sports.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="247" start="20260310181000 +0000" stop="20260310191000 +0000">
+	<programme channel="247" start="20260310175000 +0000" stop="20260310182000 +0000">
+		<title>5 &amp; 6 Nations Classics 2007 - Italy v France</title>
+		<desc>A look at some of the best matches in the history of rugby's Six Nations.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch207_premier_sports.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="247" start="20260310182000 +0000" stop="20260310192000 +0000">
 		<title>NRL Try Time</title>
 		<desc>A round-up of all the tries and key moments from the latest round of fixtures in the 2026 NRL Premiership.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch207_premier_sports.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="247" start="20260310191000 +0000" stop="20260310214000 +0000">
+	<programme channel="247" start="20260310192000 +0000" stop="20260310215000 +0000">
 		<title>AFL Gold Coast v Geelong</title>
 		<desc>All the action from the 2026 season of the Toyota Australian Football League.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch207_premier_sports.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="247" start="20260310214000 +0000" stop="20260310233000 +0000">
+	<programme channel="247" start="20260310215000 +0000" stop="20260310233500 +0000">
 		<title>Under-20 Six Nations Scotland U20 v France U20</title>
 		<desc>Coverage of the 19th running of the Under 20s Six Nations Championship.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch207_premier_sports.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="247" start="20260310233000 +0000" stop="20260311012000 +0000">
+	<programme channel="247" start="20260310233500 +0000" stop="20260311012000 +0000">
 		<title>Under-20 Six Nations Italy U20 v England U20</title>
 		<desc>Coverage of the 19th running of the Under 20s Six Nations Championship.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch207_premier_sports.jpg?w=341&amp;h=192" />
@@ -24485,9 +24495,9 @@
 		<icon src="https://poster.starhubgo.com/poster/ch701_BBC_news.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="701" start="20260310013000 +0000" stop="20260310020000 +0000">
-		<title>Talking Business</title>
-		<desc>Can China's economy become less reliant on selling goods to the rest of the world?</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch701_talking_business.jpg?w=960&amp;h=540" />
+		<title>Samantha Power on the New Global Order</title>
+		<desc>America's former UN Ambassador and USAID chief, Samantha Power, speaks to BBC News about the year's dramatic changes in US foreign aid and policy.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch701_BBC_news.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="701" start="20260310020000 +0000" stop="20260310023000 +0000">
 		<title>Newsday</title>
@@ -30760,7 +30770,7 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="811" start="20260310010500 +0000" stop="20260310015000 +0000">
-		<title>Tsurube's Salute to Families Tozuka Junki in Minamisoma City, Fukushima Prefecture" Part 2 (R)</title>
+		<title>Tsurube's Salute to Families Tozuka Junki in Minamisoma City, Fukushima Prefectu</title>
 		<desc>Veteran rakugo storyteller Shofukutei Tsurube travels across Japan with a personality, introducing families they meet along the way.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
