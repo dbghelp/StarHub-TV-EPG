@@ -10544,10 +10544,15 @@
 		<desc>End of Transmission</desc>
 		<icon src="https://poster.starhubgo.com/Linear_Channels2/203_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="203" start="20260313100000 +0000" stop="20260313130000 +0000">
+	<programme channel="203" start="20260313100000 +0000" stop="20260313123000 +0000">
 		<title>PGA Tour 2026</title>
 		<desc>The Puerto Rico Open is the only PGA Tour tournament on the island and the first in the Caribbean. It was first played in 2008. The tournament is played at the Coco Beach Golf Course. As an alternate event, the winner does not earn a bid to the Masters, but still receives a two-year exemption on the PGA Tour and entry into the PGA Championship as a Tour winner.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch203_PGA_TOUR.jpg?w=960&amp;h=540" />
+	</programme>
+	<programme channel="203" start="20260313123000 +0000" stop="20260313130000 +0000">
+		<title>PGA Tour: The CUT 2026</title>
+		<desc>The CUT is a weekly show that highlights the PGA TOUR lifestyle inside and outside the ropes, telling the unique stories of the game's top names, as well as the up-and-coming stars on TOUR.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch203_PGA_Tour_the_cut.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="203" start="20260313130000 +0000" stop="20260313160000 +0000">
 		<title>PGA Tour 2026</title>
@@ -10595,7 +10600,7 @@
 		<icon src="https://poster.starhubgo.com/Linear_Channels2/204_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="204" start="20260313023000 +0000" stop="20260313030000 +0000">
-		<title>ICC Men's T20 World Cup 2026 HLs M26: USA vs Namibia HLs</title>
+		<title>ICC Men's T20 World Cup 2026 HLs</title>
 		<desc>The ICC Men's T20 World Cup 2026 will be the 10th edition of the Men's T20 World Cup, and is scheduled to be hosted by India and Sri Lanka from February to March 2026, with India being the defending champions.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ICCMT20WC2026_M26.jpg?w=960&amp;h=540" />
 	</programme>
@@ -10874,20 +10879,15 @@
 		<desc>The world's best national teams compete for international glory, delivering powerful hitting, elite pitching, and thrilling baseball action on the global stage.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch209_baseball.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="209" start="20260313000000 +0000" stop="20260313003000 +0000">
-		<title>2025/26 ALM Mini Match Rd 20 Adelaide United vs Wellington Phoenix</title>
-		<desc>Top flight men's soccer returns in the ISUZU UTE A-League Men. Catch every moment on SPOTV NOW as 12 teams compete in the regular season with top 4 advancing to a single-game knockout.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/209_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="209" start="20260313003000 +0000" stop="20260313010000 +0000">
-		<title>2025/26 ALM Mini Match Rd 20 Sydney FC vs Melbourne Victory</title>
-		<desc>Top flight men's soccer returns in the ISUZU UTE A-League Men. Catch every moment on SPOTV NOW as 12 teams compete in the regular season with top 4 advancing to a single-game knockout.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/209_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="209" start="20260313010000 +0000" stop="20260313060000 +0000">
+	<programme channel="209" start="20260313000000 +0000" stop="20260313053000 +0000">
 		<title>2026 LIV Golf League, Singapore (Live)</title>
 		<desc>The world's top golfers compete in a bold, fast-paced league format, delivering big drives, dramatic finishes, and non-stop action across iconic global venues.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch209_golf.jpg?w=960&amp;h=540" />
+	</programme>
+	<programme channel="209" start="20260313053000 +0000" stop="20260313060000 +0000">
+		<title>2025/26 ALM Mini Match Rd 20 Adelaide United vs Wellington Phoenix</title>
+		<desc>Top flight men's soccer returns in the ISUZU UTE A-League Men. Catch every moment on SPOTV NOW as 12 teams compete in the regular season with top 4 advancing to a single-game knockout.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/209_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="209" start="20260313060000 +0000" stop="20260313063000 +0000">
 		<title>2025/26 ALM Mini Match Rd 20 Sydney FC vs Melbourne Victory</title>
@@ -11110,7 +11110,7 @@
 		<icon src="https://poster.starhubgo.com/poster/ch211_uci_womens_world_tour_2026.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="211" start="20260312010000 +0000" stop="20260312025000 +0000">
-		<title>TotalEnergies Africa Cup of Nations, Morocco 2025: Nigeria vs Tunisia - Group Stage</title>
+		<title>TotalEnergies Africa Cup of Nations, Morocco 2025: Nigeria vs Tunisia - Group St</title>
 		<desc>beIN SPORTS brings you coverage from the 35th edition of the Africa Cup of Nations hosted by Morocco.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_TotalEnergiesAfricaCupofNationsMorocco2025.jpg?w=960&amp;h=540" />
 	</programme>
@@ -11211,7 +11211,7 @@
 	</programme>
 	<programme channel="211" start="20260312161500 +0000" stop="20260312164500 +0000">
 		<title>Mini Match - Australian Open 2026: Men's Singles SF 1 Alcaraz v Zverev</title>
-		<desc>The 1st Grand Slam of the year kick start on beIN Sports as the world’s best players battle it out to win the 114th edition of the Australian Open.</desc>
+		<desc>The 1st Grand Slam of the year kick start on beIN Sports as the world's best players battle it out to win the 114th edition of the Australian Open.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_AOGeneric.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="211" start="20260312164500 +0000" stop="20260312171000 +0000">
