@@ -11455,7 +11455,7 @@
 		<icon src="https://poster.starhubgo.com/poster/ch213_uefa_europa_league_live_match.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="213" start="20260312195500 +0000" stop="20260312220000 +0000">
-		<title>UEFA Europa League 2025/26: Nottingham Forest vs Midtjylland - R16, 1st Leg (Live)</title>
+		<title>UEFA Europa League 2025/26: Nottingham Forest vs Midtjylland - R16, 1st Leg (Liv</title>
 		<desc>The 55th season of the UEL as Europe's elite clubs compete in this premier football tournament</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch213_uefa_europa_league_live_match.jpg?w=341&amp;h=192" />
 	</programme>
@@ -29329,39 +29329,34 @@
 		<desc>China News focuses on the latest news and social changes happening in China as well as all over the world.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/801_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="801" start="20260312203000 +0000" stop="20260312210000 +0000">
-		<title>Focus Today (Live)</title>
-		<desc>Focus Today traces current affairs from China and the world.</desc>
+	<programme channel="801" start="20260312203000 +0000" stop="20260312211500 +0000">
+		<title>On The Way</title>
+		<desc>This large-scale tourism programme is designed to present the rich tourism resources in China and around the world.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/801_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="801" start="20260312210000 +0000" stop="20260312213000 +0000">
+	<programme channel="801" start="20260312211500 +0000" stop="20260312213000 +0000">
+		<title>Dreamchaser</title>
+		<desc>With the theme of "Ordinary People, Extraordinary Dreams", this documentary tells the wonderful life stories of such characters.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/801_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="801" start="20260312213000 +0000" stop="20260312220000 +0000">
 		<title>Nostalgia</title>
 		<desc>Nostalgia aims to represent Chinese traditional culture by revealing life in villages in the way of story-telling.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/801_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="801" start="20260312213000 +0000" stop="20260312220000 +0000">
+	<programme channel="801" start="20260312220000 +0000" stop="20260312223000 +0000">
 		<title>Around China</title>
 		<desc>Around China leads viewers into a fabulous world where they may have a full taste of the excellent personality of the Chinese nation and obtain an intimate understanding of its changes and evolution, both in recent times and in future.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/801_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="801" start="20260312220000 +0000" stop="20260312223000 +0000">
+	<programme channel="801" start="20260312223000 +0000" stop="20260312230000 +0000">
 		<title>Across The Strait (Live)</title>
 		<desc>Across The Strait traces the much-discussed issues across the Strait, reflecting the will of the citizens on two sides of the Strait and detailing the Chinese Government's policy of "one country, two systems".</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/801_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="801" start="20260312223000 +0000" stop="20260312230000 +0000">
-		<title>Asia Today (Live)</title>
-		<desc>CCTV-4 brings you the latest on Asia news, from an Asian perspective.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/801_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="801" start="20260312230000 +0000" stop="20260312233000 +0000">
+	<programme channel="801" start="20260312230000 +0000" stop="20260313000000 +0000">
 		<title>China News (Live)</title>
 		<desc>China News focuses on the latest news and social changes happening in China as well as all over the world.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/801_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="801" start="20260312233000 +0000" stop="20260313000000 +0000">
-		<title>Focus Today (Live)</title>
-		<desc>Focus Today traces current affairs from China and the world.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/801_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="801" start="20260313000000 +0000" stop="20260313010000 +0000">
@@ -29387,11 +29382,6 @@
 	<programme channel="801" start="20260313021000 +0000" stop="20260313021300 +0000">
 		<title>Advertisements</title>
 		<desc>Around China leads viewers into a fabulous world where they may have a full taste of the excellent personality of the Chinese nation and obtain an intimate understanding of its changes and evolution, both in recent times and in future.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/801_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="801" start="20260313021300 +0000" stop="20260313025800 +0000">
-		<title>On The Way</title>
-		<desc>This large-scale tourism programme is designed to present the rich tourism resources in China and around the world.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/801_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="801" start="20260313025800 +0000" stop="20260313030000 +0000">
@@ -29447,11 +29437,6 @@
 	<programme channel="801" start="20260313085000 +0000" stop="20260313090000 +0000">
 		<title>Nostalgia - Pian Duan Zhan Bo</title>
 		<desc>Nostalgia aims to represent Chinese traditional culture by revealing life in villages in the way of story-telling.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/801_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="801" start="20260313090000 +0000" stop="20260313091500 +0000">
-		<title>Dreamchaser</title>
-		<desc>With the theme of "Ordinary People, Extraordinary Dreams", this documentary tells the wonderful life stories of such characters.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/801_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="801" start="20260313091500 +0000" stop="20260313100000 +0000">
@@ -33904,28 +33889,33 @@
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20260312160000 +0000" stop="20260312170400 +0000">
+	<programme channel="832" start="20260312160000 +0000" stop="20260312170000 +0000">
 		<title>Cheer up!small shops</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20260312170400 +0000" stop="20260312180300 +0000">
+	<programme channel="832" start="20260312170000 +0000" stop="20260312175900 +0000">
 		<title>Dragon TV Primetime News</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20260312180300 +0000" stop="20260312191600 +0000">
+	<programme channel="832" start="20260312175900 +0000" stop="20260312191400 +0000">
 		<title>Dream Home</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20260312191600 +0000" stop="20260312203100 +0000">
+	<programme channel="832" start="20260312191400 +0000" stop="20260312202900 +0000">
 		<title>Ai Romance</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20260312203100 +0000" stop="20260312221000 +0000">
+	<programme channel="832" start="20260312202900 +0000" stop="20260312214500 +0000">
 		<title>A Green Trip</title>
+		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="832" start="20260312214500 +0000" stop="20260312221000 +0000">
+		<title>Searching for flavor</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
@@ -33976,11 +33966,6 @@
 	</programme>
 	<programme channel="832" start="20260313070700 +0000" stop="20260313083200 +0000">
 		<title>Go Fighting</title>
-		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="832" start="20260313083200 +0000" stop="20260313090900 +0000">
-		<title>Searching for flavor</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
