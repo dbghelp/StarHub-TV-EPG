@@ -21096,7 +21096,7 @@
 	</programme>
 	<programme channel="447" start="20260317020000 +0000" stop="20260317023000 +0000">
 		<title>Australian Story (2026) - EP 5</title>
-		<desc>The Logie-award-winning documentary program Australian Story returns for its 30th year. Join us as Leigh Sales presents extraordinary stories about real people that illuminate, entertain and inspire.</desc>
+		<desc>Who cares for our children when we're gone if they can't care for themselves? As Deirdre Croft faces the end of her life, she's on a mission to ensure her son is looked after when she's gone.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="447" start="20260317023000 +0000" stop="20260317032000 +0000">
@@ -21104,14 +21104,19 @@
 		<desc>It's one of the world's most famous strips of sand, but along Bondi's coastal track lies some hidden gems that not even Julia Zemiro was aware of when she used to live here.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="447" start="20260317032000 +0000" stop="20260317033000 +0000">
+	<programme channel="447" start="20260317032000 +0000" stop="20260317032500 +0000">
 		<title>Bee Cause S1 - EP 5</title>
 		<desc>A group of Australian children has embraced the joys of keeping hives and harvesting honey, inspired by a hairdresser turned apiarist. It's the only club of its kind in Australia, and they are loving it.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="447" start="20260317033000 +0000" stop="20260317040000 +0000">
+	<programme channel="447" start="20260317032500 +0000" stop="20260317035000 +0000">
 		<title>Extraordinary Animals S1 - EP 10</title>
 		<desc>Many scientists believe curiousity is a key driving force in evolution - leading to both physical and behavioural adaptations. This episode features some surprisingly intelligent and uniquely curious animals.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="447" start="20260317035000 +0000" stop="20260317040000 +0000">
+		<title>How Deadly S2 - EP 2</title>
+		<desc>Koalas are loud angry lovers, but are they dangerous? Nature nerd Dr Ann Jones reveals the secrets of Australia's cuddliest critters.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="447" start="20260317040000 +0000" stop="20260317050000 +0000">
@@ -21121,32 +21126,37 @@
 	</programme>
 	<programme channel="447" start="20260317050000 +0000" stop="20260317053000 +0000">
 		<title>Landline (2026) - EP 4</title>
-		<desc>A tasty sampler of stories from the land - covering food, agriculture, crops, climate, business and innovation - as we meet the fascinating people who make our rural and regional communities unique. Presented by Pip Courtney.</desc>
+		<desc>The interstate invader costing millions in South Australia's Riverland region; and the environmental impact of buffel grass.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="447" start="20260317053000 +0000" stop="20260317060000 +0000">
 		<title>Planet America (2026) - EP 7</title>
-		<desc>Trump's presidency steamrolls into its second year and a deeply divided America celebrates its 250th birthday. US voters will go to the polls for the midterm elections - will Republicans hold on to their majority in Congress?</desc>
+		<desc>How and when will America's war with Iran end? We ask former US Navy Rear Admiral Mark Montgomery. Meanwhile on the home front, President Trump wants to save American democracy - by making it much harder to vote.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="447" start="20260317060000 +0000" stop="20260317070000 +0000">
 		<title>ABC News with Joe O'Brien (2026) - EP 54</title>
-		<desc>Joe O'Brien brings you a comprehensive summary of the day's events, with the latest breaking news, in depth coverage of the top stories, live crosses, interviews and explainers to bring you up to speed on what's going on.</desc>
+		<desc>The RBA has raised interest rates by 0.25 of a percentage point to 4.1%. The Matildas prepare to take on China in the Asian Cup Semi Finals. Joe O'Brien brings you the latest on the Middle East and the day's top stories.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="447" start="20260317070000 +0000" stop="20260317073000 +0000">
+	<programme channel="447" start="20260317070000 +0000" stop="20260317072500 +0000">
 		<title>The Cook Up With Adam Liaw S5 - EP 82</title>
 		<desc>Nothing beats eco eats! Astrid Jorgensen, founder of Pub and Couch Choir, and Paul Iskov, owner of roaming restaurant Fervor, join Adam to make sustainable and attainable recipes!</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="447" start="20260317073000 +0000" stop="20260317080000 +0000">
+	<programme channel="447" start="20260317072500 +0000" stop="20260317075000 +0000">
 		<title>Extraordinary Animals S1 - EP 10</title>
 		<desc>Many scientists believe curiousity is a key driving force in evolution - leading to both physical and behavioural adaptations. This episode features some surprisingly intelligent and uniquely curious animals.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341&amp;h=192" />
 	</programme>
+	<programme channel="447" start="20260317075000 +0000" stop="20260317080000 +0000">
+		<title>How Deadly S2 - EP 5</title>
+		<desc>Since the 80s, dingoes have had a bad wrap. They're not like your pet dog, so what makes them different and how dangerous are they?</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341&amp;h=192" />
+	</programme>
 	<programme channel="447" start="20260317080000 +0000" stop="20260317083000 +0000">
 		<title>ABC National News (2026) - EP 76</title>
-		<desc>There's never been a more important time for transparency and trust. ABC News brings you the day's top stories and latest news, with more reporters to tell you what's going on and why it matters. Presented by Joe O'Brien.</desc>
+		<desc>The RBA has raised interest rates by 0.25 of a percentage point to 4.1%. The Matildas prepare to take on China in the Asian Cup Semi Finals. Joe O'Brien brings you the latest on the Middle East and the day's top stories.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="447" start="20260317083000 +0000" stop="20260317090000 +0000">
@@ -21156,7 +21166,7 @@
 	</programme>
 	<programme channel="447" start="20260317090000 +0000" stop="20260317093000 +0000">
 		<title>Australian Story (2026) - EP 5</title>
-		<desc>The Logie-award-winning documentary program Australian Story returns for its 30th year. Join us as Leigh Sales presents extraordinary stories about real people that illuminate, entertain and inspire.</desc>
+		<desc>Who cares for our children when we're gone if they can't care for themselves? As Deirdre Croft faces the end of her life, she's on a mission to ensure her son is looked after when she's gone.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="447" start="20260317093000 +0000" stop="20260317100000 +0000">
@@ -21166,7 +21176,7 @@
 	</programme>
 	<programme channel="447" start="20260317100000 +0000" stop="20260317110000 +0000">
 		<title>The World (2026) - EP 42</title>
-		<desc>There's never been a more important time to stay in touch with what's happening in our world. Girish Sawlani presents the latest international news from ABC News correspondents as well as interviews with experts and guests.</desc>
+		<desc>Girish Sawlani brings you the latest news from around the globe. Tonight: Israel deploys troops in Lebanon, and three teenagers sue xAI for Grok's sexualised images of them.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="447" start="20260317110000 +0000" stop="20260317114500 +0000">
@@ -21174,14 +21184,19 @@
 		<desc>It's one of the world's most famous strips of sand, but along Bondi's coastal track lies some hidden gems that not even Julia Zemiro was aware of when she used to live here.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="447" start="20260317114500 +0000" stop="20260317120000 +0000">
+	<programme channel="447" start="20260317114500 +0000" stop="20260317115500 +0000">
 		<title>Bee Cause S1 - EP 5</title>
 		<desc>A group of Australian children has embraced the joys of keeping hives and harvesting honey, inspired by a hairdresser turned apiarist. It's the only club of its kind in Australia, and they are loving it.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="447" start="20260317120000 +0000" stop="20260317123000 +0000">
+	<programme channel="447" start="20260317115500 +0000" stop="20260317122000 +0000">
 		<title>Extraordinary Animals S1 - EP 10</title>
 		<desc>Many scientists believe curiousity is a key driving force in evolution - leading to both physical and behavioural adaptations. This episode features some surprisingly intelligent and uniquely curious animals.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="447" start="20260317122000 +0000" stop="20260317123000 +0000">
+		<title>How Deadly S2 - EP 5</title>
+		<desc>Since the 80s, dingoes have had a bad wrap. They're not like your pet dog, so what makes them different and how dangerous are they?</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="447" start="20260317123000 +0000" stop="20260317130000 +0000">
@@ -21196,7 +21211,7 @@
 	</programme>
 	<programme channel="447" start="20260317131500 +0000" stop="20260317133000 +0000">
 		<title>The Business (2026) - EP 26</title>
-		<desc>The RBA have delivered their second interest rates decision for 2026. After hiking rates in February, will we see another rise? Kirsten Aiken brings you reaction and analysis from markets, economists and borrowers.</desc>
+		<desc>The Reserve Bank has increased its benchmark cash rate by 0.25 of a percentage point to 4.1 per cent. The move was widely expected on financial markets, which had priced in a greater than 70% chance of a rate hike today.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="447" start="20260317133000 +0000" stop="20260317140000 +0000">
@@ -21206,42 +21221,52 @@
 	</programme>
 	<programme channel="447" start="20260317140000 +0000" stop="20260317150000 +0000">
 		<title>The World (2026) - EP 42</title>
-		<desc>There's never been a more important time to stay in touch with what's happening in our world. Girish Sawlani presents the latest international news from ABC News correspondents as well as interviews with experts and guests.</desc>
+		<desc>Girish Sawlani brings you the latest news from around the globe. Tonight: Israel deploys troops in Lebanon, and three teenagers sue xAI for Grok's sexualised images of them.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="447" start="20260317150000 +0000" stop="20260317160000 +0000">
+	<programme channel="447" start="20260317150000 +0000" stop="20260317154500 +0000">
 		<title>Great Australian Walks S1 - EP 10</title>
 		<desc>It's one of the world's most famous strips of sand, but along Bondi's coastal track lies some hidden gems that not even Julia Zemiro was aware of when she used to live here.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="447" start="20260317160000 +0000" stop="20260317163000 +0000">
-		<title>Australian Story (2026) - EP 5</title>
-		<desc>The Logie-award-winning documentary program Australian Story returns for its 30th year. Join us as Leigh Sales presents extraordinary stories about real people that illuminate, entertain and inspire.</desc>
+	<programme channel="447" start="20260317154500 +0000" stop="20260317155500 +0000">
+		<title>Bee Cause S1 - EP 5</title>
+		<desc>A group of Australian children has embraced the joys of keeping hives and harvesting honey, inspired by a hairdresser turned apiarist. It's the only club of its kind in Australia, and they are loving it.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="447" start="20260317163000 +0000" stop="20260317173000 +0000">
+	<programme channel="447" start="20260317155500 +0000" stop="20260317162500 +0000">
+		<title>Australian Story (2026) - EP 5</title>
+		<desc>Who cares for our children when we're gone if they can't care for themselves? As Deirdre Croft faces the end of her life, she's on a mission to ensure her son is looked after when she's gone.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="447" start="20260317162500 +0000" stop="20260317172500 +0000">
 		<title>Gardening Australia S37 - EP 4</title>
 		<desc>Costa meets a nursery owner devoted to planting trees, Tammy visits a colourful slice of Malta, Josh discovers the benefits of natural swimming pools, and we head to an urban haven for native wildlife and their carers.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="447" start="20260317173000 +0000" stop="20260317180000 +0000">
+	<programme channel="447" start="20260317172500 +0000" stop="20260317175000 +0000">
 		<title>The Cook Up With Adam Liaw S5 - EP 82</title>
 		<desc>Nothing beats eco eats! Astrid Jorgensen, founder of Pub and Couch Choir, and Paul Iskov, owner of roaming restaurant Fervor, join Adam to make sustainable and attainable recipes!</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341&amp;h=192" />
 	</programme>
+	<programme channel="447" start="20260317175000 +0000" stop="20260317180000 +0000">
+		<title>Common Cause S1 - EP 4</title>
+		<desc>As rising sea temperatures devastate coral reefs, a community in Papua New Guinea teams up with an Australian organisation - and the feisty village chicken - to restore fish stocks in their coastal waters.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341&amp;h=192" />
+	</programme>
 	<programme channel="447" start="20260317180000 +0000" stop="20260317190000 +0000">
 		<title>The World (2026) - EP 42</title>
-		<desc>There's never been a more important time to stay in touch with what's happening in our world. Girish Sawlani presents the latest international news from ABC News correspondents as well as interviews with experts and guests.</desc>
+		<desc>Girish Sawlani brings you the latest news from around the globe. Tonight: Israel deploys troops in Lebanon, and three teenagers sue xAI for Grok's sexualised images of them.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="447" start="20260317190000 +0000" stop="20260317200000 +0000">
 		<title>News Breakfast (2026) - EP 55</title>
-		<desc>As each day begins get the facts you need to stay informed. Bridget Brennan and James Glenday present the latest news, overnight developments and today's top stories, joined by Emma Rebellato, Catherine Murphy and Nate Byrne.</desc>
+		<desc>As the day begins get the facts you need to stay informed. James Glenday and Emma Rebellato bring you the latest news, interviews and the day's top stories, joined by Catherine Murphy with sport and Nate Byrne with weather.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="447" start="20260317200000 +0000" stop="20260317220000 +0000">
 		<title>News Breakfast (2026) - EP 55</title>
-		<desc>As each day begins get the facts you need to stay informed. Bridget Brennan and James Glenday present the latest news, overnight developments and today's top stories, joined by Emma Rebellato, Catherine Murphy and Nate Byrne.</desc>
+		<desc>As each day begins get the facts you need to stay informed. James Glenday and Emma Rebellato present the latest news, overnight developments and today's top stories, joined by Catherine Murphy, Nate Byrne and Lillian Rangiah.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="447" start="20260317220000 +0000" stop="20260318010000 +0000">
