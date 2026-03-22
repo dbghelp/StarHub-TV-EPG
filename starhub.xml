@@ -10209,10 +10209,15 @@
 		<desc>Recap the action, behind-the-scenes and rider interviews at the MotoGP 2025.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_motogp.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="210" start="20260322103000 +0000" stop="20260322133500 +0000">
-		<title>2026 World Baseball Classic: Final Championship Game Venezuela vs USA</title>
-		<desc>The world's best national teams compete for international glory, delivering powerful hitting, elite pitching, and thrilling baseball action on the global stage.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch210_baseball.jpg?w=341&amp;h=192" />
+	<programme channel="210" start="20260322103000 +0000" stop="20260322123500 +0000">
+		<title>25/26 A-League Men Round 22 Western Sydney Wanderers FC vs Adelaide United</title>
+		<desc>Top flight men's soccer returns in the ISUZU UTE A-League Men. Catch every moment on SPOTV NOW as 12 teams compete in the regular season with top 4 advancing to a single-game knockout.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch210_spotv2_logo.jpg?w=960&amp;h=540" />
+	</programme>
+	<programme channel="210" start="20260322123500 +0000" stop="20260322133500 +0000">
+		<title>2026 MotoGP Rd 2 Estrella Galicia 0,0 Grand Prix of Brazil (Live)</title>
+		<desc>The 2026 MotoGP sees 22 of the world's best riders battle on 1000cc prototype machines, delivering over 250hp and reaching speeds of 360kph across 22 thrilling Grands Prix in 18 countries.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch210_motogp.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="210" start="20260322133500 +0000" stop="20260322144500 +0000">
 		<title>2026 MotoGP Rd 2 Estrella Galicia 0,0 Grand Prix of Brazil (Live)</title>
@@ -10276,7 +10281,7 @@
 	</programme>
 	<programme channel="210" start="20260323143000 +0000" stop="20260323153000 +0000">
 		<title>World Baseball Classic -2006 Recap</title>
-		<desc>Experience the World Baseball Classic evolution from 2006 to now. This series breaks down iconic games and legendary performances that defined global baseball in a compelling, broadcast-ready look back.</desc>
+		<desc>Experience the World Baseball Classicâ€™s evolution from 2006 to now. This series breaks down iconic games and legendary performances that defined global baseball in a compelling, broadcast-ready look back.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_baseball.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="210" start="20260323153000 +0000" stop="20260323173000 +0000">
