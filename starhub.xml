@@ -10904,9 +10904,19 @@
 		<desc>Top female golfers compete across premier international venues, delivering world-class performances, thrilling finishes, and season-long championship drama.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch209_golf.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="209" start="20260324080000 +0000" stop="20260324110000 +0000">
+	<programme channel="209" start="20260324080000 +0000" stop="20260324090500 +0000">
 		<title>Snow League 25/26: Laax, Switzerland</title>
 		<desc>Young snowboarders and freeski athletes battle in The Snow League, showcasing big tricks, high drama and world-class halfpipe action.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch209_spotv.jpg?w=960&amp;h=540" />
+	</programme>
+	<programme channel="209" start="20260324090500 +0000" stop="20260324100500 +0000">
+		<title>2026 Fursan Cup Highlights</title>
+		<desc>The world's top endurance riders gather in AlUla, Saudi Arabia, for the 2026 AlFursan Endurance, showcasing stunning landscapes and intense world-class competition.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch209_spotv.jpg?w=960&amp;h=540" />
+	</programme>
+	<programme channel="209" start="20260324100500 +0000" stop="20260324110000 +0000">
+		<title>BXL 2025: BXL Rewind</title>
+		<desc>Relive the best moments with thrilling rallies, powerful smashes, and match-winning points in a fast-paced highlights showcase from BXL 2025.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch209_spotv.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="209" start="20260324110000 +0000" stop="20260324140000 +0000">
@@ -11024,32 +11034,27 @@
 		<desc>Top flight men's soccer returns in the ISUZU UTE A-League Men. Catch every moment on SPOTV NOW as 12 teams compete in the regular season with top 4 advancing to a single-game knockout.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_spotv2_logo.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="210" start="20260324100000 +0000" stop="20260324110000 +0000">
+	<programme channel="210" start="20260324100000 +0000" stop="20260324143000 +0000">
 		<title>2026 MotoGP Rd 2 Estrella Galicia 0,0 Grand Prix of Brazil</title>
 		<desc>The 2026 MotoGP sees 22 of the world's best riders battle on 1000cc prototype machines, delivering over 250hp and reaching speeds of 360kph across 22 thrilling Grands Prix in 18 countries.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_motogp.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="210" start="20260324110000 +0000" stop="20260324153000 +0000">
-		<title>2026 MotoGP Rd 2 Estrella Galicia 0,0 Grand Prix of Brazil</title>
-		<desc>The 2026 MotoGP sees 22 of the world's best riders battle on 1000cc prototype machines, delivering over 250hp and reaching speeds of 360kph across 22 thrilling Grands Prix in 18 countries.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch210_motogp.jpg?w=960&amp;h=540" />
-	</programme>
-	<programme channel="210" start="20260324153000 +0000" stop="20260324160000 +0000">
+	<programme channel="210" start="20260324143000 +0000" stop="20260324150000 +0000">
 		<title>2025/26 ALM Mini Match Rd 21 Central Coast Mariners FC vs Adelaide United</title>
 		<desc>Top flight men's soccer returns in the ISUZU UTE A-League Men. Catch every moment on SPOTV NOW as 12 teams compete in the regular season with top 4 advancing to a single-game knockout.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_spotv2_logo.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="210" start="20260324160000 +0000" stop="20260324180000 +0000">
+	<programme channel="210" start="20260324150000 +0000" stop="20260324180000 +0000">
 		<title>2025/26 King's Cup Semi Final Al Kholood vs Al Ittihad</title>
 		<desc>The Saudi King's Cup brings together the nation's best teams in a knockout fight for football supremacy. Only one will lift the trophy!</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_spotv2_logo.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="210" start="20260324180000 +0000" stop="20260324203000 +0000">
+	<programme channel="210" start="20260324180000 +0000" stop="20260324201500 +0000">
 		<title>2026 World Baseball Classic: Pool C Japan vs Chinese Taipei</title>
 		<desc>The world's best national teams compete for international glory, delivering powerful hitting, elite pitching, and thrilling baseball action on the global stage.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_baseball.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="210" start="20260324203000 +0000" stop="20260324234500 +0000">
+	<programme channel="210" start="20260324201500 +0000" stop="20260324234500 +0000">
 		<title>2026 MotoGP Rd 2 Estrella Galicia 0,0 Grand Prix of Brazil</title>
 		<desc>The 2026 MotoGP sees 22 of the world's best riders battle on 1000cc prototype machines, delivering over 250hp and reaching speeds of 360kph across 22 thrilling Grands Prix in 18 countries.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_motogp.jpg?w=960&amp;h=540" />
@@ -11590,7 +11595,7 @@
 		<icon src="https://poster.starhubgo.com/poster/ch214_mutv.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="214" start="20260324170500 +0000" stop="20260324190000 +0000">
-		<title>TotalEnergies Africa Cup of Nations, Morocco 2025: Ivory Coast vs Mozambique - G</title>
+		<title>TotalEnergies Africa Cup of Nations, Morocco 2025: Ivory Coast vs Mozambique - Group Stage</title>
 		<desc>beIN SPORTS brings you coverage from the 35th edition of the Africa Cup of Nations hosted by Morocco.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch214_Total_Energies_Africa_Cup_of_Nations_Morocco_2025.jpg?w=341&amp;h=192" />
 	</programme>
@@ -20986,7 +20991,7 @@
 	</programme>
 	<programme channel="447" start="20260324010000 +0000" stop="20260324020000 +0000">
 		<title>ABC News At Noon (2026) - EP 59</title>
-		<desc>The leading news at lunchtime. Ros Childs brings you the day's top stories and the latest news as it unfolds, with reporters in the community across Australia and around the world reporting on the issues that matter to you.</desc>
+		<desc>Ros Childs brings you the day's top stories and the latest news as it unfolds, including President of the European Commission Ursula von der Leyen addressing Federal Parliament in Canberra.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="447" start="20260324020000 +0000" stop="20260324023000 +0000">
@@ -21009,14 +21014,14 @@
 		<desc>Costa visits pop legend Leo Sayer in his rose-filled country garden, Sophie reveals her new outback patch, Guest Presenter Thanh the Fruit Nerd joins a feijoa fanatic, and we meet an ecologist growing tiny urban forests.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="447" start="20260324050000 +0000" stop="20260324053000 +0000">
+	<programme channel="447" start="20260324050000 +0000" stop="20260324052500 +0000">
 		<title>Landline (2026) - EP 5</title>
-		<desc>A tasty sampler of stories from the land - covering food, agriculture, crops, climate, business and innovation - as we meet the fascinating people who make our rural and regional communities unique. Presented by Pip Courtney.</desc>
+		<desc>A new high fibre wheat variety that functions like conventional flour; and the role of buffel grass in Australia's multi-billion dollar beef industry.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="447" start="20260324053000 +0000" stop="20260324060000 +0000">
+	<programme channel="447" start="20260324052500 +0000" stop="20260324060000 +0000">
 		<title>Planet America (2026) - EP 8</title>
-		<desc>As Trump steamrolls through the second year of his second term, Chas and John are here to guide you through the mayhem: covering Iran, ICE, tariffs, NATO, Russia/Ukraine, Gaza, affordability, Greenland, the midterms and more.</desc>
+		<desc>Iran warns of retaliatory strikes if Trump follows through on his threat to attack Iranian power plants. So, what's Iran's next move? Plus former MMA fighter Markwayne Mullin spars with Senators at his confirmation hearing.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="447" start="20260324060000 +0000" stop="20260324070000 +0000">
@@ -21110,8 +21115,8 @@
 		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="447" start="20260324173000 +0000" stop="20260324180000 +0000">
-		<title>Dr Karl's How Things Work S2 - EP 1</title>
-		<desc>Dr Karl crunches into the crispy, salty, science packed world of chips, proving there's more to one of the nation's favourite treats than meets the mouth.</desc>
+		<title>The Cook Up With Adam Liaw S5 - EP 85</title>
+		<desc>It's Easy Entertaining with The Cook Up, and Adam is celebrating Diwali, the Festival of Lights, with chefs Gunjan Aylawadi and Nagesh Seethiah.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="447" start="20260324180000 +0000" stop="20260324190000 +0000">
@@ -21129,9 +21134,14 @@
 		<desc>As each day begins get the facts you need to stay informed. James Glenday and Emma Rebellato present the latest news, overnight developments and today's top stories, joined by Catherine Murphy, Nate Byrne and Lillian Rangiah.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="447" start="20260324220000 +0000" stop="20260325010000 +0000">
+	<programme channel="447" start="20260324220000 +0000" stop="20260325000000 +0000">
 		<title>ABC News Mornings (2026) - EP 60</title>
 		<desc>Stay in the know with what's happening this morning. ABC News brings you up-to-the-minute news to fuel your daily conversations so you can stay connected and follow the discussion across the day. Presented by Gemma Veness.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="447" start="20260325000000 +0000" stop="20260325013000 +0000">
+		<title>Diabolical: The Epstein Files</title>
+		<desc>It's the scandal that shocked Americans and rocked the Trump administration. A legal and political saga that shattered fundamental beliefs that all are equal in the eyes of the law. What do the Epstein Files reveal?</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="447" start="20260325010000 +0000" stop="20260325013000 +0000">
@@ -33994,32 +34004,32 @@
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20260324160000 +0000" stop="20260324164100 +0000">
+	<programme channel="832" start="20260324160000 +0000" stop="20260324163100 +0000">
 		<title>THE CITY OF MUSICALS</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20260324164100 +0000" stop="20260324170600 +0000">
+	<programme channel="832" start="20260324163100 +0000" stop="20260324170200 +0000">
 		<title>I LOVE SHANGHAI</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20260324170600 +0000" stop="20260324180500 +0000">
+	<programme channel="832" start="20260324170200 +0000" stop="20260324180100 +0000">
 		<title>Dragon TV Primetime News</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20260324180500 +0000" stop="20260324195200 +0000">
+	<programme channel="832" start="20260324180100 +0000" stop="20260324194100 +0000">
 		<title>Future China</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20260324195200 +0000" stop="20260324205300 +0000">
+	<programme channel="832" start="20260324194100 +0000" stop="20260324203700 +0000">
 		<title>Overtime No More</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20260324205300 +0000" stop="20260324214500 +0000">
+	<programme channel="832" start="20260324203700 +0000" stop="20260324214500 +0000">
 		<title>A Green Trip</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
