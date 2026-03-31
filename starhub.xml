@@ -749,12 +749,12 @@
 		<desc>Ryan Seacrest takes over as the new host for the well-loved gameshow.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="102" start="20260331113000 +0000" stop="20260331115000 +0000">
+	<programme channel="102" start="20260331113000 +0000" stop="20260331115100 +0000">
 		<title>Just For Laughs Gags S24 - EP 7</title>
 		<desc>Just For Laughs will tickle everyone's funny bone with its hilarious practical jokes, hidden camera pranks, and other creative hijinks.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="102" start="20260331115000 +0000" stop="20260331140000 +0000">
+	<programme channel="102" start="20260331115100 +0000" stop="20260331140000 +0000">
 		<title>AFC Asian Cup Saudi Arabia 2027 Qualifiers - EP 3</title>
 		<desc>(Live) The Singapore Men's National Team will face India, Hong Kong, China and Bangladesh in the final round of qualifiers for the AFC Asian Cup 2027. The group winners will advance to the Finals of the AFC Asian Cup held in Saudi Arabia.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png?w=341&amp;h=192" />
@@ -10219,13 +10219,18 @@
 		<desc>A look back at world class tennis action from the Indian Wells Tennis Garden.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch201_ATPTourReviewShow2025.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="201" start="20260331090000 +0000" stop="20260331120000 +0000">
+	<programme channel="201" start="20260331090000 +0000" stop="20260331113000 +0000">
 		<title>ATP Tour 2026 U.S. Men's Clay Court C'ship (250) Day 1 R1 Session 1</title>
 		<desc>The U.S. Men's Clay Court Championships is an annual ATP Tour 250 tennis tournament held at the River Oaks Country Club in Houston, Texas. Founded in 1910, it is the only remaining tournament in the United States played on clay courts.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch201_atp_tour_2026.jpg?w=341&amp;h=192" />
 	</programme>
+	<programme channel="201" start="20260331113000 +0000" stop="20260331120000 +0000">
+		<title>Heroines 2026</title>
+		<desc>Heroines is a timeless series, that tables important discussion that challenges the status quo and celebrates the unique values of women’s sport. Each episode features a dedicated theme such as equality, maternity, leadership, mental health, fan engagement, activism and more, supported by exclusive interviews with leaders at the forefront of women’s sport.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch201_Heroines2025.jpg?w=960&amp;h=540" />
+	</programme>
 	<programme channel="201" start="20260331120000 +0000" stop="20260331123000 +0000">
-		<title>WTA Tour 2026 H/Ls Miami Open presented by Itaú</title>
+		<title>WTA Tour 2026 H/Ls Miami Open presented by Itau</title>
 		<desc>Catch all the best moments from the Hard Rock Stadium in Miami Gardens. Florida.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch201_WTA_Tour_1000_Generic.jpg?w=960&amp;h=540" />
 	</programme>
@@ -10380,7 +10385,7 @@
 		<icon src="https://poster.starhubgo.com/poster/ch202_the_football_review.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="202" start="20260331120000 +0000" stop="20260331140000 +0000">
-		<title>East Asia Super League 2025/26 Championship: Taoyuan Pauian Pilots vs Utsunomiya</title>
+		<title>East Asia Super League 2025/26 Championship: Taoyuan Pauian Pilots vs Utsunomiya Brex</title>
 		<desc>The 2025/26 East Asia Super League is the third regular season of the League, an international basketball club competition involving 12 teams from Hong Kong, Japan, Macau, Mongolia, South Korea, Philippines and Taiwan.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch202_easl.jpg?w=960&amp;h=540" />
 	</programme>
