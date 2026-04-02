@@ -252,6 +252,10 @@
 		<display-name>Premier Sports</display-name>
 		<icon src="https://poster.starhubgo.com/Linear_Channels2/247_1920x1080_HTV.png?w=272" />
 	</channel>
+	<channel id="251">
+		<display-name>Channel 251</display-name>
+		<icon src="https://poster.starhubgo.com/Linear_Channels2/251_1920x1080_HTV.png?w=272" />
+	</channel>
 	<channel id="303">
 		<display-name>Cbeebies HD</display-name>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/303_1920x1080_HTV.png?w=272" />
@@ -9076,7 +9080,7 @@
 	</programme>
 	<programme channel="153" start="20260401233000 +0000" stop="20260402000000 +0000">
 		<title>Focus on Europe</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+		<desc>In Georgia, the mothers of imprisoned pro-EU demonstrators are fighting for justice with a newspaper of their own. +++ How safe is London? A nighttime tour of the city.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20260402000000 +0000" stop="20260402000200 +0000">
@@ -9091,7 +9095,7 @@
 	</programme>
 	<programme channel="153" start="20260402003000 +0000" stop="20260402010000 +0000">
 		<title>Arts Unveiled</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+		<desc>Why does Lady Gaga have a poem by Rainer Maria Rilke on her arm? Also: A swansong for social media, a miniature artist and a Kenyan girl between forced marriage and self-determination.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20260402010000 +0000" stop="20260402010200 +0000">
@@ -9121,7 +9125,7 @@
 	</programme>
 	<programme channel="153" start="20260402023000 +0000" stop="20260402030000 +0000">
 		<title>Made in Germany</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+		<desc>Below the surface, collapsing fish farms turn nets and cages into deadly plastic traps. Divers reveal how risky and complex the cleanup really is.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20260402030000 +0000" stop="20260402030200 +0000">
@@ -9135,13 +9139,13 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20260402031500 +0000" stop="20260402033000 +0000">
-		<title>Best of DW-online Content</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+		<title>REV</title>
+		<desc>Mercedes-Benz is facing one of its toughest years in decades. Profits have plunged, sales in China are falling, and fierce competition from Chinese EV makers is reshaping the global car industry. Has the iconic three-pointed star lost its shine - or is this just a temporary crisis?</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20260402033000 +0000" stop="20260402040000 +0000">
 		<title>Eco India</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+		<desc>It's slimy, green, and alive - and absorbs more CO2 than most trees. Are Kerala's new "liquid trees" a gamechanger?</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20260402040000 +0000" stop="20260402040200 +0000">
@@ -9171,7 +9175,7 @@
 	</programme>
 	<programme channel="153" start="20260402053000 +0000" stop="20260402060000 +0000">
 		<title>Focus on Europe</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+		<desc>In Georgia, the mothers of imprisoned pro-EU demonstrators are fighting for justice with a newspaper of their own. +++ How safe is London? A nighttime tour of the city.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20260402060000 +0000" stop="20260402060200 +0000">
@@ -9185,8 +9189,8 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20260402061500 +0000" stop="20260402063000 +0000">
-		<title>Best of DW-online Content</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+		<title>REV</title>
+		<desc>Mercedes-Benz is facing one of its toughest years in decades. Profits have plunged, sales in China are falling, and fierce competition from Chinese EV makers is reshaping the global car industry. Has the iconic three-pointed star lost its shine - or is this just a temporary crisis?</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20260402063000 +0000" stop="20260402070000 +0000">
@@ -9194,12 +9198,12 @@
 		<desc>Although they were physically superior to us, Neanderthals did not prevail. What made them different and why did they become extinct? How close or hostile were they to modern man?</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="153" start="20260402070000 +0000" stop="20260402070300 +0000">
+	<programme channel="153" start="20260402070000 +0000" stop="20260402070200 +0000">
 		<title>DW News</title>
 		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="153" start="20260402070300 +0000" stop="20260402080000 +0000">
+	<programme channel="153" start="20260402070200 +0000" stop="20260402080000 +0000">
 		<title>DocFilm</title>
 		<desc>Dan Brown's novel "The Da Vinci Code" is one of the century’s most successful thrillers worldwide. But how much truth is behind the claims made in the book - and what is pure fiction?</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
@@ -9211,12 +9215,12 @@
 	</programme>
 	<programme channel="153" start="20260402080200 +0000" stop="20260402083000 +0000">
 		<title>Made in Germany</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+		<desc>Below the surface, collapsing fish farms turn nets and cages into deadly plastic traps. Divers reveal how risky and complex the cleanup really is.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20260402083000 +0000" stop="20260402090000 +0000">
 		<title>Focus on Europe</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+		<desc>In Georgia, the mothers of imprisoned pro-EU demonstrators are fighting for justice with a newspaper of their own. +++ How safe is London? A nighttime tour of the city.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20260402090000 +0000" stop="20260402090200 +0000">
@@ -9261,20 +9265,20 @@
 	</programme>
 	<programme channel="153" start="20260402111500 +0000" stop="20260402113000 +0000">
 		<title>Sports Life</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+		<desc>At 72, Alan Lessik steps onto the ice with a calm that only comes from living a life full of twists. His path to skating was certainly not typical. What brought him here spans illness, loss, activism, and the quiet, stubborn belief that it’s never too late to start over.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20260402113000 +0000" stop="20260402120000 +0000">
 		<title>Focus on Europe</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+		<desc>In Georgia, the mothers of imprisoned pro-EU demonstrators are fighting for justice with a newspaper of their own. +++ How safe is London? A nighttime tour of the city.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="153" start="20260402120000 +0000" stop="20260402120300 +0000">
+	<programme channel="153" start="20260402120000 +0000" stop="20260402120200 +0000">
 		<title>DW News</title>
 		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="153" start="20260402120300 +0000" stop="20260402130000 +0000">
+	<programme channel="153" start="20260402120200 +0000" stop="20260402130000 +0000">
 		<title>DocFilm</title>
 		<desc>Dan Brown's novel "The Da Vinci Code" is one of the century’s most successful thrillers worldwide. But how much truth is behind the claims made in the book - and what is pure fiction?</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
@@ -9290,13 +9294,13 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20260402131500 +0000" stop="20260402133000 +0000">
-		<title>Best of DW-online Content</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+		<title>Travel</title>
+		<desc>If you love urban exploration, forgotten architecture, and the stories hidden in decay, then Georgia should be your next adventure destination. DW’s Anja Koch takes you to two of the country's most haunting lost places: Tskaltubo, a once-grand Soviet spa town with abandoned sanatoriums, and Chiatura, a former mining city where eerie, rusting cable cars cling to the cliffs.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20260402133000 +0000" stop="20260402140000 +0000">
 		<title>REV</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+		<desc>Millions of animals die in collisions with cars each year. How can drivers and automakers prevent such crashes? Plus: Retrofitters in India turn old vehicles into eco-friendly rides, and Flixtrain vs. Deutsche Bahn.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20260402140000 +0000" stop="20260402140200 +0000">
@@ -9321,7 +9325,7 @@
 	</programme>
 	<programme channel="153" start="20260402153000 +0000" stop="20260402160000 +0000">
 		<title>In Good Shape</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+		<desc>It's not only what we eat or when we eat it - how we chew matters too. Discover the latest research on how eating habits shape digestion, metabolism and overall health.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20260402160000 +0000" stop="20260402163000 +0000">
@@ -9331,7 +9335,7 @@
 	</programme>
 	<programme channel="153" start="20260402163000 +0000" stop="20260402170000 +0000">
 		<title>Focus on Europe</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+		<desc>In Georgia, the mothers of imprisoned pro-EU demonstrators are fighting for justice with a newspaper of their own. +++ How safe is London? A nighttime tour of the city.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20260402170000 +0000" stop="20260402171500 +0000">
@@ -9340,8 +9344,8 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20260402171500 +0000" stop="20260402173000 +0000">
-		<title>Best of DW-online Content</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+		<title>Travel</title>
+		<desc>If you love urban exploration, forgotten architecture, and the stories hidden in decay, then Georgia should be your next adventure destination. DW’s Anja Koch takes you to two of the country's most haunting lost places: Tskaltubo, a once-grand Soviet spa town with abandoned sanatoriums, and Chiatura, a former mining city where eerie, rusting cable cars cling to the cliffs.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20260402173000 +0000" stop="20260402180000 +0000">
@@ -9356,7 +9360,7 @@
 	</programme>
 	<programme channel="153" start="20260402183000 +0000" stop="20260402190000 +0000">
 		<title>Global Us</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+		<desc>How creative citizen initiatives in Germany's capital are making the city more livable, and inspiring cities elsewhere. In Zambia, lead pollution from old mines is devastating the lives of those living there today.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20260402190000 +0000" stop="20260402190200 +0000">
@@ -9370,8 +9374,8 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20260402191500 +0000" stop="20260402193000 +0000">
-		<title>Best of DW-online Content</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+		<title>Travel</title>
+		<desc>If you love urban exploration, forgotten architecture, and the stories hidden in decay, then Georgia should be your next adventure destination. DW’s Anja Koch takes you to two of the country's most haunting lost places: Tskaltubo, a once-grand Soviet spa town with abandoned sanatoriums, and Chiatura, a former mining city where eerie, rusting cable cars cling to the cliffs.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20260402193000 +0000" stop="20260402200000 +0000">
@@ -9430,8 +9434,8 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20260402231500 +0000" stop="20260402233000 +0000">
-		<title>Best of DW-online Content</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+		<title>Travel</title>
+		<desc>If you love urban exploration, forgotten architecture, and the stories hidden in decay, then Georgia should be your next adventure destination. DW’s Anja Koch takes you to two of the country's most haunting lost places: Tskaltubo, a once-grand Soviet spa town with abandoned sanatoriums, and Chiatura, a former mining city where eerie, rusting cable cars cling to the cliffs.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20260402233000 +0000" stop="20260403000000 +0000">
@@ -10155,7 +10159,7 @@
 		<icon src="https://poster.starhubgo.com/poster/LEEDS_UNITED_vs_NORWICH_CITY.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="202" start="20260402020000 +0000" stop="20260402040000 +0000">
-		<title>Singapore Premier League 2025/26 Geylang International FC vs Albirex Niigata FC (S)</title>
+		<title>Singapore Premier League 2025/26 Geylang International FC vs Albirex Niigata FC</title>
 		<desc>Catch the 2025/26 Singapore Premier League as top football clubs battle for glory in Singapore's premier competition. Defending champions Lion City Sailors return to defend their title in the league's 8th season since its 2018 rebranding.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch202_singapore_premier_league.jpg?w=960&amp;h=540" />
 	</programme>
@@ -23990,8 +23994,8 @@
 		<icon src="https://poster.starhubgo.com/poster/ch701_BBC_news.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="701" start="20260401233000 +0000" stop="20260402000000 +0000">
-		<title>Newscast</title>
-		<desc>Lighthearted discussion of the day's news.</desc>
+		<title>BBC News</title>
+		<desc>The latest news from the BBC.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch701_BBC_news.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="701" start="20260402000000 +0000" stop="20260402003000 +0000">
@@ -24000,29 +24004,29 @@
 		<icon src="https://poster.starhubgo.com/poster/ch701_BBC_news.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="701" start="20260402003000 +0000" stop="20260402010000 +0000">
-		<title>AI Decoded</title>
-		<desc>Join our AI Decoded team as we unpack and take a deep dive into the world of artificial intelligence.</desc>
+		<title>BBC News</title>
+		<desc>The latest news from the BBC.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch701_BBC_news.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="701" start="20260402010000 +0000" stop="20260402013000 +0000">
-		<title>Newsday</title>
-		<desc>Live from Singapore, the latest international news from the BBC.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch701_newsday.jpg?w=960&amp;h=540" />
+		<title>BBC News</title>
+		<desc>The latest news from the BBC.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch701_BBC_news.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="701" start="20260402013000 +0000" stop="20260402014500 +0000">
-		<title>Business Today</title>
-		<desc>Business Today. Bringing the latest business news and up-to-date informed analysis from Singapore and around the world.</desc>
+		<title>BBC News</title>
+		<desc>The latest news from the BBC.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch701_BBC_news.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="701" start="20260402014500 +0000" stop="20260402020000 +0000">
-		<title>BBC Sport</title>
-		<desc>A round-up of the day's sporting action, plus talking points, analysis and original journalism.</desc>
+		<title>BBC News</title>
+		<desc>The latest news from the BBC.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch701_BBC_news.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="701" start="20260402020000 +0000" stop="20260402023000 +0000">
-		<title>Newsday</title>
-		<desc>Live from Singapore, the latest international news from the BBC.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch701_newsday.jpg?w=960&amp;h=540" />
+		<title>BBC News</title>
+		<desc>The latest news from the BBC.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch701_BBC_news.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="701" start="20260402023000 +0000" stop="20260402024500 +0000">
 		<title>Business Today</title>
@@ -26863,16 +26867,6 @@
 		<title>Quest Means Business (60m)</title>
 		<desc>Richard Quest speaks to the top names in global business to bring viewers the bottom line.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch711_quest_means_business.jpg?w=341&amp;h=192" />
-	</programme>
-	<programme channel="711" start="20260401213000 +0000" stop="20260401220000 +0000">
-		<title>World Sport (30m)</title>
-		<desc>Daily sports show features major stories and issues making news in the world of sports.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch711_world_sport.jpg?w=341&amp;h=192" />
-	</programme>
-	<programme channel="711" start="20260401220000 +0000" stop="20260401230000 +0000">
-		<title>The Brief with Jim Sciutto</title>
-		<desc>The best of CNN's reporting from correspondents across the world, to guide global audiences through the fast-paced news cycle with insight, analysis and hard-hitting interviews.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch711_the_brief_with_jim_sciutto.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="711" start="20260401230000 +0000" stop="20260402000000 +0000">
 		<title>Erin Burnett OutFront</title>
