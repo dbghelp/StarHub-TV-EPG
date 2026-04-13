@@ -5660,7 +5660,7 @@
 	</programme>
 	<programme channel="133" start="20260413113000 +0000" stop="20260413120000 +0000">
 		<title>Kayal</title>
-		<desc>Chinraasu, a compassionate villager loved by the whole village, and Thulasi, a cheerful young girl, are siblings who can go to any lengths for each other. Follow this unique story about the bonds shared by Chinraasu and Thulasi as they stand by each other while finding love and joy in the trials of life.</desc>
+		<desc>Chinraasu, a compassionate villager loved by the whole village, and Thulasi, a cheerful young girl, are siblings who can go to any lengths for each other. Follow this unique story about the bonds shared by Chinraasu and Thulasi as they stand by each other</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/133_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="133" start="20260413120000 +0000" stop="20260413123000 +0000">
@@ -5714,13 +5714,13 @@
 		<icon src="https://poster.starhubgo.com/poster/ch25_news.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="133" start="20260413233000 +0000" stop="20260414000000 +0000">
-		<title>Vanakkam Thamizha</title>
-		<desc>It's a morning talk show which hosts celebrities &amp; professionals from all walks of life who share their valuable expertise on varied topics. Enjoy a delightful start to your day with a healthy dose of information and entertainment.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch25_vanakkam_thamizha.jpg?w=960&amp;h=540" />
+		<title>THIRAI MINNALGAL</title>
+		<desc>Enjoy an extensive collection of soul-stirring melodies.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/133_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="133" start="20260414000000 +0000" stop="20260414010000 +0000">
-		<title>Ramayanam</title>
-		<desc>An ancient Indian epic following Prince Rama of Ayodhya, a righteous avatar of Vishnu, who is exiled to the forest for 14 years with his wife Sita and brother Lakshmana.</desc>
+		<title>THAMIZHODU VILAYAADU</title>
+		<desc>A Fun Show With Serial Celebrities.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/133_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="133" start="20260414010000 +0000" stop="20260414020000 +0000">
@@ -33763,12 +33763,17 @@
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20260413140000 +0000" stop="20260413163000 +0000">
+	<programme channel="832" start="20260413140000 +0000" stop="20260413160000 +0000">
 		<title>Overtime no more</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20260413163000 +0000" stop="20260413170000 +0000">
+	<programme channel="832" start="20260413160000 +0000" stop="20260413162200 +0000">
+		<title>Overtime no more</title>
+		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="832" start="20260413162200 +0000" stop="20260413170000 +0000">
 		<title>Searching for flavor</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
@@ -34044,7 +34049,7 @@
 		<icon src="https://poster.starhubgo.com/poster/ch838_the_imperial_coroner_ii_still_ep28.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="838" start="20260413143000 +0000" stop="20260413150000 +0000">
-		<title>Good Value for Money</title>
+		<title>Try It? Really?</title>
 		<desc>Testing real-life spots in the Greater Bay Area based on online ratings, our hosts visit both top-rated and poorly-rated restaurants and attractions to see if the reviews hold up.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch838_tvb_logo.jpg?w=341&amp;h=192" />
 	</programme>
@@ -34089,7 +34094,7 @@
 		<icon src="https://poster.starhubgo.com/poster/ch838_scoop_2026.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="838" start="20260413193000 +0000" stop="20260413200000 +0000">
-		<title>Good Value for Money</title>
+		<title>Try It? Really?</title>
 		<desc>Testing real-life spots in the Greater Bay Area based on online ratings, our hosts visit both top-rated and poorly-rated restaurants and attractions to see if the reviews hold up.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch838_tvb_logo.jpg?w=341&amp;h=192" />
 	</programme>
