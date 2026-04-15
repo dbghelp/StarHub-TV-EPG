@@ -10323,12 +10323,12 @@
 		<desc>The 2025/26 FA Cup is the 145th season of the Football Association Challenge Cup, the oldest football tournament in the world, and is the main domestic cup competition for men's football teams in England.</desc>
 		<icon src="https://poster.starhubgo.com/poster/WEST_HAM_vs_LEEDS_UNITED.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="202" start="20260415090000 +0000" stop="20260415130000 +0000">
+	<programme channel="202" start="20260415090000 +0000" stop="20260415132800 +0000">
 		<title>ATP Tour 2026 BMW Open by BitPanda (500) Day 3 Round 2 (Live)</title>
 		<desc>The Bavarian International Tennis Championships is an annual, professional men's tennis tournament played on outdoor red clay courts in Munich, Germany, at the MTTC Iphitos complex. Founded in 1899, it has been sponsored by BMW since 1990 and the tournament is known for its intimate atmosphere in the heart of Munich.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch202_ATP_500_BMW_Open.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="202" start="20260415130000 +0000" stop="20260415160000 +0000">
+	<programme channel="202" start="20260415132800 +0000" stop="20260415160000 +0000">
 		<title>UFC Reloaded UFC 322: Della Maddalena vs Makhachev</title>
 		<desc>UFC Reloaded offers television audiences a full event replay of exciting UFC events.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch202_ufc322_Della_Maddalena_vs_Makhachev.jpg?w=960&amp;h=540" />
@@ -10349,7 +10349,7 @@
 		<icon src="https://poster.starhubgo.com/poster/ch202_ufc.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="202" start="20260416000000 +0000" stop="20260416020000 +0000">
-		<title>Singapore Premier League 2025/26 BG Tampines Rovers FC vs Geylang International FC</title>
+		<title>Singapore Premier League 2025/26 BG Tampines Rovers FC vs Geylang International</title>
 		<desc>Catch the 2025/26 Singapore Premier League as top football clubs battle for glory in Singapore's premier competition. Defending champions Lion City Sailors return to defend their title in the league's 8th season since its 2018 rebranding.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch202_singapore_premier_league.jpg?w=960&amp;h=540" />
 	</programme>
@@ -10791,17 +10791,17 @@
 	<programme channel="209" start="20260416002000 +0000" stop="20260416021500 +0000">
 		<title>2026 GT World Challenge Asia, Sepang</title>
 		<desc>op GT teams and drivers compete across Asia's premier circuits, delivering high-speed action, intense rivalries, and world-class sports car racing.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch209_motorsports.jpg?w=960&amp;h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch209_2026_GT_World_Challenge_Asia.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="209" start="20260416021500 +0000" stop="20260416040500 +0000">
 		<title>2026 GT World Challenge Asia, Sepang</title>
 		<desc>Top GT teams and drivers compete across Asia's premier circuits, delivering high-speed action, intense rivalries, and world-class sports car racing.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch209_motorsports.jpg?w=960&amp;h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch209_2026_GT_World_Challenge_Asia.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="209" start="20260416040500 +0000" stop="20260416054500 +0000">
 		<title>2026 LIV Golf League, South Africa</title>
 		<desc>The world's top golfers compete in a bold, fast-paced league format, delivering big drives, dramatic finishes, and non-stop action across iconic global venues.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch209_golf.jpg?w=960&amp;h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch209_LIV_Golf.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="209" start="20260416054500 +0000" stop="20260416083000 +0000">
 		<title>2026 Longines Global Champions Tour, Miami</title>
@@ -10811,7 +10811,7 @@
 	<programme channel="209" start="20260416083000 +0000" stop="20260416160000 +0000">
 		<title>2026 Masters Tournament</title>
 		<desc>The world's top golfers compete at Augusta National in one of the sport's most prestigious events, delivering iconic moments, precision play, and championship drama.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch209_golf.jpg?w=960&amp;h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch209_The_Masters.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="210" start="20260414160000 +0000" stop="20260414180000 +0000">
 		<title>25/26 A-League Men Round 24 Melbourne City FC vs Wellington Phoenix</title>
@@ -10909,7 +10909,7 @@
 		<icon src="https://poster.starhubgo.com/poster/ch210_sailgp.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="210" start="20260416040000 +0000" stop="20260416073000 +0000">
-		<title>Randox Grand National 2026</title>
+		<title>Grand National 2026</title>
 		<desc>A premier horse racing event where elite thoroughbreds and top jockeys compete, delivering speed, skill, and thrilling competition on the track.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_randox_grand_national_2026.jpg?w=960&amp;h=540" />
 	</programme>
@@ -10918,10 +10918,20 @@
 		<desc>WTT Singapore Smash 2026 brings the world's elite table tennis players together for one of the sport's premier events, delivering high-intensity matches and unforgettable moments on the global stage.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_wtt_grand_smash.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="210" start="20260416120000 +0000" stop="20260416160000 +0000">
-		<title>WTT Singapore Smash 2026</title>
-		<desc>WTT Singapore Smash 2026 brings the world's elite table tennis players together for one of the sport's premier events, delivering high-intensity matches and unforgettable moments on the global stage.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch210_wtt_grand_smash.jpg?w=960&amp;h=540" />
+	<programme channel="210" start="20260416120000 +0000" stop="20260416133000 +0000">
+		<title>SailGP S6: ENEL Rio Sail Grand Prix</title>
+		<desc>Adrenaline-fueled races, legendary global locations, rival national teams and record-breaking speeds. SailGP is the most exciting racing on water - Powered By Nature.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch210_sailgp.jpg?w=960&amp;h=540" />
+	</programme>
+	<programme channel="210" start="20260416133000 +0000" stop="20260416140000 +0000">
+		<title>MotoGP Hall of Fame Dinner</title>
+		<desc>Seven MotoGP legends with 23 premier class titles share a private dinner. Agostini, Rossi, and more trade untold stories in this historic, one-of-a-kind sit-down.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch210_motogp.jpg?w=960&amp;h=540" />
+	</programme>
+	<programme channel="210" start="20260416140000 +0000" stop="20260416170000 +0000">
+		<title>2026 Senior PGA Championship (Live)</title>
+		<desc>Golf's most accomplished senior players compete for major glory, showcasing experience, precision, and competitive excellence on a prestigious stage.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch210_golf.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="211" start="20260414153000 +0000" stop="20260414170000 +0000">
 		<title>Premier Padel 2026: New Giza P2 Day 2 Match 5 (Live)</title>
@@ -20860,17 +20870,17 @@
 	</programme>
 	<programme channel="447" start="20260415023000 +0000" stop="20260415030000 +0000">
 		<title>Landline (2026) - EP 8</title>
-		<desc>A tasty sampler of stories from the land - covering food, agriculture, crops, climate, business and innovation - as we meet the fascinating people who make our rural and regional communities unique. Presented by Pip Courtney.</desc>
+		<desc>Making gourmet dried fruit from imperfect produce; plus super-fast chemical free compost from weeds and feedlot waste.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="447" start="20260415030000 +0000" stop="20260415034500 +0000">
-		<title>Four Corners (2026) - EP 9</title>
-		<desc>The multi-award winning Four Corners returns for another year of powerhouse investigative journalism - fearless and forensic, exposing scandals, triggering inquiries, leading debate and holding power to account for 65 years.</desc>
+		<title>Four Corners (2025) - EP 36</title>
+		<desc>Online bookmakers have kept millions in wagers placed with stolen money. Why has the federal government failed to respond to a cross parliamentary blueprint for reform and what will it take to curb the harms of gambling?</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="447" start="20260415034500 +0000" stop="20260415040500 +0000">
 		<title>Media Watch (2026) - EP 10</title>
-		<desc>Australia's leading forum for media analysis and comment. Host Linton Besser, a four-time Walkley award-winning investigative reporter and former foreign correspondent, brings you a fearless critique of the week's journalism.</desc>
+		<desc>Media blockade: Trump opens a second front, declaring war on CNN's Iran reporting. Docu-series 'Aussie Gold Hunters' has been a hit with audiences around the world, but are they serving up real treasure or just fool's gold?</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="447" start="20260415040500 +0000" stop="20260415043500 +0000">
@@ -20878,12 +20888,12 @@
 		<desc>Guided by a pie-tastic team in Perth, Dr Karl embarks on a culinary odyssey to uncover how Australia's iconic meat pies are made.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="447" start="20260415043500 +0000" stop="20260415053000 +0000">
+	<programme channel="447" start="20260415043500 +0000" stop="20260415053500 +0000">
 		<title>Grand Designs Transformations S1 - EP 6</title>
 		<desc>In Geelong Victoria, Luke and Bree restore a Victorian cottage and add on a massive contemporary extension, while in the historic Tasmanian village of Oatlands, Karen and Stu restore a sandstone Georgian cottage.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="447" start="20260415053000 +0000" stop="20260415060500 +0000">
+	<programme channel="447" start="20260415053500 +0000" stop="20260415060500 +0000">
 		<title>Dream Gardens S2 - EP 8</title>
 		<desc>Michael McCoy revisits a garden built after the owners lost their original property in a horror bushfire. (Season Final)</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341&amp;h=192" />
@@ -20905,7 +20915,7 @@
 	</programme>
 	<programme channel="447" start="20260415083000 +0000" stop="20260415090000 +0000">
 		<title>That Pacific Sports Show (2026) - EP 10</title>
-		<desc>Join Tiana Penitani Gray and Sam Wykes for your weekly hit of Pacific joy, as they share inspiring stories and incredible sporting prowess of athletes with Pacific Island heritage, from Australia and around the world.</desc>
+		<desc>This week the show travels to Palau to profile trailblazer Baklai Temengil, the Oceania NOC Secretary-General, while head of female pathways at the Wests Tigers, David Fauonuku joins our hosts on the couch.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="447" start="20260415090000 +0000" stop="20260415093000 +0000">
@@ -20929,13 +20939,13 @@
 		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="447" start="20260415115500 +0000" stop="20260415124500 +0000">
-		<title>Four Corners (2026) - EP 9</title>
-		<desc>The multi-award winning Four Corners returns for another year of powerhouse investigative journalism - fearless and forensic, exposing scandals, triggering inquiries, leading debate and holding power to account for 65 years.</desc>
+		<title>Four Corners (2025) - EP 36</title>
+		<desc>Online bookmakers have kept millions in wagers placed with stolen money. Why has the federal government failed to respond to a cross parliamentary blueprint for reform and what will it take to curb the harms of gambling?</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="447" start="20260415124500 +0000" stop="20260415130500 +0000">
 		<title>Media Watch (2026) - EP 10</title>
-		<desc>Australia's leading forum for media analysis and comment. Host Linton Besser, a four-time Walkley award-winning investigative reporter and former foreign correspondent, brings you a fearless critique of the week's journalism.</desc>
+		<desc>Media blockade: Trump opens a second front, declaring war on CNN's Iran reporting. Docu-series 'Aussie Gold Hunters' has been a hit with audiences around the world, but are they serving up real treasure or just fool's gold?</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="447" start="20260415130500 +0000" stop="20260415140000 +0000">
@@ -20963,24 +20973,24 @@
 		<desc>There's never been a more important time to stay in touch with what's happening in our world. Girish Sawlani presents the latest international news from ABC News correspondents as well as interviews with experts and guests.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="447" start="20260415160000 +0000" stop="20260415170000 +0000">
+	<programme channel="447" start="20260415160000 +0000" stop="20260415165500 +0000">
 		<title>Grand Designs Transformations S1 - EP 6</title>
 		<desc>In Geelong Victoria, Luke and Bree restore a Victorian cottage and add on a massive contemporary extension, while in the historic Tasmanian village of Oatlands, Karen and Stu restore a sandstone Georgian cottage.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="447" start="20260415170000 +0000" stop="20260415173000 +0000">
+	<programme channel="447" start="20260415165500 +0000" stop="20260415172500 +0000">
 		<title>Dream Gardens S2 - EP 8</title>
 		<desc>Michael McCoy revisits a garden built after the owners lost their original property in a horror bushfire. (Season Final)</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="447" start="20260415173000 +0000" stop="20260415181500 +0000">
-		<title>Four Corners (2026) - EP 9</title>
-		<desc>The multi-award winning Four Corners returns for another year of powerhouse investigative journalism - fearless and forensic, exposing scandals, triggering inquiries, leading debate and holding power to account for 65 years.</desc>
+	<programme channel="447" start="20260415172500 +0000" stop="20260415181500 +0000">
+		<title>Four Corners (2025) - EP 36</title>
+		<desc>Online bookmakers have kept millions in wagers placed with stolen money. Why has the federal government failed to respond to a cross parliamentary blueprint for reform and what will it take to curb the harms of gambling?</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="447" start="20260415181500 +0000" stop="20260415183000 +0000">
 		<title>Media Watch (2026) - EP 10</title>
-		<desc>Australia's leading forum for media analysis and comment. Host Linton Besser, a four-time Walkley award-winning investigative reporter and former foreign correspondent, brings you a fearless critique of the week's journalism.</desc>
+		<desc>Media blockade: Trump opens a second front, declaring war on CNN's Iran reporting. Docu-series 'Aussie Gold Hunters' has been a hit with audiences around the world, but are they serving up real treasure or just fool's gold?</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="447" start="20260415183000 +0000" stop="20260415190000 +0000">
