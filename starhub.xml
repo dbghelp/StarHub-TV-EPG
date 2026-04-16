@@ -11048,10 +11048,15 @@
 		<desc>Top flight men's soccer returns in the ISUZU UTE A-League Men. Catch every moment on SPOTV NOW as 12 teams compete in the regular season with top 4 advancing to a single-game knockout.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_a_league_men.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="210" start="20260417010000 +0000" stop="20260417033000 +0000">
+	<programme channel="210" start="20260417010000 +0000" stop="20260417030000 +0000">
 		<title>16/4 2026 MLB Regular Season New York Yankees vs Los Angeles Angels</title>
 		<desc>Major League Baseball is the most historic professional sports league consists of 30 member clubs in the U.S. and Canada, representing the highest level of professional baseball.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_mlb.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="210" start="20260417030000 +0000" stop="20260417033000 +0000">
+		<title>MotoGP Inside Ducati Lenovo Team</title>
+		<desc>INSIDE S2 returns, following the Ducati Lenovo Team through the 2026 MotoGP season with Marc Marquez and Francesco Bagnaia, capturing global races, emotion, unseen moments, and the people behind every result.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch210_motogp.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="210" start="20260417033000 +0000" stop="20260417040000 +0000">
 		<title>2025/26 ALM Mini Match Rd 24 Central Coast Mariners FC vs Brisbane Roar FC</title>
@@ -11071,7 +11076,7 @@
 	<programme channel="210" start="20260417100000 +0000" stop="20260417130000 +0000">
 		<title>2026 Senior PGA Championship</title>
 		<desc>Golf's most accomplished senior players compete for major glory, showcasing experience, precision, and competitive excellence on a prestigious stage.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch210_golf.jpg?w=960&amp;h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch210_senior_pga_championship.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="210" start="20260417130000 +0000" stop="20260417140000 +0000">
 		<title>SailGP S6: ENEL Rio Sail Grand Prix</title>
@@ -11081,7 +11086,7 @@
 	<programme channel="210" start="20260417140000 +0000" stop="20260417170000 +0000">
 		<title>2026 Senior PGA Championship (Live)</title>
 		<desc>Golf's most accomplished senior players compete for major glory, showcasing experience, precision, and competitive excellence on a prestigious stage.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch210_golf.jpg?w=960&amp;h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch210_senior_pga_championship.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="211" start="20260415153000 +0000" stop="20260415170000 +0000">
 		<title>Premier Padel 2026: New Giza P2 Day 3 Match 5 (Live)</title>
@@ -30783,39 +30788,34 @@
 		<desc>Offering tips on how to take most appropriate option when one becomes ill by referring examples.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="811" start="20260415161500 +0000" stop="20260415164000 +0000">
+	<programme channel="811" start="20260415161500 +0000" stop="20260415163000 +0000">
 		<title>Today's Cooking</title>
 		<desc>Cooking instructors will show all there is to know for a good hearty cooking.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="811" start="20260415164000 +0000" stop="20260415170500 +0000">
+	<programme channel="811" start="20260415163000 +0000" stop="20260415165500 +0000">
+		<title>Today's Cooking</title>
+		<desc>Cooking instructors will show all there is to know for a good hearty cooking.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="811" start="20260415165500 +0000" stop="20260415170500 +0000">
+		<title>News</title>
+		<desc />
+		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="811" start="20260415170500 +0000" stop="20260415173000 +0000">
 		<title>Haiku Poetry</title>
 		<desc>Focusing on enjoying Haiku, the program will introduce the various Haiku created by viewers.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="811" start="20260415170500 +0000" stop="20260415171000 +0000">
-		<title>The Great Nature 5min.</title>
-		<desc />
-		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="811" start="20260415171000 +0000" stop="20260415173000 +0000">
+	<programme channel="811" start="20260415173000 +0000" stop="20260415175000 +0000">
 		<title>Spanish in a Happy Mood</title>
 		<desc>Let’s learn simple and easy-to-remember phrases, looking at a modern Europe that cherishes its history and traditions while pursuing a lifestyle that fits its stature. Furthermore, we explore tips for "happiness" and various forms of "joy" through the unique European way of thinking and values behind their languages and lifestyles.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="811" start="20260415173000 +0000" stop="20260415174000 +0000">
+	<programme channel="811" start="20260415175000 +0000" stop="20260415180000 +0000">
 		<title>Real-Life Travel English</title>
 		<desc>This program is a practical listening course designed to help you understand fast-paced real English that you encounter when traveling abroad.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="811" start="20260415174000 +0000" stop="20260415174500 +0000">
-		<title>World Weather</title>
-		<desc>Weather information of the different areas around the world.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="811" start="20260415174500 +0000" stop="20260415180000 +0000">
-		<title>Kid's Discovery (R)</title>
-		<desc>In this program, children around the age of 4 can experience the pleasure of playing with friends, the wonder of life, the joy of doing thigs by themselves, and consideration for others, all while having fun through various discoveries.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="811" start="20260415180000 +0000" stop="20260415182500 +0000">
@@ -31419,7 +31419,7 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="811" start="20260417133000 +0000" stop="20260417143000 +0000">
-		<title>Somewhere Street "Taipei, Taiwan"</title>
+		<title>Somewhere Street "Davao, Philippines"</title>
 		<desc>A close-up look at cities worldwide, as seen by a walking tourist. Viewers visit places off the beaten path, meet ordinary people, and enjoy a travel experience that only possible on foot.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
