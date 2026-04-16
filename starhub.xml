@@ -1685,7 +1685,7 @@
 	</programme>
 	<programme channel="105" start="20260416153000 +0000" stop="20260416160000 +0000">
 		<title>Ethiroli S23 - EP 3</title>
-		<desc>Singapore is having fewer babies than ever before. We explore why young adults are delaying marriage and parenthood, what happens when couples face fertility challenges later in life, and whether existing support is enough. From cost pressures and changing attitudes to fertility treatment and policy responses - what would truly make family life feel possible for the next generation.</desc>
+		<desc>As the war in Iran drives uncertainty in global fuel and transport costs, Singaporeans are beginning to feel the strain at home. This episode explores how rising prices are affecting families, vulnerable groups, platform workers and businesses, what support the Government has announced, and what more may be needed if the crisis drags on.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/105_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="105" start="20260416160000 +0000" stop="20260416163000 +0000">
@@ -10264,7 +10264,7 @@
 		<icon src="https://poster.starhubgo.com/poster/ch201_BadmintonWeekly.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="201" start="20260416033000 +0000" stop="20260416040000 +0000">
-		<title>Heroines 2026 Season 3</title>
+		<title>Heroines 2026</title>
 		<desc>Heroines is a timeless series, that tables important discussion that challenges the status quo and celebrates the unique values of women’s sport. Each episode features a dedicated theme such as equality, maternity, leadership, mental health, fan engagement, activism and more, supported by exclusive interviews with leaders at the forefront of women’s sport.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch201_Heroines2025.jpg?w=960&amp;h=540" />
 	</programme>
@@ -10283,25 +10283,30 @@
 		<desc>This show brings you compelling stories, player personalities, tournament colour and fan engagement as well as exclusive analysis of statistical trends and data.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch201_wta_tour.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="201" start="20260416090000 +0000" stop="20260416130000 +0000">
-		<title>ATP Tour 2026 Barcelona Open Banc Sabadell (500) Day 4 Round 2 (Live)</title>
-		<desc>The Barcelona Open is a prestigious annual ATP Tour 500 men's tennis tournament played on outdoor clay courts at the Real Club de Tenis Barcelona-1899 in Spain. Founded in 1953, it is a key European clay-court event and serves as a significant precursor to the French Open.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch201_ATP500BarcelonaOpen.jpg?w=960&amp;h=540" />
+	<programme channel="201" start="20260416090000 +0000" stop="20260416110000 +0000">
+		<title>ATP Tour 2026 Rolex Monte-Carlo Masters (1000) Final</title>
+		<desc>The Rolex Monte-Carlo Masters is a premier annual men's professional tennis tournament played on outdoor clay courts at the Monte Carlo Country Club in Roquebrune-Cap-Martin, France.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch201_ATP1000MonteCarloMasters.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="201" start="20260416130000 +0000" stop="20260416133000 +0000">
-		<title>WTA Tour 2026 H/Ls Qatar TotalEnergies Open</title>
-		<desc>Catch all the thrills and spills from the Khalifa International Tennis and Squash Complex in Doha, Qatar.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch201_ATP500QatarOpen.jpg?w=341&amp;h=192" />
-	</programme>
-	<programme channel="201" start="20260416133000 +0000" stop="20260416140000 +0000">
+	<programme channel="201" start="20260416110000 +0000" stop="20260416113000 +0000">
 		<title>ATP Tour: This Week 2026</title>
 		<desc>This programme tells the story of the ATP tour, its tournaments, personalities behind the tennis, funny feature content and much more.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch201_ATPTourThisWeek.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="201" start="20260416140000 +0000" stop="20260416183000 +0000">
-		<title>BANK OF NINGBO Badminton Asia C'ships 2026 Finals</title>
-		<desc>The Badminton Asia Championships is a tournament organized by governing body Badminton Asia to crown the best badminton players in Asia. It features competitions to determine the top badminton athletes across Asia in men's singles, women's singles, men's doubles, women's doubles, and mixed doubles.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch201_ningbo_badminton_asia_championships.jpg?w=341&amp;h=192" />
+	<programme channel="201" start="20260416113000 +0000" stop="20260416153000 +0000">
+		<title>ATP Tour 2026 Barcelona Open Banc Sabadell (500) Day 4 Round 2 (Live)</title>
+		<desc>The Barcelona Open is a prestigious annual ATP Tour 500 men's tennis tournament played on outdoor clay courts at the Real Club de Tenis Barcelona-1899 in Spain. Founded in 1953, it is a key European clay-court event and serves as a significant precursor to the French Open.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch201_ATP500BarcelonaOpen.jpg?w=960&amp;h=540" />
+	</programme>
+	<programme channel="201" start="20260416153000 +0000" stop="20260416160000 +0000">
+		<title>WTA Tour 2026 H/Ls Qatar TotalEnergies Open</title>
+		<desc>Catch all the thrills and spills from the Khalifa International Tennis and Squash Complex in Doha, Qatar.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch201_ATP500QatarOpen.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="201" start="20260416160000 +0000" stop="20260416183000 +0000">
+		<title>WTA Tour 2026 Copa Colsanitas Colsubsidio (250) Final</title>
+		<desc>The Copa Colsanitas is a women's professional tennis tournament held in Bogotá, Colombia, at the Country Club de Bogotá. Held since 1998, this WTA 250 tournament is played on outdoor clay courts.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch201_WTA_Tour_250_Generic.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="201" start="20260416183000 +0000" stop="20260416190000 +0000">
 		<title>WTA All Access 2026</title>
@@ -11448,12 +11453,12 @@
 		<desc>Extensive coverage from every round of the Spanish LaLiga, Spain's top division of football with the World's biggest teams.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch213_laliga.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="213" start="20260416050000 +0000" stop="20260416053000 +0000">
-		<title>Fastzone 2026</title>
-		<desc>Covering everything from prototypes to endurance racing, karting to airplanes and even some real oddities.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch213_fastzone.jpg?w=341&amp;h=192" />
+	<programme channel="213" start="20260416050000 +0000" stop="20260416052100 +0000">
+		<title>LaLiga Goals Galore 2024/25</title>
+		<desc>Relive every goal from the best players in 2024/25 season.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch213_laliga_goals_galore.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="213" start="20260416053000 +0000" stop="20260416073000 +0000">
+	<programme channel="213" start="20260416052100 +0000" stop="20260416073000 +0000">
 		<title>UCI World Tour 2026: Tour of Hainan - Stage 2 (Live)</title>
 		<desc>The highest level of professional road cycling, a series of elite races for men.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch213_uci_world_tour.jpg?w=960&amp;h=540" />
@@ -11619,7 +11624,7 @@
 		<icon src="https://poster.starhubgo.com/poster/ch214_mutv.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="214" start="20260415185500 +0000" stop="20260415210000 +0000">
-		<title>UEFA Champions League 2025/26: Arsenal vs Sporting - QF, 2nd Leg (Live)</title>
+		<title>Arsenal vs Sporting - QF, 2nd Leg (Live)</title>
 		<desc>The most prestigious tournament in the world contested by top-division elite European clubs</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch214_UCL_live_match.jpg?w=960&amp;h=540" />
 	</programme>
