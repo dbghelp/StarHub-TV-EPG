@@ -1880,7 +1880,7 @@
 	</programme>
 	<programme channel="106" start="20260418150300 +0000" stop="20260418160000 +0000">
 		<title>Concorde: The Untold Story - EP 2</title>
-		<desc>Go inside the race to build the first supersonic airliner between Europe's Concorde, the Soviet TU144 and the American Boeing 2707. From the post-war jet boom to the death of the supersonic dream 40 years later, this is a story of engineering brilliance, international espionage and tragedy that surrounded the attempt to make the fastest airliner on earth. Also, could supersonic make a comeback?</desc>
+		<desc>Go inside the race to build the first supersonic airliner between Europe's Concorde, the Soviet TU144 and the American Boeing 2707. From the post-war jet boom to the death of the supersonic dream 40 years later, this is a story of engineering brilliance,</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="106" start="20260418160000 +0000" stop="20260418160300 +0000">
@@ -4913,11 +4913,6 @@
 		<desc>A family is forced to pledge their unborn child as bonded labour to the ruthless landlord Singaperumal. But as she grows, she rebels and vows to bring about his ultimate downfall.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch132_mynaa.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="132" start="20260417210000 +0000" stop="20260417213000 +0000">
-		<title>Mynaa - EP 87</title>
-		<desc>A family is forced to pledge their unborn child as bonded labour to the ruthless landlord Singaperumal. But as she grows, she rebels and vows to bring about his ultimate downfall.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch132_mynaa.jpg?w=341&amp;h=192" />
-	</programme>
 	<programme channel="132" start="20260417213000 +0000" stop="20260417220000 +0000">
 		<title>Adhe Kangal - EP 44</title>
 		<desc>Adhe Kangal tells of a couple who ignore a haunted warning. After a failed assault, the real ghost Nagavali kills the attackers, as dark secrets haunt the girl's troubled family.</desc>
@@ -5028,15 +5023,15 @@
 		<desc>Adhe Kangal tells of a couple who ignore a haunted warning. After a failed assault, the real ghost Nagavali kills the attackers, as dark secrets haunt the girl's troubled family.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch132_adhe_kangal.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="132" start="20260418143000 +0000" stop="20260418173000 +0000">
+	<programme channel="132" start="20260418143000 +0000" stop="20260418160000 +0000">
 		<title>Hey Sinamika</title>
 		<desc>Hey Sinamika</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch132_hey_sinamika.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="132" start="20260418173000 +0000" stop="20260418180000 +0000">
-		<title>Muthazhagu - EP 123</title>
-		<desc>A hardworking young girl loses her cattle to financial hardship, but instead of surrendering to fate, she bravely chooses to confront her struggles and shape her own destiny.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch132_muthazhagu.jpg?w=960&amp;h=540" />
+	<programme channel="132" start="20260418160000 +0000" stop="20260418180000 +0000">
+		<title>Hey Sinamika</title>
+		<desc>Hey Sinamika</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch132_hey_sinamika.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="132" start="20260418180000 +0000" stop="20260418203000 +0000">
 		<title>Annanukku Jey</title>
