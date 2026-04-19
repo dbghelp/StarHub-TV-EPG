@@ -10513,10 +10513,15 @@
 		<desc>Top flight men's soccer returns in the ISUZU UTE A-League Men. Catch every moment on SPOTV NOW as 12 teams compete in the regular season with top 4 advancing to a single-game knockout.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_a_league_men.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="210" start="20260419073000 +0000" stop="20260419100000 +0000">
+	<programme channel="210" start="20260419073000 +0000" stop="20260419090000 +0000">
 		<title>2026 Global Champions League, Mexico City</title>
 		<desc>Elite teams of top riders compete across iconic global venues, delivering tactical battles, precision jumping, and thrilling team-based equestrian action.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_global_champions_league.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="210" start="20260419090000 +0000" stop="20260419100000 +0000">
+		<title>2026 Asian Tour Highlights</title>
+		<desc>Launched in 2022, The International Series is a set of 10 elevated events that form an Asian Tour-sanctioned pathway onto the lucrative LIV Golf League.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch210_asian_tour.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="210" start="20260419100000 +0000" stop="20260419103000 +0000">
 		<title>2025/26 ALM Mini Match Rd 24 Newcastle Jets FC vs Adelaide United</title>
