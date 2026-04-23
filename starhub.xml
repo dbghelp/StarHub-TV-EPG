@@ -27578,20 +27578,35 @@
 		<desc>Laura Coates goes inside the story with a relentless pursuit of the facts.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch711_laura_coates_live.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="711" start="20260423040000 +0000" stop="20260423060000 +0000">
+	<programme channel="711" start="20260423040000 +0000" stop="20260423050000 +0000">
 		<title>The Story Is With Elex Michaelson</title>
 		<desc>Elex Michaelson tackles the breaking stories making headlines with sharp analysis, fresh perspective, and a dose of humor.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch711_the_story_is_with_elex_michaelson.jpg?w=341&amp;h=192" />
 	</programme>
+	<programme channel="711" start="20260423050000 +0000" stop="20260423054500 +0000">
+		<title>The Story Is With Elex Michaelson</title>
+		<desc>Elex Michaelson tackles the breaking stories making headlines with sharp analysis, fresh perspective, and a dose of humor.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch711_the_story_is_with_elex_michaelson.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="711" start="20260423054500 +0000" stop="20260423060000 +0000">
+		<title>World Sport</title>
+		<desc>Daily sports show features major stories and issues making news in the world of sports.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch711_world_sport.jpg?w=341&amp;h=192" />
+	</programme>
 	<programme channel="711" start="20260423060000 +0000" stop="20260423070000 +0000">
-		<title>CNN Newsroom (CNNI) (60m)</title>
+		<title>CNN Newsroom</title>
 		<desc>Live context and clarity to the day's top stories from around the world.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch711_cnn_newsroom.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="711" start="20260423070000 +0000" stop="20260423080000 +0000">
-		<title>CNN Newsroom (CNNI) (45m)</title>
+	<programme channel="711" start="20260423070000 +0000" stop="20260423074500 +0000">
+		<title>CNN Newsroom</title>
 		<desc>Live context and clarity to the day's top stories from around the world.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch711_cnn_newsroom.jpg?w=960&amp;h=540" />
+	</programme>
+	<programme channel="711" start="20260423074500 +0000" stop="20260423080000 +0000">
+		<title>World Sport</title>
+		<desc>Daily sports show features major stories and issues making news in the world of sports.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch711_world_sport.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="711" start="20260423080000 +0000" stop="20260423090000 +0000">
 		<title>Amanpour</title>
@@ -27599,47 +27614,57 @@
 		<icon src="https://poster.starhubgo.com/poster/ch711_amanpour.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="711" start="20260423090000 +0000" stop="20260423100000 +0000">
-		<title>Early Start with Rahel Solomon</title>
+		<title>Early Start</title>
 		<desc>The news you need, first thing. Rahel Solomon has you covered with the latest headlines.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch711_early_start_with_rahel_solomon.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch711_early_start.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="711" start="20260423100000 +0000" stop="20260423110000 +0000">
 		<title>CNN This Morning</title>
 		<desc>Start your day with Audie Cornish bringing you the latest headlines and analysis.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch711_cnn_this_morning.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="711" start="20260423110000 +0000" stop="20260423123000 +0000">
+	<programme channel="711" start="20260423110000 +0000" stop="20260423120000 +0000">
+		<title>CNN News Central</title>
+		<desc>Stay up to date with John Berman, Kate Bolduan and Sara Sidner from CNN's immersive news hub.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch711_cnn_news_central.jpg?w=960&amp;h=540" />
+	</programme>
+	<programme channel="711" start="20260423120000 +0000" stop="20260423123000 +0000">
 		<title>CNN News Central</title>
 		<desc>Stay up to date with John Berman, Kate Bolduan and Sara Sidner from CNN's immersive news hub.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch711_cnn_news_central.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="711" start="20260423123000 +0000" stop="20260423130000 +0000">
-		<title>World Sport (30m)</title>
+		<title>World Sport</title>
 		<desc>Daily sports show features major stories and issues making news in the world of sports.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch711_world_sport.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="711" start="20260423130000 +0000" stop="20260423134500 +0000">
-		<title>Connect the World (45m)</title>
+		<title>Connect the World</title>
 		<desc>Becky Anderson explores diverse perspectives and explains global issues of the day.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch711_connect_the_world.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="711" start="20260423134500 +0000" stop="20260423140000 +0000">
-		<title>World Sport (15m)</title>
+		<title>World Sport</title>
 		<desc>Daily sports show features major stories and issues making news in the world of sports.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch711_world_sport.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="711" start="20260423140000 +0000" stop="20260423150000 +0000">
-		<title>Connect the World (60m)</title>
+		<title>Connect the World</title>
 		<desc>Becky Anderson explores diverse perspectives and explains global issues of the day.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch711_connect_the_world.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="711" start="20260423150000 +0000" stop="20260423160000 +0000">
-		<title>One World (30m)</title>
+	<programme channel="711" start="20260423150000 +0000" stop="20260423153000 +0000">
+		<title>One World</title>
 		<desc>Zain Asher and Bianna Golodryga cover the top global and national issues of the day.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch711_one_world_with_zain_asher_and_bianna_golodryga.jpg?w=341&amp;h=192" />
 	</programme>
+	<programme channel="711" start="20260423153000 +0000" stop="20260423160000 +0000">
+		<title>CNN Creators</title>
+		<desc>Live from Doha, Qatar, CNN Creators follows a team of digital-native storytellers as they navigate the stories that matter most, with a focus on tech, art, culture, sport, and social trends.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch711_cnn_creators.jpg?w=960&amp;h=540" />
+	</programme>
 	<programme channel="711" start="20260423160000 +0000" stop="20260423170000 +0000">
-		<title>One World (60m)</title>
+		<title>One World</title>
 		<desc>Zain Asher and Bianna Golodryga cover the top global and national issues of the day.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch711_one_world_with_zain_asher_and_bianna_golodryga.jpg?w=341&amp;h=192" />
 	</programme>
@@ -27649,7 +27674,7 @@
 		<icon src="https://poster.starhubgo.com/poster/ch711_amanpour.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="711" start="20260423180000 +0000" stop="20260423190000 +0000">
-		<title>Isa Soares Tonight (60m)</title>
+		<title>Isa Soares Tonight</title>
 		<desc>Isa Soares deep dives into today's top stories with insightful conversations and reports from around the world.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch711_isa_soares_tonight.jpg?w=341&amp;h=192" />
 	</programme>
@@ -27658,13 +27683,23 @@
 		<desc>Max Foster has a definitive roundup of the day's top stories, giving you the urgent need-to-know context, plus a deeper dive into the questions sparking debate around the world.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch711_what_we_know_with_max_foster.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="711" start="20260423200000 +0000" stop="20260423213000 +0000">
-		<title>Quest Means Business (60m)</title>
+	<programme channel="711" start="20260423200000 +0000" stop="20260423204500 +0000">
+		<title>Quest Means Business</title>
 		<desc>Richard Quest speaks to the top names in global business to bring viewers the bottom line.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch711_quest_means_business.jpg?w=341&amp;h=192" />
 	</programme>
+	<programme channel="711" start="20260423204500 +0000" stop="20260423210000 +0000">
+		<title>Quest's World of Wonder</title>
+		<desc>Richard explores Sydney's most iconic locations through a mix of physical challenge, cultural discovery, food, and local character.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch711_quess_world_of_wonder.jpg?w=960&amp;h=540" />
+	</programme>
+	<programme channel="711" start="20260423210000 +0000" stop="20260423213000 +0000">
+		<title>The Lead with Jake Tapper</title>
+		<desc>Jake Tapper covers all the day's top stories around the country and the globe, from politics to money and sports to popular culture.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch711_the_lead_with_jake_tapper.jpg?w=341&amp;h=192" />
+	</programme>
 	<programme channel="711" start="20260423213000 +0000" stop="20260423220000 +0000">
-		<title>World Sport (30m)</title>
+		<title>World Sport</title>
 		<desc>Daily sports show features major stories and issues making news in the world of sports.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch711_world_sport.jpg?w=341&amp;h=192" />
 	</programme>
@@ -27697,11 +27732,6 @@
 		<title>Laura Coates Live</title>
 		<desc>Laura Coates goes inside the story with a relentless pursuit of the facts.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch711_laura_coates_live.jpg?w=960&amp;h=540" />
-	</programme>
-	<programme channel="711" start="20260424040000 +0000" stop="20260424054500 +0000">
-		<title>The Story Is With Elex Michaelson</title>
-		<desc>Elex Michaelson tackles the breaking stories making headlines with sharp analysis, fresh perspective, and a dose of humor.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch711_the_story_is_with_elex_michaelson.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="711" start="20260424054500 +0000" stop="20260424060000 +0000">
 		<title>World Sport (15m)</title>
@@ -27737,11 +27767,6 @@
 		<title>CNN This Morning</title>
 		<desc>Start your day with Audie Cornish bringing you the latest headlines and analysis.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch711_cnn_this_morning.jpg?w=341&amp;h=192" />
-	</programme>
-	<programme channel="711" start="20260424110000 +0000" stop="20260424123000 +0000">
-		<title>CNN News Central</title>
-		<desc>Stay up to date with John Berman, Kate Bolduan and Sara Sidner from CNN's immersive news hub.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch711_cnn_news_central.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="711" start="20260424123000 +0000" stop="20260424130000 +0000">
 		<title>World Sport (30m)</title>
