@@ -1193,19 +1193,9 @@
 		<desc>According to the legend, during the Period of the Warring States, there was a woman gifted with immense abilities. Her name is Zhong Wu Yan. Among the many talented individuals of that era, she stands out from the crowd, due in no small part to her knowledge of warfare, weapons and magic. Her gifts bring her to the attention of Emperor Qi, who takes her as his bride in order to help him manage the kingdom.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/103_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="103" start="20260502220000 +0000" stop="20260502225000 +0000">
+	<programme channel="103" start="20260502220000 +0000" stop="20260503160000 +0000">
 		<title>Ah Gong Can Cook - EP 11</title>
 		<desc>One Grandfather ("Ah Gong") will be featured in each episode, where he shares his life stories and showcases his culinary skills through fun and lively interactions with the hosts. Host Kym Ng will pair with different artistes to learn from each Ah Gong. This time round, she has engaged an assistant Ke Le (aka Pattern Queen) to help her with cooking.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/103_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="103" start="20260502225000 +0000" stop="20260502232000 +0000">
-		<title>News Tonight - EP 32</title>
-		<desc>Daily evening updates on top local news and world news.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/103_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="103" start="20260502232000 +0000" stop="20260503001000 +0000">
-		<title>Dark Angel - EP 1</title>
-		<desc>He Ziyuan is a famous lawyer of TYF Law Firm, known for winning every lawsuit. In actual fact, she joined TYF for another purpose. She originally had a happy family with her husband, Lin Kaisen, a lawyer in TYF, and two children. Unexpectedly, her husband and child were murdered one night. She suspects that her husband's death was related to TYF, so she joined the company in order to investigate.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/103_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="103" start="20260503001000 +0000" stop="20260503010000 +0000">
@@ -6878,7 +6868,7 @@
 		<desc>Monayi, a villager, ventures into the city to have fun with friends. However, his comical antics inadvertently lead to troubles for his friends. Release Year: 2014 Director: Santhosh Khan</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="140" start="20260502233000 +0000" stop="20260503020000 +0000">
+	<programme channel="140" start="20260502233000 +0000" stop="20260503013000 +0000">
 		<title>Beware of Dogs</title>
 		<desc>Four bachelors start a business to earn a living. They face many challenges as they try to solve all the obstacles that come their way. Release Year: 2014 Director: Vishnu Sivaprasad</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=341&amp;h=192" />
@@ -9813,20 +9803,25 @@
 		<desc>The Asian Tour is the principal men's professional golf tour in Asia except for Japan. Most of the leading players on the tour are Asian, but players from other parts of the world also participate.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch203_asian_tour.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="203" start="20260502070000 +0000" stop="20260502100000 +0000">
-		<title>LPGA Tour 2026</title>
-		<desc>The Riviera Maya Open will take place at the prestigious El Camaleón Golf Course at Mayakoba, a world class venue in Mexico after an 8 year absence distributing a purse of $2.5 million dollars in prize. A field of 144 players will compete over the 18-hole, par 72 course designed by the legendary Greg Norman.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch203_lpga_tour.jpg?w=960&amp;h=540" />
-	</programme>
-	<programme channel="203" start="20260502100000 +0000" stop="20260502103000 +0000">
-		<title>PGA Tour: The CUT 2026</title>
-		<desc>The CUT is a weekly show that highlights the PGA TOUR lifestyle inside and outside the ropes, telling the unique stories of the game's top names, as well as the up-and-coming stars on TOUR.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch203_PGA_Tour_the_cut.jpg?w=341&amp;h=192" />
-	</programme>
-	<programme channel="203" start="20260502103000 +0000" stop="20260502150000 +0000">
+	<programme channel="203" start="20260502070000 +0000" stop="20260502110000 +0000">
 		<title>DP World Tour 2026 (Live)</title>
 		<desc>The Turkish Open returns to the Regnum Carya Golf &amp; Spa Resort in Antalya after a 6 year hiatus. The first three tournaments were held at the Montgomerie Maxx Royal. Golfers will compete for the prize fund of USD$7 million.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch203_dp_world_tour.jpg?w=960&amp;h=540" />
+	</programme>
+	<programme channel="203" start="20260502110000 +0000" stop="20260502140000 +0000">
+		<title>PGA Tour 2026</title>
+		<desc>The Cadillac Championship is a PGA Tour Signature Event held at the Trump National Doral’s Blue Monster course in Miami, Florida. As a high-stakes ($20M purse) tournament, it features top players in a limited-field format, marking a return of the tournament to this iconic venue.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch203_PGA_TOUR.jpg?w=960&amp;h=540" />
+	</programme>
+	<programme channel="203" start="20260502140000 +0000" stop="20260502143000 +0000">
+		<title>DP World Tour 2026</title>
+		<desc>Join Rory McIlroy as he takes on five of Melbourne’s finest Par-3 holes across the legendary Sandbelt: The Metropolitan GC, Commonwealth GC, Kingston Heath GC, Victoria GC and Royal Melbourne GC.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch203_Rory_McIlroy_Ode_To_The_Melbourne_Sandbelt.jpg?w=960&amp;h=540" />
+	</programme>
+	<programme channel="203" start="20260502143000 +0000" stop="20260502150000 +0000">
+		<title>PGA Tour: The CUT 2026</title>
+		<desc>The CUT is a weekly show that highlights the PGA TOUR lifestyle inside and outside the ropes, telling the unique stories of the game's top names, as well as the up-and-coming stars on TOUR.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch203_PGA_Tour_the_cut.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="203" start="20260502150000 +0000" stop="20260502160000 +0000">
 		<title>PGA Tour 2026 Highlights</title>
