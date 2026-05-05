@@ -1555,7 +1555,7 @@
 	</programme>
 	<programme channel="104" start="20260506123000 +0000" stop="20260506130000 +0000">
 		<title>Detik Semasa - EP 6</title>
-		<desc>The program analyses and dissect issues of concern to the Malay/Muslim Singaporeans - be it at the community level, national, regional or global. Apart from raising awareness, each DETIK episode hopes to set viewers thinking and make informed decisions on matters that can impact their lives.</desc>
+		<desc>Many elderly in Singapore eat every day yet still lack the nutrition their bodies need. It’s been found that many seniors living alone struggle to maintain a balanced and nutritious diet as they age. Behind this growing issue are challenges such as social isolation, ageing and limited access to proper nutrition.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/104_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="104" start="20260506130000 +0000" stop="20260506133000 +0000">
@@ -10075,17 +10075,17 @@
 	</programme>
 	<programme channel="201" start="20260504160000 +0000" stop="20260504213000 +0000">
 		<title>European C'ships 2026 Semi-Finals &amp; Finals</title>
-		<desc />
+		<desc>The 2026 European Badminton Championships is the 32nd edition of the continental championship and will be held in Huelva, Spain. The tournament is used to determine the European champion in all five categories (Men’s Singles/Doubles, Women’s Singles/Doubles, Mixed Doubles).</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch201_EuropeanChampionshipsHuelva2026.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="201" start="20260504213000 +0000" stop="20260504220000 +0000">
 		<title>WTA All Access 2026</title>
-		<desc />
+		<desc>This show brings you compelling stories, player personalities, tournament colour and fan engagement as well as exclusive analysis of statistical trends and data.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch201_wta_tour.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="201" start="20260504220000 +0000" stop="20260504230000 +0000">
 		<title>ATP Tour Review Show 2026 Qatar ExxonMobil Open</title>
-		<desc />
+		<desc>A look back at the best of the action from the Khalifa International Tennis Complex in Doha.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch201_ATPTourReviewShow2025.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="201" start="20260504230000 +0000" stop="20260505010000 +0000">
@@ -10168,15 +10168,25 @@
 		<desc>The Mutua Madrid Open is a premier tournament held annually on clay courts at the Caja Mágica in Madrid, Spain. As one of three elite European clay-court Masters events, it features a 96-player singles draw and attracts top-tier talent.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch201_ATP1000MadridOpen.jpg?w=960&amp;h=540" />
 	</programme>
+	<programme channel="201" start="20260506003000 +0000" stop="20260506010000 +0000">
+		<title>Heroines 2026 Season 4</title>
+		<desc>Heroines is a timeless series, that tables important discussion that challenges the status quo and celebrates the unique values of women’s sport. Each episode features a dedicated theme such as equality, maternity, leadership, mental health, fan engagement, activism and more, supported by exclusive interviews with leaders at the forefront of women’s sport.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch201_Heroines2025.jpg?w=960&amp;h=540" />
+	</programme>
 	<programme channel="201" start="20260506010000 +0000" stop="20260506060000 +0000">
-		<title>BWF Thomas &amp; Uber Cup Finals 2026 Thomas Cup Finals</title>
-		<desc />
+		<title>BWF Thomas &amp; Uber Cup Finals 2026 Thomas Cup Finals: China vs France</title>
+		<desc>The Thomas &amp; Uber Cup are the pinnacle of international team badminton, bringing together the world's top nations to battle for the prestigious titles. The Thomas Cup was first staged in 1948-49, and the Uber Cup was added for the first time in 1956-7. The Thomas Cup is the prize awarded for the World Men's Team Championships, while the Uber Cup is the prize for the World Women's Team Championships.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch201_BWFThomasUberCupFinals2026.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="201" start="20260506060000 +0000" stop="20260506080000 +0000">
+	<programme channel="201" start="20260506060000 +0000" stop="20260506073000 +0000">
 		<title>WTA Tour 2026 Mutua Madrid Open (1000) Final</title>
 		<desc>The Mutua Madrid Open is a premier professional tennis tournament held annually in Madrid, Spain. It is played on outdoor clay courts at the Caja Mágica and is a key tournament in the European clay-court swing, often considered a crucial precursor to Roland-Garros.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch201_WTA_Tour_1000_Generic.jpg?w=960&amp;h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch201_wta_tour.jpg?w=960&amp;h=540" />
+	</programme>
+	<programme channel="201" start="20260506073000 +0000" stop="20260506080000 +0000">
+		<title>Billie Jean King Cup by Gainbridge Qualifiers 2026 H/Ls Show</title>
+		<desc>Relive all the tension and drama from seven victorious nations as they booked their spot in the finals in China, Shenzhen.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch201_billie_jean_king_cup_GENERIC.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="201" start="20260506080000 +0000" stop="20260506090000 +0000">
 		<title>ATP Tour Review Show 2026 Mutua Madrid Open</title>
@@ -10184,18 +10194,18 @@
 		<icon src="https://poster.starhubgo.com/poster/ch201_ATPTourReviewShow2025.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="201" start="20260506090000 +0000" stop="20260506110000 +0000">
-		<title>ATP Tour 2026 Internazionali BNL d’Italia (1000) Day 1 R1 Session 1</title>
-		<desc />
+		<title>ATP Tour 2026 Internazionali BNL d’Italia (1000) Day 1 R1 Session 1 (Live)</title>
+		<desc>The Italian Open is a premier professional tennis tournament held annually in Rome, Italy, at the historic Foro Italico. The tournament was first held in 1930 and moved to its current home in Rome in 1935.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch201_ATP1000InternazionaliBNLDItalia.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="201" start="20260506110000 +0000" stop="20260506150000 +0000">
-		<title>ATP Tour 2026 Internazionali BNL d’Italia (1000) Day 1 R1 Session 2</title>
-		<desc />
+		<title>ATP Tour 2026 Internazionali BNL d’Italia (1000) Day 1 R1 Session 2 (Live)</title>
+		<desc>The Italian Open is a premier professional tennis tournament held annually in Rome, Italy, at the historic Foro Italico. The tournament was first held in 1930 and moved to its current home in Rome in 1935.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch201_ATP1000InternazionaliBNLDItalia.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="201" start="20260506150000 +0000" stop="20260506170000 +0000">
-		<title>ATP Tour 2026 Internazionali BNL d’Italia (1000) Day 1 R1 Session 3</title>
-		<desc />
+		<title>ATP Tour 2026 Internazionali BNL d’Italia (1000) Day 1 R1 Session 3 (Live)</title>
+		<desc>The Italian Open is a premier professional tennis tournament held annually in Rome, Italy, at the historic Foro Italico. The tournament was first held in 1930 and moved to its current home in Rome in 1935.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch201_ATP1000InternazionaliBNLDItalia.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="202" start="20260504160000 +0000" stop="20260504190000 +0000">
@@ -10264,7 +10274,7 @@
 		<icon src="https://poster.starhubgo.com/poster/ch202_the_emirates_fa_cup_2425.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="202" start="20260505112000 +0000" stop="20260505133000 +0000">
-		<title>Singapore Premier League 2025/26 Tanjong Pagar United FC vs Hougang United FC (Live)</title>
+		<title>Singapore Premier League 2025/26 Tanjong Pagar United FC vs Hougang United FC (L</title>
 		<desc>Catch the 2025/26 Singapore Premier League as top football clubs battle for glory in Singapore's premier competition. Defending champions Lion City Sailors return to defend their title in the league's 8th season since its 2018 rebranding.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch202_singapore_premier_league.jpg?w=960&amp;h=540" />
 	</programme>
@@ -10279,7 +10289,7 @@
 		<icon src="https://poster.starhubgo.com/poster/ch202_WTA_ATP_Tour_500_Generic.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="202" start="20260505210000 +0000" stop="20260505230000 +0000">
-		<title>Singapore Premier League 2025/26 Albirex Niigata FC (S) vs Tanjong Pagar United FC</title>
+		<title>Singapore Premier League 2025/26 Albirex Niigata FC (S) vs Tanjong Pagar United</title>
 		<desc>Catch the 2025/26 Singapore Premier League as top football clubs battle for glory in Singapore's premier competition. Defending champions Lion City Sailors return to defend their title in the league's 8th season since its 2018 rebranding.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch202_singapore_premier_league.jpg?w=960&amp;h=540" />
 	</programme>
@@ -10315,7 +10325,7 @@
 	</programme>
 	<programme channel="202" start="20260506080000 +0000" stop="20260506083000 +0000">
 		<title>Racing on the Edge 2026</title>
-		<desc>Racing on the Edge sets the stage to showcase the greatest racing spectacle on the water. This series provides an all-access look into sailing's greatest personalities, their stories, inner-battles and all the drama that converges at the Sail Grand Prix start line.</desc>
+		<desc>Racing on the Edge sets the stage to showcase the greatest racing spectacle on the water. This series provides an all-access look into sailing's greatest personalities, their stories, inner-battles and all the drama that converges at the Sail Grand Prix s</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch202_racing_on_the_edge_2026.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="202" start="20260506083000 +0000" stop="20260506090000 +0000">
@@ -10328,10 +10338,15 @@
 		<desc>The Italian Open is a premier professional tennis tournament held annually at the Foro Italico in Rome, Italy. Since its inception in 1930, the Italian Open has become one of the most prestigious clay-court tournaments in the world.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch202_WTA_ATP_Tour_1000_Generic.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="202" start="20260506110000 +0000" stop="20260506120000 +0000">
-		<title>World's Strongest Man 2025</title>
-		<desc>The World's Strongest Man is the premier annual international strongman competition, established in 1977, that tests athletes' pure physical strength, power, and endurance through a series of brutal events like lifting immense weights.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch202_world_strongest_man_2025.jpg?w=341&amp;h=192" />
+	<programme channel="202" start="20260506110000 +0000" stop="20260506113000 +0000">
+		<title>The Road To The FA Cup Final 2025/26</title>
+		<desc>Looking back at their path to the final, the shows feature interviews and contributions from players, managers and fans - reflecting on the moments that mattered as well as looking forward to the Wembley showpiece.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch202_the_emirates_fa_cup_2425.jpg?w=960&amp;h=540" />
+	</programme>
+	<programme channel="202" start="20260506113000 +0000" stop="20260506120000 +0000">
+		<title>The Road To The FA Cup Final 2025/26</title>
+		<desc>Looking back at their path to the final, the shows feature interviews and contributions from players, managers and fans - reflecting on the moments that mattered as well as looking forward to the Wembley showpiece.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch202_the_emirates_fa_cup_2425.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="202" start="20260506120000 +0000" stop="20260506140000 +0000">
 		<title>WTA Tour 2026 Internazionali BNL d'Italia (1000) Day 1 Session 2 (Live)</title>
@@ -10754,7 +10769,7 @@
 		<icon src="https://poster.starhubgo.com/poster/ch209_SaudiLeague.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="209" start="20260506040000 +0000" stop="20260506060000 +0000">
-		<title>25/26 Scottish Premiership Round 35 Hibernian vs Celtic</title>
+		<title>25/26 Scottish Premiership Round 35 Heart of Midlothian vs Rangers</title>
 		<desc>Scotland's elite clubs return for the 2025/26 Premiership campaign, battling for European spots, survival, and the league championship.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch209_ScottishPremiership.jpg?w=960&amp;h=540" />
 	</programme>
@@ -10764,7 +10779,7 @@
 		<icon src="https://poster.starhubgo.com/poster/ch209_SaudiLeague.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="209" start="20260506080000 +0000" stop="20260506100000 +0000">
-		<title>25/26 Scottish Premiership Round 35 Livingston vs Aberdeen</title>
+		<title>25/26 Scottish Premiership Round 35 QF 1st Leg: Dunfermline Athletic vs Arbroath</title>
 		<desc>Scotland's elite clubs return for the 2025/26 Premiership campaign, battling for European spots, survival, and the league championship.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch209_ScottishPremiership.jpg?w=960&amp;h=540" />
 	</programme>
@@ -10959,7 +10974,7 @@
 		<icon src="https://poster.starhubgo.com/poster/ch211_laliga_2.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="211" start="20260504203000 +0000" stop="20260504213000 +0000">
-		<title>HSBC SVNS World C'ships H/Ls 2026</title>
+		<title>HSBC SVNS World C'shipss H/Ls 2026</title>
 		<desc />
 		<icon src="https://poster.starhubgo.com/poster/ch211_HSBCSVNSSeries2026.jpg?w=341&amp;h=192" />
 	</programme>
@@ -11079,7 +11094,7 @@
 		<icon src="https://poster.starhubgo.com/poster/ch211_premier_padel.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="211" start="20260505233000 +0000" stop="20260506010000 +0000">
-		<title>Premier Padel 2026: Miami P1 Day 1 Match 2</title>
+		<title>Premier Padel 2026: Asuncion P2 Day 1 Match 4 (Live)</title>
 		<desc>The official global Padel tour. Catch worldâ€™s top players battle it out across the globe.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_premier_padel.jpg?w=341&amp;h=192" />
 	</programme>
@@ -11166,7 +11181,7 @@
 	<programme channel="213" start="20260504162000 +0000" stop="20260504165500 +0000">
 		<title>Formula 1 Highlights 2026</title>
 		<desc>Catch up with all the best bits from the weekend's race.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch213_formula1_highlights.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch213_formula1_generic.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="213" start="20260504165500 +0000" stop="20260504175500 +0000">
 		<title>Ferrari Challenge Europe Highlights 2026</title>
@@ -11176,7 +11191,7 @@
 	<programme channel="213" start="20260504175500 +0000" stop="20260504185500 +0000">
 		<title>DTM Highlights 2026</title>
 		<desc>Catch the highlights from every round of the 2026 DTM.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch213_dtm_highlights.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch213_dtm_race.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="213" start="20260504185500 +0000" stop="20260504210000 +0000">
 		<title>LaLiga 2025/26: Sevilla vs Real Sociedad (Live)</title>
@@ -11186,12 +11201,12 @@
 	<programme channel="213" start="20260504210000 +0000" stop="20260504230000 +0000">
 		<title>Formula 1 Main Race 2026: FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2026</title>
 		<desc>beIN Sports brings you live and exclusive coverage of the 2026 Formula 1 World Championship.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch213_formula1_main_race.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch213_formula1_generic.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="213" start="20260504230000 +0000" stop="20260505000000 +0000">
 		<title>Ferrari Challenge UK 2026: Race 1, Snetterton</title>
-		<desc>The UK Championship of the Ferrari Challenge Series enters its eighth season on a high, starting the calendar abroad for the second year running, and with the most extensive calendar ever taking the top of British talent to all premiere circuits in Great Britain and beyond!</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch213_ferrari_challenge_uk_2026.jpg?w=960&amp;h=540" />
+		<desc>The UK Championship of the Ferrari Challenge Series enters its eighth season on a high, starting the calendar abroad for the second year running, and with the most extensive calendar ever a€" taking the top of British talent to all premiere circuits in Great Britain a€" and beyond!</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch213_ferrari_challenge_europe_race.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="213" start="20260505000000 +0000" stop="20260505020000 +0000">
 		<title>LFCTV 2025/26: Man United vs Liverpool</title>
@@ -11216,7 +11231,7 @@
 	<programme channel="213" start="20260505040000 +0000" stop="20260505043500 +0000">
 		<title>Formula 1 Highlights 2026</title>
 		<desc>Catch up with all the best bits from the weekend's race.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch213_formula1_highlights.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch213_formula1_generic.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="213" start="20260505043500 +0000" stop="20260505063000 +0000">
 		<title>LaLiga 2025/26: Alaves vs Athletic Bilbao</title>
@@ -11251,7 +11266,7 @@
 	<programme channel="213" start="20260505114000 +0000" stop="20260505121500 +0000">
 		<title>Formula 1 Highlights 2026</title>
 		<desc>Catch up with all the best bits from the weekend's race.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch213_formula1_highlights.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch213_formula1_generic.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="213" start="20260505121500 +0000" stop="20260505140500 +0000">
 		<title>LaLiga 2025/26: Valencia vs Atletico Madrid</title>
@@ -11296,7 +11311,7 @@
 	<programme channel="213" start="20260505214500 +0000" stop="20260505222000 +0000">
 		<title>Formula 1 Highlights 2026</title>
 		<desc>Catch up with all the best bits from the weekend's race.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch213_formula1_highlights.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch213_formula1_generic.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="213" start="20260505222000 +0000" stop="20260505225000 +0000">
 		<title>FIA European Rally Championship Highlights 2026</title>
@@ -11305,8 +11320,8 @@
 	</programme>
 	<programme channel="213" start="20260505225000 +0000" stop="20260505235000 +0000">
 		<title>Ferrari Challenge UK 2026: Race 2, Snetterton</title>
-		<desc>The UK Championship of the Ferrari Challenge Series enters its eighth season on a high, starting the calendar abroad for the second year running, and with the most extensive calendar ever taking the top of British talent to all premiere circuits in Great Britain and beyond!</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch213_ferrari_challenge_uk_2026.jpg?w=960&amp;h=540" />
+		<desc>The UK Championship of the Ferrari Challenge Series enters its eighth season on a high, starting the calendar abroad for the second year running, and with the most extensive calendar ever a€" taking the top of British talent to all premiere circuits in Great Britain a€" and beyond!</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch213_ferrari_challenge_europe_race.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="213" start="20260505235000 +0000" stop="20260506014000 +0000">
 		<title>LaLiga 2025/26: Osasuna vs Barcelona</title>
@@ -11336,7 +11351,7 @@
 	<programme channel="213" start="20260506053000 +0000" stop="20260506073000 +0000">
 		<title>Formula 1 Main Race 2026: FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2026</title>
 		<desc>beIN Sports brings you live and exclusive coverage of the 2026 Formula 1 World Championship.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch213_formula1_main_race.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch213_formula1_generic.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="213" start="20260506073000 +0000" stop="20260506080000 +0000">
 		<title>Porsche Carrera Cup Germany Highlights 2026</title>
@@ -11453,10 +11468,15 @@
 		<desc>Catch all the highlights from the BWSL, the pinnacle of women's professional football in England.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch214_WSL.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="214" start="20260505090000 +0000" stop="20260505121500 +0000">
+	<programme channel="214" start="20260505090000 +0000" stop="20260505120000 +0000">
 		<title>ONE Friday Fights 2026: OFF 152</title>
 		<desc>A weekly event series by ONE Championship held in Bangkok, Thailand featuring exciting Muay Thai, kickboxing and MMA fights.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch214_ONE_Friday_Fights.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="214" start="20260505120000 +0000" stop="20260505121500 +0000">
+		<title>MUTV All The Goals</title>
+		<desc>In this MUTV special, enjoy every goal from this United legend, from 1 yard tap-ins to 30 yard screamers and everything in between.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch214_mutv.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="214" start="20260505121500 +0000" stop="20260505131500 +0000">
 		<title>Bundesliga Highlights 2025/26</title>
@@ -11479,7 +11499,7 @@
 		<icon src="https://poster.starhubgo.com/poster/ch214_mutv.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="214" start="20260505160500 +0000" stop="20260505180000 +0000">
-		<title>TotalEnergies Africa Cup of Nations, Morocco 2025: Gabon vs Ivory Coast - Group Stage</title>
+		<title>TotalEnergies Africa Cup of Nations, Morocco 2025: Gabon vs Ivory Coast - Group</title>
 		<desc>beIN SPORTS brings you coverage from the 35th edition of the Africa Cup of Nations hosted by Morocco.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch214_Total_Energies_Africa_Cup_of_Nations_Morocco_2025.jpg?w=341&amp;h=192" />
 	</programme>
@@ -11494,19 +11514,19 @@
 		<icon src="https://poster.starhubgo.com/poster/ch214_sail_gp.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="214" start="20260505210000 +0000" stop="20260505213000 +0000">
-		<title>Mini Match - TotalEnergies Africa Cup of Nations, Morocco 2025: South Africa vs Angola</title>
+		<title>Mini Match - TotalEnergies Africa Cup of Nations, Morocco 2025: South Africa vs</title>
 		<desc>Catch the 35th edition of the Africa Cup of Nations, hosted in Morocco. Can defending champions Ivory Coast hold on to their crown?</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch214_Mini_Match_TotalEnergies_Africa_Cup_of_Nations_Morocco_2025.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="214" start="20260505213000 +0000" stop="20260505220000 +0000">
-		<title>Mini Match - TotalEnergies Africa Cup of Nations, Morocco 2025: Egypt vs Zimbabwe</title>
+		<title>Mini Match - TotalEnergies Africa Cup of Nations, Morocco 2025: Egypt vs Zimbabw</title>
 		<desc>Catch the 35th edition of the Africa Cup of Nations, hosted in Morocco. Can defending champions Ivory Coast hold on to their crown?</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch214_Mini_Match_TotalEnergies_Africa_Cup_of_Nations_Morocco_2025.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="214" start="20260505220000 +0000" stop="20260505223000 +0000">
-		<title>UCI World Tour Highlights 2026</title>
-		<desc>Highlights of the premier men's elite road cycling tour.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch214_uci_world_tour_2026.jpg?w=341&amp;h=192" />
+		<title>Epic Series - Race The World 2026</title>
+		<desc>The Epic Series is more than just racing - itâ€™s a battle against the elements, the competition, and more so - yourself. A global test of endurance, skill, and sheer willpower. Now, for the first time ever, Race the World takes you behind the scenes of the worldâ€™s most iconic mountain bike stage races.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch214_epic_series_global_mtb.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="214" start="20260505223000 +0000" stop="20260505230000 +0000">
 		<title>UEFA Europa/Conference League Highlights 2025/26</title>
@@ -26889,7 +26909,7 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/709_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="709" start="20260505070000 +0000" stop="20260505073000 +0000">
-		<title>Bloomberg Primer</title>
+		<title>Bloomberg Primer S2 - EP 2</title>
 		<desc>Humanoid robots that use AI are going mainstream, but they’re far from proven. With billions of dollars invested, can they deliver real-world value or will they fall short of the hype?</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/709_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
@@ -26949,7 +26969,7 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/709_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="709" start="20260505210000 +0000" stop="20260505213000 +0000">
-		<title>The Deal with Alex Rodriguez and Jason Kelly</title>
+		<title>The Deal with Alex Rodriguez and Jason Kelly S4 - EP 1</title>
 		<desc>Alex Rodriguez and Jason Kelly sit down with three-time Super Bowl champion Steve Young to discuss the challenges faced and lessons learned on his journey from the NFL to managing a $10 billion fund.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/709_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
