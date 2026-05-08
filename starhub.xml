@@ -1265,7 +1265,7 @@
 	</programme>
 	<programme channel="103" start="20260509033000 +0000" stop="20260509040000 +0000">
 		<title>Focus - EP 6</title>
-		<desc>Focus provides timely reports and analyses on international news and current affairs from Singapore's perspective.</desc>
+		<desc>Amid Middle East tensions, the Xi-Trump meeting may turn to Iran. Will the U.S. push China to act-and will Beijing step in? As rivalry deepens, can they still cooperate, or just manage risks? UAE’s exit raises fresh doubts over OPEC’s grip. With quota rifts and energy transition, is tougher competition ahead?</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/103_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="103" start="20260509040000 +0000" stop="20260509050000 +0000">
@@ -5918,9 +5918,9 @@
 		<desc>Soup Songs is a flavourful musical treat designed to warm the soul. Whether you're feeling nostalgic or just need a cozy musical backdrop for your night, Soup Songs is your go-to destination for tracks that feel like a hug for your ears!</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch134_soup_song.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="135" start="20260507153000 +0000" stop="20260507163000 +0000">
+	<programme channel="135" start="20260507160000 +0000" stop="20260507163000 +0000">
 		<title>Mahasangamam-Azhagae Azhagu&amp;Pandianstores Tsmmi - EP 74</title>
-		<desc>Mahasangamam-Azhagae AzhaguandPandianstores Tsmmi</desc>
+		<desc>Anjali and Kathir's families unite in a dramatic crossover, where love, misunderstandings and emotional bonds intertwine, creating powerful moments of togetherness.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch135_vijaylogo.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="135" start="20260507163000 +0000" stop="20260507170000 +0000">
@@ -5970,7 +5970,7 @@
 	</programme>
 	<programme channel="135" start="20260507210000 +0000" stop="20260507220000 +0000">
 		<title>Mahasangamam-Azhagae Azhagu&amp;Pandianstores Tsmmi - EP 74</title>
-		<desc>Mahasangamam-Azhagae AzhaguandPandianstores Tsmmi</desc>
+		<desc>Anjali and Kathir's families unite in a dramatic crossover, where love, misunderstandings and emotional bonds intertwine, creating powerful moments of togetherness.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch135_vijaylogo.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="135" start="20260507220000 +0000" stop="20260507223000 +0000">
@@ -6229,19 +6229,19 @@
 		<icon src="https://poster.starhubgo.com/poster/ch135_cooku_with_comali_s07_double_trouble.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="135" start="20260509053000 +0000" stop="20260509060000 +0000">
-		<title>TBA</title>
-		<desc>The name of the program is yet to be announced by the channel.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch135_tba.jpg?w=960&amp;h=540" />
-	</programme>
-	<programme channel="135" start="20260509060000 +0000" stop="20260509063000 +0000">
 		<title>Ayyanar Thunai - EP 394</title>
 		<desc>In a bid to escape her ill-fate, Nila becomes the daughter-in-law of a family with a tainted past. Can she restore their lost hope, or will it shatter hers?</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch135_ayyanar_thunai.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="135" start="20260509063000 +0000" stop="20260509070000 +0000">
+	<programme channel="135" start="20260509060000 +0000" stop="20260509063000 +0000">
 		<title>Siragadikka Aasai - EP 999</title>
 		<desc>Meena and Muthukumar, both carrying emotional baggage, struggle through challenges in their marriage due to their troubled backgrounds.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch135_siragadikka_aasai.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="135" start="20260509063000 +0000" stop="20260509070000 +0000">
+		<title>Cooku With Comali S7 - Special Roast - EP 8</title>
+		<desc>Cooku With Comali S7 - Special Roast</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch135_vijaylogo.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="135" start="20260509070000 +0000" stop="20260509073000 +0000">
 		<title>Dhanam - Ungalil Oruthi - EP 374</title>
@@ -6269,9 +6269,14 @@
 		<icon src="https://poster.starhubgo.com/poster/ch135_happy_wife_happy_life.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="135" start="20260509103000 +0000" stop="20260509120000 +0000">
-		<title>TBA</title>
-		<desc>The name of the program is yet to be announced by the channel.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch135_tba.jpg?w=960&amp;h=540" />
+		<title>Super Singer Junior S11 - EP 1</title>
+		<desc>Super Singer Junior S11</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch135_vijaylogo.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="135" start="20260509120000 +0000" stop="20260509123000 +0000">
+		<title>Mahasangamam-Azhagae Azhagu&amp;Pandianstores Tsmmi - EP 76</title>
+		<desc>Anjali and Kathir's families unite in a dramatic crossover, where love, misunderstandings and emotional bonds intertwine, creating powerful moments of togetherness.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch135_vijaylogo.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="135" start="20260509123000 +0000" stop="20260509130000 +0000">
 		<title>Ayyanar Thunai - EP 395</title>
@@ -6289,9 +6294,9 @@
 		<icon src="https://poster.starhubgo.com/poster/ch135_cooku_with_comali_s07_double_trouble.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="135" start="20260509150000 +0000" stop="20260509160000 +0000">
-		<title>TBA</title>
-		<desc>The name of the program is yet to be announced by the channel.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch135_tba.jpg?w=960&amp;h=540" />
+		<title>Super Singer Junior S11 - EP 1</title>
+		<desc>Super Singer Junior S11</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch135_vijaylogo.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="136" start="20260507160000 +0000" stop="20260507190000 +0000">
 		<title>Anna Nagar Muthal Theru</title>
@@ -7183,12 +7188,12 @@
 		<desc>Musical Reality show</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/139_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="140" start="20260507160000 +0000" stop="20260507193000 +0000">
+	<programme channel="140" start="20260507160000 +0000" stop="20260507190500 +0000">
 		<title>Evidam Swargamanu</title>
 		<desc>A land dealer targets Mathews and tries to take his farm using bureaucracy. Release Year: 2009 Director: RoSShan Andrrews Awards: Kerala State Film Award for Best Film with Popular Appeal and Aesthetic Value, Asianet Film Award for Most Popular ActreSS, Asianet Film Award for Best Actor, Asianet Film Award for Best Villain Role</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="140" start="20260507193000 +0000" stop="20260507213000 +0000">
+	<programme channel="140" start="20260507190500 +0000" stop="20260507213000 +0000">
 		<title>Aadu Oru Bheekara Jeevi Aanu</title>
 		<desc>Shaji Pappan's team emerges victorious in a tug of war competition, earning a cash prize, a trophy, and a female goat. However, the situation takes a turn when the team decides to slaughter the goat. Release Year: 2015 Director: Midhun Manuel Thomas Awards: Asianet Film Award for Most Popular Movie, Asianet Film Award for Most Popular Actor</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=341&amp;h=192" />
@@ -7249,28 +7254,28 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="140" start="20260509013000 +0000" stop="20260509043000 +0000">
-		<title>Movie</title>
-		<desc>The movie name is yet to be announced by the channel.</desc>
+		<title>Swapnakkoodu</title>
+		<desc>A love triangle turns tragic when Kamala's family dies, leaving her alone and deserted amid the rivalries of three men. Release Year: 2003</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="140" start="20260509043000 +0000" stop="20260509073000 +0000">
-		<title>Movie</title>
-		<desc>The movie name is yet to be announced by the channel.</desc>
+		<title>Karyasthan</title>
+		<desc>Krishnanunni mediates family dispute and falls in love with Sreebala. Release Year: 2010 Director: Thomson K. Thomas</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="140" start="20260509073000 +0000" stop="20260509103000 +0000">
-		<title>Movie</title>
-		<desc>The movie name is yet to be announced by the channel.</desc>
+		<title>Thanneer Mathan dinangal</title>
+		<desc>Jaison's crush on Keerthy entangles with teacher Ravi, sparking turmoil. Release Year: 2019 Director: Girish A.D.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="140" start="20260509103000 +0000" stop="20260509133000 +0000">
-		<title>Movie</title>
-		<desc>The movie name is yet to be announced by the channel.</desc>
+		<title>C/o. Saira &amp; Banu</title>
+		<desc>C/o. Saira and Banu</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="140" start="20260509133000 +0000" stop="20260509163000 +0000">
-		<title>Movie</title>
-		<desc>The movie name is yet to be announced by the channel.</desc>
+		<title>Guruvayur Ambalanadayil</title>
+		<desc>A young man, ready for marriage, finds fate playing tricks on him. A twist of events leads him to wed a woman who loathes him. Can they overcome their differences, or will resentment rule their lives? Release Year: 2024 Director: Vipin Das</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="141" start="20260507153000 +0000" stop="20260507190000 +0000">
@@ -9868,14 +9873,14 @@
 		<desc>Bhanu tries to save her marriage although her husband Ratnavel is impotent. Their marriage ends anyway and Bhanu marries again. But a vengeful Ratnavel kidnaps her and holds her hostage in his house.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/159_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="159" start="20260508200000 +0000" stop="20260508220000 +0000">
-		<title>Information Not Available</title>
-		<desc />
+	<programme channel="159" start="20260508200000 +0000" stop="20260508223000 +0000">
+		<title>Movie - Azhagiya Asura</title>
+		<desc>Guna unites his brother and his lover after overcoming a number of problems. But when he falls in love with a girl who does not reciprocate his feelings, his brother's wife comes to his aid.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/159_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="159" start="20260508220000 +0000" stop="20260509040000 +0000">
-		<title>Information Not Available</title>
-		<desc />
+	<programme channel="159" start="20260508223000 +0000" stop="20260509010000 +0000">
+		<title>Movie - By 2 Alias Iruvar Mattum</title>
+		<desc>Selvi, a young girl runs away from home to avoid getting married to a man of her parent's choice. She meets Azhagu, a boy surviving by himself in the wild. Will Selvi be able to transform his life?</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/159_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="159" start="20260509040000 +0000" stop="20260509100000 +0000">
@@ -9888,7 +9893,12 @@
 		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_channels2/159_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="201" start="20260507150000 +0000" stop="20260507170000 +0000">
+	<programme channel="201" start="20260507110000 +0000" stop="20260507163000 +0000">
+		<title>ATP Tour 2026 Internazionali BNL d’Italia (1000) Day 2 R1 Session 2 (Live)</title>
+		<desc>The Italian Open is a premier professional tennis tournament held annually in Rome, Italy, at the historic Foro Italico. The tournament was first held in 1930 and moved to its current home in Rome in 1935.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch201_ATP1000InternazionaliBNLDItalia.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="201" start="20260507163000 +0000" stop="20260507170000 +0000">
 		<title>ATP Tour 2026 Internazionali BNL d’Italia (1000) Day 2 R1 Session 3 (Live)</title>
 		<desc>The Italian Open is a premier professional tennis tournament held annually in Rome, Italy, at the historic Foro Italico. The tournament was first held in 1930 and moved to its current home in Rome in 1935.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch201_ATP1000InternazionaliBNLDItalia.jpg?w=341&amp;h=192" />
@@ -10668,12 +10678,7 @@
 		<desc>Top flight men's soccer returns in the ISUZU UTE A-League Men. Catch every moment on SPOTV NOW as 12 teams compete in the regular season with top 4 advancing to a single-game knockout.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_a_league_men.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="210" start="20260508040000 +0000" stop="20260508043000 +0000">
-		<title>Formula E S12: Rd 8 Berlin E-Prix</title>
-		<desc>The electric racing revolution continues in Formula E Season 12, as top drivers battle across iconic cities for the world championship crown.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch210_formula_e.jpg?w=960&amp;h=540" />
-	</programme>
-	<programme channel="210" start="20260508043000 +0000" stop="20260508065500 +0000">
+	<programme channel="210" start="20260508040000 +0000" stop="20260508065500 +0000">
 		<title>ITTF WTTTC Finals London 2026 Day 6 Men's Team: Quarterfinal S2</title>
 		<desc>The world's top national table tennis teams compete for glory in London, delivering lightning-fast rallies, elite skill, and intense battles on the sport's biggest stage.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_ittf_wtttc_finals_london_2026.jpg?w=960&amp;h=540" />
@@ -10799,7 +10804,7 @@
 		<icon src="https://poster.starhubgo.com/poster/ch211_premier_padel.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="211" start="20260507185500 +0000" stop="20260507210000 +0000">
-		<title>UEFA Europa League 2025/26: Freiburg vs Braga - SF, 2nd Leg (Live)</title>
+		<title>Freiburg vs Braga - SF, 2nd Leg (Live)</title>
 		<desc>The 55th season of the UEL as Europe's elite clubs compete in this premier football tournament</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_UefaEuropaLeagueLiveMatch.jpg?w=960&amp;h=540" />
 	</programme>
@@ -11029,7 +11034,7 @@
 		<icon src="https://poster.starhubgo.com/poster/ch213_laliga_generic.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="213" start="20260507185500 +0000" stop="20260507210000 +0000">
-		<title>UEFA Europa League 2025/26: Aston Villa vs Nottingham Forest - SF, 2nd Leg (Live)</title>
+		<title>Aston Villa vs Nottingham Forest - SF, 2nd Leg (Live)</title>
 		<desc>The 55th season of the UEL as Europe's elite clubs compete in this premier football tournament</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch213_uefa_europa_league_live_match.jpg?w=341&amp;h=192" />
 	</programme>
@@ -11234,7 +11239,7 @@
 		<icon src="https://poster.starhubgo.com/poster/ch214_mutv.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="214" start="20260507185500 +0000" stop="20260507210000 +0000">
-		<title>UEFA Conference League 2025/26: Crystal Palace vs Shakhtar - SF, 2nd Leg (Live)</title>
+		<title>Crystal Palace vs Shakhtar - SF, 2nd Leg (Live)</title>
 		<desc>Watch every round of the UEFA Conference League action, Europe's tertiary club football tournament where teams battle it out for the Finals at RB Arena,Leipzig</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch214_UECL_live_match.jpg?w=341&amp;h=192" />
 	</programme>
@@ -22954,13 +22959,13 @@
 		<icon src="https://poster.starhubgo.com/poster/ch633_paterno.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="603" start="20260508140000 +0000" stop="20260508163000 +0000">
-		<title>Gladiator Ii</title>
+		<title>Gladiator II</title>
 		<desc>Years after the death of Maximus, Lucius is forced into the Colosseum after his home is conquered by tyrannical twin Roman Emperors.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch633_gladiator2.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="603" start="20260508163000 +0000" stop="20260508170000 +0000">
 		<title>Rooster S1 - EP 9</title>
-		<desc>A comedy set on a college campus centering on an author's (Steve Carell) complicated relationship with his daughter (Charly Clive).</desc>
+		<desc>While Greg empowers the hockey team before a key game, Katie focuses on getting tenure and Archie receives feedback on his book.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch633_RoosterS1.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="603" start="20260508170000 +0000" stop="20260508173000 +0000">
@@ -22970,7 +22975,7 @@
 	</programme>
 	<programme channel="603" start="20260508173000 +0000" stop="20260508183000 +0000">
 		<title>Euphoria S3 - EP 4</title>
-		<desc>Euphoria follows a group of high school students as they navigate love and friendships in a world of drugs, sex, trauma, and social media.</desc>
+		<desc>While we may disagree about what the truth is, we all know when we’re telling a lie.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch633_EuphoriaS3.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="603" start="20260508183000 +0000" stop="20260508194500 +0000">
