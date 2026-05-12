@@ -164,14 +164,6 @@
 		<display-name>Hub Sports 6 HD</display-name>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/206_1920x1080_HTV.png?w=272" />
 	</channel>
-	<channel id="207">
-		<display-name>Hub Sports 7 HD</display-name>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/207_1920x1080_HTV.png?w=272" />
-	</channel>
-	<channel id="208">
-		<display-name>Hub Sports 8 HD</display-name>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/208_1920x1080_HTV.png?w=272" />
-	</channel>
 	<channel id="209">
 		<display-name>SPOTV</display-name>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/209_1920x1080_HTV.png?w=272" />
@@ -191,14 +183,6 @@
 	<channel id="214">
 		<display-name>beIN SPORTS 3 HD</display-name>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/214_1920x1080_HTV.png?w=272" />
-	</channel>
-	<channel id="215">
-		<display-name>beIN SPORTS 4 HD</display-name>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/215_1920x1080_HTV.png?w=272" />
-	</channel>
-	<channel id="216">
-		<display-name>beIN SPORTS 5 HD</display-name>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/216_1920x1080_HTV.png?w=272" />
 	</channel>
 	<channel id="217">
 		<display-name>Cricbuzz</display-name>
@@ -720,7 +704,7 @@
 	</programme>
 	<programme channel="102" start="20260512073000 +0000" stop="20260512080000 +0000">
 		<title>Aunty Lee's Deadly Delights - EP 61</title>
-		<desc />
+		<desc>When Aunty Lee’s longtime fruit vendor is killed in a hit-and-run, his son insists it was no accident and persuades Aunty Lee and gang to dig deeper, uncovering a shadowy conspiracy lurking in Singapore’s durian trade.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="102" start="20260512080000 +0000" stop="20260512083000 +0000">
@@ -755,7 +739,7 @@
 	</programme>
 	<programme channel="102" start="20260512123000 +0000" stop="20260512130000 +0000">
 		<title>Aunty Lee's Deadly Delights - EP 62</title>
-		<desc />
+		<desc>As Aunty Lee ropes in Salim and Naren to crack the durian conspiracy, Nina stumbles upon a long-buried secret from Rohaya’s past - one that could change the course of Salim’s future.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="102" start="20260512130000 +0000" stop="20260512133000 +0000">
@@ -785,7 +769,7 @@
 	</programme>
 	<programme channel="102" start="20260512160000 +0000" stop="20260512163000 +0000">
 		<title>Aunty Lee's Deadly Delights - EP 62</title>
-		<desc />
+		<desc>As Aunty Lee ropes in Salim and Naren to crack the durian conspiracy, Nina stumbles upon a long-buried secret from Rohaya’s past - one that could change the course of Salim’s future.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="102" start="20260512163000 +0000" stop="20260512173000 +0000">
@@ -7468,22 +7452,22 @@
 		<desc>Since his father was killed by Bhallaladeva, Baahubali plans to defeat him.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="140" start="20260512170000 +0000" stop="20260512193000 +0000">
+	<programme channel="140" start="20260512170000 +0000" stop="20260512195000 +0000">
 		<title>Nadodi Mannan</title>
 		<desc>Mayor Padmanabhan gets in trouble when he is forced to fight corruption. Release Year: 2013 Director: Viji Thampi</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="140" start="20260512193000 +0000" stop="20260512213000 +0000">
+	<programme channel="140" start="20260512195000 +0000" stop="20260512221000 +0000">
 		<title>Bhramam</title>
 		<desc>A piano player pretending to be blind gets caught up in trouble after witnessing a murder committed by a former film actor. Release Year: 2021 Director: Ravi K. Chandran</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="140" start="20260512213000 +0000" stop="20260512233000 +0000">
+	<programme channel="140" start="20260512221000 +0000" stop="20260512233500 +0000">
 		<title>Kayyoppu</title>
 		<desc>A writer reflects on life, relationships and memories, capturing emotional depth through simple moments that reveal profound truths about human connections. Release Year: 2007 Director: Ranjith</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="140" start="20260512233000 +0000" stop="20260513013000 +0000">
+	<programme channel="140" start="20260512233500 +0000" stop="20260513013000 +0000">
 		<title>Kanekkane</title>
 		<desc>Deputy Tahsildar Paul Mathai visits town and is warmly welcomed by his son-in-law. A surprising sight sparks an emotional and thrilling journey for him and his family. Release Year: 2021 Director: Manu Ashokan</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=341&amp;h=192" />
@@ -10028,29 +10012,54 @@
 		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_channels2/159_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="159" start="20260511220000 +0000" stop="20260512040000 +0000">
-		<title>Information Not Available</title>
-		<desc />
+	<programme channel="159" start="20260511223000 +0000" stop="20260512010000 +0000">
+		<title>Movie - Enakkaga Kaathiru</title>
+		<desc>Movie starring Suman, Sumalatha, Bhanuchander, Nisha, Malini and directed by PS Nivas.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/159_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="159" start="20260512040000 +0000" stop="20260512100000 +0000">
-		<title>Information Not Available</title>
-		<desc />
+	<programme channel="159" start="20260512010000 +0000" stop="20260512013000 +0000">
+		<title>Fillers</title>
+		<desc>Fillers</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/159_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="159" start="20260512100000 +0000" stop="20260512160000 +0000">
-		<title>Information Not Available</title>
-		<desc />
+	<programme channel="159" start="20260512013000 +0000" stop="20260512043000 +0000">
+		<title>Movie - Varna Jalam</title>
+		<desc>Daniel, a young man, wins over the heart of retired IPS officer Devanathan and his family. Soon, Daniel puts his plan into action which threatens to destroy their family.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/159_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="159" start="20260512160000 +0000" stop="20260512220000 +0000">
-		<title>Information Not Available</title>
-		<desc />
+	<programme channel="159" start="20260512043000 +0000" stop="20260512073000 +0000">
+		<title>Movie - Avatharam</title>
+		<desc>Kuppusamy is crazy about acting in theatre and joins a troupe and falls in love with Ponnama, a blind lady. However, the troupe struggles financially and is disbanded.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/159_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="159" start="20260512220000 +0000" stop="20260513040000 +0000">
-		<title>Information Not Available</title>
-		<desc />
+	<programme channel="159" start="20260512073000 +0000" stop="20260512103000 +0000">
+		<title>Movie - 3</title>
+		<desc>Ram and Janani are high school sweethearts who eventually get married. However, Janani is mystified when Ram commits suicide all of a sudden and she tries to find out the truth behind his death.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/159_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="159" start="20260512103000 +0000" stop="20260512133000 +0000">
+		<title>Movie - Ranuva Veeran</title>
+		<desc>Raghu returns to his village and learns that people are being terrorised by a notorious gang. His world comes crashing down when he realises that his sister is in love with the leader of the gang.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/159_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="159" start="20260512133000 +0000" stop="20260512170000 +0000">
+		<title>Movie - Vivegam</title>
+		<desc>Ajay Kumar, a former counter-terrorism agent, is called for a special mission. However, he is betrayed by his friends and is accused of extremely treasonous acts.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/159_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="159" start="20260512170000 +0000" stop="20260512200000 +0000">
+		<title>Movie - Allauddin</title>
+		<desc>A slum boy, who steals from the rich to help the poor, keeps scheming against a powerful man. After he finds a magical lamp, which the man had been seeking, he thwarts the man's attempts to abduct him.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/159_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="159" start="20260512200000 +0000" stop="20260512223000 +0000">
+		<title>Movie - Enga Ooru Rasathi</title>
+		<desc>Enga Ooru Rasathi is a 1980 Indian Tamil-language film, directed and produced by N. S. Rajendran. The film stars Sudhakar, Raadhika, Goundamani and S. R. Vijaya. The film had musical score by Gangai Amaran.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/159_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="159" start="20260512223000 +0000" stop="20260513010000 +0000">
+		<title>Movie - Enn Idhaya Rani</title>
+		<desc>A woman realises she is pregnant after she divorces her husband for having an affair. Many years later, her husband enters her life, eager to reunite with her.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/159_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="159" start="20260513040000 +0000" stop="20260513100000 +0000">
@@ -10234,7 +10243,7 @@
 		<icon src="https://poster.starhubgo.com/poster/ch201_ATP1000InternazionaliBNLDItalia.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="201" start="20260513090000 +0000" stop="20260513100000 +0000">
-		<title>ASO Cycling Programming 2026 UCI Pro Series - Presidential Cycling Tour of Turki</title>
+		<title>ASO Cycling Programming 2026 UCI Pro Series - Presidential Cycling Tour of Turkiye</title>
 		<desc>The Presidential Cycling Tour of Turkey is an annual professional road bicycle racing stage race. It is the only intercontinental cycling tour in the world, often spanning both Europe and Asia. The race typically consists of 8 stages covering diverse terrains.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch201_aso.jpg?w=341&amp;h=192" />
 	</programme>
@@ -10608,86 +10617,6 @@
 		<desc>End of Transmission</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/206_1920x1080_HTV.png?w=960&amp;h=540" />
 	</programme>
-	<programme channel="207" start="20260511160000 +0000" stop="20260511220000 +0000">
-		<title>End of Transmission</title>
-		<desc>End of Transmission</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/207_1920x1080_HTV.png?w=960&amp;h=540" />
-	</programme>
-	<programme channel="207" start="20260511220000 +0000" stop="20260512040000 +0000">
-		<title>End of Transmission</title>
-		<desc>End of Transmission</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/207_1920x1080_HTV.png?w=960&amp;h=540" />
-	</programme>
-	<programme channel="207" start="20260512040000 +0000" stop="20260512100000 +0000">
-		<title>End of Transmission</title>
-		<desc>End of Transmission</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/207_1920x1080_HTV.png?w=960&amp;h=540" />
-	</programme>
-	<programme channel="207" start="20260512100000 +0000" stop="20260512160000 +0000">
-		<title>End of Transmission</title>
-		<desc>End of Transmission</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/207_1920x1080_HTV.png?w=960&amp;h=540" />
-	</programme>
-	<programme channel="207" start="20260512160000 +0000" stop="20260512220000 +0000">
-		<title>End of Transmission</title>
-		<desc>End of Transmission</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/207_1920x1080_HTV.png?w=960&amp;h=540" />
-	</programme>
-	<programme channel="207" start="20260512220000 +0000" stop="20260513040000 +0000">
-		<title>End of Transmission</title>
-		<desc>End of Transmission</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/207_1920x1080_HTV.png?w=960&amp;h=540" />
-	</programme>
-	<programme channel="207" start="20260513040000 +0000" stop="20260513100000 +0000">
-		<title>End of Transmission</title>
-		<desc>End of Transmission</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/207_1920x1080_HTV.png?w=960&amp;h=540" />
-	</programme>
-	<programme channel="207" start="20260513100000 +0000" stop="20260513160000 +0000">
-		<title>End of Transmission</title>
-		<desc>End of Transmission</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/207_1920x1080_HTV.png?w=960&amp;h=540" />
-	</programme>
-	<programme channel="208" start="20260511160000 +0000" stop="20260511220000 +0000">
-		<title>End of Transmission</title>
-		<desc>End of Transmission</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/208_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="208" start="20260511220000 +0000" stop="20260512040000 +0000">
-		<title>End of Transmission</title>
-		<desc>End of Transmission</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/208_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="208" start="20260512040000 +0000" stop="20260512100000 +0000">
-		<title>End of Transmission</title>
-		<desc>End of Transmission</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/208_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="208" start="20260512100000 +0000" stop="20260512160000 +0000">
-		<title>End of Transmission</title>
-		<desc>End of Transmission</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/208_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="208" start="20260512160000 +0000" stop="20260512220000 +0000">
-		<title>End of Transmission</title>
-		<desc>End of Transmission</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/208_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="208" start="20260512220000 +0000" stop="20260513040000 +0000">
-		<title>End of Transmission</title>
-		<desc>End of Transmission</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/208_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="208" start="20260513040000 +0000" stop="20260513100000 +0000">
-		<title>End of Transmission</title>
-		<desc>End of Transmission</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/208_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="208" start="20260513100000 +0000" stop="20260513160000 +0000">
-		<title>End of Transmission</title>
-		<desc>End of Transmission</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/208_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
 	<programme channel="209" start="20260511120000 +0000" stop="20260511174500 +0000">
 		<title>2026 LIV Golf League, Virginia</title>
 		<desc>The world's top golfers compete in a bold, fast-paced league format, delivering big drives, dramatic finishes, and non-stop action across iconic global venues.</desc>
@@ -10945,7 +10874,7 @@
 	</programme>
 	<programme channel="211" start="20260512010000 +0000" stop="20260512013000 +0000">
 		<title>PSG TV Specials 2025/26</title>
-		<desc>Catch PSG TV Press Conference, Training and UCL highlights all on beIN Sports</desc>
+		<desc>Catch PSG TV Press Conference, Training and UCL H/Ls all on beIN Sports</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_psg_tv_specials.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="211" start="20260512013000 +0000" stop="20260512020000 +0000">
@@ -11005,51 +10934,51 @@
 	</programme>
 	<programme channel="211" start="20260512123000 +0000" stop="20260512130000 +0000">
 		<title>Roland Garros H/Ls 2026</title>
-		<desc>Daily highlights show reviewing each day of the tournament, the best action and best moments, biggest wins and winnersâ€™ celebrations. A stellar showcase of top-ranked players and on-court drama.</desc>
+		<desc>Daily H/Ls show reviewing each day of the tournament, the best action and best moments, biggest wins and winnersâ€™ celebrations. A stellar showcase of top-ranked players and on-court drama.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_roland_garros.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="211" start="20260512130000 +0000" stop="20260512143000 +0000">
 		<title>Premier Padel 2026: Buenos Aires P1 Day 1 Match 1 (Live)</title>
-		<desc>The official global Padel tour. Catch worldâ€™s top players battle it out across the globe.</desc>
+		<desc>The official global Padel tour. Catch world's top players battle it out across the globe.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_premier_padel.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="211" start="20260512143000 +0000" stop="20260512160000 +0000">
 		<title>Premier Padel 2026: Buenos Aires P1 Day 1 Match 2 (Live)</title>
-		<desc>The official global Padel tour. Catch worldâ€™s top players battle it out across the globe.</desc>
+		<desc>The official global Padel tour. Catch world's top players battle it out across the globe.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_premier_padel.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="211" start="20260512160000 +0000" stop="20260512173000 +0000">
 		<title>Premier Padel 2026: Buenos Aires P1 Day 1 Match 3 (Live)</title>
-		<desc>The official global Padel tour. Catch worldâ€™s top players battle it out across the globe.</desc>
+		<desc>The official global Padel tour. Catch world's top players battle it out across the globe.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_premier_padel.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="211" start="20260512173000 +0000" stop="20260512190000 +0000">
 		<title>Premier Padel 2026: Miami P1 Day 3 Match 2</title>
-		<desc>The official global Padel tour. Catch worldâ€™s top players battle it out across the globe.</desc>
+		<desc>The official global Padel tour. Catch world's top players battle it out across the globe.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_premier_padel.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="211" start="20260512190000 +0000" stop="20260512203000 +0000">
 		<title>Premier Padel 2026: Buenos Aires P1 Day 1 Match 4 (Live)</title>
-		<desc>The official global Padel tour. Catch worldâ€™s top players battle it out across the globe.</desc>
+		<desc>The official global Padel tour. Catch world's top players battle it out across the globe.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_premier_padel.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="211" start="20260512203000 +0000" stop="20260512220000 +0000">
 		<title>Premier Padel 2026: Buenos Aires P1 Day 1 Match 5 (Live)</title>
-		<desc>The official global Padel tour. Catch worldâ€™s top players battle it out across the globe.</desc>
+		<desc>The official global Padel tour. Catch world's top players battle it out across the globe.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_premier_padel.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="211" start="20260512220000 +0000" stop="20260512233000 +0000">
 		<title>Premier Padel 2026: Buenos Aires P1 Day 1 Match 6 (Live)</title>
-		<desc>The official global Padel tour. Catch worldâ€™s top players battle it out across the globe.</desc>
+		<desc>The official global Padel tour. Catch world's top players battle it out across the globe.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_premier_padel.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="211" start="20260512233000 +0000" stop="20260512235500 +0000">
-		<title>HSBC SVNS World C'ships 2026: Australia vs New Zealand - Pool Stages, Hong Kong - Men</title>
+		<title>HSBC SVNS World C'ships 2026: Australia vs New Zealand - Pool Stages, Hong Kong</title>
 		<desc>Catch the action from the world's very best rugby sevens stars from the top tier of a new three-division global Sevens model, from sunrise to sunset.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_HSBCSVNSSeries2026.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="211" start="20260512235500 +0000" stop="20260513002000 +0000">
-		<title>HSBC SVNS World C'ships 2026: Argentina vs Brazil - 9th Place SF1, Hong Kong - Women</title>
+		<title>HSBC SVNS World C'ships 2026: Argentina vs Brazil - 9th Place SF1, Hong Kong - W</title>
 		<desc>Catch the action from the world's very best rugby sevens stars from the top tier of a new three-division global Sevens model, from sunrise to sunset.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_HSBCSVNSSeries2026.jpg?w=341&amp;h=192" />
 	</programme>
@@ -11339,7 +11268,7 @@
 		<icon src="https://poster.starhubgo.com/poster/ch213_laliga_generic.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="213" start="20260513125300 +0000" stop="20260513150000 +0000">
-		<title>TotalEnergies U-17 Africa Cup of Nations, Morocco 2026: Ivory Coast vs Cameroon</title>
+		<title>TotalEnergies U-17 Africa Cup of Nations, Morocco 2026: Ivory Coast vs Cameroon (Live)</title>
 		<desc>beIN SPORTS brings you coverage from the 16th edition of the U-17 Africa Cup of Nations hosted by Morocco. The top 10 teams will qualify for the 2026 FIFA U-17 World Cup in Qatar as the CAF representatives.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch213_afcon_u17.jpg?w=341&amp;h=192" />
 	</programme>
@@ -11448,20 +11377,20 @@
 		<desc>All the action from the latest round of games in the German Bundesliga, Germany's top division of football.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch214_bundesliga_highlights.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="214" start="20260512120000 +0000" stop="20260512151500 +0000">
+	<programme channel="214" start="20260512120000 +0000" stop="20260512150000 +0000">
 		<title>ONE Friday Fights 2026: OFF 153</title>
 		<desc>A weekly event series by ONE Championship held in Bangkok, Thailand featuring exciting Muay Thai, kickboxing and MMA fights.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch214_ONE_Friday_Fights.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="214" start="20260512151500 +0000" stop="20260512161500 +0000">
+	<programme channel="214" start="20260512150000 +0000" stop="20260512160000 +0000">
 		<title>Bundesliga Highlights 2025/26</title>
 		<desc>All the action from the latest round of games in the German Bundesliga, Germany's top division of football.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch214_bundesliga_highlights.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="214" start="20260512161500 +0000" stop="20260512170000 +0000">
-		<title>MUTV: Specials</title>
-		<desc>Get your fix of award winning films, documentaries &amp; original programming related to the Red Devils as part of MUTV, only on beIN Sports</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch214_mutv.jpg?w=960&amp;h=540" />
+	<programme channel="214" start="20260512160000 +0000" stop="20260512170000 +0000">
+		<title>FEI Western European League 2025/26</title>
+		<desc>The FEI Jumping World Cup is an annual international competition among the world's best show jumping horses and riders. The Jumping Series comprises of 13 leagues across all continents. The top placed rider from each series will be invited to attend the World Cup Jumping Final.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch214_fei_western_europe_league.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="214" start="20260512170000 +0000" stop="20260512173000 +0000">
 		<title>Inside Sailing 2026</title>
@@ -11552,46 +11481,6 @@
 		<title>SailGP Highlights 2026</title>
 		<desc>Catch up with highlights, review and behind-the-scenes action from the latest season of SailGP</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch214_sail_gp_highlights.jpg?w=341&amp;h=192" />
-	</programme>
-	<programme channel="215" start="20260511160000 +0000" stop="20260511220000 +0000">
-		<title>End of Transmission</title>
-		<desc />
-		<icon src="https://poster.starhubgo.com/Linear_channels2/215_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="215" start="20260511220000 +0000" stop="20260512040000 +0000">
-		<title>End of Transmission</title>
-		<desc />
-		<icon src="https://poster.starhubgo.com/Linear_channels2/215_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="215" start="20260512040000 +0000" stop="20260512100000 +0000">
-		<title>End of Transmission</title>
-		<desc />
-		<icon src="https://poster.starhubgo.com/Linear_channels2/215_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="215" start="20260512100000 +0000" stop="20260512160000 +0000">
-		<title>End of Transmission</title>
-		<desc />
-		<icon src="https://poster.starhubgo.com/Linear_channels2/215_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="215" start="20260512160000 +0000" stop="20260512220000 +0000">
-		<title>End of Transmission</title>
-		<desc />
-		<icon src="https://poster.starhubgo.com/Linear_channels2/215_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="215" start="20260512220000 +0000" stop="20260513040000 +0000">
-		<title>End of Transmission</title>
-		<desc />
-		<icon src="https://poster.starhubgo.com/Linear_channels2/215_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="215" start="20260513040000 +0000" stop="20260513100000 +0000">
-		<title>End of Transmission</title>
-		<desc />
-		<icon src="https://poster.starhubgo.com/Linear_channels2/215_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="215" start="20260513100000 +0000" stop="20260513160000 +0000">
-		<title>End of Transmission</title>
-		<desc />
-		<icon src="https://poster.starhubgo.com/Linear_channels2/215_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="217" start="20260511160000 +0000" stop="20260511162200 +0000">
 		<title>South Africa tour of New Zealand, 2026 H/Ls: NZ vs SA, 2nd T20I</title>
@@ -30529,7 +30418,7 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="811" start="20260512010500 +0000" stop="20260512015000 +0000">
-		<title>Tsurube's Salute to Families "Ramos Ruy in Hiroshima City, Hiroshima Prefecture" Part 1 (R)</title>
+		<title>Tsurube's Salute to Families "Ramos Ruy in Hiroshima City, Hiroshima Prefecture"</title>
 		<desc>Veteran rakugo storyteller Shofukutei Tsurube travels across Japan with a personality, introducing families they meet along the way.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
