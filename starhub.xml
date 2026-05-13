@@ -2064,7 +2064,7 @@
 	</programme>
 	<programme channel="106" start="20260514130000 +0000" stop="20260514140000 +0000">
 		<title>Insight 2026/2027 - EP 3</title>
-		<desc>Insight investigates and analyses topical issues that impact Asia and the rest of the world.</desc>
+		<desc>Toxic chemicals pour into the North Thailand’s waterways, dumped by rare earth mining upstream in Myanmar. Meanwhile, Thai communities by the river grapple with health fears and economic losses.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="106" start="20260514140000 +0000" stop="20260514150000 +0000">
@@ -10703,7 +10703,7 @@
 		<icon src="https://poster.starhubgo.com/poster/ch209_2026_T100_Triathlon_World_Tour.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="209" start="20260512184000 +0000" stop="20260512204500 +0000">
-		<title>25/26 Scottish Premiership Play-off SF 1st Leg: Dunfermline Athletic vs Partick Thistle (Live)</title>
+		<title>25/26 Scottish Premiership Play-off SF 1st Leg: Dunfermline Athletic vs Partick</title>
 		<desc>Scotland's elite clubs return for the 2025/26 Premiership campaign, battling for European spots, survival, and the league championship.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch209_ScottishPremiership.jpg?w=960&amp;h=540" />
 	</programme>
@@ -10877,6 +10877,11 @@
 		<desc>Major League Baseball is the most historic professional sports league consists of 30 member clubs in the U.S. and Canada, representing the highest level of professional baseball.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_mlb.jpg?w=341&amp;h=192" />
 	</programme>
+	<programme channel="210" start="20260514013000 +0000" stop="20260514021000 +0000">
+		<title>2026 Longines Global Champions Tour, Shanghai</title>
+		<desc>The world's top show jumping riders compete across prestigious international venues, showcasing elite skill, speed, and championship drama throughout the season.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch210_global_champions_tour.jpg?w=960&amp;h=540" />
+	</programme>
 	<programme channel="210" start="20260514021000 +0000" stop="20260514050000 +0000">
 		<title>14/5 2026 MLB Regular Season Los Angeles Dodgers vs San Francisco Giants (Live)</title>
 		<desc>Major League Baseball is the most historic professional sports league consists of 30 member clubs in the U.S. and Canada, representing the highest level of professional baseball.</desc>
@@ -10903,12 +10908,12 @@
 		<icon src="https://poster.starhubgo.com/poster/ch210_global_champions_tour.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="210" start="20260514120000 +0000" stop="20260514142000 +0000">
-		<title>ITTF WTTTC Finals London 2026 Day 8 Women's Team: Semifinal S1</title>
+		<title>ITTF WTTTC Finals London 2026 Day 8 Women's Team: Semifinal S1 GER vs JPN</title>
 		<desc>The world's top national table tennis teams compete for glory in London, delivering lightning-fast rallies, elite skill, and intense battles on the sport's biggest stage.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_ittf_wtttc_finals_london_2026.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="210" start="20260514142000 +0000" stop="20260514160000 +0000">
-		<title>ITTF WTTTC Finals London 2026 Day 8 Women's Team: Semifinal S1</title>
+		<title>ITTF WTTTC Finals London 2026 Day 8 Women's Team: Semifinal S1 CHN vs ROU</title>
 		<desc>The world's top national table tennis teams compete for glory in London, delivering lightning-fast rallies, elite skill, and intense battles on the sport's biggest stage.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_ittf_wtttc_finals_london_2026.jpg?w=960&amp;h=540" />
 	</programme>
@@ -29562,29 +29567,9 @@
 		<desc>The bright and early morning news programme. Reports cover financial news, daily headlines from China, Hong Kong and Taiwan newspapers, as well as world weather forecasts.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/805_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="805" start="20260514010000 +0000" stop="20260514013000 +0000">
-		<title>From Phoenix To The World (13/5/26)</title>
-		<desc>From Phoenix to the World is a news programme where reporters from around the world interact directly with the anchors through satellite and telephone lines to put viewers in touch with important events right from where they happen.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/805_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="805" start="20260514013000 +0000" stop="20260514020000 +0000">
-		<title>Phoenix Panorama</title>
-		<desc>Phoenix Panorama is a series of captivating and controversial documentaries, which includes segments on current affairs, historical anniversaries and exclusive insider views on present developments.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/805_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="805" start="20260514020000 +0000" stop="20260514030000 +0000">
-		<title>News On The Hour (14/5/26)</title>
+	<programme channel="805" start="20260514010000 +0000" stop="20260514040000 +0000">
+		<title>News On The Hour 0900 (14/5/26)</title>
 		<desc>News On The Hour provides coverage of news and current affairs from around the world - concise, speedy and accurate - keeping viewers informed of the latest breaking news each hour.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/805_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="805" start="20260514030000 +0000" stop="20260514033000 +0000">
-		<title>Zoom In - EP 1138</title>
-		<desc>This in-depth news report focuses on major current political topics, major social events and news hotspots, presenting authoritative views and analysis.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/805_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="805" start="20260514033000 +0000" stop="20260514040000 +0000">
-		<title>Summary Of Press (14/5/26)</title>
-		<desc>Providing a concise review of what's in the press, the show highlights the important news by presenting newspaper headlines and editorial from respected publications.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/805_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="805" start="20260514040000 +0000" stop="20260514050000 +0000">
@@ -29613,7 +29598,7 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/805_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="805" start="20260514070000 +0000" stop="20260514080000 +0000">
-		<title>News On The Hour (14/5/26)</title>
+		<title>News On The Hour 1500 (14/5/26)</title>
 		<desc>News On The Hour provides coverage of news and current affairs from around the world - concise, speedy and accurate - keeping viewers informed of the latest breaking news each hour.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/805_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
@@ -29658,18 +29643,13 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/805_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="805" start="20260514113000 +0000" stop="20260514120000 +0000">
-		<title>Chief Editor'S Time (14/5/26)</title>
-		<desc>A summary of the day's key events, Chief Editor's Time offers a profound look into their implications. Hosted by Phoenix's commentator or chief editor, the programme talks you through major points in the headlines and forecasts future trends.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/805_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="805" start="20260514120000 +0000" stop="20260514123000 +0000">
-		<title>Phoenix Panorama</title>
+		<title>Phoenix Panorama - EP 4</title>
 		<desc>Phoenix Panorama is a series of captivating and controversial documentaries, which includes segments on current affairs, historical anniversaries and exclusive insider views on present developments.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/805_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="805" start="20260514123000 +0000" stop="20260514130000 +0000">
-		<title>Talk With World Leaders - EP 420</title>
-		<desc>Interviews with glitterati reveal compelling insights into key international figures in the fields of politics, industry, business, science and the arts.</desc>
+	<programme channel="805" start="20260514120000 +0000" stop="20260514130000 +0000">
+		<title>Phoenix Focus 2000 (14/5/26)</title>
+		<desc>Phoenix Focus is a live daily news programme featuring coverage of current affairs, finance, social issues, culture, entertainment and sport. Phoenix Focus provides an in-depth review and thorough reporting on daily events.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/805_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="805" start="20260514130000 +0000" stop="20260514140000 +0000">
@@ -29967,29 +29947,9 @@
 		<desc>The bright and early morning news programme. Reports cover financial news, daily headlines from China, Hong Kong and Taiwan newspapers, as well as world weather forecasts.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/806_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="806" start="20260514010000 +0000" stop="20260514013000 +0000">
+	<programme channel="806" start="20260514010000 +0000" stop="20260514040000 +0000">
 		<title>News On The Hour(14/5/26)</title>
-		<desc>News On The Hour provides coverage of news and current affairs from around the world - concise, speedy and accurate - keeping viewers informed of the latest breaking news each hour.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/806_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="806" start="20260514013000 +0000" stop="20260514020000 +0000">
-		<title>Financial Journal (13/5/26)</title>
-		<desc>Financial Journal gives in-depth analysis and up-to-date financial news. Coupled with professionals from the field, renowned finance commentator Shih Chi Ping opines valuable insights from different angles on the day's hottest topics.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/806_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="806" start="20260514020000 +0000" stop="20260514030000 +0000">
-		<title>6News On The Hour(14/5/26)</title>
-		<desc>News On The Hour provides coverage of news and current affairs from around the world - concise, speedy and accurate - keeping viewers informed of the latest breaking news each hour.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/806_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="806" start="20260514030000 +0000" stop="20260514033000 +0000">
-		<title>News On The Hour (14/5/26)</title>
-		<desc>News On The Hour provides coverage of news and current affairs from around the world - concise, speedy and accurate - keeping viewers informed of the latest breaking news each hour.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/806_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="806" start="20260514033000 +0000" stop="20260514040000 +0000">
-		<title>Chief Editor's Time (13/5/26)</title>
-		<desc>A summary of the day's key events, Chief Editor's Time offers a profound look into their implications. Hosted by Phoenix's commentator or chief editor, the programme talks you through major points in the headlines and forecasts future trends.</desc>
+		<desc>[Include: Donald Trump State Visits China]News On The Hour provides coverage of news and current affairs from around the world - concise, speedy and accurate - keeping viewers informed of the latest breaking news each hour.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/806_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="806" start="20260514040000 +0000" stop="20260514050000 +0000">
@@ -29997,34 +29957,19 @@
 		<desc>Presenting the most updated international and financial news breaking before lunch, viewers can tune in to stay informed about events happening around the world.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/806_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="806" start="20260514050000 +0000" stop="20260514053000 +0000">
+	<programme channel="806" start="20260514050000 +0000" stop="20260514070000 +0000">
 		<title>News On The Hour (14/5/26)</title>
-		<desc>News On The Hour provides coverage of news and current affairs from around the world - concise, speedy and accurate - keeping viewers informed of the latest breaking news each hour.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/806_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="806" start="20260514053000 +0000" stop="20260514060000 +0000">
-		<title>Financial Journal (13/5/26)</title>
-		<desc>Financial Journal gives in-depth analysis and up-to-date financial news. Coupled with professionals from the field, renowned finance commentator Shih Chi Ping opines valuable insights from different angles on the day's hottest topics.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/806_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="806" start="20260514060000 +0000" stop="20260514063000 +0000">
-		<title>News On The Hour(14/5/26)</title>
-		<desc>News On The Hour provides coverage of news and current affairs from around the world - concise, speedy and accurate - keeping viewers informed of the latest breaking news each hour.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/806_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="806" start="20260514063000 +0000" stop="20260514070000 +0000">
-		<title>Chief Editor's Time (13/5/26)</title>
-		<desc>A summary of the day's key events, Chief Editor's Time offers a profound look into their implications. Hosted by Phoenix's commentator or chief editor, the programme talks you through major points in the headlines and forecasts future trends.</desc>
+		<desc>[Include: Donald Trump State Visits China] News On The Hour provides coverage of news and current affairs from around the world - concise, speedy and accurate - keeping viewers informed of the latest breaking news each hour.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/806_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="806" start="20260514070000 +0000" stop="20260514080000 +0000">
 		<title>News On The Hour (14/5/26)</title>
-		<desc>News On The Hour provides coverage of news and current affairs from around the world - concise, speedy and accurate - keeping viewers informed of the latest breaking news each hour.</desc>
+		<desc>[Include: Donald Trump State Visits China] News On The Hour provides coverage of news and current affairs from around the world - concise, speedy and accurate - keeping viewers informed of the latest breaking news each hour.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/806_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="806" start="20260514080000 +0000" stop="20260514090000 +0000">
 		<title>News On The Hour (14/5/26)</title>
-		<desc>News On The Hour provides coverage of news and current affairs from around the world - concise, speedy and accurate - keeping viewers informed of the latest breaking news each hour.</desc>
+		<desc>[Include: Donald Trump State Visits China] News On The Hour provides coverage of news and current affairs from around the world - concise, speedy and accurate - keeping viewers informed of the latest breaking news each hour.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/806_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="806" start="20260514090000 +0000" stop="20260514093000 +0000">
@@ -30052,39 +29997,14 @@
 		<desc>China News Live covers the hottest news of the day from Greater China and gives a complete picture of key issues, including detailed background information and in-depth analysis of their impact from different perspectives.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/806_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="806" start="20260514120000 +0000" stop="20260514123000 +0000">
+	<programme channel="806" start="20260514120000 +0000" stop="20260514150000 +0000">
 		<title>Phoenix Focus (14/5/26)</title>
-		<desc>Phoenix Focus is a live daily news programme featuring coverage of current affairs, finance, social issues, culture, entertainment and sport. Phoenix Focus provides an in-depth review and thorough reporting on daily events.</desc>
+		<desc>[Include: Donald Trump State Visits China] Phoenix Focus is a live daily news programme featuring coverage of current affairs, finance, social issues, culture, entertainment and sport. Phoenix Focus provides an in-depth review and thorough reporting on daily events.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/806_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="806" start="20260514123000 +0000" stop="20260514130000 +0000">
-		<title>Phoenix Financial Daily Report (14/5/26)</title>
-		<desc>Phoenix Financial Daily Report aims to help viewers figure out the financial clues from a choice selection of the hottest news of the day. The show also links up with financial gurus and experts from related fields to offer their insight.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/806_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="806" start="20260514130000 +0000" stop="20260514140000 +0000">
-		<title>Phoenix Evening Express (14/5/26)</title>
-		<desc>Broadcast live every night, Phoenix Evening Express reports world events with in-depth coverage of the latest social, economic, cultural and sports news from Hong Kong, Taiwan and China.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/806_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="806" start="20260514140000 +0000" stop="20260514143000 +0000">
-		<title>Chief Editor's Time (14/5/26)</title>
-		<desc>A summary of the day's key events, Chief Editor's Time offers a profound look into their implications. Hosted by Phoenix's commentator or chief editor, the programme talks you through major points in the headlines and forecasts future trends.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/806_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="806" start="20260514143000 +0000" stop="20260514150000 +0000">
-		<title>News Talk (14/5/26)</title>
-		<desc>News Talk focuses on top political issues, economic headlines and current affairs. Also featured is live discussion on news stories. Through the expertise of our commentators, viewers are guided to an uncluttered perspective on what matters.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/806_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="806" start="20260514150000 +0000" stop="20260514153000 +0000">
+	<programme channel="806" start="20260514150000 +0000" stop="20260514160000 +0000">
 		<title>Phoenix Focus (14/5/26)</title>
-		<desc>Phoenix Focus is a live daily news programme featuring coverage of current affairs, finance, social issues, culture, entertainment and sport. Phoenix Focus provides an in-depth review and thorough reporting on daily events.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/806_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="806" start="20260514153000 +0000" stop="20260514160000 +0000">
-		<title>Chief Editor's Time (14/5/26)</title>
-		<desc>A summary of the day's key events, Chief Editor's Time offers a profound look into their implications. Hosted by Phoenix's commentator or chief editor, the programme talks you through major points in the headlines and forecasts future trends.</desc>
+		<desc>[Include: Donald Trump State Visits China] Phoenix Focus is a live daily news programme featuring coverage of current affairs, finance, social issues, culture, entertainment and sport. Phoenix Focus provides an in-depth review and thorough reporting on daily events.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/806_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="808" start="20260512160000 +0000" stop="20260512170000 +0000">
