@@ -1852,14 +1852,9 @@
 		<desc>From business to politics, health to technology, the latest news from Singapore and analysis of the impact.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="106" start="20260513230000 +0000" stop="20260514020000 +0000">
+	<programme channel="106" start="20260513230000 +0000" stop="20260514023000 +0000">
 		<title>Asia First - EP 32</title>
 		<desc>(Live) Top stories, business news and market updates from across the region as Asia gears up for the day ahead.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="106" start="20260514020000 +0000" stop="20260514023000 +0000">
-		<title>Money Mind - EP 7</title>
-		<desc>S-REIT yields may look attractive - but is it worth the hidden risks? He grew a carpark hustle into a 10 business - so why is income flatlining? Plus, the economics behind a US0.30 meal.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="106" start="20260514023000 +0000" stop="20260514030000 +0000">
@@ -6272,7 +6267,12 @@
 		<desc>The story follows family members facing duties, sacrifices, and emotions as they strive to stay united despite conflicts and hardships testing their bond and resilience.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch135_thaai_maman_thaiku_nigaranavan.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="135" start="20260514153000 +0000" stop="20260514163000 +0000">
+	<programme channel="135" start="20260514153000 +0000" stop="20260514160000 +0000">
+		<title>Mahasangamam-Azhagae Azhagu &amp; Pandianstores Tsmmi - EP 80</title>
+		<desc>Catch an emotional Mahasangamam where heartfelt reunions unfold, highlighted by a festive sapaddu and Malar's story, bringing together relationships, warmth, and celebration.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch135_mahasangamam_azhagae_azhagu_pandianstores_tsmmi.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="135" start="20260514160000 +0000" stop="20260514163000 +0000">
 		<title>Mahasangamam-Azhagae Azhagu &amp; Pandianstores Tsmmi - EP 80</title>
 		<desc>Catch an emotional Mahasangamam where heartfelt reunions unfold, highlighted by a festive sapaddu and Malar's story, bringing together relationships, warmth, and celebration.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch135_mahasangamam_azhagae_azhagu_pandianstores_tsmmi.jpg?w=341&amp;h=192" />
@@ -6377,11 +6377,6 @@
 		<desc>The story follows family members facing duties, sacrifices, and emotions as they strive to stay united despite conflicts and hardships testing their bond and resilience.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch135_thaai_maman_thaiku_nigaranavan.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="135" start="20260515043000 +0000" stop="20260515053000 +0000">
-		<title>Mahasangamam-Azhagae Azhagu &amp; Pandianstores Tsmmi - EP 80</title>
-		<desc>Catch an emotional Mahasangamam where heartfelt reunions unfold, highlighted by a festive sapaddu and Malar's story, bringing together relationships, warmth, and celebration.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch135_mahasangamam_azhagae_azhagu_pandianstores_tsmmi.jpg?w=341&amp;h=192" />
-	</programme>
 	<programme channel="135" start="20260515053000 +0000" stop="20260515060000 +0000">
 		<title>Ayyanar Thunai - EP 399</title>
 		<desc>In a bid to escape her ill-fate, Nila becomes the daughter-in-law of a family with a tainted past. Can she restore their lost hope, or will it shatter hers?</desc>
@@ -6416,11 +6411,6 @@
 		<title>Suttum Vizhi Sudare - Oru Chinanjiru Kuyilin Kadhai - EP 110</title>
 		<desc>A poetic drama about love, memory, and childhood emotions as characters grow. Simple moments reveal how love shapes memory, guiding growth through tender, evolving feelings.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch135_suttum_vizhi_sudare_oru_chinanjiru_kuyilin_kadhai.jpg?w=960&amp;h=540" />
-	</programme>
-	<programme channel="135" start="20260515090000 +0000" stop="20260515100000 +0000">
-		<title>Mahasangamam-Azhagae Azhagu &amp; Pandianstores Tsmmi - EP 80</title>
-		<desc>Catch an emotional Mahasangamam where heartfelt reunions unfold, highlighted by a festive sapaddu and Malar's story, bringing together relationships, warmth, and celebration.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch135_mahasangamam_azhagae_azhagu_pandianstores_tsmmi.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="135" start="20260515100000 +0000" stop="20260515103000 +0000">
 		<title>Mahanadhi Sagodharigalin Kadhai - EP 851</title>
@@ -7417,24 +7407,29 @@
 		<desc>Orphaned at a young age due to deception, Anna Wilfred seeks revenge years later against her family's betrayer. Release Year: 2017 Director: M. Prasanth</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="140" start="20260514013000 +0000" stop="20260514043000 +0000">
+	<programme channel="140" start="20260514013000 +0000" stop="20260514015000 +0000">
+		<title>Filler:Chirikkum Thalika II - EP 70</title>
+		<desc>A carefree man's life turns chaotic when unexpected events and hilarious twists push him to face responsibility, friendship and love in the most amusing ways.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="140" start="20260514015000 +0000" stop="20260514044000 +0000">
 		<title>Philips and the Monkey Pen</title>
 		<desc>The story revolves around an eight year old boy Ryan who has a maths phobia and struggles to complete his maths homework. Release Year: 2013 Director: Rojin Thomas, Shanil Muhammed</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="140" start="20260514043000 +0000" stop="20260514073000 +0000">
+	<programme channel="140" start="20260514044000 +0000" stop="20260514073000 +0000">
 		<title>Jaya Jaya Jaya Jaya Hey</title>
 		<desc>Woman faces abuse from poultry farmer husband. Release Year: 2022 Director: Vipin Das Awards: 2023 Nominee Bollywood Life - South Movies Award - Best Film</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="140" start="20260514073000 +0000" stop="20260514103000 +0000">
+	<programme channel="140" start="20260514073000 +0000" stop="20260514104500 +0000">
 		<title>RRR</title>
 		<desc>The two men are one a revolutionary and the other a British officer.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="140" start="20260514103000 +0000" stop="20260514133000 +0000">
+	<programme channel="140" start="20260514104500 +0000" stop="20260514133000 +0000">
 		<title>Manjummel Boys</title>
-		<desc>Ten friends, the Manjummel Boys, hit Kodaikanal for a fun trip. They check out Guna Caves, where disaster strikes when Subhash falls into a super deep, scary hole! Release Year: 2024 Director: Chidambaram Awards: 2024 Winner Golden ReelBest Musical ScoreS</desc>
+		<desc>Ten friends, the Manjummel Boys, hit Kodaikanal for a fun trip. They check out Guna Caves, where disaster strikes when Subhash falls into a super deep, scary hole! Release Year: 2024 Director: Chidambaram Awards: 2024 Winner Golden ReelBest Musical ScoreSushin Shyam</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="140" start="20260514133000 +0000" stop="20260514163000 +0000">
@@ -7442,22 +7437,22 @@
 		<desc>Murugan defends villagers, falsely accused of Daddy's drug dealings. Release Year: 2016 Director: Vysakh Awards: 2017 Nominee Filmfare Award - Malayalam Film Industry Best Film, 2017 Nominee Malayalam CinemaBest Film</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="140" start="20260514163000 +0000" stop="20260514193000 +0000">
+	<programme channel="140" start="20260514163000 +0000" stop="20260514194000 +0000">
 		<title>Thiruvambadi Thampan</title>
 		<desc>Venu agrees to marry his employer's daughter Sarojam who has a chronic illness. Later Venu begins to really love Sarojam. But she passes away. Release Year: 2012 Director: M. Padmakumar</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="140" start="20260514193000 +0000" stop="20260514213000 +0000">
+	<programme channel="140" start="20260514194000 +0000" stop="20260514220000 +0000">
 		<title>Asuran</title>
 		<desc>A farmer goes on the run with his family as he is compelled to protect his son, who has murdered a wealthy upper-caste landlord in a fit of vengeance.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="140" start="20260514213000 +0000" stop="20260514233000 +0000">
+	<programme channel="140" start="20260514220000 +0000" stop="20260514235000 +0000">
 		<title>Mizhi Thurakku</title>
 		<desc>After her family is attacked by Muslims, Savithri, a Brahmin, seeks refuge in the house of a man belonging to a lower caste. Without her family's name, she is exposed to the dark side of casteism. Release Year: 2014 Director: Santhosh Souparnika</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="140" start="20260514233000 +0000" stop="20260515013000 +0000">
+	<programme channel="140" start="20260514235000 +0000" stop="20260515013000 +0000">
 		<title>Vallikkudilile Vellakkaran</title>
 		<desc>Joseph leaves his ambitious European life to settle back home with his wife Mary, embracing organic farming, while their sons dream of returning to the UK, creating tension and family challenges. Release Year: 2018 Director: Duglus Alfred</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=341&amp;h=192" />
@@ -27035,7 +27030,7 @@
 	<programme channel="711" start="20260514090000 +0000" stop="20260514100000 +0000">
 		<title>CNN Headline Express</title>
 		<desc>The biggest headlines and most buzzworthy stories with live updates throughout the day.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch711_cnni_placeholder.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch711_cnn_headline_express.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="711" start="20260514100000 +0000" stop="20260514110000 +0000">
 		<title>CNN This Morning</title>
