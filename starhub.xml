@@ -963,7 +963,7 @@
 	</programme>
 	<programme channel="102" start="20260529133000 +0000" stop="20260529140000 +0000">
 		<title>On The Red Dot - EP 4</title>
-		<desc>On The Red Dot offers weekly in-depth analysis and discussion on key issues and events that matter to Singaporeans.</desc>
+		<desc>Three women with chronic pain navigate work, relationships, fertility worries and independence, while managing conditions no one else can see.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="102" start="20260529140000 +0000" stop="20260529160000 +0000">
@@ -1148,7 +1148,7 @@
 	</programme>
 	<programme channel="103" start="20260528143000 +0000" stop="20260528150000 +0000">
 		<title>Focus - EP 9</title>
-		<desc>Focus provides timely reports and analyses on international news and current affairs from Singapore's perspective.</desc>
+		<desc>As the world speeds up, Thailand and Indonesia profit from slow living and booming wellness economies. Meanwhile, 81-year-old Cultural Medallion artist Ong Kim Seng reflects on 60 years of capturing a changing city through his art.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/103_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="103" start="20260528150000 +0000" stop="20260528160000 +0000">
@@ -2006,14 +2006,14 @@
 		<desc>They're your eyes and ears around the globe. CNA's network of correspondents shines a light on stories from their corners of the world, from groundbreaking events to up-and-coming trends.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="106" start="20260529120000 +0000" stop="20260529130000 +0000">
+	<programme channel="106" start="20260529120000 +0000" stop="20260529131500 +0000">
 		<title>Asia Tonight - EP 59</title>
 		<desc>(Live) News and views from around the region, delivered with uniquely Asian perspectives.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="106" start="20260529130000 +0000" stop="20260529140000 +0000">
-		<title>Japan Hour [English Subtitles] - EP 21</title>
-		<desc>A four-day winter ride through Ibaraki to explore its famous lake, go hill climbing, experience the samurai spirit in a kendo hall, and enjoy the taste of the ocean’s ugliest fish.</desc>
+	<programme channel="106" start="20260529131500 +0000" stop="20260529140000 +0000">
+		<title>Lunch With Us - EP 4</title>
+		<desc>In Taipei, we take a scooter tour of Banqiao’s traditional Taiwanese fare, join a pair of writers at a retro restaurant for bento Taiwan-style, and hop on a karaoke taxi to visit a Driver’s Club.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="106" start="20260529140000 +0000" stop="20260529150000 +0000">
@@ -10759,7 +10759,7 @@
 	<programme channel="209" start="20260529110000 +0000" stop="20260529115000 +0000">
 		<title>2026 WSL Inside Pro Surfing</title>
 		<desc>Be sure to catch the inspirational power of surfing through the 2026 WSL Championship Tour &amp; Challenger Series.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch209_WSL.jpg?w=960&amp;h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch209_World_Surf_League.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="209" start="20260529115000 +0000" stop="20260529143500 +0000">
 		<title>2026 WorldSBK: Rd 6 Aragon Round (Live)</title>
@@ -11057,7 +11057,7 @@
 		<icon src="https://poster.starhubgo.com/poster/ch213_uefa_europa_conference_league.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="213" start="20260527185500 +0000" stop="20260527210000 +0000">
-		<title>UEFA Conference League 2025/26: Crystal Palace vs Rayo Vallecano - Final (Live)</title>
+		<title>Crystal Palace vs Rayo Vallecano - Final (Live)</title>
 		<desc>Watch every round of the UEFA Conference League action, Europe's tertiary club football tournament where teams battle it out for the Finals at RB Arena,Leipzig</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch213_uefa_conference_league_live_match.jpg?w=960&amp;h=540" />
 	</programme>
@@ -11232,7 +11232,7 @@
 		<icon src="https://poster.starhubgo.com/poster/ch214_UCL_magazine_show.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="214" start="20260527233000 +0000" stop="20260528013000 +0000">
-		<title>UEFA Europa League 2025/26: Freiburg vs Aston Villa - Final</title>
+		<title>Freiburg vs Aston Villa - Final</title>
 		<desc>The 55th season of the UEL as Europe's elite clubs compete in this premier football tournament</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch214_UEL_full_match.jpg?w=960&amp;h=540" />
 	</programme>
@@ -18864,12 +18864,12 @@
 	<programme channel="435" start="20260529023000 +0000" stop="20260529025500 +0000">
 		<title>Luke Nguyen's India (S1) - EP 7</title>
 		<desc>Luke Nguyen circumnavigates southern India, discovering the sounds,meeting local cooks and chefs,who introduce him to the world of Indian cuisine.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch435_LukeNguyensndia.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch435_LukeNguyensIndia.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="435" start="20260529025500 +0000" stop="20260529032500 +0000">
 		<title>Luke Nguyen's India (S1) - EP 8</title>
 		<desc>Luke Nguyen circumnavigates southern India, discovering the sounds,meeting local cooks and chefs,who introduce him to the world of Indian cuisine.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch435_LukeNguyensndia.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch435_LukeNguyensIndia.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="435" start="20260529032500 +0000" stop="20260529035000 +0000">
 		<title>The Cook Up With Adam Liaw (S4) - EP 1</title>
@@ -33359,7 +33359,7 @@
 	<programme channel="838" start="20260529133000 +0000" stop="20260529143000 +0000">
 		<title>Treasure At Dawn - EP 14</title>
 		<desc>A young doctor who is wrongly accused in a deadly case sets out to uncover the truth behind a mysterious "Heavenly Book". Along the way, he teams up with a clever noblewoman and a witty performer as they investigate a web of secrets in Liangzhou.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch838_treasure_at_dawn.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch838_treasure_at_dawn_still_ep14.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="838" start="20260529143000 +0000" stop="20260529150000 +0000">
 		<title>Don't You Know Life is a Journey?</title>
