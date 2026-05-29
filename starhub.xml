@@ -1911,32 +1911,12 @@
 		<desc>A millennial and a Gen Z battle falling sales and tradition as they fight to save their family businesses.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="106" start="20260530000000 +0000" stop="20260530003000 +0000">
+	<programme channel="106" start="20260530000000 +0000" stop="20260530020000 +0000">
 		<title>Asia Now - EP 146</title>
 		<desc>(Live) Non-stop breaking stories, expert analysis and extensive news coverage every hour.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="106" start="20260530003000 +0000" stop="20260530010000 +0000">
-		<title>Talking Point - EP 38</title>
-		<desc>Aluminium foil is a kitchen staple. But with concerns about metal leaching, how safe is foil for cooking? Diana Ser conducts a test to find out how much aluminium is leaching into our food.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="106" start="20260530010000 +0000" stop="20260530013000 +0000">
-		<title>Asia Now - EP 147</title>
-		<desc>(Live) Non-stop breaking stories, expert analysis and extensive news coverage every hour.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="106" start="20260530013000 +0000" stop="20260530020000 +0000">
-		<title>Hobsessions - EP 1</title>
-		<desc>Kingo dives WWII wrecks globally and Lilian photographs tiny sea creatures in Bali, each venturing to depths most never see. Together, they reveal a hidden underwater world shaped by their obsession.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="106" start="20260530020000 +0000" stop="20260530020200 +0000">
-		<title>Headline News - EP 199</title>
-		<desc>(Live) The latest top stories of the hour.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="106" start="20260530020200 +0000" stop="20260530030000 +0000">
+	<programme channel="106" start="20260530020000 +0000" stop="20260530030000 +0000">
 		<title>Through Time - EP 2</title>
 		<desc>Heritage guides Stanley and Amanda are set on recreating Singapore’s Three Worlds: New World, Great World and Gay World - not with brick, but with pixels.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png?w=341&amp;h=192" />
@@ -10896,15 +10876,10 @@
 		<desc>beIN SPORTS brings you coverage from the 16th edition of the U-17 Africa Cup of Nations hosted by Morocco. The top 10 teams will qualify for the 2026 FIFA U-17 World Cup in Qatar as the CAF representatives.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch213_afcon_u17.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="213" start="20260529033000 +0000" stop="20260529052000 +0000">
-		<title>TotalEnergies U-17 Africa Cup of Nations, Morocco 2026: Senegal vs Morocco - SF 2</title>
+	<programme channel="213" start="20260529033000 +0000" stop="20260529055000 +0000">
+		<title>TotalEnergies U-17 Africa Cup of Nations, Morocco 2026: Senegal vs Morocco - SF</title>
 		<desc>beIN SPORTS brings you coverage from the 16th edition of the U-17 Africa Cup of Nations hosted by Morocco. The top 10 teams will qualify for the 2026 FIFA U-17 World Cup in Qatar as the CAF representatives.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch213_afcon_u17.jpg?w=341&amp;h=192" />
-	</programme>
-	<programme channel="213" start="20260529052000 +0000" stop="20260529055000 +0000">
-		<title>This Is Paris 2025/26</title>
-		<desc>An exclusive weekly look behind the scenes at French superclub, Paris Saint-Germain.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch213_psg_tv.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="213" start="20260529055000 +0000" stop="20260529065000 +0000">
 		<title>DTM Highlights 2026</title>
@@ -10937,7 +10912,7 @@
 		<icon src="https://poster.starhubgo.com/poster/ch213_uefa_champions_league_generic.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="213" start="20260529183000 +0000" stop="20260529190000 +0000">
-		<title>Mini Match - UEFA Champions League 2025/26: Arsenal vs Atletico Madrid - SF, 2nd Leg</title>
+		<title>Mini Match - UEFA Champions League 2025/26: Arsenal vs Atletico Madrid - SF, 2nd</title>
 		<desc>Watch every round of the UCL as Europe's elite clubs battle it out for the most prestigious trophy in club football at Puskas Arena, Budapest</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch213_uefa_champions_league_generic.jpg?w=960&amp;h=540" />
 	</programme>
@@ -10967,42 +10942,42 @@
 		<icon src="https://poster.starhubgo.com/poster/ch213_hsbc_svns_series_2026.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="213" start="20260529215500 +0000" stop="20260529222000 +0000">
-		<title>HSBC SVNS World Championships 2026: Australia vs South Africa - Pool Stage, Valladolid - Women</title>
+		<title>HSBC SVNS World Championships 2026: Australia vs South Africa - Pool Stage, Vall</title>
 		<desc>Catch the action from the world's very best rugby sevens stars from the top tier of a new three-division global Sevens model, from sunrise to sunset.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch213_hsbc_svns_series_2026.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="213" start="20260529222000 +0000" stop="20260529224500 +0000">
-		<title>HSBC SVNS World Championships 2026: New Zealand vs Uruguay - Pool Stage, Valladolid - Men</title>
+		<title>HSBC SVNS World Championships 2026: New Zealand vs Uruguay - Pool Stage, Vallado</title>
 		<desc>Catch the action from the world's very best rugby sevens stars from the top tier of a new three-division global Sevens model, from sunrise to sunset.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch213_hsbc_svns_series_2026.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="213" start="20260529224500 +0000" stop="20260529231000 +0000">
-		<title>HSBC SVNS World Championships 2026: Argentina vs Germany - Pool Stage, Valladolid - Men</title>
+		<title>HSBC SVNS World Championships 2026: Argentina vs Germany - Pool Stage, Valladoli</title>
 		<desc>Catch the action from the world's very best rugby sevens stars from the top tier of a new three-division global Sevens model, from sunrise to sunset.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch213_hsbc_svns_series_2026.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="213" start="20260529231000 +0000" stop="20260529233500 +0000">
-		<title>HSBC SVNS World Championships 2026: Japan vs Brazil - Pool Stage, Valladolid - Women</title>
+		<title>HSBC SVNS World Championships 2026: Japan vs Brazil - Pool Stage, Valladolid - W</title>
 		<desc>Catch the action from the world's very best rugby sevens stars from the top tier of a new three-division global Sevens model, from sunrise to sunset.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch213_hsbc_svns_series_2026.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="213" start="20260529233500 +0000" stop="20260530000000 +0000">
-		<title>HSBC SVNS World Championships 2026: New Zealand vs Argentina - Pool Stage, Valladolid - Women</title>
+		<title>HSBC SVNS World Championships 2026: New Zealand vs Argentina - Pool Stage, Valla</title>
 		<desc>Catch the action from the world's very best rugby sevens stars from the top tier of a new three-division global Sevens model, from sunrise to sunset.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch213_hsbc_svns_series_2026.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="213" start="20260530000000 +0000" stop="20260530002500 +0000">
-		<title>HSBC SVNS World Championships 2026: Australia vs Kenya - Pool Stage, Valladolid - Men</title>
+		<title>HSBC SVNS World Championships 2026: Australia vs Kenya - Pool Stage, Valladolid</title>
 		<desc>Catch the action from the world's very best rugby sevens stars from the top tier of a new three-division global Sevens model, from sunrise to sunset.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch213_hsbc_svns_series_2026.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="213" start="20260530002500 +0000" stop="20260530005000 +0000">
-		<title>HSBC SVNS World Championships 2026: South Africa vs Great Britain - Pool Stage, Valladolid - Men</title>
+		<title>HSBC SVNS World Championships 2026: South Africa vs Great Britain - Pool Stage,</title>
 		<desc>Catch the action from the world's very best rugby sevens stars from the top tier of a new three-division global Sevens model, from sunrise to sunset.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch213_hsbc_svns_series_2026.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="213" start="20260530005000 +0000" stop="20260530011500 +0000">
-		<title>HSBC SVNS World Championships 2026: Canada vs Spain - Pool Stage, Valladolid - Women</title>
+		<title>HSBC SVNS World Championships 2026: Canada vs Spain - Pool Stage, Valladolid - W</title>
 		<desc>Catch the action from the world's very best rugby sevens stars from the top tier of a new three-division global Sevens model, from sunrise to sunset.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch213_hsbc_svns_series_2026.jpg?w=341&amp;h=192" />
 	</programme>
@@ -23153,7 +23128,7 @@
 	</programme>
 	<programme channel="701" start="20260529003000 +0000" stop="20260529010000 +0000">
 		<title>The Media Show</title>
-		<desc>A global, topical weekly show that lifts the hood on the entertainment and news business. The Media Show explores the companies and personalities who command our attention.</desc>
+		<desc>Richard Madeley in El Salvador's high-security prison, Matt Brittin's first days as BBC Director General, and the fallout from allegations linked to Married at First Sight.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch701_BBC_news.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="701" start="20260529010000 +0000" stop="20260529013000 +0000">
@@ -23208,7 +23183,7 @@
 	</programme>
 	<programme channel="701" start="20260529043000 +0000" stop="20260529050000 +0000">
 		<title>Business Today</title>
-		<desc>Business Today. Bringing the latest business news and up-to-date informed analysis from London and around the world.</desc>
+		<desc>Bringing the latest business news and up-to-date informed analysis from Singapore and around the world.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch701_BBC_news.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="701" start="20260529050000 +0000" stop="20260529053000 +0000">
@@ -23218,7 +23193,7 @@
 	</programme>
 	<programme channel="701" start="20260529053000 +0000" stop="20260529060000 +0000">
 		<title>Business Today</title>
-		<desc>Business Today. Bringing the latest business news and up-to-date informed analysis from London and around the world.</desc>
+		<desc>Bringing the latest business news and up-to-date informed analysis from Singapore and around the world.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch701_BBC_news.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="701" start="20260529060000 +0000" stop="20260529063000 +0000">
@@ -23228,7 +23203,7 @@
 	</programme>
 	<programme channel="701" start="20260529063000 +0000" stop="20260529070000 +0000">
 		<title>Business Today</title>
-		<desc>Business Today. Bringing the latest business news and up-to-date informed analysis from London and around the world.</desc>
+		<desc>Bringing the latest business news and up-to-date informed analysis from Singapore and around the world.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch701_BBC_news.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="701" start="20260529070000 +0000" stop="20260529073000 +0000">
@@ -23268,7 +23243,7 @@
 	</programme>
 	<programme channel="701" start="20260529103000 +0000" stop="20260529104500 +0000">
 		<title>Business Today</title>
-		<desc>Business Today. Bringing the latest business news and up-to-date informed analysis from London and around the world.</desc>
+		<desc>Bringing the latest business news and up-to-date informed analysis from Singapore and around the world.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch701_BBC_news.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="701" start="20260529104500 +0000" stop="20260529110000 +0000">
@@ -23502,7 +23477,7 @@
 		<icon src="https://poster.starhubgo.com/poster/ch701_BBC_news.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="701" start="20260530093000 +0000" stop="20260530100000 +0000">
-		<title>Witness: Fergal Keane's Journey of Hope</title>
+		<title>The Road to Hope with Fergal Keane</title>
 		<desc>The BBC's Fergal Keane has spent forty years witnessing the worst that humanity can do - genocide, war, and famine. So why is he full of hope?</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch701_BBC_news.jpg?w=341&amp;h=192" />
 	</programme>
@@ -23523,7 +23498,7 @@
 	</programme>
 	<programme channel="701" start="20260530113000 +0000" stop="20260530120000 +0000">
 		<title>Unspun World with John Simpson</title>
-		<desc>Unspun World provides an unvarnished version of the week's major global news stories - reliable, honest and essential viewing with the BBC's world affairs editor John Simpson.</desc>
+		<desc>John Simpson analyses the possibility of the US forcing regime change in Cuba, examines the effect of the war in Ukraine on Vladimir Putin's standing in Russia and looks at prediction markets.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch701_unspun_world_with_john_simpson.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="701" start="20260530120000 +0000" stop="20260530123000 +0000">
@@ -30594,7 +30569,7 @@
 	<programme channel="812" start="20260530021000 +0000" stop="20260530025500 +0000">
 		<title>The Professionals</title>
 		<desc>A documentary series that focuses on first-class professionals from various fields.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch374_TheFactoryWonders.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="812" start="20260530025500 +0000" stop="20260530030000 +0000">
 		<title>Japan Delish 5min.</title>
@@ -30734,7 +30709,7 @@
 	<programme channel="812" start="20260530101000 +0000" stop="20260530105500 +0000">
 		<title>The Professionals</title>
 		<desc>A documentary series that focuses on first-class professionals from various fields.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch374_TheFactoryWonders.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="812" start="20260530105500 +0000" stop="20260530110000 +0000">
 		<title>Japan Delish 5min.</title>
@@ -30819,7 +30794,7 @@
 	<programme channel="812" start="20260530151000 +0000" stop="20260530155500 +0000">
 		<title>The Professionals</title>
 		<desc>A documentary series that focuses on first-class professionals from various fields.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch374_TheFactoryWonders.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="812" start="20260530155500 +0000" stop="20260530160000 +0000">
 		<title>Japan Delish 5min.</title>
@@ -33293,7 +33268,7 @@
 	</programme>
 	<programme channel="838" start="20260530120000 +0000" stop="20260530123500 +0000">
 		<title>2026 Mid-Year Sales Presentation</title>
-		<desc>TVB Jade brings you endless entertainment with concurrent dramas and sitcoms, as well as the latest news, variety and infotainment programmes from TVB.</desc>
+		<desc>'Looking ahead to the second half of 2026, TVB will continue its commitment to breaking through traditional television frameworks, integrating AI technology into program production, and creating a diversified new-generation media platform to present viewers with a brand-new entertainment experience that is "more than just television.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch838_tvb_logo.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="838" start="20260530123500 +0000" stop="20260530133500 +0000">
