@@ -11049,7 +11049,7 @@
 	<programme channel="213" start="20260603190000 +0000" stop="20260603200000 +0000">
 		<title>European Le Mans Series Highlights 2026</title>
 		<desc>Highlights a record-breaking 47-car grid competing on premier European circuits, showcasing 9 different brands.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch213_european_le_mans_series_highlights.jpg?w=960&amp;h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch213_european_le_mans_series_highlights.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="213" start="20260603200000 +0000" stop="20260603210000 +0000">
 		<title>Ferrari Challenge Europe Race 2026: Trofeo Pirelli Race 2, Spielberg</title>
@@ -11075,6 +11075,11 @@
 		<title>Fastzone 2026</title>
 		<desc>Covering everything from prototypes to endurance racing, karting to airplanes and even some real oddities.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch213_fastzone.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="213" start="20260604002000 +0000" stop="20260604005000 +0000">
+		<title>FIA European Rally Championship Highlights 2026</title>
+		<desc>Enjoy highlights from the 74th season of the European Rally Championship</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch213_fia_european_rally_championship.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="213" start="20260604005000 +0000" stop="20260604012000 +0000">
 		<title>This Is Paris 2025/26</title>
@@ -11134,7 +11139,7 @@
 	<programme channel="213" start="20260604083000 +0000" stop="20260604093000 +0000">
 		<title>European Le Mans Series Highlights 2026</title>
 		<desc>Highlights a record-breaking 47-car grid competing on premier European circuits, showcasing 9 different brands.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch213_european_le_mans_series_highlights.jpg?w=960&amp;h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch213_european_le_mans_series_highlights.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="213" start="20260604093000 +0000" stop="20260604094500 +0000">
 		<title>Chasing the Dream 7</title>
@@ -11159,7 +11164,7 @@
 	<programme channel="213" start="20260604112500 +0000" stop="20260604121000 +0000">
 		<title>FIA Formula 3 Championship Practice 2026: Monte Carlo, Monaco (Live)</title>
 		<desc>beIN Sports brings you exclusive coverage of the 2026 Formula 3 Championship.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch213_formula1_generic.jpg?w=960&amp;h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch213_f3_generic.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="213" start="20260604121000 +0000" stop="20260604124500 +0000">
 		<title>Le Mans Cup Highlights 2026</title>
@@ -26352,8 +26357,8 @@
 		<icon src="https://poster.starhubgo.com/poster/ch711_cnn_newsroom.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="711" start="20260603090000 +0000" stop="20260603100000 +0000">
-		<title>CNN Headline Express</title>
-		<desc>The biggest headlines and most buzzworthy stories with live updates throughout the day.</desc>
+		<title>CNN This Morning</title>
+		<desc>Start your day with Audie Cornish bringing you the latest headlines and analysis.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch711_cnn_headline_express.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="711" start="20260603100000 +0000" stop="20260603110000 +0000">
