@@ -6530,7 +6530,12 @@
 		<desc>Musical Reality show</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/139_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="139" start="20260606163000 +0000" stop="20260606170000 +0000">
+	<programme channel="139" start="20260606163000 +0000" stop="20260606165000 +0000">
+		<title>Star Singer Season 10</title>
+		<desc>Musical Reality show</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/139_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="139" start="20260606165000 +0000" stop="20260606170000 +0000">
 		<title>Star Singer Season 10</title>
 		<desc>Musical Reality show</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/139_1920x1080_HTV.png?w=341&amp;h=192" />
@@ -11036,12 +11041,12 @@
 		<icon src="https://poster.starhubgo.com/poster/ch214_UCL_specials.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="214" start="20260607200000 +0000" stop="20260607203000 +0000">
-		<title>Mini Match - TotalEnergies Africa Cup of Nations, Morocco 2025 Morocco vs Tanzan</title>
+		<title>Mini Match - TotalEnergies Africa Cup of Nations, Morocco 2025 Morocco vs Tanzania</title>
 		<desc>Catch the 35th edition of the Africa Cup of Nations, hosted in Morocco. Can defending champions Ivory Coast hold on to their crown?</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch214_Mini_Match_TotalEnergies_Africa_Cup_of_Nations_Morocco_2025.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="214" start="20260607203000 +0000" stop="20260607210000 +0000">
-		<title>Mini Match - TotalEnergies Africa Cup of Nations, Morocco 2025 South Africa vs C</title>
+		<title>Mini Match - TotalEnergies Africa Cup of Nations, Morocco 2025 South Africa vs Cameroon</title>
 		<desc>Catch the 35th edition of the Africa Cup of Nations, hosted in Morocco. Can defending champions Ivory Coast hold on to their crown?</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch214_Mini_Match_TotalEnergies_Africa_Cup_of_Nations_Morocco_2025.jpg?w=960&amp;h=540" />
 	</programme>
@@ -11056,7 +11061,7 @@
 		<icon src="https://poster.starhubgo.com/poster/ch214_sail_gp.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="214" start="20260608003000 +0000" stop="20260608022000 +0000">
-		<title>Pacific Nations Cup 2025: Canada vs USA</title>
+		<title>Pacific Nations Cup 2025 Canada vs USA</title>
 		<desc>The Pacific Nations Cup is an international rugby union competition held between Fiji, Samoa, Tonga, Canada, Japan and the United States, battling it out for glory and direct qualification for Men's Rugby World Cup 2027 in Australia.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch214_Pacific_Nations_Cup.jpg?w=960&amp;h=540" />
 	</programme>
@@ -11066,14 +11071,14 @@
 		<icon src="https://poster.starhubgo.com/poster/ch214_UCL_classic_matches.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="214" start="20260608023000 +0000" stop="20260608042000 +0000">
-		<title>Total Women's Africa Cup of Nations, Morocco 2024: Morocco vs Zambia</title>
+		<title>Total Women's Africa Cup of Nations, Morocco 2024 Morocco vs Zambia</title>
 		<desc>beIN SPORTS brings you coverage from the 15th edition of the Africa Women Cup of Nations in Morocco.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch214_Womens_AFCON_Morocco_2024.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="214" start="20260608042000 +0000" stop="20260608061000 +0000">
-		<title>TotalEnergies CAF Champions League 2025/26: Al Hilal Club vs MC Alger</title>
-		<desc>Watch the top clubs from Africa's football league battle it out in the CAF Champions League.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch214_caf_champions_league.jpg?w=341&amp;h=192" />
+		<title>TotalEnergies CAF Champions League 2025/26 Al Hilal Club vs MC Alger</title>
+		<desc>Al Hilal SC takes on MC Alger in an intense Group C clash from the 2025/26 TotalEnergies CAF Champions League group stage.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch214_caf_champions_league?w=341&amp;h=192" />
 	</programme>
 	<programme channel="214" start="20260608061000 +0000" stop="20260608063000 +0000">
 		<title>MUTV: One Love</title>
@@ -11081,7 +11086,7 @@
 		<icon src="https://poster.starhubgo.com/poster/ch214_mutv.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="214" start="20260608063000 +0000" stop="20260608083000 +0000">
-		<title>UCI World Tour 2026: Tour Auvergne-Rhone-Alpes Stage 1</title>
+		<title>UCI World Tour 2026</title>
 		<desc>The highest level of professional road cycling, a series of elite races for men.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch214_uci_world_tour_2026.jpg?w=341&amp;h=192" />
 	</programme>
@@ -11102,11 +11107,11 @@
 	</programme>
 	<programme channel="214" start="20260608122500 +0000" stop="20260608132000 +0000">
 		<title>UEFA Champions League Highlights 2025/26</title>
-		<desc>Donâ€™t miss any of the action with the official UEFA Champions League highlights show</desc>
+		<desc>Don't miss any of the action with the official UEFA Champions League highlights show</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch214_UCL_hIghlights.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="214" start="20260608132000 +0000" stop="20260608152000 +0000">
-		<title>UCI World Tour 2026: Tour Auvergne-Rhone-Alpes Stage 2 (Live)</title>
+		<title>UCI World Tour 2026 (Live)</title>
 		<desc>The highest level of professional road cycling, a series of elite races for men.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch214_uci_world_tour_2026.jpg?w=341&amp;h=192" />
 	</programme>
