@@ -1271,8 +1271,8 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/103_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="103" start="20260609043000 +0000" stop="20260609044400 +0000">
-		<title>The Wonder Shop - EP 318</title>
-		<desc>A daily blood sugar support supplement from Japan’s ITOH Kanpo. With 4 natural herbal ingredients working together, it helps slow down sugar absorption and reduce post-meal spikes. By keeping glucose levels more stable, it supports better energy, weight control, and heart health-so you can enjoy your meals without worrying about sudden sugar highs.</desc>
+		<title>The Wonder Shop - EP 311</title>
+		<desc>Made from 100% pure Tibetan Sea Buckthorn, containing over 190 nutrients. Use the Golden Serum to smooth fine lines, skin problems and wound recovery, while taking the Revive Softgels for anti-aging and and support mucous membranes. Both together rejuvenates your body inside and out, providing vital immunity and menopausal support for women, and gentle, safe care for everyone, ensuring a healthy, youthful glow for all ages.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/103_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="103" start="20260609044400 +0000" stop="20260609044600 +0000">
@@ -7620,11 +7620,6 @@
 		<desc>Metro Society Editor-in-Chief Raul Manzano takes you to his exclusive travel, fashion and food escapades domestically and internationally, giving you a feel of the VIP treatment in his personalised accommodations and trips!</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/143_1920x1080_HTV.png?w=960&amp;h=540" />
 	</programme>
-	<programme channel="143" start="20260607173000 +0000" stop="20260607180000 +0000">
-		<title>Metro Home</title>
-		<desc>Get inspiration for your home as we visit different stylish and creative living spaces in the metro!</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/143_1920x1080_HTV.png?w=960&amp;h=540" />
-	</programme>
 	<programme channel="143" start="20260607180000 +0000" stop="20260607183000 +0000">
 		<title>The Ube Revolution</title>
 		<desc>ANC brings you news updates and breaking news from the Philippines, as well as cultural and religious progamming.</desc>
@@ -7716,7 +7711,7 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/143_1920x1080_HTV.png?w=960&amp;h=540" />
 	</programme>
 	<programme channel="143" start="20260608033000 +0000" stop="20260608040000 +0000">
-		<title>Ano Na, Bev</title>
+		<title>Ano Na Bev?</title>
 		<desc>Enjoy the best expressed views with award-winning journalist Bev Llorente.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/143_1920x1080_HTV.png?w=960&amp;h=540" />
 	</programme>
@@ -7746,7 +7741,7 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/143_1920x1080_HTV.png?w=960&amp;h=540" />
 	</programme>
 	<programme channel="143" start="20260608080000 +0000" stop="20260608083000 +0000">
-		<title>The A-List</title>
+		<title>Succession</title>
 		<desc>ANC brings you news updates and breaking news from the Philippines, as well as cultural and religious progamming.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/143_1920x1080_HTV.png?w=960&amp;h=540" />
 	</programme>
@@ -7775,7 +7770,12 @@
 		<desc>Take an inside look at modern Israel, including stories of what Israel has accomplished with regard to technology, innovation, faith, and more.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/143_1920x1080_HTV.png?w=960&amp;h=540" />
 	</programme>
-	<programme channel="143" start="20260608110000 +0000" stop="20260608120000 +0000">
+	<programme channel="143" start="20260608110000 +0000" stop="20260608113000 +0000">
+		<title>24x24</title>
+		<desc>This programme chronicles the 24-hour life cycle of real women, capturing their habits, hobbies, hacks, personal styles, daily challenges, little victories, intimate relationships and professional networks - all presented in a 24-minute timeline.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/143_1920x1080_HTV.png?w=960&amp;h=540" />
+	</programme>
+	<programme channel="143" start="20260608113000 +0000" stop="20260608120000 +0000">
 		<title>24x24</title>
 		<desc>This programme chronicles the 24-hour life cycle of real women, capturing their habits, hobbies, hacks, personal styles, daily challenges, little victories, intimate relationships and professional networks - all presented in a 24-minute timeline.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/143_1920x1080_HTV.png?w=960&amp;h=540" />
@@ -7800,14 +7800,14 @@
 		<desc>Executive Class is an award-winning luxury lifestyle and travel programme hosted by veteran broadcast journalist David Celdran.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/143_1920x1080_HTV.png?w=960&amp;h=540" />
 	</programme>
-	<programme channel="143" start="20260608140000 +0000" stop="20260608144500 +0000">
-		<title>Bini: Walo Hanggang Disyerto</title>
-		<desc>ANC brings you news updates and breaking news from the Philippines, as well as cultural and religious progamming.</desc>
+	<programme channel="143" start="20260608140000 +0000" stop="20260608143000 +0000">
+		<title>Anc Presents</title>
+		<desc>ANC Presents delivers in-depth reports and compelling human-interest stories that explore social, political and cultural issues shaping the Philippines and beyond. It aims to inform, engage and inspire viewers with meaningful narratives behind the headlin</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/143_1920x1080_HTV.png?w=960&amp;h=540" />
 	</programme>
-	<programme channel="143" start="20260608144500 +0000" stop="20260608150000 +0000">
-		<title>Think Possible</title>
-		<desc>ANC brings you news updates and breaking news from the Philippines, as well as cultural and religious progamming.</desc>
+	<programme channel="143" start="20260608143000 +0000" stop="20260608150000 +0000">
+		<title>Banker After Dark</title>
+		<desc>Stephen Cuunjieng gets up close and personal with various industry leaders for some insightful and entertaining conversations.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/143_1920x1080_HTV.png?w=960&amp;h=540" />
 	</programme>
 	<programme channel="143" start="20260608150000 +0000" stop="20260608160000 +0000">
@@ -7836,7 +7836,7 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/143_1920x1080_HTV.png?w=960&amp;h=540" />
 	</programme>
 	<programme channel="143" start="20260608183000 +0000" stop="20260608190000 +0000">
-		<title>The A-List</title>
+		<title>Succession</title>
 		<desc>ANC brings you news updates and breaking news from the Philippines, as well as cultural and religious progamming.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/143_1920x1080_HTV.png?w=960&amp;h=540" />
 	</programme>
@@ -7895,11 +7895,6 @@
 		<desc>The Business Outlook gives viewers a rundown of the top business stories of the day. The show takes you beyond the headlines, hearing from people whose opinions matter and giving you an inside track on how the business world is shaping up.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/143_1920x1080_HTV.png?w=960&amp;h=540" />
 	</programme>
-	<programme channel="143" start="20260609013000 +0000" stop="20260609020000 +0000">
-		<title>Market Edge</title>
-		<desc>Market Edge brings you the latest news in the stock market and currencies, while giving you a comprehensive look at economic developments all around Asia.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/143_1920x1080_HTV.png?w=960&amp;h=540" />
-	</programme>
 	<programme channel="143" start="20260609020000 +0000" stop="20260609021500 +0000">
 		<title>Most Beautiful Homes</title>
 		<desc>ANC brings you news updates and breaking news from the Philippines, as well as cultural and religious progamming.</desc>
@@ -7920,11 +7915,6 @@
 		<desc>Germany is becoming a crossroads for the creative scene of the 21st century. Dive deep into the artistic process on Arts. 21.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/143_1920x1080_HTV.png?w=960&amp;h=540" />
 	</programme>
-	<programme channel="143" start="20260609033000 +0000" stop="20260609040000 +0000">
-		<title>Insights: Israel And Middle East</title>
-		<desc>Take an inside look at modern Israel, including stories of what Israel has accomplished with regard to technology, innovation, faith, and more.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/143_1920x1080_HTV.png?w=960&amp;h=540" />
-	</programme>
 	<programme channel="143" start="20260609040000 +0000" stop="20260609050000 +0000">
 		<title>Dateline Philippines</title>
 		<desc>Equipped by the most extensive news gathering group in the Philippines, Dateline Philippines ensures that no story is overlooked and that no one is forgotten.</desc>
@@ -7938,11 +7928,6 @@
 	<programme channel="143" start="20260609060000 +0000" stop="20260609063000 +0000">
 		<title>Made In Germany</title>
 		<desc>This programme examines the risks and benefits of digitalization and its impact on the way we work, what we earn and how we live.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/143_1920x1080_HTV.png?w=960&amp;h=540" />
-	</programme>
-	<programme channel="143" start="20260609063000 +0000" stop="20260609070000 +0000">
-		<title>Executive Class</title>
-		<desc>Executive Class is an award-winning luxury lifestyle and travel programme hosted by veteran broadcast journalist David Celdran.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/143_1920x1080_HTV.png?w=960&amp;h=540" />
 	</programme>
 	<programme channel="143" start="20260609070000 +0000" stop="20260609080000 +0000">
@@ -7968,11 +7953,6 @@
 	<programme channel="143" start="20260609094500 +0000" stop="20260609100000 +0000">
 		<title>Think Possible</title>
 		<desc>ANC brings you news updates and breaking news from the Philippines, as well as cultural and religious progamming.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/143_1920x1080_HTV.png?w=960&amp;h=540" />
-	</programme>
-	<programme channel="143" start="20260609100000 +0000" stop="20260609103000 +0000">
-		<title>Beyond The Exchange</title>
-		<desc>Join veteran anchor Rico Hizon as he talks to industry leaders, entrepreneurs and experts to share their insights on everything business.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/143_1920x1080_HTV.png?w=960&amp;h=540" />
 	</programme>
 	<programme channel="143" start="20260609103000 +0000" stop="20260609110000 +0000">
@@ -9047,12 +9027,12 @@
 	</programme>
 	<programme channel="153" start="20260608000200 +0000" stop="20260608003000 +0000">
 		<title>Euromaxx</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+		<desc>Gaudí’s Sagrada Família is one of Barcelona’s defining landmarks. Plus: Germany’s largest Hindu temple, and Poland’s favorite comfort food, bigos.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20260608003000 +0000" stop="20260608010000 +0000">
 		<title>Global Us</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+		<desc>A tourist hotspot turned into a danger zone as bears came daily. Now the town is a success story. Plus: How a German village got dirt cheap energy prices. And Ethiopia's stilt walkers balance tradition and modernity.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20260608010000 +0000" stop="20260608010200 +0000">
@@ -9072,7 +9052,7 @@
 	</programme>
 	<programme channel="153" start="20260608014500 +0000" stop="20260608020000 +0000">
 		<title>Reporter</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+		<desc>Russia is using foreign fighters in its war against Ukraine. Often, they are from poorer countries in Africa, Asia, and Latin America.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20260608020000 +0000" stop="20260608020200 +0000">
@@ -9082,12 +9062,12 @@
 	</programme>
 	<programme channel="153" start="20260608020200 +0000" stop="20260608023000 +0000">
 		<title>Eco India</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+		<desc>Coal dust poses a health risk to people in India's mining regions. Local women are taking it on. The economic impact of extreme weather. And: Alpine olives!</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20260608023000 +0000" stop="20260608030000 +0000">
-		<title>Best of DW Podcasts</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+		<title>Under the Baobab</title>
+		<desc>Ghana's national team has shown worrying signs in recent international friendlies, with many pointing to inconsistent and chaotic preparations. But with World Cup 2026 approaching and Africa set to send an expanded group of 10 teams to the global stage, the stakes have never been higher. Are Ghana's Black Stars ready to rise, or heading into another storm?</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20260608030000 +0000" stop="20260608030200 +0000">
@@ -9102,7 +9082,7 @@
 	</programme>
 	<programme channel="153" start="20260608033000 +0000" stop="20260608040000 +0000">
 		<title>Euromaxx</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+		<desc>Gaudí’s Sagrada Família is one of Barcelona’s defining landmarks. Plus: Germany’s largest Hindu temple, and Poland’s favorite comfort food, bigos.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20260608040000 +0000" stop="20260608040200 +0000">
@@ -9117,12 +9097,12 @@
 	</programme>
 	<programme channel="153" start="20260608041500 +0000" stop="20260608044500 +0000">
 		<title>Global Us</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+		<desc>A tourist hotspot turned into a danger zone as bears came daily. Now the town is a success story. Plus: How a German village got dirt cheap energy prices. And Ethiopia's stilt walkers balance tradition and modernity.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20260608044500 +0000" stop="20260608050000 +0000">
 		<title>Reporter</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+		<desc>Russia is using foreign fighters in its war against Ukraine. Often, they are from poorer countries in Africa, Asia, and Latin America.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20260608050000 +0000" stop="20260608050200 +0000">
@@ -9186,8 +9166,8 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20260608083000 +0000" stop="20260608090000 +0000">
-		<title>Best of DW Podcasts</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+		<title>Under the Baobab</title>
+		<desc>Ghana's national team has shown worrying signs in recent international friendlies, with many pointing to inconsistent and chaotic preparations. But with World Cup 2026 approaching and Africa set to send an expanded group of 10 teams to the global stage, the stakes have never been higher. Are Ghana's Black Stars ready to rise, or heading into another storm?</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20260608090000 +0000" stop="20260608090200 +0000">
@@ -9216,7 +9196,7 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20260608101500 +0000" stop="20260608110000 +0000">
-		<title>DocFilm</title>
+		<title>DocFilm: The Chinese Dream - 24 Hours in Young China</title>
 		<desc>What do young Chinese people dream of? What hopes and goals do they have? Do the grandchildren of the "rising generation" still believe in progress through work, and prosperity for all? Or do they have different values?</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
@@ -9232,7 +9212,7 @@
 	</programme>
 	<programme channel="153" start="20260608113000 +0000" stop="20260608120000 +0000">
 		<title>Global Us</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+		<desc>A tourist hotspot turned into a danger zone as bears came daily. Now the town is a success story. Plus: How a German village got dirt cheap energy prices. And Ethiopia's stilt walkers balance tradition and modernity.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20260608120000 +0000" stop="20260608120200 +0000">
@@ -9261,8 +9241,8 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20260608131500 +0000" stop="20260608133000 +0000">
-		<title>Best of DW-online Content</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+		<title>The Dip</title>
+		<desc>German companies once saw Russia as a key market, built on decades of trade, energy ties, and mutual dependence. But since the invasion of Ukraine, that relationship has unraveled.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20260608133000 +0000" stop="20260608140000 +0000">
@@ -9292,7 +9272,7 @@
 	</programme>
 	<programme channel="153" start="20260608153000 +0000" stop="20260608160000 +0000">
 		<title>Global Us</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+		<desc>A tourist hotspot turned into a danger zone as bears came daily. Now the town is a success story. Plus: How a German village got dirt cheap energy prices. And Ethiopia's stilt walkers balance tradition and modernity.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20260608160000 +0000" stop="20260608163000 +0000">
@@ -9311,13 +9291,13 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20260608171500 +0000" stop="20260608173000 +0000">
-		<title>Best of DW-online Content</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+		<title>The Dip</title>
+		<desc>German companies once saw Russia as a key market, built on decades of trade, energy ties, and mutual dependence. But since the invasion of Ukraine, that relationship has unraveled.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20260608173000 +0000" stop="20260608180000 +0000">
 		<title>Arts Unveiled</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+		<desc>The meteoric rise of genre-busting pop icon Rosalía. The collapse of the Soviet Union as told through detailed eyewitness accounts. And: Beastie Boys founder Mike D’s tribute to "mishpocha."</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20260608180000 +0000" stop="20260608183000 +0000">
@@ -9327,7 +9307,7 @@
 	</programme>
 	<programme channel="153" start="20260608183000 +0000" stop="20260608190000 +0000">
 		<title>Close up</title>
-		<desc>The weekly half-hour program delivers in-depth reporting on topical political issues and newsworthy events. Revealing the story behind the stories, "Close up" is informative, gripping and visually powerful.</desc>
+		<desc>Right-wing extremist parties are much less popular among women than men. In Germany, one women's organization aims to change that. It offers harmless lifestyle tips alongside xenophobic messaging.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20260608190000 +0000" stop="20260608190200 +0000">
@@ -9341,13 +9321,13 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20260608191500 +0000" stop="20260608193000 +0000">
-		<title>Best of DW-online Content</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+		<title>The Dip</title>
+		<desc>German companies once saw Russia as a key market, built on decades of trade, energy ties, and mutual dependence. But since the invasion of Ukraine, that relationship has unraveled.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20260608193000 +0000" stop="20260608200000 +0000">
-		<title>Best of DW Podcasts</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+		<title>Under the Baobab</title>
+		<desc>Ghana's national team has shown worrying signs in recent international friendlies, with many pointing to inconsistent and chaotic preparations. But with World Cup 2026 approaching and Africa set to send an expanded group of 10 teams to the global stage, the stakes have never been higher. Are Ghana's Black Stars ready to rise, or heading into another storm?</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20260608200000 +0000" stop="20260608203000 +0000">
@@ -9401,13 +9381,13 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20260608231500 +0000" stop="20260608233000 +0000">
-		<title>Best of DW-online Content</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+		<title>The Dip</title>
+		<desc>German companies once saw Russia as a key market, built on decades of trade, energy ties, and mutual dependence. But since the invasion of Ukraine, that relationship has unraveled.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20260608233000 +0000" stop="20260609000000 +0000">
 		<title>Close up</title>
-		<desc>The weekly half-hour program delivers in-depth reporting on topical political issues and newsworthy events. Revealing the story behind the stories, "Close up" is informative, gripping and visually powerful.</desc>
+		<desc>Right-wing extremist parties are much less popular among women than men. In Germany, one women's organization aims to change that. It offers harmless lifestyle tips alongside xenophobic messaging.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20260609000000 +0000" stop="20260609000200 +0000">
@@ -10250,6 +10230,11 @@
 		<desc>The 2025/26 FA Cup is the 145th season of the Football Association Challenge Cup, the oldest football tournament in the world, and is the main domestic cup competition for men's football teams in England.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch202_BRC_BUA.jpg?w=341&amp;h=192" />
 	</programme>
+	<programme channel="202" start="20260609020000 +0000" stop="20260609023000 +0000">
+		<title>Total Combat 2026</title>
+		<desc>The first of its kind program covering all disciplines of combat sports including MMA, boxing, kickboxing, muay thai and more.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch202_total_combat_2024.jpg?w=341&amp;h=192" />
+	</programme>
 	<programme channel="202" start="20260609023000 +0000" stop="20260609043000 +0000">
 		<title>Singapore Premier League 2025/26 Geylang International FC vs Hougang United FC</title>
 		<desc>Catch the 2025/26 Singapore Premier League as top football clubs battle for glory in Singapore's premier competition. Defending champions Lion City Sailors return to defend their title in the league's 8th season since its 2018 rebranding.</desc>
@@ -10891,7 +10876,7 @@
 		<icon src="https://poster.starhubgo.com/poster/ch211_premier_padel.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="211" start="20260608190000 +0000" stop="20260608193000 +0000">
-		<title>UCI World Tour H/L 2026</title>
+		<title>UCI World Tour H/Ls 2026</title>
 		<desc>Highlights of the premier men's elite road cycling tour.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_uci_world_tour_2026.jpg?w=341&amp;h=192" />
 	</programme>
@@ -11286,7 +11271,7 @@
 		<icon src="https://poster.starhubgo.com/poster/ch214_sail_gp.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="214" start="20260608003000 +0000" stop="20260608022000 +0000">
-		<title>Pacific Nations Cup 2025 Canada vs USA</title>
+		<title>Pacific Nations Cup 2025: Canada vs USA</title>
 		<desc>The Pacific Nations Cup is an international rugby union competition held between Fiji, Samoa, Tonga, Canada, Japan and the United States, battling it out for glory and direct qualification for Men's Rugby World Cup 2027 in Australia.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch214_Pacific_Nations_Cup.jpg?w=960&amp;h=540" />
 	</programme>
@@ -11296,22 +11281,22 @@
 		<icon src="https://poster.starhubgo.com/poster/ch214_UCL_classic_matches.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="214" start="20260608023000 +0000" stop="20260608042000 +0000">
-		<title>Total Women's Africa Cup of Nations, Morocco 2024 Morocco vs Zambia</title>
+		<title>Total Women's Africa Cup of Nations, Morocco 2024: Morocco vs Zambia</title>
 		<desc>beIN SPORTS brings you coverage from the 15th edition of the Africa Women Cup of Nations in Morocco.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch214_Womens_AFCON_Morocco_2024.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="214" start="20260608042000 +0000" stop="20260608061000 +0000">
-		<title>TotalEnergies CAF Champions League 2025/26 Al Hilal Club vs MC Alger</title>
-		<desc>Al Hilal SC takes on MC Alger in an intense Group C clash from the 2025/26 TotalEnergies CAF Champions League group stage.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch214_caf_champions_league?w=341&amp;h=192" />
+		<title>TotalEnergies CAF Champions League 2025/26: Al Hilal Club vs MC Alger</title>
+		<desc>Watch the top clubs from Africa's football league battle it out in the CAF Champions League.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch214_caf_champions_league.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="214" start="20260608061000 +0000" stop="20260608063000 +0000">
 		<title>MUTV: One Love</title>
 		<desc>Go behind the scenes with some of our most dedicated supportersâ€™ clubs, to uncover the fascinating stories, experiences and sacrifices these fans make to follow the club.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch214_mutv.jpg?w=960&amp;h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch214_mutv.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="214" start="20260608063000 +0000" stop="20260608083000 +0000">
-		<title>UCI World Tour 2026</title>
+		<title>UCI World Tour 2026: Tour Auvergne-Rhone-Alpes Stage 1</title>
 		<desc>The highest level of professional road cycling, a series of elite races for men.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch214_uci_world_tour_2026.jpg?w=341&amp;h=192" />
 	</programme>
@@ -11332,11 +11317,11 @@
 	</programme>
 	<programme channel="214" start="20260608122500 +0000" stop="20260608132000 +0000">
 		<title>UEFA Champions League Highlights 2025/26</title>
-		<desc>Don't miss any of the action with the official UEFA Champions League highlights show</desc>
+		<desc>Donâ€™t miss any of the action with the official UEFA Champions League highlights show</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch214_UCL_hIghlights.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="214" start="20260608132000 +0000" stop="20260608152000 +0000">
-		<title>UCI World Tour 2026 (Live)</title>
+		<title>UCI World Tour 2026: Tour Auvergne-Rhone-Alpes Stage 2 (Live)</title>
 		<desc>The highest level of professional road cycling, a series of elite races for men.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch214_uci_world_tour_2026.jpg?w=341&amp;h=192" />
 	</programme>
@@ -11353,7 +11338,7 @@
 	<programme channel="214" start="20260608160000 +0000" stop="20260608170000 +0000">
 		<title>SailGP Highlights 2026</title>
 		<desc>Catch up with highlights, review and behind-the-scenes action from the latest season of SailGP</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch214_serie_a_highlights.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch214_sail_gp_highlights.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="214" start="20260608170000 +0000" stop="20260608185000 +0000">
 		<title>Reignwood Icons of Football 2026: Tournament Highlights</title>
@@ -11376,7 +11361,7 @@
 		<icon src="https://poster.starhubgo.com/poster/ch214_Mini_Match_TotalEnergies_Africa_Cup_of_Nations_Morocco_2025.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="214" start="20260608203000 +0000" stop="20260608210000 +0000">
-		<title>Mini Match - TotalEnergies Africa Cup of Nations, Morocco 2025: Nigeria vs Mozambique</title>
+		<title>Mini Match - TotalEnergies Africa Cup of Nations, Morocco 2025: Nigeria vs Mozam</title>
 		<desc>Catch the 35th edition of the Africa Cup of Nations, hosted in Morocco. Can defending champions Ivory Coast hold on to their crown?</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch214_Mini_Match_TotalEnergies_Africa_Cup_of_Nations_Morocco_2025.jpg?w=960&amp;h=540" />
 	</programme>
@@ -12648,102 +12633,102 @@
 	<programme channel="251" start="20260608040000 +0000" stop="20260608043000 +0000">
 		<title>The Contenders 26 - EP 25</title>
 		<desc>Croatia are recent World Cup specialists, Moises Caicedo is living up to his huge price tag, and we analyse the Group Stage draw.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_Channels2/251_1920x1080_HTV.png?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch251_the_contenders_26.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="251" start="20260608043000 +0000" stop="20260608050000 +0000">
 		<title>The Contenders 26 - EP 26</title>
 		<desc>France boast the most complete squad in the world, Sadio Mané is Senegal's superstar, and we check out host city Monterrey.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_Channels2/251_1920x1080_HTV.png?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch251_the_contenders_26.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="251" start="20260608050000 +0000" stop="20260608053000 +0000">
 		<title>The Contenders 26 - EP 27</title>
 		<desc>Saudi Arabia are a growing force in world football, Erling Haaland fired Norway to the World Cup for the first time this century, and Panama will be one of the toughest teams at the finals.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_Channels2/251_1920x1080_HTV.png?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch251_the_contenders_26.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="251" start="20260608053000 +0000" stop="20260608060000 +0000">
 		<title>The Contenders 26 - EP 28</title>
 		<desc>Belgium hope their golden generation can make one final push for glory, Martin Odegaard is Norway's natural born leader.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_Channels2/251_1920x1080_HTV.png?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch251_the_contenders_26.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="251" start="20260608060000 +0000" stop="20260608063000 +0000">
 		<title>The Contenders 26 - EP 29</title>
 		<desc>Switzerland are qualification masters, Virgil van Dijk might be the best defender in the world, and Haiti will bring their unique culture to the global stage.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_Channels2/251_1920x1080_HTV.png?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch251_the_contenders_26.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="251" start="20260608063000 +0000" stop="20260608070000 +0000">
 		<title>The Contenders 26 - EP 30</title>
 		<desc>Bafana Bafana return for the first time since hosting in 2010, Austria are reborn under Ralf Rangnick, and Kevin de Bruyne is renewed following his move to Napoli.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_Channels2/251_1920x1080_HTV.png?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch251_the_contenders_26.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="251" start="20260608070000 +0000" stop="20260608073000 +0000">
 		<title>The Contenders 26 - EP 31</title>
 		<desc>The Netherlands remain the greatest football nation never to win the World Cup, Florian Wirtz is Germany's latest superstar.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_Channels2/251_1920x1080_HTV.png?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch251_the_contenders_26.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="251" start="20260608073000 +0000" stop="20260608080000 +0000">
 		<title>The Contenders 26 - EP 32</title>
 		<desc>Scotland will bring the Tartan Army to North America, Curacao will be the tiniest nation at the Finals, Memphis Depay will bid to add to his record haul of goals for the Netherlands.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_Channels2/251_1920x1080_HTV.png?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch251_the_contenders_26.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="251" start="20260608080000 +0000" stop="20260608083000 +0000">
 		<title>Football's Greatest Stage - EP 1</title>
 		<desc>Captaining Argentina to glory at the 2022 World Cup cemented Lionel Messi's status as the greatest footballer in history.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_Channels2/251_1920x1080_HTV.png?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch251_footballs_greatest_stage.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="251" start="20260608083000 +0000" stop="20260608090000 +0000">
 		<title>Football's Greatest Stage - EP 2</title>
 		<desc>No individual has dominated a single World Cup like Diego Maradona dominated Mexico 1986.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_Channels2/251_1920x1080_HTV.png?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch251_footballs_greatest_stage.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="251" start="20260608090000 +0000" stop="20260608093000 +0000">
 		<title>Football's Greatest Stage - EP 3</title>
 		<desc>A World Cup winner as a teenager, then the scorer of a World Cup final hat-trick, Kylian Mbappe is French footballing royalty.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_Channels2/251_1920x1080_HTV.png?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch251_footballs_greatest_stage.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="251" start="20260608093000 +0000" stop="20260608100000 +0000">
 		<title>Football's Greatest Stage - EP 4</title>
 		<desc>Brazil's poster boy of the 1990s, Ronaldo was ice cold in front of goal on the biggest stage.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_Channels2/251_1920x1080_HTV.png?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch251_footballs_greatest_stage.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="251" start="20260608100000 +0000" stop="20260608103000 +0000">
 		<title>Football's Greatest Stage - EP 5</title>
 		<desc>Portugal's Eusebio is one of the most potent goalscorers in World Cup history.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_Channels2/251_1920x1080_HTV.png?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch251_footballs_greatest_stage.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="251" start="20260608103000 +0000" stop="20260608110000 +0000">
 		<title>The Contenders 26 - EP 25</title>
 		<desc>Croatia are recent World Cup specialists, Moises Caicedo is living up to his huge price tag, and we analyse the Group Stage draw.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_Channels2/251_1920x1080_HTV.png?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch251_the_contenders_26.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="251" start="20260608110000 +0000" stop="20260608113000 +0000">
 		<title>The Contenders 26 - EP 26</title>
 		<desc>France boast the most complete squad in the world, Sadio Mané is Senegal's superstar, and we check out host city Monterrey.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_Channels2/251_1920x1080_HTV.png?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch251_the_contenders_26.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="251" start="20260608113000 +0000" stop="20260608120000 +0000">
 		<title>The Contenders 26 - EP 27</title>
 		<desc>Saudi Arabia are a growing force in world football, Erling Haaland fired Norway to the World Cup for the first time this century, and Panama will be one of the toughest teams at the finals.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_Channels2/251_1920x1080_HTV.png?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch251_the_contenders_26.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="251" start="20260608120000 +0000" stop="20260608123000 +0000">
 		<title>The Contenders 26 - EP 28</title>
 		<desc>Belgium hope their golden generation can make one final push for glory, Martin Odegaard is Norway's natural born leader.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_Channels2/251_1920x1080_HTV.png?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch251_the_contenders_26.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="251" start="20260608123000 +0000" stop="20260608130000 +0000">
 		<title>The Contenders 26 - EP 29</title>
 		<desc>Switzerland are qualification masters, Virgil van Dijk might be the best defender in the world, and Haiti will bring their unique culture to the global stage.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_Channels2/251_1920x1080_HTV.png?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch251_the_contenders_26.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="251" start="20260608130000 +0000" stop="20260608133000 +0000">
 		<title>The Contenders 26 - EP 30</title>
 		<desc>Bafana Bafana return for the first time since hosting in 2010, Austria are reborn under Ralf Rangnick, and Kevin de Bruyne is renewed following his move to Napoli.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_Channels2/251_1920x1080_HTV.png?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch251_the_contenders_26.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="251" start="20260608133000 +0000" stop="20260608140000 +0000">
 		<title>The Contenders 26 - EP 31</title>
 		<desc>The Netherlands remain the greatest football nation never to win the World Cup, Florian Wirtz is Germany's latest superstar.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_Channels2/251_1920x1080_HTV.png?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch251_the_contenders_26.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="251" start="20260608140000 +0000" stop="20260608160000 +0000">
 		<title>Programme not available.</title>
@@ -12860,6 +12845,11 @@
 		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_Channels2/251_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
+	<programme channel="252" start="20260607160000 +0000" stop="20260607220000 +0000">
+		<title>No Transmission</title>
+		<desc />
+		<icon src="https://poster.starhubgo.com/Linear_Channels2/252_1920x1080_HTV.png?w=960&amp;h=540" />
+	</programme>
 	<programme channel="252" start="20260607220000 +0000" stop="20260608040000 +0000">
 		<title>No Transmission</title>
 		<desc />
@@ -12881,6 +12871,16 @@
 		<icon src="https://poster.starhubgo.com/Linear_Channels2/252_1920x1080_HTV.png?w=960&amp;h=540" />
 	</programme>
 	<programme channel="252" start="20260608220000 +0000" stop="20260609040000 +0000">
+		<title>No Transmission</title>
+		<desc />
+		<icon src="https://poster.starhubgo.com/Linear_Channels2/252_1920x1080_HTV.png?w=960&amp;h=540" />
+	</programme>
+	<programme channel="252" start="20260609040000 +0000" stop="20260609100000 +0000">
+		<title>No Transmission</title>
+		<desc />
+		<icon src="https://poster.starhubgo.com/Linear_Channels2/252_1920x1080_HTV.png?w=960&amp;h=540" />
+	</programme>
+	<programme channel="252" start="20260609100000 +0000" stop="20260609160000 +0000">
 		<title>No Transmission</title>
 		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_Channels2/252_1920x1080_HTV.png?w=960&amp;h=540" />
@@ -30155,39 +30155,14 @@
 		<desc>The 114th drama serial follows two women, Rin (Mikami Ai) and Naomi (Kosaka Juri), who paved the way for nursing in the Meiji era. Each carries her own struggles, yet together they support one another as they race to protect the wounded and vulnerable, often standing up against powerful forces. Through conflicts and hardships, the two gradually grow. No matter which way the wind blows, this unconventional duo continues their journey in search of happiness.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="811" start="20260607231500 +0000" stop="20260608005400 +0000">
+	<programme channel="811" start="20260607231500 +0000" stop="20260608000600 +0000">
 		<title>asaichi</title>
 		<desc>Looking into topical information ranging from social issues to entertainment news through the eyes of the general public.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="811" start="20260608005400 +0000" stop="20260608005500 +0000">
-		<title>World Weather</title>
-		<desc>Weather information of the different areas around the world.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="811" start="20260608005500 +0000" stop="20260608010000 +0000">
-		<title>Exercise for Everyone</title>
-		<desc>An easy-to-do exercise program for everyone from children to the elderly.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="811" start="20260608010000 +0000" stop="20260608010500 +0000">
-		<title>News &amp; Weather</title>
-		<desc>The latest up-to-date news and nationwide weather information.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="811" start="20260608010500 +0000" stop="20260608020500 +0000">
-		<title>Curious World Traveler "Havana, Cuba"</title>
-		<desc>For those who once loved to travel but hesitate amid a weak yen, daily concerns, and an uncertain world, this program offers a virtual escape. Experience a luxury three-day journey abroad-without leaving home. This time, the destination is Havana, Cuba, where actor Ihara Rikka explores its colorful streets and vibrant culture over three days. Local experts introduce the best food, music, shopping, and hidden gems.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="811" start="20260608020500 +0000" stop="20260608025000 +0000">
-		<title>Drama 10 "Mojiko Tenderness Brothers" Ep. 6 (R)</title>
-		<desc>Set at a convenience store in Mojiko, Kitakyushu, this story follows an unlikely pair: a strikingly handsome manager and a wild, enigmatic man who seems able to handle anything. Together, they take on impossible problems, unfolding a tale filled with humor, mystery, and heartfelt human drama.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="811" start="20260608025000 +0000" stop="20260608025500 +0000">
-		<title>Songs for Everyone</title>
-		<desc>A song program where children can sing along by reading the lyrics on the screen.</desc>
+	<programme channel="811" start="20260608000600 +0000" stop="20260608025500 +0000">
+		<title>News</title>
+		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="811" start="20260608025500 +0000" stop="20260608030000 +0000">
@@ -30195,24 +30170,9 @@
 		<desc>Weather information of the different areas around the world.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="811" start="20260608030000 +0000" stop="20260608032000 +0000">
+	<programme channel="811" start="20260608030000 +0000" stop="20260608034500 +0000">
 		<title>News</title>
 		<desc>The latest up-to-date news from Tokyo.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="811" start="20260608032000 +0000" stop="20260608032800 +0000">
-		<title>Information Worth Knowing from the News Commentator Bureau</title>
-		<desc>The commentators present trending news, its background, and engaging information related to daily life in an easy-to -understand manner.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="811" start="20260608032800 +0000" stop="20260608033000 +0000">
-		<title>Mini Program</title>
-		<desc />
-		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="811" start="20260608033000 +0000" stop="20260608034500 +0000">
-		<title>Drama Serial "Massan" Encore Ep. 114</title>
-		<desc>Masaharu (Tamayama Tetsuji), who travels alone to Scotland to learn the art of whisky making, meets Ellie (Charlotte Kate Fox) and falls in love. Masaharu dreams of creating Japan’s first domestically produced whisky, while Ellie, who has left her homeland and come to Japan for the first time, faces a series of challenges. This is the story of love and adventure as Massan and Ellie, united by the strength of their bond, through a turbulent era with unwavering resolve.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="811" start="20260608034500 +0000" stop="20260608040000 +0000">
@@ -30220,44 +30180,14 @@
 		<desc>The 114th drama serial follows two women, Rin (Mikami Ai) and Naomi (Kosaka Juri), who paved the way for nursing in the Meiji era. Each carries her own struggles, yet together they support one another as they race to protect the wounded and vulnerable, often standing up against powerful forces. Through conflicts and hardships, the two gradually grow. No matter which way the wind blows, this unconventional duo continues their journey in search of happiness.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="811" start="20260608040000 +0000" stop="20260608040500 +0000">
+	<programme channel="811" start="20260608040000 +0000" stop="20260608071500 +0000">
 		<title>News</title>
 		<desc>The latest up-to-date news from Tokyo.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="811" start="20260608040500 +0000" stop="20260608055000 +0000">
-		<title>News Around Japan</title>
-		<desc>Program introduces the latest news from all over Japan.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="811" start="20260608055000 +0000" stop="20260608055500 +0000">
-		<title>World Weather</title>
-		<desc>Weather information of the different areas around the world.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="811" start="20260608055500 +0000" stop="20260608060000 +0000">
-		<title>Super Rare! Railroad Treasure Films</title>
-		<desc />
-		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="811" start="20260608060000 +0000" stop="20260608061000 +0000">
-		<title>News &amp; Weather</title>
-		<desc>The latest up-to-date news and nationwide weather information.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="811" start="20260608061000 +0000" stop="20260608071000 +0000">
-		<title>Curious World Traveler "Havana, Cuba" (R)</title>
-		<desc>For those who once loved to travel but hesitate amid a weak yen, daily concerns, and an uncertain world, this program offers a virtual escape. Experience a luxury three-day journey abroad-without leaving home. This time, the destination is Havana, Cuba, where actor Ihara Rikka explores its colorful streets and vibrant culture over three days. Local experts introduce the best food, music, shopping, and hidden gems.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="811" start="20260608071000 +0000" stop="20260608073500 +0000">
+	<programme channel="811" start="20260608071500 +0000" stop="20260608074000 +0000">
 		<title>Gretel's Magical Oven (R)</title>
 		<desc>Each week, a particular sweet and its recipe will be introduced along with various topics about the sweet.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="811" start="20260608073500 +0000" stop="20260608074000 +0000">
-		<title>Cruising from the Sky Mini</title>
-		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="811" start="20260608074000 +0000" stop="20260608081000 +0000">
@@ -33623,12 +33553,12 @@
 	<programme channel="838" start="20260608123000 +0000" stop="20260608133000 +0000">
 		<title>The Map Of Truth - EP 16</title>
 		<desc>Zhuang Yichen creates an online "mystery map" channel exposing the supernatural elements of Hong Kong. Skeptical influencer Bi Ping challenges his claims, sparking rivalries and revelations that force both to confront hidden truths.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch838_the_map_of_truth.jpg?w=960&amp;h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch838_the_map_of_truth_still_ep16.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="838" start="20260608133000 +0000" stop="20260608143000 +0000">
 		<title>Treasure At Dawn - EP 20</title>
 		<desc>A young doctor who is wrongly accused in a deadly case sets out to uncover the truth behind a mysterious "Heavenly Book". Along the way, he teams up with a clever noblewoman and a witty performer as they investigate a web of secrets in Liangzhou.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch838_treasure_at_dawn.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch838_treasure_at_dawn_still_ep20.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="838" start="20260608143000 +0000" stop="20260608150000 +0000">
 		<title>Lose the Battle, Win the War</title>
@@ -33813,12 +33743,12 @@
 	<programme channel="838" start="20260609123000 +0000" stop="20260609133000 +0000">
 		<title>The Map Of Truth - EP 17</title>
 		<desc>Zhuang Yichen creates an online "mystery map" channel exposing the supernatural elements of Hong Kong. Skeptical influencer Bi Ping challenges his claims, sparking rivalries and revelations that force both to confront hidden truths.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch838_the_map_of_truth.jpg?w=960&amp;h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch838_the_map_of_truth_still_ep17.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="838" start="20260609133000 +0000" stop="20260609143000 +0000">
 		<title>Treasure At Dawn - EP 21</title>
 		<desc>A young doctor who is wrongly accused in a deadly case sets out to uncover the truth behind a mysterious "Heavenly Book". Along the way, he teams up with a clever noblewoman and a witty performer as they investigate a web of secrets in Liangzhou.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch838_treasure_at_dawn.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch838_treasure_at_dawn_still_ep21.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="838" start="20260609143000 +0000" stop="20260609150000 +0000">
 		<title>Lose the Battle, Win the War</title>
