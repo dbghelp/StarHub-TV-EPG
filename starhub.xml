@@ -416,6 +416,10 @@
 		<display-name>ONE HD</display-name>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/823_1920x1080_HTV.png?w=272" />
 	</channel>
+	<channel id="824">
+		<display-name>tvN HD</display-name>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/824_1920x1080_HTV.png?w=272" />
+	</channel>
 	<channel id="825">
 		<display-name>Hub E City HD</display-name>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/825_1920x1080_HTV.png?w=272" />
@@ -2662,7 +2666,7 @@
 	</programme>
 	<programme channel="115" start="20260611102500 +0000" stop="20260611114500 +0000">
 		<title>Mahkotamu Jatuh King Of Supir Taksi</title>
-		<desc>Tells the story of the life of a beautiful girl named Lisa. It is said that Lisa always experiences bad luck in love. Starting from her boyfriend named Raka, who cheated on her with her own best friend. Until Lisa's life is turned upside down, until she becomes a car washer at a car wash. However, there is a taxi driver who has been accompanying Lisa. Until Lisa falls in love with him. Previously, Laras was the first passenger when Beni pulled a taxi. So Laras got a rose. Strangely, suddenly Beni decided to call his love with Lisa, ""I want us to break up!"" said Beni while handing the ring to Lisa. Lisa was very sad because of this, especially since Beni chose to be Lisa's friend's new boyfriend. Is all this just Lisa's nightmare, who is always cheated on by her boyfriends?</desc>
+		<desc>Tells the story of the life of a beautiful girl named Lisa. It is said that Lisa always experiences bad luck in love. Starting from her boyfriend named Raka, who cheated on her with her own best friend. Until Lisa's life is turned upside down, until she becomes a car washer at a car wash. However, there is a taxi driver who has been accompanying Lisa. Until Lisa falls in love with him. Previously, Laras was the first passenger when Beni pulled a taxi. So Laras got a rose. Strangely, suddenly Ben</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/115_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="115" start="20260611114500 +0000" stop="20260611130500 +0000">
@@ -2722,7 +2726,7 @@
 	</programme>
 	<programme channel="115" start="20260611234000 +0000" stop="20260612010000 +0000">
 		<title>Mahkotamu Jatuh King Of Supir Taksi</title>
-		<desc>Tells the story of the life of a beautiful girl named Lisa. It is said that Lisa always experiences bad luck in love. Starting from her boyfriend named Raka, who cheated on her with her own best friend. Until Lisa's life is turned upside down, until she becomes a car washer at a car wash. However, there is a taxi driver who has been accompanying Lisa. Until Lisa falls in love with him. Previously, Laras was the first passenger when Beni pulled a taxi. So Laras got a rose. Strangely, suddenly Beni decided to call his love with Lisa, ""I want us to break up!"" said Beni while handing the ring to Lisa. Lisa was very sad because of this, especially since Beni chose to be Lisa's friend's new boyfriend. Is all this just Lisa's nightmare, who is always cheated on by her boyfriends?</desc>
+		<desc>Tells the story of the life of a beautiful girl named Lisa. It is said that Lisa always experiences bad luck in love. Starting from her boyfriend named Raka, who cheated on her with her own best friend. Until Lisa's life is turned upside down, until she becomes a car washer at a car wash. However, there is a taxi driver who has been accompanying Lisa. Until Lisa falls in love with him. Previously, Laras was the first passenger when Beni pulled a taxi. So Laras got a rose. Strangely, suddenly Ben</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/115_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="115" start="20260612010000 +0000" stop="20260612012500 +0000">
@@ -7430,22 +7434,22 @@
 		<desc>Daily Soap</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/139_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="140" start="20260610160000 +0000" stop="20260610193000 +0000">
-		<title>Run Baby Run</title>
-		<desc>Run Baby Run Release Year: 2012 Director: Joshiy</desc>
+	<programme channel="140" start="20260610160000 +0000" stop="20260610183400 +0000">
+		<title>Ali Bhai</title>
+		<desc>Gangster Ali Bhai defends Palayam market, protecting community from rivals. Release Year: 2007 Director: Shaji Kailas</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="140" start="20260610193000 +0000" stop="20260610213000 +0000">
+	<programme channel="140" start="20260610183400 +0000" stop="20260610211500 +0000">
 		<title>Veyil</title>
 		<desc>A single mother raises her sons, but harbours annoyance towards them. Release Year: 2022 Director: Sarath Menon Awards: 2021 Winner Kerala State Film Award -Best Character ActreSS Sreerekhaa</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="140" start="20260610213000 +0000" stop="20260610233000 +0000">
+	<programme channel="140" start="20260610211500 +0000" stop="20260610231000 +0000">
 		<title>Acha Dhin</title>
 		<desc>Durgaprasad stumbles upon a deadly terrorist plot while seeking a loan for his wife's medical treatment, and he must act swiftly to save the city from destruction. Release Year: 2015 Director: G. Marthandan</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="140" start="20260610233000 +0000" stop="20260611013000 +0000">
+	<programme channel="140" start="20260610231000 +0000" stop="20260611013000 +0000">
 		<title>Viruman</title>
 		<desc>When a young Viruman watches his mother immolate herself, he disassociates himself from his greedy father. However, he prepares to seek justice.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=341&amp;h=192" />
@@ -7475,22 +7479,22 @@
 		<desc>Woman faces abuse from poultry farmer husband. Release Year: 2022 Director: Vipin Das Awards: 2023 Nominee Bollywood Life - South Movies Award - Best Film</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="140" start="20260611163000 +0000" stop="20260611193000 +0000">
+	<programme channel="140" start="20260611163000 +0000" stop="20260611191000 +0000">
 		<title>Porinchu Mariyam Jose</title>
 		<desc>Butcher Porinju yearns for childhood sweetheart Mariyam, facing unrequited love. Release Year: 2019 Director: Joshiy</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="140" start="20260611193000 +0000" stop="20260611213000 +0000">
+	<programme channel="140" start="20260611191000 +0000" stop="20260611214500 +0000">
 		<title>Saturday Night</title>
 		<desc>Four cousins' friendship is tested when one of them gets married and they decide to part ways, leaving their bond in jeopardy. Release Year: 2022 Director: Roshan Andrews</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="140" start="20260611213000 +0000" stop="20260611233000 +0000">
+	<programme channel="140" start="20260611214500 +0000" stop="20260611231000 +0000">
 		<title>Kilipoyi</title>
 		<desc>Fed up with their boss and her tantrums, Chacko and Hari decide to go on a trip to Goa. Their lives take a turn when they get hold of a mysterious bag. Release Year: 2013 Director: Vinay Govind</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="140" start="20260611233000 +0000" stop="20260612013000 +0000">
+	<programme channel="140" start="20260611231000 +0000" stop="20260612013000 +0000">
 		<title>Theerppu</title>
 		<desc>Four friends come together after a long time, but their reunion is not smooth. Release Year: 2022 Director: Rathish Ambat</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=341&amp;h=192" />
@@ -16082,7 +16086,7 @@
 	</programme>
 	<programme channel="307" start="20260611021000 +0000" stop="20260611023500 +0000">
 		<title>Madagascar: A Little Wild S1 - EP 17</title>
-		<desc>When fun-loving, water-dwelling tadpole LALA shows up in Gloria’s tank, the two become underwater besties! But when Molly wants Gloria to spend “Palentine’s Day” with her, Gloria can’t admit she’s already made plans to spend it with her “land” friends and runs herself ragged running back and forth between Molly and the gang. Gloria’s attempts to make everyone happy backfire, leading her to learn that she can have different groups of friends, and it’s okay to play with them one at a time, or all together!</desc>
+		<desc>When fun-loving, water-dwelling tadpole LALA shows up in Gloria’s tank, the two become underwater besties! But when Molly wants Gloria to spend “Palentine’s Day” with her, Gloria can’t admit she’s already made plans to spend it with her “land” friends and runs herself ragged running back and forth between Molly and the gang. Gloria’s attempts to make everyone happy backfire, leading her to learn that she can have different groups of friends, and it’s okay to play with them one at a time, or all</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch307_madagascar_a_little_wild.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="307" start="20260611023500 +0000" stop="20260611030000 +0000">
@@ -16212,17 +16216,17 @@
 	</programme>
 	<programme channel="307" start="20260611130000 +0000" stop="20260611132500 +0000">
 		<title>Kung Fu Panda: The Dragon Knight S2 - EP 27</title>
-		<desc>There is more epic action and intrigue as Po and the Dragon Knights continue their quest to destroy the Tianshang weapons, but find themselves in treacherous waters when they are captured by pirates, one of which is out for revenge against Mr. Ping! The adventures lead them to London, where they are wanted by the Knights. Old enemies resurface and Blade will have to face one of her most challenging opponents—her mom. And somehow, Po finds himself in a chess tournament against the Queen of England!</desc>
+		<desc>There is more epic action and intrigue as Po and the Dragon Knights continue their quest to destroy the Tianshang weapons, but find themselves in treacherous waters when they are captured by pirates, one of which is out for revenge against Mr. Ping! The adventures lead them to London, where they are wanted by the Knights. Old enemies resurface and Blade will have to face one of her most challenging opponents—her mom. And somehow, Po finds himself in a chess tournament against the Queen of Englan</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch307_kunfu_panda_the_dragon_knight.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="307" start="20260611132500 +0000" stop="20260611135000 +0000">
 		<title>Kung Fu Panda: The Dragon Knight S2 - EP 28</title>
-		<desc>There is more epic action and intrigue as Po and the Dragon Knights continue their quest to destroy the Tianshang weapons, but find themselves in treacherous waters when they are captured by pirates, one of which is out for revenge against Mr. Ping! The adventures lead them to London, where they are wanted by the Knights. Old enemies resurface and Blade will have to face one of her most challenging opponents—her mom. And somehow, Po finds himself in a chess tournament against the Queen of England!</desc>
+		<desc>There is more epic action and intrigue as Po and the Dragon Knights continue their quest to destroy the Tianshang weapons, but find themselves in treacherous waters when they are captured by pirates, one of which is out for revenge against Mr. Ping! The adventures lead them to London, where they are wanted by the Knights. Old enemies resurface and Blade will have to face one of her most challenging opponents—her mom. And somehow, Po finds himself in a chess tournament against the Queen of Englan</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch307_kunfu_panda_the_dragon_knight.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="307" start="20260611135000 +0000" stop="20260611141500 +0000">
 		<title>Kung Fu Panda: The Dragon Knight S2 - EP 29</title>
-		<desc>There is more epic action and intrigue as Po and the Dragon Knights continue their quest to destroy the Tianshang weapons, but find themselves in treacherous waters when they are captured by pirates, one of which is out for revenge against Mr. Ping! The adventures lead them to London, where they are wanted by the Knights. Old enemies resurface and Blade will have to face one of her most challenging opponents—her mom. And somehow, Po finds himself in a chess tournament against the Queen of England!</desc>
+		<desc>There is more epic action and intrigue as Po and the Dragon Knights continue their quest to destroy the Tianshang weapons, but find themselves in treacherous waters when they are captured by pirates, one of which is out for revenge against Mr. Ping! The adventures lead them to London, where they are wanted by the Knights. Old enemies resurface and Blade will have to face one of her most challenging opponents—her mom. And somehow, Po finds himself in a chess tournament against the Queen of Englan</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch307_kunfu_panda_the_dragon_knight.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="307" start="20260611141500 +0000" stop="20260611144000 +0000">
@@ -24284,27 +24288,27 @@ the Croods overcome the punch monkeys - and Phil - to save the farm?</desc>
 	<programme channel="701" start="20260611110000 +0000" stop="20260611113000 +0000">
 		<title>BBC News Now</title>
 		<desc>All the big stories, live as they happen, presented by Lucy Hockings.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch701_BBC_news.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch701_bbc_news_now.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="701" start="20260611113000 +0000" stop="20260611120000 +0000">
 		<title>BBC News Now</title>
 		<desc>All the big stories, live as they happen, presented by Lucy Hockings.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch701_BBC_news.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch701_bbc_news_now.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="701" start="20260611120000 +0000" stop="20260611123000 +0000">
 		<title>BBC News Now</title>
 		<desc>All the big stories, live as they happen, presented by Lucy Hockings.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch701_BBC_news.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch701_bbc_news_now.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="701" start="20260611123000 +0000" stop="20260611130000 +0000">
 		<title>BBC News Now</title>
 		<desc>All the big stories, live as they happen, presented by Lucy Hockings.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch701_BBC_news.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch701_bbc_news_now.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="701" start="20260611130000 +0000" stop="20260611133000 +0000">
 		<title>BBC News Now</title>
 		<desc>All the big stories, live as they happen, presented by Lucy Hockings.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch701_BBC_news.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch701_bbc_news_now.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="701" start="20260611133000 +0000" stop="20260611134500 +0000">
 		<title>Business Today - NYSE Opening Bell</title>
@@ -24314,7 +24318,7 @@ the Croods overcome the punch monkeys - and Phil - to save the farm?</desc>
 	<programme channel="701" start="20260611134500 +0000" stop="20260611140000 +0000">
 		<title>BBC News Now</title>
 		<desc>All the big stories, live as they happen, presented by Lucy Hockings.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch701_BBC_news.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch701_bbc_news_now.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="701" start="20260611140000 +0000" stop="20260611143000 +0000">
 		<title>Verified Live</title>
@@ -24554,27 +24558,27 @@ the Croods overcome the punch monkeys - and Phil - to save the farm?</desc>
 	<programme channel="701" start="20260612110000 +0000" stop="20260612113000 +0000">
 		<title>BBC News Now</title>
 		<desc>All the big stories, live as they happen, presented by Lucy Hockings.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch701_BBC_news.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch701_bbc_news_now.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="701" start="20260612113000 +0000" stop="20260612120000 +0000">
 		<title>BBC News Now</title>
 		<desc>All the big stories, live as they happen, presented by Lucy Hockings.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch701_BBC_news.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch701_bbc_news_now.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="701" start="20260612120000 +0000" stop="20260612123000 +0000">
 		<title>BBC News Now</title>
 		<desc>All the big stories, live as they happen, presented by Lucy Hockings.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch701_BBC_news.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch701_bbc_news_now.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="701" start="20260612123000 +0000" stop="20260612130000 +0000">
 		<title>BBC News Now</title>
 		<desc>All the big stories, live as they happen, presented by Lucy Hockings.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch701_BBC_news.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch701_bbc_news_now.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="701" start="20260612130000 +0000" stop="20260612133000 +0000">
 		<title>BBC News Now</title>
 		<desc>All the big stories, live as they happen, presented by Lucy Hockings.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch701_BBC_news.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch701_bbc_news_now.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="701" start="20260612133000 +0000" stop="20260612134500 +0000">
 		<title>Business Today - NYSE Opening Bell</title>
@@ -24584,7 +24588,7 @@ the Croods overcome the punch monkeys - and Phil - to save the farm?</desc>
 	<programme channel="701" start="20260612134500 +0000" stop="20260612140000 +0000">
 		<title>BBC News Now</title>
 		<desc>All the big stories, live as they happen, presented by Lucy Hockings.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch701_BBC_news.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch701_bbc_news_now.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="701" start="20260612140000 +0000" stop="20260612143000 +0000">
 		<title>Verified Live</title>
@@ -27543,7 +27547,7 @@ the Croods overcome the punch monkeys - and Phil - to save the farm?</desc>
 	</programme>
 	<programme channel="722" start="20260611160000 +0000" stop="20260611170000 +0000">
 		<title>Global Business</title>
-		<desc>The flagship business program of CGTN’s English language service. The program offers in-depth analysis of the latest economic data, business trends and market moving policies, zooming in on how all this affects ordinary people. With separate editions out of Asia, Europe, Africa and the Americas, Global Business features analysts and news-makers supported through a global network of correspondents. Global Business shows you what's moving markets in both developed and emerging economies. The biz program offers a truly global perspective, loaded with local insights.</desc>
+		<desc>The flagship business program of CGTN’s English language service. The program offers in-depth analysis of the latest economic data, business trends and market moving policies, zooming in on how all this affects ordinary people. With separate editions out of Asia, Europe, Africa and the Americas, Global Business features analysts and news-makers supported through a global network of correspondents. Global Business shows you what's moving markets in both developed and emerging economies.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/722_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="722" start="20260611170000 +0000" stop="20260611180000 +0000">
@@ -27553,7 +27557,7 @@ the Croods overcome the punch monkeys - and Phil - to save the farm?</desc>
 	</programme>
 	<programme channel="722" start="20260611180000 +0000" stop="20260611190000 +0000">
 		<title>Global Business</title>
-		<desc>The flagship business program of CGTN’s English language service. The program offers in-depth analysis of the latest economic data, business trends and market moving policies, zooming in on how all this affects ordinary people. With separate editions out of Asia, Europe, Africa and the Americas, Global Business features analysts and news-makers supported through a global network of correspondents. Global Business shows you what's moving markets in both developed and emerging economies. The biz program offers a truly global perspective, loaded with local insights.</desc>
+		<desc>The flagship business program of CGTN’s English language service. The program offers in-depth analysis of the latest economic data, business trends and market moving policies, zooming in on how all this affects ordinary people. With separate editions out of Asia, Europe, Africa and the Americas, Global Business features analysts and news-makers supported through a global network of correspondents. Global Business shows you what's moving markets in both developed and emerging economies.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/722_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="722" start="20260611190000 +0000" stop="20260611193000 +0000">
@@ -27563,7 +27567,7 @@ the Croods overcome the punch monkeys - and Phil - to save the farm?</desc>
 	</programme>
 	<programme channel="722" start="20260611193000 +0000" stop="20260611200000 +0000">
 		<title>World Insight with Tian Wei</title>
-		<desc>World Insight with Tian Wei is a long-running international platform for debate and intelligent discussion. It is the meeting point of both the highly influential and rising voices, facilitated by host, Tian Wei. Every Monday to Friday, it provides nutrition to form your own thoughts and ideas through live debate and interviews. Live debates linking movers and shakers take place in the signature segment “Global Debate”. It features a diversity of perspectives and insights on the most important global news and stories of our time. Its face-to-face "Exclusive Interview" segment welcomes both existing big names and future players from all walks of life. World Insight with Tian Wei, always embraces changes, enriching and inspiring, hearts and minds.</desc>
+		<desc>World Insight with Tian Wei is a long-running international platform for debate and intelligent discussion. It is the meeting point of both the highly influential and rising voices, facilitated by host, Tian Wei. Every Monday to Friday, it provides nutrition to form your own thoughts and ideas through live debate and interviews. Live debates linking movers and shakers take place in the signature segment "Global Debate".</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/722_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="722" start="20260611200000 +0000" stop="20260611203000 +0000">
@@ -27573,17 +27577,17 @@ the Croods overcome the punch monkeys - and Phil - to save the farm?</desc>
 	</programme>
 	<programme channel="722" start="20260611203000 +0000" stop="20260611210000 +0000">
 		<title>Dialogue</title>
-		<desc>Dialogue is a prime time daily English talk show on CGTN. The 30-minute talk show covers a wide range of domestic and international topics, providing a balanced and critical perspective on current affairs and analysis within the framework of cross-cultural and multi-disciplinary comparisons. Inviting decision makers in government, business and academia onto the show, the host encourages guests to speak their minds frankly. Hundreds of state heads, diplomats, business leaders and culture icons have appeared on DIALOGUE . It reaches viewers across China and over 80 million subscribers around the world.</desc>
+		<desc>Dialogue is a prime time daily English talk show on CGTN. The 30-minute talk show covers a wide range of domestic and international topics, providing a balanced and critical perspective on current affairs and analysis within the framework of cross-cultural and multi-disciplinary comparisons. Inviting decision makers in government, business and academia onto the show, the host encourages guests to speak their minds frankly.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/722_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="722" start="20260611210000 +0000" stop="20260611213000 +0000">
 		<title>Global Business</title>
-		<desc>The flagship business program of CGTN’s English language service. The program offers in-depth analysis of the latest economic data, business trends and market moving policies, zooming in on how all this affects ordinary people. With separate editions out of Asia, Europe, Africa and the Americas, Global Business features analysts and news-makers supported through a global network of correspondents. Global Business shows you what's moving markets in both developed and emerging economies. The biz program offers a truly global perspective, loaded with local insights.</desc>
+		<desc>The flagship business program of CGTN’s English language service. The program offers in-depth analysis of the latest economic data, business trends and market moving policies, zooming in on how all this affects ordinary people. With separate editions out of Asia, Europe, Africa and the Americas, Global Business features analysts and news-makers supported through a global network of correspondents. Global Business shows you what's moving markets in both developed and emerging economies.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/722_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="722" start="20260611213000 +0000" stop="20260611220000 +0000">
 		<title>The Hub With Wang Guan</title>
-		<desc>The Hub with Wang Guan covers hot-button geopolitical and economic issues, as well as interesting stories and trends in culture, education, technology and lifestyle. It aims to connect people, cultures and societies across the East and the West. The program features dynamic designs, fast pace and rich visuals to keep viewers engaged.  It also makes use of trending topics online, while focusing on what’s relevant in China and the world.</desc>
+		<desc>The Hub with Wang Guan covers hot-button geopolitical and economic issues, as well as interesting stories and trends in culture, education, technology and lifestyle. It aims to connect people, cultures and societies across the East and the West. The program features dynamic designs, fast pace and rich visuals to keep viewers engaged. It also makes use of trending topics online, while focusing on what’s relevant in China and the world.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/722_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="722" start="20260611220000 +0000" stop="20260611223000 +0000">
@@ -27593,7 +27597,7 @@ the Croods overcome the punch monkeys - and Phil - to save the farm?</desc>
 	</programme>
 	<programme channel="722" start="20260611223000 +0000" stop="20260611230000 +0000">
 		<title>Rediscovering China</title>
-		<desc>Rediscovering China is a half-hour documentary program on CGTN. Each edition offers unique insight into various aspects of life in China today. With unrivalled access to the country's people and places, the program aims to show the global audience an inclusive and vigorous China.</desc>
+		<desc>Rediscovering China is a half-hour documentary program on CGTN. Each edition offers unique insight into various aspects of life in China today. With unrivalled access to the country's people and places, the program aims to show the global audience an inclusive and vigorous China._x000D__x000D_</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/722_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="722" start="20260611230000 +0000" stop="20260611233000 +0000">
@@ -27608,22 +27612,12 @@ the Croods overcome the punch monkeys - and Phil - to save the farm?</desc>
 	</programme>
 	<programme channel="722" start="20260612000000 +0000" stop="20260612010000 +0000">
 		<title>Global Business</title>
-		<desc>The flagship business program of CGTN’s English language service. The program offers in-depth analysis of the latest economic data, business trends and market moving policies, zooming in on how all this affects ordinary people. With separate editions out of Asia, Europe, Africa and the Americas, Global Business features analysts and news-makers supported through a global network of correspondents. Global Business shows you what's moving markets in both developed and emerging economies. The biz program offers a truly global perspective, loaded with local insights.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/722_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="722" start="20260612010000 +0000" stop="20260612013000 +0000">
-		<title>The World Today</title>
-		<desc>The core rolling news service of CGTN, with regular updates from Beijing, Washington, Nairobi and London, keep viewers up-to-date with all the world’s top stories as they happen. The World Today delivers breaking news, live events, in-depth reporting, expert analysis and sustained coverage.</desc>
+		<desc>The flagship business program of CGTN’s English language service. The program offers in-depth analysis of the latest economic data, business trends and market moving policies, zooming in on how all this affects ordinary people. With separate editions out of Asia, Europe, Africa and the Americas, Global Business features analysts and news-makers supported through a global network of correspondents. Global Business shows you what's moving markets in both developed and emerging economies.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/722_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="722" start="20260612013000 +0000" stop="20260612020000 +0000">
 		<title>China 24</title>
 		<desc>China 24 is a prime time news program featuring in-depth reports and analysis of the stories in the headlines in China. Produced by CGTN’s studios in Beijing and Washington D.C., the show takes a compelling and comprehensive look at China. It explores the country’s business, politics, technology, culture, entertainment and more. China 24 tackles head-on the issues that matter most to the nation and its people, with topical reports highlighting challenges facing this fast-changing country.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/722_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="722" start="20260612020000 +0000" stop="20260612023000 +0000">
-		<title>The World Today</title>
-		<desc>The core rolling news service of CGTN, with regular updates from Beijing, Washington, Nairobi and London, keep viewers up-to-date with all the world’s top stories as they happen. The World Today delivers breaking news, live events, in-depth reporting, expert analysis and sustained coverage.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/722_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="722" start="20260612023000 +0000" stop="20260612030000 +0000">
@@ -27709,11 +27703,6 @@ the Croods overcome the punch monkeys - and Phil - to save the farm?</desc>
 	<programme channel="722" start="20260612100000 +0000" stop="20260612101500 +0000">
 		<title>The World Today</title>
 		<desc>The core rolling news service of CGTN, with regular updates from Beijing, Washington, Nairobi and London, keep viewers up-to-date with all the world’s top stories as they happen. The World Today delivers breaking news, live events, in-depth reporting, expert analysis and sustained coverage.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/722_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="722" start="20260612101500 +0000" stop="20260612110000 +0000">
-		<title>Africa Live</title>
-		<desc>Africa Live is a news program that focuses on African issues and issues related to this diverse continent. CGTN’s Nairobi-based broadcast center produces Africa Live. Local correspondents and local production teams provide authoritative and in-depth stories from across the region. Africa Live is an objective and comprehensive look at every facet of African life.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/722_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="722" start="20260612110000 +0000" stop="20260612113000 +0000">
@@ -29212,7 +29201,7 @@ the Croods overcome the punch monkeys - and Phil - to save the farm?</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/801_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="801" start="20260611162600 +0000" stop="20260611170900 +0000">
-		<title>Da Pu Dong</title>
+		<title>Da Pu Dong - EP 35</title>
 		<desc>CCTV brings you broadcasts of finely-produced artistic dramas that closely follow the pulse of the times.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/801_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
@@ -29257,12 +29246,12 @@ the Croods overcome the punch monkeys - and Phil - to save the farm?</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/801_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="801" start="20260611200000 +0000" stop="20260611203000 +0000">
-		<title>China News</title>
+		<title>China News (Live)</title>
 		<desc>China News focuses on the latest news and social changes happening in China as well as all over the world.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/801_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="801" start="20260611203000 +0000" stop="20260611210000 +0000">
-		<title>Focus Today</title>
+		<title>Focus Today (Live)</title>
 		<desc>Focus Today traces current affairs from China and the world.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/801_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
@@ -29277,27 +29266,27 @@ the Croods overcome the punch monkeys - and Phil - to save the farm?</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/801_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="801" start="20260611220000 +0000" stop="20260611223000 +0000">
-		<title>Across The Strait</title>
+		<title>Across The Strait (Live)</title>
 		<desc>Across The Strait traces the much-discussed issues across the Strait, reflecting the will of the citizens on two sides of the Strait and detailing the Chinese Government's policy of "one country, two systems".</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/801_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="801" start="20260611223000 +0000" stop="20260611230000 +0000">
-		<title>Asia Today</title>
+		<title>Asia Today (Live)</title>
 		<desc>CCTV-4 brings you the latest on Asia news, from an Asian perspective.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/801_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="801" start="20260611230000 +0000" stop="20260611233000 +0000">
-		<title>China News</title>
+		<title>China News (Live)</title>
 		<desc>China News focuses on the latest news and social changes happening in China as well as all over the world.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/801_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="801" start="20260611233000 +0000" stop="20260612000000 +0000">
-		<title>Focus Today</title>
+		<title>Focus Today (Live)</title>
 		<desc>Focus Today traces current affairs from China and the world.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/801_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="801" start="20260612000000 +0000" stop="20260612010000 +0000">
-		<title>Global News</title>
+		<title>Global News (Live)</title>
 		<desc>Be updated with the latest news developments around the world.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/801_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
@@ -30274,11 +30263,6 @@ the Croods overcome the punch monkeys - and Phil - to save the farm?</desc>
 	<programme channel="808" start="20260610200000 +0000" stop="20260610210000 +0000">
 		<title>2100 Hot Topics</title>
 		<desc>Don't miss the latest highlights and interviews from Taiwan and around the world.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/808_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="808" start="20260610210000 +0000" stop="20260610220000 +0000">
-		<title>News Night</title>
-		<desc>A round-up of international news.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/808_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="808" start="20260610220000 +0000" stop="20260610230000 +0000">
@@ -33031,6 +33015,46 @@ the Croods overcome the punch monkeys - and Phil - to save the farm?</desc>
 		<desc>The must watch for K-Variety shows! In this "urban action variety", the hosts complete a series of obstacles and aim to eliminate each other to win.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch823_running_man.jpg?w=341&amp;h=192" />
 	</programme>
+	<programme channel="824" start="20260610160000 +0000" stop="20260610220000 +0000">
+		<title>End of Transmission</title>
+		<desc />
+		<icon src="https://poster.starhubgo.com/Linear_channels2/824_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="824" start="20260610220000 +0000" stop="20260611040000 +0000">
+		<title>End of Transmission</title>
+		<desc />
+		<icon src="https://poster.starhubgo.com/Linear_channels2/824_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="824" start="20260611040000 +0000" stop="20260611100000 +0000">
+		<title>End of Transmission</title>
+		<desc />
+		<icon src="https://poster.starhubgo.com/Linear_channels2/824_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="824" start="20260611100000 +0000" stop="20260611160000 +0000">
+		<title>End of Transmission</title>
+		<desc />
+		<icon src="https://poster.starhubgo.com/Linear_channels2/824_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="824" start="20260611160000 +0000" stop="20260611220000 +0000">
+		<title>End of Transmission</title>
+		<desc />
+		<icon src="https://poster.starhubgo.com/Linear_channels2/824_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="824" start="20260611220000 +0000" stop="20260612040000 +0000">
+		<title>End of Transmission</title>
+		<desc />
+		<icon src="https://poster.starhubgo.com/Linear_channels2/824_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="824" start="20260612040000 +0000" stop="20260612100000 +0000">
+		<title>End of Transmission</title>
+		<desc />
+		<icon src="https://poster.starhubgo.com/Linear_channels2/824_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="824" start="20260612100000 +0000" stop="20260612160000 +0000">
+		<title>End of Transmission</title>
+		<desc />
+		<icon src="https://poster.starhubgo.com/Linear_channels2/824_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
 	<programme channel="825" start="20260610160000 +0000" stop="20260610170000 +0000">
 		<title>Love Endures - EP 8</title>
 		<desc>The story revolves around seven lifelong companions who reside in the same area, relying on and supporting each other through their toughest times. They undergo separation and reunite years later.</desc>
@@ -34933,7 +34957,7 @@ the Croods overcome the punch monkeys - and Phil - to save the farm?</desc>
 	</programme>
 	<programme channel="859" start="20260611000000 +0000" stop="20260611010000 +0000">
 		<title>Treasure of Destiny - EP 18</title>
-		<desc>Pork butcher stall lady boss Chu Ying-kiu (Katy Kung) has innate mystical power. But she is inflicted with some strange illness that causes her to grow a beard. She hopes to find the elixir mentioned in Sutra of Forty-two Chapters for treating her illness. Over the years, university Chinese language professor Cheung King (Moses Chan) has been passionate about finding this legendary treasure. However, he has been suffering from insomnia as he was devastated in an incident. Math genius Siu Kwai-chi (Kamen Kong) is clever and smart. She falls in love at first sight with A&amp;E male nurse Orr Kin-ning (Kalok Chow). Kwai-chi is torn between good and evil. And she really wants to find the treasure as she hopes to become an overnight millionaire. Fate brings Cheung King, Ying-kiu and Kwai-chi together. They come up with all kinds of schemes as they each want to snatch the treasure. While they compete with each other, a war on the human conscience’s immorality and righteousness has started. And it is a life-and -death struggle …</desc>
+		<desc>Pork butcher stall lady boss Chu Ying-kiu (Katy Kung) has innate mystical power. But she is inflicted with some strange illness that causes her to grow a beard. She hopes to find the elixir mentioned in Sutra of Forty-two Chapters for treating her illness. Over the years, university Chinese language professor Cheung King (Moses Chan) has been passionate about finding this legendary treasure. However, he has been suffering from insomnia as he was devastated in an incident.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch288_TreasureOFDestiny.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="859" start="20260611010000 +0000" stop="20260611020000 +0000">
@@ -34943,17 +34967,17 @@ the Croods overcome the punch monkeys - and Phil - to save the farm?</desc>
 	</programme>
 	<programme channel="859" start="20260611020000 +0000" stop="20260611030000 +0000">
 		<title>Brother's Keeper II - EP 19</title>
-		<desc>Overcoming adversity, LAW WAI-SHUN (Edwin Siu) and YIU MAN-YING (Kristal Tin) successfully develop the business of Lo Son Kei and make it famous in both Hong Kong and Macau. However, their success upsets a junket promoter-turned-land developer, KO TIN-TSAU (Hugo Ng), who keeps suppressing them.</desc>
+		<desc>Overcoming adversity, LAW WAI-SHUN (Edwin Siu) and YIU MAN-YING (Kristal Tin) successfully develop the business of Lo Son Kei and make it famous in both Hong Kong and Macau. However, their success upsets a junket promoter-turned-land developer, KO TIN-TSAU (Hugo Ng), who keeps suppressing them. WAI-SHUN is even betrayed by his close confidant TSU CHI-LIK (Mat Yeung).</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch288_BrothersKeeperII.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="859" start="20260611030000 +0000" stop="20260611040000 +0000">
 		<title>Brother's Keeper II - EP 20</title>
-		<desc>Overcoming adversity, LAW WAI-SHUN (Edwin Siu) and YIU MAN-YING (Kristal Tin) successfully develop the business of Lo Son Kei and make it famous in both Hong Kong and Macau. However, their success upsets a junket promoter-turned-land developer, KO TIN-TSAU (Hugo Ng), who keeps suppressing them.</desc>
+		<desc>Overcoming adversity, LAW WAI-SHUN (Edwin Siu) and YIU MAN-YING (Kristal Tin) successfully develop the business of Lo Son Kei and make it famous in both Hong Kong and Macau. However, their success upsets a junket promoter-turned-land developer, KO TIN-TSAU (Hugo Ng), who keeps suppressing them. WAI-SHUN is even betrayed by his close confidant TSU CHI-LIK (Mat Yeung).</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch288_BrothersKeeperII.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="859" start="20260611040000 +0000" stop="20260611050000 +0000">
 		<title>Country Spirit - EP 10</title>
-		<desc>KOO SAI LUNG (CHUN PUI) is the manager of a wine factory. He adopts his ex-girlfriend’s illegitimate son, SHUNG (LAM KA TUNG), out of kindness. SHUNG is cheerful and tolerates any kind of abuse.</desc>
+		<desc>KOO SAI LUNG (CHUN PUI) is the manager of a wine factory. He adopts his ex-girlfriend’s illegitimate son, SHUNG (LAM KA TUNG), out of kindness. SHUNG is cheerful and tolerates any kind of abuse. LUNG’s sister, YIU (TANG SHUI MAN), loves SHUNG. However, she cannot forget her former love KOU (TSANG WAI KUEN) who is dead.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch288_country_spirit.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="859" start="20260611050000 +0000" stop="20260611060000 +0000">
@@ -34963,7 +34987,7 @@ the Croods overcome the punch monkeys - and Phil - to save the farm?</desc>
 	</programme>
 	<programme channel="859" start="20260611060000 +0000" stop="20260611070000 +0000">
 		<title>Treasure of Destiny - EP 18</title>
-		<desc>Pork butcher stall lady boss Chu Ying-kiu (Katy Kung) has innate mystical power. But she is inflicted with some strange illness that causes her to grow a beard. She hopes to find the elixir mentioned in Sutra of Forty-two Chapters for treating her illness. Over the years, university Chinese language professor Cheung King (Moses Chan) has been passionate about finding this legendary treasure. However, he has been suffering from insomnia as he was devastated in an incident. Math genius Siu Kwai-chi (Kamen Kong) is clever and smart. She falls in love at first sight with A&amp;E male nurse Orr Kin-ning (Kalok Chow). Kwai-chi is torn between good and evil. And she really wants to find the treasure as she hopes to become an overnight millionaire. Fate brings Cheung King, Ying-kiu and Kwai-chi together. They come up with all kinds of schemes as they each want to snatch the treasure. While they compete with each other, a war on the human conscience’s immorality and righteousness has started. And it is a life-and -death struggle …</desc>
+		<desc>Pork butcher stall lady boss Chu Ying-kiu (Katy Kung) has innate mystical power. But she is inflicted with some strange illness that causes her to grow a beard. She hopes to find the elixir mentioned in Sutra of Forty-two Chapters for treating her illness. Over the years, university Chinese language professor Cheung King (Moses Chan) has been passionate about finding this legendary treasure. However, he has been suffering from insomnia as he was devastated in an incident.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch288_TreasureOFDestiny.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="859" start="20260611070000 +0000" stop="20260611080000 +0000">
@@ -34973,17 +34997,17 @@ the Croods overcome the punch monkeys - and Phil - to save the farm?</desc>
 	</programme>
 	<programme channel="859" start="20260611080000 +0000" stop="20260611090000 +0000">
 		<title>Brother's Keeper II - EP 19</title>
-		<desc>Overcoming adversity, LAW WAI-SHUN (Edwin Siu) and YIU MAN-YING (Kristal Tin) successfully develop the business of Lo Son Kei and make it famous in both Hong Kong and Macau. However, their success upsets a junket promoter-turned-land developer, KO TIN-TSAU (Hugo Ng), who keeps suppressing them.</desc>
+		<desc>Overcoming adversity, LAW WAI-SHUN (Edwin Siu) and YIU MAN-YING (Kristal Tin) successfully develop the business of Lo Son Kei and make it famous in both Hong Kong and Macau. However, their success upsets a junket promoter-turned-land developer, KO TIN-TSAU (Hugo Ng), who keeps suppressing them. WAI-SHUN is even betrayed by his close confidant TSU CHI-LIK (Mat Yeung).</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch288_BrothersKeeperII.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="859" start="20260611090000 +0000" stop="20260611100000 +0000">
 		<title>Brother's Keeper II - EP 20</title>
-		<desc>Overcoming adversity, LAW WAI-SHUN (Edwin Siu) and YIU MAN-YING (Kristal Tin) successfully develop the business of Lo Son Kei and make it famous in both Hong Kong and Macau. However, their success upsets a junket promoter-turned-land developer, KO TIN-TSAU (Hugo Ng), who keeps suppressing them.</desc>
+		<desc>Overcoming adversity, LAW WAI-SHUN (Edwin Siu) and YIU MAN-YING (Kristal Tin) successfully develop the business of Lo Son Kei and make it famous in both Hong Kong and Macau. However, their success upsets a junket promoter-turned-land developer, KO TIN-TSAU (Hugo Ng), who keeps suppressing them. WAI-SHUN is even betrayed by his close confidant TSU CHI-LIK (Mat Yeung).</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch288_BrothersKeeperII.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="859" start="20260611100000 +0000" stop="20260611110000 +0000">
 		<title>Country Spirit - EP 11</title>
-		<desc>KOO SAI LUNG (CHUN PUI) is the manager of a wine factory. He adopts his ex-girlfriend’s illegitimate son, SHUNG (LAM KA TUNG), out of kindness. SHUNG is cheerful and tolerates any kind of abuse.</desc>
+		<desc>KOO SAI LUNG (CHUN PUI) is the manager of a wine factory. He adopts his ex-girlfriend’s illegitimate son, SHUNG (LAM KA TUNG), out of kindness. SHUNG is cheerful and tolerates any kind of abuse. LUNG’s sister, YIU (TANG SHUI MAN), loves SHUNG. However, she cannot forget her former love KOU (TSANG WAI KUEN) who is dead.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch288_country_spirit.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="859" start="20260611110000 +0000" stop="20260611120000 +0000">
@@ -34993,7 +35017,7 @@ the Croods overcome the punch monkeys - and Phil - to save the farm?</desc>
 	</programme>
 	<programme channel="859" start="20260611120000 +0000" stop="20260611130000 +0000">
 		<title>Treasure of Destiny - EP 19</title>
-		<desc>Pork butcher stall lady boss Chu Ying-kiu (Katy Kung) has innate mystical power. But she is inflicted with some strange illness that causes her to grow a beard. She hopes to find the elixir mentioned in Sutra of Forty-two Chapters for treating her illness. Over the years, university Chinese language professor Cheung King (Moses Chan) has been passionate about finding this legendary treasure. However, he has been suffering from insomnia as he was devastated in an incident. Math genius Siu Kwai-chi (Kamen Kong) is clever and smart. She falls in love at first sight with A&amp;E male nurse Orr Kin-ning (Kalok Chow). Kwai-chi is torn between good and evil. And she really wants to find the treasure as she hopes to become an overnight millionaire. Fate brings Cheung King, Ying-kiu and Kwai-chi together. They come up with all kinds of schemes as they each want to snatch the treasure. While they compete with each other, a war on the human conscience’s immorality and righteousness has started. And it is a life-and -death struggle …</desc>
+		<desc>Pork butcher stall lady boss Chu Ying-kiu (Katy Kung) has innate mystical power. But she is inflicted with some strange illness that causes her to grow a beard. She hopes to find the elixir mentioned in Sutra of Forty-two Chapters for treating her illness. Over the years, university Chinese language professor Cheung King (Moses Chan) has been passionate about finding this legendary treasure. However, he has been suffering from insomnia as he was devastated in an incident.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch288_TreasureOFDestiny.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="859" start="20260611130000 +0000" stop="20260611140000 +0000">
@@ -35003,17 +35027,17 @@ the Croods overcome the punch monkeys - and Phil - to save the farm?</desc>
 	</programme>
 	<programme channel="859" start="20260611140000 +0000" stop="20260611150000 +0000">
 		<title>Brother's Keeper II - EP 21</title>
-		<desc>Overcoming adversity, LAW WAI-SHUN (Edwin Siu) and YIU MAN-YING (Kristal Tin) successfully develop the business of Lo Son Kei and make it famous in both Hong Kong and Macau. However, their success upsets a junket promoter-turned-land developer, KO TIN-TSAU (Hugo Ng), who keeps suppressing them.</desc>
+		<desc>Overcoming adversity, LAW WAI-SHUN (Edwin Siu) and YIU MAN-YING (Kristal Tin) successfully develop the business of Lo Son Kei and make it famous in both Hong Kong and Macau. However, their success upsets a junket promoter-turned-land developer, KO TIN-TSAU (Hugo Ng), who keeps suppressing them. WAI-SHUN is even betrayed by his close confidant TSU CHI-LIK (Mat Yeung).</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch288_BrothersKeeperII.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="859" start="20260611150000 +0000" stop="20260611160000 +0000">
 		<title>Brother's Keeper II - EP 22</title>
-		<desc>Overcoming adversity, LAW WAI-SHUN (Edwin Siu) and YIU MAN-YING (Kristal Tin) successfully develop the business of Lo Son Kei and make it famous in both Hong Kong and Macau. However, their success upsets a junket promoter-turned-land developer, KO TIN-TSAU (Hugo Ng), who keeps suppressing them.</desc>
+		<desc>Overcoming adversity, LAW WAI-SHUN (Edwin Siu) and YIU MAN-YING (Kristal Tin) successfully develop the business of Lo Son Kei and make it famous in both Hong Kong and Macau. However, their success upsets a junket promoter-turned-land developer, KO TIN-TSAU (Hugo Ng), who keeps suppressing them. WAI-SHUN is even betrayed by his close confidant TSU CHI-LIK (Mat Yeung).</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch288_BrothersKeeperII.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="859" start="20260611160000 +0000" stop="20260611170000 +0000">
 		<title>Country Spirit - EP 11</title>
-		<desc>KOO SAI LUNG (CHUN PUI) is the manager of a wine factory. He adopts his ex-girlfriend’s illegitimate son, SHUNG (LAM KA TUNG), out of kindness. SHUNG is cheerful and tolerates any kind of abuse.</desc>
+		<desc>KOO SAI LUNG (CHUN PUI) is the manager of a wine factory. He adopts his ex-girlfriend’s illegitimate son, SHUNG (LAM KA TUNG), out of kindness. SHUNG is cheerful and tolerates any kind of abuse. LUNG’s sister, YIU (TANG SHUI MAN), loves SHUNG. However, she cannot forget her former love KOU (TSANG WAI KUEN) who is dead.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch288_country_spirit.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="859" start="20260611170000 +0000" stop="20260611180000 +0000">
@@ -35023,7 +35047,7 @@ the Croods overcome the punch monkeys - and Phil - to save the farm?</desc>
 	</programme>
 	<programme channel="859" start="20260611180000 +0000" stop="20260611190000 +0000">
 		<title>Treasure of Destiny - EP 19</title>
-		<desc>Pork butcher stall lady boss Chu Ying-kiu (Katy Kung) has innate mystical power. But she is inflicted with some strange illness that causes her to grow a beard. She hopes to find the elixir mentioned in Sutra of Forty-two Chapters for treating her illness. Over the years, university Chinese language professor Cheung King (Moses Chan) has been passionate about finding this legendary treasure. However, he has been suffering from insomnia as he was devastated in an incident. Math genius Siu Kwai-chi (Kamen Kong) is clever and smart. She falls in love at first sight with A&amp;E male nurse Orr Kin-ning (Kalok Chow). Kwai-chi is torn between good and evil. And she really wants to find the treasure as she hopes to become an overnight millionaire. Fate brings Cheung King, Ying-kiu and Kwai-chi together. They come up with all kinds of schemes as they each want to snatch the treasure. While they compete with each other, a war on the human conscience’s immorality and righteousness has started. And it is a life-and -death struggle …</desc>
+		<desc>Pork butcher stall lady boss Chu Ying-kiu (Katy Kung) has innate mystical power. But she is inflicted with some strange illness that causes her to grow a beard. She hopes to find the elixir mentioned in Sutra of Forty-two Chapters for treating her illness. Over the years, university Chinese language professor Cheung King (Moses Chan) has been passionate about finding this legendary treasure. However, he has been suffering from insomnia as he was devastated in an incident.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch288_TreasureOFDestiny.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="859" start="20260611190000 +0000" stop="20260611200000 +0000">
@@ -35033,17 +35057,17 @@ the Croods overcome the punch monkeys - and Phil - to save the farm?</desc>
 	</programme>
 	<programme channel="859" start="20260611200000 +0000" stop="20260611210000 +0000">
 		<title>Brother's Keeper II - EP 21</title>
-		<desc>Overcoming adversity, LAW WAI-SHUN (Edwin Siu) and YIU MAN-YING (Kristal Tin) successfully develop the business of Lo Son Kei and make it famous in both Hong Kong and Macau. However, their success upsets a junket promoter-turned-land developer, KO TIN-TSAU (Hugo Ng), who keeps suppressing them.</desc>
+		<desc>Overcoming adversity, LAW WAI-SHUN (Edwin Siu) and YIU MAN-YING (Kristal Tin) successfully develop the business of Lo Son Kei and make it famous in both Hong Kong and Macau. However, their success upsets a junket promoter-turned-land developer, KO TIN-TSAU (Hugo Ng), who keeps suppressing them. WAI-SHUN is even betrayed by his close confidant TSU CHI-LIK (Mat Yeung).</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch288_BrothersKeeperII.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="859" start="20260611210000 +0000" stop="20260611220000 +0000">
 		<title>Brother's Keeper II - EP 22</title>
-		<desc>Overcoming adversity, LAW WAI-SHUN (Edwin Siu) and YIU MAN-YING (Kristal Tin) successfully develop the business of Lo Son Kei and make it famous in both Hong Kong and Macau. However, their success upsets a junket promoter-turned-land developer, KO TIN-TSAU (Hugo Ng), who keeps suppressing them.</desc>
+		<desc>Overcoming adversity, LAW WAI-SHUN (Edwin Siu) and YIU MAN-YING (Kristal Tin) successfully develop the business of Lo Son Kei and make it famous in both Hong Kong and Macau. However, their success upsets a junket promoter-turned-land developer, KO TIN-TSAU (Hugo Ng), who keeps suppressing them. WAI-SHUN is even betrayed by his close confidant TSU CHI-LIK (Mat Yeung).</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch288_BrothersKeeperII.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="859" start="20260611220000 +0000" stop="20260611230000 +0000">
 		<title>Country Spirit - EP 11</title>
-		<desc>KOO SAI LUNG (CHUN PUI) is the manager of a wine factory. He adopts his ex-girlfriend’s illegitimate son, SHUNG (LAM KA TUNG), out of kindness. SHUNG is cheerful and tolerates any kind of abuse.</desc>
+		<desc>KOO SAI LUNG (CHUN PUI) is the manager of a wine factory. He adopts his ex-girlfriend’s illegitimate son, SHUNG (LAM KA TUNG), out of kindness. SHUNG is cheerful and tolerates any kind of abuse. LUNG’s sister, YIU (TANG SHUI MAN), loves SHUNG. However, she cannot forget her former love KOU (TSANG WAI KUEN) who is dead.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch288_country_spirit.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="859" start="20260611230000 +0000" stop="20260612000000 +0000">
@@ -35053,7 +35077,7 @@ the Croods overcome the punch monkeys - and Phil - to save the farm?</desc>
 	</programme>
 	<programme channel="859" start="20260612000000 +0000" stop="20260612010000 +0000">
 		<title>Treasure of Destiny - EP 19</title>
-		<desc>Pork butcher stall lady boss Chu Ying-kiu (Katy Kung) has innate mystical power. But she is inflicted with some strange illness that causes her to grow a beard. She hopes to find the elixir mentioned in Sutra of Forty-two Chapters for treating her illness. Over the years, university Chinese language professor Cheung King (Moses Chan) has been passionate about finding this legendary treasure. However, he has been suffering from insomnia as he was devastated in an incident. Math genius Siu Kwai-chi (Kamen Kong) is clever and smart. She falls in love at first sight with A&amp;E male nurse Orr Kin-ning (Kalok Chow). Kwai-chi is torn between good and evil. And she really wants to find the treasure as she hopes to become an overnight millionaire. Fate brings Cheung King, Ying-kiu and Kwai-chi together. They come up with all kinds of schemes as they each want to snatch the treasure. While they compete with each other, a war on the human conscience’s immorality and righteousness has started. And it is a life-and -death struggle …</desc>
+		<desc>Pork butcher stall lady boss Chu Ying-kiu (Katy Kung) has innate mystical power. But she is inflicted with some strange illness that causes her to grow a beard. She hopes to find the elixir mentioned in Sutra of Forty-two Chapters for treating her illness. Over the years, university Chinese language professor Cheung King (Moses Chan) has been passionate about finding this legendary treasure. However, he has been suffering from insomnia as he was devastated in an incident.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch288_TreasureOFDestiny.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="859" start="20260612010000 +0000" stop="20260612020000 +0000">
