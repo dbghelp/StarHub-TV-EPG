@@ -599,22 +599,7 @@
 		<desc>Join Pinkfong and friends for more fun and adventure.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="102" start="20260612010000 +0000" stop="20260612011000 +0000">
-		<title>Pocoyo S4 - EP 7</title>
-		<desc>(Dual Language English and Mandarin) Pocoyo is a curious, fun-loving, friendly toddler who's always into something new whether he's on a quest with his friends in outer space or just cleaning up his blocks, every day is an adventure.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="102" start="20260612011000 +0000" stop="20260612012000 +0000">
-		<title>Pocoyo S4 - EP 8</title>
-		<desc>(Dual Language English and Mandarin) Pocoyo is a curious, fun-loving, friendly toddler who's always into something new whether he's on a quest with his friends in outer space or just cleaning up his blocks, every day is an adventure.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="102" start="20260612012000 +0000" stop="20260612013000 +0000">
-		<title>Pocoyo S4 - EP 9</title>
-		<desc>(Dual Language English and Mandarin) Pocoyo is a curious, fun-loving, friendly toddler who's always into something new whether he's on a quest with his friends in outer space or just cleaning up his blocks, every day is an adventure.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="102" start="20260612013000 +0000" stop="20260612020000 +0000">
+	<programme channel="102" start="20260612010000 +0000" stop="20260612020000 +0000">
 		<title>FIFA World Cup 2026 - Pre-Show - EP 2</title>
 		<desc>(Live) Pre-Show for FIFA World Cup 2026. The FIFA World Cup 2026 is the largest edition ever, featuring 48 teams and 104 matches across Canada, Mexico, and the United States from June 11 to July 19, 2026.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png?w=341&amp;h=192" />
@@ -9764,14 +9749,14 @@
 		<desc>A cab driver finds himself in a tough spot after he is suspected of a murder. Multiple stories unfold while he tries to prove himself innocent.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/159_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="159" start="20260612200000 +0000" stop="20260612220000 +0000">
-		<title>Information Not Available</title>
-		<desc />
+	<programme channel="159" start="20260612200000 +0000" stop="20260612223000 +0000">
+		<title>Movie - Oru Nadigayin Vaakkumoolam</title>
+		<desc>A reporter sets off to find an actress who disappeared into obscurity at the peak of her career. She finally finds the actress at a brothel and learns some shocking truths.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/159_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="159" start="20260612220000 +0000" stop="20260613040000 +0000">
-		<title>Information Not Available</title>
-		<desc />
+	<programme channel="159" start="20260612223000 +0000" stop="20260613010000 +0000">
+		<title>Movie - Othikai</title>
+		<desc>In all the Indian tourist spots especially hill stations, numerous lovers end their life for love but some lovers are being killed The movie deals with this subject with a mix of thriller, action and romance.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/159_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="159" start="20260613040000 +0000" stop="20260613100000 +0000">
@@ -10619,27 +10604,32 @@
 		<desc>A premier horse racing event where elite thoroughbreds and top jockeys compete, delivering speed, skill, and thrilling competition on the track.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_triple crown_belmont_stakes_2026.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="210" start="20260612080500 +0000" stop="20260612095500 +0000">
+	<programme channel="210" start="20260612080500 +0000" stop="20260612085500 +0000">
 		<title>2026 Longines Global Champions Tour, St. Tropez</title>
 		<desc>The world's top show jumping riders compete across prestigious international venues, showcasing elite skill, speed, and championship drama throughout the season.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_global_champions_tour.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="210" start="20260612095500 +0000" stop="20260612120000 +0000">
+	<programme channel="210" start="20260612085500 +0000" stop="20260612094000 +0000">
+		<title>Formula E Driver S2</title>
+		<desc>Go behind the scenes with Formula E drivers as they navigate fierce rivalries, high-pressure racing, and life beyond the track in the world of elite electric motorsport.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch210_formula_e.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="210" start="20260612094000 +0000" stop="20260612124000 +0000">
 		<title>2026 E1 World Championship Rd 3 Dubrovnik GP (Live)</title>
 		<desc>Immerse in the UIM E1 World Championship presented by PIF, a realm where relentless innovation, marine preservation, and exhilarating races converge, unveiling a new chapter in water sports.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_E1_world_championship.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="210" start="20260612120000 +0000" stop="20260612122500 +0000">
+	<programme channel="210" start="20260612124000 +0000" stop="20260612131000 +0000">
 		<title>2025/26 ALM Mini Match Grand Final Auckland FC vs Sydney FC</title>
 		<desc>Top flight men's soccer returns in the ISUZU UTE A-League Men. Catch every moment on SPOTV NOW as 12 teams compete in the regular season with top 4 advancing to a single-game knockout.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_a_league_men.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="210" start="20260612122500 +0000" stop="20260612152500 +0000">
+	<programme channel="210" start="20260612131000 +0000" stop="20260612154500 +0000">
 		<title>2026 E1 World Championship Rd 3 Dubrovnik GP (Live)</title>
 		<desc>Immerse in the UIM E1 World Championship presented by PIF, a realm where relentless innovation, marine preservation, and exhilarating races converge, unveiling a new chapter in water sports.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_E1_world_championship.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="210" start="20260612152500 +0000" stop="20260612180000 +0000">
+	<programme channel="210" start="20260612154500 +0000" stop="20260612180000 +0000">
 		<title>2026 Longines Global Champions Tour, St. Tropez (Live)</title>
 		<desc>The world's top show jumping riders compete across prestigious international venues, showcasing elite skill, speed, and championship drama throughout the season.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_global_champions_tour.jpg?w=960&amp;h=540" />
@@ -10765,99 +10755,99 @@
 		<icon src="https://poster.starhubgo.com/poster/ch211_superlig.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="211" start="20260612030500 +0000" stop="20260612032000 +0000">
-		<title>Roland Garros Match H/Ls 2025 Women’s Singles SF 2 Gauff v Boisson</title>
+		<title>Roland Garros Match H/Ls: 2025 Women's Singles SF 2 Gauff v Boisson</title>
 		<desc>Review the best actions and moments from the Roland Garros</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_roland_garros.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="211" start="20260612032000 +0000" stop="20260612034500 +0000">
-		<title>HSBC SVNS World C'ships 2026 Brazil vs Great Britain - 9th Place SF 1, Bordeaux</title>
+		<title>HSBC SVNS World C'ships 2026: Brazil vs Great Britain - 9th Place SF 1, Bordeaux</title>
 		<desc>Catch the action from the world's very best rugby sevens stars from the top tier of a new three-division global Sevens model, from sunrise to sunset.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_HSBCSVNSSeries2026.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="211" start="20260612034500 +0000" stop="20260612041000 +0000">
-		<title>HSBC SVNS World C'ships 2026 Argentina vs South Africa - 9th Place SF 2, Bordeau</title>
+		<title>HSBC SVNS World C'ships 2026: Argentina vs South Africa - 9th Place SF 2, Bordea</title>
 		<desc>Catch the action from the world's very best rugby sevens stars from the top tier of a new three-division global Sevens model, from sunrise to sunset.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_HSBCSVNSSeries2026.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="211" start="20260612041000 +0000" stop="20260612044000 +0000">
-		<title>HSBC SVNS World C'ships 2026 Brazil vs South Africa - 11th Playoffs, Bordeaux -</title>
+		<title>HSBC SVNS World C'ships 2026: Brazil vs South Africa - 11th Playoffs, Bordeaux -</title>
 		<desc>Catch the action from the world's very best rugby sevens stars from the top tier of a new three-division global Sevens model, from sunrise to sunset.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_HSBCSVNSSeries2026.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="211" start="20260612044000 +0000" stop="20260612050500 +0000">
-		<title>HSBC SVNS World C'ships 2026 Kenya vs Uruguay - 11th Playoffs, Bordeaux - Men</title>
+		<title>HSBC SVNS World C'ships 2026: Kenya vs Uruguay - 11th Playoffs, Bordeaux - Men</title>
 		<desc>Catch the action from the world's very best rugby sevens stars from the top tier of a new three-division global Sevens model, from sunrise to sunset.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_HSBCSVNSSeries2026.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="211" start="20260612050500 +0000" stop="20260612053000 +0000">
-		<title>HSBC SVNS World C'ships 2026 Great Britain vs Argentina - 9th Playoffs, Bordeaux</title>
+		<title>HSBC SVNS World C'ships 2026: Great Britain vs Argentina - 9th Playoffs, Bordeau</title>
 		<desc>Catch the action from the world's very best rugby sevens stars from the top tier of a new three-division global Sevens model, from sunrise to sunset.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_HSBCSVNSSeries2026.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="211" start="20260612053000 +0000" stop="20260612055500 +0000">
-		<title>HSBC SVNS World C'ships 2026 Germany vs Argentina - 9th Playoffs, Bordeaux - Men</title>
+		<title>HSBC SVNS World C'ships 2026: Germany vs Argentina - 9th Playoffs, Bordeaux - Me</title>
 		<desc>Catch the action from the world's very best rugby sevens stars from the top tier of a new three-division global Sevens model, from sunrise to sunset.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_HSBCSVNSSeries2026.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="211" start="20260612055500 +0000" stop="20260612062000 +0000">
-		<title>HSBC SVNS World C'ships 2026 Canada vs New Zealand - Cup SF 1, Bordeaux - Women</title>
+		<title>HSBC SVNS World C'ships 2026: Canada vs New Zealand - Cup SF 1, Bordeaux - Women</title>
 		<desc>Catch the action from the world's very best rugby sevens stars from the top tier of a new three-division global Sevens model, from sunrise to sunset.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_HSBCSVNSSeries2026.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="211" start="20260612062000 +0000" stop="20260612064500 +0000">
-		<title>HSBC SVNS World C'ships 2026 USA vs Australia - Cup SF 2, Bordeaux - Women</title>
+		<title>HSBC SVNS World C'ships 2026: USA vs Australia - Cup SF 2, Bordeaux - Women</title>
 		<desc>Catch the action from the world's very best rugby sevens stars from the top tier of a new three-division global Sevens model, from sunrise to sunset.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_HSBCSVNSSeries2026.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="211" start="20260612064500 +0000" stop="20260612071000 +0000">
-		<title>HSBC SVNS World C'ships 2026 France vs South Africa - Cup SF 1, Bordeaux - Men</title>
+		<title>HSBC SVNS World C'ships 2026: France vs South Africa - Cup SF 1, Bordeaux - Men</title>
 		<desc>Catch the action from the world's very best rugby sevens stars from the top tier of a new three-division global Sevens model, from sunrise to sunset.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_HSBCSVNSSeries2026.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="211" start="20260612071000 +0000" stop="20260612073500 +0000">
-		<title>HSBC SVNS World C'ships 2026 New Zealand vs Spain - Cup SF 2, Bordeaux - Men</title>
+		<title>HSBC SVNS World C'ships 2026: New Zealand vs Spain - Cup SF 2, Bordeaux - Men</title>
 		<desc>Catch the action from the world's very best rugby sevens stars from the top tier of a new three-division global Sevens model, from sunrise to sunset.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_HSBCSVNSSeries2026.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="211" start="20260612073500 +0000" stop="20260612080000 +0000">
-		<title>HSBC SVNS World C'ships 2026 Spain vs Japan - 7th Playoff, Bordeaux - Women</title>
+		<title>HSBC SVNS World C'ships 2026: Spain vs Japan - 7th Playoff, Bordeaux - Women</title>
 		<desc>Catch the action from the world's very best rugby sevens stars from the top tier of a new three-division global Sevens model, from sunrise to sunset.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_HSBCSVNSSeries2026.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="211" start="20260612080000 +0000" stop="20260612093000 +0000">
-		<title>Premier Padel 2026 Valencia P1 Day 5 QF Match 1 (Live)</title>
+		<title>Premier Padel 2026: Valencia P1 Day 5 QF Match 1 (Live)</title>
 		<desc>The official global Padel tour. Catch world's top players battle it out across the globe.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_premier_padel.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="211" start="20260612093000 +0000" stop="20260612110000 +0000">
-		<title>Premier Padel 2026 Valencia P1 Day 5 QF Match 2 (Live)</title>
+		<title>Premier Padel 2026: Valencia P1 Day 5 QF Match 2 (Live)</title>
 		<desc>The official global Padel tour. Catch world's top players battle it out across the globe.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_premier_padel.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="211" start="20260612110000 +0000" stop="20260612123000 +0000">
-		<title>Premier Padel 2026 Valencia P1 Day 5 QF Match 3 (Live)</title>
+		<title>Premier Padel 2026: Valencia P1 Day 5 QF Match 3 (Live)</title>
 		<desc>The official global Padel tour. Catch world's top players battle it out across the globe.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_premier_padel.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="211" start="20260612123000 +0000" stop="20260612130000 +0000">
-		<title>HSBC SVNS World C'ships 2026 France vs New Zealand - Cup Final, Bordeaux - Men</title>
+		<title>HSBC SVNS World C'ships 2026: France vs New Zealand - Cup Final, Bordeaux - Men</title>
 		<desc>Catch the action from the world's very best rugby sevens stars from the top tier of a new three-division global Sevens model, from sunrise to sunset.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_HSBCSVNSSeries2026.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="211" start="20260612130000 +0000" stop="20260612143000 +0000">
-		<title>Premier Padel 2026 Valencia P1 Day 5 QF Match 4 (Live)</title>
+		<title>Premier Padel 2026: Valencia P1 Day 5 QF Match 4 (Live)</title>
 		<desc>The official global Padel tour. Catch world's top players battle it out across the globe.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_premier_padel.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="211" start="20260612143000 +0000" stop="20260612170000 +0000">
-		<title>Premier Padel 2026 Valencia P1 Day 5 QF Match 5 (Live)</title>
+	<programme channel="211" start="20260612143000 +0000" stop="20260612160000 +0000">
+		<title>Premier Padel 2026: Valencia P1 Day 5 QF Match 5 (Live)</title>
 		<desc>The official global Padel tour. Catch world's top players battle it out across the globe.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_premier_padel.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="211" start="20260612170000 +0000" stop="20260612173000 +0000">
-		<title>UCI World Tour H/Ls 2026</title>
-		<desc>Highlights of the premier men's elite road cycling tour.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch211_uci_world_tour_2026.jpg?w=341&amp;h=192" />
+	<programme channel="211" start="20260612160000 +0000" stop="20260612173000 +0000">
+		<title>Premier Padel 2026: Valencia P1 Day 5 QF Match 6 (Live)</title>
+		<desc>The official global Padel tour. Catch world's top players battle it out across the globe.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch211_premier_padel.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="211" start="20260612173000 +0000" stop="20260612190000 +0000">
 		<title>Premier Padel 2026: Valencia P1 Day 5 QF Match 7 (Live)</title>
@@ -10926,11 +10916,6 @@
 	</programme>
 	<programme channel="211" start="20260613070500 +0000" stop="20260613073000 +0000">
 		<title>HSBC SVNS World C'ships 2026: New Zealand vs Australia - Cup Final, Bordeaux - W</title>
-		<desc>Catch the action from the world's very best rugby sevens stars from the top tier of a new three-division global Sevens model, from sunrise to sunset.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch211_HSBCSVNSSeries2026.jpg?w=341&amp;h=192" />
-	</programme>
-	<programme channel="211" start="20260613073000 +0000" stop="20260613080000 +0000">
-		<title>HSBC SVNS World C'ships 2026: France vs New Zealand - Cup Final, Bordeaux - Men</title>
 		<desc>Catch the action from the world's very best rugby sevens stars from the top tier of a new three-division global Sevens model, from sunrise to sunset.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_HSBCSVNSSeries2026.jpg?w=341&amp;h=192" />
 	</programme>
@@ -11105,7 +11090,7 @@
 		<icon src="https://poster.starhubgo.com/poster/ch213_fastzone.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="213" start="20260612112500 +0000" stop="20260612123000 +0000">
-		<title>Formula 1 Practice 2026: FORMULA 1 MSC CRUISES GRAN PREMIO DE BARCELONA-CATALUNYA 2026 (Live)</title>
+		<title>Formula 1 Practice 2026: FORMULA 1 MSC CRUISES GRAN PREMIO DE BARCELONA-CATALUNY</title>
 		<desc>beIN Sports brings you live and exclusive coverage of the 2026 Formula 1 World Championship.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch213_formula1_generic.jpg?w=960&amp;h=540" />
 	</programme>
@@ -11140,7 +11125,7 @@
 		<icon src="https://poster.starhubgo.com/poster/ch213_24_hours_of_le_mans.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="213" start="20260612145500 +0000" stop="20260612160000 +0000">
-		<title>Formula 1 Practice 2026: FORMULA 1 MSC CRUISES GRAN PREMIO DE BARCELONA-CATALUNYA 2026 (Live)</title>
+		<title>Formula 1 Practice 2026: FORMULA 1 MSC CRUISES GRAN PREMIO DE BARCELONA-CATALUNY</title>
 		<desc>beIN Sports brings you live and exclusive coverage of the 2026 Formula 1 World Championship.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch213_formula1_generic.jpg?w=960&amp;h=540" />
 	</programme>
@@ -11200,7 +11185,7 @@
 		<icon src="https://poster.starhubgo.com/poster/ch213_formula_2_generic.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="213" start="20260612234500 +0000" stop="20260613004500 +0000">
-		<title>Formula 1 Practice 2026: FORMULA 1 MSC CRUISES GRAN PREMIO DE BARCELONA-CATALUNYA 2026</title>
+		<title>Formula 1 Practice 2026: FORMULA 1 MSC CRUISES GRAN PREMIO DE BARCELONA-CATALUNY</title>
 		<desc>beIN Sports brings you live and exclusive coverage of the 2026 Formula 1 World Championship.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch213_formula1_generic.jpg?w=960&amp;h=540" />
 	</programme>
@@ -12819,15 +12804,10 @@
 		<desc>(Live) The FIFA World Cup 2026 is the largest edition ever, featuring 48 teams and 104 matches across Canada, Mexico, and the United States from June 11 to July 19, 2026.</desc>
 		<icon src="https://poster.starhubgo.com/poster/12Jun_KOR-CZE.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="251" start="20260612040000 +0000" stop="20260612043000 +0000">
+	<programme channel="251" start="20260612040000 +0000" stop="20260612050000 +0000">
 		<title>FIFA World Cup 2026 - Post-Show - EP 2</title>
 		<desc>(Live) Post-Show for FIFA World Cup 2026. The FIFA World Cup 2026 is the largest edition ever, featuring 48 teams and 104 matches across Canada, Mexico, and the United States from June 11 to July 19, 2026.</desc>
 		<icon src="https://poster.starhubgo.com/poster/12Jun_KOR-CZE.jpg?w=960&amp;h=540" />
-	</programme>
-	<programme channel="251" start="20260612043000 +0000" stop="20260612050000 +0000">
-		<title>Football's Greatest Stage - EP 15</title>
-		<desc>The most prolific international goalscorer of all time defies age and logic to keep on scoring.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch251_footballs_greatest_stage.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="251" start="20260612050000 +0000" stop="20260612053000 +0000">
 		<title>Football's Greatest Stage - EP 16</title>
@@ -12876,12 +12856,12 @@
 	</programme>
 	<programme channel="251" start="20260612093000 +0000" stop="20260612100000 +0000">
 		<title>Football's Greatest Stage - EP 25</title>
-		<desc>Platini and Maldini never won the World Cup-but their brilliance and legacy still shine on football’s greatest stage.</desc>
+		<desc>Platini and Maldini never won the World Cupbut their brilliance and legacy still shine on football’s greatest stage.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch251_footballs_greatest_stage.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="251" start="20260612100000 +0000" stop="20260612103000 +0000">
 		<title>Football's Greatest Stage - EP 26</title>
-		<desc>Roberto Carlos revolutionized football like Uruguay’s legendary teams, France’s unflappable Fabien Barthez, and Jack Charlton’s game‑changing Ireland.</desc>
+		<desc>Roberto Carlos revolutionized football like Uruguay’s legendary teams, France’s unflappable Fabien Barthez, and Jack Charlton’s gamechanging Ireland.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch251_footballs_greatest_stage.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="251" start="20260612103000 +0000" stop="20260612110000 +0000">
@@ -12894,18 +12874,13 @@
 		<desc>Match Day Express brings you the goals, the plays, and the heroes of all 104 matches of the FIFA World Cup 2026!</desc>
 		<icon src="https://poster.starhubgo.com/Linear_Channels2/251_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="251" start="20260612113500 +0000" stop="20260612133500 +0000">
+	<programme channel="251" start="20260612113500 +0000" stop="20260612140000 +0000">
 		<title>FIFA World Cup 2026 Group Stage: Mexico v South Africa - EP 1</title>
-		<desc>The FIFA World Cup 2026 is the largest edition ever, featuring 48 teams and 104 matches across Canada, Mexico, and the United States from June 11 to July 19, 2026.</desc>
+		<desc>(Live) The FIFA World Cup 2026 is the largest edition ever, featuring 48 teams and 104 matches across Canada, Mexico, and the United States from June 11 to July 19, 2026.</desc>
 		<icon src="https://poster.starhubgo.com/poster/12Jun_MEX-RSA.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="251" start="20260612133500 +0000" stop="20260612140000 +0000">
-		<title>FIFA World Cup 26: Stories from the Cities - EP 2</title>
-		<desc>A documentary series that journeys through Canada, Mexico, and the United States, exploring the 16 host cities of the 2026 FIFA World Cup. Hosted by Jenny Chiu alongside local experts, the show uncovers the grassroots, culture, and football soul in each city ahead of the tournament.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch251_fifa_world_cup_26_stories_from_the_cities.jpg?w=341&amp;h=192" />
-	</programme>
 	<programme channel="251" start="20260612140000 +0000" stop="20260612160000 +0000">
-		<title>FIFA World Cup 2026 Group Stage: South Korea v Czechia - EP 2</title>
+		<title>FIFA World Cup 2026 - EP 2</title>
 		<desc>The FIFA World Cup 2026 is the largest edition ever, featuring 48 teams and 104 matches across Canada, Mexico, and the United States from June 11 to July 19, 2026.</desc>
 		<icon src="https://poster.starhubgo.com/poster/12Jun_KOR-CZE.jpg?w=960&amp;h=540" />
 	</programme>
@@ -28013,7 +27988,7 @@ the Croods overcome the punch monkeys - and Phil - to save the farm?</desc>
 	<programme channel="724" start="20260612171000 +0000" stop="20260612180000 +0000">
 		<title>The World This Week</title>
 		<desc>Join host Francois Picard's and his team of Paris-based journalists, as they explore all of the week's most interesting and important news stories. Viewers can react to mentioned stories and the host reads their comments.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch724_the_world_this_week.jpg?w=960&amp;h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch724_the_reporters_week.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="724" start="20260612180000 +0000" stop="20260612181500 +0000">
 		<title>News</title>
@@ -28118,7 +28093,7 @@ the Croods overcome the punch monkeys - and Phil - to save the farm?</desc>
 	<programme channel="724" start="20260612221000 +0000" stop="20260612230000 +0000">
 		<title>The World This Week</title>
 		<desc>Join host Francois Picard's and his team of Paris-based journalists, as they explore all of the week's most interesting and important news stories. Viewers can react to mentioned stories and the host reads their comments.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch724_the_world_this_week.jpg?w=960&amp;h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch724_the_reporters_week.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="724" start="20260612230000 +0000" stop="20260612231500 +0000">
 		<title>News</title>
@@ -30156,7 +30131,7 @@ the Croods overcome the punch monkeys - and Phil - to save the farm?</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="811" start="20260612015000 +0000" stop="20260612023500 +0000">
-		<title>The 49th Creative TV Drama Award-winning Drama "One Day, My Wife's Panties" (R)</title>
+		<title>The 49th Creative TV Drama Award-winning Drama "One Day, My Wife's Panties"(R)</title>
 		<desc>The Creative TV Drama Award, jointly hosted by the Television and Radio Writers’ Association and NHK, presents its 49th Grand Prize winner -selected from 1,056 entries-now brought to life. Namiki Sota (Kura Yuki), who struggles to fit into society, becomes obsessed after accidentally losing his wife’s panties in a river. Later that stormy night, he rushes to retrieve them, causing a public commotion.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
@@ -30892,7 +30867,7 @@ the Croods overcome the punch monkeys - and Phil - to save the farm?</desc>
 	</programme>
 	<programme channel="812" start="20260612114300 +0000" stop="20260612115500 +0000">
 		<title>Impacts: Climates Change the World</title>
-		<desc>The entire Earth is affected by climate change occurring with a greater speed and scale than ever before - this programme uses scientific data and the latest findings to raise awareness on its impact.</desc>
+		<desc>The key to global warming may lie underground: soil contains far more carbon than the atmosphere, but overdevelopment of farmland releases it as CO2. We explore efforts to capture carbon in the soil.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch374_ImpactsClimates.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20260612115500 +0000" stop="20260612120000 +0000">
@@ -30947,7 +30922,7 @@ the Croods overcome the punch monkeys - and Phil - to save the farm?</desc>
 	</programme>
 	<programme channel="812" start="20260612163000 +0000" stop="20260612170000 +0000">
 		<title>Frontrunners</title>
-		<desc>This show highlights professionals at the very forefront of their fields - we showcase their amazing work, discover their motivations, and learn about the challenges they face in the future.</desc>
+		<desc>Social entrepreneur Doya Yuto supports Ghana through his fashion brand and NPO. By providing fair wages and reinvesting profits, he builds schools and expands education in disadvantaged communities.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch374_Frontrunners.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20260612170000 +0000" stop="20260612173000 +0000">
@@ -30957,7 +30932,7 @@ the Croods overcome the punch monkeys - and Phil - to save the farm?</desc>
 	</programme>
 	<programme channel="812" start="20260612173000 +0000" stop="20260612180000 +0000">
 		<title>Asia Insight</title>
-		<desc>Dynamic Asia - the stories behind the world's largest continent as it faces political, economic, cultural and technological change.</desc>
+		<desc>An in-depth look at the realities of Asia today -- a dynamic region which faces political, economic, cultural, and technological change.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch374_AsiaInsight.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20260612180000 +0000" stop="20260612182800 +0000">
@@ -30967,12 +30942,12 @@ the Croods overcome the punch monkeys - and Phil - to save the farm?</desc>
 	</programme>
 	<programme channel="812" start="20260612182800 +0000" stop="20260612184300 +0000">
 		<title>Direct Talk</title>
-		<desc>Direct and in-depth interviews exploring the minds and motivations of the leaders, visionaries, artists and entrepreneurs who are changing our world.</desc>
+		<desc>Ito Satomi has designed costumes for many top-tier figure skaters from Japan and overseas - she shares her passion and inspiration for her craft.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch374_DirectTalk.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="812" start="20260612184300 +0000" stop="20260612185500 +0000">
 		<title>Impacts: Climates Change the World</title>
-		<desc>The entire Earth is affected by climate change occurring with a greater speed and scale than ever before - this programme uses scientific data and the latest findings to raise awareness on its impact.</desc>
+		<desc>The key to global warming may lie underground: soil contains far more carbon than the atmosphere, but overdevelopment of farmland releases it as CO2. We explore efforts to capture carbon in the soil.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch374_ImpactsClimates.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20260612185500 +0000" stop="20260612190000 +0000">
@@ -30986,9 +30961,9 @@ the Croods overcome the punch monkeys - and Phil - to save the farm?</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch374_MedicalFrontiers.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="812" start="20260612193000 +0000" stop="20260612200000 +0000">
-		<title>NHK World Selection</title>
-		<desc>A selection of acclaimed programmes from NHK's domestic channels dubbed into English.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch374_NHKWorldSelection.jpg?w=960&amp;h=540" />
+		<title>Voices of the Blind Songstresses</title>
+		<desc>In Japan, 'goze' were blind female travelling performers - we look at the lives of the songstresses who travelled throughout Japan with shamisen in hand and sang their songs to earn a living.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20260612200000 +0000" stop="20260612203000 +0000">
 		<title>NHK Newsline</title>
@@ -31007,7 +30982,7 @@ the Croods overcome the punch monkeys - and Phil - to save the farm?</desc>
 	</programme>
 	<programme channel="812" start="20260612213000 +0000" stop="20260612220000 +0000">
 		<title>Today's Close-Up</title>
-		<desc>Dig deeper into current affairs with cutting-edge information and critical analysis on important issues confronting Japanese lives.</desc>
+		<desc>Dig deeper into current affairs. Cutting-edge information and critical analysis on important issues confronting Japanese lives.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch374_TodaysCloseUp.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20260612220000 +0000" stop="20260612223000 +0000">
@@ -31017,7 +30992,7 @@ the Croods overcome the punch monkeys - and Phil - to save the farm?</desc>
 	</programme>
 	<programme channel="812" start="20260612223000 +0000" stop="20260612230000 +0000">
 		<title>Asia Insight</title>
-		<desc>Dynamic Asia - the stories behind the world's largest continent as it faces political, economic, cultural and technological change.</desc>
+		<desc>An in-depth look at the realities of Asia today -- a dynamic region which faces political, economic, cultural, and technological change.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch374_AsiaInsight.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20260612230000 +0000" stop="20260612231000 +0000">
@@ -31027,12 +31002,12 @@ the Croods overcome the punch monkeys - and Phil - to save the farm?</desc>
 	</programme>
 	<programme channel="812" start="20260612231000 +0000" stop="20260612231500 +0000">
 		<title>Chatroom Japan</title>
-		<desc>A spotlight on our diverse international community as we report on issues, speak to those involved, and get a fresh look at what it's like to live in Japan.</desc>
+		<desc>A monk from Myanmar came to Japan to build a temple for the people of his country - he believes it's his mission to offer them a place of sanctuary and provide them with physical and mental comfort.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch374_ChatroomJapan.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20260612231500 +0000" stop="20260612233000 +0000">
 		<title>Japan's Top Inventions</title>
-		<desc>The stories and secrets behind world-renowned Japanese products revealed through interviews and reenactments - join our reporter for an exciting behind-the-scenes look at Japanese craftsmanship.</desc>
+		<desc>Discover the stories behind renowned Japanese products alongside our reporter. This time: taste sensing systems.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch374_JapansTopInventions.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="812" start="20260612233000 +0000" stop="20260613000000 +0000">
