@@ -6794,7 +6794,12 @@
 		<desc>A poster artist, struggles to find work with the advent of digital technology. Release Year: 2019 Director: Anvar Sadik</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="140" start="20260614013000 +0000" stop="20260614043000 +0000">
+	<programme channel="140" start="20260614013000 +0000" stop="20260614015000 +0000">
+		<title>Filler:Chirikkum Thalika II - EP 75</title>
+		<desc>A carefree man's life turns chaotic when unexpected events and hilarious twists push him to face responsibility, friendship and love in the most amusing ways.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="140" start="20260614015000 +0000" stop="20260614043000 +0000">
 		<title>Falimy</title>
 		<desc>A respected mentor's hidden evil challenges village values, masking a false normalcy clash. Release Year: 2023 Director: Nithish Sahadev</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=341&amp;h=192" />
@@ -12254,17 +12259,27 @@
 		<desc>Match Day Express brings you the goals, the plays, and the heroes of all 104 matches of the FIFA World Cup 2026!</desc>
 		<icon src="https://poster.starhubgo.com/Linear_Channels2/251_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="251" start="20260613113500 +0000" stop="20260613133500 +0000">
+	<programme channel="251" start="20260613113500 +0000" stop="20260613140000 +0000">
 		<title>FIFA World Cup 2026 Group Stage: USA v Paraguay - EP 7</title>
 		<desc>The FIFA World Cup 2026 is the largest edition ever, featuring 48 teams and 104 matches across Canada, Mexico, and the United States from June 11 to July 19, 2026.</desc>
 		<icon src="https://poster.starhubgo.com/poster/13Jun_USA-PAR.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="251" start="20260613133500 +0000" stop="20260613160000 +0000">
-		<title>FIFA World Cup 2026 Group Stage: Canada v Bosnia and Herzegovina - EP 3</title>
-		<desc>The FIFA World Cup 2026 is the largest edition ever, featuring 48 teams and 104 matches across Canada, Mexico, and the United States from June 11 to July 19, 2026.</desc>
-		<icon src="https://poster.starhubgo.com/poster/13Jun_CAN-BIH.jpg?w=341&amp;h=192" />
+	<programme channel="251" start="20260613140000 +0000" stop="20260613143000 +0000">
+		<title>FIFA World Cup 26: Stories from the Cities - EP 8</title>
+		<desc>A documentary series that journeys through Canada, Mexico, and the United States, exploring the 16 host cities of the 2026 FIFA World Cup. Hosted by Jenny Chiu alongside local experts, the show uncovers the grassroots, culture, and football soul in each city ahead of the tournament.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch251_fifa_world_cup_26_stories_from_the_cities.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="251" start="20260613160000 +0000" stop="20260613180000 +0000">
+	<programme channel="251" start="20260613143000 +0000" stop="20260613150000 +0000">
+		<title>FIFA World Cup 26: Stories from the Cities - EP 9</title>
+		<desc>A documentary series that journeys through Canada, Mexico, and the United States, exploring the 16 host cities of the 2026 FIFA World Cup. Hosted by Jenny Chiu alongside local experts, the show uncovers the grassroots, culture, and football soul in each city ahead of the tournament.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch251_fifa_world_cup_26_stories_from_the_cities.jpg?w=960&amp;h=540" />
+	</programme>
+	<programme channel="251" start="20260613150000 +0000" stop="20260613153000 +0000">
+		<title>The Contenders 26 - EP 1</title>
+		<desc>Lionel Messi is set to break records in 2026, Japan are aiming to reach the QF for the first time, and we look at the successful CONCACAF bid.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch251_the_contenders_26.jpg?w=960&amp;h=540" />
+	</programme>
+	<programme channel="251" start="20260613153000 +0000" stop="20260613180000 +0000">
 		<title>FIFA World Cup 2026 Group Stage: USA v Paraguay - EP 7</title>
 		<desc>The FIFA World Cup 2026 is the largest edition ever, featuring 48 teams and 104 matches across Canada, Mexico, and the United States from June 11 to July 19, 2026.</desc>
 		<icon src="https://poster.starhubgo.com/poster/13Jun_USA-PAR.jpg?w=960&amp;h=540" />
@@ -12324,20 +12339,15 @@
 		<desc>(Live) The FIFA World Cup 2026 is the largest edition ever, featuring 48 teams and 104 matches across Canada, Mexico, and the United States from June 11 to July 19, 2026.</desc>
 		<icon src="https://poster.starhubgo.com/poster/14Jun_AUS-TUR.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="251" start="20260614060000 +0000" stop="20260614063000 +0000">
+	<programme channel="251" start="20260614060000 +0000" stop="20260614070000 +0000">
 		<title>FIFA World Cup 2026 - Post-Show - EP 8</title>
 		<desc>(Live) Post-Show for FIFA World Cup 2026. The FIFA World Cup 2026 is the largest edition ever, featuring 48 teams and 104 matches across Canada, Mexico, and the United States from June 11 to July 19, 2026.</desc>
 		<icon src="https://poster.starhubgo.com/poster/14Jun_AUS-TUR.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="251" start="20260614063000 +0000" stop="20260614083000 +0000">
+	<programme channel="251" start="20260614070000 +0000" stop="20260614090000 +0000">
 		<title>FIFA World Cup 2026 Group Stage: Qatar v Switzerland - EP 4</title>
 		<desc>The FIFA World Cup 2026 is the largest edition ever, featuring 48 teams and 104 matches across Canada, Mexico, and the United States from June 11 to July 19, 2026.</desc>
-		<icon src="https://poster.starhubgo.com/poster/14Jun_QAT-SUI.jpg?w=341&amp;h=192" />
-	</programme>
-	<programme channel="251" start="20260614083000 +0000" stop="20260614090000 +0000">
-		<title>FIFA World Cup 26: Stories from the Cities - EP 10</title>
-		<desc>A documentary series that journeys through Canada, Mexico, and the United States, exploring the 16 host cities of the 2026 FIFA World Cup. Hosted by Jenny Chiu alongside local experts, the show uncovers the grassroots, culture, and football soul in each city ahead of the tournament.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch251_fifa_world_cup_26_stories_from_the_cities.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/14Jun_QAT-SUI.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="251" start="20260614090000 +0000" stop="20260614110000 +0000">
 		<title>FIFA World Cup 2026 Group Stage: Brazil v Morocco - EP 5</title>
@@ -12355,7 +12365,7 @@
 		<icon src="https://poster.starhubgo.com/poster/14Jun_HAI-SCO.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="251" start="20260614133500 +0000" stop="20260614140000 +0000">
-		<title>FIFA World Cup 26: Stories from the Cities - EP 11</title>
+		<title>FIFA World Cup 26: Stories from the Cities - EP 10</title>
 		<desc>A documentary series that journeys through Canada, Mexico, and the United States, exploring the 16 host cities of the 2026 FIFA World Cup. Hosted by Jenny Chiu alongside local experts, the show uncovers the grassroots, culture, and football soul in each city ahead of the tournament.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch251_fifa_world_cup_26_stories_from_the_cities.jpg?w=341&amp;h=192" />
 	</programme>
@@ -33032,12 +33042,12 @@
 	<programme channel="838" start="20260613020000 +0000" stop="20260613030000 +0000">
 		<title>Secret Door - EP 16</title>
 		<desc>Zhong Zi Kiu and Cheung Sam Yue are childhood friends who have taken very different paths due to crimes committed by their fathers. What will come of their encounter years later?</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch838_shades_of_life.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch838_secret_door.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="838" start="20260613030000 +0000" stop="20260613040000 +0000">
 		<title>Secret Door - EP 17</title>
 		<desc>Zhong Zi Kiu and Cheung Sam Yue are childhood friends who have taken very different paths due to crimes committed by their fathers. What will come of their encounter years later?</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch838_shades_of_life.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch838_secret_door.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="838" start="20260613040000 +0000" stop="20260613043000 +0000">
 		<title>Scoop 2026</title>
