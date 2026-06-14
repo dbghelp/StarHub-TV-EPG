@@ -5715,7 +5715,7 @@
 		<icon src="https://poster.starhubgo.com/poster/ch135_cooku_with_comali_s07_double_trouble.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="135" start="20260613190000 +0000" stop="20260613193000 +0000">
-		<title>TBA</title>
+		<title>Cooku with comali S07 - EP 14</title>
 		<desc>The name of the program is yet to be announced by the channel.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch135_tba.jpg?w=960&amp;h=540" />
 	</programme>
@@ -5780,7 +5780,7 @@
 		<icon src="https://poster.starhubgo.com/poster/ch135_andakakasam_s04.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="135" start="20260614073000 +0000" stop="20260614103000 +0000">
-		<title>TBA</title>
+		<title>Youth</title>
 		<desc>The name of the program is yet to be announced by the channel.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch135_tba.jpg?w=960&amp;h=540" />
 	</programme>
@@ -5820,7 +5820,7 @@
 		<icon src="https://poster.starhubgo.com/poster/ch135_andakakasam_s04.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="135" start="20260614193000 +0000" stop="20260614223000 +0000">
-		<title>TBA</title>
+		<title>Youth</title>
 		<desc>The name of the program is yet to be announced by the channel.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch135_tba.jpg?w=960&amp;h=540" />
 	</programme>
@@ -12325,7 +12325,7 @@
 		<icon src="https://poster.starhubgo.com/poster/ch251_fifa_world_cup_26_stories_from_the_cities.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="251" start="20260614103000 +0000" stop="20260614110000 +0000">
-		<title>FIFA World Cup 26: Stories from the Cities - EP 12</title>
+		<title>FIFA World Cup 26: Stories from the Cities - EP 10</title>
 		<desc>A documentary series that journeys through Canada, Mexico, and the United States, exploring the 16 host cities of the 2026 FIFA World Cup. Hosted by Jenny Chiu alongside local experts, the show uncovers the grassroots, culture, and football soul in each city ahead of the tournament.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch251_fifa_world_cup_26_stories_from_the_cities.jpg?w=960&amp;h=540" />
 	</programme>
@@ -12340,9 +12340,9 @@
 		<icon src="https://poster.starhubgo.com/poster/14Jun_BRA-MAR.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="251" start="20260614134500 +0000" stop="20260614160000 +0000">
-		<title>FIFA World Cup 2026 Group Stage: Haiti v Scotland - EP 6</title>
+		<title>FIFA World Cup 2026 Group Stage: Australia v Turkey - EP 8</title>
 		<desc>The FIFA World Cup 2026 is the largest edition ever, featuring 48 teams and 104 matches across Canada, Mexico, and the United States from June 11 to July 19, 2026.</desc>
-		<icon src="https://poster.starhubgo.com/poster/14Jun_HAI-SCO.jpg?w=960&amp;h=540" />
+		<icon src="https://poster.starhubgo.com/poster/14Jun_AUS-TUR.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="251" start="20260614160000 +0000" stop="20260614170000 +0000">
 		<title>FIFA World Cup 2026 - Pre-Show - EP 9</title>
@@ -12404,35 +12404,40 @@
 		<desc>(Live) Post-Show for FIFA World Cup 2026. The FIFA World Cup 2026 is the largest edition ever, featuring 48 teams and 104 matches across Canada, Mexico, and the United States from June 11 to July 19, 2026.</desc>
 		<icon src="https://poster.starhubgo.com/poster/15Jun_SWE-TUN.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="251" start="20260615050000 +0000" stop="20260615070000 +0000">
+	<programme channel="251" start="20260615050000 +0000" stop="20260615053000 +0000">
+		<title>FIFA World Cup 26: Stories from the Cities - EP 13</title>
+		<desc>A documentary series that journeys through Canada, Mexico, and the United States, exploring the 16 host cities of the 2026 FIFA World Cup. Hosted by Jenny Chiu alongside local experts, the show uncovers the grassroots, culture, and football soul in each city ahead of the tournament.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch251_fifa_world_cup_26_stories_from_the_cities.jpg?w=960&amp;h=540" />
+	</programme>
+	<programme channel="251" start="20260615053000 +0000" stop="20260615074500 +0000">
+		<title>FIFA World Cup 2026 Group Stage: Haiti v Scotland - EP 6</title>
+		<desc>The FIFA World Cup 2026 is the largest edition ever, featuring 48 teams and 104 matches across Canada, Mexico, and the United States from June 11 to July 19, 2026.</desc>
+		<icon src="https://poster.starhubgo.com/poster/14Jun_HAI-SCO.jpg?w=960&amp;h=540" />
+	</programme>
+	<programme channel="251" start="20260615074500 +0000" stop="20260615081500 +0000">
+		<title>FIFA World Cup 26: Stories from the Cities - EP 14</title>
+		<desc>A documentary series that journeys through Canada, Mexico, and the United States, exploring the 16 host cities of the 2026 FIFA World Cup. Hosted by Jenny Chiu alongside local experts, the show uncovers the grassroots, culture, and football soul in each city ahead of the tournament.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch251_fifa_world_cup_26_stories_from_the_cities.jpg?w=960&amp;h=540" />
+	</programme>
+	<programme channel="251" start="20260615081500 +0000" stop="20260615084500 +0000">
+		<title>FIFA World Cup 26: Stories from the Cities - EP 15</title>
+		<desc>A documentary series that journeys through Canada, Mexico, and the United States, exploring the 16 host cities of the 2026 FIFA World Cup. Hosted by Jenny Chiu alongside local experts, the show uncovers the grassroots, culture, and football soul in each city ahead of the tournament.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch251_fifa_world_cup_26_stories_from_the_cities.jpg?w=960&amp;h=540" />
+	</programme>
+	<programme channel="251" start="20260615084500 +0000" stop="20260615110000 +0000">
 		<title>FIFA World Cup 2026 Group Stage: Germany v Curacao - EP 9</title>
 		<desc>The FIFA World Cup 2026 is the largest edition ever, featuring 48 teams and 104 matches across Canada, Mexico, and the United States from June 11 to July 19, 2026.</desc>
 		<icon src="https://poster.starhubgo.com/poster/15Jun_GER-CUW.jpg?w=341&amp;h=192" />
-	</programme>
-	<programme channel="251" start="20260615070000 +0000" stop="20260615090000 +0000">
-		<title>FIFA World Cup 2026 Group Stage: Netherlands v Japan - EP 11</title>
-		<desc>The FIFA World Cup 2026 is the largest edition ever, featuring 48 teams and 104 matches across Canada, Mexico, and the United States from June 11 to July 19, 2026.</desc>
-		<icon src="https://poster.starhubgo.com/poster/15Jun_NED-JPN.jpg?w=960&amp;h=540" />
-	</programme>
-	<programme channel="251" start="20260615090000 +0000" stop="20260615110000 +0000">
-		<title>FIFA World Cup 2026 Group Stage: Ivory Coast v Ecuador - EP 10</title>
-		<desc>The FIFA World Cup 2026 is the largest edition ever, featuring 48 teams and 104 matches across Canada, Mexico, and the United States from June 11 to July 19, 2026.</desc>
-		<icon src="https://poster.starhubgo.com/poster/15Jun_CIV-ECU.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="251" start="20260615110000 +0000" stop="20260615113500 +0000">
 		<title>FIFA World Cup 2026 - Match Day Express - EP 4</title>
 		<desc>Match Day Express brings you the goals, the plays, and the heroes of all 104 matches of the FIFA World Cup 2026!</desc>
 		<icon src="https://poster.starhubgo.com/Linear_Channels2/251_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="251" start="20260615113500 +0000" stop="20260615133500 +0000">
-		<title>FIFA World Cup 2026 Group Stage: Sweden v Tunisia - EP 12</title>
+	<programme channel="251" start="20260615113500 +0000" stop="20260615140000 +0000">
+		<title>FIFA World Cup 2026 Group Stage: Netherlands v Japan - EP 11</title>
 		<desc>The FIFA World Cup 2026 is the largest edition ever, featuring 48 teams and 104 matches across Canada, Mexico, and the United States from June 11 to July 19, 2026.</desc>
-		<icon src="https://poster.starhubgo.com/poster/15Jun_SWE-TUN.jpg?w=341&amp;h=192" />
-	</programme>
-	<programme channel="251" start="20260615133500 +0000" stop="20260615140000 +0000">
-		<title>FIFA World Cup 26: Stories from the Cities - EP 11</title>
-		<desc>A documentary series that journeys through Canada, Mexico, and the United States, exploring the 16 host cities of the 2026 FIFA World Cup. Hosted by Jenny Chiu alongside local experts, the show uncovers the grassroots, culture, and football soul in each city ahead of the tournament.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch251_fifa_world_cup_26_stories_from_the_cities.jpg?w=960&amp;h=540" />
+		<icon src="https://poster.starhubgo.com/poster/15Jun_NED-JPN.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="251" start="20260615140000 +0000" stop="20260615143000 +0000">
 		<title>FIFA World Cup 26: Stories from the Cities - EP 12</title>
@@ -12440,9 +12445,9 @@
 		<icon src="https://poster.starhubgo.com/poster/ch251_fifa_world_cup_26_stories_from_the_cities.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="251" start="20260615143000 +0000" stop="20260615150000 +0000">
-		<title>FIFA World Cup 26: Stories from the Cities - EP 13</title>
-		<desc>A documentary series that journeys through Canada, Mexico, and the United States, exploring the 16 host cities of the 2026 FIFA World Cup. Hosted by Jenny Chiu alongside local experts, the show uncovers the grassroots, culture, and football soul in each city ahead of the tournament.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch251_fifa_world_cup_26_stories_from_the_cities.jpg?w=960&amp;h=540" />
+		<title>The Contenders 26 - EP 1</title>
+		<desc>Lionel Messi is set to break records in 2026, Japan are aiming to reach the QF for the first time, and we look at the successful CONCACAF bid.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch251_the_contenders_26.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="251" start="20260615150000 +0000" stop="20260615160000 +0000">
 		<title>FIFA World Cup 2026 - Pre-Show - EP 15</title>
