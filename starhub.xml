@@ -1291,7 +1291,7 @@
 	</programme>
 	<programme channel="103" start="20260619123000 +0000" stop="20260619130000 +0000">
 		<title>Frontline - EP 12</title>
-		<desc>Frontline is a weekly investigative current affairs programme that aims to address issues closest to the hearts of Singaporeans.</desc>
+		<desc>Three years after tech pioneer Sim Wong Hoo's death, his sister still struggles with the loss. What message did he send her two days before he died? In conjunction with World Oceans Day, Frontline explores marine life around the Southern Islands, how it is protected, and what divers await from the reopening of Sisters’ Islands later this year.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/103_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="103" start="20260619130000 +0000" stop="20260619140000 +0000">
@@ -9461,7 +9461,7 @@
 	</programme>
 	<programme channel="153" start="20260618193000 +0000" stop="20260618200000 +0000">
 		<title>To the Point</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+		<desc>A faltering economy, high social spending, and mounting debt: how dangerous is this toxic mix for Europe’s three major industrial nations? Is the gloss wearing off?  Our guests: Sophie Pornschlegel, political analyst,  Katja Hoyer, Historian, Kings College, Erik Fossing Nielsen, danish economist</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20260618200000 +0000" stop="20260618203000 +0000">
@@ -9501,7 +9501,7 @@
 	</programme>
 	<programme channel="153" start="20260618223000 +0000" stop="20260618230000 +0000">
 		<title>To the Point</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+		<desc>A faltering economy, high social spending, and mounting debt: how dangerous is this toxic mix for Europe’s three major industrial nations? Is the gloss wearing off?  Our guests: Sophie Pornschlegel, political analyst,  Katja Hoyer, Historian, Kings College, Erik Fossing Nielsen, danish economist</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20260618230000 +0000" stop="20260618230200 +0000">
@@ -9520,8 +9520,8 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20260618233000 +0000" stop="20260619000000 +0000">
-		<title>Best of DW Podcasts</title>
-		<desc>Select DW podcasts enrich the program with current analyses of world politics and its influence on our daily lives. There will also be space in the program for lively discussions about social standards and taboos.</desc>
+		<title>DW News</title>
+		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20260619000000 +0000" stop="20260619000200 +0000">
@@ -9541,11 +9541,6 @@
 	</programme>
 	<programme channel="153" start="20260619010000 +0000" stop="20260619010200 +0000">
 		<title>DW News</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="153" start="20260619010200 +0000" stop="20260619011500 +0000">
-		<title>DW News Focus</title>
 		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
@@ -9611,11 +9606,6 @@
 	</programme>
 	<programme channel="153" start="20260619050200 +0000" stop="20260619053000 +0000">
 		<title>The Day</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="153" start="20260619053000 +0000" stop="20260619060000 +0000">
-		<title>DW News</title>
 		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
@@ -29875,7 +29865,7 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/808_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="808" start="20260618100000 +0000" stop="20260618110000 +0000">
-		<title>1800/1900 Evening News</title>
+		<title>9/11/25</title>
 		<desc>A round-up of the day's local, international and entertainment news and sports reports.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/808_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
