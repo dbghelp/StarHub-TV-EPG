@@ -1824,14 +1824,14 @@
 		<desc>From business to politics, health to technology, the latest news from Singapore and analysis of the impact.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="106" start="20260623230000 +0000" stop="20260624020000 +0000">
+	<programme channel="106" start="20260623230000 +0000" stop="20260624022900 +0000">
 		<title>Asia First - EP 61</title>
 		<desc>(Live) Top stories, business news and market updates from across the region as Asia gears up for the day ahead.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="106" start="20260624020000 +0000" stop="20260624030000 +0000">
-		<title>Lost Rivers</title>
-		<desc>A journey through 200 years of Singapore’s riverscape, tracing its transformation alongside national development using 3D mapping to reveal how waterways shaped life and purpose.</desc>
+	<programme channel="106" start="20260624022900 +0000" stop="20260624030000 +0000">
+		<title>Talking Point - EP 8</title>
+		<desc>Talking Point investigates if Greek yoghurt is worth the splurge, comparing Greek and Greek-style versions in the lab and answers whether it’s worth the premium you pay.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="106" start="20260624030000 +0000" stop="20260624050000 +0000">
@@ -7529,12 +7529,12 @@
 		<desc>Vincent Kombana, a respected parish priest, witnesses a murder. Release Year: 2019 Director: Rejishh Midhila</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="140" start="20260624193000 +0000" stop="20260624213000 +0000">
+	<programme channel="140" start="20260624193000 +0000" stop="20260624230500 +0000">
 		<title>Kerala Varma Pazhassiraja</title>
 		<desc>Kerala Varma, finds refuge in Wayanad forests, and engages in guerrilla warfare. Release Year: 2009 Director: Hariharan</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="140" start="20260624213000 +0000" stop="20260625013000 +0000">
+	<programme channel="140" start="20260624230500 +0000" stop="20260625013000 +0000">
 		<title>C/o. Saira &amp; Banu</title>
 		<desc>Saira and Banu navigate friendship, love and personal struggles while supporting each other through emotional challenges and life-changing decisions.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=341&amp;h=192" />
@@ -9314,14 +9314,9 @@
 		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="153" start="20260624040200 +0000" stop="20260624041500 +0000">
-		<title>DW News Focus</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="153" start="20260624041500 +0000" stop="20260624050000 +0000">
-		<title>DocFilm</title>
-		<desc>Approximately 58,000 people are currently incarcerated in German prisons. Over half of them reoffend after their release. These statistics raise doubts about the prison system. Is something fundamentally wrong with German prisons?</desc>
+	<programme channel="153" start="20260624040200 +0000" stop="20260624050000 +0000">
+		<title>Global Media Forum</title>
+		<desc>For nearly two decades, tech corporations - through innovations in search engines, social media, and artificial intelligence - have played a decisive role in shaping how news is produced, distributed, consumed, and publicly debated. In the emerging world order, they also appear to be expanding their influence at the political Level.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20260624050000 +0000" stop="20260624050200 +0000">
@@ -9385,8 +9380,8 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20260624080200 +0000" stop="20260624083000 +0000">
-		<title>The 77 Percent</title>
-		<desc>This week’s show explores the push to promote African languages in classrooms, the challenges of changing entrenched systems, and the real-life impact on learners. Is it time to rethink how Africa learns?</desc>
+		<title>DW News Focus</title>
+		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20260624083000 +0000" stop="20260624090000 +0000">
@@ -9534,19 +9529,9 @@
 		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="153" start="20260624190200 +0000" stop="20260624191500 +0000">
-		<title>DW News Focus</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="153" start="20260624191500 +0000" stop="20260624193000 +0000">
-		<title>ENTR</title>
-		<desc>What is it like to play for the worst national football team in the world? While everyone is watching the worldcup, we follow Nicola (26), the only full-time professional footballer in San Marino's national team, as he prepares for one of the biggest matches in the country's recent football history.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="153" start="20260624193000 +0000" stop="20260624200000 +0000">
-		<title>The 77 Percent</title>
-		<desc>This week’s show explores the push to promote African languages in classrooms, the challenges of changing entrenched systems, and the real-life impact on learners. Is it time to rethink how Africa learns?</desc>
+	<programme channel="153" start="20260624190200 +0000" stop="20260624200000 +0000">
+		<title>Global Media Forum</title>
+		<desc>For nearly two decades, tech corporations - through innovations in search engines, social media, and artificial intelligence - have played a decisive role in shaping how news is produced, distributed, consumed, and publicly debated. In the emerging world order, they also appear to be expanding their influence at the political Level.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20260624200000 +0000" stop="20260624203000 +0000">
@@ -13177,7 +13162,7 @@
 	<programme channel="251" start="20260624213000 +0000" stop="20260624220000 +0000">
 		<title>FIFA World Cup 2026 - Pre-Show - EP 51</title>
 		<desc>(Live) Pre-Show for FIFA World Cup 2026. The FIFA World Cup 2026 is the largest edition ever, featuring 48 teams and 104 matches across Canada, Mexico, and the United States from June 11 to July 19, 2026.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_Channels2/251_1920x1080_HTV.png?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/25Jun_SCO-BRA.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="251" start="20260624220000 +0000" stop="20260625000000 +0000">
 		<title>FIFA World Cup 2026 Group Stage: Scotland v Brazil - EP 53</title>
@@ -13187,7 +13172,7 @@
 	<programme channel="251" start="20260625000000 +0000" stop="20260625003000 +0000">
 		<title>FIFA World Cup 2026 - Post-Show - EP 51</title>
 		<desc>(Live) Post-Show for FIFA World Cup 2026. The FIFA World Cup 2026 is the largest edition ever, featuring 48 teams and 104 matches across Canada, Mexico, and the United States from June 11 to July 19, 2026.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_Channels2/251_1920x1080_HTV.png?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/25Jun_SCO-BRA.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="251" start="20260625003000 +0000" stop="20260625010000 +0000">
 		<title>FIFA World Cup 2026 - Pre-Show - EP 49</title>
@@ -23970,8 +23955,8 @@
 		<icon src="https://poster.starhubgo.com/poster/ch701_BBC_news.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="701" start="20260624003000 +0000" stop="20260624010000 +0000">
-		<title>Tech Now</title>
-		<desc>Shiona McCallum visits FIFA HQ in Zurich to see some of the new tech being used in the World Cup. Martin Sharkey explores how changes in the way we watch content are shaping new technologies.</desc>
+		<title>Starmer: What Went Wrong?</title>
+		<desc>From triumph to turmoil. The story of how Sir Keir Starmer's premiership unravelled, from Labour's historic 2024 landslide to the fatal miscalculations and internal revolt that forced him from power.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch701_BBC_news.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="701" start="20260624010000 +0000" stop="20260624013000 +0000">
@@ -24001,7 +23986,7 @@
 	</programme>
 	<programme channel="701" start="20260624024500 +0000" stop="20260624030000 +0000">
 		<title>Asia Specific</title>
-		<desc>Asia Specific brings you essential insights and conversations on the stories and trends shaping Asia Pacific, unpacked by those who know it best. Hosted in Singapore by Mariko Oi.</desc>
+		<desc>Mariko Oi speaks to Seoul correspondent Jake Kwon and Wall Street Journal reporter Dasyl Yoon about how closer ties with Russia is helping North Korea shrug off western sanctions.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch701_BBC_news.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="701" start="20260624030000 +0000" stop="20260624033000 +0000">
@@ -24016,7 +24001,7 @@
 	</programme>
 	<programme channel="701" start="20260624034500 +0000" stop="20260624040000 +0000">
 		<title>Asia Specific</title>
-		<desc>Asia Specific brings you essential insights and conversations on the stories and trends shaping Asia Pacific, unpacked by those who know it best. Hosted in Singapore by Mariko Oi.</desc>
+		<desc>Mariko Oi speaks to Seoul correspondent Jake Kwon and Wall Street Journal reporter Dasyl Yoon about how closer ties with Russia is helping North Korea shrug off western sanctions.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch701_BBC_news.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="701" start="20260624040000 +0000" stop="20260624043000 +0000">
