@@ -8507,7 +8507,7 @@
 		<desc>The Secrets of Hotel 88 dives into a gripping story of the estranged Fernandez brothers - Martin, Gio and Kiko - who unexpectedly inherit Hotel 88 following their father's death. Driven by conflicting motives, the three find themselves locked in escalating tension and a brewing family feud.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch144_the_secrets_of_hotel_88.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="144" start="20260626144500 +0000" stop="20260626160000 +0000">
+	<programme channel="144" start="20260626144500 +0000" stop="20260626164500 +0000">
 		<title>It's Showtime</title>
 		<desc>Hosted by an all-star cast, It's Showtime is a variety show unlike any other. Watch as people from all over come on stage to showcase their skills and creativity in this one-of-a-kind talent show full of fun and prizes.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch144_showtime.jpg?w=341&amp;h=192" />
@@ -10905,7 +10905,7 @@
 	<programme channel="209" start="20260625170000 +0000" stop="20260625174500 +0000">
 		<title>2026 World Surf League Replay</title>
 		<desc>Be sure to catch the inspirational power of surfing through the 2026 WSL Championship Tour &amp; Challenger Series.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/209_1920x1080_HTV.png?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch209_World_Surf_League.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="209" start="20260625174500 +0000" stop="20260625190000 +0000">
 		<title>World Athletics Continental Tour Gold 2026</title>
@@ -10922,15 +10922,20 @@
 		<desc>The electric racing revolution continues in Formula E Season 12, as top drivers battle across iconic cities for the world championship crown.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch209_Formula_E.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="209" start="20260625230000 +0000" stop="20260626070000 +0000">
+	<programme channel="209" start="20260625230000 +0000" stop="20260626060500 +0000">
 		<title>Wimbledon Qualifying Competition 2026</title>
 		<desc>Held one week prior to The Championships, the Wimbledon Qualifying Competition is comprised of Gentlemen's and Ladies' Singles knock-out tournaments to determine the final Main Draw places.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch209_wimbledon.jpg?w=960&amp;h=540" />
 	</programme>
+	<programme channel="209" start="20260626060500 +0000" stop="20260626070000 +0000">
+		<title>Formula E S12: Rd 11 Sanya E-Prix</title>
+		<desc>The electric racing revolution continues in Formula E Season 12, as top drivers battle across iconic cities for the world championship crown.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch209_Formula_E.jpg?w=960&amp;h=540" />
+	</programme>
 	<programme channel="209" start="20260626070000 +0000" stop="20260626113000 +0000">
 		<title>2026 R&amp;A Women's Amateur Championship</title>
 		<desc>Top women amateur golfers compete for one of the sport's most prestigious amateur titles, showcasing emerging talent, precision, and championship ambition.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch209_The_Amateur_Championship.jpg?w=960&amp;h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch209_The_Womens_Amateur_Championship.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="209" start="20260626113000 +0000" stop="20260626123000 +0000">
 		<title>2026 WSL Inside Pro Surfing</title>
@@ -10940,7 +10945,7 @@
 	<programme channel="209" start="20260626123000 +0000" stop="20260626170000 +0000">
 		<title>2026 R&amp;A Women's Amateur Championship</title>
 		<desc>Top women amateur golfers compete for one of the sport's most prestigious amateur titles, showcasing emerging talent, precision, and championship ambition.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch209_The_Amateur_Championship.jpg?w=960&amp;h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch209_The_Womens_Amateur_Championship.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="210" start="20260624130000 +0000" stop="20260624170000 +0000">
 		<title>Horse Racing: Royal Ascot 2026</title>
@@ -11118,9 +11123,9 @@
 		<icon src="https://poster.starhubgo.com/poster/ch211_premier_padel.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="211" start="20260625100000 +0000" stop="20260625113000 +0000">
-		<title>Best of RG 2026: Day 7 Women's Singles Rd 3 Osaka v Jovic</title>
-		<desc>Catch the Best Matches from the Roland Garros 2026.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch211_roland_garros.jpg?w=341&amp;h=192" />
+		<title>Premier Padel 2026: Valladolid P2 Day 3 Match 3</title>
+		<desc>The official global Padel tour. Catch worldâ€™s top players battle it out across the globe.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch211_premier_padel.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="211" start="20260625113000 +0000" stop="20260625130000 +0000">
 		<title>Best of RG 2026: Day 7 Women's Singles Rd 3 Gauff v Potapova</title>
@@ -11133,17 +11138,17 @@
 		<icon src="https://poster.starhubgo.com/poster/ch211_roland_garros.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="211" start="20260625150000 +0000" stop="20260625163000 +0000">
-		<title>Premier Padel 2026: Valladolid P2 Day 3 Match 3</title>
-		<desc>The official global Padel tour. Catch worldâ€™s top players battle it out across the globe.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch211_premier_padel.jpg?w=341&amp;h=192" />
-	</programme>
-	<programme channel="211" start="20260625163000 +0000" stop="20260625180000 +0000">
 		<title>Premier Padel 2026: Valladolid P2 Day 3 Match 4</title>
 		<desc>The official global Padel tour. Catch worldâ€™s top players battle it out across the globe.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_premier_padel.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="211" start="20260625180000 +0000" stop="20260625193000 +0000">
+	<programme channel="211" start="20260625163000 +0000" stop="20260625180000 +0000">
 		<title>Premier Padel 2026: Valladolid P2 Day 3 Match 5</title>
+		<desc>The official global Padel tour. Catch worldâ€™s top players battle it out across the globe.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch211_premier_padel.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="211" start="20260625180000 +0000" stop="20260625193000 +0000">
+		<title>Premier Padel 2026: Valladolid P2 Day 3 Match 6</title>
 		<desc>The official global Padel tour. Catch worldâ€™s top players battle it out across the globe.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_premier_padel.jpg?w=341&amp;h=192" />
 	</programme>
@@ -11197,40 +11202,15 @@
 		<desc>The official global Padel tour. Catch worldâ€™s top players battle it out across the globe.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_premier_padel.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="211" start="20260626100000 +0000" stop="20260626103000 +0000">
-		<title>This Is Paris 2025/26</title>
-		<desc>An exclusive weekly look behind the scenes at French superclub, Paris Saint-Germain.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch211_this_is_paris.jpg?w=960&amp;h=540" />
+	<programme channel="211" start="20260626100000 +0000" stop="20260626113000 +0000">
+		<title>Premier Padel 2026: Valladolid P2 Day 4 QF Match 3</title>
+		<desc>The official global Padel tour. Catch worldâ€™s top players battle it out across the globe.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch211_premier_padel.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="211" start="20260626103000 +0000" stop="20260626105500 +0000">
-		<title>HSBC SVNS World C'ships 2026: Fiji vs Australia - 5th Place Play-off, Hong Kong - Men</title>
-		<desc>Catch the action from the world's very best rugby sevens stars from the top tier of a new three-division global Sevens model, from sunrise to sunset.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch211_HSBCSVNSSeries2026.jpg?w=341&amp;h=192" />
-	</programme>
-	<programme channel="211" start="20260626105500 +0000" stop="20260626112000 +0000">
-		<title>HSBC SVNS World C'ships 2026: Thailand vs Denmark - Women's Final - Melrose Claymores</title>
-		<desc>Catch the action from the world's very best rugby sevens stars from the top tier of a new three-division global Sevens model, from sunrise to sunset.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch211_HSBCSVNSSeries2026.jpg?w=341&amp;h=192" />
-	</programme>
-	<programme channel="211" start="20260626112000 +0000" stop="20260626114500 +0000">
-		<title>HSBC SVNS World C'ships 2026: Japan vs Hong Kong - Men's Final - Melrose Claymores</title>
-		<desc>Catch the action from the world's very best rugby sevens stars from the top tier of a new three-division global Sevens model, from sunrise to sunset.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch211_HSBCSVNSSeries2026.jpg?w=341&amp;h=192" />
-	</programme>
-	<programme channel="211" start="20260626114500 +0000" stop="20260626121000 +0000">
-		<title>HSBC SVNS World C'ships 2026: Canada vs France - 3rd Place Play-off, Hong Kong - Women</title>
-		<desc>Catch the action from the world's very best rugby sevens stars from the top tier of a new three-division global Sevens model, from sunrise to sunset.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch211_HSBCSVNSSeries2026.jpg?w=341&amp;h=192" />
-	</programme>
-	<programme channel="211" start="20260626121000 +0000" stop="20260626123500 +0000">
-		<title>HSBC SVNS World C'ships 2026: New Zealand vs Spain - 3rd Place Play-off, Hong Kong - Men</title>
-		<desc>Catch the action from the world's very best rugby sevens stars from the top tier of a new three-division global Sevens model, from sunrise to sunset.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch211_HSBCSVNSSeries2026.jpg?w=341&amp;h=192" />
-	</programme>
-	<programme channel="211" start="20260626123500 +0000" stop="20260626130000 +0000">
-		<title>HSBC SVNS World C'ships 2026: South Africa vs Argentina - Cup Final, Hong Kong - Men</title>
-		<desc>Catch the action from the world's very best rugby sevens stars from the top tier of a new three-division global Sevens model, from sunrise to sunset.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch211_HSBCSVNSSeries2026.jpg?w=341&amp;h=192" />
+	<programme channel="211" start="20260626113000 +0000" stop="20260626130000 +0000">
+		<title>Best of RG 2026: Day 7 Women's Singles Rd 3 Osaka v Jovic</title>
+		<desc>Catch the Best Matches from the Roland Garros 2026.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch211_roland_garros.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="211" start="20260626130000 +0000" stop="20260626141000 +0000">
 		<title>GT World Challenge Europe 2026: 24 Hours of Spa Superpole, Endurance Cup</title>
@@ -11238,17 +11218,17 @@
 		<icon src="https://poster.starhubgo.com/poster/ch211_GTWorldChallengeEurope.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="211" start="20260626141000 +0000" stop="20260626143500 +0000">
-		<title>HSBC SVNS World C'ships 2026: South Africa vs Argentina - Cup Final, Hong Kong - Men</title>
+		<title>HSBC SVNS World C'ships 2026: New Zealand vs Australia - Cup Final, Hong Kong - Women</title>
 		<desc>Catch the action from the world's very best rugby sevens stars from the top tier of a new three-division global Sevens model, from sunrise to sunset.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_HSBCSVNSSeries2026.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="211" start="20260626143500 +0000" stop="20260626150000 +0000">
-		<title>HSBC SVNS World C'ships 2026: USA vs Fiji - Pool Stage, Valladolid - Women</title>
+		<title>HSBC SVNS World C'ships 2026: South Africa vs Argentina - Cup Final, Hong Kong - Men</title>
 		<desc>Catch the action from the world's very best rugby sevens stars from the top tier of a new three-division global Sevens model, from sunrise to sunset.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_HSBCSVNSSeries2026.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="211" start="20260626150000 +0000" stop="20260626163000 +0000">
-		<title>Premier Padel 2026: Valladolid P2 Day 4 QF Match 3</title>
+		<title>Premier Padel 2026: Valladolid P2 Day 4 QF Match 4</title>
 		<desc>The official global Padel tour. Catch worldâ€™s top players battle it out across the globe.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_premier_padel.jpg?w=341&amp;h=192" />
 	</programme>
@@ -11610,7 +11590,7 @@
 	<programme channel="214" start="20260625110000 +0000" stop="20260625125000 +0000">
 		<title>Bundesliga 2025/26 - Road to Glory: Bayern vs Stuttgart</title>
 		<desc>Watch every game of the season live as the top German football clubs battle it out in the Bundesliga, Germany's top division of football.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch214_bundesliga.jpg?w=960&amp;h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch214_bundesliga2.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="214" start="20260625125000 +0000" stop="20260625130000 +0000">
 		<title>Bundesliga Club Classic Archive: Dortmund vs Bayern - 2022/23</title>
@@ -11648,7 +11628,7 @@
 		<icon src="https://poster.starhubgo.com/poster/ch214_the_outdoor_sports_show.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="214" start="20260625160000 +0000" stop="20260625170000 +0000">
-		<title>FIA World Rally Championship 2026: Rally Greece EKO Athens SSS</title>
+		<title>FIA World Rally Championship 2026: Rally Greece Athens 1 SSS1</title>
 		<desc>Join us for an epic motorsport adventure that takes drivers and their production-based cars through challenging terrain in the 54th season of the World Rally Championship.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch214_fia_world_rallycross_championship.jpg?w=960&amp;h=540" />
 	</programme>
@@ -11735,7 +11715,7 @@
 	<programme channel="214" start="20260626110000 +0000" stop="20260626125000 +0000">
 		<title>Bundesliga 2025/26 - Road to Glory: Bayern vs Cologne</title>
 		<desc>Watch every game of the season live as the top German football clubs battle it out in the Bundesliga, Germany's top division of football.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch214_bundesliga.jpg?w=960&amp;h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch214_bundesliga2.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="214" start="20260626125000 +0000" stop="20260626130000 +0000">
 		<title>Bundesliga Club Classic Archive: Augsburg vs Leipzig - 2022/23</title>
@@ -13130,7 +13110,7 @@
 	<programme channel="251" start="20260625190000 +0000" stop="20260625200000 +0000">
 		<title>FIFA World Cup 2026 - Pre-Show - EP 53</title>
 		<desc>(Live) Pre-Show for FIFA World Cup 2026. The FIFA World Cup 2026 is the largest edition ever, featuring 48 teams and 104 matches across Canada, Mexico, and the United States from June 11 to July 19, 2026.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_Channels2/251_1920x1080_HTV.png?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/26Jun_CUW-CIV.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="251" start="20260625200000 +0000" stop="20260625220000 +0000">
 		<title>FIFA World Cup 2026 Group Stage: Curacao v Ivory Coast - EP 58</title>
@@ -13140,27 +13120,27 @@
 	<programme channel="251" start="20260625220000 +0000" stop="20260625223000 +0000">
 		<title>FIFA World Cup 2026 - Post-Show - EP 53</title>
 		<desc>(Live) Post-Show for FIFA World Cup 2026. The FIFA World Cup 2026 is the largest edition ever, featuring 48 teams and 104 matches across Canada, Mexico, and the United States from June 11 to July 19, 2026.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_Channels2/251_1920x1080_HTV.png?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/26Jun_CUW-CIV.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="251" start="20260625223000 +0000" stop="20260625230000 +0000">
 		<title>FIFA World Cup 2026 - Pre-Show - EP 54</title>
 		<desc>(Live) Pre-Show for FIFA World Cup 2026. The FIFA World Cup 2026 is the largest edition ever, featuring 48 teams and 104 matches across Canada, Mexico, and the United States from June 11 to July 19, 2026.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_Channels2/251_1920x1080_HTV.png?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/26Jun_TUN-NED.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="251" start="20260625230000 +0000" stop="20260626010000 +0000">
-		<title>FIFA World Cup 2026 Group Stage: Japan v Sweden - EP 60</title>
+		<title>FIFA World Cup 2026 Group Stage: Tunisia v Netherlands - EP 59</title>
 		<desc>(Live) The FIFA World Cup 2026 is the largest edition ever, featuring 48 teams and 104 matches across Canada, Mexico, and the United States from June 11 to July 19, 2026.</desc>
-		<icon src="https://poster.starhubgo.com/poster/26Jun_JPN-SWE.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/26Jun_TUN-NED.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="251" start="20260626010000 +0000" stop="20260626013000 +0000">
 		<title>FIFA World Cup 2026 - Post-Show - EP 54</title>
 		<desc>(Live) Post-Show for FIFA World Cup 2026. The FIFA World Cup 2026 is the largest edition ever, featuring 48 teams and 104 matches across Canada, Mexico, and the United States from June 11 to July 19, 2026.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_Channels2/251_1920x1080_HTV.png?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/26Jun_TUN-NED.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="251" start="20260626013000 +0000" stop="20260626020000 +0000">
 		<title>FIFA World Cup 2026 - Pre-Show - EP 52</title>
 		<desc>(Live) Pre-Show for FIFA World Cup 2026. The FIFA World Cup 2026 is the largest edition ever, featuring 48 teams and 104 matches across Canada, Mexico, and the United States from June 11 to July 19, 2026.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_Channels2/251_1920x1080_HTV.png?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/26Jun_TUR-USA.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="251" start="20260626020000 +0000" stop="20260626040000 +0000">
 		<title>FIFA World Cup 2026 Group Stage: Turkey v USA - EP 55</title>
@@ -13170,7 +13150,7 @@
 	<programme channel="251" start="20260626040000 +0000" stop="20260626050000 +0000">
 		<title>FIFA World Cup 2026 - Post-Show - EP 52</title>
 		<desc>(Live) Post-Show for FIFA World Cup 2026. The FIFA World Cup 2026 is the largest edition ever, featuring 48 teams and 104 matches across Canada, Mexico, and the United States from June 11 to July 19, 2026.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_Channels2/251_1920x1080_HTV.png?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/26Jun_TUR-USA.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="251" start="20260626050000 +0000" stop="20260626053000 +0000">
 		<title>The Contenders 26 - EP 37</title>
@@ -13292,12 +13272,72 @@
 		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_Channels2/253_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
+	<programme channel="253" start="20260625040000 +0000" stop="20260625100000 +0000">
+		<title>End of Transmission</title>
+		<desc />
+		<icon src="https://poster.starhubgo.com/Linear_Channels2/253_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="253" start="20260625100000 +0000" stop="20260625160000 +0000">
+		<title>End of Transmission</title>
+		<desc />
+		<icon src="https://poster.starhubgo.com/Linear_Channels2/253_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="253" start="20260625160000 +0000" stop="20260625220000 +0000">
+		<title>End of Transmission</title>
+		<desc />
+		<icon src="https://poster.starhubgo.com/Linear_Channels2/253_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="253" start="20260625220000 +0000" stop="20260626040000 +0000">
+		<title>End of Transmission</title>
+		<desc />
+		<icon src="https://poster.starhubgo.com/Linear_Channels2/253_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="253" start="20260626040000 +0000" stop="20260626100000 +0000">
+		<title>End of Transmission</title>
+		<desc />
+		<icon src="https://poster.starhubgo.com/Linear_Channels2/253_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="253" start="20260626100000 +0000" stop="20260626160000 +0000">
+		<title>End of Transmission</title>
+		<desc />
+		<icon src="https://poster.starhubgo.com/Linear_Channels2/253_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
 	<programme channel="254" start="20260624160000 +0000" stop="20260624220000 +0000">
 		<title>End of Transmission</title>
 		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_Channels2/254_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="254" start="20260624220000 +0000" stop="20260625040000 +0000">
+		<title>End of Transmission</title>
+		<desc />
+		<icon src="https://poster.starhubgo.com/Linear_Channels2/254_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="254" start="20260625040000 +0000" stop="20260625100000 +0000">
+		<title>End of Transmission</title>
+		<desc />
+		<icon src="https://poster.starhubgo.com/Linear_Channels2/254_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="254" start="20260625100000 +0000" stop="20260625160000 +0000">
+		<title>End of Transmission</title>
+		<desc />
+		<icon src="https://poster.starhubgo.com/Linear_Channels2/254_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="254" start="20260625160000 +0000" stop="20260625220000 +0000">
+		<title>End of Transmission</title>
+		<desc />
+		<icon src="https://poster.starhubgo.com/Linear_Channels2/254_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="254" start="20260625220000 +0000" stop="20260626040000 +0000">
+		<title>End of Transmission</title>
+		<desc />
+		<icon src="https://poster.starhubgo.com/Linear_Channels2/254_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="254" start="20260626040000 +0000" stop="20260626100000 +0000">
+		<title>End of Transmission</title>
+		<desc />
+		<icon src="https://poster.starhubgo.com/Linear_Channels2/254_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="254" start="20260626100000 +0000" stop="20260626160000 +0000">
 		<title>End of Transmission</title>
 		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_Channels2/254_1920x1080_HTV.png?w=341&amp;h=192" />
