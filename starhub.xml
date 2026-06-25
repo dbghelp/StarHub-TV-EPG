@@ -764,7 +764,7 @@
 	</programme>
 	<programme channel="102" start="20260625133000 +0000" stop="20260625140000 +0000">
 		<title>Talking Point - EP 9</title>
-		<desc>With a fresh approach to tackling the issues of the day, Talking Point investigates a current issue or event, offering different perspectives to local stories and reveals how it all affects you.</desc>
+		<desc>We trust washing machines to clean our clothes, but how clean are the machines themselves? Talking Point investigates what's hiding inside and where the dirt really goes.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="102" start="20260625140000 +0000" stop="20260625143600 +0000">
@@ -13307,7 +13307,17 @@
 		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_Channels2/254_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="254" start="20260624220000 +0000" stop="20260625040000 +0000">
+	<programme channel="254" start="20260624231500 +0000" stop="20260625020000 +0000">
+		<title>End of Transmission</title>
+		<desc />
+		<icon src="https://poster.starhubgo.com/Linear_Channels2/254_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="254" start="20260625020000 +0000" stop="20260625021500 +0000">
+		<title>End of Transmission</title>
+		<desc />
+		<icon src="https://poster.starhubgo.com/Linear_Channels2/254_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="254" start="20260625021500 +0000" stop="20260625040000 +0000">
 		<title>End of Transmission</title>
 		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_Channels2/254_1920x1080_HTV.png?w=341&amp;h=192" />
@@ -13322,14 +13332,9 @@
 		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_Channels2/254_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="254" start="20260625160000 +0000" stop="20260625220000 +0000">
-		<title>End of Transmission</title>
-		<desc />
-		<icon src="https://poster.starhubgo.com/Linear_Channels2/254_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="254" start="20260625220000 +0000" stop="20260626040000 +0000">
-		<title>End of Transmission</title>
-		<desc />
+	<programme channel="254" start="20260625160000 +0000" stop="20260626040000 +0000">
+		<title>No programmes streaming LIVE at this moment</title>
+		<desc>There are currently no programmes on this channel.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_Channels2/254_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="254" start="20260626040000 +0000" stop="20260626100000 +0000">
@@ -23853,7 +23858,7 @@
 		<icon src="https://poster.starhubgo.com/poster/ch701_bbc_world_news_america.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="701" start="20260624230000 +0000" stop="20260624233000 +0000">
-		<title>BBC News</title>
+		<title>BBC News Special - Red Alert: Europe’s Heat Emergency</title>
 		<desc>The latest news from the BBC.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch701_BBC_news.jpg?w=341&amp;h=192" />
 	</programme>
@@ -24188,7 +24193,7 @@
 		<icon src="https://poster.starhubgo.com/poster/ch701_newsday.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="701" start="20260626040000 +0000" stop="20260626043000 +0000">
-		<title>BBC News</title>
+		<title>BBC News Special - Red Alert: Europe’s Heat Emergency</title>
 		<desc>The latest news from the BBC.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch701_BBC_news.jpg?w=341&amp;h=192" />
 	</programme>
@@ -24198,7 +24203,7 @@
 		<icon src="https://poster.starhubgo.com/poster/ch701_BBC_news.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="701" start="20260626050000 +0000" stop="20260626053000 +0000">
-		<title>BBC News</title>
+		<title>BBC News Special - Red Alert: Europe’s Heat Emergency</title>
 		<desc>The latest news from the BBC.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch701_BBC_news.jpg?w=341&amp;h=192" />
 	</programme>
@@ -24208,7 +24213,7 @@
 		<icon src="https://poster.starhubgo.com/poster/ch701_BBC_news.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="701" start="20260626060000 +0000" stop="20260626063000 +0000">
-		<title>BBC News</title>
+		<title>BBC News Special - Red Alert: Europe’s Heat Emergency</title>
 		<desc>The latest news from the BBC.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch701_BBC_news.jpg?w=341&amp;h=192" />
 	</programme>
@@ -24218,37 +24223,37 @@
 		<icon src="https://poster.starhubgo.com/poster/ch701_BBC_news.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="701" start="20260626070000 +0000" stop="20260626073000 +0000">
-		<title>BBC News</title>
+		<title>BBC News Special - Red Alert: Europe’s Heat Emergency</title>
 		<desc>The latest news from the BBC.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch701_BBC_news.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="701" start="20260626073000 +0000" stop="20260626080000 +0000">
-		<title>BBC News</title>
+		<title>BBC News Special - Red Alert: Europe’s Heat Emergency</title>
 		<desc>The latest news from the BBC.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch701_BBC_news.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="701" start="20260626080000 +0000" stop="20260626083000 +0000">
-		<title>BBC News</title>
+		<title>BBC News Special - Red Alert: Europe’s Heat Emergency</title>
 		<desc>The latest news from the BBC.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch701_BBC_news.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="701" start="20260626083000 +0000" stop="20260626090000 +0000">
-		<title>BBC News</title>
+		<title>BBC News Special - Red Alert: Europe’s Heat Emergency</title>
 		<desc>The latest news from the BBC.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch701_BBC_news.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="701" start="20260626090000 +0000" stop="20260626093000 +0000">
-		<title>BBC News</title>
+		<title>BBC News Special - Red Alert: Europe’s Heat Emergency</title>
 		<desc>The latest news from the BBC.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch701_BBC_news.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="701" start="20260626093000 +0000" stop="20260626100000 +0000">
-		<title>BBC News</title>
+		<title>BBC News Special - Red Alert: Europe’s Heat Emergency</title>
 		<desc>The latest news from the BBC.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch701_BBC_news.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="701" start="20260626100000 +0000" stop="20260626103000 +0000">
-		<title>BBC News</title>
+		<title>BBC News Special - Red Alert: Europe’s Heat Emergency</title>
 		<desc>The latest news from the BBC.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch701_BBC_news.jpg?w=341&amp;h=192" />
 	</programme>
@@ -24258,7 +24263,7 @@
 		<icon src="https://poster.starhubgo.com/poster/ch701_BBC_news.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="701" start="20260626104500 +0000" stop="20260626110000 +0000">
-		<title>BBC News</title>
+		<title>BBC News Special - Red Alert: Europe’s Heat Emergency</title>
 		<desc>The latest news from the BBC.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch701_BBC_news.jpg?w=341&amp;h=192" />
 	</programme>
@@ -26879,7 +26884,7 @@
 	</programme>
 	<programme channel="711" start="20260625153000 +0000" stop="20260625160000 +0000">
 		<title>CNN Creators</title>
-		<desc>Live from Doha, Qatar, CNN Creators follows a team of digital-native storytellers as they navigate the stories that matter most, with a focus on tech, art, culture, sport, and social trends.</desc>
+		<desc>The Creators look at the new economy of social media clipping, and how it’s making some young people seriously rich.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch711_cnn_creators.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="711" start="20260625160000 +0000" stop="20260625170000 +0000">
@@ -31948,7 +31953,7 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/817_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="817" start="20260625013000 +0000" stop="20260625020000 +0000">
-		<title>NEWS GENERATION [L] - EP 1</title>
+		<title>NEWS GENERATION [R] - EP 4</title>
 		<desc>Stay tuned for more of the best of Korea on Arirang, as we bring you a variety of genres that include dramas, movies, concerts, game shows, animation, music, documentaries, lifestyle and tourism.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/817_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
@@ -31973,7 +31978,7 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/817_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="817" start="20260625043000 +0000" stop="20260625061000 +0000">
-		<title>REIMAGINING MULTILATERALISM(A DIALOGUE WITH UN SECRETARY-GENERAL CANDIDATES) - EP 1</title>
+		<title>REIMAGINING MULTILATERALISM - EP 1</title>
 		<desc>Stay tuned for more of the best of Korea on Arirang, as we bring you a variety of genres that include dramas, movies, concerts, game shows, animation, music, documentaries, lifestyle and tourism.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/817_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
@@ -32038,7 +32043,7 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/817_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="817" start="20260625113000 +0000" stop="20260625120000 +0000">
-		<title>WITHIN THE FRAME [L] - EP 1</title>
+		<title>WITHIN THE FRAME [R] - EP 4</title>
 		<desc>Stay tuned for more of the best of Korea on Arirang, as we bring you a variety of genres that include dramas, movies, concerts, game shows, animation, music, documentaries, lifestyle and tourism.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/817_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
@@ -32067,23 +32072,8 @@
 		<desc>Stay tuned for more of the best of Korea on Arirang, as we bring you a variety of genres that include dramas, movies, concerts, game shows, animation, music, documentaries, lifestyle and tourism.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/817_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="817" start="20260625133000 +0000" stop="20260625140000 +0000">
-		<title>BEAUTY ON AND OFF - EP 11</title>
-		<desc>Stay tuned for more of the best of Korea on Arirang, as we bring you a variety of genres that include dramas, movies, concerts, game shows, animation, music, documentaries, lifestyle and tourism.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/817_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="817" start="20260625140000 +0000" stop="20260625143000 +0000">
-		<title>PRESS PERSPECTIVE [R] - EP 4</title>
-		<desc>Stay tuned for more of the best of Korea on Arirang, as we bring you a variety of genres that include dramas, movies, concerts, game shows, animation, music, documentaries, lifestyle and tourism.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/817_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="817" start="20260625143000 +0000" stop="20260625145000 +0000">
-		<title>THE GRAND HERITAGE K-ASMR(20) - EP 20</title>
-		<desc>Stay tuned for more of the best of Korea on Arirang, as we bring you a variety of genres that include dramas, movies, concerts, game shows, animation, music, documentaries, lifestyle and tourism.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/817_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="817" start="20260625145000 +0000" stop="20260625150000 +0000">
-		<title>THE GRAND HERITAGE FOUR SEASONS - EP 6</title>
+	<programme channel="817" start="20260625133000 +0000" stop="20260625150000 +0000">
+		<title>REIMAGINING MULTILATERALISM - EP 1</title>
 		<desc>Stay tuned for more of the best of Korea on Arirang, as we bring you a variety of genres that include dramas, movies, concerts, game shows, animation, music, documentaries, lifestyle and tourism.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/817_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
@@ -32092,13 +32082,8 @@
 		<desc>Stay tuned for more of the best of Korea on Arirang, as we bring you a variety of genres that include dramas, movies, concerts, game shows, animation, music, documentaries, lifestyle and tourism.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/817_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="817" start="20260625153000 +0000" stop="20260625155000 +0000">
-		<title>ART AND THE CITY - EP 13</title>
-		<desc>Stay tuned for more of the best of Korea on Arirang, as we bring you a variety of genres that include dramas, movies, concerts, game shows, animation, music, documentaries, lifestyle and tourism.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/817_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="817" start="20260625155000 +0000" stop="20260625160000 +0000">
-		<title>EXPLORING KOREAN LITERATURE B - EP 5</title>
+	<programme channel="817" start="20260625153000 +0000" stop="20260625160000 +0000">
+		<title>ARIRANG SPECIAL - EP 162</title>
 		<desc>Stay tuned for more of the best of Korea on Arirang, as we bring you a variety of genres that include dramas, movies, concerts, game shows, animation, music, documentaries, lifestyle and tourism.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/817_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
@@ -32107,8 +32092,13 @@
 		<desc>Stay tuned for more of the best of Korea on Arirang, as we bring you a variety of genres that include dramas, movies, concerts, game shows, animation, music, documentaries, lifestyle and tourism.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/817_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="817" start="20260625163000 +0000" stop="20260625180000 +0000">
-		<title>REIMAGINING MULTILATERALISM(A DIALOGUE WITH UN SECRETARY-GENERAL CANDIDATES) - EP 1</title>
+	<programme channel="817" start="20260625163000 +0000" stop="20260625170000 +0000">
+		<title>RE: SPACE - EP 12</title>
+		<desc>Stay tuned for more of the best of Korea on Arirang, as we bring you a variety of genres that include dramas, movies, concerts, game shows, animation, music, documentaries, lifestyle and tourism.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/817_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="817" start="20260625170000 +0000" stop="20260625180000 +0000">
+		<title>SIMPLY K-POP GATEWAY TO KOREA - EP 18</title>
 		<desc>Stay tuned for more of the best of Korea on Arirang, as we bring you a variety of genres that include dramas, movies, concerts, game shows, animation, music, documentaries, lifestyle and tourism.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/817_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
@@ -32117,18 +32107,8 @@
 		<desc>Stay tuned for more of the best of Korea on Arirang, as we bring you a variety of genres that include dramas, movies, concerts, game shows, animation, music, documentaries, lifestyle and tourism.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/817_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="817" start="20260625183000 +0000" stop="20260625190000 +0000">
-		<title>BEAUTY ON AND OFF - EP 11</title>
-		<desc>Stay tuned for more of the best of Korea on Arirang, as we bring you a variety of genres that include dramas, movies, concerts, game shows, animation, music, documentaries, lifestyle and tourism.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/817_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="817" start="20260625190000 +0000" stop="20260625193000 +0000">
-		<title>WITHIN THE FRAME [R] - EP 4</title>
-		<desc>Stay tuned for more of the best of Korea on Arirang, as we bring you a variety of genres that include dramas, movies, concerts, game shows, animation, music, documentaries, lifestyle and tourism.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/817_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="817" start="20260625193000 +0000" stop="20260625200000 +0000">
-		<title>ARIRANG SPECIAL - EP 162</title>
+	<programme channel="817" start="20260625183000 +0000" stop="20260625200000 +0000">
+		<title>REIMAGINING MULTILATERALISM - EP 1</title>
 		<desc>Stay tuned for more of the best of Korea on Arirang, as we bring you a variety of genres that include dramas, movies, concerts, game shows, animation, music, documentaries, lifestyle and tourism.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/817_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
