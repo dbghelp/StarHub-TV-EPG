@@ -168,10 +168,6 @@
 		<display-name>Hub Sports 7 HD</display-name>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/207_1920x1080_HTV.png?w=272" />
 	</channel>
-	<channel id="208">
-		<display-name>Hub Sports 8 HD</display-name>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/208_1920x1080_HTV.png?w=272" />
-	</channel>
 	<channel id="209">
 		<display-name>SPOTV</display-name>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/209_1920x1080_HTV.png?w=272" />
@@ -10302,15 +10298,25 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 		<desc>End of Transmission</desc>
 		<icon src="https://poster.starhubgo.com/Linear_Channels2/203_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="203" start="20260629100000 +0000" stop="20260629110000 +0000">
+	<programme channel="203" start="20260629100000 +0000" stop="20260629130000 +0000">
+		<title>LPGA Tour 2026</title>
+		<desc>The Women's PGA Championship is a women's professional golf tournament. First held in 1955, it is one of five majors on the LPGA Tour. The KPMG Women's PGA Championship is the second oldest women's major, and will be contested this year at Sahalee Country Club outside Seattle.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch203_lpga_tour.jpg?w=960&amp;h=540" />
+	</programme>
+	<programme channel="203" start="20260629130000 +0000" stop="20260629140000 +0000">
+		<title>PGA Tour 2026</title>
+		<desc>The Travelers Championship is a professional golf tournament on the PGA Tour in Cromwell, Connecticut, a suburb south of Hartford. Since 1984 the tournament has been held at TPC River Highlands. The tournament was founded 73 years ago in 1952. Over the last decade, longer hitters have done well at the tournament, with Stewart Cink, Hunter Mahan, J. J. Henry, Phil Mickelson, and Bubba Watson combining for six victories over a 10-year span.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch203_PGA_TOUR.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="203" start="20260629140000 +0000" stop="20260629150000 +0000">
 		<title>G4D Tour 2026</title>
 		<desc>The G4D Tour is a partnership between the R&amp;A and the DP World Tour, supported by EDGA. A field of 80 male and female players, consisting of both amateur and professional golfers, will compete over 54 holes of stroke play, across various sports classifications, including Standing, Intellectual, Visual, and Sitting.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch203_G4D_Tour.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="203" start="20260629110000 +0000" stop="20260629160000 +0000">
-		<title>LPGA Tour 2026</title>
-		<desc>The Women's PGA Championship is a women's professional golf tournament. First held in 1955, it is one of five majors on the LPGA Tour. The KPMG Women's PGA Championship is the second oldest women's major, and will be contested this year at Sahalee Country Club outside Seattle.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch203_lpga_tour.jpg?w=960&amp;h=540" />
+	<programme channel="203" start="20260629150000 +0000" stop="20260629160000 +0000">
+		<title>PGA Tour Champions 2026 Highlights</title>
+		<desc>Relive all the best moment from the Wakonda Club in the heart of Des Moines, Iowa.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch203_pga_tour_cship.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="203" start="20260629160000 +0000" stop="20260629220000 +0000">
 		<title>End of Transmission</title>
@@ -10547,46 +10553,6 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 		<desc>End of Transmission</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/207_1920x1080_HTV.png?w=960&amp;h=540" />
 	</programme>
-	<programme channel="208" start="20260628160000 +0000" stop="20260628220000 +0000">
-		<title>End of Transmission</title>
-		<desc>End of Transmission</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/208_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="208" start="20260628220000 +0000" stop="20260629040000 +0000">
-		<title>End of Transmission</title>
-		<desc>End of Transmission</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/208_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="208" start="20260629040000 +0000" stop="20260629100000 +0000">
-		<title>End of Transmission</title>
-		<desc>End of Transmission</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/208_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="208" start="20260629100000 +0000" stop="20260629160000 +0000">
-		<title>End of Transmission</title>
-		<desc>End of Transmission</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/208_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="208" start="20260629160000 +0000" stop="20260629220000 +0000">
-		<title>End of Transmission</title>
-		<desc>End of Transmission</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/208_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="208" start="20260629220000 +0000" stop="20260630040000 +0000">
-		<title>End of Transmission</title>
-		<desc>End of Transmission</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/208_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="208" start="20260630040000 +0000" stop="20260630100000 +0000">
-		<title>End of Transmission</title>
-		<desc>End of Transmission</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/208_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="208" start="20260630100000 +0000" stop="20260630110000 +0000">
-		<title>End of Transmission</title>
-		<desc>End of Transmission</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/208_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
 	<programme channel="209" start="20260628160000 +0000" stop="20260628180000 +0000">
 		<title>Wanda Diamond League 2026</title>
 		<desc>The world's top athletes compete across premier international meets, delivering world-class performances, record-breaking moments, and elite track and field action.</desc>
@@ -10799,31 +10765,31 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 	</programme>
 	<programme channel="211" start="20260628170000 +0000" stop="20260628183000 +0000">
 		<title>Premier Padel 2026: Valladolid P2 Day 6 Final - Men</title>
-		<desc>The official global Padel tour. Catch world'stop players battle it out across the globe.</desc>
+		<desc>The official global Padel tour. Catch world's top players battle it out across the globe.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_premier_padel.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="211" start="20260628183000 +0000" stop="20260628200000 +0000">
 		<title>Premier Padel 2026: Brussels P2 Day 1 Match 3</title>
-		<desc>The official global Padel tour. Catch world'stop players battle it out across the globe.</desc>
+		<desc>The official global Padel tour. Catch world's top players battle it out across the globe.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_premier_padel.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="211" start="20260628200000 +0000" stop="20260628213000 +0000">
 		<title>Premier Padel 2026: Brussels P2 Day 1 Match 4</title>
-		<desc>The official global Padel tour. Catch world'stop players battle it out across the globe.</desc>
+		<desc>The official global Padel tour. Catch world's top players battle it out across the globe.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_premier_padel.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="211" start="20260628213000 +0000" stop="20260628232000 +0000">
-		<title>Super Lig 2025/26 Rizespor vs Besiktas</title>
+		<title>Super Lig 2025/26: Rizespor vs Besiktas</title>
 		<desc>beIN SPORTS brings you coverage of the Turkish top-flight Super Lig with Fenerbahce battling the defending champion Galatasaray for the title.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_superlig.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="211" start="20260628232000 +0000" stop="20260629011000 +0000">
-		<title>Super Lig 2025/26 Fenerbahce vs Eyupspor</title>
+		<title>Super Lig 2025/26: Fenerbahce vs Eyupspor</title>
 		<desc>beIN SPORTS brings you coverage of the Turkish top-flight Super Lig with Fenerbahce battling the defending champion Galatasaray for the title.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_superlig.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="211" start="20260629011000 +0000" stop="20260629030000 +0000">
-		<title>World Rugby Junior World C'ships 2026 Wales vs Georgia</title>
+		<title>World Rugby Junior World C'ships 2026: Wales vs Georgia</title>
 		<desc>The 16th premier age-grade rugby union competition, where 16 best U20 teams battle it out in Georgia.</desc>
 		<icon src="https://poster.starhubgo.com/poster/Ch211_WorldRugbyJuniorWorldCship2026.jpg?w=960&amp;h=540" />
 	</programme>
@@ -10839,17 +10805,17 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 	</programme>
 	<programme channel="211" start="20260629063000 +0000" stop="20260629070000 +0000">
 		<title>Almaty ATP 250 2025</title>
-		<desc>This documentary narrates Kazakhstanâ€™s rise as a new powerhouse in global tennis through the story of the Almaty Open.</desc>
+		<desc>This documentary narrates Kazakhstan's rise as a new powerhouse in global tennis through the story of the Almaty Open.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_almaty_atp_250_2025_documentary.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="211" start="20260629070000 +0000" stop="20260629083000 +0000">
 		<title>Premier Padel 2026: Valladolid P2 Day 6 Final - Women</title>
-		<desc>The official global Padel tour. Catch world'stop players battle it out across the globe.</desc>
+		<desc>The official global Padel tour. Catch world's top players battle it out across the globe.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_premier_padel.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="211" start="20260629083000 +0000" stop="20260629100000 +0000">
 		<title>Premier Padel 2026: Valladolid P2 Day 6 Final - Men</title>
-		<desc>The official global Padel tour. Catch world'stop players battle it out across the globe.</desc>
+		<desc>The official global Padel tour. Catch world's top players battle it out across the globe.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_premier_padel.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="211" start="20260629100000 +0000" stop="20260629120000 +0000">
@@ -10867,10 +10833,15 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 		<desc>Catch the Best Matches from the Roland Garros 2026.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_roland_garros.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="211" start="20260629160000 +0000" stop="20260629175000 +0000">
+	<programme channel="211" start="20260629160000 +0000" stop="20260629174000 +0000">
 		<title>World Rugby Junior World C'ships 2026: Argentina vs USA</title>
 		<desc>The 16th premier age-grade rugby union competition, where 16 best U20 teams battle it out in Georgia.</desc>
 		<icon src="https://poster.starhubgo.com/poster/Ch211_WorldRugbyJuniorWorldCship2026.jpg?w=960&amp;h=540" />
+	</programme>
+	<programme channel="211" start="20260629174000 +0000" stop="20260629175000 +0000">
+		<title>Premier Padel Match Highlights 2026</title>
+		<desc>Men &amp; Women's Final Match Highlights from Premier Padel Tour 2026</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch211_premier_padel.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="211" start="20260629175000 +0000" stop="20260629180000 +0000">
 		<title>Premier Padel Match Highlights 2026</title>
@@ -10922,7 +10893,12 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 		<desc>Premier global championship series designed to crown the world's best elite athletes across multiple, high-speed foiling disciplines.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_BeinGENERIC.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="211" start="20260630070000 +0000" stop="20260630085500 +0000">
+	<programme channel="211" start="20260630070000 +0000" stop="20260630071500 +0000">
+		<title>Roland Garros Match Highlights: 2025 Men's Singles SF 1 Alcaraz v Musetti</title>
+		<desc>Review the best actions and moments from the Roland Garros</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch211_roland_garros.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="211" start="20260630071500 +0000" stop="20260630085500 +0000">
 		<title>World Rugby Junior World C'ships 2026: England vs Ireland</title>
 		<desc>The 16th premier age-grade rugby union competition, where 16 best U20 teams battle it out in Georgia.</desc>
 		<icon src="https://poster.starhubgo.com/poster/Ch211_WorldRugbyJuniorWorldCship2026.jpg?w=960&amp;h=540" />
@@ -11077,80 +11053,75 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 		<desc>The official LFCTV weekly magazine program featuring news, stories, videos and social media highlights from across Liverpool football club, its players and supporters</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch213_lfctv_generic.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="213" start="20260629153500 +0000" stop="20260629163500 +0000">
+	<programme channel="213" start="20260629153500 +0000" stop="20260629161000 +0000">
 		<title>LFCTV Classic 2025/26: Tottenham vs Liverpool PL 2024/25</title>
 		<desc>Enjoy every Liverpool classic encounters from LFCTV on beIN SPORTS</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch213_lfctv_generic.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="213" start="20260629163500 +0000" stop="20260629183000 +0000">
+	<programme channel="213" start="20260629161000 +0000" stop="20260629164500 +0000">
+		<title>Formula 1 Highlights 2026</title>
+		<desc>Catch up with all the best bits from the weekend's race.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch213_formula1_generic.jpg?w=960&amp;h=540" />
+	</programme>
+	<programme channel="213" start="20260629164500 +0000" stop="20260629184500 +0000">
 		<title>LaLiga 2025/26: Girona vs Valencia</title>
 		<desc>Extensive coverage from every round of the Spanish LaLiga, Spain's top division of football with the World's biggest teams.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch213_laliga_generic.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="213" start="20260629183000 +0000" stop="20260629184500 +0000">
-		<title>Stars of the Cup</title>
-		<desc>Experience the thrill and rush right here as we deliver some of the most exciting sports action from around the world!</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch213_bein_generic_poster.jpg?w=960&amp;h=540" />
-	</programme>
-	<programme channel="213" start="20260629184500 +0000" stop="20260629203000 +0000">
+	<programme channel="213" start="20260629184500 +0000" stop="20260629203500 +0000">
 		<title>UEFA Youth League 2025/26: Dortmund vs Villarreal - MD5</title>
 		<desc>The UEFA Youth League is an annual football competition contested by the youth teams (U19) of the clubs competing in the UCL group stage, plus the domestic youth champions of the best-ranked  national associations</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch213_uefa_youth_league.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="213" start="20260629203000 +0000" stop="20260629210000 +0000">
+	<programme channel="213" start="20260629203500 +0000" stop="20260629210500 +0000">
 		<title>FIA European Rally Championship Highlights 2026</title>
 		<desc>Enjoy highlights from the 74th season of the European Rally Championship</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch213_fia_wrc.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch213_fia_european_rally_championship.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="213" start="20260629210000 +0000" stop="20260629213000 +0000">
+	<programme channel="213" start="20260629210500 +0000" stop="20260629213500 +0000">
 		<title>Mini Match - LaLiga 2025/26: Valencia vs Real Betis</title>
 		<desc>Exclusive coverage from the Spanish LaLiga, Spain's top division of football, with the world's biggest teams and best players.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch213_laliga_generic.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="213" start="20260629213000 +0000" stop="20260629220000 +0000">
+	<programme channel="213" start="20260629213500 +0000" stop="20260629220500 +0000">
 		<title>Mini Match - LaLiga 2025/26: Celta Vigo vs Barcelona</title>
 		<desc>Exclusive coverage from the Spanish LaLiga, Spain's top division of football, with the world's biggest teams and best players.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch213_laliga_generic.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="213" start="20260629220000 +0000" stop="20260629230000 +0000">
+	<programme channel="213" start="20260629220500 +0000" stop="20260629230500 +0000">
 		<title>FIA World Rally Championship Highlights 2026</title>
 		<desc>Enjoy highlights from the 54th season of the World Rally Championship</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch213_fia_wrc.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="213" start="20260629230000 +0000" stop="20260630000000 +0000">
+	<programme channel="213" start="20260629230500 +0000" stop="20260630000500 +0000">
 		<title>DTM Highlights 2026</title>
 		<desc>Catch the highlights from every round of the 2026 DTM.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch213_dtm_race.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="213" start="20260630000000 +0000" stop="20260630020000 +0000">
+	<programme channel="213" start="20260630000500 +0000" stop="20260630020500 +0000">
 		<title>Formula 1 Main Race 2026: FORMULA 1 LENOVO AUSTRIAN GRAND PRIX 2026</title>
 		<desc>beIN Sports brings you live and exclusive coverage of the 2026 Formula 1 World Championship.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch213_formula1_generic.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="213" start="20260630020000 +0000" stop="20260630031500 +0000">
+	<programme channel="213" start="20260630020500 +0000" stop="20260630040500 +0000">
 		<title>LFCTV Classic 2025/26: Southampton vs Liverpool PL 2024/25</title>
 		<desc>Enjoy every Liverpool classic encounters from LFCTV on beIN SPORTS</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch213_lfctv_generic.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="213" start="20260630031500 +0000" stop="20260630034500 +0000">
+	<programme channel="213" start="20260630040500 +0000" stop="20260630044000 +0000">
 		<title>LFC Trending 2025/26</title>
 		<desc>The official LFCTV weekly magazine program featuring news, stories, videos and social media highlights from across Liverpool football club, its players and supporters</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch213_lfctv_generic.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="213" start="20260630034500 +0000" stop="20260630050000 +0000">
+	<programme channel="213" start="20260630044000 +0000" stop="20260630051500 +0000">
 		<title>LFCTV Classic 2025/26: Tottenham vs Liverpool PL 2024/25</title>
 		<desc>Enjoy every Liverpool classic encounters from LFCTV on beIN SPORTS</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch213_lfctv_generic.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="213" start="20260630050000 +0000" stop="20260630053000 +0000">
+	<programme channel="213" start="20260630051500 +0000" stop="20260630054500 +0000">
 		<title>FIA European Rally Championship Highlights 2026</title>
 		<desc>Enjoy highlights from the 74th season of the European Rally Championship</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch213_fia_wrc.jpg?w=341&amp;h=192" />
-	</programme>
-	<programme channel="213" start="20260630053000 +0000" stop="20260630054500 +0000">
-		<title>Stars of the Cup</title>
-		<desc>Experience the thrill and rush right here as we deliver some of the most exciting sports action from around the world!</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch213_bein_generic_poster.jpg?w=960&amp;h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch213_fia_european_rally_championship.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="213" start="20260630054500 +0000" stop="20260630062000 +0000">
 		<title>Formula 1 Highlights 2026</title>
@@ -12878,8 +12849,8 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 		<icon src="https://poster.starhubgo.com/poster/28Jun_JOR-ARG.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="251" start="20260630063000 +0000" stop="20260630084500 +0000">
-		<title>FIFA World Cup 2026 Round of 32: South Africa v Canada - EP 73</title>
-		<desc>Hosts Canada face a spirited South African side in the first-ever Round of 32 match in FIFA World Cup history. With a place in the last 16 at stake, both teams will be looking to make history in a knockout clash expected to be fuelled by home support and fearless attacking football.</desc>
+		<title>FIFA World Cup 2026 Round of 32: South Africa vs Canada - EP 73</title>
+		<desc>South Africa and Canada meet with a place in the Round of 16 at stake. South Africa will hope to build on a determined group-stage campaign, while Canada aim to continue their impressive run. Both teams have shown resilience and attacking promise, setting up a competitive encounter where the winner moves one step closer to World Cup glory.</desc>
 		<icon src="https://poster.starhubgo.com/poster/29Jun_RSA-CAN.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="251" start="20260630084500 +0000" stop="20260630110000 +0000">
@@ -12893,8 +12864,8 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 		<icon src="https://poster.starhubgo.com/Linear_Channels2/251_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="251" start="20260630113500 +0000" stop="20260630134500 +0000">
-		<title>FIFA World Cup 2026 Round of 32: Germany v Third Place Group A/B/C/D/F - EP 74</title>
-		<desc>The FIFA World Cup 2026 is the largest edition ever, featuring 48 teams and 104 matches across Canada, Mexico, and the United States from June 11 to July 19, 2026.</desc>
+		<title>FIFA World Cup 2026 Round of 32: Germany vs Paraguay - EP 74</title>
+		<desc>Germany face Paraguay in a clash between European pedigree and South American resilience. Germany will be looking to take another step towards the trophy, while Paraguay hope to continue their memorable campaign. The reward for the winner is a place in the Round of 16.</desc>
 		<icon src="https://poster.starhubgo.com/poster/30Jun_GER-PRA.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="251" start="20260630134500 +0000" stop="20260630160000 +0000">
@@ -33648,19 +33619,34 @@ the Croods overcome the punch monkeys - and Phil - to save the farm?</desc>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20260629145400 +0000" stop="20260629160000 +0000">
+	<programme channel="832" start="20260629145400 +0000" stop="20260629170000 +0000">
 		<title>Overtime No More</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20260629160000 +0000" stop="20260629220000 +0000">
-		<title>Information Not Available</title>
-		<desc />
+	<programme channel="832" start="20260629170000 +0000" stop="20260629220000 +0000">
+		<title>Dragon TV Primetime News</title>
+		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20260629220000 +0000" stop="20260630040000 +0000">
-		<title>Information Not Available</title>
-		<desc />
+	<programme channel="832" start="20260629220000 +0000" stop="20260629223000 +0000">
+		<title>New Entertainment</title>
+		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="832" start="20260629223000 +0000" stop="20260629230000 +0000">
+		<title>CARE ON THE WAY</title>
+		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="832" start="20260629230000 +0000" stop="20260630000000 +0000">
+		<title>Dragon TV Morning News</title>
+		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="832" start="20260630000000 +0000" stop="20260630023000 +0000">
+		<title>A Green Trip</title>
+		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="832" start="20260630040000 +0000" stop="20260630100000 +0000">
@@ -33826,7 +33812,7 @@ the Croods overcome the punch monkeys - and Phil - to save the farm?</desc>
 	<programme channel="838" start="20260629123000 +0000" stop="20260629133000 +0000">
 		<title>Deadly Sins - EP 1</title>
 		<desc>Exploring the darker side of human nature when desire spirals out of control, this drama revolves around the East New Territories Regional Crime Unit, which investigates a series of bizarre murder cases and uncovers shocking secrets.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch838_tvb_logo.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch838_deadly_sins.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="838" start="20260629133000 +0000" stop="20260629143000 +0000">
 		<title>The Inner Eye - EP 5</title>
@@ -33836,7 +33822,7 @@ the Croods overcome the punch monkeys - and Phil - to save the farm?</desc>
 	<programme channel="838" start="20260629143000 +0000" stop="20260629150000 +0000">
 		<title>Journey to Jianghu (SR.2)</title>
 		<desc>Wayne Lai and Mak Cheung-ching return in a second journey through the Jianghu world, exploring classic wuxia culture, historic landmarks, local delicacies and regional traditions across China while reliving the spirit of martial arts legends.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch838_tvb_logo.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch838_journey_to_jianghu_sr2.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="838" start="20260629150000 +0000" stop="20260629151500 +0000">
 		<title>EXTRA</title>
@@ -33866,7 +33852,7 @@ the Croods overcome the punch monkeys - and Phil - to save the farm?</desc>
 	<programme channel="838" start="20260629173000 +0000" stop="20260629183000 +0000">
 		<title>Deadly Sins &amp; What's On Today - EP 1</title>
 		<desc>Exploring the darker side of human nature when desire spirals out of control, this drama revolves around the East New Territories Regional Crime Unit, which investigates a series of bizarre murder cases and uncovers shocking secrets.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch838_tvb_logo.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch838_deadly_sins.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="838" start="20260629183000 +0000" stop="20260629190000 +0000">
 		<title>Lo And Behold - EP 2839</title>
@@ -33881,7 +33867,7 @@ the Croods overcome the punch monkeys - and Phil - to save the farm?</desc>
 	<programme channel="838" start="20260629193000 +0000" stop="20260629200000 +0000">
 		<title>Journey to Jianghu (SR.2)</title>
 		<desc>Wayne Lai and Mak Cheung-ching return in a second journey through the Jianghu world, exploring classic wuxia culture, historic landmarks, local delicacies and regional traditions across China while reliving the spirit of martial arts legends.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch838_tvb_logo.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch838_journey_to_jianghu_sr2.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="838" start="20260629200000 +0000" stop="20260629210000 +0000">
 		<title>Sword and Fairy 1 - EP 32</title>
