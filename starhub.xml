@@ -7337,22 +7337,22 @@
 		<desc>A middle-aged businessman Govind, falls in love with Geethanjali, a young girl. Their unusual love story takes a hit when his past overshadows his present.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="140" start="20260629163000 +0000" stop="20260629193000 +0000">
+	<programme channel="140" start="20260629163000 +0000" stop="20260629193500 +0000">
 		<title>Marakkar-Arabikkadalinte Simham</title>
 		<desc>Legendary naval chieftain Kunjali Marakkar IV leads an epic war against the oppressive Portuguese regime and their allies. Release Year: 2021 Director: Priyadarshan</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="140" start="20260629193000 +0000" stop="20260629213000 +0000">
-		<title>Aug-15</title>
+	<programme channel="140" start="20260629193500 +0000" stop="20260629213500 +0000">
+		<title>'Aug-15</title>
 		<desc>Perumal investigates an assassination attempt on the Chief Minister of Kerala on 15th August. Release Year: 2011 Director: Shaji Kailas</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="140" start="20260629213000 +0000" stop="20260629233000 +0000">
+	<programme channel="140" start="20260629213500 +0000" stop="20260629232500 +0000">
 		<title>Cheriya Kallnum Valiya Polisum</title>
 		<desc>Sadasivan discovers a house where Kumaran died by suicide to protect his wife, Soumini. A mysterious blind man's constant presence raises deeper questions about the tragedy. Release Year: 2010 Director: Haridas Kesavan</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="140" start="20260629233000 +0000" stop="20260630013000 +0000">
+	<programme channel="140" start="20260629232500 +0000" stop="20260630013000 +0000">
 		<title>Mohabbath</title>
 		<desc>Mohabbath Release Year: 2011 Director: East Coast Vijayan</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=341&amp;h=192" />
@@ -11067,25 +11067,20 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 		<desc>Catch up with all the best bits from the weekend's race.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch213_formula1_generic.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="213" start="20260629130000 +0000" stop="20260629141500 +0000">
+	<programme channel="213" start="20260629130000 +0000" stop="20260629150000 +0000">
 		<title>LFCTV Classic 2025/26: Southampton vs Liverpool PL 2024/25</title>
 		<desc>Enjoy every Liverpool classic encounters from LFCTV on beIN SPORTS</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch213_lfctv_generic.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="213" start="20260629141500 +0000" stop="20260629144500 +0000">
+	<programme channel="213" start="20260629150000 +0000" stop="20260629153500 +0000">
 		<title>LFC Trending 2025/26</title>
 		<desc>The official LFCTV weekly magazine program featuring news, stories, videos and social media highlights from across Liverpool football club, its players and supporters</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch213_lfctv_generic.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="213" start="20260629144500 +0000" stop="20260629160000 +0000">
+	<programme channel="213" start="20260629153500 +0000" stop="20260629163500 +0000">
 		<title>LFCTV Classic 2025/26: Tottenham vs Liverpool PL 2024/25</title>
 		<desc>Enjoy every Liverpool classic encounters from LFCTV on beIN SPORTS</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch213_lfctv_generic.jpg?w=341&amp;h=192" />
-	</programme>
-	<programme channel="213" start="20260629160000 +0000" stop="20260629163500 +0000">
-		<title>Formula 1 Highlights 2026</title>
-		<desc>Catch up with all the best bits from the weekend's race.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch213_formula1_generic.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="213" start="20260629163500 +0000" stop="20260629183000 +0000">
 		<title>LaLiga 2025/26: Girona vs Valencia</title>
@@ -11277,10 +11272,15 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 		<desc>SailGP is the most exciting racing on water. Adrenaline-fueled races, legendary global locations, rival national teams and record-breaking speeds.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch214_sail_gp.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="214" start="20260629060000 +0000" stop="20260629100000 +0000">
+	<programme channel="214" start="20260629060000 +0000" stop="20260629093000 +0000">
 		<title>ONE Fight Night 2026: OFN 44: Jarvis vs Rungrawee II</title>
 		<desc>A monthly series of live martial arts events showcasing MMA, Muay Thai, Kickboxing and Submission Grappling with major World Title fights and global stars</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch214_Fight_Night.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="214" start="20260629093000 +0000" stop="20260629100000 +0000">
+		<title>Racing On The Edge S6</title>
+		<desc>This premium storytelling series provides an all-access look into sailingâ€™s greatest personalities, their stories, inner-battles and all the drama that converges at the Sail Grand Prix start line.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch214_Racing_on_the_edge.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="214" start="20260629100000 +0000" stop="20260629103000 +0000">
 		<title>Mini Match - UEFA Champions League 2025/26: Real Madrid vs Juventus - MD3</title>
@@ -12839,17 +12839,17 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 	</programme>
 	<programme channel="251" start="20260629200000 +0000" stop="20260629203000 +0000">
 		<title>FIFA World Cup 2026 - Pre-Show - EP 62</title>
-		<desc>(Live) Pre-Show for FIFA World Cup 2026. The FIFA World Cup 2026 is the largest edition ever, featuring 48 teams and 104 matches across Canada, Mexico, and the United States from June 11 to July 19, 2026.</desc>
+		<desc>(Live) Germany face Paraguay in a clash between European pedigree and South American resilience. Germany will be looking to take another step towards the trophy, while Paraguay hope to continue their memorable campaign. The reward for the winner is a place in the Round of 16.</desc>
 		<icon src="https://poster.starhubgo.com/poster/30Jun_GER-PRA.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="251" start="20260629203000 +0000" stop="20260629223000 +0000">
-		<title>FIFA World Cup 2026 Round of 32: Germany v Third Place Group A/B/C/D/F - EP 74</title>
-		<desc>(Live) The FIFA World Cup 2026 is the largest edition ever, featuring 48 teams and 104 matches across Canada, Mexico, and the United States from June 11 to July 19, 2026.</desc>
+		<title>FIFA World Cup 2026 Round of 32: Germany vs Paraguay - EP 74</title>
+		<desc>(Live) Germany face Paraguay in a clash between European pedigree and South American resilience. Germany will be looking to take another step towards the trophy, while Paraguay hope to continue their memorable campaign. The reward for the winner is a place in the Round of 16.</desc>
 		<icon src="https://poster.starhubgo.com/poster/30Jun_GER-PRA.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="251" start="20260629223000 +0000" stop="20260629233000 +0000">
 		<title>FIFA World Cup 2026 - Post-Show - EP 62</title>
-		<desc>(Live) Post-Show for FIFA World Cup 2026. The FIFA World Cup 2026 is the largest edition ever, featuring 48 teams and 104 matches across Canada, Mexico, and the United States from June 11 to July 19, 2026.</desc>
+		<desc>(Live) Germany face Paraguay in a clash between European pedigree and South American resilience. Germany will be looking to take another step towards the trophy, while Paraguay hope to continue their memorable campaign. The reward for the winner is a place in the Round of 16.</desc>
 		<icon src="https://poster.starhubgo.com/poster/30Jun_GER-PRA.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="251" start="20260629233000 +0000" stop="20260630000000 +0000">
