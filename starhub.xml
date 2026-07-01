@@ -1878,14 +1878,9 @@
 		<desc>From business to politics, health to technology, the latest news from Singapore and analysis of the impact.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="106" start="20260630230000 +0000" stop="20260701020000 +0000">
+	<programme channel="106" start="20260630230000 +0000" stop="20260701030000 +0000">
 		<title>Asia First - EP 66</title>
 		<desc>(Live) Top stories, business news and market updates from across the region as Asia gears up for the day ahead.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="106" start="20260701020000 +0000" stop="20260701030000 +0000">
-		<title>This Way Up - EP 1</title>
-		<desc>In Xinjiang, Guo Quan embarks on a trucking journey to Khunjerab, reaching an altitude of 4,733 metres while female trucker Yogita battles the heatwave on highways in Central India.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="106" start="20260701030000 +0000" stop="20260701050000 +0000">
@@ -10123,7 +10118,7 @@ Fathir, Sukma, Zahra, and Ira—Sukma’s adoptive mother—moved to Jakarta. W<
 	</programme>
 	<programme channel="202" start="20260701020000 +0000" stop="20260701040000 +0000">
 		<title>Singapore Premier League 2025/26 Young Lions vs BG Tampines Rovers FC</title>
-		<desc>Catch the 2025/26 Singapore Premier League as top football clubs battle for glory in Singapore’s premier competition. Defending champions Lion City Sailors return to defend their title in the league’s 8th season since its 2018 rebranding.</desc>
+		<desc>Catch the 2025/26 Singapore Premier League as top football clubs battle for glory in Singapore's premier competition. Defending champions Lion City Sailors return to defend their title in the league's 8th season since its 2018 rebranding.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch202_singapore_premier_league.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="202" start="20260701040000 +0000" stop="20260701050000 +0000">
@@ -10153,7 +10148,7 @@ Fathir, Sukma, Zahra, and Ira—Sukma’s adoptive mother—moved to Jakarta. W<
 	</programme>
 	<programme channel="202" start="20260701100000 +0000" stop="20260701110000 +0000">
 		<title>ASO Motorsport Programming 2026</title>
-		<desc>The Desafío Ruta 40 is one of South America’s most iconic rally-raid events, and is Round 3 of the FIA-FIM World Rally-Raid Championship. The 2026 edition follows a San Juan – San Rafael – San Juan loop in Argentina.</desc>
+		<desc>The Desafío Ruta 40 is one of South America's most iconic rally-raid events, and is Round 3 of the FIA-FIM World Rally-Raid Championship. The 2026 edition follows a San Juan – San Rafael – San Juan loop in Argentina.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch202_aso.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="202" start="20260701110000 +0000" stop="20260701130000 +0000">
@@ -10188,7 +10183,7 @@ Fathir, Sukma, Zahra, and Ira—Sukma’s adoptive mother—moved to Jakarta. W<
 	</programme>
 	<programme channel="202" start="20260702020000 +0000" stop="20260702040000 +0000">
 		<title>Singapore Premier League 2025/26 Hougang United FC vs Balestier Khalsa FC</title>
-		<desc>Catch the 2025/26 Singapore Premier League as top football clubs battle for glory in Singapore’s premier competition. Defending champions Lion City Sailors return to defend their title in the league’s 8th season since its 2018 rebranding.</desc>
+		<desc>Catch the 2025/26 Singapore Premier League as top football clubs battle for glory in Singapore's premier competition. Defending champions Lion City Sailors return to defend their title in the league's 8th season since its 2018 rebranding.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch202_singapore_premier_league.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="202" start="20260702040000 +0000" stop="20260702050000 +0000">
@@ -10469,7 +10464,7 @@ Fathir, Sukma, Zahra, and Ira—Sukma’s adoptive mother—moved to Jakarta. W<
 	<programme channel="209" start="20260630210000 +0000" stop="20260701010000 +0000">
 		<title>2026 R&amp;A Women's Amateur Championship</title>
 		<desc>Top women amateur golfers compete for one of the sport's most prestigious amateur titles, showcasing emerging talent, precision, and championship ambition.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch209_The_Womens_Amateur_Championship.jpg?w=960&amp;h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch209_The_Amateur_Championship.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="209" start="20260701010000 +0000" stop="20260701020000 +0000">
 		<title>2026 Supercars: betr Darwin Triple Crown</title>
@@ -10509,7 +10504,7 @@ Fathir, Sukma, Zahra, and Ira—Sukma’s adoptive mother—moved to Jakarta. W<
 	<programme channel="209" start="20260701210000 +0000" stop="20260702010000 +0000">
 		<title>2026 R&amp;A Women's Amateur Championship</title>
 		<desc>Top women amateur golfers compete for one of the sport's most prestigious amateur titles, showcasing emerging talent, precision, and championship ambition.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch209_The_Womens_Amateur_Championship.jpg?w=960&amp;h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch209_The_Amateur_Championship.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="209" start="20260702010000 +0000" stop="20260702020000 +0000">
 		<title>2026 Wimbledon Highlights</title>
@@ -10526,7 +10521,12 @@ Fathir, Sukma, Zahra, and Ira—Sukma’s adoptive mother—moved to Jakarta. W<
 		<desc>40 of the world's best female and male professional triathletes battle over 8 breakneck 100km races in iconic locations around the globe in a bid to be crowned the T100 World Champions.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch209_T100_Triathlon_World_Tour.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="209" start="20260702033000 +0000" stop="20260702113000 +0000">
+	<programme channel="209" start="20260702033000 +0000" stop="20260702043000 +0000">
+		<title>2026 WSL Inside Pro Surfing</title>
+		<desc>Be sure to catch the inspirational power of surfing through the 2026 WSL Championship Tour &amp; Challenger Series.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch209_WSL.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="209" start="20260702043000 +0000" stop="20260702113000 +0000">
 		<title>The Championships, Wimbledon 2026</title>
 		<desc>Widely regarded as the world's most prestigious tennis tournament, the best players on the planet descend on the hallowed grass courts of Wimbledon to vie for the game's holy grail.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch209_wimbledon.jpg?w=960&amp;h=540" />
@@ -10566,12 +10566,7 @@ Fathir, Sukma, Zahra, and Ira—Sukma’s adoptive mother—moved to Jakarta. W<
 		<desc>WTT United States Smash brings the world's elite table tennis players together for one of the sport's premier events, delivering high-intensity matches and unforgettable moments on the global stage.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_wtt.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="210" start="20260701050000 +0000" stop="20260701053000 +0000">
-		<title>2026 Global Champions League, Paris</title>
-		<desc>The world's top show jumping riders compete across prestigious international venues, showcasing elite skill, speed, and championship drama throughout the season.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch210_global_champions_league.jpg?w=341&amp;h=192" />
-	</programme>
-	<programme channel="210" start="20260701053000 +0000" stop="20260701115500 +0000">
+	<programme channel="210" start="20260701050000 +0000" stop="20260701115500 +0000">
 		<title>The Championships, Wimbledon 2026</title>
 		<desc>Widely regarded as the world's most prestigious tennis tournament, the best players on the planet descend on the hallowed grass courts of Wimbledon to vie for the game's holy grail.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_the_championships_wimbledon.jpg?w=960&amp;h=540" />
@@ -12636,13 +12631,8 @@ Fathir, Sukma, Zahra, and Ira—Sukma’s adoptive mother—moved to Jakarta. W<
 		<desc>(Live) Belgium and Senegal meet in one of the standout Round of 32 ties. Both sides possess the quality to make a deep run, with the winner earning a place in the Round of 16 and another opportunity to challenge for the title.</desc>
 		<icon src="https://poster.starhubgo.com/poster/2Jul_BEL-SEN.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="251" start="20260701200000 +0000" stop="20260701220000 +0000">
+	<programme channel="251" start="20260701200000 +0000" stop="20260701230000 +0000">
 		<title>FIFA World Cup 2026 Round of 32: Belgium vs Senegal - EP 82</title>
-		<desc>(Live) Belgium and Senegal meet in one of the standout Round of 32 ties. Both sides possess the quality to make a deep run, with the winner earning a place in the Round of 16 and another opportunity to challenge for the title.</desc>
-		<icon src="https://poster.starhubgo.com/poster/2Jul_BEL-SEN.jpg?w=341&amp;h=192" />
-	</programme>
-	<programme channel="251" start="20260701220000 +0000" stop="20260701230000 +0000">
-		<title>FIFA World Cup 2026 - Post-Show - EP 70</title>
 		<desc>(Live) Belgium and Senegal meet in one of the standout Round of 32 ties. Both sides possess the quality to make a deep run, with the winner earning a place in the Round of 16 and another opportunity to challenge for the title.</desc>
 		<icon src="https://poster.starhubgo.com/poster/2Jul_BEL-SEN.jpg?w=341&amp;h=192" />
 	</programme>
@@ -15244,12 +15234,12 @@ Fathir, Sukma, Zahra, and Ira—Sukma’s adoptive mother—moved to Jakarta. W<
 	<programme channel="307" start="20260630155500 +0000" stop="20260630162000 +0000">
 		<title>Trollhunters: Tales of Arcadia S1 - EP 13</title>
 		<desc>Jim must surrender to Bular and unlock the Killahead Bridge to save kidnapped Blinky and promises Claire that he will get her brother back.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/606_1920x1080_HTV.png?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch307_trollhunters.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="307" start="20260630162000 +0000" stop="20260630164500 +0000">
 		<title>Trollhunters: Tales of Arcadia S1 - EP 14</title>
 		<desc>Jim yearns to save Claires brother Meanwhile Strickler takes a field trip to find help in his quest for power</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/606_1920x1080_HTV.png?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch307_trollhunters.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="307" start="20260630164500 +0000" stop="20260630171000 +0000">
 		<title>3Below: Tales of Arcadia S1 - EP 12</title>
@@ -15529,17 +15519,17 @@ Fathir, Sukma, Zahra, and Ira—Sukma’s adoptive mother—moved to Jakarta. W<
 	<programme channel="307" start="20260701153000 +0000" stop="20260701155500 +0000">
 		<title>Trollhunters: Tales of Arcadia S1 - EP 15</title>
 		<desc>Jim is nominated for Spring Fling King Meanwhile Strickler brings Angor Rot to Arcadia so the Troll assassin can meet his prey.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/606_1920x1080_HTV.png?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch307_trollhunters.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="307" start="20260701155500 +0000" stop="20260701162000 +0000">
 		<title>Trollhunters: Tales of Arcadia S1 - EP 16</title>
 		<desc>Jims quest for Gunmars birthstone sends the gang deep into the heart of a volcano that is not what it seems and Strickler seeks to protect himself.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/606_1920x1080_HTV.png?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch307_trollhunters.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="307" start="20260701162000 +0000" stop="20260701164500 +0000">
 		<title>Trollhunters: Tales of Arcadia S1 - EP 17</title>
 		<desc>After the events at Gattos Keep Blinky is transformed into a human being and Jim discovers the assassin that is hunting him.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/606_1920x1080_HTV.png?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch307_trollhunters.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="307" start="20260701164500 +0000" stop="20260701171000 +0000">
 		<title>3Below: Tales of Arcadia S1 - EP 15</title>
@@ -15819,12 +15809,12 @@ Fathir, Sukma, Zahra, and Ira—Sukma’s adoptive mother—moved to Jakarta. W<
 	<programme channel="307" start="20260702153000 +0000" stop="20260702155500 +0000">
 		<title>Trollhunters: Tales of Arcadia S1 - EP 18</title>
 		<desc>While Jim and Toby search for dates to the Spring Dance the team searches for the Second Triumbric Stone in the marshlands of the Quagawumps.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/606_1920x1080_HTV.png?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch307_trollhunters.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="307" start="20260702155500 +0000" stop="20260702162000 +0000">
 		<title>Trollhunters: Tales of Arcadia S1 - EP 19</title>
 		<desc>When Jim is unavailable to do a simple Trollhunter task Toby and Claire take on the responsibility to prove they can carry their weight... literally.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/606_1920x1080_HTV.png?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch307_trollhunters.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="314" start="20260630155000 +0000" stop="20260630160500 +0000">
 		<title>The Marsupilamis S1 - EP 108</title>
