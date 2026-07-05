@@ -1250,7 +1250,7 @@
 	</programme>
 	<programme channel="103" start="20260705233000 +0000" stop="20260706000000 +0000">
 		<title>Frontline - EP 14</title>
-		<desc>Frontline is a weekly investigative current affairs programme that aims to address issues closest to the hearts of Singaporeans.</desc>
+		<desc>Nearly 30 years after disappearing from Singapore, pork blood curd is back. One month on, has the excitement lasted? We look at consumer demand, supply shortages, food safety, and what it took to bring this traditional ingredient back to the table.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/103_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="103" start="20260706000000 +0000" stop="20260706010000 +0000">
@@ -6976,17 +6976,17 @@ Fathir, Sukma, Zahra, and Ira—Sukma’s adoptive mother—moved to Jakarta. W<
 		<desc>Cousins live Bangalore dream and facing challenges transformations. Release Year: 2014 Director: Anjali Menon Awards: 2015 Winner Asianet Film Award - Most Popular Movie Anjali Menon, 2015 Winner SIIMA - Malayalam - Best Film</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="140" start="20260705193000 +0000" stop="20260705213000 +0000">
+	<programme channel="140" start="20260705193000 +0000" stop="20260705220000 +0000">
 		<title>Ulsaha Committee</title>
 		<desc>Apoorvan, a dropout, dreams of becoming a scientist. With his friends Babumon and Chopra, they get into trouble due to their behavior while conducting experiments. Release Year: 2014 Director: Akku Akbar</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="140" start="20260705213000 +0000" stop="20260705233000 +0000">
+	<programme channel="140" start="20260705220000 +0000" stop="20260705234500 +0000">
 		<title>Cheriya Kallnum Valiya Polisum</title>
 		<desc>Sadasivan discovers a house where Kumaran died by suicide to protect his wife, Soumini. A mysterious blind man's constant presence raises deeper questions about the tragedy. Release Year: 2010 Director: Haridas Kesavan</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="140" start="20260705233000 +0000" stop="20260706013000 +0000">
+	<programme channel="140" start="20260705234500 +0000" stop="20260706013000 +0000">
 		<title>Aayudham</title>
 		<desc>A powerful bomb blast occurs at the beach town of Vilayam in Kerala. The investigation is then handed down to Hrishikesh, a daring police officer. Release Year: 2008 Director: M. A. Nishad</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=341&amp;h=192" />
@@ -9936,15 +9936,20 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 		<desc>The CUT is a weekly show that highlights the PGA TOUR lifestyle inside and outside the ropes, telling the unique stories of the game's top names, as well as the up-and-coming stars on TOUR.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch203_PGA_Tour_the_cut.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="203" start="20260705070000 +0000" stop="20260705110000 +0000">
-		<title>PGA Tour 2026</title>
-		<desc>The John Deere Classic is a professional golf tournament on the PGA Tour. It is played annually in July, usually the week before The Open Championship, at TPC Deere Run in the Quad Cities community of Silvis, Illinois. The tournament began as the Quad Cities Open in 1971 as a "satellite event" on the PGA Tour, and became an official tour event in 1972.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch203_PGA_TOUR.jpg?w=960&amp;h=540" />
+	<programme channel="203" start="20260705070000 +0000" stop="20260705080000 +0000">
+		<title>PGA Tour Champions 2026 Highlights</title>
+		<desc>Relive all the best moment from the Wakonda Club in the heart of Des Moines, Iowa.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch203_pga_tour_cship.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="203" start="20260705110000 +0000" stop="20260705160000 +0000">
+	<programme channel="203" start="20260705080000 +0000" stop="20260705130000 +0000">
 		<title>DP World Tour 2026</title>
 		<desc>The BMW International Open is an annual men's professional golf tournament on the European Tour held in Germany. It is the country's only DP World Tour tournament and will be played at the Golfclub München Eichenried. The tournament is founded in 1989 and golfers will compete for the prize purse of USD$2.5 million.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch203_dp_world_tour.jpg?w=960&amp;h=540" />
+	</programme>
+	<programme channel="203" start="20260705130000 +0000" stop="20260705160000 +0000">
+		<title>PGA Tour 2026</title>
+		<desc>The John Deere Classic is a professional golf tournament on the PGA Tour. It is played annually in July, usually the week before The Open Championship, at TPC Deere Run in the Quad Cities community of Silvis, Illinois. The tournament began as the Quad Cities Open in 1971 as a "satellite event" on the PGA Tour, and became an official tour event in 1972.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch203_PGA_TOUR.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="203" start="20260705160000 +0000" stop="20260705170000 +0000">
 		<title>End of Transmission</title>
@@ -12332,26 +12337,21 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 		<icon src="https://poster.starhubgo.com/poster/5Jul_PAR-FRA.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="251" start="20260705000000 +0000" stop="20260705003000 +0000">
-		<title>FIFA World Cup 2026 - Match Highlights - EP 86</title>
-		<desc>Australia and Egypt meet in a tightly balanced encounter with progression on the line. Both teams have exceeded expectations to reach this stage and will be eager to continue their journey into the Round of 16.</desc>
-		<icon src="https://poster.starhubgo.com/poster/Rd_32_AUS_v_EGY_match_hls.jpg?w=960&amp;h=540" />
+		<title>FIFA World Cup 2026 - Match Highlights - EP 82</title>
+		<desc>he United States take on Bosnia and Herzegovina hoping to make home advantage count. Bosnia will be chasing another milestone in their World Cup journey, with a Round of 16 berth awaiting the winner.</desc>
+		<icon src="https://poster.starhubgo.com/poster/Rd_32_USA_v_BIH_match_hls.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="251" start="20260705003000 +0000" stop="20260705010000 +0000">
-		<title>FIFA World Cup 2026 - Match Highlights - EP 87</title>
-		<desc>Argentina begin the knockout rounds against tournament surprise package Cape Verde. The defending champions will be keen to stay on course, while Cape Verde dream of another historic result and a place in the Round of 16.</desc>
-		<icon src="https://poster.starhubgo.com/poster/Rd_32_ARG_v_CPV_match_hls.jpg?w=960&amp;h=540" />
+		<title>FIFA World Cup 2026 - Match Highlights - EP 83</title>
+		<desc>Spain face Austria in a contest between two sides that impressed during the group stage. Spain hope to continue their push for another world title, while Austria are looking to reach the Round of 16 with another strong performance.</desc>
+		<icon src="https://poster.starhubgo.com/poster/Rd_32_SPA_v_AUT_match_hls.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="251" start="20260705010000 +0000" stop="20260705031400 +0000">
+	<programme channel="251" start="20260705010000 +0000" stop="20260705035000 +0000">
 		<title>FIFA World Cup 2026 Round of 32: Argentina vs Cape Verde - EP 86</title>
 		<desc>Argentina begin the knockout rounds against tournament surprise package Cape Verde. The defending champions will be keen to stay on course, while Cape Verde dream of another historic result and a place in the Round of 16.</desc>
 		<icon src="https://poster.starhubgo.com/poster/4Jul_ARG-CPV.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="251" start="20260705031400 +0000" stop="20260705034400 +0000">
-		<title>FIFA World Cup 2026 - Match Highlights - EP 88</title>
-		<desc>Colombia and Ghana clash in a winner-takes-all FIFA World Cup 2026 Round of 32 encounter. Colombia's attacking flair meets Ghana's pace and resilience as both teams battle for a coveted place in the Round of 16. Expect an intense knockout showdown where every opportunity could prove decisive.</desc>
-		<icon src="https://poster.starhubgo.com/poster/Rd_32_COL_v_GHA_match_hls.jpg?w=960&amp;h=540" />
-	</programme>
-	<programme channel="251" start="20260705034400 +0000" stop="20260705041500 +0000">
+	<programme channel="251" start="20260705035000 +0000" stop="20260705041500 +0000">
 		<title>FIFA World Cup 2026 - Match Highlights - EP 73</title>
 		<desc>South Africa and Canada meet with a place in the Round of 16 at stake. South Africa will hope to build on a determined group-stage campaign, while Canada aim to continue their impressive run. Both teams have shown resilience and attacking promise, setting up a competitive encounter where the winner moves one step closer to World Cup glory.</desc>
 		<icon src="https://poster.starhubgo.com/poster/Rd_32_RSA_v_CAN_match_hls.jpg?w=960&amp;h=540" />
@@ -12408,7 +12408,7 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 	</programme>
 	<programme channel="251" start="20260705150000 +0000" stop="20260705153000 +0000">
 		<title>FIFA World Cup 2026 - Match Highlights - EP 82</title>
-		<desc>Mini-Stories for FIFA World Cup 2026. The FIFA World Cup 2026 is the largest edition ever, featuring 48 teams and 104 matches across Canada, Mexico, and the United States from June 11 to July 19, 2026.</desc>
+		<desc>he United States take on Bosnia and Herzegovina hoping to make home advantage count. Bosnia will be chasing another milestone in their World Cup journey, with a Round of 16 berth awaiting the winner.</desc>
 		<icon src="https://poster.starhubgo.com/poster/Rd_32_USA_v_BIH_match_hls.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="251" start="20260705153000 +0000" stop="20260705155900 +0000">
