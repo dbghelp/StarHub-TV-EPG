@@ -9596,12 +9596,12 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 		<desc>A man seeks explanations when his mother asks him to sign a document denying he is her son while she campaigns for office, years after she deserts him and marries again.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/159_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="201" start="20260711133000 +0000" stop="20260711190000 +0000">
+	<programme channel="201" start="20260711133000 +0000" stop="20260711191200 +0000">
 		<title>DP World Tour 2026</title>
 		<desc>The Genesis Scottish Open is a professional golf tournament in Scotland, and is one of 5 tournaments that are part of the Rolex Series. The tournament was established in 1972 and became a Rolex Series event in 2017. Beginning in 2022, the tournament was sponsored by Genesis.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch201_dp_world_tour.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="201" start="20260711190000 +0000" stop="20260711193000 +0000">
+	<programme channel="201" start="20260711191200 +0000" stop="20260711193000 +0000">
 		<title>ATP Tour: This Week 2026</title>
 		<desc>This programme tells the story of the ATP tour, its tournaments, personalities behind the tennis, funny feature content and much more.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch201_ATPTourThisWeek.jpg?w=960&amp;h=540" />
@@ -9636,10 +9636,15 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 		<desc>The World Snooker Championship is the most prestigious and longest-running professional snooker tournament, established in 1927. Played annually over 17 days at the Crucible Theatre in Sheffield, England, since 1977, it is the pinnacle of the sport, concluding the season's Triple Crown Series.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch201_WorldSnookerChampionship2026.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="201" start="20260712043000 +0000" stop="20260712083000 +0000">
-		<title>World Snooker Championship 2026</title>
-		<desc>The World Snooker Championship is the most prestigious and longest-running professional snooker tournament, established in 1927. Played annually over 17 days at the Crucible Theatre in Sheffield, England, since 1977, it is the pinnacle of the sport, concluding the season's Triple Crown Series.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch201_WorldSnookerChampionship2026.jpg?w=341&amp;h=192" />
+	<programme channel="201" start="20260712043000 +0000" stop="20260712060000 +0000">
+		<title>WTA Tour 2026</title>
+		<desc>The Open de Rouen is a professional women’s tennis tournament on the WTA Tour, established in 2022 and held at the Kindarena in Rouen, France. The tournament offers over $275,000 in total prize money and features top international talent.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch201_WTA_Tour_250_Generic.jpg?w=960&amp;h=540" />
+	</programme>
+	<programme channel="201" start="20260712060000 +0000" stop="20260712083000 +0000">
+		<title>DP World Tour 2026</title>
+		<desc>The Genesis Scottish Open is a professional golf tournament in Scotland, and is one of 5 tournaments that are part of the Rolex Series. The tournament was established in 1972 and became a Rolex Series event in 2017. Beginning in 2022, the tournament was sponsored by Genesis.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch201_dp_world_tour.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="201" start="20260712083000 +0000" stop="20260712113000 +0000">
 		<title>World Snooker Championship 2026</title>
@@ -12357,9 +12362,9 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 		<icon src="https://poster.starhubgo.com/poster/QF_FRA-MAR_match_hls.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="251" start="20260711190000 +0000" stop="20260711193000 +0000">
-		<title>FIFA World Cup 2026 - Match Highlights - EP 99</title>
-		<desc>England faces tournament surprise Norway in a thrilling 2026 World Cup Quarter-Final in Miami. This high-stakes clash features an elite goalscoring battle between Harry Kane and Erling Haaland as both nations fight for a coveted semi-final spot.</desc>
-		<icon src="https://poster.starhubgo.com/poster/QF_NOR-ENG_match_hls.jpg?w=960&amp;h=540" />
+		<title>FIFA World Cup 2026 - Match Highlights - EP 98</title>
+		<desc>Spain and Belgium meet in a high-stakes World Cup quarter-final. This clash pits Spain's patient, technical style against Belgium's pace, physicality and clinical finishing. Spain will look to control the tempo through midfield while relying on the creativity of their young stars to unlock Belgium's defence.</desc>
+		<icon src="https://poster.starhubgo.com/poster/QF_SPA-BEL_match_hls.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="251" start="20260711193000 +0000" stop="20260711200000 +0000">
 		<title>FIFA World Cup 2026 - Match Highlights - EP 89</title>
@@ -12369,7 +12374,7 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 	<programme channel="251" start="20260711200000 +0000" stop="20260711210000 +0000">
 		<title>FIFA World Cup 2026 - Pre-Show - EP 87</title>
 		<desc>(Live) England faces tournament surprise Norway in a thrilling 2026 World Cup Quarter-Final in Miami. This high-stakes clash features an elite goalscoring battle between Harry Kane and Erling Haaland as both nations fight for a coveted semi-final spot.</desc>
-		<icon src="https://poster.starhubgo.com/poster/12Jul_NOR-ENG.jpg?w=960&amp;h=540" />
+		<icon src="https://poster.starhubgo.com/poster/QF_NOR-ENG_match_hls.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="251" start="20260711210000 +0000" stop="20260712000000 +0000">
 		<title>FIFA World Cup 2026 Quarter-Finals: Norway vs England - EP 99</title>
