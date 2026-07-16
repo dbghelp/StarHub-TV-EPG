@@ -752,12 +752,12 @@
 	</programme>
 	<programme channel="102" start="20260717173000 +0000" stop="20260717180000 +0000">
 		<title>Talking Point - EP 11</title>
-		<desc>With a fresh approach to tackling the issues of the day, Talking Point investigates a current issue or event, offering different perspectives to local stories and reveals how it all affects you.</desc>
+		<desc>It only takes a split second for a loved one with dementia to vanish. In this two-part special, Munah Bagharib investigates why people with dementia go missing and what can be done to keep them safe.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="102" start="20260717180000 +0000" stop="20260717183000 +0000">
 		<title>On The Red Dot - EP 11</title>
-		<desc>On The Red Dot offers weekly in-depth analysis and discussion on key issues and events that matter to Singaporeans.</desc>
+		<desc>Choir Conductor, Lim Huimin and trauma cleaner Rahman Razali reimagine what the last 24 hours of their life would look like.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="102" start="20260717183000 +0000" stop="20260717190000 +0000">
@@ -1242,7 +1242,7 @@
 	</programme>
 	<programme channel="103" start="20260718033000 +0000" stop="20260718040000 +0000">
 		<title>Focus - EP 16</title>
-		<desc>Focus provides timely reports and analyses on international news and current affairs from Singapore's perspective.</desc>
+		<desc>Across Southeast Asia, more people are redefining where—and how—they choose to live and work. From long-term residency seekers in Malaysia to digital nomads in Bali and Chiang Mai, this series follows individuals pursuing new beginnings, meaningful connections, and a different pace of life, while exploring how their journeys are reshaping the communities they now call home.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/103_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="103" start="20260718040000 +0000" stop="20260718050000 +0000">
@@ -2062,7 +2062,7 @@
 	</programme>
 	<programme channel="106" start="20260718143000 +0000" stop="20260718150000 +0000">
 		<title>On The Red Dot - EP 11</title>
-		<desc>On The Red Dot offers weekly in-depth analysis and discussion on key issues and events that matter to Singaporeans.</desc>
+		<desc>Choir Conductor, Lim Huimin and trauma cleaner Rahman Razali reimagine what the last 24 hours of their life would look like.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="106" start="20260718150000 +0000" stop="20260718150300 +0000">
@@ -2382,12 +2382,12 @@
 	</programme>
 	<programme channel="107" start="20260718090000 +0000" stop="20260718100000 +0000">
 		<title>A Good Supper - EP 45</title>
-		<desc>(Dual Language Mandarin and Korean) Cui Chengcan's father extorts money from Cui Shujing due to a car accident investigation and demands she adopts Cui Chengcan, which she denies. After Cui Chengcan secretly returns the missing photo to Jin Yingxin, Cui Shujing insists he should leave to prevent further pressure regarding his adoption.</desc>
+		<desc>(Dual Language Chinese and Korean) Cui Chengcan's father extorts money from Cui Shujing due to a car accident investigation and demands she adopts Cui Chengcan, which she denies. After Cui Chengcan secretly returns the missing photo to Jin Yingxin, Cui Shujing insists he should leave to prevent further pressure regarding his adoption.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/107_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="107" start="20260718100000 +0000" stop="20260718110000 +0000">
 		<title>A Good Supper - EP 46</title>
-		<desc>(Dual Language Mandarin and Korean) Cui Chengchan's father suddenly appears and says something strange to Jin Yingxin, making her suspicious about her mother's death. He also blackmails Cui Shujing for money.</desc>
+		<desc>(Dual Language Chinese and Korean) Cui Chengchan's father suddenly appears and says something strange to Jin Yingxin, making her suspicious about her mother's death. He also blackmails Cui Shujing for money.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/107_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="107" start="20260718110000 +0000" stop="20260718130000 +0000">
@@ -8694,7 +8694,9 @@ Our guests: Jörg Lau (Die Zeit); Melinda Crane (US journalist); Ellie Geranmaye
 	</programme>
 	<programme channel="153" start="20260717003000 +0000" stop="20260717010000 +0000">
 		<title>To the Point</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+		<desc>Roughly a quarter of the world’s oil and liquefied natural gas trade usually passes through the Strait of Hormuz. Has control of this strategic chokepoint become a more powerful weapon than a nuclear bomb?
+
+Our guests: Jörg Lau (Die Zeit); Melinda Crane (US journalist); Ellie Geranmayeh (Iran expert)</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20260717010000 +0000" stop="20260717010200 +0000">
@@ -8819,7 +8821,9 @@ Our guests: Jörg Lau (Die Zeit); Melinda Crane (US journalist); Ellie Geranmaye
 	</programme>
 	<programme channel="153" start="20260717080200 +0000" stop="20260717083000 +0000">
 		<title>To the Point</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+		<desc>Roughly a quarter of the world’s oil and liquefied natural gas trade usually passes through the Strait of Hormuz. Has control of this strategic chokepoint become a more powerful weapon than a nuclear bomb?
+
+Our guests: Jörg Lau (Die Zeit); Melinda Crane (US journalist); Ellie Geranmayeh (Iran expert)</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20260717083000 +0000" stop="20260717090000 +0000">
@@ -8864,7 +8868,9 @@ Our guests: Jörg Lau (Die Zeit); Melinda Crane (US journalist); Ellie Geranmaye
 	</programme>
 	<programme channel="153" start="20260717110200 +0000" stop="20260717113000 +0000">
 		<title>To the Point</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+		<desc>Roughly a quarter of the world’s oil and liquefied natural gas trade usually passes through the Strait of Hormuz. Has control of this strategic chokepoint become a more powerful weapon than a nuclear bomb?
+
+Our guests: Jörg Lau (Die Zeit); Melinda Crane (US journalist); Ellie Geranmayeh (Iran expert)</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20260717113000 +0000" stop="20260717120000 +0000">
@@ -8929,7 +8935,9 @@ Our guests: Jörg Lau (Die Zeit); Melinda Crane (US journalist); Ellie Geranmaye
 	</programme>
 	<programme channel="153" start="20260717153000 +0000" stop="20260717160000 +0000">
 		<title>To the Point</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+		<desc>Roughly a quarter of the world’s oil and liquefied natural gas trade usually passes through the Strait of Hormuz. Has control of this strategic chokepoint become a more powerful weapon than a nuclear bomb?
+
+Our guests: Jörg Lau (Die Zeit); Melinda Crane (US journalist); Ellie Geranmayeh (Iran expert)</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20260717160000 +0000" stop="20260717163000 +0000">
@@ -9114,7 +9122,9 @@ Our guests: Jörg Lau (Die Zeit); Melinda Crane (US journalist); Ellie Geranmaye
 	</programme>
 	<programme channel="153" start="20260718033000 +0000" stop="20260718040000 +0000">
 		<title>To the Point</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+		<desc>Roughly a quarter of the world’s oil and liquefied natural gas trade usually passes through the Strait of Hormuz. Has control of this strategic chokepoint become a more powerful weapon than a nuclear bomb?
+
+Our guests: Jörg Lau (Die Zeit); Melinda Crane (US journalist); Ellie Geranmayeh (Iran expert)</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20260718040000 +0000" stop="20260718040200 +0000">
@@ -9144,7 +9154,7 @@ Our guests: Jörg Lau (Die Zeit); Melinda Crane (US journalist); Ellie Geranmaye
 	</programme>
 	<programme channel="153" start="20260718050200 +0000" stop="20260718053000 +0000">
 		<title>Arts Unveiled</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+		<desc>Wagner’s influence on the fantasy films of today, an artist who has a score to settle with patriarchy, and a Scandinavian duo creating art that brings back our sense of wonder.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20260718053000 +0000" stop="20260718060000 +0000">
@@ -9239,7 +9249,7 @@ Our guests: Jörg Lau (Die Zeit); Melinda Crane (US journalist); Ellie Geranmaye
 	</programme>
 	<programme channel="153" start="20260718103000 +0000" stop="20260718110000 +0000">
 		<title>Arts Unveiled</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+		<desc>Wagner’s influence on the fantasy films of today, an artist who has a score to settle with patriarchy, and a Scandinavian duo creating art that brings back our sense of wonder.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="153" start="20260718110000 +0000" stop="20260718110200 +0000">
@@ -12514,15 +12524,25 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 		<desc>Argentina will look to their attacking flair and big-match experience as they chase back-to-back World Cup titles, while Switzerland's disciplined defence and composure under pressure make them dangerous opponents capable of frustrating any side.</desc>
 		<icon src="https://poster.starhubgo.com/poster/QF_ARG-SUI_match_hls.jpg?w=341&amp;h=192" />
 	</programme>
+	<programme channel="251" start="20260717160000 +0000" stop="20260717163000 +0000">
+		<title>FIFA World Cup 2026 - Match Highlights - EP 101</title>
+		<desc>European heavyweights France and Spain meet in a blockbuster FIFA World Cup semi-final. France's explosive attacking talent faces Spain's trademark possession football in a clash between two of the tournament's most impressive sides.</desc>
+		<icon src="https://poster.starhubgo.com/poster/SF_FRA-ESP_match_hls.jpg?w=341&amp;h=192" />
+	</programme>
 	<programme channel="251" start="20260717163000 +0000" stop="20260717170000 +0000">
 		<title>FIFA World Cup 2026 - Match Highlights - EP 102</title>
 		<desc>England will look to build on their disciplined, resilient campaign, while Argentina aim to combine flair and attacking brilliance to edge another step towards glory. With decades of history, world-class talent and emotions running high, this promises to be a gripping semi-final worthy of the occasion.</desc>
 		<icon src="https://poster.starhubgo.com/poster/SF_ENG-ARG_match_hls.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="251" start="20260717170000 +0000" stop="20260717183000 +0000">
-		<title>FIFA World Cup 2026 - Review Show (90 min) - EP 3</title>
+	<programme channel="251" start="20260717170000 +0000" stop="20260717180000 +0000">
+		<title>FIFA World Cup 2026 - Review Show - EP 3</title>
 		<desc>(Live) Preview Show for FIFA World Cup 2026. The FIFA World Cup 2026 is the largest edition ever, featuring 48 teams and 104 matches across Canada, Mexico, and the United States from June 11 to July 19, 2026.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_Channels2/251_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="251" start="20260717180000 +0000" stop="20260717183000 +0000">
+		<title>FIFA World Cup 2026 - Match Highlights - EP 101</title>
+		<desc>European heavyweights France and Spain meet in a blockbuster FIFA World Cup semi-final. France's explosive attacking talent faces Spain's trademark possession football in a clash between two of the tournament's most impressive sides.</desc>
+		<icon src="https://poster.starhubgo.com/poster/SF_FRA-ESP_match_hls.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="251" start="20260717183000 +0000" stop="20260717190000 +0000">
 		<title>FIFA World Cup 2026 - Match Highlights - EP 97</title>
@@ -26402,7 +26422,7 @@ the Croods overcome the punch monkeys - and Phil - to save the farm?</desc>
 	</programme>
 	<programme channel="711" start="20260718073000 +0000" stop="20260718080000 +0000">
 		<title>Call to Earth (CNNI)</title>
-		<desc>Call to Earth champions extraordinary people and projects, helping to create sustainability, awareness and education around environmental issues.</desc>
+		<desc>Renowned oceanographer Dr. Sylvia Earle and coral reef conservationist Titouan Bernicot sit down for an interview to discuss the state of the ocean.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch711_call_to_earth.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="711" start="20260718080000 +0000" stop="20260718083000 +0000">
@@ -26412,7 +26432,7 @@ the Croods overcome the punch monkeys - and Phil - to save the farm?</desc>
 	</programme>
 	<programme channel="711" start="20260718083000 +0000" stop="20260718090000 +0000">
 		<title>CNN Creators</title>
-		<desc>Live from Doha, Qatar, CNN Creators follows a team of digital-native storytellers as they navigate the stories that matter most, with a focus on tech, art, culture, sport, and social trends.</desc>
+		<desc>The Creators discuss the evolution of where young people are getting their news from.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch711_cnn_creators.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="711" start="20260718090000 +0000" stop="20260718100000 +0000">
@@ -26420,25 +26440,25 @@ the Croods overcome the punch monkeys - and Phil - to save the farm?</desc>
 		<desc>Live context and clarity to the day's top stories from around the world.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch711_cnn_newsroom.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="711" start="20260718100000 +0000" stop="20260718103000 +0000">
-		<title>African Voices</title>
-		<desc>Larry Madowo travels to Nigeria's historic Warri Kingdom to meet Queen Consort Olori Atuwatse III.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch711_african_voices.jpg?w=341&amp;h=192" />
-	</programme>
-	<programme channel="711" start="20260718103000 +0000" stop="20260718110000 +0000">
-		<title>Quest's World of Wonder</title>
-		<desc>G"bekli Tepe,Turkey, is an archaeological site considered by many to be the birthplace of civilization. In the local town of Sanliurfa, Richard enjoys traditional food before catching up with the mysterious Urfa Man.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch711_quess_world_of_wonder.jpg?w=341&amp;h=192" />
-	</programme>
-	<programme channel="711" start="20260718110000 +0000" stop="20260718120000 +0000">
+	<programme channel="711" start="20260718100000 +0000" stop="20260718110000 +0000">
 		<title>CNN This Morning Weekend</title>
 		<desc>Start your day with Victor Blackwell bringing you the latest headlines and analysis.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch711_cnn_this_morning_weekend.jpg?w=960&amp;h=540" />
 	</programme>
+	<programme channel="711" start="20260718110000 +0000" stop="20260718113000 +0000">
+		<title>African Voices</title>
+		<desc>Larry Madowo travels to Nigeria's historic Warri Kingdom to meet Queen Consort Olori Atuwatse III.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch711_african_voices.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="711" start="20260718113000 +0000" stop="20260718120000 +0000">
+		<title>Quest's World of Wonder</title>
+		<desc>Göbekli Tepe,Turkey, is considered to be the birthplace of civilization. Richard enjoys traditional food before catching up with Urfa Man.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch711_quess_world_of_wonder.jpg?w=341&amp;h=192" />
+	</programme>
 	<programme channel="711" start="20260718120000 +0000" stop="20260718130000 +0000">
-		<title>First of All With Victor Blackwell</title>
-		<desc>Victor Blackwell brings a fresh perspective on the week’s news with a focus on stories affecting communities of color.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch711_first_of_all_with_victor_blackwell.jpg?w=341&amp;h=192" />
+		<title>CNN This Morning Weekend</title>
+		<desc>Start your day with Victor Blackwell bringing you the latest headlines and analysis.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch711_cnn_this_morning_weekend.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="711" start="20260718130000 +0000" stop="20260718140000 +0000">
 		<title>Smerconish</title>
@@ -26447,12 +26467,12 @@ the Croods overcome the punch monkeys - and Phil - to save the farm?</desc>
 	</programme>
 	<programme channel="711" start="20260718140000 +0000" stop="20260718143000 +0000">
 		<title>CNN Creators</title>
-		<desc>Live from Doha, Qatar, CNN Creators follows a team of digital-native storytellers as they navigate the stories that matter most, with a focus on tech, art, culture, sport, and social trends.</desc>
+		<desc>The Creators discuss the evolution of where young people are getting their news from.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch711_cnn_creators.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="711" start="20260718143000 +0000" stop="20260718150000 +0000">
 		<title>Inside Africa</title>
-		<desc>Inside Africa takes its viewers on a journey across Africa, exploring the true diversity and depth of different cultures, countries and regions.</desc>
+		<desc>Uganda looks to rebuild its boxing industry through a televised Champions League competition. We film behind the scenes of a fight night.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch711_inside_africa.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="711" start="20260718150000 +0000" stop="20260718160000 +0000">
@@ -29695,19 +29715,14 @@ the Croods overcome the punch monkeys - and Phil - to save the farm?</desc>
 		<desc>The 114th drama serial follows two women, Rin (Mikami Ai) and Naomi (Kosaka Juri), who paved the way for nursing in the Meiji era. Each carries her own struggles, yet together they support one another as they race to protect the wounded and vulnerable, often standing up against powerful forces. Through conflicts and hardships, the two gradually grow. No matter which way the wind blows, this unconventional duo continues their journey in search of happiness.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="811" start="20260717040000 +0000" stop="20260717040500 +0000">
-		<title>News</title>
-		<desc>The latest up-to-date news from Tokyo.</desc>
+	<programme channel="811" start="20260717040000 +0000" stop="20260717045500 +0000">
+		<title>Classical Music Club</title>
+		<desc>Enjoy chamber music performed by first-class Japanese musicians as well as chamber orchestra and soloists from overseas.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="811" start="20260717040500 +0000" stop="20260717055000 +0000">
-		<title>News Around Japan</title>
-		<desc>Program introduces the latest news from all over Japan.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="811" start="20260717055000 +0000" stop="20260717055500 +0000">
-		<title>World Weather</title>
-		<desc>Weather information of the different areas around the world.</desc>
+	<programme channel="811" start="20260717045500 +0000" stop="20260717055500 +0000">
+		<title>Somewhere Street "Busan, South Korea" (R)</title>
+		<desc>A close-up look at cities worldwide, as seen by a walking tourist. Viewers visit places off the beaten path, meet ordinary people, and enjoy a travel experience that only possible on foot.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="811" start="20260717055500 +0000" stop="20260717060000 +0000">
@@ -29716,8 +29731,8 @@ the Croods overcome the punch monkeys - and Phil - to save the farm?</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="811" start="20260717060000 +0000" stop="20260717061000 +0000">
-		<title>News &amp; Weather</title>
-		<desc>The latest up-to-date news and nationwide weather information.</desc>
+		<title>Darwin's Amazing Animals 10min.</title>
+		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="811" start="20260717061000 +0000" stop="20260717062500 +0000">
@@ -29726,18 +29741,13 @@ the Croods overcome the punch monkeys - and Phil - to save the farm?</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="811" start="20260717062500 +0000" stop="20260717064000 +0000">
-		<title>Night Drama Serial "Midnight Taxi" Ep. 28 (R)</title>
+		<title>Night Drama Serial "Midnight Taxi" Ep. 27 (R)</title>
 		<desc>An original story written by rising screenwriter Hyodo Ruri, who became the youngest-ever recipient of the Mukouda Kuniko Award last year. Araragi Shoko (Furukawa Kotone) is a mysterious late-night taxi driver in Tokyo. Her passengers gradually open up and reveal their true feelings.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="811" start="20260717064000 +0000" stop="20260717065000 +0000">
-		<title>Mimicries--Natural Science for Kids</title>
-		<desc>Stimulating children's intellectual curiosity by observing similar animals and plants in nature.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="811" start="20260717065000 +0000" stop="20260717065500 +0000">
-		<title>Songs for Everyone (R)</title>
-		<desc>A song program where children can sing along by reading the lyrics on the screen.</desc>
+	<programme channel="811" start="20260717064000 +0000" stop="20260717065500 +0000">
+		<title>Night Drama Serial "Midnight Taxi" Ep. 28 (R)</title>
+		<desc>An original story written by rising screenwriter Hyodo Ruri, who became the youngest-ever recipient of the Mukouda Kuniko Award last year. Araragi Shoko (Furukawa Kotone) is a mysterious late-night taxi driver in Tokyo. Her passengers gradually open up and reveal their true feelings.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="811" start="20260717065500 +0000" stop="20260717090000 +0000">
@@ -29951,7 +29961,7 @@ the Croods overcome the punch monkeys - and Phil - to save the farm?</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="811" start="20260717230000 +0000" stop="20260717231500 +0000">
-		<title>Drama Serial "The Scent of the Wind"</title>
+		<title>Drama Serial "The Scent of the Wind" Week 16</title>
 		<desc>The 114th drama serial follows two women, Rin (Mikami Ai) and Naomi (Kosaka Juri), who paved the way for nursing in the Meiji era. Each carries her own struggles, yet together they support one another as they race to protect the wounded and vulnerable, often standing up against powerful forces. Through conflicts and hardships, the two gradually grow. No matter which way the wind blows, this unconventional duo continues their journey in search of happiness.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
@@ -29966,7 +29976,7 @@ the Croods overcome the punch monkeys - and Phil - to save the farm?</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="811" start="20260718003000 +0000" stop="20260718010000 +0000">
-		<title>Document 72 Hours (R)</title>
+		<title>Document 72 Hours Encore</title>
 		<desc>This is an unusual program series that explores human dramas through chance encounters with ordinary people at selected locations.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
@@ -29990,17 +30000,12 @@ the Croods overcome the punch monkeys - and Phil - to save the farm?</desc>
 		<desc>Japan boasts a wide variety of fresh produce and quality food. Find out how and where it's all made. Plus: master chefs reveal their special recipes!</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="811" start="20260718023000 +0000" stop="20260718025000 +0000">
-		<title>Documentary: 20 Minutes</title>
-		<desc>A documentary program targeting the younger generation, who are turning away from TV, produced and directed by young creators.</desc>
+	<programme channel="811" start="20260718023000 +0000" stop="20260718025800 +0000">
+		<title>Today's Close-up (R)</title>
+		<desc>The program flexibly probes into a wide range of topics from the NHK’s unique point of view.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="811" start="20260718025000 +0000" stop="20260718025600 +0000">
-		<title>Songs for Everyone</title>
-		<desc>A song program where children can sing along by reading the lyrics on the screen.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="811" start="20260718025600 +0000" stop="20260718030000 +0000">
+	<programme channel="811" start="20260718025800 +0000" stop="20260718030000 +0000">
 		<title>World Weather</title>
 		<desc>Weather information of the different areas around the world.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
@@ -30021,8 +30026,8 @@ the Croods overcome the punch monkeys - and Phil - to save the farm?</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="811" start="20260718034500 +0000" stop="20260718040000 +0000">
-		<title>Drama Serial "The Scent of the Wind" (R)</title>
-		<desc />
+		<title>Drama Serial "The Scent of the Wind" Week 16 (R)</title>
+		<desc>The 114th drama serial follows two women, Rin (Mikami Ai) and Naomi (Kosaka Juri), who paved the way for nursing in the Meiji era. Each carries her own struggles, yet together they support one another as they race to protect the wounded and vulnerable, often standing up against powerful forces. Through conflicts and hardships, the two gradually grow. No matter which way the wind blows, this unconventional duo continues their journey in search of happiness.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="811" start="20260718040000 +0000" stop="20260718040500 +0000">
@@ -30040,8 +30045,18 @@ the Croods overcome the punch monkeys - and Phil - to save the farm?</desc>
 		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="811" start="20260718051700 +0000" stop="20260718054500 +0000">
-		<title>JAPAN DELISH</title>
+	<programme channel="811" start="20260718051700 +0000" stop="20260718053200 +0000">
+		<title>Health for Today</title>
+		<desc>Difficult to understand medical care is easily explained in this program as well as tips on healthcare.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="811" start="20260718053200 +0000" stop="20260718054200 +0000">
+		<title>Mimicries--Natural Science for Kids</title>
+		<desc>Stimulating children's intellectual curiosity by observing similar animals and plants in nature.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="811" start="20260718054200 +0000" stop="20260718054500 +0000">
+		<title>Mini Program</title>
 		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
@@ -30091,8 +30106,8 @@ the Croods overcome the punch monkeys - and Phil - to save the farm?</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="811" start="20260718110700 +0000" stop="20260718115300 +0000">
-		<title>Project X: The Challengers-New Beginnings "Oguri Cap"</title>
-		<desc>Project X returns for the first time in 18 years. The former series featured people involved in project related to the Japanese industry and contemporary history. The new series focuses on people in the “Lost Era” following the collapse of the bubble economy. In every era, there are always those take on challenges. Even without receiving praise or being in the spotlight, some dedicate themselves to their work. The documentary delivers passion and courage right to you.</desc>
+		<title>TBA</title>
+		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="811" start="20260718115300 +0000" stop="20260718115500 +0000">
@@ -30127,7 +30142,7 @@ the Croods overcome the punch monkeys - and Phil - to save the farm?</desc>
 	</programme>
 	<programme channel="811" start="20260718140000 +0000" stop="20260718143000 +0000">
 		<title>Venue101</title>
-		<desc>This live entertainment show delivers the latest music performances and information, and also connects with the audience making full use of social media.</desc>
+		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="811" start="20260718143000 +0000" stop="20260718160000 +0000">
@@ -30458,7 +30473,7 @@ the Croods overcome the punch monkeys - and Phil - to save the farm?</desc>
 	<programme channel="812" start="20260717182800 +0000" stop="20260717184300 +0000">
 		<title>Direct Talk</title>
 		<desc>Highly respected sports trainer Kitani Masashi works with world-class soccer players, relieving fatigue, pain, and conditioning the body to be less prone to injury. He talks about his unique methods.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch374_DirectTalk.jpg?w=960&amp;h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch374_direct_talk.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="812" start="20260717184300 +0000" stop="20260717185500 +0000">
 		<title>Impacts: Climates Change the World</title>
@@ -30543,7 +30558,7 @@ the Croods overcome the punch monkeys - and Phil - to save the farm?</desc>
 	<programme channel="812" start="20260718001000 +0000" stop="20260718010000 +0000">
 		<title>Documentary 360</title>
 		<desc>Climate change is transforming Shiretoko, Hokkaido. As sea ice declines and key food sources disappear, brown bears are being forced to adapt. High-resolution footage reveals a shifting ecosystem.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch374_Documentary360.jpg?w=960&amp;h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch374_NHKDocumentary.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="812" start="20260718010000 +0000" stop="20260718011000 +0000">
 		<title>NHK Newsline</title>
@@ -30643,7 +30658,7 @@ the Croods overcome the punch monkeys - and Phil - to save the farm?</desc>
 	<programme channel="812" start="20260718061000 +0000" stop="20260718070000 +0000">
 		<title>Documentary 360</title>
 		<desc>Climate change is transforming Shiretoko, Hokkaido. As sea ice declines and key food sources disappear, brown bears are being forced to adapt. High-resolution footage reveals a shifting ecosystem.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch374_Documentary360.jpg?w=960&amp;h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch374_NHKDocumentary.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="812" start="20260718070000 +0000" stop="20260718071000 +0000">
 		<title>NHK Newsline</title>
@@ -30743,7 +30758,7 @@ the Croods overcome the punch monkeys - and Phil - to save the farm?</desc>
 	<programme channel="812" start="20260718121000 +0000" stop="20260718130000 +0000">
 		<title>Documentary 360</title>
 		<desc>Climate change is transforming Shiretoko, Hokkaido. As sea ice declines and key food sources disappear, brown bears are being forced to adapt. High-resolution footage reveals a shifting ecosystem.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch374_Documentary360.jpg?w=960&amp;h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch374_NHKDocumentary.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="812" start="20260718130000 +0000" stop="20260718131000 +0000">
 		<title>NHK Newsline</title>
@@ -31013,7 +31028,7 @@ the Croods overcome the punch monkeys - and Phil - to save the farm?</desc>
 	<programme channel="815" start="20260717205500 +0000" stop="20260717210000 +0000">
 		<title>National Heritage Pilgrimage De O - EP 25</title>
 		<desc>Embark on a pilgrimage-style journey that explores Korea's national heritage, culture and historic sites.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch815_kbs_logo.jpg?w=960&amp;h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch815_national_heritage_pilgrimage_de_o.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="815" start="20260717210000 +0000" stop="20260717223000 +0000">
 		<title>The Seasons - EP 14</title>
