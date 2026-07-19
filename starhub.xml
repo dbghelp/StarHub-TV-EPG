@@ -9658,17 +9658,12 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 		<desc>The first of its kind program covering all disciplines of combat sports including MMA, boxing, kickboxing, muay thai and more.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch202_total_combat_2024.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="202" start="20260719020000 +0000" stop="20260719070000 +0000">
+	<programme channel="202" start="20260719020000 +0000" stop="20260719090000 +0000">
 		<title>HSBC BWF World Tour 2026 DAIHATSU Japan Open (S750) Finals</title>
 		<desc>The Japan Open is an annual international badminton tournament that is part of the global BWF tour. Held annually since 1982, it is one of the 5 super 750 events in the BWF event structure. This event is typically hosted in Tokyo,  though it occasionally rotates to other Japanese cities like Osaka or Yokohama.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch202_bwf_world_tour_2026_daihatsu_japan_open_2026.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="202" start="20260719070000 +0000" stop="20260719083000 +0000">
-		<title>ATP Tour 2026</title>
-		<desc>The Croatia Open is a men's professional tennis tournament held annually in the coastal town of Umag, Croatia. Founded in 1990, it is the oldest tennis tournament in Croatia.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch202_ATP_250_Plava_Laguna_Croatia_Open.jpg?w=341&amp;h=192" />
-	</programme>
-	<programme channel="202" start="20260719083000 +0000" stop="20260719113000 +0000">
+	<programme channel="202" start="20260719090000 +0000" stop="20260719113000 +0000">
 		<title>UFC Fight Night 2026 FN16: Prelims: du Plessis vs Usman</title>
 		<desc>The Ultimate Fighting Championship features some of the world's highest-profiled mixed martial arts exponents on its roster. The UFC Fight Night traditionally opens with a preliminary card and ends with the main card.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch202_ufc_fn16_du_Plessis_vs_Usman.jpg?w=341&amp;h=192" />
@@ -12366,7 +12361,7 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 	<programme channel="251" start="20260719110000 +0000" stop="20260719113500 +0000">
 		<title>FIFA World Cup 2026 - Match Day Express - EP 33</title>
 		<desc>Match Day Express brings you the goals, the plays, and the heroes of all 104 matches of the FIFA World Cup 2026!</desc>
-		<icon src="https://poster.starhubgo.com/Linear_Channels2/251_1920x1080_HTV.png?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/CS-EPG.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="251" start="20260719113500 +0000" stop="20260719140000 +0000">
 		<title>FIFA World Cup 2026 Third Place Final: France vs England - EP 103</title>
@@ -12386,12 +12381,12 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 	<programme channel="251" start="20260719150000 +0000" stop="20260719170000 +0000">
 		<title>FIFA World Cup 2026 - Final Countdown</title>
 		<desc>(Live) Final Countdown for FIFA World Cup 2026. The FIFA World Cup 2026 is the largest edition ever, featuring 48 teams and 104 matches across Canada, Mexico, and the United States from June 11 to July 19, 2026.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_Channels2/251_1920x1080_HTV.png?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/CS-EPG.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="251" start="20260719170000 +0000" stop="20260719190000 +0000">
 		<title>FIFA World Cup 2026: Closing Ceremony</title>
 		<desc>(Live) The FIFA World Cup 2026 is the largest edition ever, featuring 48 teams and 104 matches across Canada, Mexico, and the United States from June 11 to July 19, 2026.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_Channels2/251_1920x1080_HTV.png?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/CS-EPG.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="251" start="20260719190000 +0000" stop="20260719223000 +0000">
 		<title>FIFA World Cup 2026 Final: Spain vs Argentina - EP 104</title>
