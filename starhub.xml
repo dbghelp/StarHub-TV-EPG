@@ -9909,7 +9909,7 @@ Fathir, Sukma, Zahra, and Ira—Sukma’s adoptive mother—moved to Jakarta. W<
 	<programme channel="201" start="20260721000000 +0000" stop="20260721020000 +0000">
 		<title>ATP Tour 2026</title>
 		<desc>The Croatia Open is a men's professional tennis tournament held annually in the coastal town of Umag, Croatia. Founded in 1990, it is the oldest tennis tournament in Croatia.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch201_ATP250_Plava_Laguna_Croatia_Open.jpg?w=960&amp;h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch201_atp_tour_2026.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="201" start="20260721020000 +0000" stop="20260721030000 +0000">
 		<title>ASO Cycling Programming 2026</title>
@@ -10053,7 +10053,7 @@ Fathir, Sukma, Zahra, and Ira—Sukma’s adoptive mother—moved to Jakarta. W<
 	</programme>
 	<programme channel="202" start="20260721110000 +0000" stop="20260721113000 +0000">
 		<title>The Emirates FA Cup 2025/26 Highlights Show</title>
-		<desc>The FA Cup Highlights Show provides a comprehensive look back at the weekend’s FA Cup action.</desc>
+		<desc>The FA Cup Highlights Show provides a comprehensive look back at the weekend's FA Cup action.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch202_the_emirates_fa_cup_2425.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="202" start="20260721113000 +0000" stop="20260721120000 +0000">
@@ -10129,12 +10129,12 @@ Fathir, Sukma, Zahra, and Ira—Sukma’s adoptive mother—moved to Jakarta. W<
 	<programme channel="203" start="20260721100000 +0000" stop="20260721130000 +0000">
 		<title>DP World Tour 2026</title>
 		<desc>The Genesis Scottish Open is a professional golf tournament in Scotland, and is one of 5 tournaments that are part of the Rolex Series. The tournament was established in 1972 and became a Rolex Series event in 2017. Beginning in 2022, the tournament was sponsored by Genesis.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch203_dp_world_tour.jpg?w=960&amp;h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch203_DP_World_Tour_Genesis_Scottish_Open_2026.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="203" start="20260721130000 +0000" stop="20260721160000 +0000">
 		<title>DP World Tour 2026</title>
 		<desc>The Genesis Scottish Open is a professional golf tournament in Scotland, and is one of 5 tournaments that are part of the Rolex Series. The tournament was established in 1972 and became a Rolex Series event in 2017. Beginning in 2022, the tournament was sponsored by Genesis.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch203_dp_world_tour.jpg?w=960&amp;h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch203_DP_World_Tour_Genesis_Scottish_Open_2026.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="203" start="20260721160000 +0000" stop="20260721220000 +0000">
 		<title>End of Transmission</title>
@@ -12671,17 +12671,22 @@ Fathir, Sukma, Zahra, and Ira—Sukma’s adoptive mother—moved to Jakarta. W<
 		<desc>European heavyweights France and Spain meet in a blockbuster FIFA World Cup semi-final. France's explosive attacking talent faces Spain's trademark possession football in a clash between two of the tournament's most impressive sides.</desc>
 		<icon src="https://poster.starhubgo.com/poster/SF_FRA-ESP_match_hls.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="251" start="20260722023000 +0000" stop="20260722053000 +0000">
+	<programme channel="251" start="20260722023000 +0000" stop="20260722052000 +0000">
 		<title>FIFA World Cup 2026 Quarter-Final: Argentina v Switzerland - EP 100</title>
 		<desc>Argentina will look to their attacking flair and big-match experience as they chase back-to-back World Cup titles, while Switzerland's disciplined defence and composure under pressure make them dangerous opponents capable of frustrating any side.</desc>
 		<icon src="https://poster.starhubgo.com/poster/12Jul_ARG-SUI.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="251" start="20260722053000 +0000" stop="20260722060000 +0000">
+	<programme channel="251" start="20260722052000 +0000" stop="20260722054500 +0000">
+		<title>FIFA World Cup 2026 - Match Highlights - EP 101</title>
+		<desc>European heavyweights France and Spain meet in a blockbuster FIFA World Cup semi-final. France's explosive attacking talent faces Spain's trademark possession football in a clash between two of the tournament's most impressive sides.</desc>
+		<icon src="https://poster.starhubgo.com/poster/SF_FRA-ESP_match_hls.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="251" start="20260722054500 +0000" stop="20260722061500 +0000">
 		<title>FIFA World Cup 2026 - Match Highlights - EP 102</title>
 		<desc>England will look to build on their disciplined, resilient campaign, while Argentina aim to combine flair and attacking brilliance to edge another step towards glory. With decades of history, world-class talent and emotions running high, this promises to be a gripping semi-final worthy of the occasion.</desc>
 		<icon src="https://poster.starhubgo.com/poster/SF_ENG-ARG_match_hls.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="251" start="20260722060000 +0000" stop="20260722083000 +0000">
+	<programme channel="251" start="20260722061500 +0000" stop="20260722083000 +0000">
 		<title>FIFA World Cup 2026 Semi-Finals: France vs Spain - EP 101</title>
 		<desc>European heavyweights France and Spain meet in a blockbuster FIFA World Cup semi-final. France's explosive attacking talent faces Spain's trademark possession football in a clash between two of the tournament's most impressive sides.</desc>
 		<icon src="https://poster.starhubgo.com/poster/15Jul_FRA-ESP.jpg?w=960&amp;h=540" />
@@ -12711,13 +12716,8 @@ Fathir, Sukma, Zahra, and Ira—Sukma’s adoptive mother—moved to Jakarta. W<
 		<desc>France and England meet one last time at the FIFA World Cup 2026 with a place on the podium at stake. Packed with world-class talent, attacking quality and national pride, this promises to be a fiercely contested encounter as two football heavyweights battle for third place.</desc>
 		<icon src="https://poster.starhubgo.com/poster/FINAL_FRA-ENG_match_hls.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="251" start="20260722130000 +0000" stop="20260722153000 +0000">
+	<programme channel="251" start="20260722130000 +0000" stop="20260722170000 +0000">
 		<title>FIFA World Cup 2026 Final: Spain vs Argentina - EP 104</title>
-		<desc>Reigning European champions Spain take on defending world champions Argentina in the 2026 FIFA World Cup Final. Spain's trademark possession football meets Argentina's attacking flair as two footballing giants battle for the biggest prize in world football.</desc>
-		<icon src="https://poster.starhubgo.com/poster/20Jul_ESP-ARG.jpg?w=341&amp;h=192" />
-	</programme>
-	<programme channel="251" start="20260722153000 +0000" stop="20260722160000 +0000">
-		<title>FIFA World Cup 2026 - Match Highlights - EP 104</title>
 		<desc>Reigning European champions Spain take on defending world champions Argentina in the 2026 FIFA World Cup Final. Spain's trademark possession football meets Argentina's attacking flair as two footballing giants battle for the biggest prize in world football.</desc>
 		<icon src="https://poster.starhubgo.com/poster/FINAL_SPA-ARG_match_hls.jpg?w=341&amp;h=192" />
 	</programme>
@@ -16364,7 +16364,7 @@ Fathir, Sukma, Zahra, and Ira—Sukma’s adoptive mother—moved to Jakarta. W<
 	<programme channel="316" start="20260721011500 +0000" stop="20260721021500 +0000">
 		<title>The Tom And Jerry Show</title>
 		<desc>Tom is asked to rid the upstairs of a mouse.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch316_The_Tom_And_Jerry_Show.jpg?w=960&amp;h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch316_thetomandjerryshow_1920x1080.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="316" start="20260721021500 +0000" stop="20260721024500 +0000">
 		<title>Lamput</title>
@@ -16898,7 +16898,7 @@ Fathir, Sukma, Zahra, and Ira—Sukma’s adoptive mother—moved to Jakarta. W<
 	<programme channel="403" start="20260720153500 +0000" stop="20260720162500 +0000">
 		<title>Accused: Guilty Or Innocent? (S6) - EP 3</title>
 		<desc>A violent assault ends in a fatal stabbing when a young mother kills her boyfriend to defend her child. Considered innocent by police for four years, she was re-arrested and faces up to 41 years in prison.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch651_accused_guilty_or_innocent_s4.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch651_accused_guilty_or_innocent.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="403" start="20260720162500 +0000" stop="20260720172000 +0000">
 		<title>Hoarders (S14) - EP 7</title>
@@ -34280,7 +34280,7 @@ storm caused by a fire meteor and ends up in a parallel space and time.</desc>
 	</programme>
 	<programme channel="869" start="20260721025000 +0000" stop="20260721042000 +0000">
 		<title>The Deadly Knives</title>
-		<desc>Martial arts student Yen returns from school to defend his family homestead against Japanese financiers after his father is killed. On the way, he meets Hua and falls in love with her. However, Hua discovers that her father is plotting with the Japanese to take Yen's property and wants to murder him. It is a tough choice between family and love...</desc>
+		<desc>Martial arts student Yen returns from school to defend his family homestead against Japanese financiers after his father is killed. On the way, he meets Hua and falls in love with her. However, Hua discovers that her father is plotting with the Japanese to take Yen's property and wants to murder him. It is a tough choice between family and love…</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch869_the_deadly_knives.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="869" start="20260721042000 +0000" stop="20260721060500 +0000">
@@ -34290,12 +34290,12 @@ storm caused by a fire meteor and ends up in a parallel space and time.</desc>
 	</programme>
 	<programme channel="869" start="20260721060500 +0000" stop="20260721075000 +0000">
 		<title>The Fake Ghost Catchers</title>
-		<desc>Huan Zhu's ghost seeks help from "Fake Ghost Catchers" Bao Tuo and Zhou Peng, after a jealous suitor's ghost seeks vengeance by murdering her and now targeting her sister. Together with actor Wu Shun Chao who possesses a supernatural talent, they unite to protect Huan Zhu's sister from both mortal and spectral threats.</desc>
+		<desc>Huan Zhu's ghost seeks help from “Fake Ghost Catchers” Bao Tuo and Zhou Peng, after a jealous suitor's ghost seeks vengeance by murdering her and now targeting her sister. Together with actor Wu Shun Chao who possesses a supernatural talent, they unite to protect Huan Zhu's sister from both mortal and spectral threats.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch869_the_fake_ghost_catchers.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="869" start="20260721075000 +0000" stop="20260721095500 +0000">
 		<title>The Blue and the Black</title>
-		<desc>Set during the Japanese occupation in World War II, a young orphan Tang Qi falls in a love with a young man Chang. However, their love is filled with challenges, from family pressure to the turmoil of war.  When Tang Qi was raped, she is expelled from home to become a nightclub singer and embarks on a journey of no return...</desc>
+		<desc>Set during the Japanese occupation in World War II, a young orphan Tang Qi falls in a love with a young man Chang. However, their love is filled with challenges, from family pressure to the turmoil of war.  When Tang Qi was raped, she is expelled from home to become a nightclub singer and embarks on a journey of no return…</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch869_the_blue_and_the_black.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="869" start="20260721095500 +0000" stop="20260721112500 +0000">
@@ -34340,7 +34340,7 @@ storm caused by a fire meteor and ends up in a parallel space and time.</desc>
 	</programme>
 	<programme channel="869" start="20260721230000 +0000" stop="20260722004500 +0000">
 		<title>Dawn will Come</title>
-		<desc>Liang Cai drugged the beautiful Qiu Rong and raped her, but promised to marry her after getting his parent's consent. Since then, there is no news of his proposal and Qiu Rong confronts Liang Cai when she finds herself pregnant. This is when she discovers that he has already married a rich noble girl and even plans to kill her...</desc>
+		<desc>Liang Cai drugged the beautiful Qiu Rong and raped her, but promised to marry her after getting his parent's consent. Since then, there is no news of his proposal and Qiu Rong confronts Liang Cai when she finds herself pregnant. This is when she discovers that he has already married a rich noble girl and even plans to kill her…</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch869_dawn_will_come.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="869" start="20260722004500 +0000" stop="20260722024000 +0000">
