@@ -216,18 +216,6 @@
 		<display-name>Channel 251</display-name>
 		<icon src="https://poster.starhubgo.com/Linear_Channels2/251_1920x1080_HTV.png?w=272" />
 	</channel>
-	<channel id="252">
-		<display-name>FIFA World Cup CH02</display-name>
-		<icon src="https://poster.starhubgo.com/Linear_Channels2/252_1920x1080_HTV.png?w=272" />
-	</channel>
-	<channel id="253">
-		<display-name>FIFA World Cup CH03</display-name>
-		<icon src="https://poster.starhubgo.com/Linear_Channels2/253_1920x1080_HTV.png?w=272" />
-	</channel>
-	<channel id="254">
-		<display-name>FIFA World Cup CH04</display-name>
-		<icon src="https://poster.starhubgo.com/Linear_Channels2/254_1920x1080_HTV.png?w=272" />
-	</channel>
 	<channel id="303">
 		<display-name>Cbeebies HD</display-name>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/303_1920x1080_HTV.png?w=272" />
@@ -7218,22 +7206,22 @@ Fathir, Sukma, Zahra, and Ira—Sukma’s adoptive mother—moved to Jakarta. W<
 		<desc>Madhavan's life gets crazy when he's caught in a girl's fake kidnapping. Release Year: 2011 Director: Priyadarshan</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="140" start="20260721170000 +0000" stop="20260721193000 +0000">
+	<programme channel="140" start="20260721170000 +0000" stop="20260721191000 +0000">
 		<title>Thaskara Lahala</title>
 		<desc>To help a girl get married, three close friends stage a play to raise money. But in an unexpected twist, a thief steals their hard-earned profits, leaving them in a desperate and uncertain situation. Release Year: 2010 Director: Ramesh Das</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="140" start="20260721193000 +0000" stop="20260721213000 +0000">
+	<programme channel="140" start="20260721191000 +0000" stop="20260721213000 +0000">
 		<title>Honey Bee</title>
 		<desc>Sebastian and Angel elope, angering her brothers in their shared music band. Release Year: 2013 Director: Lal Jr.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="140" start="20260721213000 +0000" stop="20260721233000 +0000">
+	<programme channel="140" start="20260721213000 +0000" stop="20260721234500 +0000">
 		<title>Killadiraman</title>
 		<desc>Mahadevan witnesses a hit-and-run accident, helps the victim. Release Year: 2011 Director: Thulasidas</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="140" start="20260721233000 +0000" stop="20260722013000 +0000">
+	<programme channel="140" start="20260721234500 +0000" stop="20260722013000 +0000">
 		<title>Idiots</title>
 		<desc>A wealthy woman plots to frame her ex-boyfriend for her murder but things go awry when a thief enters her house instead of the hired killer. Release Year: 2012 Director: K.S.Bava</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=341&amp;h=192" />
@@ -11176,7 +11164,7 @@ Fathir, Sukma, Zahra, and Ira—Sukma’s adoptive mother—moved to Jakarta. W<
 	<programme channel="214" start="20260721163000 +0000" stop="20260721183000 +0000">
 		<title>Total Women's Africa Cup of Nations, Morocco 2024: Morocco vs Nigeria - Final</title>
 		<desc>beIN SPORTS brings you coverage from the 15th edition of the Africa Women Cup of Nations in Morocco.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch214_Womens_AFCON_Morocco_2024.jpg?w=960&amp;h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch214_Total_Energies_Africa_Cup_of_Nations_Morocco_2025.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="214" start="20260721183000 +0000" stop="20260721203000 +0000">
 		<title>TotalEnergies CAF Champions League 2025/26: ES Tunis vs Atletico Petroleos</title>
@@ -12626,7 +12614,7 @@ Fathir, Sukma, Zahra, and Ira—Sukma’s adoptive mother—moved to Jakarta. W<
 	<programme channel="251" start="20260721083000 +0000" stop="20260721123500 +0000">
 		<title>FIFA World Cup 2026 Final: Spain vs Argentina - EP 104</title>
 		<desc>Reigning European champions Spain take on defending world champions Argentina in the 2026 FIFA World Cup Final. Spain's trademark possession football meets Argentina's attacking flair as two footballing giants battle for the biggest prize in world football.</desc>
-		<icon src="https://poster.starhubgo.com/poster/20Jul_ESP-ARG.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/FINAL_SPA-ARG_match_hls.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="251" start="20260721123500 +0000" stop="20260721130500 +0000">
 		<title>FIFA World Cup 2026 - Match Highlights - EP 104</title>
@@ -12732,126 +12720,6 @@ Fathir, Sukma, Zahra, and Ira—Sukma’s adoptive mother—moved to Jakarta. W<
 		<title>FIFA World Cup 2026 - Match Highlights - EP 104</title>
 		<desc>Reigning European champions Spain take on defending world champions Argentina in the 2026 FIFA World Cup Final. Spain's trademark possession football meets Argentina's attacking flair as two footballing giants battle for the biggest prize in world football.</desc>
 		<icon src="https://poster.starhubgo.com/poster/FINAL_SPA-ARG_match_hls.jpg?w=341&amp;h=192" />
-	</programme>
-	<programme channel="252" start="20260720160000 +0000" stop="20260720220000 +0000">
-		<title>No Transmission</title>
-		<desc />
-		<icon src="https://poster.starhubgo.com/Linear_Channels2/252_1920x1080_HTV.png?w=960&amp;h=540" />
-	</programme>
-	<programme channel="252" start="20260720220000 +0000" stop="20260721040000 +0000">
-		<title>No Transmission</title>
-		<desc />
-		<icon src="https://poster.starhubgo.com/Linear_Channels2/252_1920x1080_HTV.png?w=960&amp;h=540" />
-	</programme>
-	<programme channel="252" start="20260721040000 +0000" stop="20260721100000 +0000">
-		<title>No Transmission</title>
-		<desc />
-		<icon src="https://poster.starhubgo.com/Linear_Channels2/252_1920x1080_HTV.png?w=960&amp;h=540" />
-	</programme>
-	<programme channel="252" start="20260721100000 +0000" stop="20260721160000 +0000">
-		<title>No Transmission</title>
-		<desc />
-		<icon src="https://poster.starhubgo.com/Linear_Channels2/252_1920x1080_HTV.png?w=960&amp;h=540" />
-	</programme>
-	<programme channel="252" start="20260721160000 +0000" stop="20260721220000 +0000">
-		<title>No Transmission</title>
-		<desc />
-		<icon src="https://poster.starhubgo.com/Linear_Channels2/252_1920x1080_HTV.png?w=960&amp;h=540" />
-	</programme>
-	<programme channel="252" start="20260721220000 +0000" stop="20260722040000 +0000">
-		<title>No Transmission</title>
-		<desc />
-		<icon src="https://poster.starhubgo.com/Linear_Channels2/252_1920x1080_HTV.png?w=960&amp;h=540" />
-	</programme>
-	<programme channel="252" start="20260722040000 +0000" stop="20260722100000 +0000">
-		<title>No Transmission</title>
-		<desc />
-		<icon src="https://poster.starhubgo.com/Linear_Channels2/252_1920x1080_HTV.png?w=960&amp;h=540" />
-	</programme>
-	<programme channel="252" start="20260722100000 +0000" stop="20260722160000 +0000">
-		<title>No Transmission</title>
-		<desc />
-		<icon src="https://poster.starhubgo.com/Linear_Channels2/252_1920x1080_HTV.png?w=960&amp;h=540" />
-	</programme>
-	<programme channel="253" start="20260720160000 +0000" stop="20260720220000 +0000">
-		<title>End of Transmission</title>
-		<desc />
-		<icon src="https://poster.starhubgo.com/Linear_Channels2/253_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="253" start="20260720220000 +0000" stop="20260721040000 +0000">
-		<title>End of Transmission</title>
-		<desc />
-		<icon src="https://poster.starhubgo.com/Linear_Channels2/253_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="253" start="20260721040000 +0000" stop="20260721100000 +0000">
-		<title>End of Transmission</title>
-		<desc />
-		<icon src="https://poster.starhubgo.com/Linear_Channels2/253_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="253" start="20260721100000 +0000" stop="20260721160000 +0000">
-		<title>End of Transmission</title>
-		<desc />
-		<icon src="https://poster.starhubgo.com/Linear_Channels2/253_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="253" start="20260721160000 +0000" stop="20260721220000 +0000">
-		<title>End of Transmission</title>
-		<desc />
-		<icon src="https://poster.starhubgo.com/Linear_Channels2/253_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="253" start="20260721220000 +0000" stop="20260722040000 +0000">
-		<title>End of Transmission</title>
-		<desc />
-		<icon src="https://poster.starhubgo.com/Linear_Channels2/253_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="253" start="20260722040000 +0000" stop="20260722100000 +0000">
-		<title>End of Transmission</title>
-		<desc />
-		<icon src="https://poster.starhubgo.com/Linear_Channels2/253_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="253" start="20260722100000 +0000" stop="20260722160000 +0000">
-		<title>End of Transmission</title>
-		<desc />
-		<icon src="https://poster.starhubgo.com/Linear_Channels2/253_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="254" start="20260720160000 +0000" stop="20260720220000 +0000">
-		<title>End of Transmission</title>
-		<desc />
-		<icon src="https://poster.starhubgo.com/Linear_Channels2/254_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="254" start="20260720220000 +0000" stop="20260721040000 +0000">
-		<title>End of Transmission</title>
-		<desc />
-		<icon src="https://poster.starhubgo.com/Linear_Channels2/254_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="254" start="20260721040000 +0000" stop="20260721100000 +0000">
-		<title>End of Transmission</title>
-		<desc />
-		<icon src="https://poster.starhubgo.com/Linear_Channels2/254_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="254" start="20260721100000 +0000" stop="20260721160000 +0000">
-		<title>End of Transmission</title>
-		<desc />
-		<icon src="https://poster.starhubgo.com/Linear_Channels2/254_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="254" start="20260721160000 +0000" stop="20260721220000 +0000">
-		<title>End of Transmission</title>
-		<desc />
-		<icon src="https://poster.starhubgo.com/Linear_Channels2/254_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="254" start="20260721220000 +0000" stop="20260722040000 +0000">
-		<title>End of Transmission</title>
-		<desc />
-		<icon src="https://poster.starhubgo.com/Linear_Channels2/254_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="254" start="20260722040000 +0000" stop="20260722100000 +0000">
-		<title>End of Transmission</title>
-		<desc />
-		<icon src="https://poster.starhubgo.com/Linear_Channels2/254_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="254" start="20260722100000 +0000" stop="20260722160000 +0000">
-		<title>End of Transmission</title>
-		<desc />
-		<icon src="https://poster.starhubgo.com/Linear_Channels2/254_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="303" start="20260720160000 +0000" stop="20260720161000 +0000">
 		<title>Teletubbies S01 - EP 91</title>
@@ -17080,7 +16948,7 @@ Fathir, Sukma, Zahra, and Ira—Sukma’s adoptive mother—moved to Jakarta. W<
 	<programme channel="403" start="20260720234500 +0000" stop="20260721004000 +0000">
 		<title>Accused: Guilty Or Innocent? (S6) - EP 3</title>
 		<desc>A violent assault ends in a fatal stabbing when a young mother kills her boyfriend to defend her child. Considered innocent by police for four years, she was re-arrested and faces up to 41 years in prison.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch651_accused_guilty_or_innocent_s4.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch651_accused_guilty_or_innocent.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="403" start="20260721004000 +0000" stop="20260721013500 +0000">
 		<title>Cold Case Files: Murder In The Bayou - EP 1</title>
@@ -17130,7 +16998,7 @@ Fathir, Sukma, Zahra, and Ira—Sukma’s adoptive mother—moved to Jakarta. W<
 	<programme channel="403" start="20260721080000 +0000" stop="20260721085500 +0000">
 		<title>Accused: Guilty Or Innocent? (S6) - EP 3</title>
 		<desc>A violent assault ends in a fatal stabbing when a young mother kills her boyfriend to defend her child. Considered innocent by police for four years, she was re-arrested and faces up to 41 years in prison.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch651_accused_guilty_or_innocent_s4.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch651_accused_guilty_or_innocent.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="403" start="20260721085500 +0000" stop="20260721094500 +0000">
 		<title>Cold Case Files: Murder In The Bayou - EP 2</title>
@@ -17980,7 +17848,7 @@ Fathir, Sukma, Zahra, and Ira—Sukma’s adoptive mother—moved to Jakarta. W<
 	<programme channel="427" start="20260721060000 +0000" stop="20260721063000 +0000">
 		<title>The Food Guide - EP 1</title>
 		<desc>Joe Remblance explores hearty Hungarian cuisine in Budapest through dishes such as Schnitzel, Gundel Palacsinta and Hungarian Lángos.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch427_TheFoodGuide.jpg?w=960&amp;h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch427_THEFOODGUIDE.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="427" start="20260721063000 +0000" stop="20260721070000 +0000">
 		<title>Bucket List - EP 1</title>
@@ -18175,7 +18043,7 @@ Fathir, Sukma, Zahra, and Ira—Sukma’s adoptive mother—moved to Jakarta. W<
 	<programme channel="427" start="20260722013000 +0000" stop="20260722020000 +0000">
 		<title>The Food Guide - EP 1</title>
 		<desc>Joe Remblance explores hearty Hungarian cuisine in Budapest through dishes such as Schnitzel, Gundel Palacsinta and Hungarian Lángos.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch427_TheFoodGuide.jpg?w=960&amp;h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch427_THEFOODGUIDE.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="427" start="20260722020000 +0000" stop="20260722023000 +0000">
 		<title>The Gypsies - EP 7</title>
@@ -32922,24 +32790,144 @@ Fathir, Sukma, Zahra, and Ira—Sukma’s adoptive mother—moved to Jakarta. W<
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20260721160000 +0000" stop="20260721220000 +0000">
-		<title>Information Not Available</title>
-		<desc />
+	<programme channel="832" start="20260721160000 +0000" stop="20260721163600 +0000">
+		<title>THE CITY OF MUSICALS</title>
+		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20260721220000 +0000" stop="20260722040000 +0000">
-		<title>Information Not Available</title>
-		<desc />
+	<programme channel="832" start="20260721163600 +0000" stop="20260721170100 +0000">
+		<title>I LOVE SHANGHAI</title>
+		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20260722040000 +0000" stop="20260722100000 +0000">
-		<title>Information Not Available</title>
-		<desc />
+	<programme channel="832" start="20260721170100 +0000" stop="20260721171300 +0000">
+		<title>ShanghaiEye</title>
+		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20260722100000 +0000" stop="20260722160000 +0000">
-		<title>Information Not Available</title>
-		<desc />
+	<programme channel="832" start="20260721171300 +0000" stop="20260721181200 +0000">
+		<title>Dragon TV Primetime News</title>
+		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="832" start="20260721181200 +0000" stop="20260721195200 +0000">
+		<title>Future China</title>
+		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="832" start="20260721195200 +0000" stop="20260721204900 +0000">
+		<title>Overtime No More</title>
+		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="832" start="20260721204900 +0000" stop="20260721221000 +0000">
+		<title>A Green Trip</title>
+		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="832" start="20260721221000 +0000" stop="20260721223500 +0000">
+		<title>New Entertainment</title>
+		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="832" start="20260721223500 +0000" stop="20260721230000 +0000">
+		<title>CARE ON THE WAY</title>
+		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="832" start="20260721230000 +0000" stop="20260722010000 +0000">
+		<title>Dragon TV Morning News</title>
+		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="832" start="20260722010000 +0000" stop="20260722021900 +0000">
+		<title>A Green Trip</title>
+		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="832" start="20260722021900 +0000" stop="20260722033400 +0000">
+		<title>Ai Romance</title>
+		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="832" start="20260722033400 +0000" stop="20260722040000 +0000">
+		<title>CARE ON THE WAY</title>
+		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="832" start="20260722040000 +0000" stop="20260722043000 +0000">
+		<title>MIDDAY NEWS</title>
+		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="832" start="20260722043000 +0000" stop="20260722044200 +0000">
+		<title>ShanghaiEye</title>
+		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="832" start="20260722044200 +0000" stop="20260722062200 +0000">
+		<title>Future China</title>
+		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="832" start="20260722062200 +0000" stop="20260722074200 +0000">
+		<title>Dream Home</title>
+		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="832" start="20260722074200 +0000" stop="20260722090900 +0000">
+		<title>Ai Romance</title>
+		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="832" start="20260722090900 +0000" stop="20260722093500 +0000">
+		<title>New Entertainment</title>
+		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="832" start="20260722093500 +0000" stop="20260722100000 +0000">
+		<title>CARE ON THE WAY</title>
+		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="832" start="20260722100000 +0000" stop="20260722105800 +0000">
+		<title>Dragon TV Primetime News</title>
+		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="832" start="20260722105800 +0000" stop="20260722111000 +0000">
+		<title>ShanghaiEye</title>
+		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="832" start="20260722111000 +0000" stop="20260722123000 +0000">
+		<title>Dream Home</title>
+		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="832" start="20260722123000 +0000" stop="20260722133900 +0000">
+		<title>A Green Trip</title>
+		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="832" start="20260722133900 +0000" stop="20260722142900 +0000">
+		<title>Future China</title>
+		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="832" start="20260722142900 +0000" stop="20260722145400 +0000">
+		<title>New Entertainment</title>
+		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="832" start="20260722145400 +0000" stop="20260722151900 +0000">
+		<title>CARE ON THE WAY</title>
+		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="832" start="20260722151900 +0000" stop="20260722160000 +0000">
+		<title>Ai Romance</title>
+		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="838" start="20260720160000 +0000" stop="20260720163000 +0000">
