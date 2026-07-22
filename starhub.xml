@@ -10014,7 +10014,7 @@ Fathir, Sukma, Zahra, and Ira—Sukma’s adoptive mother—moved to Jakarta. W<
 	<programme channel="201" start="20260723100000 +0000" stop="20260723103000 +0000">
 		<title>Badminton Unlimited 2026</title>
 		<desc>Catch all the happenings in and around the world of badminton here on the show Badminton Unlimited.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch201_badminton_unlimited.jpg?w=960&amp;h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch201_BadmintonWeekly.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="201" start="20260723103000 +0000" stop="20260723110000 +0000">
 		<title>ATP Tour: This Week 2026</title>
@@ -12606,22 +12606,17 @@ Fathir, Sukma, Zahra, and Ira—Sukma’s adoptive mother—moved to Jakarta. W<
 		<desc>Reigning European champions Spain take on defending world champions Argentina in the 2026 FIFA World Cup Final. Spain's trademark possession football meets Argentina's attacking flair as two footballing giants battle for the biggest prize in world football.</desc>
 		<icon src="https://poster.starhubgo.com/poster/FINAL_SPA-ARG_match_hls.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="251" start="20260722170000 +0000" stop="20260722183000 +0000">
+	<programme channel="251" start="20260722170000 +0000" stop="20260722173000 +0000">
+		<title>FIFA World Cup 2026 - Match Highlights - EP 104</title>
+		<desc>Reigning European champions Spain take on defending world champions Argentina in the 2026 FIFA World Cup Final. Spain's trademark possession football meets Argentina's attacking flair as two footballing giants battle for the biggest prize in world football.</desc>
+		<icon src="https://poster.starhubgo.com/poster/FINAL_SPA-ARG_match_hls.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="251" start="20260722173000 +0000" stop="20260722194500 +0000">
 		<title>FIFA World Cup 2026 Quarter-Finals: France vs Morocco - EP 97</title>
 		<desc>France brings championship pedigree, attacking quality and big-match experience, while Morocco looks to build on its fearless campaign with resilience, tactical discipline and swift counterattacks. Expect an intense contest where every moment could prove decisive as two ambitious sides battle for a place among the world's final four.</desc>
 		<icon src="https://poster.starhubgo.com/poster/10Jul_FRA-MAR.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="251" start="20260722183000 +0000" stop="20260722190000 +0000">
-		<title>FIFA World Cup 2026 - Match Highlights - EP 97</title>
-		<desc>France brings championship pedigree, attacking quality and big-match experience, while Morocco looks to build on its fearless campaign with resilience, tactical discipline and swift counterattacks. Expect an intense contest where every moment could prove decisive as two ambitious sides battle for a place among the world's final four.</desc>
-		<icon src="https://poster.starhubgo.com/poster/QF_FRA-MAR_match_hls.jpg?w=960&amp;h=540" />
-	</programme>
-	<programme channel="251" start="20260722190000 +0000" stop="20260722193000 +0000">
-		<title>FIFA World Cup 2026 - Match Highlights - EP 98</title>
-		<desc>Spain and Belgium meet in a high-stakes World Cup quarter-final. This clash pits Spain's patient, technical style against Belgium's pace, physicality and clinical finishing. Spain will look to control the tempo through midfield while relying on the creativity of their young stars to unlock Belgium's defence.</desc>
-		<icon src="https://poster.starhubgo.com/poster/QF_SPA-BEL_match_hls.jpg?w=960&amp;h=540" />
-	</programme>
-	<programme channel="251" start="20260722193000 +0000" stop="20260722220000 +0000">
+	<programme channel="251" start="20260722194500 +0000" stop="20260722220000 +0000">
 		<title>FIFA World Cup 2026 Quarter-Finals: Spain vs Belgium - EP 98</title>
 		<desc>Spain and Belgium meet in a high-stakes World Cup quarter-final. This clash pits Spain's patient, technical style against Belgium's pace, physicality and clinical finishing. Spain will look to control the tempo through midfield while relying on the creativity of their young stars to unlock Belgium's defence.</desc>
 		<icon src="https://poster.starhubgo.com/poster/11Jul_ESP-BEL.jpg?w=341&amp;h=192" />
@@ -12650,6 +12645,11 @@ Fathir, Sukma, Zahra, and Ira—Sukma’s adoptive mother—moved to Jakarta. W<
 		<title>FIFA World Cup 2026 Semi-Finals: France vs Spain - EP 101</title>
 		<desc>European heavyweights France and Spain meet in a blockbuster FIFA World Cup semi-final. France's explosive attacking talent faces Spain's trademark possession football in a clash between two of the tournament's most impressive sides.</desc>
 		<icon src="https://poster.starhubgo.com/poster/15Jul_FRA-ESP.jpg?w=960&amp;h=540" />
+	</programme>
+	<programme channel="251" start="20260723050000 +0000" stop="20260723053000 +0000">
+		<title>FIFA World Cup 2026 - Match Highlights - EP 101</title>
+		<desc>European heavyweights France and Spain meet in a blockbuster FIFA World Cup semi-final. France's explosive attacking talent faces Spain's trademark possession football in a clash between two of the tournament's most impressive sides.</desc>
+		<icon src="https://poster.starhubgo.com/poster/SF_FRA-ESP_match_hls.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="251" start="20260723053000 +0000" stop="20260723060000 +0000">
 		<title>FIFA World Cup 2026 - Match Highlights - EP 102</title>
@@ -12686,13 +12686,8 @@ Fathir, Sukma, Zahra, and Ira—Sukma’s adoptive mother—moved to Jakarta. W<
 		<desc>France and England meet one last time at the FIFA World Cup 2026 with a place on the podium at stake. Packed with world-class talent, attacking quality and national pride, this promises to be a fiercely contested encounter as two football heavyweights battle for third place.</desc>
 		<icon src="https://poster.starhubgo.com/poster/FINAL_FRA-ENG_match_hls.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="251" start="20260723130000 +0000" stop="20260723153000 +0000">
+	<programme channel="251" start="20260723130000 +0000" stop="20260723170000 +0000">
 		<title>FIFA World Cup 2026 Final: Spain vs Argentina - EP 104</title>
-		<desc>Reigning European champions Spain take on defending world champions Argentina in the 2026 FIFA World Cup Final. Spain's trademark possession football meets Argentina's attacking flair as two footballing giants battle for the biggest prize in world football.</desc>
-		<icon src="https://poster.starhubgo.com/poster/20Jul_ESP-ARG.jpg?w=341&amp;h=192" />
-	</programme>
-	<programme channel="251" start="20260723153000 +0000" stop="20260723160000 +0000">
-		<title>FIFA World Cup 2026 - Match Highlights - EP 104</title>
 		<desc>Reigning European champions Spain take on defending world champions Argentina in the 2026 FIFA World Cup Final. Spain's trademark possession football meets Argentina's attacking flair as two footballing giants battle for the biggest prize in world football.</desc>
 		<icon src="https://poster.starhubgo.com/poster/FINAL_SPA-ARG_match_hls.jpg?w=341&amp;h=192" />
 	</programme>
