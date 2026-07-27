@@ -10431,12 +10431,12 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 		<desc>The electric racing revolution continues in Formula E Season 12, as top drivers battle across iconic cities for the world championship crown.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch209_FormulaE.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="209" start="20260728113000 +0000" stop="20260728133000 +0000">
+	<programme channel="209" start="20260728113000 +0000" stop="20260728132500 +0000">
 		<title>Formula E S12: Rd 14 Tokyo E-Prix</title>
 		<desc>The electric racing revolution continues in Formula E Season 12, as top drivers battle across iconic cities for the world championship crown.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch209_FormulaE.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="209" start="20260728133000 +0000" stop="20260728160000 +0000">
+	<programme channel="209" start="20260728132500 +0000" stop="20260728160000 +0000">
 		<title>Formula E S12: Rd 14 Tokyo E-Prix</title>
 		<desc>The electric racing revolution continues in Formula E Season 12, as top drivers battle across iconic cities for the world championship crown.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch209_FormulaE.jpg?w=960&amp;h=540" />
@@ -10474,7 +10474,7 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 	<programme channel="210" start="20260727021500 +0000" stop="20260727024500 +0000">
 		<title>SailGP: Racing on the Edge S6</title>
 		<desc>Expect sheer emotion, state-of-the-art technology and incredible drama as elite athletes fly cutting-edge wingsailed catamarans in thrilling close-to-shore races in iconic venues across the globe.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch210_sailgp.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch210_sailgp_racing_on_the_edge_s6.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="210" start="20260727024500 +0000" stop="20260727074000 +0000">
 		<title>The Championships, Wimbledon 2026 Day 9 Quarterfinals (No.1 Court)</title>
@@ -10521,20 +10521,20 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 		<desc>Major League Baseball is the most historic professional sports league consists of 30 member clubs in the U.S. and Canada, representing the highest level of professional baseball.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_mlb.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="210" start="20260728024500 +0000" stop="20260728053000 +0000">
+	<programme channel="210" start="20260728024500 +0000" stop="20260728050000 +0000">
 		<title>WTT Star Contender Sao Jose dos Campos 2026</title>
 		<desc>Emerging top table tennis players compete for vital ranking points and the opportunity to take the next step toward the WTT Champions Series.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_wtt_star_contender.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="210" start="20260728053000 +0000" stop="20260728120000 +0000">
-		<title>The Championships, Wimbledon 2026</title>
+	<programme channel="210" start="20260728050000 +0000" stop="20260728120000 +0000">
+		<title>The Championships, Wimbledon 2026 Day 11 Semifinals (No.1 Court)</title>
 		<desc>Widely regarded as the world's most prestigious tennis tournament, the best players on the planet descend on the hallowed grass courts of Wimbledon to vie for the game's holy grail.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_the_championships_wimbledon.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="210" start="20260728120000 +0000" stop="20260728130000 +0000">
 		<title>Faultless</title>
 		<desc>An exclusive documentary series following the world's top show jumpers and their horses, revealing the trust, sacrifice, and determination behind the pursuit of excellence at the sport's biggest events.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch210_spotv2_logo.jpg?w=960&amp;h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch210_faultless.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="210" start="20260728130000 +0000" stop="20260728143000 +0000">
 		<title>SailGP S6: Emirates Great Britain Sail Grand Prix</title>
@@ -29366,24 +29366,19 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 		<desc>The 114th drama serial follows two women, Rin (Mikami Ai) and Naomi (Kosaka Juri), who paved the way for nursing in the Meiji era. Each carries her own struggles, yet together they support one another as they race to protect the wounded and vulnerable, often standing up against powerful forces. Through conflicts and hardships, the two gradually grow. No matter which way the wind blows, this unconventional duo continues their journey in search of happiness.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="811" start="20260726231500 +0000" stop="20260727005400 +0000">
-		<title>asaichi</title>
-		<desc>Looking into topical information ranging from social issues to entertainment news through the eyes of the general public.</desc>
+	<programme channel="811" start="20260726235500 +0000" stop="20260727000000 +0000">
+		<title>News &amp; Weather</title>
+		<desc>The latest up-to-date news and nationwide weather information.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="811" start="20260727005400 +0000" stop="20260727005500 +0000">
-		<title>World Weather</title>
-		<desc>Weather information of the different areas around the world.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="811" start="20260727005500 +0000" stop="20260727010000 +0000">
-		<title>Exercise for Everyone</title>
-		<desc>An easy-to-do exercise program for everyone from children to the elderly.</desc>
+	<programme channel="811" start="20260727000000 +0000" stop="20260727010000 +0000">
+		<title>Somewhere Street (R)</title>
+		<desc>A close-up look at cities worldwide, as seen by a walking tourist. Viewers visit places off the beaten path, meet ordinary people, and enjoy a travel experience that only possible on foot.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="811" start="20260727010000 +0000" stop="20260727010500 +0000">
-		<title>News &amp; Weather</title>
-		<desc>The latest up-to-date news and nationwide weather information.</desc>
+		<title>Mini Program</title>
+		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="811" start="20260727010500 +0000" stop="20260727015100 +0000">
@@ -29506,24 +29501,14 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 		<desc>Let's learn about SDGs while singing along!  A selected goal out of 17 will be introduced in each one-minute song with animation.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="811" start="20260727090000 +0000" stop="20260727091000 +0000">
-		<title>News (B)</title>
-		<desc />
+	<programme channel="811" start="20260727090000 +0000" stop="20260727093000 +0000">
+		<title>News</title>
+		<desc>The latest up-to-date news from Tokyo.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="811" start="20260727091000 +0000" stop="20260727092500 +0000">
-		<title>Kid's Discovery</title>
-		<desc>In this program, children around the age of 4 can experience the pleasure of playing with friends, the wonder of life, the joy of doing thigs by themselves, and consideration for others, all while having fun through various discoveries.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="811" start="20260727092500 +0000" stop="20260727095500 +0000">
+	<programme channel="811" start="20260727093000 +0000" stop="20260727100000 +0000">
 		<title>Nyan-chu! Space! Broadcasting! (R)</title>
 		<desc>Nyan-chu, a cat from the earth, introduces human lives and cultures to the aliens in outer space.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="811" start="20260727095500 +0000" stop="20260727100000 +0000">
-		<title>World Weather</title>
-		<desc>Weather information of the different areas around the world.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="811" start="20260727100000 +0000" stop="20260727103000 +0000">
@@ -29642,7 +29627,7 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="811" start="20260727174500 +0000" stop="20260727180000 +0000">
-		<title>Kid's Discovery (R)</title>
+		<title>Kid's Discovery</title>
 		<desc>In this program, children around the age of 4 can experience the pleasure of playing with friends, the wonder of life, the joy of doing thigs by themselves, and consideration for others, all while having fun through various discoveries.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
@@ -32758,19 +32743,34 @@ Futuristic program scenes with video game clearing concept, where challengers en
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20260727144400 +0000" stop="20260727160000 +0000">
+	<programme channel="832" start="20260727144400 +0000" stop="20260727170000 +0000">
 		<title>Overtime No More</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20260727160000 +0000" stop="20260727220000 +0000">
-		<title>Information Not Available</title>
-		<desc />
+	<programme channel="832" start="20260727170000 +0000" stop="20260727220000 +0000">
+		<title>Dragon TV Primetime News</title>
+		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20260727220000 +0000" stop="20260728040000 +0000">
-		<title>Information Not Available</title>
-		<desc />
+	<programme channel="832" start="20260727220000 +0000" stop="20260727223000 +0000">
+		<title>New Entertainment</title>
+		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="832" start="20260727223000 +0000" stop="20260727230000 +0000">
+		<title>CARE ON THE WAY</title>
+		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="832" start="20260727230000 +0000" stop="20260728000000 +0000">
+		<title>Dragon TV Morning News</title>
+		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="832" start="20260728000000 +0000" stop="20260728023000 +0000">
+		<title>A Green Trip</title>
+		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="832" start="20260728040000 +0000" stop="20260728100000 +0000">
