@@ -212,10 +212,6 @@
 		<display-name>Premier Sports</display-name>
 		<icon src="https://poster.starhubgo.com/Linear_Channels2/247_1920x1080_HTV.png?w=272" />
 	</channel>
-	<channel id="251">
-		<display-name>Channel 251</display-name>
-		<icon src="https://poster.starhubgo.com/Linear_Channels2/251_1920x1080_HTV.png?w=272" />
-	</channel>
 	<channel id="303">
 		<display-name>Cbeebies HD</display-name>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/303_1920x1080_HTV.png?w=272" />
@@ -1910,7 +1906,7 @@
 	</programme>
 	<programme channel="106" start="20260729210000 +0000" stop="20260729213000 +0000">
 		<title>Money Mind - EP 14</title>
-		<desc>Money Mind is a weekly magazine programme centering on personal finance. Every week, the programme offers tips on how to grow, save and spend your money wisely.</desc>
+		<desc>A young employee trades remote work for a 50% pay rise. In India, why one household invested in a system with a 20-year payback. Plus, how tiny savings are helping Filipino families build wealth.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="106" start="20260729213000 +0000" stop="20260729220000 +0000">
@@ -6068,7 +6064,7 @@ Fathir, Sukma, Zahra, and Ira—Sukma’s adoptive mother—moved to Jakarta. W<
 	</programme>
 	<programme channel="135" start="20260729180000 +0000" stop="20260729183000 +0000">
 		<title>Kadhal Kadhal Kadhal - EP 18</title>
-		<desc>Kadhal Kadhal Kadhal</desc>
+		<desc>A romantic drama that explores love, relationships and emotional challenges as the lives of its characters are shaped by romance, misunderstandings and heartfelt moments.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch135_kadhal_kadhal_kadhal.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="135" start="20260729183000 +0000" stop="20260729190000 +0000">
@@ -6079,7 +6075,7 @@ Fathir, Sukma, Zahra, and Ira—Sukma’s adoptive mother—moved to Jakarta. W<
 	<programme channel="135" start="20260729190000 +0000" stop="20260729193000 +0000">
 		<title>Azhagae Azhagu - EP 135</title>
 		<desc>Shanmugam reunites with his childhood sweetheart, hires her as a housemaid because she needs work. His wife protests when she learns of the arrangement tonight.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch135_ayyanar_thunai.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch135_azhagae_azhagu.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="135" start="20260729193000 +0000" stop="20260729200000 +0000">
 		<title>Kanmani Anbudan - EP 569</title>
@@ -6098,7 +6094,7 @@ Fathir, Sukma, Zahra, and Ira—Sukma’s adoptive mother—moved to Jakarta. W<
 	</programme>
 	<programme channel="135" start="20260729210000 +0000" stop="20260729213000 +0000">
 		<title>Kadhal Kadhal Kadhal - EP 18</title>
-		<desc>Kadhal Kadhal Kadhal</desc>
+		<desc>A romantic drama that explores love, relationships and emotional challenges as the lives of its characters are shaped by romance, misunderstandings and heartfelt moments.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch135_kadhal_kadhal_kadhal.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="135" start="20260729213000 +0000" stop="20260729220000 +0000">
@@ -6111,6 +6107,11 @@ Fathir, Sukma, Zahra, and Ira—Sukma’s adoptive mother—moved to Jakarta. W<
 		<desc>For her father's word, Bairavi ties the knot with Arumugam, while Siva rejects Sindhu's proposal yet ends up marrying her. How will these couples find solace?</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch135_sindhu_bairavi_kacheri_arambam.jpg?w=960&amp;h=540" />
 	</programme>
+	<programme channel="135" start="20260729223000 +0000" stop="20260729230000 +0000">
+		<title>Onna Irukka Kaththukkanum - EP 23</title>
+		<desc>The Kandhasamy family runs a modest vegetarian mess rooted in tradition. When progressive Indira enters their lives, their beliefs are challenged, forcing them to choose between change and division.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch135_onna_irukka_kaththukkanum.jpg?w=960&amp;h=540" />
+	</programme>
 	<programme channel="135" start="20260729230000 +0000" stop="20260729233000 +0000">
 		<title>Thaai Maman- Thaiku Nigaranavan - EP 68</title>
 		<desc>The story follows family members facing duties, sacrifices, and emotions as they strive to stay united despite conflicts and hardships testing their bond and resilience.</desc>
@@ -6119,7 +6120,7 @@ Fathir, Sukma, Zahra, and Ira—Sukma’s adoptive mother—moved to Jakarta. W<
 	<programme channel="135" start="20260729233000 +0000" stop="20260730000000 +0000">
 		<title>Azhagae Azhagu - EP 135</title>
 		<desc>Shanmugam reunites with his childhood sweetheart, hires her as a housemaid because she needs work. His wife protests when she learns of the arrangement tonight.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch135_ayyanar_thunai.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch135_azhagae_azhagu.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="135" start="20260730000000 +0000" stop="20260730003000 +0000">
 		<title>Pandian Stores Thanthai Sol Mikka Mandhi - EP 843</title>
@@ -10824,17 +10825,17 @@ Our craft workers: Sonja Bantli and Fabian Bolliger.</desc>
 	</programme>
 	<programme channel="211" start="20260729160000 +0000" stop="20260729173000 +0000">
 		<title>Premier Padel 2026: Pretoria P1 Day 3 Match 6</title>
-		<desc>The official global Padel tour. Catch worldâ€™s top players battle it out across the globe.</desc>
+		<desc>The official global Padel tour. Catch world's top players battle it out across the globe.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_premier_padel.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="211" start="20260729173000 +0000" stop="20260729190000 +0000">
 		<title>Premier Padel 2026: Pretoria P1 Day 3 Match 7</title>
-		<desc>The official global Padel tour. Catch worldâ€™s top players battle it out across the globe.</desc>
+		<desc>The official global Padel tour. Catch world's top players battle it out across the globe.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_premier_padel.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="211" start="20260729190000 +0000" stop="20260729203000 +0000">
 		<title>Premier Padel 2026: Buenos Aires P1 Day 1 Match 6</title>
-		<desc>The official global Padel tour. Catch worldâ€™s top players battle it out across the globe.</desc>
+		<desc>The official global Padel tour. Catch world's top players battle it out across the globe.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_premier_padel.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="211" start="20260729203000 +0000" stop="20260729210000 +0000">
@@ -10849,12 +10850,12 @@ Our craft workers: Sonja Bantli and Fabian Bolliger.</desc>
 	</programme>
 	<programme channel="211" start="20260729213000 +0000" stop="20260729232000 +0000">
 		<title>Women's Super League 2025/26: Man City vs Aston Villa</title>
-		<desc>BWSL is one of the most-watched leagues in the world and represents the pinnacle of womenâ€™s professional football in England where the worldâ€™s best players and 12 clubs compete for honours.</desc>
+		<desc>BWSL is one of the most-watched leagues in the world and represents the pinnacle of women's professional football in England where the world's best players and 12 clubs compete for honours.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_womens_super_league_2025_26.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="211" start="20260729232000 +0000" stop="20260730011000 +0000">
 		<title>Women's Super League 2025/26: Brighton vs Chelsea</title>
-		<desc>BWSL is one of the most-watched leagues in the world and represents the pinnacle of womenâ€™s professional football in England where the worldâ€™s best players and 12 clubs compete for honours.</desc>
+		<desc>BWSL is one of the most-watched leagues in the world and represents the pinnacle of women's professional football in England where the world's best players and 12 clubs compete for honours.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_womens_super_league_2025_26.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="211" start="20260730011000 +0000" stop="20260730030000 +0000">
@@ -12646,46 +12647,6 @@ Our craft workers: Sonja Bantli and Fabian Bolliger.</desc>
 		<title>International Rugby Fiji v Scotland</title>
 		<desc>Coverage of the International Rugby season for 2026.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch207_premier_sports.jpg?w=341&amp;h=192" />
-	</programme>
-	<programme channel="251" start="20260728160000 +0000" stop="20260728220000 +0000">
-		<title>No Transmission</title>
-		<desc />
-		<icon src="https://poster.starhubgo.com/Linear_Channels2/251_1920x1080_HTV.png?w=960&amp;h=540" />
-	</programme>
-	<programme channel="251" start="20260728220000 +0000" stop="20260729040000 +0000">
-		<title>No Transmission</title>
-		<desc />
-		<icon src="https://poster.starhubgo.com/Linear_Channels2/251_1920x1080_HTV.png?w=960&amp;h=540" />
-	</programme>
-	<programme channel="251" start="20260729040000 +0000" stop="20260729100000 +0000">
-		<title>No Transmission</title>
-		<desc />
-		<icon src="https://poster.starhubgo.com/Linear_Channels2/251_1920x1080_HTV.png?w=960&amp;h=540" />
-	</programme>
-	<programme channel="251" start="20260729100000 +0000" stop="20260729160000 +0000">
-		<title>No Transmission</title>
-		<desc />
-		<icon src="https://poster.starhubgo.com/Linear_Channels2/251_1920x1080_HTV.png?w=960&amp;h=540" />
-	</programme>
-	<programme channel="251" start="20260729160000 +0000" stop="20260729220000 +0000">
-		<title>No Transmission</title>
-		<desc />
-		<icon src="https://poster.starhubgo.com/Linear_Channels2/251_1920x1080_HTV.png?w=960&amp;h=540" />
-	</programme>
-	<programme channel="251" start="20260729220000 +0000" stop="20260730040000 +0000">
-		<title>No Transmission</title>
-		<desc />
-		<icon src="https://poster.starhubgo.com/Linear_Channels2/251_1920x1080_HTV.png?w=960&amp;h=540" />
-	</programme>
-	<programme channel="251" start="20260730040000 +0000" stop="20260730100000 +0000">
-		<title>No Transmission</title>
-		<desc />
-		<icon src="https://poster.starhubgo.com/Linear_Channels2/251_1920x1080_HTV.png?w=960&amp;h=540" />
-	</programme>
-	<programme channel="251" start="20260730100000 +0000" stop="20260730160000 +0000">
-		<title>No Transmission</title>
-		<desc />
-		<icon src="https://poster.starhubgo.com/Linear_Channels2/251_1920x1080_HTV.png?w=960&amp;h=540" />
 	</programme>
 	<programme channel="303" start="20260728160000 +0000" stop="20260728161000 +0000">
 		<title>Teletubbies S01 - EP 97</title>
@@ -23219,7 +23180,7 @@ Our craft workers: Sonja Bantli and Fabian Bolliger.</desc>
 	</programme>
 	<programme channel="701" start="20260729024500 +0000" stop="20260729030000 +0000">
 		<title>Asia Specific</title>
-		<desc>Asia Specific brings you essential insights and conversations on the stories and trends shaping Asia Pacific, unpacked by those who know it best. Hosted in Singapore by Mariko Oi.</desc>
+		<desc>China wants consumers to spend more, but households are still choosing to save. We explore what's holding spending back, and whether Beijing's latest policies can change that.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch701_BBC_news.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="701" start="20260729030000 +0000" stop="20260729033000 +0000">
@@ -23234,7 +23195,7 @@ Our craft workers: Sonja Bantli and Fabian Bolliger.</desc>
 	</programme>
 	<programme channel="701" start="20260729034500 +0000" stop="20260729040000 +0000">
 		<title>Asia Specific</title>
-		<desc>Asia Specific brings you essential insights and conversations on the stories and trends shaping Asia Pacific, unpacked by those who know it best. Hosted in Singapore by Mariko Oi.</desc>
+		<desc>China wants consumers to spend more, but households are still choosing to save. We explore what's holding spending back, and whether Beijing's latest policies can change that.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch701_BBC_news.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="701" start="20260729040000 +0000" stop="20260729043000 +0000">
