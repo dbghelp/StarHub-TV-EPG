@@ -719,12 +719,12 @@
 		<desc>Ryan Seacrest takes over as the new host for the well-loved gameshow.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="102" start="20260803113000 +0000" stop="20260803123000 +0000">
+	<programme channel="102" start="20260803113000 +0000" stop="20260803122500 +0000">
 		<title>Beat the Chasers S7 - EP 1</title>
 		<desc>Could you beat the greatest quiz team ever assembled? Bringing together all five of our favourite quiz geniuses, Beat the Chasers, hosted by Bradley Walsh, expands the award-winning The Chase brand for a primetime audience.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="102" start="20260803123000 +0000" stop="20260803130000 +0000">
+	<programme channel="102" start="20260803122500 +0000" stop="20260803130000 +0000">
 		<title>Glasgow 2026 Commonwealth Games : Summary at the Games</title>
 		<desc>Summary at the Games</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png?w=341&amp;h=192" />
@@ -1659,12 +1659,12 @@
 		<desc>Collection of hit melody songs from 1990s - 2000s</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/105_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="105" start="20260803153000 +0000" stop="20260803160000 +0000">
+	<programme channel="105" start="20260803153000 +0000" stop="20260803161500 +0000">
 		<title>Seithi - EP 125</title>
 		<desc>Tamil Seithi focuses primarily on local and international news, information and current affairs. Catch the online news portal at http://seithi.mediacorp.sg/</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/105_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="105" start="20260803160000 +0000" stop="20260804010000 +0000">
+	<programme channel="105" start="20260803161500 +0000" stop="20260804010000 +0000">
 		<title>End of transmission</title>
 		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_channels2/105_1920x1080_HTV.png?w=341&amp;h=192" />
@@ -9922,20 +9922,10 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 		<desc>Ganesh, who goes to Chennai to complete his medical course, meets an old acquaintance Srimathy, whom he had helped earlier. However, they get into trouble after a gangster's henchmen find them.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/159_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="201" start="20260802150000 +0000" stop="20260802210000 +0000">
+	<programme channel="201" start="20260802150000 +0000" stop="20260802224000 +0000">
 		<title>ATP Tour 2026 National Bank Open (1000) Day 1 R1 Session 1</title>
 		<desc>The National Bank Open is a prestigious professional tennis tournament. Also known as the Canadian Open, it is the third-oldest active tennis tournament in the world, preceded only by Wimbledon and the US Open.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch201_ATP_Tour_2026_National_Bank_Open.jpg?w=960&amp;h=540" />
-	</programme>
-	<programme channel="201" start="20260802210000 +0000" stop="20260802213000 +0000">
-		<title>ATP Tour: This Week 2026</title>
-		<desc>This programme tells the story of the ATP tour, its tournaments, personalities behind the tennis, funny feature content and much more.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch201_ATPTourThisWeek.jpg?w=960&amp;h=540" />
-	</programme>
-	<programme channel="201" start="20260802213000 +0000" stop="20260802220000 +0000">
-		<title>Billie Jean King Cup by Gainbridge Qualifiers 2026</title>
-		<desc>Relive all the tension and drama from seven victorious nations as they booked their spot in the finals in China, Shenzhen.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch201_billie_jean_king_cup_GENERIC.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="201" start="20260802224000 +0000" stop="20260803020000 +0000">
 		<title>ATP Tour 2026</title>
@@ -10145,7 +10135,7 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 	<programme channel="202" start="20260804110000 +0000" stop="20260804130000 +0000">
 		<title>Football Pre-season Friendlies 2026 Manchester City vs Inter Milan</title>
 		<desc>Football clubs are playing their pre-season friendlies and summer tours, building up to the 2026/27 season, with many marquee fixtures taking place in the US, Europe, and Asia.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch202_man_city_vs_inter_milan.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch202_football_pre_season_friendlies2026.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="202" start="20260804130000 +0000" stop="20260804133000 +0000">
 		<title>The Football Review 2026</title>
@@ -10344,12 +10334,12 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 	</programme>
 	<programme channel="205" start="20260804040000 +0000" stop="20260804100000 +0000">
 		<title>End of Transmission</title>
-		<desc>End of Transmission</desc>
+		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_channels2/205_1920x1080_HTV.png?w=960&amp;h=540" />
 	</programme>
 	<programme channel="205" start="20260804100000 +0000" stop="20260804160000 +0000">
 		<title>End of Transmission</title>
-		<desc>End of Transmission</desc>
+		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_channels2/205_1920x1080_HTV.png?w=960&amp;h=540" />
 	</programme>
 	<programme channel="206" start="20260802160000 +0000" stop="20260802195000 +0000">
@@ -10377,7 +10367,12 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 		<desc>End of Transmission</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/206_1920x1080_HTV.png?w=960&amp;h=540" />
 	</programme>
-	<programme channel="206" start="20260803160000 +0000" stop="20260803220000 +0000">
+	<programme channel="206" start="20260803160000 +0000" stop="20260803173000 +0000">
+		<title>WTA Tour 2026 Mubadala DC Open (500) Final</title>
+		<desc>The Washington Open is an annual, professional women's tennis tournament played on outdoor hard courts at the William H.G. FitzGerald Tennis Center. Established in 2011, the women's event was elevated to a WTA 500 tournament in 2023 when it combined with the Silicon Valley Classic to form the current Washington tournament.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch202_WTA_ATP_Tour_500_Generic.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="206" start="20260803173000 +0000" stop="20260803220000 +0000">
 		<title>End of Transmission</title>
 		<desc>End of Transmission</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/206_1920x1080_HTV.png?w=960&amp;h=540" />
@@ -11247,22 +11242,17 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 		<desc>BWSL is one of the most-watched leagues in the world and represents the pinnacle of womenâ€™s professional football in England where the worldâ€™s best players and 12 clubs compete for honours.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch214_WSL.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="214" start="20260803054000 +0000" stop="20260803060000 +0000">
-		<title>MUTV: 2000 Premier League Goals</title>
-		<desc>Manchester United are the first club to score 2000 Premier League goals. Relive all the goals in this MUTV series.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch214_mutv.jpg?w=341&amp;h=192" />
-	</programme>
-	<programme channel="214" start="20260803060000 +0000" stop="20260803063000 +0000">
+	<programme channel="214" start="20260803054000 +0000" stop="20260803061000 +0000">
 		<title>Mini Match - UEFA Champions League 2025/26: Man City vs Galatasaray - MD8</title>
 		<desc>Watch every round of the UCL as Europe's elite clubs battle it out for the most prestigious trophy in club football at Puskas Arena, Budapest</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch214_UEFA_Champions_League_mini_match.jpg?w=960&amp;h=540" />
 	</programme>
-	<programme channel="214" start="20260803063000 +0000" stop="20260803070000 +0000">
+	<programme channel="214" start="20260803061000 +0000" stop="20260803064000 +0000">
 		<title>MUTV: Treble Twenty Man Utd vs LKS Lodz</title>
 		<desc>A series to mark Manchester United's incredible Treble campaign of 1998/99 winning Premier League, UEFA Champions League and FA Cup.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch214_mutv.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="214" start="20260803070000 +0000" stop="20260803100000 +0000">
+	<programme channel="214" start="20260803064000 +0000" stop="20260803100000 +0000">
 		<title>ONE Friday Fights 2026: OFF 164</title>
 		<desc>A weekly event series by ONE Championship held in Bangkok, Thailand featuring exciting Muay Thai, kickboxing and MMA fights.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch214_ONE_Friday_Fights.jpg?w=341&amp;h=192" />
@@ -22119,7 +22109,7 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 	</programme>
 	<programme channel="601" start="20260803140000 +0000" stop="20260803150000 +0000">
 		<title>House Of The Dragon S3 - EP 7</title>
-		<desc>Based on George R.R. Martin’s “Fire &amp; Blood,” the series, set 200 years before the events of “Game of Thrones,” tells the story of House Targaryen.</desc>
+		<desc>Torn between Mysaria and Daemon’s visions for her reign, Rhaenyra grows desperate for a sign that she will prevail.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch601_House_of_the_Dragon_S3.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="601" start="20260803150000 +0000" stop="20260803171500 +0000">
@@ -29532,19 +29522,9 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 		<desc>Weather information of the different areas around the world.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="811" start="20260803030000 +0000" stop="20260803032000 +0000">
+	<programme channel="811" start="20260803030000 +0000" stop="20260803033000 +0000">
 		<title>News</title>
 		<desc>The latest up-to-date news from Tokyo.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="811" start="20260803032000 +0000" stop="20260803032800 +0000">
-		<title>Information Worth Knowing from the News Commentator Bureau</title>
-		<desc>The commentators present trending news, its background, and engaging information related to daily life in an easy-to –understand manner.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="811" start="20260803032800 +0000" stop="20260803033000 +0000">
-		<title>Mini Program</title>
-		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="811" start="20260803033000 +0000" stop="20260803034500 +0000">
@@ -29557,12 +29537,12 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 		<desc>The 114th drama serial follows two women, Rin (Mikami Ai) and Naomi (Kosaka Juri), who paved the way for nursing in the Meiji era. Each carries her own struggles, yet together they support one another as they race to protect the wounded and vulnerable, often standing up against powerful forces. Through conflicts and hardships, the two gradually grow. No matter which way the wind blows, this unconventional duo continues their journey in search of happiness.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="811" start="20260803040000 +0000" stop="20260803040500 +0000">
+	<programme channel="811" start="20260803040000 +0000" stop="20260803041000 +0000">
 		<title>News</title>
 		<desc>The latest up-to-date news from Tokyo.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="811" start="20260803040500 +0000" stop="20260803055000 +0000">
+	<programme channel="811" start="20260803041000 +0000" stop="20260803055000 +0000">
 		<title>News Around Japan</title>
 		<desc>Program introduces the latest news from all over Japan.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
@@ -29637,24 +29617,19 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 		<desc>Weather information of the different areas around the world.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="811" start="20260803100000 +0000" stop="20260803103000 +0000">
+	<programme channel="811" start="20260803100000 +0000" stop="20260803103200 +0000">
 		<title>NHK News 7 (B)</title>
 		<desc>NHK's core news program wrapping up the day's events in an easy to understand way.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="811" start="20260803103000 +0000" stop="20260803105700 +0000">
+	<programme channel="811" start="20260803103200 +0000" stop="20260803105900 +0000">
 		<title>Today's Close-up</title>
 		<desc>The program flexibly probes into a wide range of topics from the NHK’s unique point of view.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="811" start="20260803105700 +0000" stop="20260803114300 +0000">
-		<title>Tsurube's Salute to Families "Ken Naoko in Chigasaki City, Kanagawa Prefecture" Part 2</title>
+	<programme channel="811" start="20260803105900 +0000" stop="20260803114500 +0000">
+		<title>Tsurube's Salute to Families"Ken Naoko in Chigasaki City,Kanagawa Prefecture"Part 2</title>
 		<desc>Veteran rakugo storyteller Shofukutei Tsurube travels across Japan with a personality, introducing families they meet along the way.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
-	</programme>
-	<programme channel="811" start="20260803114300 +0000" stop="20260803114500 +0000">
-		<title>World Weather</title>
-		<desc>Weather information of the different areas around the world.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="811" start="20260803114500 +0000" stop="20260803120000 +0000">
@@ -29793,7 +29768,7 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="811" start="20260803191500 +0000" stop="20260803200000 +0000">
-		<title>Tsurube's Salute to Families"Ken Naoko in Chigasaki City,Kanagawa Prefecture"Part2(R)</title>
+		<title>Tsurube's Salute to Families"Ken Naoko in Chigasaki City,Kanagawa Prefecture"Part 2(R</title>
 		<desc>Veteran rakugo storyteller Shofukutei Tsurube travels across Japan with a personality, introducing families they meet along the way.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
@@ -32382,29 +32357,39 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20260803140000 +0000" stop="20260803162000 +0000">
+	<programme channel="832" start="20260803140000 +0000" stop="20260803160000 +0000">
 		<title>Overtime no more</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20260803162000 +0000" stop="20260803164500 +0000">
-		<title>Searching for flavor</title>
+	<programme channel="832" start="20260803160000 +0000" stop="20260803164800 +0000">
+		<title>Overtime No More</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20260803164500 +0000" stop="20260803170000 +0000">
+	<programme channel="832" start="20260803164800 +0000" stop="20260803170000 +0000">
 		<title>ShanghaiEye</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="832" start="20260803170000 +0000" stop="20260803220000 +0000">
-		<title>Information Not Available</title>
-		<desc />
+		<title>Dragon TV Primetime News</title>
+		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="832" start="20260803220000 +0000" stop="20260804040000 +0000">
-		<title>Information Not Available</title>
-		<desc />
+	<programme channel="832" start="20260803220000 +0000" stop="20260803223500 +0000">
+		<title>New Entertainment</title>
+		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="832" start="20260803223500 +0000" stop="20260803230000 +0000">
+		<title>CARE ON THE WAY</title>
+		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="832" start="20260803230000 +0000" stop="20260804010000 +0000">
+		<title>Dragon TV Morning News</title>
+		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="832" start="20260804040000 +0000" stop="20260804100000 +0000">
@@ -32549,9 +32534,7 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 	</programme>
 	<programme channel="838" start="20260803093000 +0000" stop="20260803103000 +0000">
 		<title>Winter Night - EP 17</title>
-		<desc>Zheng Da Qian was hit by double blows in her career and love life. By chance, she
-receives a relocation package. After returning to her hometown, she is caught in a magnetic
-storm caused by a fire meteor and ends up in a parallel space and time.</desc>
+		<desc>Zheng Da Qian was hit by double blows in her career and love life. By chance, she receives a relocation package. After returning to her hometown, she is caught in a magnetic storm caused by a fire meteor and ends up in a parallel space and time.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch838_winter_night.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="838" start="20260803103000 +0000" stop="20260803113500 +0000">
@@ -32612,7 +32595,7 @@ storm caused by a fire meteor and ends up in a parallel space and time.</desc>
 	<programme channel="838" start="20260803173000 +0000" stop="20260803183000 +0000">
 		<title>Mrs. RevengeWhat's On Today - EP 1</title>
 		<desc>After being murdered by her husband and best friend, Jiang Xingru is reborn and being sent back five years. Using her knowledge of the future, she rebuilds her life, leads a team of women to stand up against toxic men and reclaim their destiny.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch838_mrs_revenge.jpg?w=960&amp;h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch838_mrs_revenge_still_ep01.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="838" start="20260803183000 +0000" stop="20260803190000 +0000">
 		<title>Lo And Behold - EP 2864</title>
@@ -32631,9 +32614,7 @@ storm caused by a fire meteor and ends up in a parallel space and time.</desc>
 	</programme>
 	<programme channel="838" start="20260803200000 +0000" stop="20260803210000 +0000">
 		<title>Winter Night - EP 17</title>
-		<desc>Zheng Da Qian was hit by double blows in her career and love life. By chance, she
-receives a relocation package. After returning to her hometown, she is caught in a magnetic
-storm caused by a fire meteor and ends up in a parallel space and time.</desc>
+		<desc>Zheng Da Qian was hit by double blows in her career and love life. By chance, she receives a relocation package. After returning to her hometown, she is caught in a magnetic storm caused by a fire meteor and ends up in a parallel space and time.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch838_winter_night.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="838" start="20260803210000 +0000" stop="20260803214500 +0000">
@@ -32751,7 +32732,7 @@ storm caused by a fire meteor and ends up in a parallel space and time.</desc>
 	<programme channel="838" start="20260804103000 +0000" stop="20260804113500 +0000">
 		<title>News At 18:30 &amp; Global View &amp; What's On Today</title>
 		<desc>Bringing you the news from Hong Kong, the mainland and around the world every evening at 6:30pm.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch838_news_at_630_and_global_view.jpg?w=341&amp;h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch838_news_at_630.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="838" start="20260804113500 +0000" stop="20260804120000 +0000">
 		<title>Scoop 2026</title>
