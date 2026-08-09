@@ -6694,17 +6694,17 @@
 		<desc>Apoorvan, a dropout, dreams of becoming a scientist. With his friends Babumon and Chopra, they get into trouble due to their behavior while conducting experiments. Release Year: 2014 Director: Akku Akbar</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="140" start="20260809193000 +0000" stop="20260809213000 +0000">
+	<programme channel="140" start="20260809193000 +0000" stop="20260809215000 +0000">
 		<title>Taxiwala</title>
 		<desc>Shiva becomes a taxi driver and discovers his journey is extraordinary.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="140" start="20260809213000 +0000" stop="20260809233000 +0000">
+	<programme channel="140" start="20260809215000 +0000" stop="20260809234000 +0000">
 		<title>Aakasam</title>
 		<desc>Neela, a five-year-old in a children's home, loves planes and dreams of flying. A pilot grants her lift, revealing a heartfelt message about motherhood. Release Year: 2007 Director: Sundar Das</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
-	<programme channel="140" start="20260809233000 +0000" stop="20260810013000 +0000">
+	<programme channel="140" start="20260809234000 +0000" stop="20260810013000 +0000">
 		<title>Kappela</title>
 		<desc>A wrong number leads to love, but a stranger, Roy, complicates it. Release Year: 2020 Director: Muhammad Musthafa Awards: Kerala State Film Award for Best ActreSS2021 Anna BenNational Film Award for Best Production Design2022 Anees NadodiKerala State Film Award for Best Debut Director2021 Musthafa</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=341&amp;h=192" />
@@ -10079,7 +10079,12 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 		<desc>The world's top show jumping riders compete across prestigious international venues, showcasing elite skill, speed, and championship drama throughout the season.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_global_champions_tour.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="210" start="20260809020000 +0000" stop="20260809053000 +0000">
+	<programme channel="210" start="20260809020000 +0000" stop="20260809023000 +0000">
+		<title>2026 MotoGP Rewind</title>
+		<desc>Recap the action, behind-the-scenes and rider interviews at the MotoGP 2026.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch210_motogp.jpg?w=960&amp;h=540" />
+	</programme>
+	<programme channel="210" start="20260809023000 +0000" stop="20260809053000 +0000">
 		<title>WTT Champions Yokohama 2026</title>
 		<desc>The world's top table tennis players compete for WTT Champions glory, showcasing elite skill, fierce rivalries, and world-class action in the race for valuable ranking points.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_wtt_champions.jpg?w=960&amp;h=540" />
