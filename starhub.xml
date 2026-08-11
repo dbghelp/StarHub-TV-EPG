@@ -200,6 +200,22 @@
 		<display-name>Hub Premier 2 (HD)</display-name>
 		<icon src="https://poster.starhubgo.com/Linear_Channels2/222_1920x1080_HTV.png?w=272" />
 	</channel>
+	<channel id="223">
+		<display-name>Hub Premier 3</display-name>
+		<icon src="https://poster.starhubgo.com/Linear_Channels2/223_1920x1080_HTV.png?w=272" />
+	</channel>
+	<channel id="224">
+		<display-name>Hub Premier 4</display-name>
+		<icon src="https://poster.starhubgo.com/Linear_Channels2/224_1920x1080_HTV.png?w=272" />
+	</channel>
+	<channel id="225">
+		<display-name>Hub Premier 5</display-name>
+		<icon src="https://poster.starhubgo.com/Linear_Channels2/225_1920x1080_HTV.png?w=272" />
+	</channel>
+	<channel id="226">
+		<display-name>Hub Premier 6</display-name>
+		<icon src="https://poster.starhubgo.com/Linear_Channels2/226_1920x1080_HTV.png?w=272" />
+	</channel>
 	<channel id="232">
 		<display-name>Hub Premier 2 (4K)</display-name>
 		<icon src="https://poster.starhubgo.com/Linear_Channels2/222_1920x1080_HTV.png?w=272" />
@@ -4430,17 +4446,17 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/127_1920x1080_HTV.png?w=341&amp;h=192" />
 	</programme>
 	<programme channel="128" start="20260810160000 +0000" stop="20260810163000 +0000">
-		<title>Juhi Mui - EP 33</title>
+		<title>Juhi Mui - EP 34</title>
 		<desc>Juhi and Mui's touching journey celebrates friendship, family values and resilience as they overcome life's challenges with love and hope.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch128_juhi_mui.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="128" start="20260810163000 +0000" stop="20260810170000 +0000">
-		<title>Mahadev &amp; Sons - EP 157</title>
+		<title>Mahadev &amp; Sons - EP 158</title>
 		<desc>Mahadev is a man of principles, leading a strict household as the family head! But bound to fly high, his children rebel, and a generational clash ensues!</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch128_mahadev_&amp;_sons.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="128" start="20260810170000 +0000" stop="20260810173000 +0000">
-		<title>Bareilly Ki Bacchan - EP 48</title>
+		<title>Bareilly Ki Bacchan - EP 49</title>
 		<desc>Ambitious Sangam marries the carefree Krishna Bacchan and enters a household of men unaccustomed to living with a woman. Can the new bahu win over the eccentric Bacchan family?</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch128_bareilly_ki_bacchan.jpg?w=960&amp;h=540" />
 	</programme>
@@ -4459,8 +4475,33 @@
 		<desc>Mahadev is a man of principles, leading a strict household as the family head! But bound to fly high, his children rebel, and a generational clash ensues!</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch128_mahadev_&amp;_sons.jpg?w=960&amp;h=540" />
 	</programme>
+	<programme channel="128" start="20260810190000 +0000" stop="20260810193000 +0000">
+		<title>Dr. Aarambhi - EP 153</title>
+		<desc>Once an AIPMT topper, Aarambhi's life is now weighed down by marital duties, but deep within her lies a long-lost dream. Will she get a second chance?</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch128_dr_aarambhi.jpg?w=960&amp;h=540" />
+	</programme>
+	<programme channel="128" start="20260810193000 +0000" stop="20260810200000 +0000">
+		<title>Mannat Harr Khushi Paane Ki - EP 518</title>
+		<desc>A woman feels deep remorse as haunting memories return, yet she finds the strength to stand firm. Later, a surprising comparison reveals familiar habits that reopen old wounds.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch128_mannat_harr_khushi_paane_ki.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="128" start="20260810200000 +0000" stop="20260810203000 +0000">
+		<title>Seher Hone Ko Hai - EP 187</title>
+		<desc>A man confronts another for misbehaving with a woman. Later, questions reveal hidden abuse, and the woman finally expresses her true hopes for her future.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch128_seher_hone_ko_hai.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="128" start="20260810203000 +0000" stop="20260810210000 +0000">
+		<title>Tuu Juliet Jatt Di - EP 266</title>
+		<desc>A man reveals his revenge plan against a woman, while she seeks permission to attend a college party. Later, an awkward incident ruins her outfit and sparks tension.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch128_tuu_juliet_jatt_di.jpg?w=960&amp;h=540" />
+	</programme>
+	<programme channel="128" start="20260810210000 +0000" stop="20260810220000 +0000">
+		<title>Bhojpuri Bawaal - EP 8</title>
+		<desc>Bhojpuri Bawaal</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch128_bhojpuri_bawaal.jpg?w=341&amp;h=192" />
+	</programme>
 	<programme channel="128" start="20260810220000 +0000" stop="20260810223000 +0000">
-		<title>Bareilly Ki Bacchan - EP 48</title>
+		<title>Bareilly Ki Bacchan - EP 49</title>
 		<desc>Ambitious Sangam marries the carefree Krishna Bacchan and enters a household of men unaccustomed to living with a woman. Can the new bahu win over the eccentric Bacchan family?</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch128_bareilly_ki_bacchan.jpg?w=960&amp;h=540" />
 	</programme>
@@ -4699,6 +4740,11 @@
 		<desc>Once an AIPMT topper, Aarambhi's life is now weighed down by marital duties, but deep within her lies a long-lost dream. Will she get a second chance?</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch128_dr_aarambhi.jpg?w=960&amp;h=540" />
 	</programme>
+	<programme channel="128" start="20260812013000 +0000" stop="20260812020000 +0000">
+		<title>Mahadev &amp; Sons - EP 160</title>
+		<desc>Mahadev is a man of principles, leading a strict household as the family head! But bound to fly high, his children rebel, and a generational clash ensues!</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch128_mahadev_&amp;_sons.jpg?w=960&amp;h=540" />
+	</programme>
 	<programme channel="128" start="20260812020000 +0000" stop="20260812023000 +0000">
 		<title>Tuu Juliet Jatt Di - EP 267</title>
 		<desc>A man reveals his revenge plan against a woman, while she seeks permission to attend a college party. Later, an awkward incident ruins her outfit and sparks tension.</desc>
@@ -4708,6 +4754,11 @@
 		<title>Seher Hone Ko Hai - EP 188</title>
 		<desc>A man confronts another for misbehaving with a woman. Later, questions reveal hidden abuse, and the woman finally expresses her true hopes for her future.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch128_seher_hone_ko_hai.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="128" start="20260812030000 +0000" stop="20260812033000 +0000">
+		<title>Juhi Mui - EP 36</title>
+		<desc>Juhi and Mui's touching journey celebrates friendship, family values and resilience as they overcome life's challenges with love and hope.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch128_juhi_mui.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="128" start="20260812033000 +0000" stop="20260812040000 +0000">
 		<title>Dr. Aarambhi - EP 154</title>
@@ -4720,7 +4771,7 @@
 		<icon src="https://poster.starhubgo.com/poster/ch128_mannat_harr_khushi_paane_ki.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="128" start="20260812043000 +0000" stop="20260812050000 +0000">
-		<title>Bareilly Ki Bacchan - EP 49</title>
+		<title>Bareilly Ki Bacchan - EP 51</title>
 		<desc>Ambitious Sangam marries the carefree Krishna Bacchan and enters a household of men unaccustomed to living with a woman. Can the new bahu win over the eccentric Bacchan family?</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch128_bareilly_ki_bacchan.jpg?w=960&amp;h=540" />
 	</programme>
@@ -4744,8 +4795,18 @@
 		<desc>A man confronts another for misbehaving with a woman. Later, questions reveal hidden abuse, and the woman finally expresses her true hopes for her future.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch128_seher_hone_ko_hai.jpg?w=341&amp;h=192" />
 	</programme>
+	<programme channel="128" start="20260812070000 +0000" stop="20260812073000 +0000">
+		<title>Bareilly Ki Bacchan - EP 52</title>
+		<desc>Ambitious Sangam marries the carefree Krishna Bacchan and enters a household of men unaccustomed to living with a woman. Can the new bahu win over the eccentric Bacchan family?</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch128_bareilly_ki_bacchan.jpg?w=960&amp;h=540" />
+	</programme>
+	<programme channel="128" start="20260812073000 +0000" stop="20260812080000 +0000">
+		<title>Juhi Mui - EP 37</title>
+		<desc>Juhi and Mui's touching journey celebrates friendship, family values and resilience as they overcome life's challenges with love and hope.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch128_juhi_mui.jpg?w=341&amp;h=192" />
+	</programme>
 	<programme channel="128" start="20260812080000 +0000" stop="20260812083000 +0000">
-		<title>Mahadev &amp; Sons - EP 159</title>
+		<title>Mahadev &amp; Sons - EP 161</title>
 		<desc>Mahadev is a man of principles, leading a strict household as the family head! But bound to fly high, his children rebel, and a generational clash ensues!</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch128_mahadev_&amp;_sons.jpg?w=960&amp;h=540" />
 	</programme>
@@ -4765,7 +4826,7 @@
 		<icon src="https://poster.starhubgo.com/poster/ch128_mannat_harr_khushi_paane_ki.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="128" start="20260812103000 +0000" stop="20260812110000 +0000">
-		<title>Bareilly Ki Bacchan - EP 50</title>
+		<title>Bareilly Ki Bacchan - EP 52</title>
 		<desc>Ambitious Sangam marries the carefree Krishna Bacchan and enters a household of men unaccustomed to living with a woman. Can the new bahu win over the eccentric Bacchan family?</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch128_bareilly_ki_bacchan.jpg?w=960&amp;h=540" />
 	</programme>
@@ -4790,17 +4851,17 @@
 		<icon src="https://poster.starhubgo.com/poster/ch128_seher_hone_ko_hai.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="128" start="20260812130000 +0000" stop="20260812133000 +0000">
-		<title>Bareilly Ki Bacchan - EP 50</title>
+		<title>Bareilly Ki Bacchan - EP 52</title>
 		<desc>Ambitious Sangam marries the carefree Krishna Bacchan and enters a household of men unaccustomed to living with a woman. Can the new bahu win over the eccentric Bacchan family?</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch128_bareilly_ki_bacchan.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="128" start="20260812133000 +0000" stop="20260812140000 +0000">
-		<title>Juhi Mui - EP 35</title>
+		<title>Juhi Mui - EP 37</title>
 		<desc>Juhi and Mui's touching journey celebrates friendship, family values and resilience as they overcome life's challenges with love and hope.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch128_juhi_mui.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="128" start="20260812140000 +0000" stop="20260812143000 +0000">
-		<title>Mahadev &amp; Sons - EP 159</title>
+		<title>Mahadev &amp; Sons - EP 161</title>
 		<desc>Mahadev is a man of principles, leading a strict household as the family head! But bound to fly high, his children rebel, and a generational clash ensues!</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch128_mahadev_&amp;_sons.jpg?w=960&amp;h=540" />
 	</programme>
@@ -11998,6 +12059,106 @@
 		<title>End of Transmission</title>
 		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_Channels2/222_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="223" start="20260810220000 +0000" stop="20260811040000 +0000">
+		<title>End of Transmission</title>
+		<desc>End of Transmission</desc>
+		<icon src="https://poster.starhubgo.com/Linear_Channels2/223_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="223" start="20260811040000 +0000" stop="20260811100000 +0000">
+		<title>End of Transmission</title>
+		<desc>End of Transmission</desc>
+		<icon src="https://poster.starhubgo.com/Linear_Channels2/223_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="223" start="20260811100000 +0000" stop="20260811160000 +0000">
+		<title>End of Transmission</title>
+		<desc>End of Transmission</desc>
+		<icon src="https://poster.starhubgo.com/Linear_Channels2/223_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="223" start="20260811160000 +0000" stop="20260811220000 +0000">
+		<title>End of Transmission</title>
+		<desc>End of Transmission</desc>
+		<icon src="https://poster.starhubgo.com/Linear_Channels2/223_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="223" start="20260811220000 +0000" stop="20260812040000 +0000">
+		<title>End of Transmission</title>
+		<desc>End of Transmission</desc>
+		<icon src="https://poster.starhubgo.com/Linear_Channels2/223_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="224" start="20260810220000 +0000" stop="20260811040000 +0000">
+		<title>End of Transmission</title>
+		<desc>End of Transmission</desc>
+		<icon src="https://poster.starhubgo.com/Linear_Channels2/224_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="224" start="20260811040000 +0000" stop="20260811100000 +0000">
+		<title>End of Transmission</title>
+		<desc>End of Transmission</desc>
+		<icon src="https://poster.starhubgo.com/Linear_Channels2/224_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="224" start="20260811100000 +0000" stop="20260811160000 +0000">
+		<title>End of Transmission</title>
+		<desc>End of Transmission</desc>
+		<icon src="https://poster.starhubgo.com/Linear_Channels2/224_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="224" start="20260811160000 +0000" stop="20260811220000 +0000">
+		<title>End of Transmission</title>
+		<desc>End of Transmission</desc>
+		<icon src="https://poster.starhubgo.com/Linear_Channels2/224_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="224" start="20260811220000 +0000" stop="20260812040000 +0000">
+		<title>End of Transmission</title>
+		<desc>End of Transmission</desc>
+		<icon src="https://poster.starhubgo.com/Linear_Channels2/224_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="225" start="20260810220000 +0000" stop="20260811040000 +0000">
+		<title>End of Transmission</title>
+		<desc>End of Transmission</desc>
+		<icon src="https://poster.starhubgo.com/Linear_Channels2/225_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="225" start="20260811040000 +0000" stop="20260811100000 +0000">
+		<title>End of Transmission</title>
+		<desc>End of Transmission</desc>
+		<icon src="https://poster.starhubgo.com/Linear_Channels2/225_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="225" start="20260811100000 +0000" stop="20260811160000 +0000">
+		<title>End of Transmission</title>
+		<desc>End of Transmission</desc>
+		<icon src="https://poster.starhubgo.com/Linear_Channels2/225_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="225" start="20260811160000 +0000" stop="20260811220000 +0000">
+		<title>End of Transmission</title>
+		<desc>End of Transmission</desc>
+		<icon src="https://poster.starhubgo.com/Linear_Channels2/225_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="225" start="20260811220000 +0000" stop="20260812040000 +0000">
+		<title>End of Transmission</title>
+		<desc>End of Transmission</desc>
+		<icon src="https://poster.starhubgo.com/Linear_Channels2/225_1920x1080_HTV.png?w=341&amp;h=192" />
+	</programme>
+	<programme channel="226" start="20260810220000 +0000" stop="20260811040000 +0000">
+		<title>End of Transmission</title>
+		<desc>End of Transmission</desc>
+		<icon src="https://poster.starhubgo.com/Linear_Channels2/226_1920x1080_HTV.png?w=960&amp;h=540" />
+	</programme>
+	<programme channel="226" start="20260811040000 +0000" stop="20260811100000 +0000">
+		<title>End of Transmission</title>
+		<desc>End of Transmission</desc>
+		<icon src="https://poster.starhubgo.com/Linear_Channels2/226_1920x1080_HTV.png?w=960&amp;h=540" />
+	</programme>
+	<programme channel="226" start="20260811100000 +0000" stop="20260811160000 +0000">
+		<title>End of Transmission</title>
+		<desc>End of Transmission</desc>
+		<icon src="https://poster.starhubgo.com/Linear_Channels2/226_1920x1080_HTV.png?w=960&amp;h=540" />
+	</programme>
+	<programme channel="226" start="20260811160000 +0000" stop="20260811220000 +0000">
+		<title>End of Transmission</title>
+		<desc>End of Transmission</desc>
+		<icon src="https://poster.starhubgo.com/Linear_Channels2/226_1920x1080_HTV.png?w=960&amp;h=540" />
+	</programme>
+	<programme channel="226" start="20260811220000 +0000" stop="20260812040000 +0000">
+		<title>End of Transmission</title>
+		<desc>End of Transmission</desc>
+		<icon src="https://poster.starhubgo.com/Linear_Channels2/226_1920x1080_HTV.png?w=960&amp;h=540" />
 	</programme>
 	<programme channel="232" start="20260810160000 +0000" stop="20260810220000 +0000">
 		<title>End of Transmission</title>
