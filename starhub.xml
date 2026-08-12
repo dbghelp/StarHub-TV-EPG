@@ -6911,7 +6911,7 @@
 		<icon src="https://poster.starhubgo.com/poster/ch656_Annamalai_Kudumbam.jpg?w=960&amp;h=540" />
 	</programme>
 	<programme channel="138" start="20260813060000 +0000" stop="20260813090000 +0000">
-		<title>Maargan</title>
+		<title>Maargan (130826)</title>
 		<desc>Mystery and suspense weave a dark journey, as hidden secrets and shocking truths place characters in peril at every twist and turn. Release Year: 2025 Director: Leo John Paul</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch656_MAARGAN.jpg?w=341&amp;h=192" />
 	</programme>
@@ -12605,24 +12605,29 @@
 		<desc>Catch all the standout moments from the latest matches of the 2026 Toyota AFL Premiership Season.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch207_premier_sports.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="247" start="20260811230000 +0000" stop="20260811232000 +0000">
+	<programme channel="247" start="20260811230000 +0000" stop="20260811231000 +0000">
 		<title>AFL Highlights GWS Giants v Gold Coast</title>
 		<desc>Catch all the standout moments from the latest matches of the 2026 Toyota AFL Premiership Season.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch207_premier_sports.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="247" start="20260811232000 +0000" stop="20260812011000 +0000">
+	<programme channel="247" start="20260811231000 +0000" stop="20260811233000 +0000">
+		<title>AFL Highlights GWS Giants v Gold Coast</title>
+		<desc>Catch all the standout moments from the latest matches of the 2026 Toyota AFL Premiership Season.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch207_premier_sports.jpg?w=341&amp;h=192" />
+	</programme>
+	<programme channel="247" start="20260811233000 +0000" stop="20260812011500 +0000">
 		<title>Nations Championship 2026 Japan v France</title>
 		<desc>Coverage of the International Rugby season for 2026.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch207_premier_sports.jpg?w=341&amp;h=192" />
 	</programme>
-	<programme channel="247" start="20260812011000 +0000" stop="20260812021000 +0000">
+	<programme channel="247" start="20260812011500 +0000" stop="20260812021000 +0000">
 		<title>NRL Try Time</title>
 		<desc>A round-up of all the tries and key moments from the latest round of fixtures in the 2026 NRL Premiership.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch207_premier_sports.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="247" start="20260812021000 +0000" stop="20260812040000 +0000">
 		<title>Rugby's Greatest Rivalry Sharks v New Zealand</title>
-		<desc>Experience the thrill and rush right here as we deliver some of the most exciting sports action from around the world!</desc>
+		<desc>The All Blacks are in Durban to face the Sharks in the second test of their 2026 tour of South Africa.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch207_premier_sports.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="247" start="20260812040000 +0000" stop="20260812050000 +0000">
@@ -12677,7 +12682,7 @@
 	</programme>
 	<programme channel="247" start="20260812080000 +0000" stop="20260812095000 +0000">
 		<title>Rugby's Greatest Rivalry Sharks v New Zealand</title>
-		<desc>Experience the thrill and rush right here as we deliver some of the most exciting sports action from around the world!</desc>
+		<desc>The All Blacks are in Durban to face the Sharks in the second test of their 2026 tour of South Africa.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch207_premier_sports.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="247" start="20260812095000 +0000" stop="20260812105000 +0000">
@@ -12686,8 +12691,8 @@
 		<icon src="https://poster.starhubgo.com/poster/ch207_premier_sports.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="247" start="20260812105000 +0000" stop="20260812124000 +0000">
-		<title>SANZAAR International Tour Serie Argentina v South Africa</title>
-		<desc>Top class international rugby from the southern hemisphere featuring Australia, Argentina and South Africa.</desc>
+		<title>Nations Championship 2026 South Africa v Scotland</title>
+		<desc>Coverage of the International Rugby season for 2026.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch207_premier_sports.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="247" start="20260812124000 +0000" stop="20260812143000 +0000">
@@ -12722,12 +12727,12 @@
 	</programme>
 	<programme channel="247" start="20260812213000 +0000" stop="20260812232000 +0000">
 		<title>Rugby's Greatest Rivalry Stormers v New Zealand</title>
-		<desc>Experience the thrill and rush right here as we deliver some of the most exciting sports action from around the world!</desc>
+		<desc>The All Blacks kick off their tour of South Africa against the Stormers in Cape Town.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch207_premier_sports.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="247" start="20260812232000 +0000" stop="20260813011000 +0000">
 		<title>Rugby's Greatest Rivalry Sharks v New Zealand</title>
-		<desc>Experience the thrill and rush right here as we deliver some of the most exciting sports action from around the world!</desc>
+		<desc>The All Blacks are in Durban to face the Sharks in the second test of their 2026 tour of South Africa.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch207_premier_sports.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="247" start="20260813011000 +0000" stop="20260813030000 +0000">
@@ -12782,12 +12787,12 @@
 	</programme>
 	<programme channel="247" start="20260813122000 +0000" stop="20260813141000 +0000">
 		<title>Rugby's Greatest Rivalry Stormers v New Zealand</title>
-		<desc>Experience the thrill and rush right here as we deliver some of the most exciting sports action from around the world!</desc>
+		<desc>The All Blacks kick off their tour of South Africa against the Stormers in Cape Town.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch207_premier_sports.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="247" start="20260813141000 +0000" stop="20260813160000 +0000">
 		<title>Rugby's Greatest Rivalry Sharks v New Zealand</title>
-		<desc>Experience the thrill and rush right here as we deliver some of the most exciting sports action from around the world!</desc>
+		<desc>The All Blacks are in Durban to face the Sharks in the second test of their 2026 tour of South Africa.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch207_premier_sports.jpg?w=341&amp;h=192" />
 	</programme>
 	<programme channel="303" start="20260811160000 +0000" stop="20260811161000 +0000">
