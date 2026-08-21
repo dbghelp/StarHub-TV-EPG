@@ -2522,17 +2522,17 @@
 	</programme>
 	<programme channel="111" start="20260821160000 +0000" stop="20260821170000 +0000">
 		<title>James' Going Places - EP 100</title>
-		<desc>Join James, the host with outstanding culinary skills and an appetite for good food, as he explores markets and savours local delicacies in Taiwan!</desc>
+		<desc>Taitung gives imperfect fruit a delicious second chance. James and Wei Ru discover fruit pops, fresh-fruit bubble tea and rice miso before turning Taiwanese rice into a Japanese-style risotto.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch825_james_going_places.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="111" start="20260821170000 +0000" stop="20260821190000 +0000">
 		<title>Mr Player - EP 107</title>
-		<desc>Get ready for some serious fun with one of Taiwan's most popular outdoor variety shows! Golden Bell Award-winning hosts Jacky Wu and KID travel all over Taiwan and other parts of the world alongside celebrity guests to compete in races and complete missions.</desc>
+		<desc>Rivalry gives way to solidarity in the Gyeonggi-do finale as tears, exhaustion and an unexpected act of teamwork transform the final contest.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch825_mr_player15.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="111" start="20260821190000 +0000" stop="20260821200000 +0000">
 		<title>Hot Door Night - EP 174</title>
-		<desc>Catch all the fun and laughter right here as we bring you Taiwan's top-grossing variety entertainment show that will keep you wanting for more!</desc>
+		<desc>Shih Hsiao-jung, Cyndi Chaw and Tsai Chiu-feng revisit their classics as Gen Z singers give the timeless hits a bold contemporary makeover.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch825_hot_door_night27.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="111" start="20260821200000 +0000" stop="20260821220000 +0000">
@@ -2542,12 +2542,12 @@
 	</programme>
 	<programme channel="111" start="20260821220000 +0000" stop="20260821230000 +0000">
 		<title>James' Going Places - EP 100</title>
-		<desc>Join James, the host with outstanding culinary skills and an appetite for good food, as he explores markets and savours local delicacies in Taiwan!</desc>
+		<desc>Taitung gives imperfect fruit a delicious second chance. James and Wei Ru discover fruit pops, fresh-fruit bubble tea and rice miso before turning Taiwanese rice into a Japanese-style risotto.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch825_james_going_places.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="111" start="20260821230000 +0000" stop="20260822003000 +0000">
 		<title>Perfect Match - EP 89</title>
-		<desc>Perfect Match is a highly-rated large-scale dating variety show that connects eligible bachelors to bachelorettes in China. Be thoroughly entertained by the sharp and witty Meng Fei, one of the top hosts for shows of this genre, as he presents a unique and humorous approach to interactions between all the participants.</desc>
+		<desc>Perfect Match brings singles together in search of a genuine connection. This episode, a bold declaration sets hearts racing, while an unexpected makeover brings a playful twist. Will the courage to speak up lead to a perfect match?</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch825_perfect_match.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="111" start="20260822003000 +0000" stop="20260822023000 +0000">
@@ -9702,19 +9702,14 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 		<desc>Marudhu, a sailor, falls in love with Nancy, a fruit vendor. However, she waits for the captain who had promised that he would return and marry her.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/159_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
-	<programme channel="159" start="20260821200000 +0000" stop="20260821210000 +0000">
-		<title>Information Not Available</title>
-		<desc>Information Not Available</desc>
+	<programme channel="159" start="20260821200000 +0000" stop="20260821223000 +0000">
+		<title>Movie - Atha Maga Rathiname</title>
+		<desc>Pandiamma gets close to Muniyandi's family and eventually falls in love with her. But Muniyandi's mother tries her best to get her married to an affluent person and causes trouble between them.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/159_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
-	<programme channel="159" start="20260821210000 +0000" stop="20260821220000 +0000">
-		<title>Information Not Available</title>
-		<desc>Information Not Available</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/159_1920x1080_HTV.png?w=341%26h=192" />
-	</programme>
-	<programme channel="159" start="20260821220000 +0000" stop="20260822040000 +0000">
-		<title>Information Not Available</title>
-		<desc>Information Not Available</desc>
+	<programme channel="159" start="20260821223000 +0000" stop="20260822013000 +0000">
+		<title>Movie - Thaai Manasu</title>
+		<desc>Thangapandi is a revered man in his village and ensures justice and peace prevail. His rival, Kangeyan, brainwashes Thangapandi's elder son and turns him against Thangapandi.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/159_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
 	<programme channel="159" start="20260822040000 +0000" stop="20260822100000 +0000">
@@ -30277,10 +30272,15 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 		<desc>This programme takes you on an aerial journey across 21st-century Japan. Enjoy the bird's-eye view of unique landscapes as well as intimate portraits of the people who inhabit the archipelago.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch374_japan_from_above_up_close.jpg?w=341%26h=192" />
 	</programme>
-	<programme channel="812" start="20260821003000 +0000" stop="20260821010000 +0000">
-		<title>NHK World Selection</title>
-		<desc>A selection of acclaimed programmes from NHK's domestic channels dubbed into English.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch374_NHKWorldSelection.jpg?w=960%26h=540" />
+	<programme channel="812" start="20260821003000 +0000" stop="20260821005300 +0000">
+		<title>The Business Keyhole</title>
+		<desc>Peek through the Business Keyhole for a behind-the-scenes look at various industries. This time, we take a deep dive into the world of sushi-go-round!</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch374_nhk_world_tv_generic.jpg?w=341%26h=192" />
+	</programme>
+	<programme channel="812" start="20260821005300 +0000" stop="20260821010000 +0000">
+		<title>Is That Picture Real?</title>
+		<desc>A billion cats are on the loose!? An online post throws a father into a panic - how should we interact with online information when fake images are on the rise especially during disasters?</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch374_is_that_picture_real.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="812" start="20260821010000 +0000" stop="20260821011000 +0000">
 		<title>NHK Newsline</title>
@@ -30294,7 +30294,7 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 	</programme>
 	<programme channel="812" start="20260821013000 +0000" stop="20260821020000 +0000">
 		<title>Asia Insight</title>
-		<desc>An in-depth look at the realities of Asia today, a dynamic region which faces political, economic, cultural and technological change.</desc>
+		<desc>India had relied on receiving 90% of its imported liquid petroleum gas from the Middle East, but after US strike on Iran, people and restaurants are struggling to deal with surging gas prices.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch374_AsiaInsight.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="812" start="20260821020000 +0000" stop="20260821021000 +0000">
@@ -30313,9 +30313,9 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 		<icon src="https://poster.starhubgo.com/poster/ch374_nhk_world_tv_generic.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="812" start="20260821023000 +0000" stop="20260821030000 +0000">
-		<title>NHK World-Japan Special Programme</title>
-		<desc>NHK World-Japan presents a wide range of programmes from news, current affairs, documentaries, etc. focusing on Japan and Asia.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch374_NHKWorldTVSpecialProgramme.jpg?w=960%26h=540" />
+		<title>School of J-Pop</title>
+		<desc>Comedian Naomi Watanabe unpacks the culture and history behind J-POP for beginners everywhere, Today's subject is the 2026 anime film that has captivated the world: "Cosmic Princess Kaguya!"</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch374_nhk_world_tv_generic.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="812" start="20260821030000 +0000" stop="20260821031000 +0000">
 		<title>NHK Newsline</title>
@@ -30373,9 +30373,9 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 		<icon src="https://poster.starhubgo.com/poster/ch374_RamenJapan.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="812" start="20260821053000 +0000" stop="20260821060000 +0000">
-		<title>NHK World Selection</title>
-		<desc>A selection of acclaimed programmes from NHK's domestic channels dubbed into English.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch374_NHKWorldSelection.jpg?w=960%26h=540" />
+		<title>The Business Keyhole</title>
+		<desc>Peek through the Business Keyhole for a behind-the-scenes look at various industries. This time, we take a deep dive into the world of sushi-go-round!</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch374_nhk_world_tv_generic.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="812" start="20260821060000 +0000" stop="20260821061000 +0000">
 		<title>NHK Newsline</title>
@@ -30394,7 +30394,7 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 	</programme>
 	<programme channel="812" start="20260821063000 +0000" stop="20260821070000 +0000">
 		<title>Asia Insight</title>
-		<desc>An in-depth look at the realities of Asia today, a dynamic region which faces political, economic, cultural and technological change.</desc>
+		<desc>India had relied on receiving 90% of its imported liquid petroleum gas from the Middle East, but after US strike on Iran, people and restaurants are struggling to deal with surging gas prices.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch374_AsiaInsight.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="812" start="20260821070000 +0000" stop="20260821071000 +0000">
@@ -30413,9 +30413,9 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 		<icon src="https://poster.starhubgo.com/poster/ch374_nuns_seasonal_calendar.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="812" start="20260821073000 +0000" stop="20260821080000 +0000">
-		<title>NHK World-Japan Special Programme</title>
-		<desc>NHK World-Japan presents a wide range of programmes from news, current affairs, documentaries, etc. focusing on Japan and Asia.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch374_NHKWorldTVSpecialProgramme.jpg?w=960%26h=540" />
+		<title>School of J-Pop</title>
+		<desc>Comedian Naomi Watanabe unpacks the culture and history behind J-POP for beginners everywhere, Today's subject is the 2026 anime film that has captivated the world: "Cosmic Princess Kaguya!"</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch374_nhk_world_tv_generic.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="812" start="20260821080000 +0000" stop="20260821081000 +0000">
 		<title>NHK Newsline</title>
@@ -30462,10 +30462,15 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 		<desc>Kyle Card hikes along a 1000km trail following the Pacific Coast in northern Japan - he discovers local lifestyles, stunning nature, traces of the area's 2011 disaster and resilient people.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch374_CinematicJourney.jpg?w=341%26h=192" />
 	</programme>
-	<programme channel="812" start="20260821103000 +0000" stop="20260821110000 +0000">
-		<title>NHK World Selection</title>
-		<desc>A selection of acclaimed programmes from NHK's domestic channels dubbed into English.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch374_NHKWorldSelection.jpg?w=960%26h=540" />
+	<programme channel="812" start="20260821103000 +0000" stop="20260821105300 +0000">
+		<title>The Business Keyhole</title>
+		<desc>Peek through the Business Keyhole for a behind-the-scenes look at various industries. This time, we take a deep dive into the world of sushi-go-round!</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch374_nhk_world_tv_generic.jpg?w=341%26h=192" />
+	</programme>
+	<programme channel="812" start="20260821105300 +0000" stop="20260821110000 +0000">
+		<title>Is That Picture Real?</title>
+		<desc>A billion cats are on the loose!? An online post throws a father into a panic - how should we interact with online information when fake images are on the rise especially during disasters?</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch374_is_that_picture_real.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="812" start="20260821110000 +0000" stop="20260821111500 +0000">
 		<title>NHK Newsline</title>
@@ -30504,7 +30509,7 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 	</programme>
 	<programme channel="812" start="20260821123000 +0000" stop="20260821130000 +0000">
 		<title>Asia Insight</title>
-		<desc>An in-depth look at the realities of Asia today, a dynamic region which faces political, economic, cultural and technological change.</desc>
+		<desc>India had relied on receiving 90% of its imported liquid petroleum gas from the Middle East, but after US strike on Iran, people and restaurants are struggling to deal with surging gas prices.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch374_AsiaInsight.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="812" start="20260821130000 +0000" stop="20260821131000 +0000">
@@ -30523,9 +30528,9 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 		<icon src="https://poster.starhubgo.com/poster/ch374_herbal_symphony.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="812" start="20260821133000 +0000" stop="20260821140000 +0000">
-		<title>NHK World-Japan Special Programme</title>
-		<desc>NHK World-Japan presents a wide range of programmes from news, current affairs, documentaries, etc. focusing on Japan and Asia.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch374_NHKWorldTVSpecialProgramme.jpg?w=960%26h=540" />
+		<title>School of J-Pop</title>
+		<desc>Comedian Naomi Watanabe unpacks the culture and history behind J-POP for beginners everywhere, Today's subject is the 2026 anime film that has captivated the world: "Cosmic Princess Kaguya!"</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch374_nhk_world_tv_generic.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="812" start="20260821140000 +0000" stop="20260821141000 +0000">
 		<title>NHK Newsline</title>
@@ -30544,7 +30549,7 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 	</programme>
 	<programme channel="812" start="20260821143000 +0000" stop="20260821150000 +0000">
 		<title>Design X Stories</title>
-		<desc>Crafts, fashion, products, buildings and food: explore a diverse range of Japanese designs and the ideas and values of their creators as our presenters visit designers at work to reveal new stories.</desc>
+		<desc>Today's theme: The New Era of Japanese Modern Design. A fusion of rational Western Modernism and traditional Japanese materials and skills. Explore the beauty and potential of Japanese Modern Design.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch374_DesignXStories.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="812" start="20260821150000 +0000" stop="20260821151000 +0000">
@@ -30562,10 +30567,15 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 		<desc>Tokushima ramen means tonkotsu - topped with pork belly and raw egg of all things, enjoy a one-of-a-kind bowl of ramen!</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch374_RamenJapan.jpg?w=341%26h=192" />
 	</programme>
-	<programme channel="812" start="20260821153000 +0000" stop="20260821160000 +0000">
-		<title>NHK World Selection</title>
-		<desc>A selection of acclaimed programmes from NHK's domestic channels dubbed into English.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch374_NHKWorldSelection.jpg?w=960%26h=540" />
+	<programme channel="812" start="20260821153000 +0000" stop="20260821155300 +0000">
+		<title>The Business Keyhole</title>
+		<desc>Peek through the Business Keyhole for a behind-the-scenes look at various industries. This time, we take a deep dive into the world of sushi-go-round!</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch374_nhk_world_tv_generic.jpg?w=341%26h=192" />
+	</programme>
+	<programme channel="812" start="20260821155300 +0000" stop="20260821160000 +0000">
+		<title>Is That Picture Real?</title>
+		<desc>A billion cats are on the loose!? An online post throws a father into a panic - how should we interact with online information when fake images are on the rise especially during disasters?</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch374_is_that_picture_real.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="812" start="20260821160000 +0000" stop="20260821161000 +0000">
 		<title>NHK Newsline</title>
@@ -30599,7 +30609,7 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 	</programme>
 	<programme channel="812" start="20260821173000 +0000" stop="20260821180000 +0000">
 		<title>Asia Insight</title>
-		<desc>An in-depth look at the realities of Asia today, a dynamic region which faces political, economic, cultural and technological change.</desc>
+		<desc>India had relied on receiving 90% of its imported liquid petroleum gas from the Middle East, but after US strike on Iran, people and restaurants are struggling to deal with surging gas prices.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch374_AsiaInsight.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="812" start="20260821180000 +0000" stop="20260821181000 +0000">
@@ -30638,9 +30648,9 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 		<icon src="https://poster.starhubgo.com/poster/ch374_MedicalFrontiers.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="812" start="20260821193000 +0000" stop="20260821200000 +0000">
-		<title>NHK World-Japan Special Programme</title>
-		<desc>NHK World-Japan presents a wide range of programmes from news, current affairs, documentaries, etc. focusing on Japan and Asia.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch374_NHKWorldTVSpecialProgramme.jpg?w=960%26h=540" />
+		<title>School of J-Pop</title>
+		<desc>Comedian Naomi Watanabe unpacks the culture and history behind J-POP for beginners everywhere, Today's subject is the 2026 anime film that has captivated the world: "Cosmic Princess Kaguya!"</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch374_nhk_world_tv_generic.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="812" start="20260821200000 +0000" stop="20260821201000 +0000">
 		<title>NHK Newsline</title>
@@ -30659,7 +30669,7 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 	</programme>
 	<programme channel="812" start="20260821203000 +0000" stop="20260821210000 +0000">
 		<title>Design X Stories</title>
-		<desc>Crafts, fashion, products, buildings and food: explore a diverse range of Japanese designs and the ideas and values of their creators as our presenters visit designers at work to reveal new stories.</desc>
+		<desc>Today's theme: The New Era of Japanese Modern Design. A fusion of rational Western Modernism and traditional Japanese materials and skills. Explore the beauty and potential of Japanese Modern Design.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch374_DesignXStories.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="812" start="20260821210000 +0000" stop="20260821211000 +0000">
@@ -30677,10 +30687,15 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 		<desc>1 in 36 people in Japan are foreign residents. As its population declines, we look at Japanese society in a new era of foreign workers, through an IT startup where 90% of staff are foreigners.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch374_nhk_world_tv_generic.jpg?w=341%26h=192" />
 	</programme>
-	<programme channel="812" start="20260821213000 +0000" stop="20260821220000 +0000">
-		<title>NHK World Selection</title>
-		<desc>A selection of acclaimed programmes from NHK's domestic channels dubbed into English.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch374_NHKWorldSelection.jpg?w=960%26h=540" />
+	<programme channel="812" start="20260821213000 +0000" stop="20260821215300 +0000">
+		<title>The Business Keyhole</title>
+		<desc>Peek through the Business Keyhole for a behind-the-scenes look at various industries. This time, we take a deep dive into the world of sushi-go-round!</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch374_nhk_world_tv_generic.jpg?w=341%26h=192" />
+	</programme>
+	<programme channel="812" start="20260821215300 +0000" stop="20260821220000 +0000">
+		<title>Is That Picture Real?</title>
+		<desc>A billion cats are on the loose!? An online post throws a father into a panic - how should we interact with online information when fake images are on the rise especially during disasters?</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch374_is_that_picture_real.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="812" start="20260821220000 +0000" stop="20260821221000 +0000">
 		<title>NHK Newsline</title>
@@ -30694,7 +30709,7 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 	</programme>
 	<programme channel="812" start="20260821223000 +0000" stop="20260821230000 +0000">
 		<title>Asia Insight</title>
-		<desc>An in-depth look at the realities of Asia today, a dynamic region which faces political, economic, cultural and technological change.</desc>
+		<desc>India had relied on receiving 90% of its imported liquid petroleum gas from the Middle East, but after US strike on Iran, people and restaurants are struggling to deal with surging gas prices.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch374_AsiaInsight.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="812" start="20260821230000 +0000" stop="20260821231000 +0000">
@@ -32314,17 +32329,17 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 	</programme>
 	<programme channel="825" start="20260821160000 +0000" stop="20260821170000 +0000">
 		<title>James' Going Places - EP 100</title>
-		<desc>Join James, the host with outstanding culinary skills and an appetite for good food, as he explores markets and savours local delicacies in Taiwan!</desc>
+		<desc>Taitung gives imperfect fruit a delicious second chance. James and Wei Ru discover fruit pops, fresh-fruit bubble tea and rice miso before turning Taiwanese rice into a Japanese-style risotto.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch825_james_going_places.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="825" start="20260821170000 +0000" stop="20260821190000 +0000">
 		<title>Mr Player - EP 107</title>
-		<desc>Get ready for some serious fun with one of Taiwan's most popular outdoor variety shows! Golden Bell Award-winning hosts Jacky Wu and KID travel all over Taiwan and other parts of the world alongside celebrity guests to compete in races and complete missions.</desc>
+		<desc>Rivalry gives way to solidarity in the Gyeonggi-do finale as tears, exhaustion and an unexpected act of teamwork transform the final contest.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch825_mr_player15.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="825" start="20260821190000 +0000" stop="20260821200000 +0000">
 		<title>Hot Door Night - EP 174</title>
-		<desc>Catch all the fun and laughter right here as we bring you Taiwan's top-grossing variety entertainment show that will keep you wanting for more!</desc>
+		<desc>Shih Hsiao-jung, Cyndi Chaw and Tsai Chiu-feng revisit their classics as Gen Z singers give the timeless hits a bold contemporary makeover.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch825_hot_door_night27.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="825" start="20260821200000 +0000" stop="20260821220000 +0000">
@@ -32334,12 +32349,12 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 	</programme>
 	<programme channel="825" start="20260821220000 +0000" stop="20260821230000 +0000">
 		<title>James' Going Places - EP 100</title>
-		<desc>Join James, the host with outstanding culinary skills and an appetite for good food, as he explores markets and savours local delicacies in Taiwan!</desc>
+		<desc>Taitung gives imperfect fruit a delicious second chance. James and Wei Ru discover fruit pops, fresh-fruit bubble tea and rice miso before turning Taiwanese rice into a Japanese-style risotto.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch825_james_going_places.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="825" start="20260821230000 +0000" stop="20260822003000 +0000">
 		<title>Perfect Match - EP 89</title>
-		<desc>Perfect Match is a highly-rated large-scale dating variety show that connects eligible bachelors to bachelorettes in China. Be thoroughly entertained by the sharp and witty Meng Fei, one of the top hosts for shows of this genre, as he presents a unique and humorous approach to interactions between all the participants.</desc>
+		<desc>Perfect Match brings singles together in search of a genuine connection. This episode, a bold declaration sets hearts racing, while an unexpected makeover brings a playful twist. Will the courage to speak up lead to a perfect match?</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch825_perfect_match.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="825" start="20260822003000 +0000" stop="20260822023000 +0000">
@@ -33323,7 +33338,7 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 		<icon src="https://poster.starhubgo.com/poster/ch838_news_roundup.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="838" start="20260821155000 +0000" stop="20260821160000 +0000">
-		<title>Global View</title>
+		<title>Global View (210826)</title>
 		<desc>Curated by seasoned journalists, Global View guides you to look at the world with a global perspective - broadening your horizons, expanding your understanding of the news, and enriching your knowledge.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch838_global_view.jpg?w=341%26h=192" />
 	</programme>
@@ -33368,7 +33383,7 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 		<icon src="https://poster.starhubgo.com/poster/ch838_big_city_shop.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="838" start="20260821214500 +0000" stop="20260821220000 +0000">
-		<title>Happy Old Buddies</title>
+		<title>Happy Old Buddies (220826)</title>
 		<desc>This show brings on doctors and Chinese medicine practitioners to discuss diseases that the elderly should pay attention to, and provide prevention and treatment methods.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch838_happy_old_buddies.jpg?w=341%26h=192" />
 	</programme>
@@ -33383,7 +33398,7 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 		<icon src="https://poster.starhubgo.com/poster/ch838_scoop_2026.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="838" start="20260821230000 +0000" stop="20260822000000 +0000">
-		<title>Good Morning Hong Kong</title>
+		<title>Good Morning Hong Kong (220826)</title>
 		<desc>Good Morning Hong Kong brings you the latest news about Hong Kong, cross-strait, and international affairs that matter to you.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch838_good_morning_hongkong.jpg?w=341%26h=192" />
 	</programme>
