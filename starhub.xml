@@ -1957,7 +1957,7 @@
 	</programme>
 	<programme channel="106" start="20260825130000 +0000" stop="20260825140000 +0000">
 		<title>Talking Point - EP 15</title>
-		<desc>With a fresh approach to tackling the issues of the day, Talking Point investigates a current issue or event, offering different perspectives to local stories and reveals how it all affects you.</desc>
+		<desc>Can Singapore’s new S70,000 child support package lift birth rates? Talking Point examines what families need, and whether stronger social media safeguards can better protect young people.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
 	<programme channel="106" start="20260825140000 +0000" stop="20260825150000 +0000">
@@ -5123,7 +5123,7 @@ Fathir, Sukma, Zahra, and Ira—Sukma’s adoptive mother—moved to Jakarta. W<
 	</programme>
 	<programme channel="132" start="20260825010000 +0000" stop="20260825020000 +0000">
 		<title>Biggboss The Common Man - EP 1</title>
-		<desc>Biggboss The Common Man</desc>
+		<desc>Ordinary people step into the spotlight, competing through challenges, emotions, and unexpected drama as aspiring contestants fight for a coveted place inside the Bigg Boss house, despite pressure.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch132_tba.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="132" start="20260825020000 +0000" stop="20260825023000 +0000">
@@ -5148,7 +5148,7 @@ Fathir, Sukma, Zahra, and Ira—Sukma’s adoptive mother—moved to Jakarta. W<
 	</programme>
 	<programme channel="132" start="20260825090000 +0000" stop="20260825100000 +0000">
 		<title>Biggboss The Common Man - EP 1</title>
-		<desc>Biggboss The Common Man</desc>
+		<desc>Ordinary people step into the spotlight, competing through challenges, emotions, and unexpected drama as aspiring contestants fight for a coveted place inside the Bigg Boss house, despite pressure.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch132_tba.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="132" start="20260825100000 +0000" stop="20260825103000 +0000">
@@ -5188,7 +5188,7 @@ Fathir, Sukma, Zahra, and Ira—Sukma’s adoptive mother—moved to Jakarta. W<
 	</programme>
 	<programme channel="132" start="20260825133000 +0000" stop="20260825143000 +0000">
 		<title>Biggboss The Common Man - EP 2</title>
-		<desc>Biggboss The Common Man</desc>
+		<desc>Ordinary people step into the spotlight, competing through challenges, emotions, and unexpected drama as aspiring contestants fight for a coveted place inside the Bigg Boss house, despite pressure.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch132_tba.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="132" start="20260825143000 +0000" stop="20260825150000 +0000">
@@ -9810,7 +9810,7 @@ The Chateau of Fougeres-sur-Bievre is an outlier - a blend of medieval and Renai
 	<programme channel="201" start="20260825010000 +0000" stop="20260825013000 +0000">
 		<title>ATP Tour: This Week 2026</title>
 		<desc>This programme tells the story of the ATP tour, its tournaments, personalities behind the tennis, funny feature content and much more.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch201_ATPTourReviewShow2025.jpg?w=341%26h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch201_ATPTourThisWeek.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="201" start="20260825013000 +0000" stop="20260825053000 +0000">
 		<title>WTA Tour 2026</title>
@@ -9842,10 +9842,15 @@ The Chateau of Fougeres-sur-Bievre is an outlier - a blend of medieval and Renai
 		<desc>The Cincinnati Open is a WTA 1000 tournament played on outdoor hard courts at the Lindner Family Tennis Center in Mason, Ohio.  It is the oldest US tennis tournament still played in its original city. The Cincinnati Open became a WTA 1000 event in 2009.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch201_WTA_Tour_1000_Generic.jpg?w=960%26h=540" />
 	</programme>
-	<programme channel="201" start="20260825123000 +0000" stop="20260825153000 +0000">
+	<programme channel="201" start="20260825123000 +0000" stop="20260825150000 +0000">
 		<title>WTA Tour 2026</title>
 		<desc>The Monterrey Open is an annual professional women's tennis tournament held in Monterrey, Mexico. It is a WTA 500 event played on outdoor hard courts at Club Sonoma. The tournament was founded in 2009 and features a 28-player singles draw.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch201_WTA_Tour_500_Generic.jpg?w=960%26h=540" />
+	</programme>
+	<programme channel="201" start="20260825150000 +0000" stop="20260825153000 +0000">
+		<title>Billie Jean King Cup by Gainbridge Qualifiers 2026</title>
+		<desc>Relive all the tension and drama from seven victorious nations as they booked their spot in the finals in China, Shenzhen.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch201_billie_jean_king_cup_GENERIC.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="201" start="20260825153000 +0000" stop="20260825160000 +0000">
 		<title>Mass Participation 2026</title>
@@ -9978,7 +9983,7 @@ The Chateau of Fougeres-sur-Bievre is an outlier - a blend of medieval and Renai
 		<icon src="https://poster.starhubgo.com/poster/ch202_the_football_review.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="202" start="20260825120000 +0000" stop="20260825140000 +0000">
-		<title>UFC 2026 UFC 330: Late Prelims</title>
+		<title>UFC 2026</title>
 		<desc>The Ultimate Fighting Championship features some of the world's best mixed martial arts exponents on its roster. This is the premier event of the UFC and is traditionally preluded with preliminaries before the main card showdown.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch202_ufc.jpg?w=341%26h=192" />
 	</programme>
@@ -26169,7 +26174,7 @@ The Chateau of Fougeres-sur-Bievre is an outlier - a blend of medieval and Renai
 	</programme>
 	<programme channel="711" start="20260825164500 +0000" stop="20260825170000 +0000">
 		<title>African Voices</title>
-		<desc>Arlette Amuli and BM Matundu, the Congolese creators behind the viral dating show "Pop the Balloon or Find Love," discuss their rise to internet fame.</desc>
+		<desc>Shining a spotlight on Africa's most influential and inspiring talents through in-depth, authentic conversations. Hosted by Larry Madowo, this show is where Africa's brightest stars share their truths -- real, raw, and revealing.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch711_african_voices.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="711" start="20260825170000 +0000" stop="20260825180000 +0000">
