@@ -19754,12 +19754,12 @@ The Chateau of Fougeres-sur-Bievre is an outlier - a blend of medieval and Renai
 	</programme>
 	<programme channel="447" start="20260825020000 +0000" stop="20260825030000 +0000">
 		<title>ABC News At Noon (2026) - EP 169</title>
-		<desc>The leading news at lunchtime. Ros Childs brings you the day's top stories and the latest news as it unfolds, with reporters in the community across Australia and around the world reporting on the issues that matter to you.</desc>
+		<desc>The leading news at lunchtime. Melissa Mackay brings you today's top stories and the latest news as it unfolds, with reporters in the community across Australia and around the world reporting on the issues that matter.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="447" start="20260825030000 +0000" stop="20260825033000 +0000">
 		<title>Australian Story (2026) - EP 25</title>
-		<desc>In 2026, Logie-award-winning documentary program Australian Story celebrates 30 years sharing compelling stories about real people that illuminate, entertain and inspire. The power of the personal. Presented by Leigh Sales.</desc>
+		<desc>When dancer Roz Hervey was diagnosed with motor neurone disease, her daughter, actor Tilda Cobham-Hervey, stepped behind the camera to record her mother's life story. With hours left to live, Roz made a dying wish.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="447" start="20260825033000 +0000" stop="20260825040000 +0000">
@@ -19767,24 +19767,29 @@ The Chateau of Fougeres-sur-Bievre is an outlier - a blend of medieval and Renai
 		<desc>Lisa heads to a little-known part of Australia, the remote tropical paradise of Cocos (Keeling) Islands, where she discovers a unique local culture, meets a bloke who could've been 'King' and celebrates a spectacular wedding.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341%26h=192" />
 	</programme>
-	<programme channel="447" start="20260825040000 +0000" stop="20260825051000 +0000">
+	<programme channel="447" start="20260825040000 +0000" stop="20260825045500 +0000">
 		<title>A Brief History of Cricket Down Und S3 - EP 5</title>
 		<desc>Australian quick Brett Lee makes an unforgettable debut. Pakistan's superstar Shoaib Akhtar squares-off with Lee down under and Elyse Perry makes her way into the history books.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341%26h=192" />
 	</programme>
-	<programme channel="447" start="20260825051000 +0000" stop="20260825060000 +0000">
+	<programme channel="447" start="20260825045500 +0000" stop="20260825054500 +0000">
 		<title>Gardening Australia (2026) - EP 1</title>
 		<desc>Gardening Australia returns to answer the question, 'What makes a great garden?' Costa visits a destination garden, Hannah tours Cairns Botanic Garden, Josh meets a plant stylist, and Jerry explores a stunning coastal garden.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341%26h=192" />
 	</programme>
+	<programme channel="447" start="20260825054500 +0000" stop="20260825060000 +0000">
+		<title>Landline: India (2024) - EP 4</title>
+		<desc>Not just on toast: A trade deal opens up new partnerships, providing Australian avocados to a new generation in India with a taste for new foods.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341%26h=192" />
+	</programme>
 	<programme channel="447" start="20260825060000 +0000" stop="20260825062500 +0000">
-		<title>Landline (2026) - EP 27</title>
-		<desc>A tasty sampler of stories from the land - covering food, agriculture, crops, climate, business and innovation - as we meet the fascinating people who make our rural and regional communities unique. Presented by Pip Courtney.</desc>
+		<title>Landline  (2026) - EP 27</title>
+		<desc>Rehabilitating land after mining in the Hunter Valley; plus the collection and banking of soil samples from around the country.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="447" start="20260825062500 +0000" stop="20260825070000 +0000">
-		<title>Planet America (2026) - EP 24</title>
-		<desc>A deeply divided America deals with the fallout of a war nobody voted for. As the Trump family continues to profit from the presidency, voters prepare to once again head to the polls for the midterm elections in November.</desc>
+		<title>Planet America  (2026) - EP 24</title>
+		<desc>A series of scandals dominates the midterm campaigns, while speculation over the role of Trump aide Natalie Harp intensifies. Plus America's munitions crisis grows as Epic Fury depletes weapons stocks and stretches the Navy.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="447" start="20260825070000 +0000" stop="20260825080000 +0000">
@@ -19797,9 +19802,14 @@ The Chateau of Fougeres-sur-Bievre is an outlier - a blend of medieval and Renai
 		<desc>Tips and tricks galore as Currie Country's Arabella Douglas and entertainer Bjorn Stewart join Adam to make food using homestyle hacks.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341%26h=192" />
 	</programme>
-	<programme channel="447" start="20260825082500 +0000" stop="20260825090000 +0000">
+	<programme channel="447" start="20260825082500 +0000" stop="20260825085000 +0000">
 		<title>Extraordinary Animals S2 - EP 2</title>
 		<desc>Australia is one of the most diverse countries on earth with over 80percent of its animals found nowhere else in the world. This series explores wildlife's unique traits revealing the creative, aggressive, social and curious.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341%26h=192" />
+	</programme>
+	<programme channel="447" start="20260825085000 +0000" stop="20260825090000 +0000">
+		<title>Play On S1 - EP 13</title>
+		<desc>Migrant families and athletes of multicultural heritage are changing Australia's sporting culture. From social sport to elite athletes, Paul Kennedy examines how sport helps build community, identity and opportunity.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="447" start="20260825090000 +0000" stop="20260825093000 +0000">
@@ -19814,7 +19824,7 @@ The Chateau of Fougeres-sur-Bievre is an outlier - a blend of medieval and Renai
 	</programme>
 	<programme channel="447" start="20260825100000 +0000" stop="20260825103000 +0000">
 		<title>Australian Story (2026) - EP 25</title>
-		<desc>In 2026, Logie-award-winning documentary program Australian Story celebrates 30 years sharing compelling stories about real people that illuminate, entertain and inspire. The power of the personal. Presented by Leigh Sales.</desc>
+		<desc>When dancer Roz Hervey was diagnosed with motor neurone disease, her daughter, actor Tilda Cobham-Hervey, stepped behind the camera to record her mother's life story. With hours left to live, Roz made a dying wish.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="447" start="20260825103000 +0000" stop="20260825110000 +0000">
@@ -19824,7 +19834,7 @@ The Chateau of Fougeres-sur-Bievre is an outlier - a blend of medieval and Renai
 	</programme>
 	<programme channel="447" start="20260825110000 +0000" stop="20260825120000 +0000">
 		<title>The World (2026) - EP 134</title>
-		<desc>There's never been a more important time to stay in touch with what's happening in our world. Girish Sawlani presents the latest international news from ABC News correspondents as well as interviews with experts and guests.</desc>
+		<desc>Girish Sawlani brings you the latest news from around the globe. Tonight: China's next space launch faces unexpected delays, and the push to protect whale migration highways in the Pacific Ocean.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="447" start="20260825120000 +0000" stop="20260825123000 +0000">
@@ -19849,7 +19859,7 @@ The Chateau of Fougeres-sur-Bievre is an outlier - a blend of medieval and Renai
 	</programme>
 	<programme channel="447" start="20260825140000 +0000" stop="20260825141500 +0000">
 		<title>ABC Late News (2026) - EP 169</title>
-		<desc>End your day with the latest on the day's top stories. ABC News has reporters across Australia and around the globe to uncover what's happening and why it matters.</desc>
+		<desc>End your day with the latest on the day's top stories. ABC News has reporters across Australia and around the globe to uncover what's happening and why it matters. Presented by Craig Smart in Perth.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="447" start="20260825141500 +0000" stop="20260825143000 +0000">
@@ -19864,12 +19874,12 @@ The Chateau of Fougeres-sur-Bievre is an outlier - a blend of medieval and Renai
 	</programme>
 	<programme channel="447" start="20260825150000 +0000" stop="20260825160000 +0000">
 		<title>The World (2026) - EP 134</title>
-		<desc>There's never been a more important time to stay in touch with what's happening in our world. Girish Sawlani presents the latest international news from ABC News correspondents as well as interviews with experts and guests.</desc>
+		<desc>Girish Sawlani brings you the latest news from around the globe. Tonight: China's next space launch faces unexpected delays, and the push to protect whale migration highways in the Pacific Ocean.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="447" start="20260825160000 +0000" stop="20260825163000 +0000">
-		<title>Landline (2026) - EP 27</title>
-		<desc>A tasty sampler of stories from the land - covering food, agriculture, crops, climate, business and innovation - as we meet the fascinating people who make our rural and regional communities unique. Presented by Pip Courtney.</desc>
+		<title>Landline  (2026) - EP 27</title>
+		<desc>Rehabilitating land after mining in the Hunter Valley; plus the collection and banking of soil samples from around the country.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="447" start="20260825163000 +0000" stop="20260825170000 +0000">
@@ -19879,12 +19889,17 @@ The Chateau of Fougeres-sur-Bievre is an outlier - a blend of medieval and Renai
 	</programme>
 	<programme channel="447" start="20260825170000 +0000" stop="20260825173000 +0000">
 		<title>Australian Story (2026) - EP 25</title>
-		<desc>In 2026, Logie-award-winning documentary program Australian Story celebrates 30 years sharing compelling stories about real people that illuminate, entertain and inspire. The power of the personal. Presented by Leigh Sales.</desc>
+		<desc>When dancer Roz Hervey was diagnosed with motor neurone disease, her daughter, actor Tilda Cobham-Hervey, stepped behind the camera to record her mother's life story. With hours left to live, Roz made a dying wish.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341%26h=192" />
 	</programme>
-	<programme channel="447" start="20260825173000 +0000" stop="20260825183500 +0000">
+	<programme channel="447" start="20260825173000 +0000" stop="20260825182000 +0000">
 		<title>Gardening Australia (2026) - EP 1</title>
 		<desc>Gardening Australia returns to answer the question, 'What makes a great garden?' Costa visits a destination garden, Hannah tours Cairns Botanic Garden, Josh meets a plant stylist, and Jerry explores a stunning coastal garden.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341%26h=192" />
+	</programme>
+	<programme channel="447" start="20260825182000 +0000" stop="20260825183500 +0000">
+		<title>Camel Capers S1 - EP 1</title>
+		<desc>Meet the young camel farmer winning over hearts worldwide. By sharing their daily antics online, she's built a social media audience of half a million people and boosted the family business.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="447" start="20260825183500 +0000" stop="20260825190000 +0000">
@@ -19894,12 +19909,12 @@ The Chateau of Fougeres-sur-Bievre is an outlier - a blend of medieval and Renai
 	</programme>
 	<programme channel="447" start="20260825190000 +0000" stop="20260825200000 +0000">
 		<title>The World (2026) - EP 134</title>
-		<desc>There's never been a more important time to stay in touch with what's happening in our world. Girish Sawlani presents the latest international news from ABC News correspondents as well as interviews with experts and guests.</desc>
+		<desc>Girish Sawlani brings you the latest news from around the globe. Tonight: China's next space launch faces unexpected delays, and the push to protect whale migration highways in the Pacific Ocean.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="447" start="20260825200000 +0000" stop="20260825210000 +0000">
 		<title>News Breakfast (2026) - EP 170</title>
-		<desc>News Breakfast gives you the morning advantage. James Glenday and Emma Rebellato bring you the latest news, sport and weather from Australia's most trusted source. Don't just start your day informed, start your day in front.</desc>
+		<desc>News Breakfast gives you the morning advantage. James Glenday and Emma Rebellato bring you the latest news, Catherine Murphy with sport and weather with Nate Byrne. Don't just start your day informed, start your day in front.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="447" start="20260825210000 +0000" stop="20260825230000 +0000">
@@ -32563,7 +32578,7 @@ The Chateau of Fougeres-sur-Bievre is an outlier - a blend of medieval and Renai
 		<icon src="https://poster.starhubgo.com/poster/ch828_super_taste.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="828" start="20260826150000 +0000" stop="20260826160000 +0000">
-		<title>Chop Chop Show (260826)</title>
+		<title>Chop Chop Show</title>
 		<desc>The show invites younger generations to talk about relationship, career, entertainment, current affairs, and all the other popular topics that they care and complain about.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch828_chop_chop_show.jpg?w=341%26h=192" />
 	</programme>
