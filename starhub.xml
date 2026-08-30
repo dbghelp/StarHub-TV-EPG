@@ -6575,27 +6575,27 @@
 		<desc>Daily Soap</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/139_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
-	<programme channel="140" start="20260829133000 +0000" stop="20260829170000 +0000">
+	<programme channel="140" start="20260829133000 +0000" stop="20260829163000 +0000">
 		<title>Oru Marubhoomikkadha</title>
 		<desc>Madhavan's life gets crazy when he's caught in a girl's fake kidnapping. Release Year: 2011 Director: Priyadarshan</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
-	<programme channel="140" start="20260829170000 +0000" stop="20260829193000 +0000">
+	<programme channel="140" start="20260829163000 +0000" stop="20260829193000 +0000">
 		<title>Premam</title>
 		<desc>George's heartbreak leads to a new relationship with Malar, shaping his journey. Release Year: 2015 Director: Alphonse Puthren Awards: Asianet Comedy Awards 2015 -Best Comedy Pair, Best Comedy Dialogue, Best Comical Scene Song, Asianet Film Awards 2016 - Most Popular Film</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
-	<programme channel="140" start="20260829193000 +0000" stop="20260829213000 +0000">
+	<programme channel="140" start="20260829193000 +0000" stop="20260829215000 +0000">
 		<title>Chettayees</title>
 		<desc>Follow five friends' happening New Year celebration and the events that ensue. Release Year: 2012 Director: Shajoon Kariyal</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
-	<programme channel="140" start="20260829213000 +0000" stop="20260829233000 +0000">
+	<programme channel="140" start="20260829215000 +0000" stop="20260829234500 +0000">
 		<title>Thaskara Lahala</title>
 		<desc>To help a girl get married, three close friends stage a play to raise money. But in an unexpected twist, a thief steals their hard-earned profits, leaving them in a desperate and uncertain situation. Release Year: 2010 Director: Ramesh Das</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
-	<programme channel="140" start="20260829233000 +0000" stop="20260830013000 +0000">
+	<programme channel="140" start="20260829234500 +0000" stop="20260830013000 +0000">
 		<title>Idiots</title>
 		<desc>A wealthy woman plots to frame her ex-boyfriend for her murder but things go awry when a thief enters her house instead of the hired killer. Release Year: 2012 Director: K.S.Bava</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=341%26h=192" />
@@ -9588,24 +9588,19 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 		<desc>The BMW Championship is a prestigious PGA Tour event and the second of three tournaments in the FedExCup Playoffs. It features the top 70 players in the FedExCup standings, who compete for a spot in the season-ending Tour Championship.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch203_PGA_TOUR.jpg?w=341%26h=192" />
 	</programme>
-	<programme channel="203" start="20260830090000 +0000" stop="20260830093000 +0000">
-		<title>DP World Tour 2026 Highlights</title>
-		<desc>Relive world class golf action from the Trump International Golf Links in Aberdeenshire, Scotland.</desc>
+	<programme channel="203" start="20260830090000 +0000" stop="20260830150000 +0000">
+		<title>DP World Tour 2026</title>
+		<desc>The British Masters is a professional golf tournament and a well-established event on the DP World Tour. It's one of the most historic tournaments in golf, with a rich history dating back to 1946 when it was known as the Dunlop Masters.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch203_dp_world_tour.jpg?w=960%26h=540" />
 	</programme>
-	<programme channel="203" start="20260830093000 +0000" stop="20260830100000 +0000">
+	<programme channel="203" start="20260830150000 +0000" stop="20260830153000 +0000">
 		<title>PGA Tour: The CUT 2026</title>
 		<desc>The CUT is a weekly show that highlights the PGA TOUR lifestyle inside and outside the ropes, telling the unique stories of the game's top names, as well as the up-and-coming stars on TOUR.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch203_PGA_Tour_the_cut.jpg?w=341%26h=192" />
 	</programme>
-	<programme channel="203" start="20260830100000 +0000" stop="20260830110000 +0000">
-		<title>PGA Tour Champions 2026 Highlights</title>
-		<desc>Relive all the unforgettable moments from the Canyon Meadows Golf and Country Club in Calgary, Alberta, Canada.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch203_pga_tour_cship.jpg?w=341%26h=192" />
-	</programme>
-	<programme channel="203" start="20260830110000 +0000" stop="20260830160000 +0000">
-		<title>DP World Tour 2026</title>
-		<desc>The British Masters is a professional golf tournament and a well-established event on the DP World Tour. It's one of the most historic tournaments in golf, with a rich history dating back to 1946 when it was known as the Dunlop Masters.</desc>
+	<programme channel="203" start="20260830153000 +0000" stop="20260830160000 +0000">
+		<title>DP World Tour 2026 Highlights</title>
+		<desc>Relive world class golf action from the Trump International Golf Links in Aberdeenshire, Scotland.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch203_dp_world_tour.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="203" start="20260830160000 +0000" stop="20260830220000 +0000">
@@ -19899,7 +19894,7 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 		<icon src="https://poster.starhubgo.com/poster/ch509_Tai_Chi_Master.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="509" start="20260830094500 +0000" stop="20260830115000 +0000">
-		<title>La La Land</title>
+		<title>La La Land (300826)</title>
 		<desc>Sebastian and Mia are drawn together by their common desire to do what they love. But as success builds, the dreams they worked so hard to maintain threaten to rip them apart.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch509_La_La_Land.jpg?w=341%26h=192" />
 	</programme>
