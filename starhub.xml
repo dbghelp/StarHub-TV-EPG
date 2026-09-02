@@ -1709,7 +1709,7 @@
 	</programme>
 	<programme channel="105" start="20260902133000 +0000" stop="20260902140000 +0000">
 		<title>Ethiroli S23 - EP 21</title>
-		<desc />
+		<desc>Deepfakes are becoming increasingly convincing and anyone can be a target. From financial scams and impersonation to non-consensual intimate images, this episode explores how deepfakes are created, why we fall for them and their impact on victims. Experts reveal how to spot the warning signs, Singapore’s efforts to combat online harm, and how we can protect ourselves.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/105_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
 	<programme channel="105" start="20260902140000 +0000" stop="20260902143000 +0000">
@@ -1839,7 +1839,7 @@
 	</programme>
 	<programme channel="105" start="20260903153000 +0000" stop="20260903160000 +0000">
 		<title>Ethiroli S23 - EP 21</title>
-		<desc />
+		<desc>Deepfakes are becoming increasingly convincing and anyone can be a target. From financial scams and impersonation to non-consensual intimate images, this episode explores how deepfakes are created, why we fall for them and their impact on victims. Experts reveal how to spot the warning signs, Singapore’s efforts to combat online harm, and how we can protect ourselves.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/105_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
 	<programme channel="106" start="20260901160000 +0000" stop="20260901160300 +0000">
@@ -10238,12 +10238,12 @@ Parisian hotel. Her colleagues are a close-knit team of strong characters. She a
 		<desc>The finest tennis players on the planet lock horns on the hard-courts of Flushing Meadows in pursuit of the sport's toughest title at the fourth and final Grand Slam of the year.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_us_open.jpg?w=960%26h=540" />
 	</programme>
-	<programme channel="209" start="20260903040000 +0000" stop="20260903070000 +0000">
+	<programme channel="209" start="20260903040000 +0000" stop="20260903071000 +0000">
 		<title>2026 LET: KPMG Women's Irish Open</title>
 		<desc>The stars of the Ladies European Tour gather in Ireland to compete for the KPMG Women's Irish Open title, delivering elite golf and championship drama.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch209_Ladies_European_Tour.jpg?w=341%26h=192" />
 	</programme>
-	<programme channel="209" start="20260903070000 +0000" stop="20260903120000 +0000">
+	<programme channel="209" start="20260903071000 +0000" stop="20260903120000 +0000">
 		<title>2026 US Open Tennis Championships Day 2</title>
 		<desc>The finest tennis players on the planet lock horns on the hard-courts of Flushing Meadows in pursuit of the sport's toughest title at the fourth and final Grand Slam of the year.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_us_open.jpg?w=960%26h=540" />
@@ -12358,19 +12358,19 @@ Parisian hotel. Her colleagues are a close-knit team of strong characters. She a
 		<desc>Ellis Park plays host for the first test between the Springboks and All Blacks.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch207_premier_sports.jpg?w=341%26h=192" />
 	</programme>
-	<programme channel="247" start="20260903093000 +0000" stop="20260903122000 +0000">
+	<programme channel="247" start="20260903093000 +0000" stop="20260903100000 +0000">
+		<title>5 and 6 Nations Classics 1999 - Wales v England</title>
+		<desc>A look at some of the best matches in the history of rugby's Six Nations.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch207_premier_sports.jpg?w=341%26h=192" />
+	</programme>
+	<programme channel="247" start="20260903100000 +0000" stop="20260903125000 +0000">
 		<title>LIVE AFL LIVE Fremantle v Hawthorn</title>
 		<desc>All the action from the 2026 season of the Toyota Australian Football League.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch207_premier_sports.jpg?w=341%26h=192" />
 	</programme>
-	<programme channel="247" start="20260903122000 +0000" stop="20260903124000 +0000">
+	<programme channel="247" start="20260903125000 +0000" stop="20260903131000 +0000">
 		<title>Premier Sports Extra</title>
 		<desc>A look back at some of the big games on Premier Sports.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch207_premier_sports.jpg?w=341%26h=192" />
-	</programme>
-	<programme channel="247" start="20260903124000 +0000" stop="20260903131000 +0000">
-		<title>5 and 6 Nations Classics 1999 - Wales v England</title>
-		<desc>A look at some of the best matches in the history of rugby's Six Nations.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch207_premier_sports.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="247" start="20260903131000 +0000" stop="20260903141000 +0000">
@@ -19320,22 +19320,27 @@ Parisian hotel. Her colleagues are a close-knit team of strong characters. She a
 	</programme>
 	<programme channel="447" start="20260901160000 +0000" stop="20260901163000 +0000">
 		<title>Landline (2026) - EP 28</title>
-		<desc>A tasty sampler of stories from the land - covering food, agriculture, crops, climate, business and innovation - as we meet the fascinating people who make our rural and regional communities unique. Presented by Pip Courtney.</desc>
+		<desc>The woman helping producers recover value from farm waste; and why this year is shaping up as one to remember for the sheep industry.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="447" start="20260901163000 +0000" stop="20260901170000 +0000">
 		<title>Back Roads S12 - EP 14</title>
-		<desc>Guest presenter, Joe O'Brien travels to Victoria's Spa Country to find out what's bubbling away below the surface, and if this is a place of healing for tourists and locals alike.</desc>
+		<desc>Guest presenter Joe O'Brien travels to Victoria's Spa Country to find out what's bubbling away below the surface, and if this is a place of healing for tourists and locals alike.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="447" start="20260901170000 +0000" stop="20260901173000 +0000">
 		<title>Australian Story (2026) - EP 26</title>
-		<desc>In 2026, Logie-award-winning documentary program Australian Story celebrates 30 years sharing compelling stories about real people that illuminate, entertain and inspire. The power of the personal. Presented by Leigh Sales.</desc>
+		<desc>Barnaby Joyce's defection to One Nation struck some as opportunism, others as evidence of an unrivalled political radar. But is the party big enough for him and Pauline Hanson?</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341%26h=192" />
 	</programme>
-	<programme channel="447" start="20260901173000 +0000" stop="20260901183500 +0000">
+	<programme channel="447" start="20260901173000 +0000" stop="20260901182000 +0000">
 		<title>Gardening Australia (2026) - EP 2</title>
-		<desc>Costa and the crew return in a refreshed season full of inspiring stories, practical ideas and beautiful gardens. Your weekly fix of gardening goodness starts here.</desc>
+		<desc>We focus on food growing, joining gardeners on the Sydney Edible Garden Trail. Tammy visits a garden with a Sri Lankan twist, Sophie shows her orchard's progress, and we meet a chef making the most of vegetables.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341%26h=192" />
+	</programme>
+	<programme channel="447" start="20260901182000 +0000" stop="20260901183500 +0000">
+		<title>Play On S1 - EP 10</title>
+		<desc>Migrant families and athletes of multicultural heritage are changing Australia's sporting culture. From social sport to elite athletes, Paul Kennedy examines how sport helps build community, identity and opportunity.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="447" start="20260901183500 +0000" stop="20260901190000 +0000">
@@ -19345,7 +19350,7 @@ Parisian hotel. Her colleagues are a close-knit team of strong characters. She a
 	</programme>
 	<programme channel="447" start="20260901190000 +0000" stop="20260901200000 +0000">
 		<title>The World (2026) - EP 138</title>
-		<desc>There's never been a more important time to stay in touch with what's happening in our world. Girish Sawlani presents the latest international news from ABC News correspondents as well as interviews with experts and guests.</desc>
+		<desc>Girish Sawlani brings you the latest news from around the globe. Tonight: a jury finds Duane Davis guilty of killing rapper Tupac Shakur in 1996, and the head of the Unification Church sentenced for bribery in South Korea.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="447" start="20260901200000 +0000" stop="20260901210000 +0000">
@@ -19523,24 +19528,29 @@ Parisian hotel. Her colleagues are a close-knit team of strong characters. She a
 		<desc>Bondi Rescue follows the daily lives and routines of the Waverley Council professional lifeguards who patrol Bondi Beach.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341%26h=192" />
 	</programme>
-	<programme channel="447" start="20260903032500 +0000" stop="20260903041500 +0000">
+	<programme channel="447" start="20260903032500 +0000" stop="20260903041000 +0000">
 		<title>Great Australian Walks S1 - EP 1</title>
 		<desc>This episode is set in Point Nepean, home to some of the nation's most expensive real estate; a quarantine station, an old military fort, and treacherous seas that swallowed Prime Minister Harold Holt in December 1967.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341%26h=192" />
 	</programme>
-	<programme channel="447" start="20260903041500 +0000" stop="20260903044500 +0000">
-		<title>Foreign Correspondent (2026) - EP 17</title>
-		<desc>As world news continues to dominate our headlines, Foreign Correspondent continues to bring you an action-packed season of stories reflecting the times in which we live.</desc>
+	<programme channel="447" start="20260903041000 +0000" stop="20260903043000 +0000">
+		<title>Play On S1 - EP 16</title>
+		<desc>Migrant families and athletes of multicultural heritage are changing Australia's sporting culture. From social sport to elite athletes, Paul Kennedy examines how sport helps build community, identity and opportunity.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341%26h=192" />
 	</programme>
-	<programme channel="447" start="20260903044500 +0000" stop="20260903052000 +0000">
+	<programme channel="447" start="20260903043000 +0000" stop="20260903050000 +0000">
+		<title>Foreign Correspondent (2026) - EP 11</title>
+		<desc>In India, marriage has become a $100 billion industry with families spending more on weddings than ever. But for many the pressure to spend big is becoming a financial burden as they grapple with the true price of love.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341%26h=192" />
+	</programme>
+	<programme channel="447" start="20260903050000 +0000" stop="20260903053500 +0000">
 		<title>Planet America (2026) - EP 25</title>
-		<desc>Buckle up for another wild ride with John and Chas as the battle to become America's 48th President gets underway. But first, the midterms and will Trump's Republicans hold on to their majority in Congress?</desc>
+		<desc>The US-Canada trade war escalates as Trump's distraction game steps up. Meanwhile, as the Iran war drags on and midterms loom, is Trump's low approval rating dragging Republicans down?</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341%26h=192" />
 	</programme>
-	<programme channel="447" start="20260903052000 +0000" stop="20260903055000 +0000">
+	<programme channel="447" start="20260903053500 +0000" stop="20260903055000 +0000">
 		<title>Media Watch (2026) - EP 30</title>
-		<desc>Australia's leading forum for media analysis and comment. Walkley award-winning investigative reporter and former foreign correspondent Linton Besser brings you a fearless critique of the week's journalism.</desc>
+		<desc>Images of the Himalayan floods circulated the globe, except in China, where media tightly controlled what people saw. The case that gripped the internet, fuelled in part by an algorithm that rewards conspiratorial thinking.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="447" start="20260903055000 +0000" stop="20260903070000 +0000">
@@ -19558,37 +19568,47 @@ Parisian hotel. Her colleagues are a close-knit team of strong characters. She a
 		<desc>Need food that's fast, fresh and frugal? Forget Google! Turbans 4 Australia founder Amar Singh and Franks Deli chef and co-owner Sammy Jakubiak join Adam with the answers.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341%26h=192" />
 	</programme>
-	<programme channel="447" start="20260903083000 +0000" stop="20260903092000 +0000">
+	<programme channel="447" start="20260903083000 +0000" stop="20260903090000 +0000">
 		<title>The Pacific (2026) - EP 11</title>
-		<desc>The Pacific region is rich with culture, people and stories. Johnson Raela and Alice Lolohea bring you the stories that matter to the Pacific and up-to-date information from journalists with deep regional expertise. (Return)</desc>
+		<desc>China's bid to sideline Taiwan casts a shadow over the Pacific Islands Forum in Palau, while the Solomon Islands Prime Minister abandons the summit to fight off a no confidence vote at home. (Return)</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341%26h=192" />
 	</programme>
-	<programme channel="447" start="20260903092000 +0000" stop="20260903122000 +0000">
-		<title>AFL Finals Week 1 - First qualifying final</title>
-		<desc>ABC Australia delivers a mix of programmes including news and current affairs, sports, comedies, drama, documentaries, education and award-winning children's programmes.</desc>
+	<programme channel="447" start="20260903090000 +0000" stop="20260903093000 +0000">
+		<title>ABC National News (2026) - EP 246</title>
+		<desc>There's never been a more important time for transparency and trust. ABC News brings you the day's top stories and latest news, with more reporters to tell you what's going on and why it matters. Presented by Joe O'Brien.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341%26h=192" />
 	</programme>
-	<programme channel="447" start="20260903122000 +0000" stop="20260903140000 +0000">
+	<programme channel="447" start="20260903093000 +0000" stop="20260903095000 +0000">
+		<title>Media Watch (2026) - EP 30</title>
+		<desc>Images of the Himalayan floods circulated the globe, except in China, where media tightly controlled what people saw. The case that gripped the internet, fuelled in part by an algorithm that rewards conspiratorial thinking.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341%26h=192" />
+	</programme>
+	<programme channel="447" start="20260903095000 +0000" stop="20260903125000 +0000">
+		<title>AFL Premiership Season (2026) - EP 151</title>
+		<desc>ABC Australia brings you Australian Rules football live in your lounge room every week with coverage of the 2026 AFL Premiership Season.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341%26h=192" />
+	</programme>
+	<programme channel="447" start="20260903125000 +0000" stop="20260903142500 +0000">
 		<title>Finke</title>
 		<desc>For the riders, the spectators and the town of Alice Springs, the Finke Desert Race is more than a race. Delve below the surface to uncover what makes them tick and what drives them to put their lives on the line.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341%26h=192" />
 	</programme>
-	<programme channel="447" start="20260903140000 +0000" stop="20260903141500 +0000">
+	<programme channel="447" start="20260903142500 +0000" stop="20260903145500 +0000">
 		<title>ABC Late News (2026) - EP 176</title>
-		<desc>End your day with the latest on the day's top stories. ABC News has reporters across Australia and around the globe to uncover what's happening and why it matters.</desc>
+		<desc>End your day with the latest on the day's top stories. ABC News has reporters across Australia and around the globe to uncover what's happening and why it matters. Presented by Craig Smart in Perth.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341%26h=192" />
 	</programme>
-	<programme channel="447" start="20260903141500 +0000" stop="20260903143000 +0000">
+	<programme channel="447" start="20260903145500 +0000" stop="20260903151000 +0000">
 		<title>The Business (2026) - EP 124</title>
 		<desc>Australia's leading daily business and finance show, bringing you up to date on market moves, economic trends and the forces affecting consumers, investors, employees and businesses big and small. Presented by Alicia Barry.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341%26h=192" />
 	</programme>
-	<programme channel="447" start="20260903143000 +0000" stop="20260903150000 +0000">
+	<programme channel="447" start="20260903151000 +0000" stop="20260903154000 +0000">
 		<title>7.30 (2026) - EP 140</title>
 		<desc>Sarah Ferguson presents Australia's premier daily current affairs program, delivering agenda-setting public affairs journalism and interviews that hold the powerful to account. Plus political analysis from Jacob Greber.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341%26h=192" />
 	</programme>
-	<programme channel="447" start="20260903150000 +0000" stop="20260903160000 +0000">
+	<programme channel="447" start="20260903154000 +0000" stop="20260903163500 +0000">
 		<title>The World (2026) - EP 140</title>
 		<desc>There's never been a more important time to stay in touch with what's happening in our world. Girish Sawlani presents the latest international news from ABC News correspondents as well as interviews with experts and guests.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch447_abc_australia.logo.jpg?w=341%26h=192" />
