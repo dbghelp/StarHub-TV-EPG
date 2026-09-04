@@ -176,6 +176,14 @@
 		<display-name>beIN SPORTS 3 HD</display-name>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/214_1920x1080_HTV.png?w=272" />
 	</channel>
+	<channel id="215">
+		<display-name>beIN SPORTS 4 HD</display-name>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/215_1920x1080_HTV.png?w=272" />
+	</channel>
+	<channel id="216">
+		<display-name>beIN SPORTS 5 HD</display-name>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/216_1920x1080_HTV.png?w=272" />
+	</channel>
 	<channel id="217">
 		<display-name>Cricbuzz</display-name>
 		<icon src="https://poster.starhubgo.com/Linear_Channels2/217_1920x1080_HTV.png?w=272" />
@@ -6199,7 +6207,7 @@ Devan diam diam memiliki banyak pacar, pacar-pacar Devan tersebut mengetahui bah
 		<icon src="https://poster.starhubgo.com/poster/ch656_Annamalai_Kudumbam.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="138" start="20260904060000 +0000" stop="20260904083000 +0000">
-		<title>Vithaikaran (040926)</title>
+		<title>Vithaikaran</title>
 		<desc>A clever smuggler is hired to get back stolen goods from a dangerous gang. But he soon uncovers a deadly plot that puts his life in serious danger.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch656_VITHAIKARAN.jpg?w=960%26h=540" />
 	</programme>
@@ -6813,7 +6821,7 @@ Devan diam diam memiliki banyak pacar, pacar-pacar Devan tersebut mengetahui bah
 		<desc>Sadasivan discovers a house where Kumaran died by suicide to protect his wife, Soumini. A mysterious blind man's constant presence raises deeper questions about the tragedy. Release Year: 2010 Director: Haridas Kesavan</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
-	<programme channel="140" start="20260903233000 +0000" stop="20260904013000 +0000">
+	<programme channel="140" start="20260903232000 +0000" stop="20260904013000 +0000">
 		<title>Ulsaha Committee</title>
 		<desc>Apoorvan, a dropout, dreams of becoming a scientist. With his friends Babumon and Chopra, they get into trouble due to their behavior while conducting experiments. Release Year: 2014 Director: Akku Akbar</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=341%26h=192" />
@@ -6843,22 +6851,22 @@ Devan diam diam memiliki banyak pacar, pacar-pacar Devan tersebut mengetahui bah
 		<desc>Sachin finds himself in a hilarious mess as his search for love turns into a chaotic love triangle, filled with surprises, confusion, and plenty of laughter. Release Year: 2024 Director: Girish A.D.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
-	<programme channel="140" start="20260904163000 +0000" stop="20260904193000 +0000">
+	<programme channel="140" start="20260904163000 +0000" stop="20260904191000 +0000">
 		<title>Mamangam</title>
 		<desc>During the Mamangam fair, a new legend is born when a 12-year-old boy, Chandroth Valiya Panikkar, survives a battle with the mighty army of Zamorin. Release Year: 2019 Director: M. Padmakumar Awards: Asianet Film Award for Youth Icon of the Year2020 Unni MukundanAsianet Film Award for Best Female Playback Singer2020 Bombay JayashriAsianet Film Award for Best Child Artist Male/Female2020 Achuthan B. Nair</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
-	<programme channel="140" start="20260904193000 +0000" stop="20260904213000 +0000">
+	<programme channel="140" start="20260904191000 +0000" stop="20260904213000 +0000">
 		<title>Memories</title>
 		<desc>Sam Alex, an ex-police officer, resorts to alcohol to ease the pain of his family's loss. He is called to investigate a series of murders. Release Year: 2013 Director: Jeethu Joseph</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
-	<programme channel="140" start="20260904213000 +0000" stop="20260904233000 +0000">
+	<programme channel="140" start="20260904213000 +0000" stop="20260904232000 +0000">
 		<title>Kali</title>
 		<desc>Siddharth's volatile nature strains his marriage with Anjali, leading to chaos. Release Year: 2016 Director: Sameer Thahir</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
-	<programme channel="140" start="20260904233000 +0000" stop="20260905013000 +0000">
+	<programme channel="140" start="20260904232000 +0000" stop="20260905013000 +0000">
 		<title>Honey Bee</title>
 		<desc>Sebastian and Angel elope, angering her brothers in their shared music band. Release Year: 2013 Director: Lal Jr.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=341%26h=192" />
@@ -8523,19 +8531,9 @@ Devan diam diam memiliki banyak pacar, pacar-pacar Devan tersebut mengetahui bah
 		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
-	<programme channel="153" start="20260903230200 +0000" stop="20260903231500 +0000">
-		<title>DW News Focus</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341%26h=192" />
-	</programme>
-	<programme channel="153" start="20260903231500 +0000" stop="20260903233000 +0000">
-		<title>ENTR</title>
-		<desc>Can TikTok bring Gen Z back to church? With a TikTok following of almost 400k people, Seba is redefining modern priesthood. The 29-year-old from Poland is a genuine workaholic: from holding church services and teaching at schools to working with teenagers, writing books and being a social media star.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341%26h=192" />
-	</programme>
 	<programme channel="153" start="20260903233000 +0000" stop="20260904000000 +0000">
-		<title>Best of DW Podcasts</title>
-		<desc>Select DW podcasts enrich the program with current analyses of world politics and its influence on our daily lives. There will also be space in the program for lively discussions about social standards and taboos.</desc>
+		<title>Berlin Briefing</title>
+		<desc>Germany has officially blamed Russia for a suspected hybrid attack at Leipzig airport. While Berlin has insisted the country is "not at war," the line between peace and conflict is becoming increasingly blurred — as attacks become bolder and more frequent.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
 	<programme channel="153" start="20260904000000 +0000" stop="20260904000200 +0000">
@@ -8649,8 +8647,8 @@ Devan diam diam memiliki banyak pacar, pacar-pacar Devan tersebut mengetahui bah
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
 	<programme channel="153" start="20260904063000 +0000" stop="20260904070000 +0000">
-		<title>Best of DW Podcasts</title>
-		<desc>Select DW podcasts enrich the program with current analyses of world politics and its influence on our daily lives. There will also be space in the program for lively discussions about social standards and taboos.</desc>
+		<title>Berlin Briefing</title>
+		<desc>Germany has officially blamed Russia for a suspected hybrid attack at Leipzig airport. While Berlin has insisted the country is "not at war," the line between peace and conflict is becoming increasingly blurred — as attacks become bolder and more frequent.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
 	<programme channel="153" start="20260904070000 +0000" stop="20260904070200 +0000">
@@ -8724,8 +8722,8 @@ Devan diam diam memiliki banyak pacar, pacar-pacar Devan tersebut mengetahui bah
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
 	<programme channel="153" start="20260904113000 +0000" stop="20260904120000 +0000">
-		<title>Best of DW Podcasts</title>
-		<desc>Select DW podcasts enrich the program with current analyses of world politics and its influence on our daily lives. There will also be space in the program for lively discussions about social standards and taboos.</desc>
+		<title>Berlin Briefing</title>
+		<desc>Germany has officially blamed Russia for a suspected hybrid attack at Leipzig airport. While Berlin has insisted the country is "not at war," the line between peace and conflict is becoming increasingly blurred — as attacks become bolder and more frequent.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
 	<programme channel="153" start="20260904120000 +0000" stop="20260904120200 +0000">
@@ -8819,8 +8817,8 @@ Devan diam diam memiliki banyak pacar, pacar-pacar Devan tersebut mengetahui bah
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
 	<programme channel="153" start="20260904183000 +0000" stop="20260904190000 +0000">
-		<title>Best of DW Podcasts</title>
-		<desc>Select DW podcasts enrich the program with current analyses of world politics and its influence on our daily lives. There will also be space in the program for lively discussions about social standards and taboos.</desc>
+		<title>Berlin Briefing</title>
+		<desc>Germany has officially blamed Russia for a suspected hybrid attack at Leipzig airport. While Berlin has insisted the country is "not at war," the line between peace and conflict is becoming increasingly blurred — as attacks become bolder and more frequent.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
 	<programme channel="153" start="20260904190000 +0000" stop="20260904190200 +0000">
@@ -10029,7 +10027,7 @@ This episode explores a cultural revival across Southeast Asia.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_us_open.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="209" start="20260904150000 +0000" stop="20260904153000 +0000">
-		<title>2026 US Open Tennis Highlights Day 5 (040926)</title>
+		<title>2026 US Open Tennis Highlights Day 5</title>
 		<desc>The finest tennis players on the planet lock horns on the hard-courts of Flushing Meadows in pursuit of the sport's toughest title at the final Grand Slam of the year.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_us_open.jpg?w=960%26h=540" />
 	</programme>
@@ -10264,7 +10262,7 @@ This episode explores a cultural revival across Southeast Asia.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_la_vuelta.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="211" start="20260904070000 +0000" stop="20260904073000 +0000">
-		<title>This Is Paris 2026/27</title>
+		<title>This Is Paris 2026/27 (040926)</title>
 		<desc>An exclusive weekly look behind the scenes at French superclub, Paris Saint-Germain.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_this_is_paris_2027.jpg?w=960%26h=540" />
 	</programme>
@@ -10903,6 +10901,56 @@ This episode explores a cultural revival across Southeast Asia.</desc>
 		<desc />
 		<icon src="https://poster.starhubgo.com/poster/ch214_UCL_magazine_show.jpg?w=341%26h=192" />
 	</programme>
+	<programme channel="215" start="20260903220000 +0000" stop="20260904040000 +0000">
+		<title>End of Transmission</title>
+		<desc />
+		<icon src="https://poster.starhubgo.com/Linear_channels2/215_1920x1080_HTV.png?w=960%26h=540" />
+	</programme>
+	<programme channel="215" start="20260904040000 +0000" stop="20260904100000 +0000">
+		<title>End of Transmission</title>
+		<desc />
+		<icon src="https://poster.starhubgo.com/Linear_channels2/215_1920x1080_HTV.png?w=960%26h=540" />
+	</programme>
+	<programme channel="215" start="20260904100000 +0000" stop="20260904160000 +0000">
+		<title>End of Transmission</title>
+		<desc />
+		<icon src="https://poster.starhubgo.com/Linear_channels2/215_1920x1080_HTV.png?w=960%26h=540" />
+	</programme>
+	<programme channel="215" start="20260904160000 +0000" stop="20260904220000 +0000">
+		<title>End of Transmission</title>
+		<desc />
+		<icon src="https://poster.starhubgo.com/Linear_channels2/215_1920x1080_HTV.png?w=960%26h=540" />
+	</programme>
+	<programme channel="215" start="20260904220000 +0000" stop="20260905040000 +0000">
+		<title>End of Transmission</title>
+		<desc />
+		<icon src="https://poster.starhubgo.com/Linear_channels2/215_1920x1080_HTV.png?w=960%26h=540" />
+	</programme>
+	<programme channel="216" start="20260903220000 +0000" stop="20260904040000 +0000">
+		<title>End of Transmission</title>
+		<desc />
+		<icon src="https://poster.starhubgo.com/Linear_channels2/216_1920x1080_HTV.png?w=960%26h=540" />
+	</programme>
+	<programme channel="216" start="20260904040000 +0000" stop="20260904100000 +0000">
+		<title>End of Transmission</title>
+		<desc />
+		<icon src="https://poster.starhubgo.com/Linear_channels2/216_1920x1080_HTV.png?w=960%26h=540" />
+	</programme>
+	<programme channel="216" start="20260904100000 +0000" stop="20260904160000 +0000">
+		<title>End of Transmission</title>
+		<desc />
+		<icon src="https://poster.starhubgo.com/Linear_channels2/216_1920x1080_HTV.png?w=960%26h=540" />
+	</programme>
+	<programme channel="216" start="20260904160000 +0000" stop="20260904220000 +0000">
+		<title>End of Transmission</title>
+		<desc />
+		<icon src="https://poster.starhubgo.com/Linear_channels2/216_1920x1080_HTV.png?w=960%26h=540" />
+	</programme>
+	<programme channel="216" start="20260904220000 +0000" stop="20260905040000 +0000">
+		<title>End of Transmission</title>
+		<desc />
+		<icon src="https://poster.starhubgo.com/Linear_channels2/216_1920x1080_HTV.png?w=960%26h=540" />
+	</programme>
 	<programme channel="217" start="20260903130500 +0000" stop="20260903171500 +0000">
 		<title>ETPL 2026  LIVE: M12: ETPL 2026</title>
 		<desc>Watch the Live coverage from Match 12 in the European T20 Premier League 2026.</desc>
@@ -11349,7 +11397,7 @@ This episode explores a cultural revival across Southeast Asia.</desc>
 		<icon src="https://poster.starhubgo.com/poster/fan_zone_V2.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="221" start="20260904153000 +0000" stop="20260904160000 +0000">
-		<title>PREVIEW - FRI 04 SEP (040926)</title>
+		<title>PREVIEW - FRI 04 SEP</title>
 		<desc>A tightly packed look-ahead to the forthcoming match round with a mix of player interviews and special features.</desc>
 		<icon src="https://poster.starhubgo.com/poster/pl_preview_V2.jpg?w=960%26h=540" />
 	</programme>
@@ -11379,7 +11427,7 @@ This episode explores a cultural revival across Southeast Asia.</desc>
 		<icon src="https://poster.starhubgo.com/poster/pl_live.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="221" start="20260904185000 +0000" stop="20260904210000 +0000">
-		<title>Ipswich Town v Liverpool (MW03) (050926)</title>
+		<title>Ipswich Town v Liverpool (MW03)</title>
 		<desc>Liverpool are unbeaten in their last 20 Premier League matches against newly promoted sides (W15 D5) but the last side to beat them were a Bournemouth side managed by current Ipswich boss Gary O'Neil in March 2023.</desc>
 		<icon src="https://poster.starhubgo.com/poster/liverpool_stadium.jpg?w=960" />
 	</programme>
@@ -11389,7 +11437,7 @@ This episode explores a cultural revival across Southeast Asia.</desc>
 		<icon src="https://poster.starhubgo.com/poster/pl_live.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="221" start="20260904213000 +0000" stop="20260904223000 +0000">
-		<title>TEAM TALKS - FRI 04 SEP (050926)</title>
+		<title>TEAM TALKS - FRI 04 SEP</title>
 		<desc>Punditry, pressers and predictions ahead of the PL Weekend. Our studio team tackle all the major talking points, and we hear from the headlines acts as the players and the managers have their say ahead of the action.</desc>
 		<icon src="https://poster.starhubgo.com/poster/team_talks_V2.jpg?w=341%26h=192" />
 	</programme>
@@ -11399,7 +11447,7 @@ This episode explores a cultural revival across Southeast Asia.</desc>
 		<icon src="https://poster.starhubgo.com/poster/the_big_interview_V3.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="221" start="20260904230000 +0000" stop="20260904233000 +0000">
-		<title>PREVIEW - FRI 04 SEP (UPDATE) (050926)</title>
+		<title>PREVIEW - FRI 04 SEP (UPDATE)</title>
 		<desc>A tightly packed look-ahead to the forthcoming match round with a mix of player interviews and special features.</desc>
 		<icon src="https://poster.starhubgo.com/poster/pl_preview_V2.jpg?w=960%26h=540" />
 	</programme>
@@ -32634,7 +32682,7 @@ This episode explores a cultural revival across Southeast Asia.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch838_news_roundup.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="838" start="20260904155000 +0000" stop="20260904160000 +0000">
-		<title>Global View (040926)</title>
+		<title>Global View</title>
 		<desc>Curated by seasoned journalists, Global View guides you to look at the world with a global perspective - broadening your horizons, expanding your understanding of the news, and enriching your knowledge.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch838_global_view.jpg?w=341%26h=192" />
 	</programme>
