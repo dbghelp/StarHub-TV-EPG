@@ -10488,7 +10488,7 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 	<programme channel="213" start="20260907222000 +0000" stop="20260907225000 +0000">
 		<title>Le Mans Cup Highlights 2026</title>
 		<desc>Highlights of the eleventh season of the premier European endurance support series, featuring a record 45-car grid across LMP3 and GT3 classes</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch213_le_mans_cup_highlights.jpg?w=341%26h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch213_le_mans_cup.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="213" start="20260907225000 +0000" stop="20260908005000 +0000">
 		<title>LFCTV 2026/27: Ipswich vs Liverpool</title>
@@ -15613,12 +15613,12 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 	<programme channel="314" start="20260907203500 +0000" stop="20260907210000 +0000">
 		<title>Tales of the Teenage Mutant Ninja Turtles S2 - EP 202</title>
 		<desc>All of Raph's dreams have come true as he fights Rocksteady, Bebop, and Mondo Gecko in the underground Mutant Battle Arena. But he doesn't realize he's walked right into a trap set by Kitsune and her street gang, the Purple Dragons!</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch314_teenage_mutant_ninja_turtles.jpg?w=341%26h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch314_tales_of_the_teenage_mutant_ninja_turtles.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="314" start="20260907210000 +0000" stop="20260907212000 +0000">
 		<title>Tales of the Teenage Mutant Ninja Turtles S2 - EP 204</title>
 		<desc>The Mutanimals turn on the Ninja Turtles after Ray Fillet accuses them of attacking him in Central Park! The Turtles realize a mutant snapping turtle named Tokka is on the loose, drawing Donnie to a terrifying laboratory on Staten Island!</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch314_teenage_mutant_ninja_turtles.jpg?w=341%26h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch314_tales_of_the_teenage_mutant_ninja_turtles.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="314" start="20260907212000 +0000" stop="20260907214500 +0000">
 		<title>SpongeBob SquarePants S15 - EP 311</title>
@@ -30783,7 +30783,7 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 	<programme channel="815" start="20260907080000 +0000" stop="20260907085500 +0000">
 		<title>Documentary 3 Days - EP 717</title>
 		<desc>The program condenses 72 hours of observation into 50 minutes.It captures the passage of time in a single place, revealing the "real" stories within. It is about the places we pass by, the people we overlook, and the things we forget in everyday life.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch815_documentary_3_days.jpg?w=960%26h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch815_documentary_3days.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="815" start="20260907085500 +0000" stop="20260907102000 +0000">
 		<title>Music Bank - EP 1306</title>
@@ -32756,13 +32756,28 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
 	<programme channel="832" start="20260907170000 +0000" stop="20260907220000 +0000">
-		<title>Information Not Available</title>
-		<desc />
+		<title>Dragon TV Primetime News</title>
+		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
-	<programme channel="832" start="20260907220000 +0000" stop="20260908040000 +0000">
-		<title>Information Not Available</title>
-		<desc />
+	<programme channel="832" start="20260907220000 +0000" stop="20260907223000 +0000">
+		<title>New Entertainment</title>
+		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341%26h=192" />
+	</programme>
+	<programme channel="832" start="20260907223000 +0000" stop="20260907230000 +0000">
+		<title>CARE ON THE WAY</title>
+		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341%26h=192" />
+	</programme>
+	<programme channel="832" start="20260907230000 +0000" stop="20260908000000 +0000">
+		<title>Dragon TV Morning News</title>
+		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341%26h=192" />
+	</programme>
+	<programme channel="832" start="20260908000000 +0000" stop="20260908023000 +0000">
+		<title>A Green Trip</title>
+		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
 	<programme channel="832" start="20260908040000 +0000" stop="20260908100000 +0000">
@@ -32777,62 +32792,62 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 	</programme>
 	<programme channel="838" start="20260906160000 +0000" stop="20260906163000 +0000">
 		<title>News Treasury 2026</title>
-		<desc>News Treasury takes everyone to uncover news from the treasure house. In addition to past specials, live broadcasts and reports, there are also precious clips from iconic events that have never been exposed.</desc>
+		<desc>As the saying goes, "Today's news is tomorrow's history." With so much news every day, it's hard for everyone to take it all in, let alone look back at history. History is a treasure trove—if we ignore or underestimate it, we might miss out on its riches.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch838_news_treasury_2026.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="838" start="20260906163000 +0000" stop="20260906173000 +0000">
 		<title>Liza's On Line (Sr.2)</title>
-		<desc>Join Liza Wang and company as they invite celebrity guests to participate in hilarious games and chats in this highly-entertaining variety show.</desc>
+		<desc>Liza Wang, Sammy Leung, William So, and Dickson Yu have teamed up to create a game show, inviting members of the entertainment family and guests to participate in a "Werewolf Palace Edition" game, revealing their foolish and clever sides.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch838_lizas_on_line_s2.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="838" start="20260906173000 +0000" stop="20260906183000 +0000">
 		<title>A Date with Goddess (Sr.2)</title>
-		<desc>Follow a new group of "goddesses" as they meet suitors, reveal deal‑breakers and test chemistry through candid dates and group challenges!</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch838_tvb_logo.jpg?w=341%26h=192" />
+		<desc>The dating reality show "A Date with Goddess" is back with a bang, and the second season's love battlefield is all upgraded! "Golden Matchmaker" Bob Lam is recruiting men from around the world to pair up goddesses Ho Pei-Chia, Kuo Pei-Wen, Chen Ruo-Si, Yu</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch838_a_date_with_goddess_sr2.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="838" start="20260906183000 +0000" stop="20260906190000 +0000">
 		<title>Try It? Really? (Sr.2)</title>
-		<desc>Hosts Myolie Wu, Cheung Chun‑long, Fred Cheng and GM head beyond the Greater Bay Area to sample budget food, stays and attractions. With no‑filter reviews and real‑world consequences, the team exposes scams, praises hidden gems and turns honest feedback i</desc>
+		<desc>The dating reality show "A Date with Goddess" is back with a bang, and the second season's love battlefield is all upgraded! "Golden Matchmaker" Bob Lam is recruiting men from around the world to pair up goddesses Ho Pei-Chia, Kuo Pei-Wen, Chen Ruo-Si, Yu</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch838_tvb_logo.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="838" start="20260906190000 +0000" stop="20260906193000 +0000">
 		<title>Scoop 2026</title>
-		<desc>This programme goes hot on the heels of the biggest happenings in society and the entertainment scene, bringing you the latest scoops.</desc>
+		<desc>Scoop airs from Monday to Sunday, closely following major social events and interesting stories, while also reporting the latest updates in the entertainment industry, celebrity news, as well as drama promotions and behind-the-scenes features.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch838_scoop_2026.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="838" start="20260906193000 +0000" stop="20260906200000 +0000">
 		<title>Star Weekly</title>
-		<desc>Star Weekly invites celebrities and well-known figures from different sectors to chat with our hosts, sharing their latest work plans and discussing special topics related to films, television and concerts, focusing especially on people and events that on</desc>
+		<desc>The talk show "Star Weekly" invites celebrities and industry leaders each episode, along with entertainment anchors such as Au Wing-Kuen, Hsu Wen-Hsuan, and Wang Chen-Chuan, to share their recent work plans and discuss special topics related to movies, te</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch838_star_weekly.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="838" start="20260906200000 +0000" stop="20260906203000 +0000">
 		<title>Dear Leslie 70</title>
 		<desc>TVB Jade brings you endless entertainment with concurrent dramas and sitcoms, as well as the latest news, variety and infotainment programmes from TVB.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch838_tvb_logo.jpg?w=341%26h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch838_dear_leslie_70.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="838" start="20260906203000 +0000" stop="20260906210000 +0000">
 		<title>Gourmet Express Weekly</title>
-		<desc>Our food anchors and hosts stay up-to-date with the latest culinary trends, gathering information on top-rated restaurants from various platforms. The hosts personally sample the food and provide honest reviews to keep you informed about delicious and aff</desc>
+		<desc>Hong Kong is a melting pot of global cuisine! Food anchors and hosts like Carmaney Wong,Carmen Ngai,Gillian Ng stay up-to-date with the latest culinary trends, gathering information on top-rated restaurants from various platforms.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch838_gourmet_express_weekly.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="838" start="20260906210000 +0000" stop="20260906220000 +0000">
 		<title>Cantopop At 50</title>
-		<desc>Cantopop At 50 invites original singers or established singers to reinterpret popular classics that span multiple generations, bringing high-quality music for the fans' enjoyment.</desc>
+		<desc>Throughout the years, countless hit songs have emerged in both Chinese and international music scenes. Regardless of the era, every work has its own devoted fans. " Cantopop At 50" invites original singers or accomplished vocalists to reinterpret these on</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch838_cantopop_at_50.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="838" start="20260906220000 +0000" stop="20260906223000 +0000">
 		<title>Finance Magazine 2026</title>
-		<desc>Finance Magazine closely follows the market, Hong Kong stocks trends and the property market situation. Through interviews with industry insiders and market analysis, it explores the hot topics in Hong Kong and international finance.</desc>
+		<desc>Financial Insights keeps a close watch on the market, reviewing weekly trends in Hong Kong stocks and paying attention to the real estate sector.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch838_finance_magazine_2026.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="838" start="20260906223000 +0000" stop="20260906230000 +0000">
 		<title>Scoop 2026</title>
-		<desc>This programme goes hot on the heels of the biggest happenings in society and the entertainment scene, bringing you the latest scoops.</desc>
+		<desc>Scoop airs from Monday to Sunday, closely following major social events and interesting stories, while also reporting the latest updates in the entertainment industry, celebrity news, as well as drama promotions and behind-the-scenes features.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch838_scoop_2026.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="838" start="20260906230000 +0000" stop="20260907000000 +0000">
 		<title>Good Morning Hong Kong and Global View</title>
-		<desc>Good Morning Hong Kong brings you the latest news about Hong Kong, cross-strait, and international affairs that matter to you.</desc>
+		<desc>Report important news about Hong Kong, cross-strait, and international affairs.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch838_good_morning_hongkong_and_global_view.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="838" start="20260907000000 +0000" stop="20260907010000 +0000">
@@ -32847,17 +32862,17 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 	</programme>
 	<programme channel="838" start="20260907013000 +0000" stop="20260907020000 +0000">
 		<title>Hands Up 2026</title>
-		<desc>This children's programme encourages children to ask questions, express themselves, and move towards their goals!</desc>
+		<desc>The brand-new children’s program “Hands Up” encourages kids to ask questions bravely, express themselves, and pursue their goals!</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch838_handsup.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="838" start="20260907020000 +0000" stop="20260907023000 +0000">
 		<title>Her Railway Trip %26 What's On Today</title>
-		<desc>Japan's railway world is incredibly diverse, stretching from winding valleys to coastal lines. Ni Jiawen and He Yongshao take viewers on a journey through the charm of Japanese railway travel, while also exploring the prefectures and cities traversed by t</desc>
+		<desc>Japan's railway world is incredibly diverse, stretching from winding valleys to coastal lines. Every train window is like a flowing landscape painting, captivating railway enthusiasts. In recent years, it has also attracted many women, giving rise to the</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch838_her_railway_trip.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="838" start="20260907023000 +0000" stop="20260907030000 +0000">
 		<title>News Treasury 2026</title>
-		<desc>News Treasury takes everyone to uncover news from the treasure house. In addition to past specials, live broadcasts and reports, there are also precious clips from iconic events that have never been exposed.</desc>
+		<desc>As the saying goes, "Today's news is tomorrow's history." With so much news every day, it's hard for everyone to take it all in, let alone look back at history. History is a treasure trove—if we ignore or underestimate it, we might miss out on its riches.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch838_news_treasury_2026.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="838" start="20260907030000 +0000" stop="20260907040000 +0000">
@@ -32867,22 +32882,22 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 	</programme>
 	<programme channel="838" start="20260907040000 +0000" stop="20260907043000 +0000">
 		<title>Scoop 2026</title>
-		<desc>This programme goes hot on the heels of the biggest happenings in society and the entertainment scene, bringing you the latest scoops.</desc>
+		<desc>Scoop airs from Monday to Sunday, closely following major social events and interesting stories, while also reporting the latest updates in the entertainment industry, celebrity news, as well as drama promotions and behind-the-scenes features.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch838_scoop_2026.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="838" start="20260907043000 +0000" stop="20260907045500 +0000">
 		<title>Big Boys Club</title>
-		<desc>Each episode of Big Boys Club invites singers, artistes as well as people from different walks of life as guests onto the show, participating in relaxed interviews and discussing current trends.</desc>
+		<desc>Big Boys Club is a youth talk show hosted by a group of close friends—Bob Lam, Oscar Leung, Derek Wong, Philip Fan, and Alan Chan.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch838_big_boys_club.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="838" start="20260907045500 +0000" stop="20260907052000 +0000">
 		<title>Hands Up 2026</title>
-		<desc>This children's programme encourages children to ask questions, express themselves, and move towards their goals!</desc>
+		<desc>The brand-new children’s program “Hands Up” encourages kids to ask questions bravely, express themselves, and pursue their goals!</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch838_handsup.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="838" start="20260907052000 +0000" stop="20260907060500 +0000">
 		<title>Big City Shop 2026</title>
-		<desc>Big City Shop introduces viewers to the latest products on fashion, skin care, make-up, health care, baby care and much more!</desc>
+		<desc>“Big City Shop” introduces viewers to a wide range of timely topics, including seasonal products, health and wellness, fitness activities, skincare and makeup, fashion apparel, infant care, parenting knowledge, local delicacies, and pet care trends.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch838_big_city_shop.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="838" start="20260907060500 +0000" stop="20260907063000 +0000">
@@ -32897,22 +32912,22 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 	</programme>
 	<programme channel="838" start="20260907073000 +0000" stop="20260907080000 +0000">
 		<title>Her Railway Trip</title>
-		<desc>Japan's railway world is incredibly diverse, stretching from winding valleys to coastal lines. Ni Jiawen and He Yongshao take viewers on a journey through the charm of Japanese railway travel, while also exploring the prefectures and cities traversed by t</desc>
+		<desc>Japan's railway world is incredibly diverse, stretching from winding valleys to coastal lines. Every train window is like a flowing landscape painting, captivating railway enthusiasts. In recent years, it has also attracted many women, giving rise to the</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch838_her_railway_trip.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="838" start="20260907080000 +0000" stop="20260907083000 +0000">
 		<title>Gourmet Express</title>
-		<desc>Hong Kong is home to gourmet food from all over the world. Our food anchors and hosts keep up with the latest foodie information and offers, gaining an in-depth understanding of the stories behind the taste.</desc>
+		<desc>Hong Kong brings together global cuisines, and its unique dishes and down-to-earth fare have captured the close attention of discerning food lovers!</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch838_gourmet_express.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="838" start="20260907083000 +0000" stop="20260907090000 +0000">
 		<title>I Go To Taiwan On Foot</title>
-		<desc>To understand the customs of a place, the best way is to travel in depth, walking through the streets and alleys on foot, enjoying the scenery along the way, exploring the local life and culture, and meeting unexpected surprises and challenges.</desc>
+		<desc>The best way to understand the local customs and culture is through in-depth travel, exploring every corner of the city on foot, appreciating the scenery along the way, discovering the local life and culture, and embracing unexpected surprises and challen</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch838_i_go_to_taiwan_on_foot.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="838" start="20260907090000 +0000" stop="20260907093000 +0000">
 		<title>Big Boys Club</title>
-		<desc>Each episode of Big Boys Club invites singers, artistes as well as people from different walks of life as guests onto the show, participating in relaxed interviews and discussing current trends.</desc>
+		<desc>Big Boys Club is a youth talk show hosted by a group of close friends—Bob Lam, Oscar Leung, Derek Wong, Philip Fan, and Alan Chan.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch838_big_boys_club.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="838" start="20260907093000 +0000" stop="20260907103000 +0000">
@@ -32922,12 +32937,12 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 	</programme>
 	<programme channel="838" start="20260907103000 +0000" stop="20260907113500 +0000">
 		<title>News At 18:30 %26 Global View %26 What's On Today</title>
-		<desc>Bringing you the news from Hong Kong, the mainland and around the world every evening at 6:30pm.</desc>
+		<desc>Jade Channel reports important local, cross-strait, and international news every afternoon at 6:30.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch838_news_at_630_and_global_view.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="838" start="20260907113500 +0000" stop="20260907120000 +0000">
 		<title>Scoop 2026</title>
-		<desc>This programme goes hot on the heels of the biggest happenings in society and the entertainment scene, bringing you the latest scoops.</desc>
+		<desc>Scoop airs from Monday to Sunday, closely following major social events and interesting stories, while also reporting the latest updates in the entertainment industry, celebrity news, as well as drama promotions and behind-the-scenes features.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch838_scoop_2026.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="838" start="20260907120000 +0000" stop="20260907123000 +0000">
@@ -32938,7 +32953,7 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 	<programme channel="838" start="20260907123000 +0000" stop="20260907133000 +0000">
 		<title>Cause Of Death - EP 1</title>
 		<desc>Rookie forensic pathologist Dr. Ching Chi-yan joins forces with sharp-tongued mentor Dr. Lam Sum and unlucky police officer Ko Chun. Together, this unlikely trio rely on keen scientific insights and sharp instincts to uncover hidden truths and crack compl</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch838_tvb_logo.jpg?w=341%26h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch838_cause_of_death.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="838" start="20260907133000 +0000" stop="20260907143000 +0000">
 		<title>The Tang Mist - EP 13</title>
@@ -32947,27 +32962,27 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 	</programme>
 	<programme channel="838" start="20260907143000 +0000" stop="20260907150000 +0000">
 		<title>Her Railway Trip</title>
-		<desc>Japan's railway world is incredibly diverse, stretching from winding valleys to coastal lines. Ni Jiawen and He Yongshao take viewers on a journey through the charm of Japanese railway travel, while also exploring the prefectures and cities traversed by t</desc>
+		<desc>Japan's railway world is incredibly diverse, stretching from winding valleys to coastal lines. Every train window is like a flowing landscape painting, captivating railway enthusiasts. In recent years, it has also attracted many women, giving rise to the</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch838_her_railway_trip.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="838" start="20260907150000 +0000" stop="20260907151500 +0000">
 		<title>EXTRA</title>
-		<desc>Keep up with the news on the entertainment circle in Hong Kong and all over the world, with reports on the latest drama series, movies, concert highlights, award ceremonies and more.</desc>
+		<desc>Report important news about Hong Kong, cross-strait, and international affairs.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch838_extra.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="838" start="20260907151500 +0000" stop="20260907155000 +0000">
 		<title>News Roundup</title>
-		<desc>Reporting major news from Hong Kong, across the Taiwan Strait, and around the world, keeping you informed about important events as well as updates in the world of sports.</desc>
+		<desc>Reporting major news from Hong Kong, across the Taiwan Strait, and around the world, as well as sports updates, keeping you informed about important events and trends in the world of sports.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch838_news_roundup.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="838" start="20260907155000 +0000" stop="20260907160000 +0000">
 		<title>Global View</title>
-		<desc>Curated by seasoned journalists, Global View guides you to look at the world with a global perspective - broadening your horizons, expanding your understanding of the news, and enriching your knowledge.</desc>
+		<desc>Global View, curated by seasoned journalists, guides you to view the world with a global perspective—broadening your horizons, expanding your understanding of the news, and enriching your knowledge.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch838_global_view.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="838" start="20260907160000 +0000" stop="20260907163000 +0000">
 		<title>Big Boys Club</title>
-		<desc>Each episode of Big Boys Club invites singers, artistes as well as people from different walks of life as guests onto the show, participating in relaxed interviews and discussing current trends.</desc>
+		<desc>Big Boys Club is a youth talk show hosted by a group of close friends—Bob Lam, Oscar Leung, Derek Wong, Philip Fan, and Alan Chan.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch838_big_boys_club.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="838" start="20260907163000 +0000" stop="20260907173000 +0000">
@@ -32978,7 +32993,7 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 	<programme channel="838" start="20260907173000 +0000" stop="20260907183000 +0000">
 		<title>Cause Of Death %26 What's On Today - EP 1</title>
 		<desc>Rookie forensic pathologist Dr. Ching Chi-yan joins forces with sharp-tongued mentor Dr. Lam Sum and unlucky police officer Ko Chun. Together, this unlikely trio rely on keen scientific insights and sharp instincts to uncover hidden truths and crack compl</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch838_tvb_logo.jpg?w=341%26h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch838_cause_of_death.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="838" start="20260907183000 +0000" stop="20260907190000 +0000">
 		<title>Like Mother, Like Daughter - EP 21</title>
@@ -32987,12 +33002,12 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 	</programme>
 	<programme channel="838" start="20260907190000 +0000" stop="20260907193000 +0000">
 		<title>Scoop 2026</title>
-		<desc>This programme goes hot on the heels of the biggest happenings in society and the entertainment scene, bringing you the latest scoops.</desc>
+		<desc>Scoop airs from Monday to Sunday, closely following major social events and interesting stories, while also reporting the latest updates in the entertainment industry, celebrity news, as well as drama promotions and behind-the-scenes features.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch838_scoop_2026.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="838" start="20260907193000 +0000" stop="20260907200000 +0000">
 		<title>Her Railway Trip</title>
-		<desc>Japan's railway world is incredibly diverse, stretching from winding valleys to coastal lines. Ni Jiawen and He Yongshao take viewers on a journey through the charm of Japanese railway travel, while also exploring the prefectures and cities traversed by t</desc>
+		<desc>Japan's railway world is incredibly diverse, stretching from winding valleys to coastal lines. Every train window is like a flowing landscape painting, captivating railway enthusiasts. In recent years, it has also attracted many women, giving rise to the</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch838_her_railway_trip.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="838" start="20260907200000 +0000" stop="20260907210000 +0000">
@@ -33002,27 +33017,27 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 	</programme>
 	<programme channel="838" start="20260907210000 +0000" stop="20260907214500 +0000">
 		<title>Big City Shop 2026</title>
-		<desc>Big City Shop introduces viewers to the latest products on fashion, skin care, make-up, health care, baby care and much more!</desc>
+		<desc>“Big City Shop” introduces viewers to a wide range of timely topics, including seasonal products, health and wellness, fitness activities, skincare and makeup, fashion apparel, infant care, parenting knowledge, local delicacies, and pet care trends.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch838_big_city_shop.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="838" start="20260907214500 +0000" stop="20260907220000 +0000">
 		<title>Happy Old Buddies</title>
-		<desc>This show brings on doctors and Chinese medicine practitioners to discuss diseases that the elderly should pay attention to, and provide prevention and treatment methods.</desc>
+		<desc>Many people may think that older adults do not have sexual needs, but surveys have shown that this is not the case—older adults often experience less sexual activity due to various reasons.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch838_happy_old_buddies.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="838" start="20260907220000 +0000" stop="20260907223000 +0000">
 		<title>News Treasury 2026</title>
-		<desc>News Treasury takes everyone to uncover news from the treasure house. In addition to past specials, live broadcasts and reports, there are also precious clips from iconic events that have never been exposed.</desc>
+		<desc>As the saying goes, "Today's news is tomorrow's history." With so much news every day, it's hard for everyone to take it all in, let alone look back at history. History is a treasure trove—if we ignore or underestimate it, we might miss out on its riches.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch838_news_treasury_2026.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="838" start="20260907223000 +0000" stop="20260907230000 +0000">
 		<title>Scoop 2026</title>
-		<desc>This programme goes hot on the heels of the biggest happenings in society and the entertainment scene, bringing you the latest scoops.</desc>
+		<desc>Scoop airs from Monday to Sunday, closely following major social events and interesting stories, while also reporting the latest updates in the entertainment industry, celebrity news, as well as drama promotions and behind-the-scenes features.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch838_scoop_2026.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="838" start="20260907230000 +0000" stop="20260908000000 +0000">
 		<title>Good Morning Hong Kong and Global View</title>
-		<desc>Good Morning Hong Kong brings you the latest news about Hong Kong, cross-strait, and international affairs that matter to you.</desc>
+		<desc>Report important news about Hong Kong, cross-strait, and international affairs.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch838_good_morning_hongkong_and_global_view.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="838" start="20260908000000 +0000" stop="20260908010000 +0000">
@@ -33037,42 +33052,42 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 	</programme>
 	<programme channel="838" start="20260908013000 +0000" stop="20260908020000 +0000">
 		<title>Hands Up 2026</title>
-		<desc>This children's programme encourages children to ask questions, express themselves, and move towards their goals!</desc>
+		<desc>The brand-new children’s program “Hands Up” encourages kids to ask questions bravely, express themselves, and pursue their goals!</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch838_handsup.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="838" start="20260908020000 +0000" stop="20260908023000 +0000">
 		<title>Her Railway Trip %26 What's On Today</title>
-		<desc>Japan's railway world is incredibly diverse, stretching from winding valleys to coastal lines. Ni Jiawen and He Yongshao take viewers on a journey through the charm of Japanese railway travel, while also exploring the prefectures and cities traversed by t</desc>
+		<desc>Japan's railway world is incredibly diverse, stretching from winding valleys to coastal lines. Every train window is like a flowing landscape painting, captivating railway enthusiasts. In recent years, it has also attracted many women, giving rise to the</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch838_her_railway_trip.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="838" start="20260908023000 +0000" stop="20260908030000 +0000">
 		<title>I Go To Taiwan On Foot</title>
-		<desc>To understand the customs of a place, the best way is to travel in depth, walking through the streets and alleys on foot, enjoying the scenery along the way, exploring the local life and culture, and meeting unexpected surprises and challenges.</desc>
+		<desc>The best way to understand the local customs and culture is through in-depth travel, exploring every corner of the city on foot, appreciating the scenery along the way, discovering the local life and culture, and embracing unexpected surprises and challen</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch838_i_go_to_taiwan_on_foot.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="838" start="20260908030000 +0000" stop="20260908040000 +0000">
 		<title>Cause Of Death - EP 1</title>
 		<desc>Rookie forensic pathologist Dr. Ching Chi-yan joins forces with sharp-tongued mentor Dr. Lam Sum and unlucky police officer Ko Chun. Together, this unlikely trio rely on keen scientific insights and sharp instincts to uncover hidden truths and crack compl</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch838_tvb_logo.jpg?w=341%26h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch838_cause_of_death.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="838" start="20260908040000 +0000" stop="20260908043000 +0000">
 		<title>Scoop 2026</title>
-		<desc>This programme goes hot on the heels of the biggest happenings in society and the entertainment scene, bringing you the latest scoops.</desc>
+		<desc>Scoop airs from Monday to Sunday, closely following major social events and interesting stories, while also reporting the latest updates in the entertainment industry, celebrity news, as well as drama promotions and behind-the-scenes features.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch838_scoop_2026.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="838" start="20260908043000 +0000" stop="20260908045500 +0000">
 		<title>Big Boys Club</title>
-		<desc>Each episode of Big Boys Club invites singers, artistes as well as people from different walks of life as guests onto the show, participating in relaxed interviews and discussing current trends.</desc>
+		<desc>Big Boys Club is a youth talk show hosted by a group of close friends—Bob Lam, Oscar Leung, Derek Wong, Philip Fan, and Alan Chan.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch838_big_boys_club.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="838" start="20260908045500 +0000" stop="20260908052000 +0000">
 		<title>Hands Up 2026</title>
-		<desc>This children's programme encourages children to ask questions, express themselves, and move towards their goals!</desc>
+		<desc>The brand-new children’s program “Hands Up” encourages kids to ask questions bravely, express themselves, and pursue their goals!</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch838_handsup.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="838" start="20260908052000 +0000" stop="20260908060500 +0000">
 		<title>Big City Shop 2026</title>
-		<desc>Big City Shop introduces viewers to the latest products on fashion, skin care, make-up, health care, baby care and much more!</desc>
+		<desc>“Big City Shop” introduces viewers to a wide range of timely topics, including seasonal products, health and wellness, fitness activities, skincare and makeup, fashion apparel, infant care, parenting knowledge, local delicacies, and pet care trends.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch838_big_city_shop.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="838" start="20260908060500 +0000" stop="20260908063000 +0000">
@@ -33087,22 +33102,22 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 	</programme>
 	<programme channel="838" start="20260908073000 +0000" stop="20260908080000 +0000">
 		<title>Her Railway Trip</title>
-		<desc>Japan's railway world is incredibly diverse, stretching from winding valleys to coastal lines. Ni Jiawen and He Yongshao take viewers on a journey through the charm of Japanese railway travel, while also exploring the prefectures and cities traversed by t</desc>
+		<desc>Japan's railway world is incredibly diverse, stretching from winding valleys to coastal lines. Every train window is like a flowing landscape painting, captivating railway enthusiasts. In recent years, it has also attracted many women, giving rise to the</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch838_her_railway_trip.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="838" start="20260908080000 +0000" stop="20260908083000 +0000">
 		<title>Want To De-stress</title>
-		<desc>Many urban dwellers are constantly striving for a living and a career, leaving no time for relaxation. The accumulated stress can quickly trigger health problems. This program invites professionals from various fields, such as aromatherapists, music thera</desc>
+		<desc>Many urban dwellers are constantly striving for a living and a career, leaving no time for relaxation. The accumulated stress can quickly trigger health problems.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch838_want_to_destress.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="838" start="20260908083000 +0000" stop="20260908090000 +0000">
 		<title>The Ahistoric Grandpa Cooking Show (Sr.5)</title>
-		<desc>Steve Lee (Master Ding) proves that his culinary skills are as impressive as his martial arts, as he and Helen Tam take viewers on ingredient-hunting trips and prepare signature dishes, soups and desserts, sharing classic Cantonese cooking tips.</desc>
+		<desc>Li Jiading (Master Ding), the tough guy, is undoubtedly a master of martial arts, but it turns out his culinary skills are equally impressive! Master Ding has set up "Master Ding's Kitchen," partnering with the discerning food connoisseur Tan Yuying.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch838_the_ahistoric_grandpa_cooking_show_sr5.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="838" start="20260908090000 +0000" stop="20260908093000 +0000">
 		<title>Big Boys Club</title>
-		<desc>Each episode of Big Boys Club invites singers, artistes as well as people from different walks of life as guests onto the show, participating in relaxed interviews and discussing current trends.</desc>
+		<desc>Big Boys Club is a youth talk show hosted by a group of close friends—Bob Lam, Oscar Leung, Derek Wong, Philip Fan, and Alan Chan.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch838_big_boys_club.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="838" start="20260908093000 +0000" stop="20260908103000 +0000">
@@ -33112,12 +33127,12 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 	</programme>
 	<programme channel="838" start="20260908103000 +0000" stop="20260908113500 +0000">
 		<title>News At 18:30 %26 Global View %26 What's On Today</title>
-		<desc>Bringing you the news from Hong Kong, the mainland and around the world every evening at 6:30pm.</desc>
+		<desc>Jade Channel reports important local, cross-strait, and international news every afternoon at 6:30.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch838_news_at_630_and_global_view.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="838" start="20260908113500 +0000" stop="20260908120000 +0000">
 		<title>Scoop 2026</title>
-		<desc>This programme goes hot on the heels of the biggest happenings in society and the entertainment scene, bringing you the latest scoops.</desc>
+		<desc>Scoop airs from Monday to Sunday, closely following major social events and interesting stories, while also reporting the latest updates in the entertainment industry, celebrity news, as well as drama promotions and behind-the-scenes features.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch838_scoop_2026.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="838" start="20260908120000 +0000" stop="20260908123000 +0000">
@@ -33128,31 +33143,31 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 	<programme channel="838" start="20260908123000 +0000" stop="20260908133000 +0000">
 		<title>Cause Of Death - EP 2</title>
 		<desc>Rookie forensic pathologist Dr. Ching Chi-yan joins forces with sharp-tongued mentor Dr. Lam Sum and unlucky police officer Ko Chun. Together, this unlikely trio rely on keen scientific insights and sharp instincts to uncover hidden truths and crack compl</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch838_tvb_logo.jpg?w=341%26h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch838_cause_of_death.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="838" start="20260908133000 +0000" stop="20260908143000 +0000">
 		<title>The Truth Within - EP 1</title>
 		<desc>Young forensic scientist Qi Sizhe suspects there is more to his girlfriend's death in a mysterious car accident. He transfers to the Hecheng Police Department to investigate murder cases while trying to uncover the truth behind her death.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch838_tvb_logo.jpg?w=341%26h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch838_the_truth_within.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="838" start="20260908143000 +0000" stop="20260908150000 +0000">
 		<title>Her Railway Trip</title>
-		<desc>Japan's railway world is incredibly diverse, stretching from winding valleys to coastal lines. Ni Jiawen and He Yongshao take viewers on a journey through the charm of Japanese railway travel, while also exploring the prefectures and cities traversed by t</desc>
+		<desc>Japan's railway world is incredibly diverse, stretching from winding valleys to coastal lines. Every train window is like a flowing landscape painting, captivating railway enthusiasts. In recent years, it has also attracted many women, giving rise to the</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch838_her_railway_trip.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="838" start="20260908150000 +0000" stop="20260908151500 +0000">
 		<title>EXTRA</title>
-		<desc>Keep up with the news on the entertainment circle in Hong Kong and all over the world, with reports on the latest drama series, movies, concert highlights, award ceremonies and more.</desc>
+		<desc>Report important news about Hong Kong, cross-strait, and international affairs.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch838_extra.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="838" start="20260908151500 +0000" stop="20260908155000 +0000">
 		<title>News Roundup</title>
-		<desc>Reporting major news from Hong Kong, across the Taiwan Strait, and around the world, keeping you informed about important events as well as updates in the world of sports.</desc>
+		<desc>Reporting major news from Hong Kong, across the Taiwan Strait, and around the world, as well as sports updates, keeping you informed about important events and trends in the world of sports.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch838_news_roundup.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="838" start="20260908155000 +0000" stop="20260908160000 +0000">
 		<title>Global View</title>
-		<desc>Curated by seasoned journalists, Global View guides you to look at the world with a global perspective - broadening your horizons, expanding your understanding of the news, and enriching your knowledge.</desc>
+		<desc>Global View, curated by seasoned journalists, guides you to view the world with a global perspective—broadening your horizons, expanding your understanding of the news, and enriching your knowledge.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch838_global_view.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="852" start="20260906160000 +0000" stop="20260906170000 +0000">
