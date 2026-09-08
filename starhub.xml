@@ -1617,7 +1617,7 @@
 	</programme>
 	<programme channel="104" start="20260909123000 +0000" stop="20260909130000 +0000">
 		<title>Detik Semasa - EP 18</title>
-		<desc>The program analyses and dissect issues of concern to the Malay/Muslim Singaporeans - be it at the community level, national, regional or global. Apart from raising awareness, each DETIK episode hopes to set viewers thinking and make informed decisions on matters that can impact their lives.</desc>
+		<desc>Learn the Malay language and culture to foster closer ties with neighbors and unlock new opportunities. How does the importance of understanding the Malay language and culture intertwined deeply in recent years? Detik KitorangSG: Zaliha Hamid, affectionately known as Mak Leha, reflects on her family, loss, friendship and her remarkable journey as an entertainer – revealing a side of the veteran comedian that many may not have seen before.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/104_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
 	<programme channel="104" start="20260909130000 +0000" stop="20260909133000 +0000">
@@ -1827,7 +1827,7 @@
 	</programme>
 	<programme channel="105" start="20260909133000 +0000" stop="20260909140000 +0000">
 		<title>Ethiroli S23 - EP 22</title>
-		<desc />
+		<desc>A panel of parents, educators, a social worker, and a youth discusses how smartphones, social media and AI are shaping childhood today. From school phone rules and online safety to new regulations for social media platforms, the panel explores how children can benefit from technology without becoming overly dependent on it.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/105_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
 	<programme channel="105" start="20260909140000 +0000" stop="20260909143000 +0000">
@@ -1896,7 +1896,7 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
 	<programme channel="106" start="20260908020000 +0000" stop="20260908030000 +0000">
-		<title>Death Loans: Thailand’s Cyanide Murders - EP 1</title>
+		<title>Death Loans: Thailand's Cyanide Murders - EP 1</title>
 		<desc>A young Thai mother dies suddenly by a river. Her family’s search for answers uncovers a crucial clue, CCTV footage that reveals she wasn’t alone - and signs that her death may not be an isolated case.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
@@ -1941,7 +1941,7 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
 	<programme channel="106" start="20260908110000 +0000" stop="20260908120000 +0000">
-		<title>Death Loans: Thailand’s Cyanide Murders - EP 1</title>
+		<title>Death Loans: Thailand's Cyanide Murders - EP 1</title>
 		<desc>A young Thai mother dies suddenly by a river. Her family’s search for answers uncovers a crucial clue, CCTV footage that reveals she wasn’t alone - and signs that her death may not be an isolated case.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
@@ -1976,7 +1976,7 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
 	<programme channel="106" start="20260908170000 +0000" stop="20260908180000 +0000">
-		<title>Death Loans: Thailand’s Cyanide Murders - EP 1</title>
+		<title>Death Loans: Thailand's Cyanide Murders - EP 1</title>
 		<desc>A young Thai mother dies suddenly by a river. Her family’s search for answers uncovers a crucial clue, CCTV footage that reveals she wasn’t alone - and signs that her death may not be an isolated case.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
@@ -2041,7 +2041,7 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
 	<programme channel="106" start="20260909090200 +0000" stop="20260909100000 +0000">
-		<title>Death Loans: Thailand’s Cyanide Murders - EP 1</title>
+		<title>Death Loans: Thailand's Cyanide Murders - EP 1</title>
 		<desc>A young Thai mother dies suddenly by a river. Her family’s search for answers uncovers a crucial clue, CCTV footage that reveals she wasn’t alone - and signs that her death may not be an isolated case.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
@@ -9797,10 +9797,15 @@ Montigny-le-Gannelon's chateau, built on Carolingian-era foundations, once shelt
 		<desc>Badminton Weekly discusses about the standout moments from the tour, as well as insights, unforgettable matches and close shaves as players make their final push to become champion in their own right.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch201_BadmintonWeekly.jpg?w=960%26h=540" />
 	</programme>
-	<programme channel="201" start="20260909110000 +0000" stop="20260909150000 +0000">
+	<programme channel="201" start="20260909110000 +0000" stop="20260909143000 +0000">
 		<title>HSBC BWF World Tour 2026</title>
 		<desc>The LI-NING China Masters is a Super 750 event that takes place annually in Shenzhen, China at the Shenzhen Arena. It is one of six tournaments to be granted Super 750 level status and has a prize pool of USD$1.25 million.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch201_BWF_world_tour_2026_li_ning_china_masters.jpg?w=341%26h=192" />
+	</programme>
+	<programme channel="201" start="20260909143000 +0000" stop="20260909150000 +0000">
+		<title>BWF World Championships 2026</title>
+		<desc>Relive all the excitement from the 30th edition of the world championships in New Delhi, India.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch201_BWF_2026_World_Championships_New_Delhi.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="201" start="20260909150000 +0000" stop="20260909160000 +0000">
 		<title>ATP Tour Review Show 2026</title>
@@ -9820,11 +9825,11 @@ Montigny-le-Gannelon's chateau, built on Carolingian-era foundations, once shelt
 	<programme channel="202" start="20260907203000 +0000" stop="20260907210000 +0000">
 		<title>Total Combat 2026</title>
 		<desc>The first of its kind program covering all disciplines of combat sports including MMA, boxing, kickboxing, muay thai and more.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch202_total_combat_2024.jpg?w=960%26h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch202_total_combat_2026.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="202" start="20260907210000 +0000" stop="20260907230000 +0000">
-		<title>Asian University Basketball Lge 2026 SF 2: Waseda University vs NCCU</title>
-		<desc>The AUBL is a pioneering pan-regional intercollegiate competition featuring Asia’s most prestigious university basketball programs, anchored by top teams from Greater China, Japan, and Korea.</desc>
+		<title>Asian University Basketball Lge 2026 Semifinal 2: Waseda University vs NCCU</title>
+		<desc>The AUBL is a pioneering pan-regional intercollegiate competition featuring Asia's most prestigious university basketball programs, anchored by top teams from Greater China, Japan, and Korea.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch202_aubl_2026.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="202" start="20260907230000 +0000" stop="20260907233000 +0000">
@@ -9899,7 +9904,7 @@ Montigny-le-Gannelon's chateau, built on Carolingian-era foundations, once shelt
 	</programme>
 	<programme channel="202" start="20260908220000 +0000" stop="20260908230000 +0000">
 		<title>ASO Motorsport Programming 2026</title>
-		<desc>The Desafío Ruta 40 is one of South America’s most iconic rally-raid events, and is Round 3 of the FIA-FIM World Rally-Raid Championship. The 2026 edition follows a San Juan - San Rafael - San Juan loop in Argentina.</desc>
+		<desc>The Desafío Ruta 40 is one of South America's most iconic rally-raid events, and is Round 3 of the FIA-FIM World Rally-Raid Championship. The 2026 edition follows a San Juan - San Rafael - San Juan loop in Argentina.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch202_aso.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="202" start="20260908230000 +0000" stop="20260908233000 +0000">
@@ -9934,7 +9939,7 @@ Montigny-le-Gannelon's chateau, built on Carolingian-era foundations, once shelt
 	</programme>
 	<programme channel="202" start="20260909080000 +0000" stop="20260909083000 +0000">
 		<title>The Spirit of Yachting Series XXV - 2026/27</title>
-		<desc>Filmed at breathtaking waterside locations, the Spirit of Yachting series tells the stories behind the races and reveals the passion, emotion and dedication needed to take part in the world’s premier yachting competitions.</desc>
+		<desc>Filmed at breathtaking waterside locations, the Spirit of Yachting series tells the stories behind the races and reveals the passion, emotion and dedication needed to take part in the world's premier yachting competitions.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch202_the_spirit_of_yachting.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="202" start="20260909083000 +0000" stop="20260909100000 +0000">
@@ -9945,7 +9950,7 @@ Montigny-le-Gannelon's chateau, built on Carolingian-era foundations, once shelt
 	<programme channel="202" start="20260909100000 +0000" stop="20260909103000 +0000">
 		<title>Total Combat 2026</title>
 		<desc>The first of its kind program covering all disciplines of combat sports including MMA, boxing, kickboxing, muay thai and more.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch202_total_combat_2024.jpg?w=960%26h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch202_total_combat_2026.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="202" start="20260909103000 +0000" stop="20260909110000 +0000">
 		<title>Invincible 2026</title>
@@ -9953,7 +9958,7 @@ Montigny-le-Gannelon's chateau, built on Carolingian-era foundations, once shelt
 		<icon src="https://poster.starhubgo.com/poster/ch202_invincible_2026.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="202" start="20260909110000 +0000" stop="20260909130000 +0000">
-		<title>Football Pre-season Friendlies 2026 Manchester City vs K Lge All Stars</title>
+		<title>Football Pre-season Friendlies 2026 Manchester City vs K League All Stars</title>
 		<desc>Football clubs are playing their pre-season friendlies and summer tours, building up to the 2026/27 season, with many marquee fixtures taking place in the US, Europe, and Asia.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch202_football_pre_season_friendlies2026.jpg?w=341%26h=192" />
 	</programme>
@@ -9970,7 +9975,7 @@ Montigny-le-Gannelon's chateau, built on Carolingian-era foundations, once shelt
 	<programme channel="202" start="20260909153000 +0000" stop="20260909160000 +0000">
 		<title>Total Combat 2026</title>
 		<desc>The first of its kind program covering all disciplines of combat sports including MMA, boxing, kickboxing, muay thai and more.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch202_total_combat_2024.jpg?w=960%26h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch202_total_combat_2026.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="203" start="20260907160000 +0000" stop="20260907220000 +0000">
 		<title>End of Transmission</title>
@@ -10160,7 +10165,7 @@ Montigny-le-Gannelon's chateau, built on Carolingian-era foundations, once shelt
 	<programme channel="209" start="20260907223000 +0000" stop="20260907230000 +0000">
 		<title>2026 US Open Tennis Highlights Day 8</title>
 		<desc>The finest tennis players on the planet lock horns on the hard-courts of Flushing Meadows in pursuit of the sport's toughest title at the final Grand Slam of the year.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch210_us_open.jpg?w=960%26h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch209_US_Open_2026_Day_8.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="209" start="20260907230000 +0000" stop="20260908040000 +0000">
 		<title>2026 US Open Tennis Championships Day 9</title>
@@ -10170,7 +10175,7 @@ Montigny-le-Gannelon's chateau, built on Carolingian-era foundations, once shelt
 	<programme channel="209" start="20260908040000 +0000" stop="20260908043000 +0000">
 		<title>2026 US Open Tennis Highlights Day 8</title>
 		<desc>The finest tennis players on the planet lock horns on the hard-courts of Flushing Meadows in pursuit of the sport's toughest title at the final Grand Slam of the year.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch210_us_open.jpg?w=960%26h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch209_US_Open_2026_Day_8.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="209" start="20260908043000 +0000" stop="20260908063000 +0000">
 		<title>Roshn Saudi League 26/27 MD 5  Al Shabab vs Al Hilal</title>
@@ -10190,12 +10195,12 @@ Montigny-le-Gannelon's chateau, built on Carolingian-era foundations, once shelt
 	<programme channel="209" start="20260908120000 +0000" stop="20260908123000 +0000">
 		<title>2026 US Open Tennis Highlights Day 7</title>
 		<desc>The finest tennis players on the planet lock horns on the hard-courts of Flushing Meadows in pursuit of the sport's toughest title at the final Grand Slam of the year.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch210_us_open.jpg?w=960%26h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch209_US_Open_2026_Day_7.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="209" start="20260908123000 +0000" stop="20260908130000 +0000">
 		<title>2026 US Open Tennis Highlights Day 8</title>
 		<desc>The finest tennis players on the planet lock horns on the hard-courts of Flushing Meadows in pursuit of the sport's toughest title at the final Grand Slam of the year.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch210_us_open.jpg?w=960%26h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch209_US_Open_2026_Day_8.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="209" start="20260908130000 +0000" stop="20260908150000 +0000">
 		<title>Roshn Saudi League 26/27 MD 5  Al Shabab vs Al Hilal</title>
@@ -10205,7 +10210,7 @@ Montigny-le-Gannelon's chateau, built on Carolingian-era foundations, once shelt
 	<programme channel="209" start="20260908150000 +0000" stop="20260908153000 +0000">
 		<title>2026 US Open Tennis Highlights Day 9</title>
 		<desc>The finest tennis players on the planet lock horns on the hard-courts of Flushing Meadows in pursuit of the sport's toughest title at the final Grand Slam of the year.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch210_us_open.jpg?w=960%26h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch209_US_Open_2026_Day_9.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="209" start="20260908153000 +0000" stop="20260908203000 +0000">
 		<title>2026 US Open Tennis Championships Day 10</title>
@@ -10220,7 +10225,7 @@ Montigny-le-Gannelon's chateau, built on Carolingian-era foundations, once shelt
 	<programme channel="209" start="20260908223000 +0000" stop="20260908230000 +0000">
 		<title>2026 US Open Tennis Highlights Day 9</title>
 		<desc>The finest tennis players on the planet lock horns on the hard-courts of Flushing Meadows in pursuit of the sport's toughest title at the final Grand Slam of the year.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch210_us_open.jpg?w=960%26h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch209_US_Open_2026_Day_9.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="209" start="20260908230000 +0000" stop="20260909040000 +0000">
 		<title>2026 US Open Tennis Championships Day 10</title>
@@ -10230,7 +10235,7 @@ Montigny-le-Gannelon's chateau, built on Carolingian-era foundations, once shelt
 	<programme channel="209" start="20260909040000 +0000" stop="20260909043000 +0000">
 		<title>2026 US Open Tennis Highlights Day 9</title>
 		<desc>The finest tennis players on the planet lock horns on the hard-courts of Flushing Meadows in pursuit of the sport's toughest title at the final Grand Slam of the year.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch210_us_open.jpg?w=960%26h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch209_US_Open_2026_Day_9.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="209" start="20260909043000 +0000" stop="20260909063000 +0000">
 		<title>Roshn Saudi League 26/27 MD 5 Al Taawoun vs Al Fateh</title>
@@ -10253,9 +10258,9 @@ Montigny-le-Gannelon's chateau, built on Carolingian-era foundations, once shelt
 		<icon src="https://poster.starhubgo.com/poster/ch209_SaudiLeague.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="209" start="20260909150000 +0000" stop="20260909153000 +0000">
-		<title>2026 US Open Tennis Highlights Day 10 (090926)</title>
+		<title>2026 US Open Tennis Highlights Day 10</title>
 		<desc>The finest tennis players on the planet lock horns on the hard-courts of Flushing Meadows in pursuit of the sport's toughest title at the final Grand Slam of the year.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch210_us_open.jpg?w=960%26h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch209_US_Open_2026_Day_10.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="209" start="20260909153000 +0000" stop="20260909223000 +0000">
 		<title>2026 US Open Tennis Championships Day 11</title>
@@ -10873,7 +10878,7 @@ Montigny-le-Gannelon's chateau, built on Carolingian-era foundations, once shelt
 		<icon src="https://poster.starhubgo.com/poster/ch214_UCL_live_match.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="214" start="20260908185500 +0000" stop="20260908210000 +0000">
-		<title>UEFA Champions League 2026/27: Porto vs Man City - MD1 (090926)</title>
+		<title>UEFA Champions League 2026/27: Porto vs Man City - MD1</title>
 		<desc />
 		<icon src="https://poster.starhubgo.com/poster/ch214_UCL_full_match.jpg?w=960%26h=540" />
 	</programme>
