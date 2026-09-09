@@ -8806,14 +8806,9 @@ Montigny-le-Gannelon's chateau, built on Carolingian-era foundations, once shelt
 		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
-	<programme channel="153" start="20260908190200 +0000" stop="20260908191500 +0000">
+	<programme channel="153" start="20260908190200 +0000" stop="20260908193000 +0000">
 		<title>DW News Focus</title>
 		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341%26h=192" />
-	</programme>
-	<programme channel="153" start="20260908191500 +0000" stop="20260908193000 +0000">
-		<title>Asia 2050</title>
-		<desc>Each year, Asia contributes to emissions by constructing towers from concrete, timber, and steel, exacerbating the planet’s decline and the increasing unpredictability of our climate. However, on the tropical island of Bali, a collective of designers, craftsmen, and social entrepreneurs is working with indigenous communities in what is known as a restorative economy.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
 	<programme channel="153" start="20260908193000 +0000" stop="20260908200000 +0000">
@@ -10879,12 +10874,12 @@ Montigny-le-Gannelon's chateau, built on Carolingian-era foundations, once shelt
 	<programme channel="214" start="20260908235000 +0000" stop="20260909014000 +0000">
 		<title>UEFA Champions League 2026/27: Lille vs Real Betis - MD1</title>
 		<desc />
-		<icon src="https://poster.starhubgo.com/poster/ch214_UCL_full_match.jpg?w=960%26h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch213_uefa_champions_league_generic.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="214" start="20260909014000 +0000" stop="20260909033000 +0000">
 		<title>UEFA Champions League 2026/27: Real Madrid vs Inter - MD1</title>
 		<desc />
-		<icon src="https://poster.starhubgo.com/poster/ch214_UCL_full_match.jpg?w=960%26h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch213_uefa_champions_league_generic.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="214" start="20260909033000 +0000" stop="20260909043000 +0000">
 		<title>UEFA Champions League Highlights 2026/27</title>
@@ -10909,7 +10904,7 @@ Montigny-le-Gannelon's chateau, built on Carolingian-era foundations, once shelt
 	<programme channel="214" start="20260909073000 +0000" stop="20260909092000 +0000">
 		<title>UEFA Champions League 2026/27: Porto vs Man City - MD1</title>
 		<desc />
-		<icon src="https://poster.starhubgo.com/poster/ch214_UCL_full_match.jpg?w=960%26h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch214_UECL_live_match.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="214" start="20260909092000 +0000" stop="20260909093000 +0000">
 		<title>UCL Classic Matches Anderlecht vs PSG (2013/14)</title>
@@ -10926,15 +10921,20 @@ Montigny-le-Gannelon's chateau, built on Carolingian-era foundations, once shelt
 		<desc>The official global Padel tour. Catch worldâ€™s top players battle it out across the globe.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch214_premier_padel.jpg?w=341%26h=192" />
 	</programme>
-	<programme channel="214" start="20260909113000 +0000" stop="20260909130000 +0000">
+	<programme channel="214" start="20260909113000 +0000" stop="20260909123000 +0000">
 		<title>Premier Padel 2026: Paris Major Day 3 Match 2</title>
 		<desc>The official global Padel tour. Catch worldâ€™s top players battle it out across the globe.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch214_premier_padel.jpg?w=341%26h=192" />
 	</programme>
-	<programme channel="214" start="20260909130000 +0000" stop="20260909143000 +0000">
+	<programme channel="214" start="20260909123000 +0000" stop="20260909140000 +0000">
 		<title>Premier Padel 2026: Paris Major Day 3 Match 3</title>
 		<desc>The official global Padel tour. Catch worldâ€™s top players battle it out across the globe.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch214_premier_padel.jpg?w=341%26h=192" />
+	</programme>
+	<programme channel="214" start="20260909140000 +0000" stop="20260909143000 +0000">
+		<title>MUTV: Specials</title>
+		<desc>Get your fix of award winning films, documentaries %26 original programming related to the Red Devils as part of MUTV, only on beIN Sports</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch214_mutv.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="214" start="20260909143000 +0000" stop="20260909150000 +0000">
 		<title>MUTV: Treble Twenty Man Utd vs Sheff Wed</title>
@@ -10964,7 +10964,7 @@ Montigny-le-Gannelon's chateau, built on Carolingian-era foundations, once shelt
 	<programme channel="214" start="20260909185500 +0000" stop="20260909210000 +0000">
 		<title>UEFA Champions League 2026/27: Napoli vs Arsenal - MD1</title>
 		<desc />
-		<icon src="https://poster.starhubgo.com/poster/ch214_UCL_full_match.jpg?w=960%26h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch213_uefa_champions_league_generic.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="214" start="20260909210000 +0000" stop="20260909220000 +0000">
 		<title>UCL Classic Matches Celtic vs Juventus (2001/02)</title>
@@ -10979,7 +10979,7 @@ Montigny-le-Gannelon's chateau, built on Carolingian-era foundations, once shelt
 	<programme channel="214" start="20260909230000 +0000" stop="20260910005000 +0000">
 		<title>UEFA Champions League 2026/27: Sporting vs Galatasaray - MD1</title>
 		<desc />
-		<icon src="https://poster.starhubgo.com/poster/ch214_UCL_full_match.jpg?w=960%26h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch213_uefa_champions_league_generic.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="214" start="20260910005000 +0000" stop="20260910024000 +0000">
 		<title>UEFA Champions League 2026/27: Liverpool vs Atletico Madrid - MD1</title>
