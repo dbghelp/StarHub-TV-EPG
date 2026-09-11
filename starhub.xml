@@ -792,7 +792,7 @@
 	</programme>
 	<programme channel="102" start="20260911173000 +0000" stop="20260911180000 +0000">
 		<title>Talking Point - EP 17</title>
-		<desc>With a fresh approach to tackling the issues of the day, Talking Point investigates a current issue or event, offering different perspectives to local stories and reveals how it all affects you.</desc>
+		<desc>Steven Chia wears a device that leaves him with 16 teeth, to find out what tooth loss really costs older Singaporeans — from what they can eat to how long they can stay independent.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
 	<programme channel="102" start="20260911180000 +0000" stop="20260911183000 +0000">
@@ -4878,7 +4878,7 @@
 	<programme channel="131" start="20260911140700 +0000" stop="20260911161700 +0000">
 		<title>Shakuntala Devi: A Human Computer</title>
 		<desc>Shakuntala Devi, a mathematician's journey to become 'The Human Computer' and her relationship with her daughter.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch618_sony_max_logo.jpg?w=341%26h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch618_shakuntala.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="131" start="20260911161700 +0000" stop="20260911180900 +0000">
 		<title>Middle Class Melodies</title>
@@ -20407,6 +20407,11 @@ This episode explores identity, courage, and the freedom to look like yourself.<
 		<desc>The remaining home cooks compete in pairs as they race to recreate dishes inspired by the judges' most cherished culinary memories; in the end, one team's journey comes to an end with a double elimination.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch513_masterchef_s16_global_gauntlet.jpg?w=960%26h=540" />
 	</programme>
+	<programme channel="513" start="20260911173000 +0000" stop="20260911183000 +0000">
+		<title>America's Got Talent S21 - EP 19</title>
+		<desc>With an army of loyal fans eager to find out what’s in store, America’s Got Talent returns to screens this year with more diverse talent, show-stopping moments and incredible drama than ever before.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch513_AmericasGotTalentS21.jpg?w=960%26h=540" />
+	</programme>
 	<programme channel="513" start="20260911183000 +0000" stop="20260911193000 +0000">
 		<title>The Killer Nanny: Did She Do It? - EP 3</title>
 		<desc>Documentary re-examining the trial of Louise Woodward for the murder of eight-month-old Matthew Eappen 25 years on. The three parts focus on the prosecution case, the defence case and the impact of the case.</desc>
@@ -20424,7 +20429,7 @@ This episode explores identity, courage, and the freedom to look like yourself.<
 	</programme>
 	<programme channel="513" start="20260911213000 +0000" stop="20260911220000 +0000">
 		<title>Ghosts S5 - EP 6</title>
-		<desc>Unsatisfied with Jay's ability to tend to their needs while Sam is away, the ghosts bring in a better babysitter, Kyle.</desc>
+		<desc>Unsatisfied with Jay’s ability to tend to their needs while Sam is away, the ghosts bring in a better babysitter, Kyle.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch513_GhostsS5.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="513" start="20260911220000 +0000" stop="20260911223000 +0000">
@@ -20441,6 +20446,11 @@ This episode explores identity, courage, and the freedom to look like yourself.<
 		<title>MasterChef S16: Global Gauntlet - EP 13</title>
 		<desc>The remaining home cooks compete in pairs as they race to recreate dishes inspired by the judges' most cherished culinary memories; in the end, one team's journey comes to an end with a double elimination.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch513_masterchef_s16_global_gauntlet.jpg?w=960%26h=540" />
+	</programme>
+	<programme channel="513" start="20260912000000 +0000" stop="20260912010000 +0000">
+		<title>America's Got Talent S21 - EP 19</title>
+		<desc>With an army of loyal fans eager to find out what’s in store, America’s Got Talent returns to screens this year with more diverse talent, show-stopping moments and incredible drama than ever before.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch513_AmericasGotTalentS21.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="513" start="20260912010000 +0000" stop="20260912020000 +0000">
 		<title>The Killer Nanny: Did She Do It? - EP 3</title>
@@ -20471,6 +20481,11 @@ This episode explores identity, courage, and the freedom to look like yourself.<
 		<title>MasterChef S16: Global Gauntlet - EP 13</title>
 		<desc>The remaining home cooks compete in pairs as they race to recreate dishes inspired by the judges' most cherished culinary memories; in the end, one team's journey comes to an end with a double elimination.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch513_masterchef_s16_global_gauntlet.jpg?w=960%26h=540" />
+	</programme>
+	<programme channel="513" start="20260912063000 +0000" stop="20260912073000 +0000">
+		<title>America's Got Talent S21 - EP 19</title>
+		<desc>With an army of loyal fans eager to find out what’s in store, America’s Got Talent returns to screens this year with more diverse talent, show-stopping moments and incredible drama than ever before.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch513_AmericasGotTalentS21.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="513" start="20260912073000 +0000" stop="20260912083000 +0000">
 		<title>The Killer Nanny: Did She Do It? - EP 3</title>
@@ -20504,7 +20519,7 @@ This episode explores identity, courage, and the freedom to look like yourself.<
 	</programme>
 	<programme channel="513" start="20260912143000 +0000" stop="20260912150000 +0000">
 		<title>Ghosts S5 - EP 6</title>
-		<desc>Unsatisfied with Jay's ability to tend to their needs while Sam is away, the ghosts bring in a better babysitter, Kyle.</desc>
+		<desc>Unsatisfied with Jay’s ability to tend to their needs while Sam is away, the ghosts bring in a better babysitter, Kyle.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch513_GhostsS5.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="513" start="20260912150000 +0000" stop="20260912153000 +0000">
@@ -25797,10 +25812,15 @@ This episode explores identity, courage, and the freedom to look like yourself.<
 		<desc>Max Foster has a definitive roundup of the day’s top stories, giving you the urgent need-to-know context, plus a deeper dive into the questions sparking debate around the world.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch711_what_we_know_with_max_foster.jpg?w=341%26h=192" />
 	</programme>
-	<programme channel="711" start="20260911200000 +0000" stop="20260911210000 +0000">
+	<programme channel="711" start="20260911200000 +0000" stop="20260911204500 +0000">
 		<title>Quest Means Business</title>
 		<desc>Richard Quest speaks to the top names in global business to bring viewers the bottom line.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch711_quest_means_business.jpg?w=341%26h=192" />
+	</programme>
+	<programme channel="711" start="20260911204500 +0000" stop="20260911210000 +0000">
+		<title>Connecting Africa</title>
+		<desc>From futuristic transport systems in North Africa to the rise of AI-powered data infrastructure, we explore how major projects are economic growth.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch711_connecting_africa.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="711" start="20260911210000 +0000" stop="20260911213000 +0000">
 		<title>The Lead with Jake Tapper</title>
@@ -28988,8 +29008,8 @@ This episode explores identity, courage, and the freedom to look like yourself.<
 		<icon src="https://poster.starhubgo.com/Linear_channels2/808_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
 	<programme channel="808" start="20260912130000 +0000" stop="20260912140000 +0000">
-		<title>2100 Hot Topics</title>
-		<desc>Don't miss the latest highlights and interviews from Taiwan and around the world.</desc>
+		<title>Twenty-Five Years Typhoon Nari</title>
+		<desc>Typhoon Nari once flooded Greater Taipei, inundating the metro and paralyzing the city overnight. Twenty-five years on, the capital's flood defenses have continued to evolve. But if Typhoon Nari struck again, would Taipei truly be ready?</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/808_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
 	<programme channel="808" start="20260912140000 +0000" stop="20260912150000 +0000">
@@ -29259,7 +29279,7 @@ This episode explores identity, courage, and the freedom to look like yourself.<
 	</programme>
 	<programme channel="811" start="20260911090000 +0000" stop="20260911091000 +0000">
 		<title>News (B)</title>
-		<desc />
+		<desc>The latest up-to-date news from Tokyo.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
 	<programme channel="811" start="20260911091000 +0000" stop="20260911092500 +0000">
@@ -29589,7 +29609,7 @@ This episode explores identity, courage, and the freedom to look like yourself.<
 	</programme>
 	<programme channel="811" start="20260912090000 +0000" stop="20260912090500 +0000">
 		<title>News</title>
-		<desc />
+		<desc>The latest up-to-date news from Tokyo.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
 	<programme channel="811" start="20260912090500 +0000" stop="20260912093500 +0000">
@@ -29664,7 +29684,7 @@ This episode explores identity, courage, and the freedom to look like yourself.<
 	</programme>
 	<programme channel="811" start="20260912140000 +0000" stop="20260912143000 +0000">
 		<title>Venue101</title>
-		<desc />
+		<desc>This live entertainment show delivers the latest music performances and information, and also connects with the audience making full use of social media.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
 	<programme channel="811" start="20260912143000 +0000" stop="20260912153000 +0000">
@@ -34638,8 +34658,8 @@ This episode explores identity, courage, and the freedom to look like yourself.<
 		<icon src="https://poster.starhubgo.com/Linear_channnes/falseNE?w=341%26h=192" />
 	</programme>
 	<programme channel="995" start="20260912130000 +0000" stop="20260912140000 +0000">
-		<title>2100 Hot Topics</title>
-		<desc>Don't miss the latest highlights and interviews from Taiwan and around the world.</desc>
+		<title>Twenty-Five Years Typhoon Nari</title>
+		<desc>Typhoon Nari once flooded Greater Taipei, inundating the metro and paralyzing the city overnight. Twenty-five years on, the capital's flood defenses have continued to evolve. But if Typhoon Nari struck again, would Taipei truly be ready?</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channnes/falseNE?w=341%26h=192" />
 	</programme>
 	<programme channel="995" start="20260912140000 +0000" stop="20260912150000 +0000">
