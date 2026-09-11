@@ -6025,6 +6025,31 @@
 		<desc>The name of the program is yet to be announced by the channel.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch135_tba.jpg?w=341%26h=192" />
 	</programme>
+	<programme channel="136" start="20260910220000 +0000" stop="20260911040000 +0000">
+		<title>End Of Transmission</title>
+		<desc />
+		<icon src="https://poster.starhubgo.com/Linear_channels2/136_1920x1080_HTV.png?w=341%26h=192" />
+	</programme>
+	<programme channel="136" start="20260911040000 +0000" stop="20260911100000 +0000">
+		<title>End Of Transmission</title>
+		<desc />
+		<icon src="https://poster.starhubgo.com/Linear_channels2/136_1920x1080_HTV.png?w=341%26h=192" />
+	</programme>
+	<programme channel="136" start="20260911100000 +0000" stop="20260911160000 +0000">
+		<title>End Of Transmission</title>
+		<desc />
+		<icon src="https://poster.starhubgo.com/Linear_channels2/136_1920x1080_HTV.png?w=341%26h=192" />
+	</programme>
+	<programme channel="136" start="20260911160000 +0000" stop="20260911220000 +0000">
+		<title>End Of Transmission</title>
+		<desc />
+		<icon src="https://poster.starhubgo.com/Linear_channels2/136_1920x1080_HTV.png?w=341%26h=192" />
+	</programme>
+	<programme channel="136" start="20260911220000 +0000" stop="20260912040000 +0000">
+		<title>End Of Transmission</title>
+		<desc />
+		<icon src="https://poster.starhubgo.com/Linear_channels2/136_1920x1080_HTV.png?w=341%26h=192" />
+	</programme>
 	<programme channel="137" start="20260910160000 +0000" stop="20260910190000 +0000">
 		<title>Nerkonda Paarvai - EP 1</title>
 		<desc>A retired veteran lawyer returns to defend three women falsely accused in a criminal case, facing powerful enemies and patriarchal biases in court.</desc>
@@ -30484,7 +30509,7 @@ This episode explores identity, courage, and the freedom to look like yourself.<
 	</programme>
 	<programme channel="815" start="20260911194500 +0000" stop="20260911205500 +0000">
 		<title>Descendants of the Sun - EP 2</title>
-		<desc>Healing Romance set in beautiful Southern Country's nature. Believing in love, not in miracle, they try to make a miracle from their love. Here goes the story of the heroes in our mind.Every dream is bought for a fortune and some say that happiness is followed by success. Those who compromised only to succeed are extolled and those who fought against for justice are ridiculed for being reckless. The world is in which nobody is ashamed of saying "Greed is good." That's why we need a hero.</desc>
+		<desc>Healing Romance set in beautiful Southern Country's nature. Believing in love, not in miracle, they try to make a miracle from their love.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch815_descendants_of_the_sun.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="815" start="20260911205500 +0000" stop="20260911210000 +0000">
@@ -30499,7 +30524,7 @@ This episode explores identity, courage, and the freedom to look like yourself.<
 	</programme>
 	<programme channel="815" start="20260911223000 +0000" stop="20260911231000 +0000">
 		<title>Pearl in Red - EP 1</title>
-		<desc>In this intense revenge chronicle, two women return under false identities to uncover the truths and sins hidden within the Adel family.</desc>
+		<desc>A meticulous and intense revenge chronicle in which two women return under false identities to uncover the truths and sins hidden within the Adel family.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch815_pearl_in_red.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="815" start="20260911231000 +0000" stop="20260912002500 +0000">
@@ -32524,37 +32549,37 @@ This episode explores identity, courage, and the freedom to look like yourself.<
 	</programme>
 	<programme channel="838" start="20260911160000 +0000" stop="20260911163000 +0000">
 		<title>Big Boys Club</title>
-		<desc>Big Boys Club is a youth talk show hosted by a group of close friends—Bob Lam, Oscar Leung, Derek Wong, Philip Fan, and Alan Chan.</desc>
+		<desc>" Big Boys Club" is a youth talk show hosted by a group of close friends—Bob Lam, Oscar Leung, Derek Wong, Philip Fan, and Alan Chan. In each episode, singers, entertainers, or guests from various fields are invited for relaxed interviews, presenting a wide range of topics including current social issues, pop culture, and trending interests. Matters of love, relationships, and even same-sex relationships are endlessly discussed topics for men and women alike.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch838_big_boys_club.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="838" start="20260911163000 +0000" stop="20260911173000 +0000">
 		<title>Return of the Cuckoo - EP 5</title>
-		<desc>Set in Macau's Rua de Cinco de Outubro, the drama follows mute Man Cho, raised by Aunt Q alongside her daughter Kwan‑Ho. As childhood friends become lovers, family secrets, class divides and a gentle rival spark a self‑sacrificing love triangle that tests</desc>
+		<desc>HO is impressed when she hears KIU refuse FAI’s money during KIU and FAI’s secret talk. SHUM discovers that FAI has offered KIU money and feels that her devotion to the family is wasted. She quickly arrives at a plan of action.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch838_return_of_the_cuckoo.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="838" start="20260911173000 +0000" stop="20260911183000 +0000">
-		<title>Cause Of Death %26 What's On Today - EP 5</title>
-		<desc>Rookie forensic pathologist Dr. Ching Chi-yan joins forces with sharp-tongued mentor Dr. Lam Sum and unlucky police officer Ko Chun. Together, this unlikely trio rely on keen scientific insights and sharp instincts to uncover hidden truths and crack compl</desc>
+		<title>Cause Of Death %26 Whats On Today - EP 5</title>
+		<desc>Ko Chun discovers from CCTV footage that T-Rex’s minions Badass and Sharky had entered and exited the carpentry workshop on the night of the crime.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch838_cause_of_death.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="838" start="20260911183000 +0000" stop="20260911190000 +0000">
 		<title>Like Mother, Like Daughter - EP 25</title>
-		<desc>Public relations queen TONG MAN-LEI (Jinny Ng) raises her Gen Z daughter TONG SUM ( Desta Lee) alone and she is a control freak. MAN-LEI's mother, TONG CHO KA-BING (Stephanie Che), has spent half of her life supporting her husband and raising their childr</desc>
+		<desc>YEUNG KWONG falls out with YEUNG FAN and pours his heart out to TONG SUM, MAN-LEI and KA-BING.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch838_like_mother_like_daughter.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="838" start="20260911190000 +0000" stop="20260911193000 +0000">
 		<title>Scoop 2026</title>
-		<desc>Scoop airs from Monday to Sunday, closely following major social events and interesting stories, while also reporting the latest updates in the entertainment industry, celebrity news, as well as drama promotions and behind-the-scenes features.</desc>
+		<desc>"Scoop" airs from Monday to Sunday, closely following major social events and interesting stories, while also reporting the latest updates in the entertainment industry, celebrity news, as well as drama promotions and behind-the-scenes features.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch838_scoop_2026.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="838" start="20260911193000 +0000" stop="20260911200000 +0000">
 		<title>Her Railway Trip</title>
-		<desc>Japan's railway world is incredibly diverse, stretching from winding valleys to coastal lines. Every train window is like a flowing landscape painting, captivating railway enthusiasts. In recent years, it has also attracted many women, giving rise to the</desc>
+		<desc>Japan's railway world is incredibly diverse, stretching from winding valleys to coastal lines. Every train window is like a flowing landscape painting, captivating railway enthusiasts.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch838_her_railway_trip.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="838" start="20260911200000 +0000" stop="20260911210000 +0000">
 		<title>Story of Kunning Palace - EP 20</title>
-		<desc>Jiang Xuening goes through ups and downs to rise as a queen, but is forced to commit suicide when a palace coup takes place. After being 'reborn', she sets out to uncover the truth of the past and rewrite the outcome of her life.</desc>
+		<desc>Xie Wei takes Ding-fei back to the capital to see the Emperor. A speech causes Xue Yuan to acknowledge Ding-fei.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch838_story_of_kunning_palace.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="838" start="20260911210000 +0000" stop="20260911214500 +0000">
@@ -32574,7 +32599,7 @@ This episode explores identity, courage, and the freedom to look like yourself.<
 	</programme>
 	<programme channel="838" start="20260911223000 +0000" stop="20260911230000 +0000">
 		<title>Scoop 2026</title>
-		<desc>Scoop airs from Monday to Sunday, closely following major social events and interesting stories, while also reporting the latest updates in the entertainment industry, celebrity news, as well as drama promotions and behind-the-scenes features.</desc>
+		<desc>"Scoop" airs from Monday to Sunday, closely following major social events and interesting stories, while also reporting the latest updates in the entertainment industry, celebrity news, as well as drama promotions and behind-the-scenes features.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch838_scoop_2026.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="838" start="20260911230000 +0000" stop="20260912000000 +0000">
