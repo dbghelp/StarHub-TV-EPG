@@ -6025,6 +6025,11 @@
 		<desc>The name of the program is yet to be announced by the channel.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch135_tba.jpg?w=341%26h=192" />
 	</programme>
+	<programme channel="136" start="20260910160000 +0000" stop="20260910220000 +0000">
+		<title>End Of Transmission</title>
+		<desc />
+		<icon src="https://poster.starhubgo.com/Linear_channels2/136_1920x1080_HTV.png?w=341%26h=192" />
+	</programme>
 	<programme channel="136" start="20260910220000 +0000" stop="20260911040000 +0000">
 		<title>End Of Transmission</title>
 		<desc />
@@ -6046,6 +6051,16 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/136_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
 	<programme channel="136" start="20260911220000 +0000" stop="20260912040000 +0000">
+		<title>End Of Transmission</title>
+		<desc />
+		<icon src="https://poster.starhubgo.com/Linear_channels2/136_1920x1080_HTV.png?w=341%26h=192" />
+	</programme>
+	<programme channel="136" start="20260912040000 +0000" stop="20260912100000 +0000">
+		<title>End Of Transmission</title>
+		<desc />
+		<icon src="https://poster.starhubgo.com/Linear_channels2/136_1920x1080_HTV.png?w=341%26h=192" />
+	</programme>
+	<programme channel="136" start="20260912100000 +0000" stop="20260912160000 +0000">
 		<title>End Of Transmission</title>
 		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_channels2/136_1920x1080_HTV.png?w=341%26h=192" />
@@ -6278,7 +6293,7 @@
 	<programme channel="138" start="20260911060000 +0000" stop="20260911090000 +0000">
 		<title>Thalaivi</title>
 		<desc>Thalaivi tells the story of J. Jayalalithaa, a famous actress and powerful politician. The movie follows her life and career as Chief Minister of Tamil Nadu. Kangana Ranaut stars as Jayalalithaa. Release Year: 2021 Director: A. L. Vijay Awards: Won Special Jury Award- Arvind Swamy, Won Best ActreSS - Tamil -Kangana Ranaut</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch656_zee_tamil_exclusive.jpg?w=341%26h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch656_THALAIVI.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="138" start="20260911090000 +0000" stop="20260911093000 +0000">
 		<title>Samanthi - EP 34</title>
@@ -6481,7 +6496,7 @@
 		<icon src="https://poster.starhubgo.com/poster/ch656_Annamalai_Kudumbam.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="138" start="20260912060000 +0000" stop="20260912090000 +0000">
-		<title>Ka Pae Ranasingam</title>
+		<title>Ka Pae Ranasingam (120926)</title>
 		<desc>Ariyanachi, a poor woman, strives to bring her deceased husband's body back to India from Dubai, battling the odds of political agenda, corruption and a treacherous bureaucracy that stand in her way Release Year: 2020 Director: P. Virumandi</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch656_zee_tamil_exclusive.jpg?w=341%26h=192" />
 	</programme>
@@ -6506,7 +6521,7 @@
 		<icon src="https://poster.starhubgo.com/poster/ch656_Paarijatham.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="138" start="20260912110000 +0000" stop="20260912123000 +0000">
-		<title>Saregamapa Lil Champs S04 - Divine Divinesh Special</title>
+		<title>Saregamapa Lil Champs S04 - Divine Divinesh Special (120926)</title>
 		<desc>Saregamapa Lil Champs S04 - Divine Divinesh Special</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch656_SaregamapaLilChampsS04.jpg?w=960%26h=540" />
 	</programme>
@@ -10547,20 +10562,10 @@ This episode explores identity, courage, and the freedom to look like yourself.<
 		<desc>An immersive, behind-the-scenes look at Spanish football's historic landmarks, giving fans a global passport to the culture, iconic stadiums, and intense passion driving the LaLiga 2026/27 season.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch213_laliga_generic.jpg?w=960%26h=540" />
 	</programme>
-	<programme channel="213" start="20260911162300 +0000" stop="20260911165500 +0000">
+	<programme channel="213" start="20260911162300 +0000" stop="20260911172000 +0000">
 		<title>FIA Formula 3 Championship Qualifying 2026: Madrid, Spain</title>
 		<desc>beIN Sports brings you exclusive coverage of the 2026 Formula 3 Championship.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch213_f3_generic.jpg?w=341%26h=192" />
-	</programme>
-	<programme channel="213" start="20260911165500 +0000" stop="20260911171000 +0000">
-		<title>Chasing the Dream 8</title>
-		<desc>Chasing the Dream follows some of the brightest talent in single-seater racing on their journey to the top, taking you behind the scenes of the FIA Formula 2 Championship.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch213_formula_2_generic.jpg?w=960%26h=540" />
-	</programme>
-	<programme channel="213" start="20260911171000 +0000" stop="20260911172000 +0000">
-		<title>LaLiga Goals Galore 2024/25</title>
-		<desc>Relive every goal from the best players in 2024/25 season.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch213_laliga_generic.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="213" start="20260911172000 +0000" stop="20260911182000 +0000">
 		<title>The F1 Show 2026</title>
@@ -10587,7 +10592,7 @@ This episode explores identity, courage, and the freedom to look like yourself.<
 		<desc>The official LFCTV weekly magazine program featuring news, stories, videos and social media highlights from across Liverpool football club, its players and supporters</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch213_lfctv_generic.jpg?w=960%26h=540" />
 	</programme>
-	<programme channel="213" start="20260912000000 +0000" stop="20260912015000 +0000">
+	<programme channel="213" start="20260912000000 +0000" stop="20260912020000 +0000">
 		<title>LaLiga 2026/27: Sevilla vs Valencia</title>
 		<desc>Extensive coverage from every round of the Spanish LaLiga, Spain's top division of football with the World's biggest teams.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch213_laliga_generic.jpg?w=960%26h=540" />
@@ -11683,7 +11688,7 @@ This episode explores identity, courage, and the freedom to look like yourself.<
 		<icon src="https://poster.starhubgo.com/poster/MW03_ARSENAL_vs_CHELSEA_27.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="222" start="20260912135000 +0000" stop="20260912160000 +0000">
-		<title>Chelsea vs Hull City (MW04) (120926)</title>
+		<title>Chelsea vs Hull City (MW04)</title>
 		<desc>Chelsea have never lost in 10 Premier League meetings with Hull City (W8 D2), only facing Portsmouth more times without losing in the competition (14).</desc>
 		<icon src="https://poster.starhubgo.com/poster/chelsea_stadium.jpg?w=960" />
 	</programme>
@@ -11773,7 +11778,7 @@ This episode explores identity, courage, and the freedom to look like yourself.<
 		<icon src="https://poster.starhubgo.com/Linear_Channels2/224_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
 	<programme channel="224" start="20260912135000 +0000" stop="20260912160000 +0000">
-		<title>Bournemouth vs Brentford (MW04) (120926)</title>
+		<title>Bournemouth vs Brentford (MW04)</title>
 		<desc>Bournemouth have never beaten Brentford in eight Premier League meetings (D3 L5). They’re the only side the Cherries have faced without yet winning in the competition, while it’s the most the Bees have faced an opponent without losing.</desc>
 		<icon src="https://poster.starhubgo.com/poster/bournemouth_stadium.jpg?w=960" />
 	</programme>
@@ -25924,7 +25929,7 @@ This episode explores identity, courage, and the freedom to look like yourself.<
 	</programme>
 	<programme channel="711" start="20260912083000 +0000" stop="20260912090000 +0000">
 		<title>CNN Creators</title>
-		<desc>Live from Doha, Qatar, CNN Creators follows a team of digital-native storytellers as they navigate the stories that matter most, with a focus on tech, art, culture, sport, and social trends.</desc>
+		<desc>The CNN Creators look back on their most viral stories from 2026 so far.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch711_cnn_creators.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="711" start="20260912090000 +0000" stop="20260912100000 +0000">
@@ -25959,12 +25964,12 @@ This episode explores identity, courage, and the freedom to look like yourself.<
 	</programme>
 	<programme channel="711" start="20260912140000 +0000" stop="20260912143000 +0000">
 		<title>CNN Creators</title>
-		<desc>Live from Doha, Qatar, CNN Creators follows a team of digital-native storytellers as they navigate the stories that matter most, with a focus on tech, art, culture, sport, and social trends.</desc>
+		<desc>The CNN Creators look back on their most viral stories from 2026 so far.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch711_cnn_creators.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="711" start="20260912143000 +0000" stop="20260912150000 +0000">
 		<title>Inside Africa</title>
-		<desc>Inside Africa takes its viewers on a journey across Africa, exploring the true diversity and depth of different cultures, countries and regions.</desc>
+		<desc>Ivory Coast's contemporary art scene is evolving with new spaces, new voices and a growing international reach.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch711_inside_africa.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="711" start="20260912150000 +0000" stop="20260912160000 +0000">
@@ -26595,7 +26600,7 @@ This episode explores identity, courage, and the freedom to look like yourself.<
 	<programme channel="724" start="20260911000000 +0000" stop="20260911001500 +0000">
 		<title>News</title>
 		<desc>An international news bulletin, presented live from the newsroom.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch724_news.jpg?w=341%26h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch724_the_news.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="724" start="20260911001500 +0000" stop="20260911003000 +0000">
 		<title>A PROPOS</title>
@@ -26605,7 +26610,7 @@ This episode explores identity, courage, and the freedom to look like yourself.<
 	<programme channel="724" start="20260911003000 +0000" stop="20260911004500 +0000">
 		<title>News</title>
 		<desc>An international news bulletin, presented live from the newsroom.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch724_news.jpg?w=341%26h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch724_the_news.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="724" start="20260911004500 +0000" stop="20260911010000 +0000">
 		<title>Eye on Africa</title>
@@ -26615,7 +26620,7 @@ This episode explores identity, courage, and the freedom to look like yourself.<
 	<programme channel="724" start="20260911010000 +0000" stop="20260911011000 +0000">
 		<title>News</title>
 		<desc>An international news bulletin, presented live from the newsroom.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch724_news.jpg?w=341%26h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch724_the_news.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="724" start="20260911011000 +0000" stop="20260911015300 +0000">
 		<title>The Debate</title>
@@ -26630,7 +26635,7 @@ This episode explores identity, courage, and the freedom to look like yourself.<
 	<programme channel="724" start="20260911020000 +0000" stop="20260911021500 +0000">
 		<title>News</title>
 		<desc>An international news bulletin, presented live from the newsroom.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch724_news.jpg?w=341%26h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch724_the_news.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="724" start="20260911021500 +0000" stop="20260911023000 +0000">
 		<title>Talking Europe</title>
@@ -26640,7 +26645,7 @@ This episode explores identity, courage, and the freedom to look like yourself.<
 	<programme channel="724" start="20260911023000 +0000" stop="20260911024500 +0000">
 		<title>News</title>
 		<desc>An international news bulletin, presented live from the newsroom.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch724_news.jpg?w=341%26h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch724_the_news.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="724" start="20260911024500 +0000" stop="20260911025100 +0000">
 		<title>French Connections</title>
@@ -26655,7 +26660,7 @@ This episode explores identity, courage, and the freedom to look like yourself.<
 	<programme channel="724" start="20260911030000 +0000" stop="20260911031500 +0000">
 		<title>News</title>
 		<desc>An international news bulletin, presented live from the newsroom.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch724_news.jpg?w=341%26h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch724_the_news.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="724" start="20260911031500 +0000" stop="20260911033000 +0000">
 		<title>Eye on Africa</title>
@@ -26665,7 +26670,7 @@ This episode explores identity, courage, and the freedom to look like yourself.<
 	<programme channel="724" start="20260911033000 +0000" stop="20260911034500 +0000">
 		<title>News</title>
 		<desc>An international news bulletin, presented live from the newsroom.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch724_news.jpg?w=341%26h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch724_the_news.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="724" start="20260911034500 +0000" stop="20260911040000 +0000">
 		<title>Arts24</title>
@@ -26675,12 +26680,12 @@ This episode explores identity, courage, and the freedom to look like yourself.<
 	<programme channel="724" start="20260911040000 +0000" stop="20260911042000 +0000">
 		<title>News</title>
 		<desc>An international news bulletin, presented live from the newsroom.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch724_news.jpg?w=341%26h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch724_the_news.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="724" start="20260911042000 +0000" stop="20260911042100 +0000">
 		<title>News</title>
 		<desc>An international news bulletin, presented live from the newsroom.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch724_news.jpg?w=341%26h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch724_the_news.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="724" start="20260911042100 +0000" stop="20260911043000 +0000">
 		<title>Focus</title>
@@ -26690,12 +26695,12 @@ This episode explores identity, courage, and the freedom to look like yourself.<
 	<programme channel="724" start="20260911043000 +0000" stop="20260911045000 +0000">
 		<title>News</title>
 		<desc>An international news bulletin, presented live from the newsroom.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch724_news.jpg?w=341%26h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch724_the_news.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="724" start="20260911045000 +0000" stop="20260911045100 +0000">
 		<title>News</title>
 		<desc>An international news bulletin, presented live from the newsroom.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch724_news.jpg?w=341%26h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch724_the_news.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="724" start="20260911045100 +0000" stop="20260911050000 +0000">
 		<title>Sports</title>
@@ -26705,7 +26710,7 @@ This episode explores identity, courage, and the freedom to look like yourself.<
 	<programme channel="724" start="20260911050000 +0000" stop="20260911052000 +0000">
 		<title>News</title>
 		<desc>An international news bulletin, presented live from the newsroom.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch724_news.jpg?w=341%26h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch724_the_news.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="724" start="20260911052000 +0000" stop="20260911053000 +0000">
 		<title>Press Review</title>
@@ -26715,12 +26720,12 @@ This episode explores identity, courage, and the freedom to look like yourself.<
 	<programme channel="724" start="20260911053000 +0000" stop="20260911060000 +0000">
 		<title>News</title>
 		<desc>An international news bulletin, presented live from the newsroom.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch724_news.jpg?w=341%26h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch724_the_news.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="724" start="20260911060000 +0000" stop="20260911062000 +0000">
 		<title>News</title>
 		<desc>An international news bulletin, presented live from the newsroom.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch724_news.jpg?w=341%26h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch724_the_news.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="724" start="20260911062000 +0000" stop="20260911063000 +0000">
 		<title>Global Grid</title>
@@ -26730,7 +26735,7 @@ This episode explores identity, courage, and the freedom to look like yourself.<
 	<programme channel="724" start="20260911063000 +0000" stop="20260911064500 +0000">
 		<title>News</title>
 		<desc>An international news bulletin, presented live from the newsroom.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch724_news.jpg?w=341%26h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch724_the_news.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="724" start="20260911064500 +0000" stop="20260911065000 +0000">
 		<title>Focus</title>
@@ -26745,12 +26750,12 @@ This episode explores identity, courage, and the freedom to look like yourself.<
 	<programme channel="724" start="20260911070000 +0000" stop="20260911071500 +0000">
 		<title>News</title>
 		<desc>An international news bulletin, presented live from the newsroom.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch724_news.jpg?w=341%26h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch724_the_news.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="724" start="20260911071500 +0000" stop="20260911071600 +0000">
 		<title>News</title>
 		<desc>An international news bulletin, presented live from the newsroom.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch724_news.jpg?w=341%26h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch724_the_news.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="724" start="20260911071600 +0000" stop="20260911073000 +0000">
 		<title>Tete a tete</title>
@@ -26760,7 +26765,7 @@ This episode explores identity, courage, and the freedom to look like yourself.<
 	<programme channel="724" start="20260911073000 +0000" stop="20260911074500 +0000">
 		<title>News</title>
 		<desc>An international news bulletin, presented live from the newsroom.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch724_news.jpg?w=341%26h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch724_the_news.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="724" start="20260911074500 +0000" stop="20260911075000 +0000">
 		<title>Focus</title>
@@ -26775,12 +26780,12 @@ This episode explores identity, courage, and the freedom to look like yourself.<
 	<programme channel="724" start="20260911080000 +0000" stop="20260911081500 +0000">
 		<title>News</title>
 		<desc>An international news bulletin, presented live from the newsroom.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch724_news.jpg?w=341%26h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch724_the_news.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="724" start="20260911081500 +0000" stop="20260911081600 +0000">
 		<title>News</title>
 		<desc>An international news bulletin, presented live from the newsroom.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch724_news.jpg?w=341%26h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch724_the_news.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="724" start="20260911081600 +0000" stop="20260911083000 +0000">
 		<title>Across Africa</title>
@@ -26790,12 +26795,12 @@ This episode explores identity, courage, and the freedom to look like yourself.<
 	<programme channel="724" start="20260911083000 +0000" stop="20260911084500 +0000">
 		<title>News</title>
 		<desc>An international news bulletin, presented live from the newsroom.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch724_news.jpg?w=341%26h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch724_the_news.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="724" start="20260911084500 +0000" stop="20260911084600 +0000">
 		<title>News</title>
 		<desc>An international news bulletin, presented live from the newsroom.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch724_news.jpg?w=341%26h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch724_the_news.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="724" start="20260911084600 +0000" stop="20260911085200 +0000">
 		<title>The Observers</title>
@@ -26810,12 +26815,12 @@ This episode explores identity, courage, and the freedom to look like yourself.<
 	<programme channel="724" start="20260911090000 +0000" stop="20260911091500 +0000">
 		<title>News</title>
 		<desc>An international news bulletin, presented live from the newsroom.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch724_news.jpg?w=341%26h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch724_the_news.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="724" start="20260911091500 +0000" stop="20260911091600 +0000">
 		<title>News</title>
 		<desc>An international news bulletin, presented live from the newsroom.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch724_news.jpg?w=341%26h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch724_the_news.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="724" start="20260911091600 +0000" stop="20260911092200 +0000">
 		<title>French Connections</title>
@@ -26830,12 +26835,12 @@ This episode explores identity, courage, and the freedom to look like yourself.<
 	<programme channel="724" start="20260911093000 +0000" stop="20260911094500 +0000">
 		<title>News</title>
 		<desc>An international news bulletin, presented live from the newsroom.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch724_news.jpg?w=341%26h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch724_the_news.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="724" start="20260911094500 +0000" stop="20260911094600 +0000">
 		<title>News</title>
 		<desc>An international news bulletin, presented live from the newsroom.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch724_news.jpg?w=341%26h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch724_the_news.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="724" start="20260911094600 +0000" stop="20260911100000 +0000">
 		<title>France In Focus</title>
@@ -26845,12 +26850,12 @@ This episode explores identity, courage, and the freedom to look like yourself.<
 	<programme channel="724" start="20260911100000 +0000" stop="20260911101500 +0000">
 		<title>News</title>
 		<desc>An international news bulletin, presented live from the newsroom.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch724_news.jpg?w=341%26h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch724_the_news.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="724" start="20260911101500 +0000" stop="20260911101600 +0000">
 		<title>News</title>
 		<desc>An international news bulletin, presented live from the newsroom.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch724_news.jpg?w=341%26h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch724_the_news.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="724" start="20260911101600 +0000" stop="20260911103000 +0000">
 		<title>Arts24</title>
@@ -26860,12 +26865,12 @@ This episode explores identity, courage, and the freedom to look like yourself.<
 	<programme channel="724" start="20260911103000 +0000" stop="20260911104500 +0000">
 		<title>News</title>
 		<desc>An international news bulletin, presented live from the newsroom.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch724_news.jpg?w=341%26h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch724_the_news.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="724" start="20260911104500 +0000" stop="20260911104600 +0000">
 		<title>News</title>
 		<desc>An international news bulletin, presented live from the newsroom.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch724_news.jpg?w=341%26h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch724_the_news.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="724" start="20260911104600 +0000" stop="20260911105100 +0000">
 		<title>Focus</title>
@@ -26880,7 +26885,7 @@ This episode explores identity, courage, and the freedom to look like yourself.<
 	<programme channel="724" start="20260911110000 +0000" stop="20260911111500 +0000">
 		<title>News</title>
 		<desc>An international news bulletin, presented live from the newsroom.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch724_news.jpg?w=341%26h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch724_the_news.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="724" start="20260911111500 +0000" stop="20260911113000 +0000">
 		<title>Scoop</title>
@@ -26890,7 +26895,7 @@ This episode explores identity, courage, and the freedom to look like yourself.<
 	<programme channel="724" start="20260911113000 +0000" stop="20260911114500 +0000">
 		<title>News</title>
 		<desc>An international news bulletin, presented live from the newsroom.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch724_news.jpg?w=341%26h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch724_the_news.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="724" start="20260911114500 +0000" stop="20260911120000 +0000">
 		<title>Entre Nous</title>
@@ -26900,7 +26905,7 @@ This episode explores identity, courage, and the freedom to look like yourself.<
 	<programme channel="724" start="20260911120000 +0000" stop="20260911121500 +0000">
 		<title>News</title>
 		<desc>An international news bulletin, presented live from the newsroom.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch724_news.jpg?w=341%26h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch724_the_news.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="724" start="20260911121500 +0000" stop="20260911123000 +0000">
 		<title>Entre Nous</title>
@@ -26910,7 +26915,7 @@ This episode explores identity, courage, and the freedom to look like yourself.<
 	<programme channel="724" start="20260911123000 +0000" stop="20260911125000 +0000">
 		<title>News</title>
 		<desc>An international news bulletin, presented live from the newsroom.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch724_news.jpg?w=341%26h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch724_the_news.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="724" start="20260911125000 +0000" stop="20260911130000 +0000">
 		<title>Culture Critics</title>
@@ -26920,12 +26925,12 @@ This episode explores identity, courage, and the freedom to look like yourself.<
 	<programme channel="724" start="20260911130000 +0000" stop="20260911131500 +0000">
 		<title>News</title>
 		<desc>An international news bulletin, presented live from the newsroom.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch724_news.jpg?w=341%26h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch724_the_news.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="724" start="20260911131500 +0000" stop="20260911131600 +0000">
 		<title>News</title>
 		<desc>An international news bulletin, presented live from the newsroom.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch724_news.jpg?w=341%26h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch724_the_news.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="724" start="20260911131600 +0000" stop="20260911133000 +0000">
 		<title>Tete a tete</title>
@@ -26935,12 +26940,12 @@ This episode explores identity, courage, and the freedom to look like yourself.<
 	<programme channel="724" start="20260911133000 +0000" stop="20260911134500 +0000">
 		<title>News</title>
 		<desc>An international news bulletin, presented live from the newsroom.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch724_news.jpg?w=341%26h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch724_the_news.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="724" start="20260911134500 +0000" stop="20260911134600 +0000">
 		<title>News</title>
 		<desc>An international news bulletin, presented live from the newsroom.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch724_news.jpg?w=341%26h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch724_the_news.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="724" start="20260911134600 +0000" stop="20260911140000 +0000">
 		<title>Access Asia</title>
@@ -26950,12 +26955,12 @@ This episode explores identity, courage, and the freedom to look like yourself.<
 	<programme channel="724" start="20260911140000 +0000" stop="20260911141500 +0000">
 		<title>News</title>
 		<desc>An international news bulletin, presented live from the newsroom.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch724_news.jpg?w=341%26h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch724_the_news.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="724" start="20260911141500 +0000" stop="20260911141600 +0000">
 		<title>News</title>
 		<desc>An international news bulletin, presented live from the newsroom.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch724_news.jpg?w=341%26h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch724_the_news.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="724" start="20260911141600 +0000" stop="20260911143000 +0000">
 		<title>The 51 Percent</title>
@@ -26965,12 +26970,12 @@ This episode explores identity, courage, and the freedom to look like yourself.<
 	<programme channel="724" start="20260911143000 +0000" stop="20260911144500 +0000">
 		<title>News</title>
 		<desc>An international news bulletin, presented live from the newsroom.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch724_news.jpg?w=341%26h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch724_the_news.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="724" start="20260911144500 +0000" stop="20260911144600 +0000">
 		<title>News</title>
 		<desc>An international news bulletin, presented live from the newsroom.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch724_news.jpg?w=341%26h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch724_the_news.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="724" start="20260911144600 +0000" stop="20260911150000 +0000">
 		<title>Arts24</title>
@@ -26980,12 +26985,12 @@ This episode explores identity, courage, and the freedom to look like yourself.<
 	<programme channel="724" start="20260911150000 +0000" stop="20260911151100 +0000">
 		<title>News</title>
 		<desc>An international news bulletin, presented live from the newsroom.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch724_news.jpg?w=341%26h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch724_the_news.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="724" start="20260911151100 +0000" stop="20260911151200 +0000">
 		<title>News</title>
 		<desc>An international news bulletin, presented live from the newsroom.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch724_news.jpg?w=341%26h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch724_the_news.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="724" start="20260911151200 +0000" stop="20260911152400 +0000">
 		<title>Reporters</title>
@@ -27000,12 +27005,12 @@ This episode explores identity, courage, and the freedom to look like yourself.<
 	<programme channel="724" start="20260911153000 +0000" stop="20260911154100 +0000">
 		<title>News</title>
 		<desc>An international news bulletin, presented live from the newsroom.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch724_news.jpg?w=341%26h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch724_the_news.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="724" start="20260911154100 +0000" stop="20260911154200 +0000">
 		<title>News</title>
 		<desc>An international news bulletin, presented live from the newsroom.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch724_news.jpg?w=341%26h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch724_the_news.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="724" start="20260911154200 +0000" stop="20260911160000 +0000">
 		<title>Paris des Arts</title>
@@ -27015,7 +27020,7 @@ This episode explores identity, courage, and the freedom to look like yourself.<
 	<programme channel="724" start="20260911160000 +0000" stop="20260911162000 +0000">
 		<title>News</title>
 		<desc>An international news bulletin, presented live from the newsroom.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch724_news.jpg?w=341%26h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch724_the_news.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="724" start="20260911162000 +0000" stop="20260911163000 +0000">
 		<title>Spotlight</title>
@@ -27025,7 +27030,7 @@ This episode explores identity, courage, and the freedom to look like yourself.<
 	<programme channel="724" start="20260911163000 +0000" stop="20260911165000 +0000">
 		<title>News</title>
 		<desc>An international news bulletin, presented live from the newsroom.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch724_news.jpg?w=341%26h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch724_the_news.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="724" start="20260911165000 +0000" stop="20260911170000 +0000">
 		<title>Sports</title>
@@ -27035,7 +27040,7 @@ This episode explores identity, courage, and the freedom to look like yourself.<
 	<programme channel="724" start="20260911170000 +0000" stop="20260911171000 +0000">
 		<title>News</title>
 		<desc>An international news bulletin, presented live from the newsroom.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch724_news.jpg?w=341%26h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch724_the_news.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="724" start="20260911171000 +0000" stop="20260911180000 +0000">
 		<title>The World This Week</title>
@@ -27045,12 +27050,12 @@ This episode explores identity, courage, and the freedom to look like yourself.<
 	<programme channel="724" start="20260911180000 +0000" stop="20260911181500 +0000">
 		<title>News</title>
 		<desc>An international news bulletin, presented live from the newsroom.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch724_news.jpg?w=341%26h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch724_the_news.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="724" start="20260911181500 +0000" stop="20260911181600 +0000">
 		<title>News</title>
 		<desc>An international news bulletin, presented live from the newsroom.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch724_news.jpg?w=341%26h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch724_the_news.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="724" start="20260911181600 +0000" stop="20260911183000 +0000">
 		<title>People And Profit</title>
@@ -27060,12 +27065,12 @@ This episode explores identity, courage, and the freedom to look like yourself.<
 	<programme channel="724" start="20260911183000 +0000" stop="20260911184500 +0000">
 		<title>News</title>
 		<desc>An international news bulletin, presented live from the newsroom.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch724_news.jpg?w=341%26h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch724_the_news.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="724" start="20260911184500 +0000" stop="20260911184600 +0000">
 		<title>News</title>
 		<desc>An international news bulletin, presented live from the newsroom.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch724_news.jpg?w=341%26h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch724_the_news.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="724" start="20260911184600 +0000" stop="20260911190000 +0000">
 		<title>Across Africa</title>
@@ -27075,7 +27080,7 @@ This episode explores identity, courage, and the freedom to look like yourself.<
 	<programme channel="724" start="20260911190000 +0000" stop="20260911191500 +0000">
 		<title>News</title>
 		<desc>An international news bulletin, presented live from the newsroom.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch724_news.jpg?w=341%26h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch724_the_news.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="724" start="20260911191500 +0000" stop="20260911193000 +0000">
 		<title>Tete a tete</title>
@@ -27085,7 +27090,7 @@ This episode explores identity, courage, and the freedom to look like yourself.<
 	<programme channel="724" start="20260911193000 +0000" stop="20260911194000 +0000">
 		<title>News</title>
 		<desc>An international news bulletin, presented live from the newsroom.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch724_news.jpg?w=341%26h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch724_the_news.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="724" start="20260911194000 +0000" stop="20260911200000 +0000">
 		<title>Eye on Africa</title>
@@ -27095,7 +27100,7 @@ This episode explores identity, courage, and the freedom to look like yourself.<
 	<programme channel="724" start="20260911200000 +0000" stop="20260911201500 +0000">
 		<title>News</title>
 		<desc>An international news bulletin, presented live from the newsroom.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch724_news.jpg?w=341%26h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch724_the_news.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="724" start="20260911201500 +0000" stop="20260911203000 +0000">
 		<title>The 51 Percent</title>
@@ -27105,7 +27110,7 @@ This episode explores identity, courage, and the freedom to look like yourself.<
 	<programme channel="724" start="20260911203000 +0000" stop="20260911204200 +0000">
 		<title>News</title>
 		<desc>An international news bulletin, presented live from the newsroom.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch724_news.jpg?w=341%26h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch724_the_news.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="724" start="20260911204200 +0000" stop="20260911210000 +0000">
 		<title>Eye on Africa</title>
@@ -27115,7 +27120,7 @@ This episode explores identity, courage, and the freedom to look like yourself.<
 	<programme channel="724" start="20260911210000 +0000" stop="20260911211500 +0000">
 		<title>News</title>
 		<desc>An international news bulletin, presented live from the newsroom.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch724_news.jpg?w=341%26h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch724_the_news.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="724" start="20260911211500 +0000" stop="20260911213000 +0000">
 		<title>Scoop</title>
@@ -27125,7 +27130,7 @@ This episode explores identity, courage, and the freedom to look like yourself.<
 	<programme channel="724" start="20260911213000 +0000" stop="20260911214500 +0000">
 		<title>News</title>
 		<desc>An international news bulletin, presented live from the newsroom.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch724_news.jpg?w=341%26h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch724_the_news.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="724" start="20260911214500 +0000" stop="20260911215000 +0000">
 		<title>Focus</title>
@@ -27140,7 +27145,7 @@ This episode explores identity, courage, and the freedom to look like yourself.<
 	<programme channel="724" start="20260911220000 +0000" stop="20260911221000 +0000">
 		<title>News</title>
 		<desc>An international news bulletin, presented live from the newsroom.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch724_news.jpg?w=341%26h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch724_the_news.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="724" start="20260911221000 +0000" stop="20260911230000 +0000">
 		<title>The World This Week</title>
@@ -27150,7 +27155,7 @@ This episode explores identity, courage, and the freedom to look like yourself.<
 	<programme channel="724" start="20260911230000 +0000" stop="20260911231500 +0000">
 		<title>News</title>
 		<desc>An international news bulletin, presented live from the newsroom.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch724_news.jpg?w=341%26h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch724_the_news.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="724" start="20260911231500 +0000" stop="20260911232100 +0000">
 		<title>French Connections</title>
@@ -27165,7 +27170,7 @@ This episode explores identity, courage, and the freedom to look like yourself.<
 	<programme channel="724" start="20260911233000 +0000" stop="20260911234500 +0000">
 		<title>News</title>
 		<desc>An international news bulletin, presented live from the newsroom.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch724_news.jpg?w=341%26h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch724_the_news.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="724" start="20260911234500 +0000" stop="20260912000000 +0000">
 		<title>Arts24</title>
@@ -27175,7 +27180,7 @@ This episode explores identity, courage, and the freedom to look like yourself.<
 	<programme channel="724" start="20260912000000 +0000" stop="20260912001500 +0000">
 		<title>News</title>
 		<desc>An international news bulletin, presented live from the newsroom.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch724_news.jpg?w=341%26h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch724_the_news.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="724" start="20260912001500 +0000" stop="20260912003000 +0000">
 		<title>People And Profit</title>
@@ -29152,14 +29157,9 @@ This episode explores identity, courage, and the freedom to look like yourself.<
 		<desc>The 114th drama serial follows two women, Rin (Mikami Ai) and Naomi (Kosaka Juri), who paved the way for nursing in the Meiji era. Each carries her own struggles, yet together they support one another as they race to protect the wounded and vulnerable, often standing up against powerful forces. Through conflicts and hardships, the two gradually grow. No matter which way the wind blows, this unconventional duo continues their journey in search of happiness.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
-	<programme channel="811" start="20260910231500 +0000" stop="20260911005400 +0000">
+	<programme channel="811" start="20260910231500 +0000" stop="20260911005500 +0000">
 		<title>asaichi</title>
 		<desc>Looking into topical information ranging from social issues to entertainment news through the eyes of the general public.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341%26h=192" />
-	</programme>
-	<programme channel="811" start="20260911005400 +0000" stop="20260911005500 +0000">
-		<title>World Weather</title>
-		<desc>Weather information of the different areas around the world.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
 	<programme channel="811" start="20260911005500 +0000" stop="20260911010000 +0000">
@@ -29202,17 +29202,17 @@ This episode explores identity, courage, and the freedom to look like yourself.<
 		<desc>Weather information of the different areas around the world.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
-	<programme channel="811" start="20260911030000 +0000" stop="20260911032000 +0000">
+	<programme channel="811" start="20260911030000 +0000" stop="20260911032200 +0000">
 		<title>News</title>
 		<desc>The latest up-to-date news from Tokyo.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
-	<programme channel="811" start="20260911032000 +0000" stop="20260911032500 +0000">
+	<programme channel="811" start="20260911032200 +0000" stop="20260911032700 +0000">
 		<title>Hello! NHK WORLD-JAPAN (R)</title>
 		<desc>Showcasing various programs and activities of NHK WORLD-JAPAN which provides the latest information on Japan and Asia to the global audience.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
-	<programme channel="811" start="20260911032500 +0000" stop="20260911033000 +0000">
+	<programme channel="811" start="20260911032700 +0000" stop="20260911033000 +0000">
 		<title>Mini Program</title>
 		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341%26h=192" />
@@ -29304,7 +29304,7 @@ This episode explores identity, courage, and the freedom to look like yourself.<
 	</programme>
 	<programme channel="811" start="20260911090000 +0000" stop="20260911091000 +0000">
 		<title>News (B)</title>
-		<desc>The latest up-to-date news from Tokyo.</desc>
+		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
 	<programme channel="811" start="20260911091000 +0000" stop="20260911092500 +0000">
@@ -30544,7 +30544,7 @@ This episode explores identity, courage, and the freedom to look like yourself.<
 	</programme>
 	<programme channel="815" start="20260912014000 +0000" stop="20260912022000 +0000">
 		<title>Pearl in Red - EP 1</title>
-		<desc>In this intense revenge chronicle, two women return under false identities to uncover the truths and sins hidden within the Adel family.</desc>
+		<desc>A meticulous and intense revenge chronicle in which two women return under false identities to uncover the truths and sins hidden within the Adel family.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch815_pearl_in_red.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="815" start="20260912022000 +0000" stop="20260912033500 +0000">
@@ -30564,7 +30564,7 @@ This episode explores identity, courage, and the freedom to look like yourself.<
 	</programme>
 	<programme channel="815" start="20260912051000 +0000" stop="20260912062000 +0000">
 		<title>Descendants of the Sun - EP 2</title>
-		<desc>Healing Romance set in beautiful Southern Country's nature. Believing in love, not in miracle, they try to make a miracle from their love. Here goes the story of the heroes in our mind.Every dream is bought for a fortune and some say that happiness is followed by success. Those who compromised only to succeed are extolled and those who fought against for justice are ridiculed for being reckless. The world is in which nobody is ashamed of saying "Greed is good." That's why we need a hero.</desc>
+		<desc>Healing Romance set in beautiful Southern Country's nature. Believing in love, not in miracle, they try to make a miracle from their love.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch815_descendants_of_the_sun.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="815" start="20260912062000 +0000" stop="20260912062500 +0000">
@@ -30574,8 +30574,8 @@ This episode explores identity, courage, and the freedom to look like yourself.<
 	</programme>
 	<programme channel="815" start="20260912062500 +0000" stop="20260912072000 +0000">
 		<title>Documentary 3 Days - EP 717</title>
-		<desc>The program condenses 72 hours of observation into 50 minutes.It captures the passage of time in a single place, revealing the "real" stories within. It is about the places we pass by, the people we overlook, and the things we forget in everyday life.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch815_documentary_3days.jpg?w=960%26h=540" />
+		<desc>The program condenses 72 hours of observation into 50 minutes.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch815_documentary_3_days.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="815" start="20260912072000 +0000" stop="20260912085000 +0000">
 		<title>Hometown Heroes : Baseball - EP 11</title>
@@ -31948,7 +31948,7 @@ This episode explores identity, courage, and the freedom to look like yourself.<
 		<icon src="https://poster.starhubgo.com/poster/ch827_cti_news.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="827" start="20260912120000 +0000" stop="20260912130000 +0000">
-		<title>Behind the Frame (120926)</title>
+		<title>Behind the Frame</title>
 		<desc>With refined cinematography, this series captures touching untold stories and showcases timeless architectural wonders across eras.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch827_BehindTHEFrame.jpg?w=960%26h=540" />
 	</programme>
@@ -32337,14 +32337,44 @@ This episode explores identity, courage, and the freedom to look like yourself.<
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
-	<programme channel="832" start="20260911170000 +0000" stop="20260911220000 +0000">
-		<title>Information Not Available</title>
-		<desc />
+	<programme channel="832" start="20260911170000 +0000" stop="20260911171200 +0000">
+		<title>ShanghaiEye</title>
+		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
-	<programme channel="832" start="20260911220000 +0000" stop="20260912040000 +0000">
-		<title>Information Not Available</title>
-		<desc />
+	<programme channel="832" start="20260911171200 +0000" stop="20260911180000 +0000">
+		<title>Dragon TV Primetime News</title>
+		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341%26h=192" />
+	</programme>
+	<programme channel="832" start="20260911180000 +0000" stop="20260911183000 +0000">
+		<title>Searching for flavor</title>
+		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341%26h=192" />
+	</programme>
+	<programme channel="832" start="20260911183000 +0000" stop="20260911190000 +0000">
+		<title>I LOVE SHANGHAI</title>
+		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341%26h=192" />
+	</programme>
+	<programme channel="832" start="20260911190000 +0000" stop="20260911220000 +0000">
+		<title>Cheer up!small shops</title>
+		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341%26h=192" />
+	</programme>
+	<programme channel="832" start="20260911220000 +0000" stop="20260911223000 +0000">
+		<title>New Entertainment</title>
+		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341%26h=192" />
+	</programme>
+	<programme channel="832" start="20260911223000 +0000" stop="20260911230000 +0000">
+		<title>CARE ON THE WAY</title>
+		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341%26h=192" />
+	</programme>
+	<programme channel="832" start="20260911230000 +0000" stop="20260912010000 +0000">
+		<title>Dragon TV Morning News</title>
+		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
 	<programme channel="832" start="20260912040000 +0000" stop="20260912100000 +0000">
@@ -32419,7 +32449,7 @@ This episode explores identity, courage, and the freedom to look like yourself.<
 	</programme>
 	<programme channel="838" start="20260911000000 +0000" stop="20260911010000 +0000">
 		<title>Return of the Cuckoo - EP 5</title>
-		<desc>Set in Macau's Rua de Cinco de Outubro, the drama follows mute Man Cho, raised by Aunt Q alongside her daughter Kwan‑Ho. As childhood friends become lovers, family secrets, class divides and a gentle rival spark a self‑sacrificing love triangle that tests</desc>
+		<desc>HO is impressed when she hears KIU refuse FAI’s money during KIU and FAI’s secret talk. SHUM discovers that FAI has offered KIU money and feels that her devotion to the family is wasted. She quickly arrives at a plan of action.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch838_return_of_the_cuckoo.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="838" start="20260911010000 +0000" stop="20260911013000 +0000">
@@ -32439,7 +32469,7 @@ This episode explores identity, courage, and the freedom to look like yourself.<
 	</programme>
 	<programme channel="838" start="20260911023000 +0000" stop="20260911030000 +0000">
 		<title>The Ahistoric Grandpa Cooking Show (Sr.5)</title>
-		<desc>Li Jiading (Master Ding), the tough guy, is undoubtedly a master of martial arts, but it turns out his culinary skills are equally impressive! Master Ding has set up "Master Ding's Kitchen," partnering with the discerning food connoisseur Tan Yuying.</desc>
+		<desc>Li Jiading (Master Ding), the tough guy, is undoubtedly a master of martial arts, but it turns out his culinary skills are equally impressive! Master Ding has set up "Master Ding's Kitchen," partnering with the discerning food connoisseur Tan Yuying. Each</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch838_the_ahistoric_grandpa_cooking_show_sr5.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="838" start="20260911030000 +0000" stop="20260911040000 +0000">
@@ -32454,7 +32484,7 @@ This episode explores identity, courage, and the freedom to look like yourself.<
 	</programme>
 	<programme channel="838" start="20260911043000 +0000" stop="20260911045500 +0000">
 		<title>Big Boys Club</title>
-		<desc>Big Boys Club is a youth talk show hosted by a group of close friends—Bob Lam, Oscar Leung, Derek Wong, Philip Fan, and Alan Chan.</desc>
+		<desc>Big Boys Club is a youth talk show hosted by a group of close friends—Bob Lam, Oscar Leung, Derek Wong, Philip Fan, and Alan Chan. In each episode, singers, entertainers, or guests from various fields are invited for relaxed interviews, presenting a wide</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch838_big_boys_club.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="838" start="20260911045500 +0000" stop="20260911052000 +0000">
@@ -32494,7 +32524,7 @@ This episode explores identity, courage, and the freedom to look like yourself.<
 	</programme>
 	<programme channel="838" start="20260911090000 +0000" stop="20260911093000 +0000">
 		<title>Big Boys Club</title>
-		<desc>Big Boys Club is a youth talk show hosted by a group of close friends—Bob Lam, Oscar Leung, Derek Wong, Philip Fan, and Alan Chan.</desc>
+		<desc>Big Boys Club is a youth talk show hosted by a group of close friends—Bob Lam, Oscar Leung, Derek Wong, Philip Fan, and Alan Chan. In each episode, singers, entertainers, or guests from various fields are invited for relaxed interviews, presenting a wide</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch838_big_boys_club.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="838" start="20260911093000 +0000" stop="20260911103000 +0000">
@@ -32514,12 +32544,12 @@ This episode explores identity, courage, and the freedom to look like yourself.<
 	</programme>
 	<programme channel="838" start="20260911120000 +0000" stop="20260911123000 +0000">
 		<title>Like Mother, Like Daughter - EP 25</title>
-		<desc>Public relations queen TONG MAN-LEI (Jinny Ng) raises her Gen Z daughter TONG SUM ( Desta Lee) alone and she is a control freak. MAN-LEI's mother, TONG CHO KA-BING (Stephanie Che), has spent half of her life supporting her husband and raising their childr</desc>
+		<desc>PR maven Tang Wanli's life turns chaotic when her estranged, newly-liberated mother unexpectedly moves in with her and her Gen Z daughter, igniting fierce multi-generational clashes. To make matters worse, a ruthless new rival threatens her job.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch838_like_mother_like_daughter.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="838" start="20260911123000 +0000" stop="20260911133000 +0000">
 		<title>Cause Of Death - EP 5</title>
-		<desc>Newly appointed female forensic pathologist Dr. Ching Chi-yan (Hera Chan) has always been inspired by Dr. Lam Sum (Willie Wai). And ever since Chi-yan was a kid, she has aspired to join the Forensic Pathology Service.</desc>
+		<desc>Rookie forensic pathologist Dr. Ching Chi-yan joins forces with sharp-tongued mentor Dr. Lam Sum and unlucky police officer Ko Chun. Together, this unlikely trio rely on keen scientific insights and sharp instincts to uncover hidden truths and crack compl</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch838_cause_of_death.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="838" start="20260911133000 +0000" stop="20260911143000 +0000">
@@ -32543,13 +32573,13 @@ This episode explores identity, courage, and the freedom to look like yourself.<
 		<icon src="https://poster.starhubgo.com/poster/ch838_news_roundup.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="838" start="20260911155000 +0000" stop="20260911160000 +0000">
-		<title>Global View</title>
+		<title>Global View (110926)</title>
 		<desc>Global View, curated by seasoned journalists, guides you to view the world with a global perspective—broadening your horizons, expanding your understanding of the news, and enriching your knowledge.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch838_global_view.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="838" start="20260911160000 +0000" stop="20260911163000 +0000">
 		<title>Big Boys Club</title>
-		<desc>" Big Boys Club" is a youth talk show hosted by a group of close friends—Bob Lam, Oscar Leung, Derek Wong, Philip Fan, and Alan Chan. In each episode, singers, entertainers, or guests from various fields are invited for relaxed interviews, presenting a wide range of topics including current social issues, pop culture, and trending interests. Matters of love, relationships, and even same-sex relationships are endlessly discussed topics for men and women alike.</desc>
+		<desc>Big Boys Club is a youth talk show hosted by a group of close friends—Bob Lam, Oscar Leung, Derek Wong, Philip Fan, and Alan Chan. In each episode, singers, entertainers, or guests from various fields are invited for relaxed interviews, presenting a wide</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch838_big_boys_club.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="838" start="20260911163000 +0000" stop="20260911173000 +0000">
@@ -32559,27 +32589,27 @@ This episode explores identity, courage, and the freedom to look like yourself.<
 	</programme>
 	<programme channel="838" start="20260911173000 +0000" stop="20260911183000 +0000">
 		<title>Cause Of Death %26 Whats On Today - EP 5</title>
-		<desc>Ko Chun discovers from CCTV footage that T-Rex’s minions Badass and Sharky had entered and exited the carpentry workshop on the night of the crime.</desc>
+		<desc>Rookie forensic pathologist Dr. Ching Chi-yan joins forces with sharp-tongued mentor Dr. Lam Sum and unlucky police officer Ko Chun. Together, this unlikely trio rely on keen scientific insights and sharp instincts to uncover hidden truths and crack compl</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch838_cause_of_death.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="838" start="20260911183000 +0000" stop="20260911190000 +0000">
 		<title>Like Mother, Like Daughter - EP 25</title>
-		<desc>YEUNG KWONG falls out with YEUNG FAN and pours his heart out to TONG SUM, MAN-LEI and KA-BING.</desc>
+		<desc>PR maven Tang Wanli's life turns chaotic when her estranged, newly-liberated mother unexpectedly moves in with her and her Gen Z daughter, igniting fierce multi-generational clashes. To make matters worse, a ruthless new rival threatens her job.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch838_like_mother_like_daughter.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="838" start="20260911190000 +0000" stop="20260911193000 +0000">
 		<title>Scoop 2026</title>
-		<desc>"Scoop" airs from Monday to Sunday, closely following major social events and interesting stories, while also reporting the latest updates in the entertainment industry, celebrity news, as well as drama promotions and behind-the-scenes features.</desc>
+		<desc>Scoop airs from Monday to Sunday, closely following major social events and interesting stories, while also reporting the latest updates in the entertainment industry, celebrity news, as well as drama promotions and behind-the-scenes features.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch838_scoop_2026.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="838" start="20260911193000 +0000" stop="20260911200000 +0000">
 		<title>Her Railway Trip</title>
-		<desc>Japan's railway world is incredibly diverse, stretching from winding valleys to coastal lines. Every train window is like a flowing landscape painting, captivating railway enthusiasts.</desc>
+		<desc>Japan's railway world is incredibly diverse, stretching from winding valleys to coastal lines. Every train window is like a flowing landscape painting, captivating railway enthusiasts. In recent years, it has also attracted many women, giving rise to the</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch838_her_railway_trip.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="838" start="20260911200000 +0000" stop="20260911210000 +0000">
 		<title>Story of Kunning Palace - EP 20</title>
-		<desc>Xie Wei takes Ding-fei back to the capital to see the Emperor. A speech causes Xue Yuan to acknowledge Ding-fei.</desc>
+		<desc>Jiang Xuening goes through ups and downs to rise as a queen, but is forced to commit suicide when a palace coup takes place. After being 'reborn', she sets out to uncover the truth of the past and rewrite the outcome of her life.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch838_story_of_kunning_palace.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="838" start="20260911210000 +0000" stop="20260911214500 +0000">
@@ -32588,7 +32618,7 @@ This episode explores identity, courage, and the freedom to look like yourself.<
 		<icon src="https://poster.starhubgo.com/poster/ch838_big_city_shop.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="838" start="20260911214500 +0000" stop="20260911220000 +0000">
-		<title>Happy Old Buddies</title>
+		<title>Happy Old Buddies (120926)</title>
 		<desc>Many people may think that older adults do not have sexual needs, but surveys have shown that this is not the case—older adults often experience less sexual activity due to various reasons.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch838_happy_old_buddies.jpg?w=341%26h=192" />
 	</programme>
@@ -32599,16 +32629,16 @@ This episode explores identity, courage, and the freedom to look like yourself.<
 	</programme>
 	<programme channel="838" start="20260911223000 +0000" stop="20260911230000 +0000">
 		<title>Scoop 2026</title>
-		<desc>"Scoop" airs from Monday to Sunday, closely following major social events and interesting stories, while also reporting the latest updates in the entertainment industry, celebrity news, as well as drama promotions and behind-the-scenes features.</desc>
+		<desc>Scoop airs from Monday to Sunday, closely following major social events and interesting stories, while also reporting the latest updates in the entertainment industry, celebrity news, as well as drama promotions and behind-the-scenes features.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch838_scoop_2026.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="838" start="20260911230000 +0000" stop="20260912000000 +0000">
-		<title>Good Morning Hong Kong</title>
+		<title>Good Morning Hong Kong (120926)</title>
 		<desc>Report important news about Hong Kong, cross-strait, and international affairs.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch838_good_morning_hongkong.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="838" start="20260912000000 +0000" stop="20260912010000 +0000">
-		<title>Grow Grow Grow With You</title>
+		<title>Grow Grow Grow With You (120926)</title>
 		<desc>From "Hopscotch" to "Hands Up," TVB's children's programs have accompanied children's growth, creating countless wonderful childhood memories.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch838_grow_grow_grow_with_you.jpg?w=341%26h=192" />
 	</programme>
@@ -32624,17 +32654,17 @@ This episode explores identity, courage, and the freedom to look like yourself.<
 	</programme>
 	<programme channel="838" start="20260912020000 +0000" stop="20260912030000 +0000">
 		<title>Ratman To The Rescue - EP 7</title>
-		<desc>A reporter loses his ear in an accident, but when a transplant gives him mouse-like superpowers, he finds new purpose in fighting crime.</desc>
+		<desc>Gossip magazine journalist Tong Leung-sing (Sammy) has unfortunately lost his left ear in a traffic accident. He gains mystical rat power after undergoing transplant surgery.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch838_ratman_to_the_rescue.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="838" start="20260912030000 +0000" stop="20260912040000 +0000">
 		<title>Ratman To The Rescue - EP 8</title>
-		<desc>A reporter loses his ear in an accident, but when a transplant gives him mouse-like superpowers, he finds new purpose in fighting crime.</desc>
+		<desc>Gossip magazine journalist Tong Leung-sing (Sammy) has unfortunately lost his left ear in a traffic accident. He gains mystical rat power after undergoing transplant surgery.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch838_ratman_to_the_rescue.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="838" start="20260912040000 +0000" stop="20260912043000 +0000">
 		<title>Scoop 2026</title>
-		<desc>Scoop airs from Monday to Sunday, closely following major social events and interesting stories, while also reporting the latest updates in the entertainment industry, celebrity news, as well as drama promotions and behind-the-scenes features.</desc>
+		<desc>"Scoop" airs from Monday to Sunday, closely following major social events and interesting stories, while also reporting the latest updates in the entertainment industry, celebrity news, as well as drama promotions and behind-the-scenes features.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch838_scoop_2026.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="838" start="20260912043000 +0000" stop="20260912050000 +0000">
@@ -32644,32 +32674,32 @@ This episode explores identity, courage, and the freedom to look like yourself.<
 	</programme>
 	<programme channel="838" start="20260912050000 +0000" stop="20260912053000 +0000">
 		<title>Want To De-stress</title>
-		<desc>Many urban dwellers are constantly striving for a living and a career, leaving no time for relaxation. The accumulated stress can quickly trigger health problems.</desc>
+		<desc>Many urban dwellers are constantly striving for a living and a career, leaving no time for relaxation.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch838_want_to_destress.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="838" start="20260912053000 +0000" stop="20260912060000 +0000">
 		<title>ChatSAT</title>
-		<desc>It will do its utmost to gather the trendiest and latest information from around the world, covering everything from global events, medical encyclopedias, arts, and technology to daily life and trending online topics, sharing them with the audience every</desc>
+		<desc>It will do its utmost to gather the trendiest and latest information from around the world, covering everything from global events, medical encyclopedias, arts, and technology to daily life and trending online topics, sharing them with the audience every Saturday.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch838_chatsat.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="838" start="20260912060000 +0000" stop="20260912063000 +0000">
 		<title>Try It? Really? (Sr.2)</title>
-		<desc>The dating reality show "A Date with Goddess" is back with a bang, and the second season's love battlefield is all upgraded! "Golden Matchmaker" Bob Lam is recruiting men from around the world to pair up goddesses Ho Pei-Chia, Kuo Pei-Wen, Chen Ruo-Si, Yu</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch838_tvb_logo.jpg?w=341%26h=192" />
+		<desc>Elena Kong once again leads the team, joining forces with Cheung Chun-long, Chu Man-han, Ng Yip-kwan, and Tseng Zhan-wang to form the "Try It Out Team," returning with acclaim after the hit first season and enthusiastic praise from netizens.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch838_try_it_really_sr2.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="838" start="20260912063000 +0000" stop="20260912073000 +0000">
 		<title>A Date with Goddess (Sr.2)</title>
-		<desc>The dating reality show "A Date with Goddess" is back with a bang, and the second season's love battlefield is all upgraded! "Golden Matchmaker" Bob Lam is recruiting men from around the world to pair up goddesses Ho Pei-Chia, Kuo Pei-Wen, Chen Ruo-Si, Yu</desc>
+		<desc>The dating reality show "A Date with Goddess" is back with a bang, and the second season's love battlefield is all upgraded!</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch838_a_date_with_goddess_sr2.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="838" start="20260912073000 +0000" stop="20260912080000 +0000">
 		<title>Dear Leslie 70</title>
-		<desc>TVB Jade brings you endless entertainment with concurrent dramas and sitcoms, as well as the latest news, variety and infotainment programmes from TVB.</desc>
+		<desc>2026 marks the 70th anniversary of the birth of legendary singer Leslie Cheung. No matter how many years have passed, he remains an irreplaceable and eternal legend in the hearts of countless fans.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch838_dear_leslie_70.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="838" start="20260912080000 +0000" stop="20260912083000 +0000">
 		<title>Star Weekly</title>
-		<desc>The talk show "Star Weekly" invites celebrities and industry leaders each episode, along with entertainment anchors such as Au Wing-Kuen, Hsu Wen-Hsuan, and Wang Chen-Chuan, to share their recent work plans and discuss special topics related to movies, te</desc>
+		<desc>The talk show "Star Weekly" invites celebrities and industry leaders each episode, along with entertainment anchors such as Au Wing-Kuen, Hsu Wen-Hsuan, and Wang Chen-Chuan, to share their recent work plans and discuss special topics related to movies, television, and concerts, especially people and events that netizens and friends in the industry are concerned about and discussing!</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch838_star_weekly.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="838" start="20260912083000 +0000" stop="20260912090000 +0000">
@@ -32679,12 +32709,12 @@ This episode explores identity, courage, and the freedom to look like yourself.<
 	</programme>
 	<programme channel="838" start="20260912090000 +0000" stop="20260912093000 +0000">
 		<title>The Ahistoric Grandpa Cooking Show (Sr.5)</title>
-		<desc>Li Jiading (Master Ding), the tough guy, is undoubtedly a master of martial arts, but it turns out his culinary skills are equally impressive! Master Ding has set up "Master Ding's Kitchen," partnering with the discerning food connoisseur Tan Yuying.</desc>
+		<desc>Li Jiading (Master Ding), the tough guy, is undoubtedly a master of martial arts, but it turns out his culinary skills are equally impressive!</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch838_the_ahistoric_grandpa_cooking_show_sr5.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="838" start="20260912093000 +0000" stop="20260912103000 +0000">
 		<title>ChatSAT</title>
-		<desc>It will do its utmost to gather the trendiest and latest information from around the world, covering everything from global events, medical encyclopedias, arts, and technology to daily life and trending online topics, sharing them with the audience every</desc>
+		<desc>It will do its utmost to gather the trendiest and latest information from around the world, covering everything from global events, medical encyclopedias, arts, and technology to daily life and trending online topics, sharing them with the audience every Saturday.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch838_chatsat.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="838" start="20260912103000 +0000" stop="20260912110000 +0000">
@@ -32694,12 +32724,12 @@ This episode explores identity, courage, and the freedom to look like yourself.<
 	</programme>
 	<programme channel="838" start="20260912110000 +0000" stop="20260912113500 +0000">
 		<title>News Magazine 2026 %26 Yes, Boss.</title>
-		<desc>News Perspective is a weekly program featuring in-depth coverage of notable news stories from Hong Kong and around the world. It focuses on social issues that matter most to Hong Kong residents and invites people from various sectors, scholars, and expert</desc>
+		<desc>"News Perspective" is a weekly program featuring in-depth coverage of notable news stories from Hong Kong and around the world. It focuses on social issues that matter most to Hong Kong residents and invites people from various sectors, scholars, and experts to discuss and analyze the underlying causes and developments.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch838_news_magazine_2026.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="838" start="20260912113500 +0000" stop="20260912120000 +0000">
 		<title>Scoop 2026</title>
-		<desc>Scoop airs from Monday to Sunday, closely following major social events and interesting stories, while also reporting the latest updates in the entertainment industry, celebrity news, as well as drama promotions and behind-the-scenes features.</desc>
+		<desc>"Scoop" airs from Monday to Sunday, closely following major social events and interesting stories, while also reporting the latest updates in the entertainment industry, celebrity news, as well as drama promotions and behind-the-scenes features.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch838_scoop_2026.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="838" start="20260912120000 +0000" stop="20260912123000 +0000">
@@ -32709,7 +32739,7 @@ This episode explores identity, courage, and the freedom to look like yourself.<
 	</programme>
 	<programme channel="838" start="20260912123000 +0000" stop="20260912130000 +0000">
 		<title>Thai Rogered (Sr.11)</title>
-		<desc>Thailand expert Hu Huichong once again leads the "Tom Yum Family" members to introduce the latest travel information in Bangkok, including glamorous massage parlors with perfect photo spots, newly opened shopping malls with sky parks, and buffet restauran</desc>
+		<desc>"Thailand expert" Hu Huichong once again leads the "Tom Yum Family" members to introduce the latest travel information in Bangkok, including glamorous massage parlors with perfect photo spots, newly opened shopping malls with sky parks, and buffet restaurants hailed as the pinnacle of Bangkok tourism.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch838_thai_rogered_sr11.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="838" start="20260912130000 +0000" stop="20260912140000 +0000">
@@ -32719,7 +32749,7 @@ This episode explores identity, courage, and the freedom to look like yourself.<
 	</programme>
 	<programme channel="838" start="20260912140000 +0000" stop="20260912150000 +0000">
 		<title>You Are Not Alone Again</title>
-		<desc>‘You Are Not Alone’ triumphantly returns! In its second season, the show is once again led by the ‘King of Ghosts’ Leung Si Ho, together with co-hosts Wong Yiu Ying and Wong Chi Yan, as well as editors Wong Ying Yeuk and Tong Chi Yan, bringing audiences e</desc>
+		<desc>"‘You Are Not Alone’ triumphantly returns! In its second season, the show is once again led by the ‘King of Ghosts’ Leung Si Ho, together with co-hosts Wong Yiu Ying and Wong Chi Yan, as well as editors Wong Ying Yeuk and Tong Chi Yan, bringing audiences even more frights and surprises.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch838_you_are_not_alone_again.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="838" start="20260912150000 +0000" stop="20260912153000 +0000">
@@ -32729,7 +32759,7 @@ This episode explores identity, courage, and the freedom to look like yourself.<
 	</programme>
 	<programme channel="838" start="20260912153000 +0000" stop="20260912160000 +0000">
 		<title>ChatSAT</title>
-		<desc>It will do its utmost to gather the trendiest and latest information from around the world, covering everything from global events, medical encyclopedias, arts, and technology to daily life and trending online topics, sharing them with the audience every</desc>
+		<desc>It will do its utmost to gather the trendiest and latest information from around the world, covering everything from global events, medical encyclopedias, arts, and technology to daily life and trending online topics, sharing them with the audience every Saturday.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch838_chatsat.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="852" start="20260910160000 +0000" stop="20260910170000 +0000">
