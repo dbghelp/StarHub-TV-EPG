@@ -5526,9 +5526,9 @@
 		<icon src="https://poster.starhubgo.com/poster/ch135_bigg_boss_tamil.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="135" start="20260912150000 +0000" stop="20260912160000 +0000">
-		<title>TBA</title>
-		<desc>The name of the program is yet to be announced by the channel.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch135_tba.jpg?w=341%26h=192" />
+		<title>Chinna Marumagal Panirendaam Vaguppu Sendra Vaaram - EP 76</title>
+		<desc>Forced into union with a patriarch's son, an ambitious Tamizhselvi faces the trials of being the youngest daughter-in-law. How will she navigate the challenges?</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch135_chinna_marumagal_panirendaam_vaguppu_sendra_vaaram.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="135" start="20260912160000 +0000" stop="20260912163000 +0000">
 		<title>Pandian Stores Thanthai Sol Mikka Mandhi - EP 887</title>
@@ -5580,10 +5580,15 @@
 		<desc>Contestants live together under constant camera surveillance, competing in tough tasks and facing public votes to survive eliminations in Bigg Boss Tamil S10.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch135_bigg_boss_tamil.jpg?w=960%26h=540" />
 	</programme>
-	<programme channel="135" start="20260912220000 +0000" stop="20260913000000 +0000">
-		<title>TBA</title>
-		<desc>The name of the program is yet to be announced by the channel.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch135_tba.jpg?w=341%26h=192" />
+	<programme channel="135" start="20260912220000 +0000" stop="20260912223000 +0000">
+		<title>Bigg Boss Tamil S10 Plus - EP 5</title>
+		<desc>Tune into this exciting Bigg Boss Tamil spin-off, where non-celebrity contestants compete in challenging tasks and screening rounds for a chance to earn a coveted spot in the Bigg Boss house.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch135_bigg_boss_tamil.jpg?w=960%26h=540" />
+	</programme>
+	<programme channel="135" start="20260912223000 +0000" stop="20260913000000 +0000">
+		<title>Super Singer Junior S11 - EP 36</title>
+		<desc>Talented kids including Aarav and Diya compete through powerful performances, hoping to impress judges and win the prestigious singing championship.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch135_super_singer_junior_s11.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="135" start="20260913000000 +0000" stop="20260913003000 +0000">
 		<title>Pandian Stores Thanthai Sol Mikka Mandhi - EP 887</title>
@@ -5603,11 +5608,6 @@
 	<programme channel="135" start="20260913013000 +0000" stop="20260913023000 +0000">
 		<title>Bigg Boss Tamil S10 - EP 6</title>
 		<desc>Contestants live together under constant camera surveillance, competing in tough tasks and facing public votes to survive eliminations in Bigg Boss Tamil S10.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch135_bigg_boss_tamil.jpg?w=960%26h=540" />
-	</programme>
-	<programme channel="135" start="20260913023000 +0000" stop="20260913030000 +0000">
-		<title>Bigg Boss Tamil S10 Plus - EP 5</title>
-		<desc>Tune into this exciting Bigg Boss Tamil spin-off, where non-celebrity contestants compete in challenging tasks and screening rounds for a chance to earn a coveted spot in the Bigg Boss house.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch135_bigg_boss_tamil.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="135" start="20260913030000 +0000" stop="20260913043000 +0000">
@@ -8893,9 +8893,9 @@ Could it work without Ibiza losing what made it famous?</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch158_vadivelu_special.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="158" start="20260912103000 +0000" stop="20260912113000 +0000">
-		<title>Sirigama Pathani</title>
-		<desc>Sirigama Pathani showcases comedy clips played back-to-back, with the motive of giving you non-stop laughter!</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch158_sirigama_pathani.jpg?w=341%26h=192" />
+		<title>Adithya Paarunga Aarokyama Irunga</title>
+		<desc>Tune in to this magazine programme, that also features live interaction with callers!</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch158_adithya_paarunga_aarokyama_Irunga.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="158" start="20260912113000 +0000" stop="20260912123000 +0000">
 		<title>Adithya Paarunga Sirichute Irunga</title>
@@ -8961,11 +8961,6 @@ Could it work without Ibiza losing what made it famous?</desc>
 		<title>Aanantha Sirippu</title>
 		<desc>Stand by for a hearty dose of light-hearted entertainment and more funny moments on this programme!</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch158_aanantha_sirippu.jpg?w=960%26h=540" />
-	</programme>
-	<programme channel="158" start="20260913023000 +0000" stop="20260913033000 +0000">
-		<title>Adithya Paarunga Aarokyama Irunga</title>
-		<desc>Tune in to this magazine programme, that also features live interaction with callers!</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch158_adithya_paarunga_aarokyama_Irunga.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="158" start="20260913033000 +0000" stop="20260913040000 +0000">
 		<title>Sirithaley Inikkum</title>
@@ -9452,17 +9447,12 @@ Could it work without Ibiza losing what made it famous?</desc>
 		<desc>The Irish Open is a professional golf tournament on the European Tour. The Irish Open was first played in 1927. It's one of the biggest events on the European golf calendar and is known for showcasing top-tier golf at iconic Irish venues.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch203_dp_world_tour.jpg?w=960%26h=540" />
 	</programme>
-	<programme channel="203" start="20260912183000 +0000" stop="20260912200000 +0000">
+	<programme channel="203" start="20260912183000 +0000" stop="20260912220000 +0000">
 		<title>End of Transmission</title>
 		<desc>End of Transmission</desc>
 		<icon src="https://poster.starhubgo.com/Linear_Channels2/203_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
-	<programme channel="203" start="20260912200000 +0000" stop="20260912230000 +0000">
-		<title>Korn Ferry Tour 2026</title>
-		<desc>The Simmons Bank Open is a Korn Ferry Tour event that is part of the Korn Ferry Tour Finals. It is held at the Vanderbilt Legends Club in Franklin, Tennessee. It is a significant event, as it is one of the 4 tournaments that make up the Korn Ferry Tour Finals, which determine which players earn PGA TOUR cards for the following season.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch203_korn_ferry_tour.jpg?w=960%26h=540" />
-	</programme>
-	<programme channel="203" start="20260912230000 +0000" stop="20260913040000 +0000">
+	<programme channel="203" start="20260912220000 +0000" stop="20260913040000 +0000">
 		<title>End of Transmission</title>
 		<desc>End of Transmission</desc>
 		<icon src="https://poster.starhubgo.com/Linear_Channels2/203_1920x1080_HTV.png?w=341%26h=192" />
@@ -25547,25 +25537,15 @@ Could it work without Ibiza losing what made it famous?</desc>
 		<desc>CNN producer Lamide Akintobi rode with U.S. rapper Rick Ross and Nigerian singers Spyro, Kah-Lo, Falana and Chella as they discussed their journey.​</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch711_cnni_placeholder.jpg?w=341%26h=192" />
 	</programme>
-	<programme channel="711" start="20260912070000 +0000" stop="20260912073000 +0000">
+	<programme channel="711" start="20260912070000 +0000" stop="20260912080000 +0000">
 		<title>CNN Newsroom</title>
 		<desc>Live context and clarity to the day's top stories from around the world.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch711_cnn_newsroom.jpg?w=960%26h=540" />
 	</programme>
-	<programme channel="711" start="20260912073000 +0000" stop="20260912080000 +0000">
-		<title>Connecting Africa</title>
-		<desc>From futuristic transport systems in North Africa to the rise of AI-powered data infrastructure, we explore how major projects are economic growth.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch711_connecting_africa.jpg?w=960%26h=540" />
-	</programme>
-	<programme channel="711" start="20260912080000 +0000" stop="20260912083000 +0000">
+	<programme channel="711" start="20260912080000 +0000" stop="20260912090000 +0000">
 		<title>CNN Newsroom</title>
 		<desc>Live context and clarity to the day's top stories from around the world.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch711_cnn_newsroom.jpg?w=960%26h=540" />
-	</programme>
-	<programme channel="711" start="20260912083000 +0000" stop="20260912090000 +0000">
-		<title>CNN Creators</title>
-		<desc>The CNN Creators look back on their most viral stories from 2026 so far.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch711_cnn_creators.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="711" start="20260912090000 +0000" stop="20260912100000 +0000">
 		<title>CNN Newsroom</title>
@@ -29614,22 +29594,22 @@ Could it work without Ibiza losing what made it famous?</desc>
 	</programme>
 	<programme channel="812" start="20260911233000 +0000" stop="20260912000000 +0000">
 		<title>Grand Sumo Preview</title>
-		<desc>NHK World-Japan will air its Grand Sumo preview for the tourney starting September 13. Our reporter visits the city to meet wrestlers and find out their secret of winning.</desc>
+		<desc>NHK WORLD-JAPAN will air its Grand Sumo preview for the tourney starting September 13. Our reporter visits the city to meet wrestlers and find out their secret of winning.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch374_grand_sumo_preview.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="812" start="20260912000000 +0000" stop="20260912001000 +0000">
 		<title>NHK Newsline</title>
-		<desc>NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.</desc>
+		<desc>NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch374_NHKNewsline.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="812" start="20260912001000 +0000" stop="20260912010000 +0000">
 		<title>Documentary 360</title>
-		<desc>This flagship documentary series offers must-see episodes on politics, the economy, social trends, science and the environment in Japan and beyond.</desc>
+		<desc>Manga artist Mizuki Shigeru's masterpiece "White Flag" comes to life as an anime. His story was based on a WWII soldier who defied his superiors to protect his men. What truly happened on "Iwo Jima"?</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch374_Documentary360.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="812" start="20260912010000 +0000" stop="20260912011000 +0000">
 		<title>NHK Newsline</title>
-		<desc>NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.</desc>
+		<desc>NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch374_NHKNewsline.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="812" start="20260912011000 +0000" stop="20260912020000 +0000">
@@ -29639,17 +29619,17 @@ Could it work without Ibiza losing what made it famous?</desc>
 	</programme>
 	<programme channel="812" start="20260912020000 +0000" stop="20260912021000 +0000">
 		<title>NHK Newsline</title>
-		<desc>NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.</desc>
+		<desc>NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch374_NHKNewsline.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="812" start="20260912021000 +0000" stop="20260912030000 +0000">
 		<title>Cycle Around Japan</title>
-		<desc>We explore Osaka, a prefecture known for its great cuisine, as we meet a couple who fish for daggertooth pike conger (hamo) which taste great in summer, a farmer growing juicy eggplants and much more.</desc>
+		<desc>We explore Osaka, a prefecture known for its great cuisine. We meet a couple who fish for daggertooth pike conger (hamo), which taste great in summer, a farmer growing juicy eggplants, and much more.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch374_CycleAroundJapan.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="812" start="20260912030000 +0000" stop="20260912031000 +0000">
 		<title>NHK Newsline</title>
-		<desc>NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.</desc>
+		<desc>NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch374_NHKNewsline.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="812" start="20260912031000 +0000" stop="20260912034000 +0000">
@@ -29659,23 +29639,23 @@ Could it work without Ibiza losing what made it famous?</desc>
 	</programme>
 	<programme channel="812" start="20260912034000 +0000" stop="20260912035000 +0000">
 		<title>Story Land in Classical Japanese</title>
-		<desc>This programme presents masterpieces of classical Japanese literature - in both original forms and modern translations - with easy-to-understand imagery that conveys the world view of ancient Japan.</desc>
+		<desc>This programme presents masterpieces of classical Japanese literature in both their original forms and modern translations, with easy-to-understand imagery that conveys the worldview of ancient Japan.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch374_story_land_in_classical_japanese.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="812" start="20260912035000 +0000" stop="20260912040000 +0000">
 		<title>Mitateru-phose</title>
-		<desc>This programme employs 'mitateru', a Japanese technique, to inspire children's imagination by encouraging them to view objects differently and develop their unique perspectives and creativity.</desc>
+		<desc>This programme employs "mitateru," a Japanese technique, to inspire children's imagination by encouraging them to view objects differently and develop their unique perspectives and creativity.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch374_MitateruPhose.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="812" start="20260912040000 +0000" stop="20260912041000 +0000">
 		<title>NHK Newsline</title>
-		<desc>NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.</desc>
+		<desc>NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch374_NHKNewsline.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="812" start="20260912041000 +0000" stop="20260912044000 +0000">
-		<title>Time and Tide</title>
-		<desc>This programme transcends time to detail extraordinary historical events in Japan and the world - join NHK World-Japan on a journey that reveals the truth behind some of the turning points of history.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch374_TimeandTide.jpg?w=960%26h=540" />
+		<title>Samurai Castles</title>
+		<desc>Takeda Castle, the "Castle in the Sky" never saw battle and has been desolate for about 420 years. Only the stone walls remain. Archaeological excavations help us reimagine the castle in its heyday.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch374_samurai_castles.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="812" start="20260912044000 +0000" stop="20260912050000 +0000">
 		<title>Time-Lapse Journey</title>
@@ -29684,37 +29664,37 @@ Could it work without Ibiza losing what made it famous?</desc>
 	</programme>
 	<programme channel="812" start="20260912050000 +0000" stop="20260912051000 +0000">
 		<title>NHK Newsline</title>
-		<desc>NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.</desc>
+		<desc>NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch374_NHKNewsline.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="812" start="20260912051000 +0000" stop="20260912052500 +0000">
 		<title>Bosai: Science That Can Save Your Life</title>
-		<desc>Osaka, a city that thrives on rivers, has faced countless flood damage - find out the latest measures protecting the city from typhoons and heavy rain.</desc>
+		<desc>Osaka, a city that thrives on rivers, has faced countless flood damage. Find out the latest measures protecting the city from typhoons and heavy rain.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch374_BosaiScience.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="812" start="20260912052500 +0000" stop="20260912053000 +0000">
 		<title>Design Museum Japan</title>
-		<desc>Ehime / Nagazumi Takashi (musician). Nagazumi visits a town with a great number of trowel reliefs, and observes that the things that truly last are the ones that carry the creator's intention.</desc>
+		<desc>Ehime / Nagazumi Takashi (musician) Nagazumi visits a town with a great number of trowel reliefs, and observes that the things that truly last are the ones that carry the creator's intention.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch374_DesignMuseumJapan.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="812" start="20260912053000 +0000" stop="20260912060000 +0000">
 		<title>Kabuki Kool</title>
-		<desc>Actor Kataoka Ainosuke explores two acts from a gidayu kyogen play that's a fantastical, dramatic, and deeply moving piece of theatre.</desc>
+		<desc>Actor Kataoka Ainosuke explores 2 acts from this gidayu kyogen play. It's a fantastical, dramatic, and deeply moving piece of theatre.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch374_KabukiKool.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="812" start="20260912060000 +0000" stop="20260912061000 +0000">
 		<title>NHK Newsline</title>
-		<desc>NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.</desc>
+		<desc>NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch374_NHKNewsline.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="812" start="20260912061000 +0000" stop="20260912070000 +0000">
 		<title>Documentary 360</title>
-		<desc>This flagship documentary series offers must-see episodes on politics, the economy, social trends, science and the environment in Japan and beyond.</desc>
+		<desc>Manga artist Mizuki Shigeru's masterpiece "White Flag" comes to life as an anime. His story was based on a WWII soldier who defied his superiors to protect his men. What truly happened on "Iwo Jima"?</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch374_Documentary360.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="812" start="20260912070000 +0000" stop="20260912071000 +0000">
 		<title>NHK Newsline</title>
-		<desc>NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.</desc>
+		<desc>NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch374_NHKNewsline.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="812" start="20260912071000 +0000" stop="20260912080000 +0000">
@@ -29724,13 +29704,13 @@ Could it work without Ibiza losing what made it famous?</desc>
 	</programme>
 	<programme channel="812" start="20260912080000 +0000" stop="20260912081000 +0000">
 		<title>NHK Newsline</title>
-		<desc>NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.</desc>
+		<desc>NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch374_NHKNewsline.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="812" start="20260912081000 +0000" stop="20260912084000 +0000">
-		<title>Time and Tide</title>
-		<desc>This programme transcends time to detail extraordinary historical events in Japan and the world - join NHK World-Japan on a journey that reveals the truth behind some of the turning points of history.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch374_TimeandTide.jpg?w=960%26h=540" />
+		<title>Samurai Castles</title>
+		<desc>Takeda Castle, the "Castle in the Sky" never saw battle and has been desolate for about 420 years. Only the stone walls remain. Archaeological excavations help us reimagine the castle in its heyday.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch374_samurai_castles.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="812" start="20260912084000 +0000" stop="20260912090000 +0000">
 		<title>Time-Lapse Journey</title>
@@ -29739,7 +29719,7 @@ Could it work without Ibiza losing what made it famous?</desc>
 	</programme>
 	<programme channel="812" start="20260912090000 +0000" stop="20260912091000 +0000">
 		<title>NHK Newsline</title>
-		<desc>NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.</desc>
+		<desc>NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch374_NHKNewsline.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="812" start="20260912091000 +0000" stop="20260912094000 +0000">
@@ -29749,57 +29729,57 @@ Could it work without Ibiza losing what made it famous?</desc>
 	</programme>
 	<programme channel="812" start="20260912094000 +0000" stop="20260912095000 +0000">
 		<title>Story Land in Classical Japanese</title>
-		<desc>This programme presents masterpieces of classical Japanese literature - in both original forms and modern translations - with easy-to-understand imagery that conveys the world view of ancient Japan.</desc>
+		<desc>This programme presents masterpieces of classical Japanese literature in both their original forms and modern translations, with easy-to-understand imagery that conveys the worldview of ancient Japan.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch374_story_land_in_classical_japanese.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="812" start="20260912095000 +0000" stop="20260912100000 +0000">
 		<title>Mitateru-phose</title>
-		<desc>This programme employs 'mitateru', a Japanese technique, to inspire children's imagination by encouraging them to view objects differently and develop their unique perspectives and creativity.</desc>
+		<desc>This programme employs "mitateru," a Japanese technique, to inspire children's imagination by encouraging them to view objects differently and develop their unique perspectives and creativity.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch374_MitateruPhose.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="812" start="20260912100000 +0000" stop="20260912101000 +0000">
 		<title>NHK Newsline</title>
-		<desc>NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.</desc>
+		<desc>NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch374_NHKNewsline.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="812" start="20260912101000 +0000" stop="20260912110000 +0000">
 		<title>Cycle Around Japan</title>
-		<desc>We explore Osaka, a prefecture known for its great cuisine, as we meet a couple who fish for daggertooth pike conger (hamo) which taste great in summer, a farmer growing juicy eggplants and much more.</desc>
+		<desc>We explore Osaka, a prefecture known for its great cuisine. We meet a couple who fish for daggertooth pike conger (hamo), which taste great in summer, a farmer growing juicy eggplants, and much more.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch374_CycleAroundJapan.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="812" start="20260912110000 +0000" stop="20260912111000 +0000">
 		<title>NHK Newsline</title>
-		<desc>NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.</desc>
+		<desc>NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch374_NHKNewsline.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="812" start="20260912111000 +0000" stop="20260912112500 +0000">
 		<title>Bosai: Science That Can Save Your Life</title>
-		<desc>Osaka, a city that thrives on rivers, has faced countless flood damage - find out the latest measures protecting the city from typhoons and heavy rain.</desc>
+		<desc>Osaka, a city that thrives on rivers, has faced countless flood damage. Find out the latest measures protecting the city from typhoons and heavy rain.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch374_BosaiScience.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="812" start="20260912112500 +0000" stop="20260912113000 +0000">
 		<title>Design Museum Japan</title>
-		<desc>Ehime / Nagazumi Takashi (musician). Nagazumi visits a town with a great number of trowel reliefs, and observes that the things that truly last are the ones that carry the creator's intention.</desc>
+		<desc>Ehime / Nagazumi Takashi (musician) Nagazumi visits a town with a great number of trowel reliefs, and observes that the things that truly last are the ones that carry the creator's intention.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch374_DesignMuseumJapan.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="812" start="20260912113000 +0000" stop="20260912120000 +0000">
 		<title>Kabuki Kool</title>
-		<desc>Actor Kataoka Ainosuke explores two acts from a gidayu kyogen play that's a fantastical, dramatic, and deeply moving piece of theatre.</desc>
+		<desc>Actor Kataoka Ainosuke explores 2 acts from this gidayu kyogen play. It's a fantastical, dramatic, and deeply moving piece of theatre.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch374_KabukiKool.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="812" start="20260912120000 +0000" stop="20260912121000 +0000">
 		<title>NHK Newsline</title>
-		<desc>NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.</desc>
+		<desc>NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch374_NHKNewsline.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="812" start="20260912121000 +0000" stop="20260912130000 +0000">
 		<title>Documentary 360</title>
-		<desc>This flagship documentary series offers must-see episodes on politics, the economy, social trends, science and the environment in Japan and beyond.</desc>
+		<desc>Manga artist Mizuki Shigeru's masterpiece "White Flag" comes to life as an anime. His story was based on a WWII soldier who defied his superiors to protect his men. What truly happened on "Iwo Jima"?</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch374_Documentary360.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="812" start="20260912130000 +0000" stop="20260912131000 +0000">
 		<title>NHK Newsline</title>
-		<desc>NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.</desc>
+		<desc>NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch374_NHKNewsline.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="812" start="20260912131000 +0000" stop="20260912140000 +0000">
@@ -29809,43 +29789,43 @@ Could it work without Ibiza losing what made it famous?</desc>
 	</programme>
 	<programme channel="812" start="20260912140000 +0000" stop="20260912141000 +0000">
 		<title>NHK Newsline</title>
-		<desc>NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.</desc>
+		<desc>NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch374_NHKNewsline.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="812" start="20260912141000 +0000" stop="20260912144000 +0000">
 		<title>Biz Stream</title>
-		<desc>This upbeat programme combines business and economic news with in-depth feature stories that give you a closer look at the latest trends within Japan and around the world.</desc>
+		<desc>Labor of Love: This episode features initiatives designed to provide support for struggling parents from childbirth through childcare.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch374_BizStream.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="812" start="20260912144000 +0000" stop="20260912145000 +0000">
 		<title>Story Land in Classical Japanese</title>
-		<desc>This programme presents masterpieces of classical Japanese literature - in both original forms and modern translations - with easy-to-understand imagery that conveys the world view of ancient Japan.</desc>
+		<desc>This programme presents masterpieces of classical Japanese literature in both their original forms and modern translations, with easy-to-understand imagery that conveys the worldview of ancient Japan.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch374_story_land_in_classical_japanese.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="812" start="20260912145000 +0000" stop="20260912150000 +0000">
 		<title>Mitateru-phose</title>
-		<desc>This programme employs 'mitateru', a Japanese technique, to inspire children's imagination by encouraging them to view objects differently and develop their unique perspectives and creativity.</desc>
+		<desc>This programme employs "mitateru," a Japanese technique, to inspire children's imagination by encouraging them to view objects differently and develop their unique perspectives and creativity.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch374_MitateruPhose.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="812" start="20260912150000 +0000" stop="20260912151000 +0000">
 		<title>NHK Newsline</title>
-		<desc>NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.</desc>
+		<desc>NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch374_NHKNewsline.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="812" start="20260912151000 +0000" stop="20260912160000 +0000">
 		<title>Cycle Around Japan</title>
-		<desc>We explore Osaka, a prefecture known for its great cuisine, as we meet a couple who fish for daggertooth pike conger (hamo) which taste great in summer, a farmer growing juicy eggplants and much more.</desc>
+		<desc>We explore Osaka, a prefecture known for its great cuisine. We meet a couple who fish for daggertooth pike conger (hamo), which taste great in summer, a farmer growing juicy eggplants, and much more.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch374_CycleAroundJapan.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="812" start="20260912160000 +0000" stop="20260912161000 +0000">
 		<title>NHK Newsline</title>
-		<desc>NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.</desc>
+		<desc>NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch374_NHKNewsline.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="812" start="20260912161000 +0000" stop="20260912164000 +0000">
-		<title>Time and Tide</title>
-		<desc>This programme transcends time to detail extraordinary historical events in Japan and the world - join NHK World-Japan on a journey that reveals the truth behind some of the turning points of history.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch374_TimeandTide.jpg?w=960%26h=540" />
+		<title>Samurai Castles</title>
+		<desc>Takeda Castle, the "Castle in the Sky" never saw battle and has been desolate for about 420 years. Only the stone walls remain. Archaeological excavations help us reimagine the castle in its heyday.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch374_samurai_castles.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="812" start="20260912164000 +0000" stop="20260912170000 +0000">
 		<title>Time-Lapse Journey</title>
@@ -29854,37 +29834,37 @@ Could it work without Ibiza losing what made it famous?</desc>
 	</programme>
 	<programme channel="812" start="20260912170000 +0000" stop="20260912171000 +0000">
 		<title>NHK Newsline</title>
-		<desc>NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.</desc>
+		<desc>NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch374_NHKNewsline.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="812" start="20260912171000 +0000" stop="20260912172500 +0000">
 		<title>Bosai: Science That Can Save Your Life</title>
-		<desc>Osaka, a city that thrives on rivers, has faced countless flood damage - find out the latest measures protecting the city from typhoons and heavy rain.</desc>
+		<desc>Osaka, a city that thrives on rivers, has faced countless flood damage. Find out the latest measures protecting the city from typhoons and heavy rain.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch374_BosaiScience.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="812" start="20260912172500 +0000" stop="20260912173000 +0000">
 		<title>Design Museum Japan</title>
-		<desc>Ehime / Nagazumi Takashi (musician). Nagazumi visits a town with a great number of trowel reliefs, and observes that the things that truly last are the ones that carry the creator's intention.</desc>
+		<desc>Ehime / Nagazumi Takashi (musician) Nagazumi visits a town with a great number of trowel reliefs, and observes that the things that truly last are the ones that carry the creator's intention.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch374_DesignMuseumJapan.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="812" start="20260912173000 +0000" stop="20260912180000 +0000">
 		<title>Kabuki Kool</title>
-		<desc>Actor Kataoka Ainosuke explores two acts from a gidayu kyogen play that's a fantastical, dramatic, and deeply moving piece of theatre.</desc>
+		<desc>Actor Kataoka Ainosuke explores 2 acts from this gidayu kyogen play. It's a fantastical, dramatic, and deeply moving piece of theatre.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch374_KabukiKool.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="812" start="20260912180000 +0000" stop="20260912181000 +0000">
 		<title>NHK Newsline</title>
-		<desc>NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.</desc>
+		<desc>NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch374_NHKNewsline.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="812" start="20260912181000 +0000" stop="20260912190000 +0000">
 		<title>Documentary 360</title>
-		<desc>This flagship documentary series offers must-see episodes on politics, the economy, social trends, science and the environment in Japan and beyond.</desc>
+		<desc>Manga artist Mizuki Shigeru's masterpiece "White Flag" comes to life as an anime. His story was based on a WWII soldier who defied his superiors to protect his men. What truly happened on "Iwo Jima"?</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch374_Documentary360.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="812" start="20260912190000 +0000" stop="20260912191000 +0000">
 		<title>NHK Newsline</title>
-		<desc>NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.</desc>
+		<desc>NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch374_NHKNewsline.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="812" start="20260912191000 +0000" stop="20260912200000 +0000">
@@ -29894,43 +29874,43 @@ Could it work without Ibiza losing what made it famous?</desc>
 	</programme>
 	<programme channel="812" start="20260912200000 +0000" stop="20260912201000 +0000">
 		<title>NHK Newsline</title>
-		<desc>NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.</desc>
+		<desc>NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch374_NHKNewsline.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="812" start="20260912201000 +0000" stop="20260912204000 +0000">
 		<title>Biz Stream</title>
-		<desc>This upbeat programme combines business and economic news with in-depth feature stories that give you a closer look at the latest trends within Japan and around the world.</desc>
+		<desc>Labor of Love: This episode features initiatives designed to provide support for struggling parents from childbirth through childcare.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch374_BizStream.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="812" start="20260912204000 +0000" stop="20260912205000 +0000">
 		<title>Story Land in Classical Japanese</title>
-		<desc>This programme presents masterpieces of classical Japanese literature - in both original forms and modern translations - with easy-to-understand imagery that conveys the world view of ancient Japan.</desc>
+		<desc>This programme presents masterpieces of classical Japanese literature in both their original forms and modern translations, with easy-to-understand imagery that conveys the worldview of ancient Japan.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch374_story_land_in_classical_japanese.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="812" start="20260912205000 +0000" stop="20260912210000 +0000">
 		<title>Mitateru-phose</title>
-		<desc>This programme employs 'mitateru', a Japanese technique, to inspire children's imagination by encouraging them to view objects differently and develop their unique perspectives and creativity.</desc>
+		<desc>This programme employs "mitateru," a Japanese technique, to inspire children's imagination by encouraging them to view objects differently and develop their unique perspectives and creativity.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch374_MitateruPhose.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="812" start="20260912210000 +0000" stop="20260912211000 +0000">
 		<title>NHK Newsline</title>
-		<desc>NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.</desc>
+		<desc>NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch374_NHKNewsline.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="812" start="20260912211000 +0000" stop="20260912220000 +0000">
 		<title>Cycle Around Japan</title>
-		<desc>We explore Osaka, a prefecture known for its great cuisine, as we meet a couple who fish for daggertooth pike conger (hamo) which taste great in summer, a farmer growing juicy eggplants and much more.</desc>
+		<desc>We explore Osaka, a prefecture known for its great cuisine. We meet a couple who fish for daggertooth pike conger (hamo), which taste great in summer, a farmer growing juicy eggplants, and much more.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch374_CycleAroundJapan.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="812" start="20260912220000 +0000" stop="20260912221000 +0000">
 		<title>NHK Newsline</title>
-		<desc>NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.</desc>
+		<desc>NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch374_NHKNewsline.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="812" start="20260912221000 +0000" stop="20260912224000 +0000">
-		<title>Time and Tide</title>
-		<desc>This programme transcends time to detail extraordinary historical events in Japan and the world - join NHK World-Japan on a journey that reveals the truth behind some of the turning points of history.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch374_TimeandTide.jpg?w=960%26h=540" />
+		<title>Samurai Castles</title>
+		<desc>Takeda Castle, the "Castle in the Sky" never saw battle and has been desolate for about 420 years. Only the stone walls remain. Archaeological excavations help us reimagine the castle in its heyday.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch374_samurai_castles.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="812" start="20260912224000 +0000" stop="20260912230000 +0000">
 		<title>Time-Lapse Journey</title>
@@ -29939,27 +29919,27 @@ Could it work without Ibiza losing what made it famous?</desc>
 	</programme>
 	<programme channel="812" start="20260912230000 +0000" stop="20260912231000 +0000">
 		<title>NHK Newsline</title>
-		<desc>NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.</desc>
+		<desc>NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch374_NHKNewsline.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="812" start="20260912231000 +0000" stop="20260912232500 +0000">
 		<title>Bosai: Science That Can Save Your Life</title>
-		<desc>Osaka, a city that thrives on rivers, has faced countless flood damage - find out the latest measures protecting the city from typhoons and heavy rain.</desc>
+		<desc>Osaka, a city that thrives on rivers, has faced countless flood damage. Find out the latest measures protecting the city from typhoons and heavy rain.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch374_BosaiScience.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="812" start="20260912232500 +0000" stop="20260912233000 +0000">
 		<title>Design Museum Japan</title>
-		<desc>Ehime / Nagazumi Takashi (musician). Nagazumi visits a town with a great number of trowel reliefs, and observes that the things that truly last are the ones that carry the creator's intention.</desc>
+		<desc>Ehime / Nagazumi Takashi (musician) Nagazumi visits a town with a great number of trowel reliefs, and observes that the things that truly last are the ones that carry the creator's intention.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch374_DesignMuseumJapan.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="812" start="20260912233000 +0000" stop="20260913000000 +0000">
 		<title>Kabuki Kool</title>
-		<desc>Actor Kataoka Ainosuke explores two acts from a gidayu kyogen play that's a fantastical, dramatic, and deeply moving piece of theatre.</desc>
+		<desc>Actor Kataoka Ainosuke explores 2 acts from this gidayu kyogen play. It's a fantastical, dramatic, and deeply moving piece of theatre.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch374_KabukiKool.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="812" start="20260913000000 +0000" stop="20260913005000 +0000">
 		<title>Letters on Hiroshima</title>
-		<desc>Eighty years ago, Truman, scientists and citizens voiced their remorse and struggle in letters upon facing the tremendous force of the atomic bomb - what messages do these voices carry for us today?</desc>
+		<desc>Eighty years ago, upon facing the tremendous force of the atomic bomb, Truman, scientists, and citizens voiced their remorse and struggle in letters. What messages do these voices carry for us today?</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch374_nhk_world_tv_generic.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="812" start="20260913005000 +0000" stop="20260913010000 +0000">
@@ -32343,13 +32323,13 @@ Could it work without Ibiza losing what made it famous?</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch838_scoop_2026.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="838" start="20260911230000 +0000" stop="20260912000000 +0000">
-		<title>Good Morning Hong Kong (120926)</title>
+		<title>Good Morning Hong Kong</title>
 		<desc>Report important news about Hong Kong, cross-strait, and international affairs.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch838_good_morning_hongkong.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="838" start="20260912000000 +0000" stop="20260912010000 +0000">
-		<title>Grow Grow Grow With You (120926)</title>
-		<desc>From "Hopscotch" to "Hands Up," TVB's children's programs have accompanied children's growth, creating countless wonderful childhood memories.</desc>
+		<title>Grow Grow Grow With You</title>
+		<desc>Veteran children's programme hosts Tam Yuk-ying, Lai Chi-shan and Gai Sai-bo grew up alongside you! Decades passed, and the young hosts and participants of yesteryear have all grown up considerably. Each episode invites hosts to reunite and reminisce about the past.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch838_grow_grow_grow_with_you.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="838" start="20260912010000 +0000" stop="20260912013000 +0000">
@@ -32358,7 +32338,7 @@ Could it work without Ibiza losing what made it famous?</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch838_dolce_vita_2022.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="838" start="20260912013000 +0000" stop="20260912020000 +0000">
-		<title>Hands Up 2026 (120926)</title>
+		<title>Hands Up 2026</title>
 		<desc>The brand-new children’s program “Hands Up” encourages kids to ask questions bravely, express themselves, and pursue their goals!</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch838_handsup.jpg?w=960%26h=540" />
 	</programme>
@@ -32388,7 +32368,7 @@ Could it work without Ibiza losing what made it famous?</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch838_want_to_destress.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="838" start="20260912053000 +0000" stop="20260912060000 +0000">
-		<title>ChatSAT (120926)</title>
+		<title>ChatSAT</title>
 		<desc>It will do its utmost to gather the trendiest and latest information from around the world, covering everything from global events, medical encyclopedias, arts, and technology to daily life and trending online topics, sharing them with the audience every</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch838_chatsat.jpg?w=341%26h=192" />
 	</programme>
@@ -32428,42 +32408,42 @@ Could it work without Ibiza losing what made it famous?</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch838_chatsat.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="838" start="20260912103000 +0000" stop="20260912110000 +0000">
-		<title>News At 18:30 (120926)</title>
+		<title>News At 18:30</title>
 		<desc>Jade Channel reports important local, cross-strait, and international news every afternoon at 6:30.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch838_news_at_630.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="838" start="20260912110000 +0000" stop="20260912113500 +0000">
-		<title>News Magazine 2026 %26 Yes, Boss. (120926)</title>
+		<title>News Magazine 2026 %26 Yes, Boss.</title>
 		<desc>News Perspective is a weekly program featuring in-depth coverage of notable news stories from Hong Kong and around the world.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch838_news_magazine_2026.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="838" start="20260912113500 +0000" stop="20260912120000 +0000">
-		<title>Scoop 2026 (120926)</title>
+		<title>Scoop 2026</title>
 		<desc>Scoop airs from Monday to Sunday, closely following major social events and interesting stories, while also reporting the latest updates in the entertainment industry, celebrity news, as well as drama promotions and behind-the-scenes features.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch838_scoop_2026.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="838" start="20260912120000 +0000" stop="20260912123000 +0000">
-		<title>The Health Promises (120926)</title>
+		<title>The Health Promises</title>
 		<desc>Faced with a sudden serious illness, or the pressure of caring for a sick family member for extended periods, a commitment to health and comprehensive protection is undoubtedly a strong safeguard for both oneself and one's family.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch838_the_health_promises.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="838" start="20260912123000 +0000" stop="20260912130000 +0000">
-		<title>Thai Rogered (Sr.11) (120926)</title>
+		<title>Thai Rogered (Sr.11)</title>
 		<desc>Thailand expert Hu Huichong once again leads the "Tom Yum Family" members to introduce the latest travel information in Bangkok, including glamorous massage parlors with perfect photo spots, newly opened shopping malls with sky parks, and buffet restauran</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch838_thai_rogered_sr11.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="838" start="20260912130000 +0000" stop="20260912140000 +0000">
-		<title>Mystery Files (120926)</title>
+		<title>Mystery Files</title>
 		<desc>Love is an extremely complex subject, surrounded by numerous “environmental factors” that can alter our dreams and understanding of romance.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch838_mystery_files.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="838" start="20260912140000 +0000" stop="20260912150000 +0000">
-		<title>You Are Not Alone Again (120926)</title>
+		<title>You Are Not Alone Again</title>
 		<desc>You Are Not Alone’ triumphantly returns! In its second season, the show is once again led by the ‘King of Ghosts’ Leung Si Ho, together with co-hosts Wong Yiu Ying and Wong Chi Yan, as well as editors Wong Ying Yeuk and Tong Chi Yan, bringing audiences ev</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch838_you_are_not_alone_again.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="838" start="20260912150000 +0000" stop="20260912153000 +0000">
-		<title>News Roundup (120926)</title>
+		<title>News Roundup</title>
 		<desc>Reporting major news from Hong Kong, across the Taiwan Strait, and around the world, as well as sports updates, keeping you informed about important events and trends in the world of sports.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch838_news_roundup.jpg?w=341%26h=192" />
 	</programme>
@@ -32528,7 +32508,7 @@ Could it work without Ibiza losing what made it famous?</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch838_scoop_2026.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="838" start="20260912230000 +0000" stop="20260913000000 +0000">
-		<title>Good Morning Hong Kong (130926)</title>
+		<title>Good Morning Hong Kong</title>
 		<desc>Report important news about Hong Kong, cross-strait, and international affairs.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch838_good_morning_hongkong.jpg?w=341%26h=192" />
 	</programme>
