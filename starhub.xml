@@ -1215,6 +1215,11 @@
 		<desc>Transform the way you clean with the Acerpure Clean V2 cordless vacuum, designed for modern living. Its ultra-strong suction power and multi-stage filtration system capture even the finest dust in your homes. Lightweight yet powerful, it makes cleaning quick and comfortable with its ergonomic design and long-lasting battery.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/103_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
+	<programme channel="103" start="20260920071600 +0000" stop="20260920073000 +0000">
+		<title>The Wonder Shop - EP 319</title>
+		<desc>AvoMilk is a plant-based drink with avocado, plant protein, and fiber for daily nutrition and satiety. Each scoop contains freeze-dried Hass avocado (about 1 whole avocado), plus red date, soy, quinoa, wheatgrass, and tiger milk mushroom for steady energy. No added sugar, dairy, or gluten. Also available in cocoa flavor with cocoa, astaxanthin, and chia seeds for a richer chocolate taste.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/103_1920x1080_HTV.png?w=341%26h=192" />
+	</programme>
 	<programme channel="103" start="20260920073000 +0000" stop="20260920083000 +0000">
 		<title>Hustle or Bustle - EP 6</title>
 		<desc>Alishan in Chiayi, Taiwan, is a famous destination known for its forest railway. The train climbs from 30m at Chiayi to 2,216m at Alishan, offering stunning views. One host enjoys the ride and explores Tsou indigenous culture, while the other joins railway work from dawn. Who works and who plays?</desc>
@@ -4966,17 +4971,22 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/133_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
 	<programme channel="133" start="20260919160000 +0000" stop="20260919163000 +0000">
-		<title>PUTHU VASANTHAM</title>
+		<title>Puthu Vasantham</title>
 		<desc>Raised as a single child, Selvi longs for the loving embrace %26 heart-warming bond of a joint family. And when her dream comes true, watch her battle all odds %26 win over her husband's large family.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch25_pudhu_vasantham.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="133" start="20260919163000 +0000" stop="20260919230000 +0000">
-		<title>SONGS</title>
+		<title>Songs</title>
 		<desc>Enjoy an extensive collection of soul-stirring melodies.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/133_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
+	<programme channel="133" start="20260919230000 +0000" stop="20260919233000 +0000">
+		<title>News</title>
+		<desc>This news programme chronicles the latest events, developments, inventions, discoveries and happenings around the world.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch25_news.jpg?w=341%26h=192" />
+	</programme>
 	<programme channel="133" start="20260919233000 +0000" stop="20260920000000 +0000">
-		<title>SONGS</title>
+		<title>Songs</title>
 		<desc>Enjoy an extensive collection of soul-stirring melodies.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/133_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
@@ -4986,8 +4996,8 @@
 		<icon src="https://poster.starhubgo.com/poster/ch25_kalyanamaalai.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="133" start="20260920003000 +0000" stop="20260920010000 +0000">
-		<title>Varuthapadatha Sangam – Talk Show</title>
-		<desc>Varuthapadatha Sangam – Talk Show</desc>
+		<title>Sun Natchathira Kondattam (Held At Gudiyatham) - Part 1</title>
+		<desc>Sun Natchathira Kondattam (held at Gudiyatham) - Part 1</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/133_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
 	<programme channel="133" start="20260920010000 +0000" stop="20260920020000 +0000">
@@ -4995,29 +5005,39 @@
 		<desc>Watch your favourite movies with all the drama and emotion on Sun TV.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/133_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
+	<programme channel="133" start="20260920020000 +0000" stop="20260920023000 +0000">
+		<title>News</title>
+		<desc>This news programme chronicles the latest events, developments, inventions, discoveries and happenings around the world.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch25_news.jpg?w=341%26h=192" />
+	</programme>
 	<programme channel="133" start="20260920023000 +0000" stop="20260920053000 +0000">
-		<title>Movie-</title>
-		<desc>Watch your favourite movies with all the drama and emotion on Sun TV.</desc>
+		<title>Movie - Jayam</title>
+		<desc>Sujatha falls in love with Ravi even though she is betrothed to Raghu. When Raghu learns about the relationship, he tries to harm Ravi and does everything in his capacity to marry Sujatha.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch25_movie.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="133" start="20260920053000 +0000" stop="20260920063000 +0000">
-		<title>Naanga Ready Neenga Readyaa – Season 3 -</title>
+		<title>Naanga Ready Neenga Readyaa - Season 3</title>
 		<desc>Join us to watch two of your favourite Sun TV families sing, dance, and take on exciting games for a shot at winning golden biscuits, all while being judged by two celebrity stars.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/133_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
 	<programme channel="133" start="20260920063000 +0000" stop="20260920080000 +0000">
-		<title>Movie-</title>
-		<desc>Watch your favourite movies with all the drama and emotion on Sun TV.</desc>
+		<title>Movie - Thamirabarani</title>
+		<desc>Bharani, who lives with his uncle Saravanan, loves Bhanu but cannot marry her as her family and his uncle share an unpleasant history. To win his love, he tries everything to unite the two families.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch25_movie.jpg?w=341%26h=192" />
 	</programme>
+	<programme channel="133" start="20260920080000 +0000" stop="20260920083000 +0000">
+		<title>News</title>
+		<desc>This news programme chronicles the latest events, developments, inventions, discoveries and happenings around the world.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch25_news.jpg?w=341%26h=192" />
+	</programme>
 	<programme channel="133" start="20260920083000 +0000" stop="20260920103000 +0000">
-		<title>Movie Contd -</title>
-		<desc>Watch your favourite movies with all the drama and emotion on Sun TV.</desc>
+		<title>Movie Contd - Thamirabarani</title>
+		<desc>Bharani, who lives with his uncle Saravanan, loves Bhanu but cannot marry her as her family and his uncle share an unpleasant history. To win his love, he tries everything to unite the two families.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch25_movie.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="133" start="20260920103000 +0000" stop="20260920133000 +0000">
-		<title>Movie-</title>
-		<desc>Watch your favourite movies with all the drama and emotion on Sun TV.</desc>
+		<title>Movie - Singam-2</title>
+		<desc>Duraisingam is undercover as an NCC officer in a Thoothukudi school. He must tackle Bhai and Thangaraj, two criminals who rule the area and who are working in cahoots with an international drug lord.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch25_movie.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="133" start="20260920133000 +0000" stop="20260920140000 +0000">
@@ -5031,7 +5051,7 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/133_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
 	<programme channel="133" start="20260920143000 +0000" stop="20260920150000 +0000">
-		<title>ETHIRNEECHAL THODARGIRADHU</title>
+		<title>Ethirneechal Thodargiradhu</title>
 		<desc>Urged by her father, Janani is always a high achiever. But her marriage into a patriarchal family dashes her dream of a career. Thus begins Janani's arduous journey towards empowering her family's oppressed women to unleash their power.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/133_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
@@ -5041,7 +5061,7 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/133_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
 	<programme channel="133" start="20260920153000 +0000" stop="20260920160000 +0000">
-		<title>IRU MALARGAL</title>
+		<title>Iru Malargal</title>
 		<desc>When secrets, societal pressure, and an unexpected wedding come between three childhood friends—Aadhi, Magizhini, and Madhiyazhagi—tradition and emotions clash, turning their lives upside down and testing every bond they hold dear.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/133_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
@@ -8872,57 +8892,57 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 	</programme>
 	<programme channel="158" start="20260919163000 +0000" stop="20260919173000 +0000">
 		<title>Combo Comedy Special</title>
-		<desc>Be loaded up on tons of comedic and rib-tickling moments here on Combo Comedy Special!</desc>
+		<desc>Combo Comedy Special</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/158_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
 	<programme channel="158" start="20260919173000 +0000" stop="20260919183000 +0000">
 		<title>Comedy Galatta</title>
-		<desc>This programme features a collection of popular comedy scenes from Tamil films.</desc>
+		<desc>This program features a collection of popular comedy scenes from Tamil films.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/158_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
 	<programme channel="158" start="20260919183000 +0000" stop="20260919203000 +0000">
 		<title>Sirika Sirika Sirippu</title>
-		<desc>Sirika Sirika Sirippu brings you back-to-back clips from a literary or cinematic work that uses themes or methods of comedy and humour.</desc>
+		<desc>The program features the antics of some of the most popular comedians.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch158_sirika_sirika_sirippu.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="158" start="20260919203000 +0000" stop="20260919223000 +0000">
 		<title>Adrasakka</title>
-		<desc>The programme features a series of comedy sequences from the most popular comedians.</desc>
+		<desc>The program features a series of comedy sequences of the most popular comedians.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch158_adrasakka.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="158" start="20260919223000 +0000" stop="20260920003000 +0000">
 		<title>Gubir Sirippu</title>
-		<desc>Tune in to Gubir Sirippu for an entertainment mix of comedy, fun and feel-good moments that are sure to leave you delighted!</desc>
+		<desc>Gubir Sirippu</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/158_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
 	<programme channel="158" start="20260920003000 +0000" stop="20260920013000 +0000">
 		<title>Konjam Coffee Neraiya Comedy</title>
-		<desc>Start off the day on a joyful note with this series of comedy clips from various movies!</desc>
+		<desc>A collection of comedic movie snippets to get your day off to a good start.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch158_konjam_coffee_neraiya_comedy.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="158" start="20260920013000 +0000" stop="20260920020000 +0000">
 		<title>Yogam Rajayogam</title>
-		<desc>An astrology-themed programme that discusses daily horoscopes, auspicious dates and more.</desc>
+		<desc>Yogam Rajayogam</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/158_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
 	<programme channel="158" start="20260920020000 +0000" stop="20260920023000 +0000">
 		<title>Aanantha Sirippu</title>
-		<desc>Stand by for a hearty dose of light-hearted entertainment and more funny moments on this programme!</desc>
+		<desc>Aanantha Sirippu</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch158_aanantha_sirippu.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="158" start="20260920023000 +0000" stop="20260920033000 +0000">
-		<title>Adithya Paarunga Aarokyama Irunga</title>
-		<desc>Tune in to this magazine programme, that also features live interaction with callers!</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch158_adithya_paarunga_aarokyama_Irunga.jpg?w=960%26h=540" />
+		<title>Sirigama Pathani</title>
+		<desc>Telecasting comedy clips back to back with main motive of causing laughter to our viewers.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch158_sirigama_pathani.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="158" start="20260920033000 +0000" stop="20260920040000 +0000">
 		<title>Sirithaley Inikkum</title>
-		<desc>Sit back and indulge in a comprehensive compilation of various humorous segments that will provide light entertainment for all!</desc>
+		<desc>Sirithaley Inikkum</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/158_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
 	<programme channel="158" start="20260920040000 +0000" stop="20260920043000 +0000">
 		<title>Vaanga Sirikkalam</title>
-		<desc>Informative and enlightening, catch more exciting content that comes your way on Times of Adithya!</desc>
+		<desc>Vaanga Sirikkalam</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/158_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
 	<programme channel="158" start="20260920043000 +0000" stop="20260920050000 +0000">
@@ -8932,7 +8952,7 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 	</programme>
 	<programme channel="158" start="20260920050000 +0000" stop="20260920053000 +0000">
 		<title>Idaividaatha Comedy</title>
-		<desc>Enjoy an uninterrupted stream of comedy scenes compiled from popular Tamil films and skits!</desc>
+		<desc>Idaividaatha Comedy</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/158_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
 	<programme channel="158" start="20260920053000 +0000" stop="20260920060000 +0000">
@@ -8942,62 +8962,62 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 	</programme>
 	<programme channel="158" start="20260920060000 +0000" stop="20260920063000 +0000">
 		<title>Master Piece</title>
-		<desc>Tune in to this series that brings you loads of humour and light-hearted storytelling!</desc>
+		<desc>Master Piece</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch158_master_piece.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="158" start="20260920063000 +0000" stop="20260920070000 +0000">
 		<title>Veetla Vishesam</title>
-		<desc>Something special is happening at home - join us for Veetla Visesham, a show full of laughs, emotions and celebrations!</desc>
+		<desc>Veetla Vishesam</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/158_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
 	<programme channel="158" start="20260920070000 +0000" stop="20260920073000 +0000">
 		<title>Anbudan Adithya</title>
-		<desc>Bringing you more compilations of the funniest scenes from various Tamil movies!</desc>
+		<desc>Its live show interacting with live callers</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch158_anbudan_adithya.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="158" start="20260920073000 +0000" stop="20260920083000 +0000">
 		<title>Goundamani Senthil Spl</title>
-		<desc>This programme features a compilation of comedy sequences from the films showcasing the legendary comedian duo, Senthil and Gowndamani.</desc>
+		<desc>This program features a compilation of comedy sequences from the films that showcase the legendary comedian duo, Senthil and Gowndamani.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch158_goundamani_senthil_Spl.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="158" start="20260920083000 +0000" stop="20260920093000 +0000">
 		<title>Santhanam Special</title>
-		<desc>This programme brings you an entertaining collection of comedy sequences from the Tamil movies that feature popular comedian Santhanam.</desc>
+		<desc>This program brings in an entertaining collection of comedy sequences from the Tamil movies that featured Santhanam, a popular comedian.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch158_santhanam_special.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="158" start="20260920093000 +0000" stop="20260920103000 +0000">
 		<title>Vadivelu Special</title>
-		<desc>This programme compiles a special collection of comedy clips from movies featuring popular comedian Vadivelu.</desc>
+		<desc>This program compiles a special collection of comedy clips from the movies that featured the popular comedian Vadivel.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch158_vadivelu_special.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="158" start="20260920103000 +0000" stop="20260920113000 +0000">
 		<title>Adithya Paarunga Aarokyama Irunga</title>
-		<desc>Tune in to this magazine programme, that also features live interaction with callers!</desc>
+		<desc>Its live show interacting with live callers</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch158_adithya_paarunga_aarokyama_Irunga.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="158" start="20260920113000 +0000" stop="20260920123000 +0000">
 		<title>Adithya Paarunga Sirichute Irunga</title>
-		<desc>A comprehensive compilation of some of the most famous comic scenes from both the latest as well as classic movies featuring renowned actors and actresses.</desc>
+		<desc>Its live show interacting with live callers</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/158_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
 	<programme channel="158" start="20260920123000 +0000" stop="20260920133000 +0000">
 		<title>Vaivittu Siringa</title>
-		<desc>The programme features unforgettable comedy sequences from popular movies.</desc>
+		<desc>The program features unforgettable comedy sequences from popular movies.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/158_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
 	<programme channel="158" start="20260920133000 +0000" stop="20260920143000 +0000">
 		<title>Natchathira Comedy</title>
-		<desc>It's laughs galore on Natchathira Comedy, featuring famous movie heroes' comedic snippets from their movies!</desc>
+		<desc>A famous movie heroes comedy snippet from his movies</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch158_natchathira_comedy.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="158" start="20260920143000 +0000" stop="20260920153000 +0000">
 		<title>Orupada Comedy</title>
-		<desc>Comedy clips from two specific comedy movies are played back-to-back for one hour!</desc>
+		<desc>Comedy clippings from two specific comedy genre movies are played back-to-back for one hour.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch158_orupada_comedy.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="158" start="20260920153000 +0000" stop="20260920163000 +0000">
 		<title>Vedi Sirippu</title>
-		<desc>Don't miss this fun-filled talk show, along with a delightful blend of sketches, stand-up performances and humorous segments!</desc>
+		<desc>A fun filled chat show.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch158_vedi_sirippu.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="159" start="20260918133000 +0000" stop="20260918170000 +0000">
@@ -9655,25 +9675,25 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 		<desc>The finest tennis players on the planet lock horns on the hard-courts of Flushing Meadows in pursuit of the sport's toughest title at the fourth and final Grand Slam of the year.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_us_open.jpg?w=960%26h=540" />
 	</programme>
-	<programme channel="209" start="20260920021500 +0000" stop="20260920041500 +0000">
-		<title>Roshn Saudi League 26/27 MD 7 Al Ahli vs Al Hazem</title>
-		<desc>The Roshn Saudi League features Saudi Arabia's top clubs competing for the league title in an exciting season of elite football action.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch209_SaudiLeague.jpg?w=960%26h=540" />
+	<programme channel="209" start="20260920021500 +0000" stop="20260920050000 +0000">
+		<title>2026 Hyundai Archery World Cup, Final Saltillo (MEX)</title>
+		<desc>Consisting of four stages and a grand final, the Hyundai Archery World Cup features international elite recurve and compound archers shooting for the title of Hyundai Archery World Cup Champion.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch209_Hyundai_Archery_World_Cup.jpg?w=341%26h=192" />
 	</programme>
-	<programme channel="209" start="20260920041500 +0000" stop="20260920071500 +0000">
-		<title>2026 LET: La Sella Open</title>
-		<desc>La Sella Open features top female golfers battling for the title in one of Spain's premier women's golf tournaments.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch209_Ladies_European_Tour.jpg?w=341%26h=192" />
+	<programme channel="209" start="20260920050000 +0000" stop="20260920090000 +0000">
+		<title>FIBA 3x3 U23 World Cup 2026</title>
+		<desc>The world's brightest young 3x3 basketball talents battle for global glory, as national teams compete in a fast-paced showcase of skill, intensity, and emerging stars.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch209_FIBA_3x3_U23_World Cup.jpg?w=341%26h=192" />
 	</programme>
-	<programme channel="209" start="20260920071500 +0000" stop="20260920101500 +0000">
+	<programme channel="209" start="20260920090000 +0000" stop="20260920121000 +0000">
 		<title>2026 US Open Tennis Championships Day 14</title>
 		<desc>The finest tennis players on the planet lock horns on the hard-courts of Flushing Meadows in pursuit of the sport's toughest title at the fourth and final Grand Slam of the year.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_us_open.jpg?w=960%26h=540" />
 	</programme>
-	<programme channel="209" start="20260920101500 +0000" stop="20260920130000 +0000">
-		<title>2026 Hyundai Archery World Cup, Final Saltillo (MEX)</title>
-		<desc>Consisting of four stages and a grand final, the Hyundai Archery World Cup features international elite recurve and compound archers shooting for the title of Hyundai Archery World Cup Champion.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch209_Hyundai_Archery_World_Cup.jpg?w=341%26h=192" />
+	<programme channel="209" start="20260920121000 +0000" stop="20260920130000 +0000">
+		<title>2026 WSL Inside Pro Surfing</title>
+		<desc>Be sure to catch the inspirational power of surfing through the 2026 WSL Championship Tour %26 Challenger Series.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch209_WSL.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="209" start="20260920130000 +0000" stop="20260920160000 +0000">
 		<title>2026 LET: La Sella Open</title>
@@ -26969,7 +26989,7 @@ the Croods overcome the punch monkeys - and Phil - to save the farm?</desc>
 	<programme channel="724" start="20260919160000 +0000" stop="20260919161500 +0000">
 		<title>News</title>
 		<desc>An international news bulletin, presented live from the newsroom.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch724_the_news.jpg?w=960%26h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch724_news.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="724" start="20260919161500 +0000" stop="20260919163000 +0000">
 		<title>Spotlight</title>
@@ -26979,7 +26999,7 @@ the Croods overcome the punch monkeys - and Phil - to save the farm?</desc>
 	<programme channel="724" start="20260919163000 +0000" stop="20260919164500 +0000">
 		<title>News</title>
 		<desc>An international news bulletin, presented live from the newsroom.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch724_the_news.jpg?w=960%26h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch724_news.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="724" start="20260919164500 +0000" stop="20260919170000 +0000">
 		<title>Global Grid</title>
@@ -26989,12 +27009,12 @@ the Croods overcome the punch monkeys - and Phil - to save the farm?</desc>
 	<programme channel="724" start="20260919170000 +0000" stop="20260919171300 +0000">
 		<title>News</title>
 		<desc>An international news bulletin, presented live from the newsroom.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch724_the_news.jpg?w=960%26h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch724_news.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="724" start="20260919171300 +0000" stop="20260919171400 +0000">
 		<title>News</title>
 		<desc>An international news bulletin, presented live from the newsroom.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch724_the_news.jpg?w=960%26h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch724_news.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="724" start="20260919171400 +0000" stop="20260919173000 +0000">
 		<title>Talking Europe</title>
@@ -27004,12 +27024,12 @@ the Croods overcome the punch monkeys - and Phil - to save the farm?</desc>
 	<programme channel="724" start="20260919173000 +0000" stop="20260919174300 +0000">
 		<title>News</title>
 		<desc>An international news bulletin, presented live from the newsroom.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch724_the_news.jpg?w=960%26h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch724_news.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="724" start="20260919174300 +0000" stop="20260919174400 +0000">
 		<title>News</title>
 		<desc>An international news bulletin, presented live from the newsroom.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch724_the_news.jpg?w=960%26h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch724_news.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="724" start="20260919174400 +0000" stop="20260919180000 +0000">
 		<title>Talking Europe</title>
@@ -27019,12 +27039,12 @@ the Croods overcome the punch monkeys - and Phil - to save the farm?</desc>
 	<programme channel="724" start="20260919180000 +0000" stop="20260919181500 +0000">
 		<title>News</title>
 		<desc>An international news bulletin, presented live from the newsroom.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch724_the_news.jpg?w=960%26h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch724_news.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="724" start="20260919181500 +0000" stop="20260919181600 +0000">
 		<title>News</title>
 		<desc>An international news bulletin, presented live from the newsroom.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch724_the_news.jpg?w=960%26h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch724_news.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="724" start="20260919181600 +0000" stop="20260919182200 +0000">
 		<title>French Connections</title>
@@ -27039,12 +27059,12 @@ the Croods overcome the punch monkeys - and Phil - to save the farm?</desc>
 	<programme channel="724" start="20260919183000 +0000" stop="20260919184500 +0000">
 		<title>News</title>
 		<desc>An international news bulletin, presented live from the newsroom.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch724_the_news.jpg?w=960%26h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch724_news.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="724" start="20260919184500 +0000" stop="20260919184600 +0000">
 		<title>News</title>
 		<desc>An international news bulletin, presented live from the newsroom.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch724_the_news.jpg?w=960%26h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch724_news.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="724" start="20260919184600 +0000" stop="20260919190000 +0000">
 		<title>France In Focus</title>
@@ -27054,7 +27074,7 @@ the Croods overcome the punch monkeys - and Phil - to save the farm?</desc>
 	<programme channel="724" start="20260919190000 +0000" stop="20260919191500 +0000">
 		<title>News</title>
 		<desc>An international news bulletin, presented live from the newsroom.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch724_the_news.jpg?w=960%26h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch724_news.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="724" start="20260919191500 +0000" stop="20260919192100 +0000">
 		<title>Global Grid</title>
@@ -27069,7 +27089,7 @@ the Croods overcome the punch monkeys - and Phil - to save the farm?</desc>
 	<programme channel="724" start="20260919193000 +0000" stop="20260919194500 +0000">
 		<title>News</title>
 		<desc>An international news bulletin, presented live from the newsroom.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch724_the_news.jpg?w=960%26h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch724_news.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="724" start="20260919194500 +0000" stop="20260919200000 +0000">
 		<title>A Week in France</title>
@@ -27079,7 +27099,7 @@ the Croods overcome the punch monkeys - and Phil - to save the farm?</desc>
 	<programme channel="724" start="20260919200000 +0000" stop="20260919201500 +0000">
 		<title>News</title>
 		<desc>An international news bulletin, presented live from the newsroom.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch724_the_news.jpg?w=960%26h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch724_news.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="724" start="20260919201500 +0000" stop="20260919203000 +0000">
 		<title>Reporters</title>
@@ -27089,7 +27109,7 @@ the Croods overcome the punch monkeys - and Phil - to save the farm?</desc>
 	<programme channel="724" start="20260919203000 +0000" stop="20260919204500 +0000">
 		<title>News</title>
 		<desc>An international news bulletin, presented live from the newsroom.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch724_the_news.jpg?w=960%26h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch724_news.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="724" start="20260919204500 +0000" stop="20260919210000 +0000">
 		<title>The Reporter's Week</title>
@@ -27099,12 +27119,12 @@ the Croods overcome the punch monkeys - and Phil - to save the farm?</desc>
 	<programme channel="724" start="20260919210000 +0000" stop="20260919211500 +0000">
 		<title>News</title>
 		<desc>An international news bulletin, presented live from the newsroom.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch724_the_news.jpg?w=960%26h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch724_news.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="724" start="20260919211500 +0000" stop="20260919211600 +0000">
 		<title>News</title>
 		<desc>An international news bulletin, presented live from the newsroom.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch724_the_news.jpg?w=960%26h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch724_news.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="724" start="20260919211600 +0000" stop="20260919213000 +0000">
 		<title>Sport Saturday</title>
@@ -27114,12 +27134,12 @@ the Croods overcome the punch monkeys - and Phil - to save the farm?</desc>
 	<programme channel="724" start="20260919213000 +0000" stop="20260919214500 +0000">
 		<title>News</title>
 		<desc>An international news bulletin, presented live from the newsroom.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch724_the_news.jpg?w=960%26h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch724_news.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="724" start="20260919214500 +0000" stop="20260919214600 +0000">
 		<title>News</title>
 		<desc>An international news bulletin, presented live from the newsroom.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch724_the_news.jpg?w=960%26h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch724_news.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="724" start="20260919214600 +0000" stop="20260919220000 +0000">
 		<title>Arts24</title>
@@ -27129,7 +27149,7 @@ the Croods overcome the punch monkeys - and Phil - to save the farm?</desc>
 	<programme channel="724" start="20260919220000 +0000" stop="20260919221500 +0000">
 		<title>News</title>
 		<desc>An international news bulletin, presented live from the newsroom.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch724_the_news.jpg?w=960%26h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch724_news.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="724" start="20260919221500 +0000" stop="20260919222100 +0000">
 		<title>French Connections</title>
@@ -27144,7 +27164,7 @@ the Croods overcome the punch monkeys - and Phil - to save the farm?</desc>
 	<programme channel="724" start="20260919223000 +0000" stop="20260919224500 +0000">
 		<title>News</title>
 		<desc>An international news bulletin, presented live from the newsroom.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch724_the_news.jpg?w=960%26h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch724_news.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="724" start="20260919224500 +0000" stop="20260919230000 +0000">
 		<title>Tete a tete</title>
@@ -27154,7 +27174,7 @@ the Croods overcome the punch monkeys - and Phil - to save the farm?</desc>
 	<programme channel="724" start="20260919230000 +0000" stop="20260919231500 +0000">
 		<title>News</title>
 		<desc>An international news bulletin, presented live from the newsroom.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch724_the_news.jpg?w=960%26h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch724_news.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="724" start="20260919231500 +0000" stop="20260919232100 +0000">
 		<title>The Observers</title>
@@ -27169,7 +27189,7 @@ the Croods overcome the punch monkeys - and Phil - to save the farm?</desc>
 	<programme channel="724" start="20260919233000 +0000" stop="20260919234500 +0000">
 		<title>News</title>
 		<desc>An international news bulletin, presented live from the newsroom.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch724_the_news.jpg?w=960%26h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch724_news.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="724" start="20260919234500 +0000" stop="20260920000000 +0000">
 		<title>Arts24</title>
@@ -27179,7 +27199,7 @@ the Croods overcome the punch monkeys - and Phil - to save the farm?</desc>
 	<programme channel="724" start="20260920000000 +0000" stop="20260920001000 +0000">
 		<title>News</title>
 		<desc>An international news bulletin, presented live from the newsroom.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch724_the_news.jpg?w=960%26h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch724_news.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="724" start="20260920001000 +0000" stop="20260920002500 +0000">
 		<title>Paris des Arts</title>
@@ -27194,7 +27214,7 @@ the Croods overcome the punch monkeys - and Phil - to save the farm?</desc>
 	<programme channel="724" start="20260920003000 +0000" stop="20260920004500 +0000">
 		<title>News</title>
 		<desc>An international news bulletin, presented live from the newsroom.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch724_the_news.jpg?w=960%26h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch724_news.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="724" start="20260920004500 +0000" stop="20260920010000 +0000">
 		<title>Across Africa</title>
@@ -27204,7 +27224,7 @@ the Croods overcome the punch monkeys - and Phil - to save the farm?</desc>
 	<programme channel="724" start="20260920010000 +0000" stop="20260920011500 +0000">
 		<title>News</title>
 		<desc>An international news bulletin, presented live from the newsroom.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch724_the_news.jpg?w=960%26h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch724_news.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="724" start="20260920011500 +0000" stop="20260920013000 +0000">
 		<title>People And Profit</title>
@@ -27214,7 +27234,7 @@ the Croods overcome the punch monkeys - and Phil - to save the farm?</desc>
 	<programme channel="724" start="20260920013000 +0000" stop="20260920014500 +0000">
 		<title>News</title>
 		<desc>An international news bulletin, presented live from the newsroom.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch724_the_news.jpg?w=960%26h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch724_news.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="724" start="20260920014500 +0000" stop="20260920020000 +0000">
 		<title>The 51 Percent</title>
@@ -27224,7 +27244,7 @@ the Croods overcome the punch monkeys - and Phil - to save the farm?</desc>
 	<programme channel="724" start="20260920020000 +0000" stop="20260920021500 +0000">
 		<title>News</title>
 		<desc>An international news bulletin, presented live from the newsroom.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch724_the_news.jpg?w=960%26h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch724_news.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="724" start="20260920021500 +0000" stop="20260920023000 +0000">
 		<title>Reporters</title>
@@ -27234,7 +27254,7 @@ the Croods overcome the punch monkeys - and Phil - to save the farm?</desc>
 	<programme channel="724" start="20260920023000 +0000" stop="20260920024500 +0000">
 		<title>News</title>
 		<desc>An international news bulletin, presented live from the newsroom.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch724_the_news.jpg?w=960%26h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch724_news.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="724" start="20260920024500 +0000" stop="20260920030000 +0000">
 		<title>A Week in France</title>
@@ -27244,7 +27264,7 @@ the Croods overcome the punch monkeys - and Phil - to save the farm?</desc>
 	<programme channel="724" start="20260920030000 +0000" stop="20260920031500 +0000">
 		<title>News</title>
 		<desc>An international news bulletin, presented live from the newsroom.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch724_the_news.jpg?w=960%26h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch724_news.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="724" start="20260920031500 +0000" stop="20260920033000 +0000">
 		<title>Access Asia</title>
@@ -27254,7 +27274,7 @@ the Croods overcome the punch monkeys - and Phil - to save the farm?</desc>
 	<programme channel="724" start="20260920033000 +0000" stop="20260920034500 +0000">
 		<title>News</title>
 		<desc>An international news bulletin, presented live from the newsroom.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch724_the_news.jpg?w=960%26h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch724_news.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="724" start="20260920034500 +0000" stop="20260920040000 +0000">
 		<title>Arts24</title>
@@ -27264,12 +27284,12 @@ the Croods overcome the punch monkeys - and Phil - to save the farm?</desc>
 	<programme channel="724" start="20260920040000 +0000" stop="20260920041400 +0000">
 		<title>News</title>
 		<desc>An international news bulletin, presented live from the newsroom.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch724_the_news.jpg?w=960%26h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch724_news.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="724" start="20260920041400 +0000" stop="20260920041500 +0000">
 		<title>News</title>
 		<desc>An international news bulletin, presented live from the newsroom.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch724_the_news.jpg?w=960%26h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch724_news.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="724" start="20260920041500 +0000" stop="20260920042100 +0000">
 		<title>Sports</title>
@@ -27284,12 +27304,12 @@ the Croods overcome the punch monkeys - and Phil - to save the farm?</desc>
 	<programme channel="724" start="20260920043000 +0000" stop="20260920044400 +0000">
 		<title>News</title>
 		<desc>An international news bulletin, presented live from the newsroom.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch724_the_news.jpg?w=960%26h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch724_news.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="724" start="20260920044400 +0000" stop="20260920044500 +0000">
 		<title>News</title>
 		<desc>An international news bulletin, presented live from the newsroom.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch724_the_news.jpg?w=960%26h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch724_news.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="724" start="20260920044500 +0000" stop="20260920045100 +0000">
 		<title>French Connections</title>
@@ -27304,7 +27324,7 @@ the Croods overcome the punch monkeys - and Phil - to save the farm?</desc>
 	<programme channel="724" start="20260920050000 +0000" stop="20260920052000 +0000">
 		<title>News</title>
 		<desc>An international news bulletin, presented live from the newsroom.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch724_the_news.jpg?w=960%26h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch724_news.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="724" start="20260920052000 +0000" stop="20260920053000 +0000">
 		<title>Sports Sunday</title>
@@ -27314,22 +27334,22 @@ the Croods overcome the punch monkeys - and Phil - to save the farm?</desc>
 	<programme channel="724" start="20260920053000 +0000" stop="20260920060000 +0000">
 		<title>News</title>
 		<desc>An international news bulletin, presented live from the newsroom.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch724_the_news.jpg?w=960%26h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch724_news.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="724" start="20260920060000 +0000" stop="20260920063000 +0000">
 		<title>News</title>
 		<desc>An international news bulletin, presented live from the newsroom.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch724_the_news.jpg?w=960%26h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch724_news.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="724" start="20260920063000 +0000" stop="20260920070000 +0000">
 		<title>News</title>
 		<desc>An international news bulletin, presented live from the newsroom.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch724_the_news.jpg?w=960%26h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch724_news.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="724" start="20260920070000 +0000" stop="20260920071500 +0000">
 		<title>News</title>
 		<desc>An international news bulletin, presented live from the newsroom.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch724_the_news.jpg?w=960%26h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch724_news.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="724" start="20260920071500 +0000" stop="20260920073000 +0000">
 		<title>Guest of the day</title>
@@ -27339,17 +27359,17 @@ the Croods overcome the punch monkeys - and Phil - to save the farm?</desc>
 	<programme channel="724" start="20260920073000 +0000" stop="20260920080000 +0000">
 		<title>News</title>
 		<desc>An international news bulletin, presented live from the newsroom.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch724_the_news.jpg?w=960%26h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch724_news.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="724" start="20260920080000 +0000" stop="20260920081400 +0000">
 		<title>News</title>
 		<desc>An international news bulletin, presented live from the newsroom.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch724_the_news.jpg?w=960%26h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch724_news.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="724" start="20260920081400 +0000" stop="20260920081500 +0000">
 		<title>News</title>
 		<desc>An international news bulletin, presented live from the newsroom.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch724_the_news.jpg?w=960%26h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch724_news.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="724" start="20260920081500 +0000" stop="20260920082000 +0000">
 		<title>Entre Nous</title>
@@ -27364,12 +27384,12 @@ the Croods overcome the punch monkeys - and Phil - to save the farm?</desc>
 	<programme channel="724" start="20260920083000 +0000" stop="20260920084400 +0000">
 		<title>News</title>
 		<desc>An international news bulletin, presented live from the newsroom.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch724_the_news.jpg?w=960%26h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch724_news.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="724" start="20260920084400 +0000" stop="20260920084500 +0000">
 		<title>News</title>
 		<desc>An international news bulletin, presented live from the newsroom.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch724_the_news.jpg?w=960%26h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch724_news.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="724" start="20260920084500 +0000" stop="20260920090000 +0000">
 		<title>Reporters</title>
@@ -27379,12 +27399,12 @@ the Croods overcome the punch monkeys - and Phil - to save the farm?</desc>
 	<programme channel="724" start="20260920090000 +0000" stop="20260920091400 +0000">
 		<title>News</title>
 		<desc>An international news bulletin, presented live from the newsroom.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch724_the_news.jpg?w=960%26h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch724_news.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="724" start="20260920091400 +0000" stop="20260920091500 +0000">
 		<title>News</title>
 		<desc>An international news bulletin, presented live from the newsroom.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch724_the_news.jpg?w=960%26h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch724_news.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="724" start="20260920091500 +0000" stop="20260920093000 +0000">
 		<title>Talking Europe</title>
@@ -27394,12 +27414,12 @@ the Croods overcome the punch monkeys - and Phil - to save the farm?</desc>
 	<programme channel="724" start="20260920093000 +0000" stop="20260920094400 +0000">
 		<title>News</title>
 		<desc>An international news bulletin, presented live from the newsroom.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch724_the_news.jpg?w=960%26h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch724_news.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="724" start="20260920094400 +0000" stop="20260920094500 +0000">
 		<title>News</title>
 		<desc>An international news bulletin, presented live from the newsroom.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch724_the_news.jpg?w=960%26h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch724_news.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="724" start="20260920094500 +0000" stop="20260920100000 +0000">
 		<title>Talking Europe</title>
@@ -27409,12 +27429,12 @@ the Croods overcome the punch monkeys - and Phil - to save the farm?</desc>
 	<programme channel="724" start="20260920100000 +0000" stop="20260920101400 +0000">
 		<title>News</title>
 		<desc>An international news bulletin, presented live from the newsroom.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch724_the_news.jpg?w=960%26h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch724_news.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="724" start="20260920101400 +0000" stop="20260920101500 +0000">
 		<title>News</title>
 		<desc>An international news bulletin, presented live from the newsroom.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch724_the_news.jpg?w=960%26h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch724_news.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="724" start="20260920101500 +0000" stop="20260920103000 +0000">
 		<title>Arts24</title>
@@ -27424,12 +27444,12 @@ the Croods overcome the punch monkeys - and Phil - to save the farm?</desc>
 	<programme channel="724" start="20260920103000 +0000" stop="20260920104400 +0000">
 		<title>News</title>
 		<desc>An international news bulletin, presented live from the newsroom.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch724_the_news.jpg?w=960%26h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch724_news.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="724" start="20260920104400 +0000" stop="20260920104500 +0000">
 		<title>News</title>
 		<desc>An international news bulletin, presented live from the newsroom.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch724_the_news.jpg?w=960%26h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch724_news.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="724" start="20260920104500 +0000" stop="20260920105000 +0000">
 		<title>Focus</title>
@@ -27444,7 +27464,7 @@ the Croods overcome the punch monkeys - and Phil - to save the farm?</desc>
 	<programme channel="724" start="20260920110000 +0000" stop="20260920111500 +0000">
 		<title>News</title>
 		<desc>An international news bulletin, presented live from the newsroom.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch724_the_news.jpg?w=960%26h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch724_news.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="724" start="20260920111500 +0000" stop="20260920113000 +0000">
 		<title>Guest of the day</title>
@@ -27454,7 +27474,7 @@ the Croods overcome the punch monkeys - and Phil - to save the farm?</desc>
 	<programme channel="724" start="20260920113000 +0000" stop="20260920114500 +0000">
 		<title>News</title>
 		<desc>An international news bulletin, presented live from the newsroom.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch724_the_news.jpg?w=960%26h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch724_news.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="724" start="20260920114500 +0000" stop="20260920120000 +0000">
 		<title>People And Profit</title>
@@ -27464,12 +27484,12 @@ the Croods overcome the punch monkeys - and Phil - to save the farm?</desc>
 	<programme channel="724" start="20260920120000 +0000" stop="20260920121200 +0000">
 		<title>News</title>
 		<desc>An international news bulletin, presented live from the newsroom.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch724_the_news.jpg?w=960%26h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch724_news.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="724" start="20260920121200 +0000" stop="20260920121300 +0000">
 		<title>News</title>
 		<desc>An international news bulletin, presented live from the newsroom.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch724_the_news.jpg?w=960%26h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch724_news.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="724" start="20260920121300 +0000" stop="20260920123000 +0000">
 		<title>Paris des Arts</title>
@@ -27479,12 +27499,12 @@ the Croods overcome the punch monkeys - and Phil - to save the farm?</desc>
 	<programme channel="724" start="20260920123000 +0000" stop="20260920124200 +0000">
 		<title>News</title>
 		<desc>An international news bulletin, presented live from the newsroom.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch724_the_news.jpg?w=960%26h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch724_news.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="724" start="20260920124200 +0000" stop="20260920124300 +0000">
 		<title>News</title>
 		<desc>An international news bulletin, presented live from the newsroom.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch724_the_news.jpg?w=960%26h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch724_news.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="724" start="20260920124300 +0000" stop="20260920125500 +0000">
 		<title>Tete a tete</title>
@@ -27499,12 +27519,12 @@ the Croods overcome the punch monkeys - and Phil - to save the farm?</desc>
 	<programme channel="724" start="20260920130000 +0000" stop="20260920130900 +0000">
 		<title>News</title>
 		<desc>An international news bulletin, presented live from the newsroom.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch724_the_news.jpg?w=960%26h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch724_news.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="724" start="20260920130900 +0000" stop="20260920131000 +0000">
 		<title>News</title>
 		<desc>An international news bulletin, presented live from the newsroom.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch724_the_news.jpg?w=960%26h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch724_news.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="724" start="20260920131000 +0000" stop="20260920131500 +0000">
 		<title>Tech 24</title>
@@ -27519,12 +27539,12 @@ the Croods overcome the punch monkeys - and Phil - to save the farm?</desc>
 	<programme channel="724" start="20260920133000 +0000" stop="20260920133900 +0000">
 		<title>News</title>
 		<desc>An international news bulletin, presented live from the newsroom.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch724_the_news.jpg?w=960%26h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch724_news.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="724" start="20260920133900 +0000" stop="20260920134000 +0000">
 		<title>News</title>
 		<desc>An international news bulletin, presented live from the newsroom.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch724_the_news.jpg?w=960%26h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch724_news.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="724" start="20260920134000 +0000" stop="20260920135200 +0000">
 		<title>Reporters</title>
@@ -27539,12 +27559,12 @@ the Croods overcome the punch monkeys - and Phil - to save the farm?</desc>
 	<programme channel="724" start="20260920140000 +0000" stop="20260920141400 +0000">
 		<title>News</title>
 		<desc>An international news bulletin, presented live from the newsroom.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch724_the_news.jpg?w=960%26h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch724_news.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="724" start="20260920141400 +0000" stop="20260920141500 +0000">
 		<title>News</title>
 		<desc>An international news bulletin, presented live from the newsroom.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch724_the_news.jpg?w=960%26h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch724_news.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="724" start="20260920141500 +0000" stop="20260920142100 +0000">
 		<title>The Observers</title>
@@ -27559,12 +27579,12 @@ the Croods overcome the punch monkeys - and Phil - to save the farm?</desc>
 	<programme channel="724" start="20260920143000 +0000" stop="20260920144400 +0000">
 		<title>News</title>
 		<desc>An international news bulletin, presented live from the newsroom.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch724_the_news.jpg?w=960%26h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch724_news.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="724" start="20260920144400 +0000" stop="20260920144500 +0000">
 		<title>News</title>
 		<desc>An international news bulletin, presented live from the newsroom.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch724_the_news.jpg?w=960%26h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch724_news.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="724" start="20260920144500 +0000" stop="20260920150000 +0000">
 		<title>Arts24</title>
@@ -27574,12 +27594,12 @@ the Croods overcome the punch monkeys - and Phil - to save the farm?</desc>
 	<programme channel="724" start="20260920150000 +0000" stop="20260920151400 +0000">
 		<title>News</title>
 		<desc>An international news bulletin, presented live from the newsroom.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch724_the_news.jpg?w=960%26h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch724_news.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="724" start="20260920151400 +0000" stop="20260920151500 +0000">
 		<title>News</title>
 		<desc>An international news bulletin, presented live from the newsroom.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch724_the_news.jpg?w=960%26h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch724_news.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="724" start="20260920151500 +0000" stop="20260920153000 +0000">
 		<title>Talking Europe</title>
@@ -27589,12 +27609,12 @@ the Croods overcome the punch monkeys - and Phil - to save the farm?</desc>
 	<programme channel="724" start="20260920153000 +0000" stop="20260920154400 +0000">
 		<title>News</title>
 		<desc>An international news bulletin, presented live from the newsroom.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch724_the_news.jpg?w=960%26h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch724_news.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="724" start="20260920154400 +0000" stop="20260920154500 +0000">
 		<title>News</title>
 		<desc>An international news bulletin, presented live from the newsroom.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch724_the_news.jpg?w=960%26h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch724_news.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="724" start="20260920154500 +0000" stop="20260920160000 +0000">
 		<title>Talking Europe</title>
