@@ -9493,15 +9493,10 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 		<desc>The BMW PGA Championship is a prestigious golf tournament on the European Tour held annually at the Wentworth Club in Surrey, England. It's considered the flagship event of the European Tour and has a history dating back to 1955.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch203_dp_world_tour.jpg?w=960%26h=540" />
 	</programme>
-	<programme channel="203" start="20260920163000 +0000" stop="20260920190000 +0000">
+	<programme channel="203" start="20260920163000 +0000" stop="20260920220000 +0000">
 		<title>End of Transmission</title>
 		<desc>End of Transmission</desc>
 		<icon src="https://poster.starhubgo.com/Linear_Channels2/203_1920x1080_HTV.png?w=341%26h=192" />
-	</programme>
-	<programme channel="203" start="20260920190000 +0000" stop="20260920220000 +0000">
-		<title>Korn Ferry Tour 2026</title>
-		<desc>The Nationwide Children's Hospital Championship is a Korn Ferry Tour event, part of the pathway for professional golfers to earn a PGA Tour card. The winner of the Nationwide Children's Hospital Championship also earns a spot in the Players Championship and US Open.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch203_korn_ferry_tour.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="203" start="20260920220000 +0000" stop="20260921010000 +0000">
 		<title>PGA Tour Champions 2026</title>
@@ -9628,17 +9623,12 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_channels2/205_1920x1080_HTV.png?w=960%26h=540" />
 	</programme>
-	<programme channel="205" start="20260920160000 +0000" stop="20260920170000 +0000">
-		<title>End of Transmission</title>
-		<desc />
-		<icon src="https://poster.starhubgo.com/Linear_channels2/205_1920x1080_HTV.png?w=960%26h=540" />
-	</programme>
-	<programme channel="205" start="20260920170000 +0000" stop="20260920200000 +0000">
+	<programme channel="205" start="20260920160000 +0000" stop="20260920190000 +0000">
 		<title>PGA Tour 2026</title>
 		<desc>The Biltmore Championship is the first PGA Tour event held in the Asheville, North Carolina region in over 80 years, and will be held at the Jack Nicklaus-designed Cliffs at Walnut Cove in Arden, NC.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch203_PGA_TOUR.jpg?w=341%26h=192" />
 	</programme>
-	<programme channel="205" start="20260920200000 +0000" stop="20260920220000 +0000">
+	<programme channel="205" start="20260920190000 +0000" stop="20260920220000 +0000">
 		<title>End of Transmission</title>
 		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_channels2/205_1920x1080_HTV.png?w=960%26h=540" />
