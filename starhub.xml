@@ -6226,7 +6226,7 @@
 		<icon src="https://poster.starhubgo.com/poster/ch656_Annamalai_Kudumbam.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="138" start="20260921060000 +0000" stop="20260921090000 +0000">
-		<title>Brother</title>
+		<title>Brother (210926)</title>
 		<desc>In this relatable tale, a young man navigates the chaos of living with his sister and her in-laws while searching for his own identity and belonging. Release Year: 2024 Director: M. RajeshTakeshi Kitano</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch656_zee_tamil_exclusive.jpg?w=341%26h=192" />
 	</programme>
@@ -9991,7 +9991,22 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_channels2/205_1920x1080_HTV.png?w=960%26h=540" />
 	</programme>
-	<programme channel="205" start="20260921160000 +0000" stop="20260922160000 +0000">
+	<programme channel="205" start="20260921160000 +0000" stop="20260921220000 +0000">
+		<title>End of Transmission</title>
+		<desc />
+		<icon src="https://poster.starhubgo.com/Linear_channels2/205_1920x1080_HTV.png?w=960%26h=540" />
+	</programme>
+	<programme channel="205" start="20260921220000 +0000" stop="20260922040000 +0000">
+		<title>End of Transmission</title>
+		<desc />
+		<icon src="https://poster.starhubgo.com/Linear_channels2/205_1920x1080_HTV.png?w=960%26h=540" />
+	</programme>
+	<programme channel="205" start="20260922040000 +0000" stop="20260922100000 +0000">
+		<title>End of Transmission</title>
+		<desc />
+		<icon src="https://poster.starhubgo.com/Linear_channels2/205_1920x1080_HTV.png?w=960%26h=540" />
+	</programme>
+	<programme channel="205" start="20260922100000 +0000" stop="20260922160000 +0000">
 		<title>End of Transmission</title>
 		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_channels2/205_1920x1080_HTV.png?w=960%26h=540" />
