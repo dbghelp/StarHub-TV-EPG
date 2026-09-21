@@ -176,14 +176,6 @@
 		<display-name>beIN SPORTS 3 HD</display-name>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/214_1920x1080_HTV.png?w=272" />
 	</channel>
-	<channel id="215">
-		<display-name>beIN SPORTS 4 HD</display-name>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/215_1920x1080_HTV.png?w=272" />
-	</channel>
-	<channel id="216">
-		<display-name>beIN SPORTS 5 HD</display-name>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/216_1920x1080_HTV.png?w=272" />
-	</channel>
 	<channel id="217">
 		<display-name>Cricbuzz</display-name>
 		<icon src="https://poster.starhubgo.com/Linear_Channels2/217_1920x1080_HTV.png?w=272" />
@@ -6226,7 +6218,7 @@
 		<icon src="https://poster.starhubgo.com/poster/ch656_Annamalai_Kudumbam.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="138" start="20260921060000 +0000" stop="20260921090000 +0000">
-		<title>Brother (210926)</title>
+		<title>Brother</title>
 		<desc>In this relatable tale, a young man navigates the chaos of living with his sister and her in-laws while searching for his own identity and belonging. Release Year: 2024 Director: M. RajeshTakeshi Kitano</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch656_zee_tamil_exclusive.jpg?w=341%26h=192" />
 	</programme>
@@ -9557,8 +9549,8 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 		<icon src="https://poster.starhubgo.com/poster/ch201_aso.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="201" start="20260920230000 +0000" stop="20260921033000 +0000">
-		<title>Davis Cup Qualifiers 2026</title>
-		<desc>26 teams from the opening round of qualifiers will play for 13 spots at the 2nd round qualifiers in a series decided on a home and away basis played as a best of 5 matches as the 114th edition of the Davis Cup gets under way.</desc>
+		<title>Davis Cup by Generali Qualifiers 2026</title>
+		<desc>7 triumphant nations from seven qualifiers, played across 4 continents will join last year’s world champions Italy at the Davis Cup Final 8 in Bologna in November, where they will compete for the chance to lift the coveted trophy for their countries.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch201_DAVISCup2024.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="201" start="20260921033000 +0000" stop="20260921040000 +0000">
@@ -9582,8 +9574,8 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 		<icon src="https://poster.starhubgo.com/poster/ch201_WTA_Tour_500_Generic.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="201" start="20260921070000 +0000" stop="20260921100000 +0000">
-		<title>Davis Cup Qualifiers 2026</title>
-		<desc>26 teams from the opening round of qualifiers will play for 13 spots at the 2nd round qualifiers in a series decided on a home and away basis played as a best of 5 matches as the 114th edition of the Davis Cup gets under way.</desc>
+		<title>Davis Cup by Generali Qualifiers 2026</title>
+		<desc>7 triumphant nations from seven qualifiers, played across 4 continents will join last year’s world champions Italy at the Davis Cup Final 8 in Bologna in November, where they will compete for the chance to lift the coveted trophy for their countries.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch201_DAVISCup2024.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="201" start="20260921100000 +0000" stop="20260921103000 +0000">
@@ -9591,10 +9583,15 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 		<desc>This programme tells the story of the ATP tour, its tournaments, personalities behind the tennis, funny feature content and much more.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch201_ATPTourThisWeek.jpg?w=341%26h=192" />
 	</programme>
-	<programme channel="201" start="20260921103000 +0000" stop="20260921150000 +0000">
-		<title>Davis Cup Qualifiers 2026</title>
-		<desc>26 teams from the opening round of qualifiers will play for 13 spots at the 2nd round qualifiers in a series decided on a home and away basis played as a best of 5 matches as the 114th edition of the Davis Cup gets under way.</desc>
+	<programme channel="201" start="20260921103000 +0000" stop="20260921140000 +0000">
+		<title>Davis Cup by Generali Qualifiers 2026</title>
+		<desc>7 triumphant nations from seven qualifiers, played across 4 continents will join last year’s world champions Italy at the Davis Cup Final 8 in Bologna in November, where they will compete for the chance to lift the coveted trophy for their countries.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch201_DAVISCup2024.jpg?w=960%26h=540" />
+	</programme>
+	<programme channel="201" start="20260921140000 +0000" stop="20260921150000 +0000">
+		<title>ASO Cycling Programming 2026</title>
+		<desc>Relive the best moments from the diverse and challeging courses in Oman's most iconic peaks.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch201_aso.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="201" start="20260921150000 +0000" stop="20260921160000 +0000">
 		<title>Billie Jean King Cup by Gainbridge Qualifiers 2026</title>
@@ -9611,10 +9608,10 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 		<desc>The Monterrey Open is an annual professional women's tennis tournament held in Monterrey, Mexico. It is a WTA 500 event played on outdoor hard courts at Club Sonoma. The tournament was founded in 2009 and features a 28-player singles draw.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch201_WTA_Tour_500_Generic.jpg?w=960%26h=540" />
 	</programme>
-	<programme channel="201" start="20260921230000 +0000" stop="20260922010000 +0000">
+	<programme channel="201" start="20260921230000 +0000" stop="20260922003000 +0000">
 		<title>WTA Tour 2026</title>
-		<desc>The Guadalajara Open is a WTA 500 tournament played on outdoor hard courts in Zapopan, Mexico at the Panamerican Tennis Center. It serves as a key hard-court stop during the autumn Asian-American swing.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch201_WTA_Tour_500_Generic.jpg?w=960%26h=540" />
+		<desc>The Cincinnati Open is a WTA 1000 tournament played on outdoor hard courts at the Lindner Family Tennis Center in Mason, Ohio.  It is the oldest US tennis tournament still played in its original city. The Cincinnati Open became a WTA 1000 event in 2009.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch201_WTA_Tour_1000_Generic.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="201" start="20260922010000 +0000" stop="20260922030000 +0000">
 		<title>WTA Tour 2026</title>
@@ -9671,11 +9668,6 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 		<desc>Take a look back at the highlights and incidents that shaped the footballing world!</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch202_the_football_review.jpg?w=341%26h=192" />
 	</programme>
-	<programme channel="202" start="20260920183000 +0000" stop="20260920203000 +0000">
-		<title>WTA Tour 2026 SP Open (250) Final</title>
-		<desc>The 2026 SP open is the second edition held at the Parque Villa-Lobos on hardcourts. The tournament features 32 singles players competing for 250 points in the standings.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch202_WTA_ATP_Tour_250_Generic.jpg?w=960%26h=540" />
-	</programme>
 	<programme channel="202" start="20260920203000 +0000" stop="20260920210000 +0000">
 		<title>Total Combat 2026</title>
 		<desc>The first of its kind program covering all disciplines of combat sports including MMA, boxing, kickboxing, muay thai and more.</desc>
@@ -9707,7 +9699,7 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 		<icon src="https://poster.starhubgo.com/poster/ch202_total_combat_2026.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="202" start="20260921030000 +0000" stop="20260921043000 +0000">
-		<title>WTA Tour 2026 SP Open (250) Final</title>
+		<title>WTA Tour 2026 (DNU) SP Open (250) Final</title>
 		<desc>The 2026 SP open is the second edition held at the Parque Villa-Lobos on hardcourts. The tournament features 32 singles players competing for 250 points in the standings.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch202_WTA_ATP_Tour_250_Generic.jpg?w=960%26h=540" />
 	</programme>
@@ -9736,25 +9728,20 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 		<desc>The first of its kind program covering all disciplines of combat sports including MMA, boxing, kickboxing, muay thai and more.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch202_total_combat_2026.jpg?w=341%26h=192" />
 	</programme>
-	<programme channel="202" start="20260921113000 +0000" stop="20260921130000 +0000">
-		<title>WTA Tour 2026 SP Open (250) Final</title>
-		<desc>The 2026 SP open is the second edition held at the Parque Villa-Lobos on hardcourts. The tournament features 32 singles players competing for 250 points in the standings.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch202_WTA_ATP_Tour_250_Generic.jpg?w=960%26h=540" />
+	<programme channel="202" start="20260921113000 +0000" stop="20260921120000 +0000">
+		<title>Invincible 2026</title>
+		<desc>Invincible is a timeless series that explores periods of unrivalled domination in sport. This show takes an in-depth study into greatness - the incredible feats and eras that echo through sporting history.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch202_invincible_2026.jpg?w=960%26h=540" />
 	</programme>
-	<programme channel="202" start="20260921130000 +0000" stop="20260921150000 +0000">
+	<programme channel="202" start="20260921120000 +0000" stop="20260921140000 +0000">
 		<title>UFC 2026 UFC 331: Late Prelims</title>
 		<desc>The Ultimate Fighting Championship features some of the world's best mixed martial arts exponents on its roster. This is the premier event of the UFC and is traditionally preluded with preliminaries before the main card showdown.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch202_ufc.jpg?w=341%26h=192" />
 	</programme>
-	<programme channel="202" start="20260921150000 +0000" stop="20260921153000 +0000">
-		<title>Invincible 2026</title>
-		<desc>Invincible is a timeless series that explores periods of unrivalled domination in sport. This show takes an in-depth study into greatness - the incredible feats and eras that echo through sporting history.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch202_invincible_2026.jpg?w=960%26h=540" />
-	</programme>
-	<programme channel="202" start="20260921153000 +0000" stop="20260921160000 +0000">
-		<title>Invincible 2026</title>
-		<desc>Invincible is a timeless series that explores periods of unrivalled domination in sport. This show takes an in-depth study into greatness - the incredible feats and eras that echo through sporting history.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch202_invincible_2026.jpg?w=960%26h=540" />
+	<programme channel="202" start="20260921140000 +0000" stop="20260921160000 +0000">
+		<title>WTA Tour 2026 SP Open (250) Final</title>
+		<desc>The 2026 SP open is the second edition held at the Parque Villa-Lobos on hardcourts. The tournament features 32 singles players competing for 250 points in the standings.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch202_WTA_ATP_Tour_250_Generic.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="202" start="20260921160000 +0000" stop="20260921203000 +0000">
 		<title>HSBC BWF World Tour 2026 LI-NING China Masters (S750) QF Session 1 (C1)</title>
@@ -10096,47 +10083,47 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 		<desc>Recap the action, behind-the-scenes and rider interviews at the MotoGP 2026.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_motogp.jpg?w=960%26h=540" />
 	</programme>
-	<programme channel="210" start="20260920233000 +0000" stop="20260921010000 +0000">
+	<programme channel="210" start="20260920233000 +0000" stop="20260921005500 +0000">
 		<title>2026 The Asian Tournament, Leg 3 Chengdu</title>
 		<desc>Top Asian teams face off in The Asian Tournament, delivering fast-paced basketball action and a battle for regional supremacy.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_the_asian.tournament.jpg?w=341%26h=192" />
 	</programme>
-	<programme channel="210" start="20260921010000 +0000" stop="20260921023000 +0000">
+	<programme channel="210" start="20260921005500 +0000" stop="20260921023000 +0000">
 		<title>SailGP S6: Rolex Switzerland Grand Prix</title>
 		<desc>Adrenaline-fueled races, legendary global locations, rival national teams and record-breaking speeds. SailGP is the most exciting racing on water - Powered By Nature.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_sailgp.jpg?w=341%26h=192" />
 	</programme>
-	<programme channel="210" start="20260921023000 +0000" stop="20260921040000 +0000">
+	<programme channel="210" start="20260921023000 +0000" stop="20260921043600 +0000">
 		<title>SailGP S6: Rolex Switzerland Grand Prix</title>
 		<desc>Adrenaline-fueled races, legendary global locations, rival national teams and record-breaking speeds. SailGP is the most exciting racing on water - Powered By Nature.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_sailgp.jpg?w=341%26h=192" />
 	</programme>
-	<programme channel="210" start="20260921040000 +0000" stop="20260921053000 +0000">
+	<programme channel="210" start="20260921043600 +0000" stop="20260921053000 +0000">
 		<title>2026 The Asian Tournament, Leg 3 Chengdu</title>
 		<desc>Top Asian teams face off in The Asian Tournament, delivering fast-paced basketball action and a battle for regional supremacy.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_the_asian.tournament.jpg?w=341%26h=192" />
 	</programme>
-	<programme channel="210" start="20260921053000 +0000" stop="20260921080000 +0000">
+	<programme channel="210" start="20260921053000 +0000" stop="20260921074000 +0000">
 		<title>WTT Star Contender Astana 2026</title>
 		<desc>Emerging top table tennis players compete for vital ranking points and the opportunity to take the next step toward the WTT Champions Series.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_wtt_star_contender.jpg?w=960%26h=540" />
 	</programme>
-	<programme channel="210" start="20260921080000 +0000" stop="20260921083000 +0000">
+	<programme channel="210" start="20260921074000 +0000" stop="20260921081000 +0000">
 		<title>52 SUPER SERIES GP Sailing show</title>
 		<desc>The 2026 52 SUPER SERIES delivers elite grand prix sailing. 14 international teams battle on identical, high-speed TP52 yachts across 5 European venues, where world-class victories are decided by inches</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_52_super_series_gp_sailing_show.jpg?w=960%26h=540" />
 	</programme>
-	<programme channel="210" start="20260921083000 +0000" stop="20260921093000 +0000">
+	<programme channel="210" start="20260921081000 +0000" stop="20260921090500 +0000">
 		<title>2026 MotoGP Rd 15 Qatar Airways Grand Prix of Austria</title>
 		<desc>The 2026 MotoGP sees 22 of the world's best riders battle on 1000cc prototype machines, delivering over 250hp and reaching speeds of 360kph across 22 thrilling Grands Prix in 18 countries.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_motogp.jpg?w=960%26h=540" />
 	</programme>
-	<programme channel="210" start="20260921093000 +0000" stop="20260921140000 +0000">
+	<programme channel="210" start="20260921090500 +0000" stop="20260921135500 +0000">
 		<title>2026 MotoGP Rd 15 Qatar Airways Grand Prix of Austria</title>
 		<desc>The 2026 MotoGP sees 22 of the world's best riders battle on 1000cc prototype machines, delivering over 250hp and reaching speeds of 360kph across 22 thrilling Grands Prix in 18 countries.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_motogp.jpg?w=960%26h=540" />
 	</programme>
-	<programme channel="210" start="20260921140000 +0000" stop="20260921150000 +0000">
+	<programme channel="210" start="20260921135500 +0000" stop="20260921150000 +0000">
 		<title>2026 Red Bull MotoGP Rookies Cup Rd 7: Red Bull Ring</title>
 		<desc>Powerful bagger motorcycles take to the track as elite riders battle for glory in this thrilling race, combining raw power, speed, and spectacular two-wheel action.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_red_bull_motogp_rookies_cup.jpg?w=341%26h=192" />
@@ -10750,86 +10737,6 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 		<title>Bundesliga Highlights 2026/27</title>
 		<desc>All the action from the latest round of games in the German Bundesliga, Germany's top division of football.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch214_bundesliga_highlights.jpg?w=341%26h=192" />
-	</programme>
-	<programme channel="215" start="20260920160000 +0000" stop="20260920220000 +0000">
-		<title>End of Transmission</title>
-		<desc />
-		<icon src="https://poster.starhubgo.com/Linear_channels2/215_1920x1080_HTV.png?w=960%26h=540" />
-	</programme>
-	<programme channel="215" start="20260920220000 +0000" stop="20260921040000 +0000">
-		<title>End of Transmission</title>
-		<desc />
-		<icon src="https://poster.starhubgo.com/Linear_channels2/215_1920x1080_HTV.png?w=960%26h=540" />
-	</programme>
-	<programme channel="215" start="20260921040000 +0000" stop="20260921100000 +0000">
-		<title>End of Transmission</title>
-		<desc />
-		<icon src="https://poster.starhubgo.com/Linear_channels2/215_1920x1080_HTV.png?w=960%26h=540" />
-	</programme>
-	<programme channel="215" start="20260921100000 +0000" stop="20260921160000 +0000">
-		<title>End of Transmission</title>
-		<desc />
-		<icon src="https://poster.starhubgo.com/Linear_channels2/215_1920x1080_HTV.png?w=960%26h=540" />
-	</programme>
-	<programme channel="215" start="20260921160000 +0000" stop="20260921220000 +0000">
-		<title>End of Transmission</title>
-		<desc />
-		<icon src="https://poster.starhubgo.com/Linear_channels2/215_1920x1080_HTV.png?w=960%26h=540" />
-	</programme>
-	<programme channel="215" start="20260921220000 +0000" stop="20260922040000 +0000">
-		<title>End of Transmission</title>
-		<desc />
-		<icon src="https://poster.starhubgo.com/Linear_channels2/215_1920x1080_HTV.png?w=960%26h=540" />
-	</programme>
-	<programme channel="215" start="20260922040000 +0000" stop="20260922100000 +0000">
-		<title>End of Transmission</title>
-		<desc />
-		<icon src="https://poster.starhubgo.com/Linear_channels2/215_1920x1080_HTV.png?w=960%26h=540" />
-	</programme>
-	<programme channel="215" start="20260922100000 +0000" stop="20260922160000 +0000">
-		<title>End of Transmission</title>
-		<desc />
-		<icon src="https://poster.starhubgo.com/Linear_channels2/215_1920x1080_HTV.png?w=960%26h=540" />
-	</programme>
-	<programme channel="216" start="20260920160000 +0000" stop="20260920220000 +0000">
-		<title>End of Transmission</title>
-		<desc />
-		<icon src="https://poster.starhubgo.com/Linear_channels2/216_1920x1080_HTV.png?w=960%26h=540" />
-	</programme>
-	<programme channel="216" start="20260920220000 +0000" stop="20260921040000 +0000">
-		<title>End of Transmission</title>
-		<desc />
-		<icon src="https://poster.starhubgo.com/Linear_channels2/216_1920x1080_HTV.png?w=960%26h=540" />
-	</programme>
-	<programme channel="216" start="20260921040000 +0000" stop="20260921100000 +0000">
-		<title>End of Transmission</title>
-		<desc />
-		<icon src="https://poster.starhubgo.com/Linear_channels2/216_1920x1080_HTV.png?w=960%26h=540" />
-	</programme>
-	<programme channel="216" start="20260921100000 +0000" stop="20260921160000 +0000">
-		<title>End of Transmission</title>
-		<desc />
-		<icon src="https://poster.starhubgo.com/Linear_channels2/216_1920x1080_HTV.png?w=960%26h=540" />
-	</programme>
-	<programme channel="216" start="20260921160000 +0000" stop="20260921220000 +0000">
-		<title>End of Transmission</title>
-		<desc />
-		<icon src="https://poster.starhubgo.com/Linear_channels2/216_1920x1080_HTV.png?w=960%26h=540" />
-	</programme>
-	<programme channel="216" start="20260921220000 +0000" stop="20260922040000 +0000">
-		<title>End of Transmission</title>
-		<desc />
-		<icon src="https://poster.starhubgo.com/Linear_channels2/216_1920x1080_HTV.png?w=960%26h=540" />
-	</programme>
-	<programme channel="216" start="20260922040000 +0000" stop="20260922100000 +0000">
-		<title>End of Transmission</title>
-		<desc />
-		<icon src="https://poster.starhubgo.com/Linear_channels2/216_1920x1080_HTV.png?w=960%26h=540" />
-	</programme>
-	<programme channel="216" start="20260922100000 +0000" stop="20260922160000 +0000">
-		<title>End of Transmission</title>
-		<desc />
-		<icon src="https://poster.starhubgo.com/Linear_channels2/216_1920x1080_HTV.png?w=960%26h=540" />
 	</programme>
 	<programme channel="217" start="20260920130500 +0000" stop="20260920171500 +0000">
 		<title>ETPL 2026 LIVE: Final: ETPL 2026</title>
@@ -19957,7 +19864,7 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 	</programme>
 	<programme channel="509" start="20260921160000 +0000" stop="20260921164500 +0000">
 		<title>Late Night With Seth Meyers S13 - EP 124</title>
-		<desc>Late Night with Seth Meyers is executive produced by the Emmy Award-winning Lorne Michaels and is home to A-list celebrity guests, memorable comedy and the best in musical talent.</desc>
+		<desc>Guests include Timothy Olyphant (Lucky) and Cooper Hoffman (I Want Your Sex). Late Night with Seth Meyers is executive produced by the Emmy Award-winning Lorne Michaels and is home to A-list celebrity guests, memorable comedy and the best in musical talent.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch509_Late_Night_With_Seth_Meyers_S12.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="509" start="20260921164500 +0000" stop="20260921173000 +0000">
@@ -19997,12 +19904,12 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 	</programme>
 	<programme channel="509" start="20260921220000 +0000" stop="20260921224500 +0000">
 		<title>Late Night With Seth Meyers S13 - EP 124</title>
-		<desc>Late Night with Seth Meyers is executive produced by the Emmy Award-winning Lorne Michaels and is home to A-list celebrity guests, memorable comedy and the best in musical talent.</desc>
+		<desc>Guests include Timothy Olyphant (Lucky) and Cooper Hoffman (I Want Your Sex). Late Night with Seth Meyers is executive produced by the Emmy Award-winning Lorne Michaels and is home to A-list celebrity guests, memorable comedy and the best in musical talent.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch509_Late_Night_With_Seth_Meyers_S12.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="509" start="20260921224500 +0000" stop="20260921233000 +0000">
 		<title>The Tonight Show Starring Jimmy Fallon S13 - EP 155</title>
-		<desc>Guests include Tom Cruise, Lili Reinhart and musical guest Suki Waterhouse. Emmy and Grammy Award-winning comedian Jimmy Fallon brings his unique high-energy comedy to the storied 60-year NBC franchise with his welcoming interview style, love of audience participation, spot-on impersonations and innovative sketches.</desc>
+		<desc>Guests include Tom Cruise, Lili Reinhart and musical guest Suki Waterhouse. Emmy and Grammy Award-winning comedian Jimmy Fallon brings his unique high-energy comedy to the storied 60-year NBC franchise with his welcoming interview style, love of audience</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch509_The_Tonight_Show_Starring_Jimmy_Fallon_S12.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="509" start="20260921233000 +0000" stop="20260922000200 +0000">
