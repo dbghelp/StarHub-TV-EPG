@@ -156,6 +156,14 @@
 		<display-name>Hub Sports 5 HD</display-name>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/205_1920x1080_HTV.png?w=272" />
 	</channel>
+	<channel id="206">
+		<display-name>Hub Sports 6 HD</display-name>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/206_1920x1080_HTV.png?w=272" />
+	</channel>
+	<channel id="207">
+		<display-name>Hub Sports 7 HD</display-name>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/207_1920x1080_HTV.png?w=272" />
+	</channel>
 	<channel id="209">
 		<display-name>SPOTV</display-name>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/209_1920x1080_HTV.png?w=272" />
@@ -6220,7 +6228,7 @@
 	<programme channel="138" start="20260921060000 +0000" stop="20260921090000 +0000">
 		<title>Brother</title>
 		<desc>In this relatable tale, a young man navigates the chaos of living with his sister and her in-laws while searching for his own identity and belonging. Release Year: 2024 Director: M. RajeshTakeshi Kitano</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch656_zee_tamil_exclusive.jpg?w=341%26h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch656_brother.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="138" start="20260921090000 +0000" stop="20260921093000 +0000">
 		<title>Samanthi - EP 41</title>
@@ -9613,10 +9621,15 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 		<desc>The Cincinnati Open is a WTA 1000 tournament played on outdoor hard courts at the Lindner Family Tennis Center in Mason, Ohio.  It is the oldest US tennis tournament still played in its original city. The Cincinnati Open became a WTA 1000 event in 2009.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch201_WTA_Tour_1000_Generic.jpg?w=960%26h=540" />
 	</programme>
+	<programme channel="201" start="20260922003000 +0000" stop="20260922010000 +0000">
+		<title>WTA All Access 2026</title>
+		<desc>This show brings you compelling stories, player personalities, tournament colour and fan engagement as well as exclusive analysis of statistical trends and data.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch201_wta_tour.jpg?w=960%26h=540" />
+	</programme>
 	<programme channel="201" start="20260922010000 +0000" stop="20260922030000 +0000">
 		<title>WTA Tour 2026</title>
-		<desc>The 2026 SP open is the second edition held at the Parque Villa-Lobos on hardcourts. The tournament features 32 singles players competing for 250 points in the standings.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch201_WTA_Tour_250_Generic.jpg?w=960%26h=540" />
+		<desc>The Guadalajara Open is a WTA 500 tournament played on outdoor hard courts in Zapopan, Mexico at the Panamerican Tennis Center. It serves as a key hard-court stop during the autumn Asian-American swing.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch201_WTA_Tour_500_Generic.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="201" start="20260922030000 +0000" stop="20260922050000 +0000">
 		<title>WTA Tour 2026</title>
@@ -9667,6 +9680,11 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 		<title>The Football Review 2026</title>
 		<desc>Take a look back at the highlights and incidents that shaped the footballing world!</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch202_the_football_review.jpg?w=341%26h=192" />
+	</programme>
+	<programme channel="202" start="20260920183000 +0000" stop="20260920203000 +0000">
+		<title>WTA Tour 2026 (DNU) SP Open (250) Final</title>
+		<desc>The 2026 SP open is the second edition held at the Parque Villa-Lobos on hardcourts. The tournament features 32 singles players competing for 250 points in the standings.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch202_WTA_ATP_Tour_250_Generic.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="202" start="20260920203000 +0000" stop="20260920210000 +0000">
 		<title>Total Combat 2026</title>
@@ -9774,13 +9792,13 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 		<icon src="https://poster.starhubgo.com/poster/ch202_singapore_premier_league.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="202" start="20260922020000 +0000" stop="20260922040000 +0000">
-		<title>Asian University Basketball Lge 2026 :3rd Place: Waseda University vs Tsinghua University</title>
-		<desc>The AUBL is a pioneering pan-regional intercollegiate competition featuring Asia’s most prestigious university basketball programs, anchored by top teams from Greater China, Japan, and Korea.</desc>
+		<title>Asian University Basketball Lge 2026 3rd Place: Waseda University vs Tsinghua University</title>
+		<desc>The AUBL is a pioneering pan-regional intercollegiate competition featuring Asia's most prestigious university basketball programs, anchored by top teams from Greater China, Japan, and Korea.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch202_aubl_2026.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="202" start="20260922040000 +0000" stop="20260922060000 +0000">
-		<title>Asian University Basketball Lge Final: NCCU vs Shanghai Jiao Tong University</title>
-		<desc>The AUBL is a pioneering pan-regional intercollegiate competition featuring Asia’s most prestigious university basketball programs, anchored by top teams from Greater China, Japan, and Korea.</desc>
+		<title>Asian University Basketball Lge 2026 Final: NCCU vs Shanghai Jiao Tong University</title>
+		<desc>The AUBL is a pioneering pan-regional intercollegiate competition featuring Asia's most prestigious university basketball programs, anchored by top teams from Greater China, Japan, and Korea.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch202_aubl_2026.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="202" start="20260922060000 +0000" stop="20260922080000 +0000">
@@ -9998,6 +10016,56 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_channels2/205_1920x1080_HTV.png?w=960%26h=540" />
 	</programme>
+	<programme channel="206" start="20260920220000 +0000" stop="20260921040000 +0000">
+		<title>End of Transmission</title>
+		<desc>End of Transmission</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/206_1920x1080_HTV.png?w=960%26h=540" />
+	</programme>
+	<programme channel="206" start="20260921040000 +0000" stop="20260921100000 +0000">
+		<title>End of Transmission</title>
+		<desc>End of Transmission</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/206_1920x1080_HTV.png?w=960%26h=540" />
+	</programme>
+	<programme channel="206" start="20260921100000 +0000" stop="20260921160000 +0000">
+		<title>End of Transmission</title>
+		<desc>End of Transmission</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/206_1920x1080_HTV.png?w=960%26h=540" />
+	</programme>
+	<programme channel="206" start="20260921160000 +0000" stop="20260921220000 +0000">
+		<title>End of Transmission</title>
+		<desc>End of Transmission</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/206_1920x1080_HTV.png?w=960%26h=540" />
+	</programme>
+	<programme channel="206" start="20260921220000 +0000" stop="20260922040000 +0000">
+		<title>End of Transmission</title>
+		<desc>End of Transmission</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/206_1920x1080_HTV.png?w=960%26h=540" />
+	</programme>
+	<programme channel="207" start="20260920220000 +0000" stop="20260921040000 +0000">
+		<title>End of Transmission</title>
+		<desc>End of Transmission</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/207_1920x1080_HTV.png?w=960%26h=540" />
+	</programme>
+	<programme channel="207" start="20260921040000 +0000" stop="20260921100000 +0000">
+		<title>End of Transmission</title>
+		<desc>End of Transmission</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/207_1920x1080_HTV.png?w=960%26h=540" />
+	</programme>
+	<programme channel="207" start="20260921100000 +0000" stop="20260921160000 +0000">
+		<title>End of Transmission</title>
+		<desc>End of Transmission</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/207_1920x1080_HTV.png?w=960%26h=540" />
+	</programme>
+	<programme channel="207" start="20260921160000 +0000" stop="20260921220000 +0000">
+		<title>End of Transmission</title>
+		<desc>End of Transmission</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/207_1920x1080_HTV.png?w=960%26h=540" />
+	</programme>
+	<programme channel="207" start="20260921220000 +0000" stop="20260922040000 +0000">
+		<title>End of Transmission</title>
+		<desc>End of Transmission</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/207_1920x1080_HTV.png?w=960%26h=540" />
+	</programme>
 	<programme channel="209" start="20260920160000 +0000" stop="20260920180000 +0000">
 		<title>Roshn Saudi League 26/27 MD 7 Al Khaleej vs Al Nassr</title>
 		<desc>The Roshn Saudi League features Saudi Arabia's top clubs competing for the league title in an exciting season of elite football action.</desc>
@@ -10163,17 +10231,17 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 		<desc>40 of the world's best female and male professional triathletes battle over 8 breakneck 100km races in iconic locations around the globe in a bid to be crowned the T100 World Champions.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_2026_t100_triathlon_world_tour.jpg?w=960%26h=540" />
 	</programme>
-	<programme channel="210" start="20260922050000 +0000" stop="20260922063000 +0000">
+	<programme channel="210" start="20260922050000 +0000" stop="20260922063500 +0000">
 		<title>SailGP S6: Rolex Switzerland Grand Prix</title>
 		<desc>Adrenaline-fueled races, legendary global locations, rival national teams and record-breaking speeds. SailGP is the most exciting racing on water - Powered By Nature.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_sailgp.jpg?w=341%26h=192" />
 	</programme>
-	<programme channel="210" start="20260922063000 +0000" stop="20260922083000 +0000">
+	<programme channel="210" start="20260922063500 +0000" stop="20260922080500 +0000">
 		<title>2026 The Asian Tournament, Leg 3 Chengdu</title>
 		<desc>Top Asian teams face off in The Asian Tournament, delivering fast-paced basketball action and a battle for regional supremacy.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_the_asian.tournament.jpg?w=341%26h=192" />
 	</programme>
-	<programme channel="210" start="20260922083000 +0000" stop="20260922111500 +0000">
+	<programme channel="210" start="20260922080500 +0000" stop="20260922111500 +0000">
 		<title>2026 MotoGP Rd 15 Qatar Airways Grand Prix of Austria</title>
 		<desc>The 2026 MotoGP sees 22 of the world's best riders battle on 1000cc prototype machines, delivering over 250hp and reaching speeds of 360kph across 22 thrilling Grands Prix in 18 countries.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_motogp.jpg?w=960%26h=540" />
@@ -10225,17 +10293,17 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 	</programme>
 	<programme channel="211" start="20260920235000 +0000" stop="20260921014000 +0000">
 		<title>Women's Super League 2026/27: West Ham vs Everton</title>
-		<desc>BWSL is one of the most-watched leagues in the world and represents the pinnacle of women's professional football in England. A historic expansion will see 14 teams compete for honours.</desc>
+		<desc>BWSL is one of the most-watched leagues in the world and represents the pinnacle of womenâ€™s professional football in England. A historic expansion will see 14 teams compete for honours.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_womens_super_league_2025_26.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="211" start="20260921014000 +0000" stop="20260921033000 +0000">
 		<title>Women's Super League 2026/27: Brighton vs Aston Villa</title>
-		<desc>BWSL is one of the most-watched leagues in the world and represents the pinnacle of women's professional football in England. A historic expansion will see 14 teams compete for honours.</desc>
+		<desc>BWSL is one of the most-watched leagues in the world and represents the pinnacle of womenâ€™s professional football in England. A historic expansion will see 14 teams compete for honours.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_womens_super_league_2025_26.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="211" start="20260921033000 +0000" stop="20260921052000 +0000">
 		<title>Women's Super League 2026/27: Arsenal vs Man United</title>
-		<desc>BWSL is one of the most-watched leagues in the world and represents the pinnacle of women's professional football in England. A historic expansion will see 14 teams compete for honours.</desc>
+		<desc>BWSL is one of the most-watched leagues in the world and represents the pinnacle of womenâ€™s professional football in England. A historic expansion will see 14 teams compete for honours.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_womens_super_league_2025_26.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="211" start="20260921052000 +0000" stop="20260921071000 +0000">
@@ -10243,19 +10311,29 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 		<desc>beIN SPORTS brings you coverage of the 69th season of Turkey's top-flight football.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_superlig.jpg?w=960%26h=540" />
 	</programme>
-	<programme channel="211" start="20260921071000 +0000" stop="20260921084000 +0000">
+	<programme channel="211" start="20260921071000 +0000" stop="20260921091000 +0000">
 		<title>SailGP 2026</title>
 		<desc>SailGP is the most exciting racing on water. Adrenaline-fueled races, legendary global locations, rival national teams and record-breaking speeds.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_sail_gp.jpg?w=960%26h=540" />
 	</programme>
-	<programme channel="211" start="20260921084000 +0000" stop="20260921103000 +0000">
-		<title>Super Lig 2026/27: Fenerbahce vs Eyupspor</title>
-		<desc>beIN SPORTS brings you coverage of the 69th season of Turkey's top-flight football.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch211_superlig.jpg?w=960%26h=540" />
+	<programme channel="211" start="20260921091000 +0000" stop="20260921093000 +0000">
+		<title>Roland Garros Match Highlights: 2024 Men's Singles Final Alcaraz v Zverev</title>
+		<desc>Review the best actions and moments from the Roland Garros</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch211_roland_garros.jpg?w=341%26h=192" />
+	</programme>
+	<programme channel="211" start="20260921093000 +0000" stop="20260921100000 +0000">
+		<title>Mini Match - Roland Garros 2026: Mixed Doubles Final Errani/Vavassori/ v Dabrowski/King</title>
+		<desc>Roland-Garros is the second Grand Slam on the annual tennis calendar and is the only one played on clay.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch211_roland_garros.jpg?w=341%26h=192" />
+	</programme>
+	<programme channel="211" start="20260921100000 +0000" stop="20260921103000 +0000">
+		<title>Mini Match - Australian Open 2026: Women's Singles SF 1 Sabalenka v Svitolina</title>
+		<desc>The 1st Grand Slam of the year kick start on beIN Sports as the worldâ€™s best players battle it out to win the 114th edition of the Australian Open.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch211_AOGeneric.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="211" start="20260921103000 +0000" stop="20260921122000 +0000">
 		<title>Women's Super League 2026/27: Man City vs Liverpool</title>
-		<desc>BWSL is one of the most-watched leagues in the world and represents the pinnacle of women's professional football in England. A historic expansion will see 14 teams compete for honours.</desc>
+		<desc>BWSL is one of the most-watched leagues in the world and represents the pinnacle of womenâ€™s professional football in England. A historic expansion will see 14 teams compete for honours.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_womens_super_league_2025_26.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="211" start="20260921122000 +0000" stop="20260921141000 +0000">
@@ -10275,17 +10353,17 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 	</programme>
 	<programme channel="211" start="20260921175000 +0000" stop="20260921192000 +0000">
 		<title>Premier Padel 2026: Valladolid P2 Day 3 Match 2</title>
-		<desc>The official global Padel tour. Catch world's top players battle it out across the globe.</desc>
+		<desc>The official global Padel tour. Catch worldâ€™s top players battle it out across the globe.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_premier_padel_2026.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="211" start="20260921192000 +0000" stop="20260921205000 +0000">
 		<title>Premier Padel 2026: Valladolid P2 Day 3 Match 3</title>
-		<desc>The official global Padel tour. Catch world's top players battle it out across the globe.</desc>
+		<desc>The official global Padel tour. Catch worldâ€™s top players battle it out across the globe.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_premier_padel_2026.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="211" start="20260921205000 +0000" stop="20260921220500 +0000">
 		<title>Premier Padel 2026: Valladolid P2 Day 3 Match 4</title>
-		<desc>The official global Padel tour. Catch world's top players battle it out across the globe.</desc>
+		<desc>The official global Padel tour. Catch worldâ€™s top players battle it out across the globe.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_premier_padel_2026.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="211" start="20260921220500 +0000" stop="20260922000000 +0000">
@@ -10302,16 +10380,6 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 		<title>Pacific Nations Cup 2026: Fiji vs Japan - Final</title>
 		<desc>The Pacific Nations Cup is an international rugby union tournament hosted entirely in Japan, featuring a condensed, four-team format including Canada, Fiji, Japan, and the United States, replacing the traditional six-team round-robin.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_Pacific_Nations_Cup.jpg?w=341%26h=192" />
-	</programme>
-	<programme channel="211" start="20260922034000 +0000" stop="20260922053000 +0000">
-		<title>Women's Super League 2026/27: Man City vs Liverpool</title>
-		<desc>BWSL is one of the most-watched leagues in the world and represents the pinnacle of women's professional football in England. A historic expansion will see 14 teams compete for honours.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch211_womens_super_league_2025_26.jpg?w=341%26h=192" />
-	</programme>
-	<programme channel="211" start="20260922053000 +0000" stop="20260922072000 +0000">
-		<title>Super Lig 2026/27: Trabzonspor vs Galatasaray</title>
-		<desc>beIN SPORTS brings you coverage of the 69th season of Turkey's top-flight football.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch211_superlig.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="211" start="20260922072000 +0000" stop="20260922091000 +0000">
 		<title>Women's Super League 2026/27: Charlton vs London City Lionesses</title>
@@ -10330,16 +10398,6 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 	</programme>
 	<programme channel="211" start="20260922103000 +0000" stop="20260922122000 +0000">
 		<title>Super Lig 2026/27: Fenerbahce vs Eyupspor</title>
-		<desc>beIN SPORTS brings you coverage of the 69th season of Turkey's top-flight football.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch211_superlig.jpg?w=960%26h=540" />
-	</programme>
-	<programme channel="211" start="20260922122000 +0000" stop="20260922141000 +0000">
-		<title>Women's Super League 2026/27: Arsenal vs Man United</title>
-		<desc>BWSL is one of the most-watched leagues in the world and represents the pinnacle of women's professional football in England. A historic expansion will see 14 teams compete for honours.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch211_womens_super_league_2025_26.jpg?w=341%26h=192" />
-	</programme>
-	<programme channel="211" start="20260922141000 +0000" stop="20260922160000 +0000">
-		<title>Super Lig 2026/27: Amedspor vs Besiktas</title>
 		<desc>beIN SPORTS brings you coverage of the 69th season of Turkey's top-flight football.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_superlig.jpg?w=960%26h=540" />
 	</programme>
@@ -19944,12 +20002,12 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 	</programme>
 	<programme channel="509" start="20260922034500 +0000" stop="20260922043000 +0000">
 		<title>The Tonight Show Starring Jimmy Fallon S13 - EP 155</title>
-		<desc>Guests include Tom Cruise, Lili Reinhart and musical guest Suki Waterhouse. Emmy and Grammy Award-winning comedian Jimmy Fallon brings his unique high-energy comedy to the storied 60-year NBC franchise with his welcoming interview style, love of audience participation, spot-on impersonations and innovative sketches.</desc>
+		<desc>Guests include Tom Cruise, Lili Reinhart and musical guest Suki Waterhouse. Emmy and Grammy Award-winning comedian Jimmy Fallon brings his unique high-energy comedy to the storied 60-year NBC franchise with his welcoming interview style, love of audience</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch509_The_Tonight_Show_Starring_Jimmy_Fallon_S12.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="509" start="20260922043000 +0000" stop="20260922051500 +0000">
 		<title>Late Night With Seth Meyers S13 - EP 124</title>
-		<desc>Late Night with Seth Meyers is executive produced by the Emmy Award-winning Lorne Michaels and is home to A-list celebrity guests, memorable comedy and the best in musical talent.</desc>
+		<desc>Guests include Timothy Olyphant (Lucky) and Cooper Hoffman (I Want Your Sex). Late Night with Seth Meyers is executive produced by the Emmy Award-winning Lorne Michaels and is home to A-list celebrity guests, memorable comedy and the best in musical talent.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch509_Late_Night_With_Seth_Meyers_S12.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="509" start="20260922051500 +0000" stop="20260922060000 +0000">
@@ -20009,7 +20067,7 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 	</programme>
 	<programme channel="509" start="20260922151500 +0000" stop="20260922160000 +0000">
 		<title>The Tonight Show Starring Jimmy Fallon S14 - EP 1</title>
-		<desc>Emmy and Grammy Award-winning comedian Jimmy Fallon brings his unique high-energy comedy to the storied 60-year NBC franchise with his welcoming interview style, love of audience participation, spot-on impersonations and innovative sketches.</desc>
+		<desc>Guests include Queen Latifah, Dave Franco and comedian Ethan Simmons-Patterson. Emmy and Grammy Award-winning comedian Jimmy Fallon brings his unique high-energy comedy to the storied 60-year NBC franchise with his welcoming interview style, love of audience participation, spot-on impersonations and innovative sketches.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch509_The_Tonight_Show_Starring_Jimmy_Fallon_S12.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="511" start="20260920153500 +0000" stop="20260920163000 +0000">
@@ -32172,7 +32230,7 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 		<desc>Three once-pros get one last chance to reboot—finally starting the real second half of their lives in their fifties</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch824_fifties_professionals.jpg?w=960%26h=540" />
 	</programme>
-	<programme channel="824" start="20260922143000 +0000" stop="20260922163000 +0000">
+	<programme channel="824" start="20260922143000 +0000" stop="20260922160000 +0000">
 		<title>Sixth Sense: B-side - EP 1</title>
 		<desc>Each journey exploring trending SNS destinations hides a fake place created by the production team! Join the 'Sixth Sensers' for a brand new season and distinguish the fake from the real.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch824_sixth_sense_bside.jpg?w=341%26h=192" />
@@ -32987,19 +33045,34 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
-	<programme channel="832" start="20260921143800 +0000" stop="20260921160000 +0000">
+	<programme channel="832" start="20260921143800 +0000" stop="20260921170000 +0000">
 		<title>Overtime No More</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
-	<programme channel="832" start="20260921160000 +0000" stop="20260921220000 +0000">
-		<title>Information Not Available</title>
-		<desc />
+	<programme channel="832" start="20260921170000 +0000" stop="20260921220000 +0000">
+		<title>Dragon TV Primetime News</title>
+		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
-	<programme channel="832" start="20260921220000 +0000" stop="20260922040000 +0000">
-		<title>Information Not Available</title>
-		<desc />
+	<programme channel="832" start="20260921220000 +0000" stop="20260921223000 +0000">
+		<title>New Entertainment</title>
+		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341%26h=192" />
+	</programme>
+	<programme channel="832" start="20260921223000 +0000" stop="20260921230000 +0000">
+		<title>CARE ON THE WAY</title>
+		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341%26h=192" />
+	</programme>
+	<programme channel="832" start="20260921230000 +0000" stop="20260922000000 +0000">
+		<title>Dragon TV Morning News</title>
+		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341%26h=192" />
+	</programme>
+	<programme channel="832" start="20260922000000 +0000" stop="20260922023000 +0000">
+		<title>A Green Trip</title>
+		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
 	<programme channel="832" start="20260922040000 +0000" stop="20260922100000 +0000">
