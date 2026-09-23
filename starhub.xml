@@ -1902,7 +1902,7 @@
 	</programme>
 	<programme channel="106" start="20260923210000 +0000" stop="20260923213000 +0000">
 		<title>Money Mind - EP 22</title>
-		<desc>Money Mind is a weekly magazine programme centering on personal finance. Every week, the programme offers tips on how to grow, save and spend your money wisely.</desc>
+		<desc>Can AI turn a freelancer into a business owner? The risks of leverage investing. Plus – would you give up a graduate career track to run a food truck?</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
 	<programme channel="106" start="20260923213000 +0000" stop="20260923220000 +0000">
@@ -1910,7 +1910,12 @@
 		<desc>2026 could end up being the hottest year on record. A look at how we adapt, learn and find relief.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
-	<programme channel="106" start="20260923220000 +0000" stop="20260923230000 +0000">
+	<programme channel="106" start="20260923220000 +0000" stop="20260923220200 +0000">
+		<title>Headline News - EP 199</title>
+		<desc>(Live) The latest top stories of the hour.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png?w=341%26h=192" />
+	</programme>
+	<programme channel="106" start="20260923220200 +0000" stop="20260923230000 +0000">
 		<title>Singapore Tonight - EP 176</title>
 		<desc>From business to politics, health to technology, the latest news from Singapore and analysis of the impact.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png?w=341%26h=192" />
@@ -1922,7 +1927,7 @@
 	</programme>
 	<programme channel="106" start="20260924020000 +0000" stop="20260924023000 +0000">
 		<title>Money Mind - EP 22</title>
-		<desc>Money Mind is a weekly magazine programme centering on personal finance. Every week, the programme offers tips on how to grow, save and spend your money wisely.</desc>
+		<desc>Can AI turn a freelancer into a business owner? The risks of leverage investing. Plus – would you give up a graduate career track to run a food truck?</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
 	<programme channel="106" start="20260924023000 +0000" stop="20260924030000 +0000">
@@ -1982,7 +1987,7 @@
 	</programme>
 	<programme channel="106" start="20260924130000 +0000" stop="20260924140000 +0000">
 		<title>Insight - EP 17</title>
-		<desc>Insight investigates and analyses topical issues that impact Asia and the rest of the world.</desc>
+		<desc>After decades of brain drain, some Indians are coming home. Wha tis bringing them home. Can India turn a trickle of returning talent into a wave — and harness them to become an innovation powerhouse?</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
 	<programme channel="106" start="20260924140000 +0000" stop="20260924150000 +0000">
@@ -1992,7 +1997,7 @@
 	</programme>
 	<programme channel="106" start="20260924150000 +0000" stop="20260924153000 +0000">
 		<title>Money Mind - EP 22</title>
-		<desc>Money Mind is a weekly magazine programme centering on personal finance. Every week, the programme offers tips on how to grow, save and spend your money wisely.</desc>
+		<desc>Can AI turn a freelancer into a business owner? The risks of leverage investing. Plus – would you give up a graduate career track to run a food truck?</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
 	<programme channel="106" start="20260924153000 +0000" stop="20260924160000 +0000">
@@ -9750,20 +9755,15 @@
 		<desc>The Hangzhou Open is an ATP 250 event that was first held in 2024. The tennis centre of the Hangzhou Olympics Sports Centre, a state-of-the-art facility, is the tournament venue. It features an 8,000-seat centre court with a retractable roof.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch201_ATP250_Hangzhou_Open.jpg?w=960%26h=540" />
 	</programme>
-	<programme channel="201" start="20260924020000 +0000" stop="20260924033000 +0000">
-		<title>ATP Tour 2026</title>
-		<desc>The Hangzhou Open is an ATP 250 event that was first held in 2024. The tennis centre of the Hangzhou Olympics Sports Centre, a state-of-the-art facility, is the tournament venue. It features an 8,000-seat centre court with a retractable roof.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch201_ATP250_Hangzhou_Open.jpg?w=960%26h=540" />
+	<programme channel="201" start="20260924020000 +0000" stop="20260924040000 +0000">
+		<title>WTA Tour 2026</title>
+		<desc>The 2026 SP open is the second edition held at the Parque Villa-Lobos on hardcourts. The tournament features 32 singles players competing for 250 points in the standings.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch201_WTA_Tour_250_Generic.jpg?w=960%26h=540" />
 	</programme>
-	<programme channel="201" start="20260924033000 +0000" stop="20260924043000 +0000">
+	<programme channel="201" start="20260924040000 +0000" stop="20260924050000 +0000">
 		<title>Mass Participation 2026</title>
 		<desc>Mass participation are a collection of captivating events from around the world; these might be triathlons, marathons %26 ultra-marathons, adventure racing or world record breaking attempts! All the events are of the highest quality in terms of competitors, location and production.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch201_MassParticipation.jpg?w=341%26h=192" />
-	</programme>
-	<programme channel="201" start="20260924043000 +0000" stop="20260924050000 +0000">
-		<title>WTA Tour 2026 Highlights</title>
-		<desc>Catch all the best moments from the Hard Rock Stadium in Miami Gardens. Florida.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch201_wta_tour.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="201" start="20260924050000 +0000" stop="20260924090000 +0000">
 		<title>WTA Tour 2026</title>
@@ -26080,15 +26080,10 @@
 		<desc>Becky Anderson explores diverse perspectives and explains global issues of the day.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch711_connect_the_world.jpg?w=341%26h=192" />
 	</programme>
-	<programme channel="711" start="20260924150000 +0000" stop="20260924153000 +0000">
+	<programme channel="711" start="20260924150000 +0000" stop="20260924160000 +0000">
 		<title>One World</title>
 		<desc>Zain Asher and Bianna Golodryga cover the top global and national issues of the day.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch711_one_world_with_zain_asher_and_bianna_golodryga.jpg?w=341%26h=192" />
-	</programme>
-	<programme channel="711" start="20260924153000 +0000" stop="20260924160000 +0000">
-		<title>CNN Creators</title>
-		<desc>Live from Doha, Qatar, CNN Creators follows a team of digital-native storytellers as they navigate the stories that matter most, with a focus on tech, art, culture, sport, and social trends.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch711_cnn_creators.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="722" start="20260922160000 +0000" stop="20260922170000 +0000">
 		<title>Global Business</title>
