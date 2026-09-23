@@ -895,9 +895,14 @@
 		<desc>A single dad has his hands full raising six rambunctious chipmunks in this animated comedy!</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
-	<programme channel="102" start="20260924053000 +0000" stop="20260924054500 +0000">
+	<programme channel="102" start="20260924053000 +0000" stop="20260924053500 +0000">
 		<title>Minibods - EP 1</title>
 		<desc>Newt rides her bike to find a Flutterbug with Pogo and Bubbles but her stabilisers fall off!</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png?w=341%26h=192" />
+	</programme>
+	<programme channel="102" start="20260924053500 +0000" stop="20260924054500 +0000">
+		<title>Minibods - EP 2</title>
+		<desc>Pogo wants to eat a Mang-Mang fruit but it isn't ripe! With Newt's help, Pogo must learn to wait.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
 	<programme channel="102" start="20260924054500 +0000" stop="20260924055500 +0000">
@@ -941,8 +946,8 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
 	<programme channel="102" start="20260924153000 +0000" stop="20260924160000 +0000">
-		<title>In Search of Heat - EP 1</title>
-		<desc>Private chef and avid photographer Kevin Lee finds out how many different cultures embrace their passionate love affair with chilli and heat.</desc>
+		<title>In Search of Heat - EP 2</title>
+		<desc>We go off the beaten path and explore the adventurous and tongue-numbing ways to use our beloved chillies.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
 	<programme channel="103" start="20260922160000 +0000" stop="20260922170000 +0000">
@@ -1322,7 +1327,7 @@
 	</programme>
 	<programme channel="103" start="20260924143000 +0000" stop="20260924150000 +0000">
 		<title>Focus - EP 26</title>
-		<desc>Focus provides timely reports and analyses on international news and current affairs from Singapore's perspective.</desc>
+		<desc>Drought-hit Indonesian rice farmers are going into debt to find water, yet harvests remain poor. See how climate change is threatening their livelihoods. A string of missing-person and death cases on Jeju Island has raised concerns over police competence. As South Korea expands police powers while curbing prosecutors, is the justice system achieving greater checks and balances — or creating new gaps?</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/103_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
 	<programme channel="103" start="20260924150000 +0000" stop="20260924160000 +0000">
@@ -1407,7 +1412,7 @@
 	</programme>
 	<programme channel="104" start="20260923123000 +0000" stop="20260923130000 +0000">
 		<title>Detik Semasa - EP 20</title>
-		<desc>The program analyses and dissect issues of concern to the Malay/Muslim Singaporeans - be it at the community level, national, regional or global. Apart from raising awareness, each DETIK episode hopes to set viewers thinking and make informed decisions on matters that can impact their lives.</desc>
+		<desc>Electric vehicles are becoming more common in Singapore. What does this mean for traditional car workshops that have been around for decades, and can they adapt to these changes? Detik KitorangSG: In this episode, Tun Seri Lanang Award recipient Jamal Ismail opens up about his journey through the worlds of broadcasting and writing, his quest for self-discovery, and the life experiences that made his path anything but ordinary.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/104_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
 	<programme channel="104" start="20260923130000 +0000" stop="20260923133000 +0000">
@@ -1472,7 +1477,7 @@
 	</programme>
 	<programme channel="104" start="20260924070000 +0000" stop="20260924073000 +0000">
 		<title>Detik Semasa - EP 20</title>
-		<desc>The program analyses and dissect issues of concern to the Malay/Muslim Singaporeans - be it at the community level, national, regional or global. Apart from raising awareness, each DETIK episode hopes to set viewers thinking and make informed decisions on matters that can impact their lives.</desc>
+		<desc>Electric vehicles are becoming more common in Singapore. What does this mean for traditional car workshops that have been around for decades, and can they adapt to these changes? Detik KitorangSG: In this episode, Tun Seri Lanang Award recipient Jamal Ismail opens up about his journey through the worlds of broadcasting and writing, his quest for self-discovery, and the life experiences that made his path anything but ordinary.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/104_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
 	<programme channel="104" start="20260924073000 +0000" stop="20260924080000 +0000">
@@ -25778,7 +25783,7 @@
 	<programme channel="711" start="20260922164500 +0000" stop="20260922170000 +0000">
 		<title>African Voices</title>
 		<desc>Nigerian chef and restaurateur Hilda Baci sits down with Larry Madowo to talk about her record-breaking rise, the global appeal of Nigerian cuisine.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch711_african_voices.jpg?w=960%26h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch711_inside_africa.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="711" start="20260922170000 +0000" stop="20260922180000 +0000">
 		<title>Amanpour</title>
@@ -25942,7 +25947,7 @@
 	</programme>
 	<programme channel="711" start="20260923190000 +0000" stop="20260923200000 +0000">
 		<title>What We Know with Max Foster</title>
-		<desc>Max Foster has a definitive roundup of the day’s top stories, giving you the urgent need-to-know context, plus a deeper dive into the questions sparking debate around the world.</desc>
+		<desc>Max Foster has a definitive roundup of the day's top stories, with urgent need-to-know context and a deeper dive into the questions sparking debate</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch711_what_we_know_with_max_foster.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="711" start="20260923200000 +0000" stop="20260923204500 +0000">
@@ -25952,12 +25957,12 @@
 	</programme>
 	<programme channel="711" start="20260923204500 +0000" stop="20260923210000 +0000">
 		<title>Marketplace Europe</title>
-		<desc>Marketplace Europe returns to Lake Como for the annual Cernobbio Forum, where political and economic leaders discuss the state of Europe's economy.</desc>
+		<desc>Every month, we delve into how innovation and technology are driving Europe's great recovery, speaking to top CEOs and exploring new trends.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch711_marketplace_europe.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="711" start="20260923210000 +0000" stop="20260923213000 +0000">
 		<title>The Lead with Jake Tapper</title>
-		<desc>Jake Tapper covers all the day's top stories around the country and the globe, from politics to money, and sports to popular culture.</desc>
+		<desc>Jake Tapper covers all the day's top stories around the country and the globe, from politics to money and sports to popular culture.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch711_the_lead_with_jake_tapper.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="711" start="20260923213000 +0000" stop="20260923220000 +0000">
@@ -25967,7 +25972,7 @@
 	</programme>
 	<programme channel="711" start="20260923220000 +0000" stop="20260923230000 +0000">
 		<title>The Brief with Jim Sciutto</title>
-		<desc>The best of CNN's reporting from correspondents across the world, to guide global audiences through the fast-paced news cycle with insight, analysis and hard-hitting interviews.</desc>
+		<desc>The best CNN reporting from correspondents across the world, to guide global audiences through the fast-paced news cycle with insight and analysis.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch711_the_brief_with_jim_sciutto.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="711" start="20260923230000 +0000" stop="20260924000000 +0000">
@@ -32865,14 +32870,49 @@
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
-	<programme channel="832" start="20260923170000 +0000" stop="20260923220000 +0000">
-		<title>Information Not Available</title>
-		<desc />
+	<programme channel="832" start="20260923170000 +0000" stop="20260923171200 +0000">
+		<title>ShanghaiEye</title>
+		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
-	<programme channel="832" start="20260923220000 +0000" stop="20260924040000 +0000">
-		<title>Information Not Available</title>
-		<desc />
+	<programme channel="832" start="20260923171200 +0000" stop="20260923180000 +0000">
+		<title>Dragon TV Primetime News</title>
+		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341%26h=192" />
+	</programme>
+	<programme channel="832" start="20260923180000 +0000" stop="20260923190000 +0000">
+		<title>Future China</title>
+		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341%26h=192" />
+	</programme>
+	<programme channel="832" start="20260923190000 +0000" stop="20260923193000 +0000">
+		<title>Next Station</title>
+		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341%26h=192" />
+	</programme>
+	<programme channel="832" start="20260923193000 +0000" stop="20260923210000 +0000">
+		<title>the city of musicals</title>
+		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341%26h=192" />
+	</programme>
+	<programme channel="832" start="20260923210000 +0000" stop="20260923220000 +0000">
+		<title>A Green Trip</title>
+		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341%26h=192" />
+	</programme>
+	<programme channel="832" start="20260923220000 +0000" stop="20260923223000 +0000">
+		<title>New Entertainment</title>
+		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341%26h=192" />
+	</programme>
+	<programme channel="832" start="20260923223000 +0000" stop="20260923230000 +0000">
+		<title>CARE ON THE WAY</title>
+		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341%26h=192" />
+	</programme>
+	<programme channel="832" start="20260923230000 +0000" stop="20260924010000 +0000">
+		<title>Dragon TV Morning News</title>
+		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
 	<programme channel="832" start="20260924040000 +0000" stop="20260924100000 +0000">
