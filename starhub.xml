@@ -1197,7 +1197,7 @@
 	</programme>
 	<programme channel="103" start="20260927153000 +0000" stop="20260927160000 +0000">
 		<title>Frontline - EP 26</title>
-		<desc>Frontline is a weekly investigative current affairs programme that aims to address issues closest to the hearts of Singaporeans.</desc>
+		<desc>Pickleball is booming in Singapore, Malaysia and Indonesia. More courts mean tougher competition in Singapore, while KL and Jakarta face noise complaints. In West Java, some courts have even moved into forests. How can the sport grow without disturbing residents?</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/103_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
 	<programme channel="104" start="20260925160000 +0000" stop="20260926010000 +0000">
@@ -9587,7 +9587,7 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 	</programme>
 	<programme channel="206" start="20260927063000 +0000" stop="20260927083000 +0000">
 		<title>WTA Tour 2026</title>
-		<desc>on outdoor hard courts at the Seoul Olympic Park Tennis Center in South Korea</desc>
+		<desc>Founded in 2004, the Korea Open has been an integral part of women’s tennis for over two decades. 28 singles players compete for the title on outdoor hard courts at the Seoul Olympic Park Tennis Center in South Korea.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch201_WTA_Tour_250_Generic.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="206" start="20260927083000 +0000" stop="20260927103000 +0000">
@@ -25630,15 +25630,20 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 		<desc>The Creators discuss what happens when a viral YouTuber takes his show to Syria.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch711_cnn_creators.jpg?w=341%26h=192" />
 	</programme>
-	<programme channel="711" start="20260926220000 +0000" stop="20260926224500 +0000">
+	<programme channel="711" start="20260926220000 +0000" stop="20260926223000 +0000">
 		<title>CNN Newsroom Saturday</title>
 		<desc>The latest news and information from around the world.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch711_cnn_newsroom.jpg?w=960%26h=540" />
 	</programme>
-	<programme channel="711" start="20260926224500 +0000" stop="20260926230000 +0000">
+	<programme channel="711" start="20260926223000 +0000" stop="20260926224500 +0000">
 		<title>Marketplace Africa</title>
-		<desc>Marketplace Africa offers unique access to the latest African market information, with a look at events and developments that impact the business world.</desc>
+		<desc>New technology is being deployed in Namibia as a means of managing and conserving water.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch711_marketplace_africa.jpg?w=960%26h=540" />
+	</programme>
+	<programme channel="711" start="20260926224500 +0000" stop="20260926230000 +0000">
+		<title>Marketplace Europe</title>
+		<desc>Marketplace Europe returns to Lake Como for the annual Cernobbio Forum, where political and economic leaders discuss the state of Europe's economy.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch711_marketplace_europe.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="711" start="20260926230000 +0000" stop="20260926233000 +0000">
 		<title>Answering Tomorrow</title>
@@ -25662,12 +25667,12 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 	</programme>
 	<programme channel="711" start="20260927013000 +0000" stop="20260927020000 +0000">
 		<title>Seasons</title>
-		<desc>In a world shaped by algorithms, mass production and endless choice, what is good taste? And where do you find it? Laura Jackson meets people in the business of taste-making.</desc>
+		<desc>In a world shaped by algorithms, mass production and endless choice, what is good taste, and where do you find it?</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch711_cnni_placeholder.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="711" start="20260927020000 +0000" stop="20260927023000 +0000">
 		<title>Inside Africa</title>
-		<desc>Inside Africa takes its viewers on a journey across Africa, exploring the true diversity and depth of different cultures, countries and regions.</desc>
+		<desc>Every year, humpback whales return to Sainte-Marie to mate, give birth and raise their young. We follow researchers exploring their behaviour.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch711_inside_africa.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="711" start="20260927023000 +0000" stop="20260927030000 +0000">
@@ -25697,7 +25702,7 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 	</programme>
 	<programme channel="711" start="20260927053000 +0000" stop="20260927060000 +0000">
 		<title>Inside Africa</title>
-		<desc>Inside Africa takes its viewers on a journey across Africa, exploring the true diversity and depth of different cultures, countries and regions.</desc>
+		<desc>Every year, humpback whales return to Sainte-Marie to mate, give birth and raise their young. We follow researchers exploring their behaviour.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch711_inside_africa.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="711" start="20260927060000 +0000" stop="20260927063000 +0000">
@@ -25707,7 +25712,7 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 	</programme>
 	<programme channel="711" start="20260927063000 +0000" stop="20260927064500 +0000">
 		<title>Marketplace Africa</title>
-		<desc>Marketplace Africa offers unique access to the latest African market information, with a look at events and developments that impact the business world.</desc>
+		<desc>New technology is being deployed in Namibia as a means of managing and conserving water.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch711_marketplace_africa.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="711" start="20260927064500 +0000" stop="20260927070000 +0000">
@@ -25737,12 +25742,12 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 	</programme>
 	<programme channel="711" start="20260927100000 +0000" stop="20260927103000 +0000">
 		<title>Seasons</title>
-		<desc>In a world shaped by algorithms, mass production and endless choice, what is good taste? And where do you find it? Laura Jackson meets people in the business of taste-making.</desc>
+		<desc>In a world shaped by algorithms, mass production and endless choice, what is good taste, and where do you find it?</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch711_cnni_placeholder.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="711" start="20260927103000 +0000" stop="20260927110000 +0000">
 		<title>Inside Africa</title>
-		<desc>Inside Africa takes its viewers on a journey across Africa, exploring the true diversity and depth of different cultures, countries and regions.</desc>
+		<desc>Every year, humpback whales return to Sainte-Marie to mate, give birth and raise their young. We follow researchers exploring their behaviour.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch711_inside_africa.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="711" start="20260927110000 +0000" stop="20260927120000 +0000">
@@ -26788,7 +26793,7 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 	<programme channel="724" start="20260926182200 +0000" stop="20260926183000 +0000">
 		<title>Focus</title>
 		<desc>Exclusive reports from France 24 correspondents around the world.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch724_focus.jpg?w=341%26h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch724_fashion.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="724" start="20260926183000 +0000" stop="20260926184500 +0000">
 		<title>News</title>
@@ -26918,7 +26923,7 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 	<programme channel="724" start="20260926232100 +0000" stop="20260926233000 +0000">
 		<title>Focus</title>
 		<desc>Exclusive reports from France 24 correspondents around the world.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch724_focus.jpg?w=341%26h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch724_fashion.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="724" start="20260926233000 +0000" stop="20260926234500 +0000">
 		<title>News</title>
@@ -27113,7 +27118,7 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 	<programme channel="724" start="20260927082100 +0000" stop="20260927083000 +0000">
 		<title>Focus</title>
 		<desc>Exclusive reports from France 24 correspondents around the world.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch724_focus.jpg?w=341%26h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch724_fashion.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="724" start="20260927083000 +0000" stop="20260927084400 +0000">
 		<title>News</title>
@@ -27188,7 +27193,7 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 	<programme channel="724" start="20260927104500 +0000" stop="20260927105000 +0000">
 		<title>Focus</title>
 		<desc>Exclusive reports from France 24 correspondents around the world.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch724_focus.jpg?w=341%26h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch724_fashion.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="724" start="20260927105000 +0000" stop="20260927110000 +0000">
 		<title>Sports</title>
@@ -27288,7 +27293,7 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 	<programme channel="724" start="20260927135200 +0000" stop="20260927140000 +0000">
 		<title>Focus</title>
 		<desc>Exclusive reports from France 24 correspondents around the world.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch724_focus.jpg?w=341%26h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch724_fashion.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="724" start="20260927140000 +0000" stop="20260927141400 +0000">
 		<title>News</title>
@@ -27308,7 +27313,7 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 	<programme channel="724" start="20260927142100 +0000" stop="20260927143000 +0000">
 		<title>Focus</title>
 		<desc>Exclusive reports from France 24 correspondents around the world.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch724_focus.jpg?w=341%26h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch724_fashion.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="724" start="20260927143000 +0000" stop="20260927144400 +0000">
 		<title>News</title>
