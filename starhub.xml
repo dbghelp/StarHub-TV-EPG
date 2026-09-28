@@ -9720,6 +9720,11 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 		<desc>Heroines is a timeless series, that tables important discussion that challenges the status quo and celebrates the unique values of women’s sport. Each episode features a dedicated theme such as equality, maternity, leadership, mental health, fan engagement, activism and more, supported by exclusive interviews with leaders at the forefront of women’s sport.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch201_Heroines2025.jpg?w=960%26h=540" />
 	</programme>
+	<programme channel="201" start="20260929030000 +0000" stop="20260929050000 +0000">
+		<title>WTA Tour 2026</title>
+		<desc>The Singapore Tennis Open made its long-awaited return to the WTA Tour in 2025. Taking place on indoor hard courts at the OCBC Arena, 28-players look to earn as many points as possible in the late stages of the Race to the Finals.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch201_WTA_500_Singapore_Open_Final.jpg?w=960%26h=540" />
+	</programme>
 	<programme channel="201" start="20260929050000 +0000" stop="20260929063000 +0000">
 		<title>ATP Tour 2026</title>
 		<desc>The Chengdu Open, inaugurated in 2016, is a key fixture on the ATP Tour’s Asian swing. Staged at the Sichuan International Tennis Center, the venue boasts a 6,000-seat centre court. Beyond the competition, Chengdu captivates with its distinctive charm.</desc>
@@ -9745,10 +9750,15 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 		<desc>Catch all the heart stopping moments from 7 winners as they join champions Italy in Bologna to lift the coveted trophy.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch201_Davis_Cup_by_Generali_Qualifiers_2026.jpg?w=960%26h=540" />
 	</programme>
-	<programme channel="201" start="20260929110000 +0000" stop="20260929153000 +0000">
+	<programme channel="201" start="20260929110000 +0000" stop="20260929150000 +0000">
 		<title>Billie Jean King Cup by Gainbridge Finals 2026</title>
 		<desc>8 teams battle it out for the coveted trophy at the 63rd edition of the world cup of women's tennis at the Shenzhen Bay Sports Centre Arena in Shenzhen, China.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch201_billie_jean_king_cup_GENERIC.jpg?w=341%26h=192" />
+	</programme>
+	<programme channel="201" start="20260929150000 +0000" stop="20260929153000 +0000">
+		<title>Mass Participation 2026</title>
+		<desc>Mass participation are a collection of captivating events from around the world; these might be triathlons, marathons %26 ultra-marathons, adventure racing or world record breaking attempts! All the events are of the highest quality in terms of competitors, location and production.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch201_MassParticipation.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="201" start="20260929153000 +0000" stop="20260929160000 +0000">
 		<title>ATP Originals Series</title>
@@ -9885,10 +9895,20 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 		<desc>The Ultimate Fighting Championship features some of the world's highest-profiled mixed martial arts exponents on its roster. The UFC Fight Night traditionally opens with a preliminary card and ends with the main card.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch202_ufc_fn24_Rosas_Jr_vs_Barcelos.jpg?w=341%26h=192" />
 	</programme>
-	<programme channel="202" start="20260929073000 +0000" stop="20260929120000 +0000">
-		<title>WTA Tour 2026 Korea Open (250) QF 2 %26 3 %26 4</title>
+	<programme channel="202" start="20260929073000 +0000" stop="20260929103000 +0000">
+		<title>WTA Tour 2026 Korea Open (250) QF 3 %26 4</title>
 		<desc>Founded in 2004, the Korea Open has been an integral part of women's tennis for over two decades. 28 singles players compete for the title on outdoor hard courts at the Seoul Olympic Park Tennis Center in South Korea.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch202_WTA_ATP_Tour_250_Generic.jpg?w=960%26h=540" />
+	</programme>
+	<programme channel="202" start="20260929103000 +0000" stop="20260929113000 +0000">
+		<title>UFC Main Event 2026 UFC 311: Dvalishvili vs Nurmagomedov</title>
+		<desc>Before you see a memorable bout, UFC Main Event lets you delve into the lives of its athletes and their mindsets going into the Octagon.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch202_ufc_311_Dvalishvili_vs_Nurmagomedov.jpg?w=341%26h=192" />
+	</programme>
+	<programme channel="202" start="20260929113000 +0000" stop="20260929120000 +0000">
+		<title>UFC Connected 2026</title>
+		<desc>UFC Connected is a monthly magazine show that gives fans a unique look inside the UFC with exclusive access to fighters, teams, and events from around the globe.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch202_ufc.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="202" start="20260929120000 +0000" stop="20260929123000 +0000">
 		<title>The Football Review 2026</title>
@@ -10346,7 +10366,7 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 		<icon src="https://poster.starhubgo.com/poster/ch210_motogp.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="210" start="20260928133000 +0000" stop="20260928160000 +0000">
-		<title>27/9 2026 MLB Regular Season New York Yankees vs Baltimore Orioles</title>
+		<title>27/9 2026 MLB Regular Season San Francisco Giants vs Los Angeles Dodgers</title>
 		<desc>Major League Baseball is the most historic professional sports league consists of 30 member clubs in the U.S. and Canada, representing the highest level of professional baseball.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_mlb.jpg?w=341%26h=192" />
 	</programme>
@@ -10391,7 +10411,7 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 		<icon src="https://poster.starhubgo.com/poster/ch210_motogp.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="210" start="20260929133000 +0000" stop="20260929160000 +0000">
-		<title>27/9 2026 MLB Regular Season San Francisco Giants vs Los Angeles Dodgers</title>
+		<title>28/9 2026 MLB Regular Season San Francisco Giants vs Los Angeles Dodgers</title>
 		<desc>Major League Baseball is the most historic professional sports league consists of 30 member clubs in the U.S. and Canada, representing the highest level of professional baseball.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_mlb.jpg?w=341%26h=192" />
 	</programme>
@@ -10401,23 +10421,23 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 		<icon src="https://poster.starhubgo.com/poster/ch211_laver_cup.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="211" start="20260927170000 +0000" stop="20260927190000 +0000">
-		<title>Laver Cup 2026: Singles Day 3 Match 12</title>
+		<title>Laver Cup 2026: DNU Singles Day 3 Jodar v Fritz</title>
 		<desc>The Laver Cup pits six top European players against six of their counterparts from the rest of the World.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_laver_cup.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="211" start="20260927190000 +0000" stop="20260927210000 +0000">
-		<title>Laver Cup 2026: Doubles Day 3 Match 13</title>
+		<title>Laver Cup 2026: DNU Doubles Day 3 Match 13</title>
 		<desc>The Laver Cup pits six top European players against six of their counterparts from the rest of the World.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_laver_cup.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="211" start="20260927210000 +0000" stop="20260927221500 +0000">
 		<title>Premier Padel 2026: Valladolid P2 Day 5 SF1 - Men</title>
-		<desc>The official global Padel tour. Catch worldâ€™s top players battle it out across the globe.</desc>
+		<desc>The official global Padel tour. Catch world's top players battle it out across the globe.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_premier_padel_2026.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="211" start="20260927221500 +0000" stop="20260927234500 +0000">
 		<title>Premier Padel 2026: Valladolid P2 Day 5 SF2 - Men</title>
-		<desc>The official global Padel tour. Catch worldâ€™s top players battle it out across the globe.</desc>
+		<desc>The official global Padel tour. Catch world's top players battle it out across the globe.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_premier_padel_2026.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="211" start="20260927234500 +0000" stop="20260928000500 +0000">
@@ -10441,12 +10461,12 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 		<icon src="https://poster.starhubgo.com/poster/ch211_premier_padel_2026.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="211" start="20260928032500 +0000" stop="20260928045500 +0000">
-		<title>Laver Cup 2026 Doubles Day 3 Cobolli/Mensik v De Minaur/Fritz</title>
+		<title>Laver Cup 2026: Doubles Day 3 Cobolli/Mensik v De Minaur/Fritz</title>
 		<desc>The Laver Cup pits six top European players against six of their counterparts from the rest of the World.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_laver_cup.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="211" start="20260928045500 +0000" stop="20260928062500 +0000">
-		<title>Laver Cup 2026 Singles Day 3 Zverev v Tien</title>
+		<title>Laver Cup 2026: Singles Day 3 Zverev v Tien</title>
 		<desc>The Laver Cup pits six top European players against six of their counterparts from the rest of the World.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_laver_cup.jpg?w=960%26h=540" />
 	</programme>
@@ -10456,27 +10476,27 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 		<icon src="https://poster.starhubgo.com/poster/ch211_womens_super_league_2025_26.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="211" start="20260928081500 +0000" stop="20260928094500 +0000">
-		<title>Laver Cup 2026 Singles Day 2  Zverev v De Minaur</title>
+		<title>Laver Cup 2026: Singles Day 2  Zverev v De Minaur</title>
 		<desc>The Laver Cup pits six top European players against six of their counterparts from the rest of the World.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_laver_cup.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="211" start="20260928094500 +0000" stop="20260928111500 +0000">
-		<title>Laver Cup 2026 Singles Day 2 Alcaraz v Fritz</title>
+		<title>Laver Cup 2026: Singles Day 2 Alcaraz v Fritz</title>
 		<desc>The Laver Cup pits six top European players against six of their counterparts from the rest of the World.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_laver_cup.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="211" start="20260928111500 +0000" stop="20260928124500 +0000">
-		<title>Laver Cup 2026 Doubles Day 2 Ruud/Zverev v Bublik/Nakashima</title>
+		<title>Laver Cup 2026: Doubles Day 2 Ruud/Zverev v Bublik/Nakashima</title>
 		<desc>The Laver Cup pits six top European players against six of their counterparts from the rest of the World.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_laver_cup.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="211" start="20260928124500 +0000" stop="20260928141500 +0000">
-		<title>Laver Cup 2026 Doubles Day 3 Cobolli/Mensik v De Minaur/Fritz</title>
+		<title>Laver Cup 2026: Doubles Day 3 Cobolli/Mensik v De Minaur/Fritz</title>
 		<desc>The Laver Cup pits six top European players against six of their counterparts from the rest of the World.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_laver_cup.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="211" start="20260928141500 +0000" stop="20260928154500 +0000">
-		<title>Laver Cup 2026 Singles Day 3 Zverev v Tien</title>
+		<title>Laver Cup 2026: Singles Day 3 Zverev v Tien</title>
 		<desc>The Laver Cup pits six top European players against six of their counterparts from the rest of the World.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_laver_cup.jpg?w=960%26h=540" />
 	</programme>
@@ -10517,43 +10537,43 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 	</programme>
 	<programme channel="211" start="20260929005500 +0000" stop="20260929022500 +0000">
 		<title>Premier Padel 2026: Paris Major Day 7 Final - Men</title>
-		<desc>The official global Padel tour. Catch worldâ€™s top players battle it out across the globe.</desc>
+		<desc>The official global Padel tour. Catch world's top players battle it out across the globe.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_premier_padel_2026.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="211" start="20260929022500 +0000" stop="20260929035500 +0000">
-		<title>Laver Cup 2026: Doubles Day 3 Match 9</title>
+		<title>Laver Cup 2026: Singles Day 2  Zverev v De Minaur</title>
 		<desc>The Laver Cup pits six top European players against six of their counterparts from the rest of the World.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_laver_cup.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="211" start="20260929035500 +0000" stop="20260929052500 +0000">
-		<title>Laver Cup 2026: Singles Day 3 Match 10</title>
+		<title>Laver Cup 2026: Singles Day 2 Alcaraz v Fritz</title>
 		<desc>The Laver Cup pits six top European players against six of their counterparts from the rest of the World.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_laver_cup.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="211" start="20260929052500 +0000" stop="20260929065500 +0000">
-		<title>Laver Cup 2026: Singles Day 3 Match 11</title>
+		<title>Laver Cup 2026: Doubles Day 2 Ruud/Zverev v Bublik/Nakashima</title>
 		<desc>The Laver Cup pits six top European players against six of their counterparts from the rest of the World.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_laver_cup.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="211" start="20260929065500 +0000" stop="20260929082500 +0000">
-		<title>Laver Cup 2026: Singles Day 3 Match 12</title>
+		<title>Laver Cup 2026: Doubles Day 3 Cobolli/Mensik v De Minaur/Fritz</title>
 		<desc>The Laver Cup pits six top European players against six of their counterparts from the rest of the World.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_laver_cup.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="211" start="20260929082500 +0000" stop="20260929095500 +0000">
-		<title>Laver Cup 2026: Doubles Day 3 Match 13</title>
+		<title>Laver Cup 2026: Singles Day 3 Zverev v Tien</title>
 		<desc>The Laver Cup pits six top European players against six of their counterparts from the rest of the World.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_laver_cup.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="211" start="20260929095500 +0000" stop="20260929114500 +0000">
 		<title>Women's Super League 2026/27: Chelsea vs Arsenal</title>
-		<desc>BWSL is one of the most-watched leagues in the world and represents the pinnacle of womenâ€™s professional football in England. A historic expansion will see 14 teams compete for honours.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch211_WomensSuperLeague.jpg?w=960%26h=540" />
+		<desc>BWSL is one of the most-watched leagues in the world and represents the pinnacle of women's professional football in England. A historic expansion will see 14 teams compete for honours.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch211_womens_super_league_2025_26.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="211" start="20260929114500 +0000" stop="20260929124500 +0000">
 		<title>Women's Super League Highlights 2026/27</title>
 		<desc>Catch all the highlights from the BWSL, the pinnacle of women's professional football in England.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch211_WomensSuperLeague.jpg?w=960%26h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch211_womens_super_league_2025_26.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="211" start="20260929124500 +0000" stop="20260929150000 +0000">
 		<title>TotalEnergies Africa Cup of Nations Qualifiers 2027: South Sudan vs Egypt</title>
@@ -10567,7 +10587,7 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 	</programme>
 	<programme channel="211" start="20260929151500 +0000" stop="20260929154500 +0000">
 		<title>Mini Match - Australian Open 2026: Men's Doubles Final Harrison/Skupski v Kubler/Polmans</title>
-		<desc>The 1st Grand Slam of the year kick start on beIN Sports as the worldâ€™s best players battle it out to win the 114th edition of the Australian Open.</desc>
+		<desc>The 1st Grand Slam of the year kick start on beIN Sports as the world's best players battle it out to win the 114th edition of the Australian Open.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_AOGeneric.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="211" start="20260929154500 +0000" stop="20260929180000 +0000">
@@ -19929,17 +19949,17 @@ the Croods overcome the punch monkeys - and Phil - to save the farm?</desc>
 	<programme channel="509" start="20260927211500 +0000" stop="20260927220000 +0000">
 		<title>Late Night With Seth Meyers S14 - EP 2</title>
 		<desc>Late Night with Seth Meyers is executive produced by the Emmy Award-winning Lorne Michaels and is home to A-list celebrity guests, memorable comedy and the best in musical talent.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch509_Late_Night_With_Seth_Meyers_S14.jpg?w=960%26h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch509_Late_Night_With_Seth_Meyers_S12.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="509" start="20260927220000 +0000" stop="20260927224500 +0000">
 		<title>Late Night With Seth Meyers S14 - EP 3</title>
 		<desc>Late Night with Seth Meyers is executive produced by the Emmy Award-winning Lorne Michaels and is home to A-list celebrity guests, memorable comedy and the best in musical talent.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch509_Late_Night_With_Seth_Meyers_S14.jpg?w=960%26h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch509_Late_Night_With_Seth_Meyers_S12.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="509" start="20260927224500 +0000" stop="20260927233000 +0000">
 		<title>The Tonight Show Starring Jimmy Fallon S14 - EP 3</title>
-		<desc>Guests include John Cusack, Cara Delevingne, Chef Daniel Humm and musical guest Cara Delevingne. Emmy and Grammy Award-winning comedian Jimmy Fallon brings his unique high-energy comedy to the storied 60-year NBC franchise with his welcoming interview style, love of audience participation, spot-on impersonations and innovative sketches.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch509_The_Tonight_Show_Starring_Jimmy_Fallon_S14.jpg?w=341%26h=192" />
+		<desc>Emmy and Grammy Award-winning comedian Jimmy Fallon brings his unique high-energy comedy to the storied 60-year NBC franchise with his welcoming interview style, love of audience participation, spot-on impersonations and innovative sketches.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch509_The_Tonight_Show_Starring_Jimmy_Fallon_S12.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="509" start="20260927233000 +0000" stop="20260928001500 +0000">
 		<title>Chicago Med S11 - EP 16</title>
@@ -19963,13 +19983,13 @@ the Croods overcome the punch monkeys - and Phil - to save the farm?</desc>
 	</programme>
 	<programme channel="509" start="20260928023000 +0000" stop="20260928031500 +0000">
 		<title>The Tonight Show Starring Jimmy Fallon S14 - EP 3</title>
-		<desc>Guests include John Cusack, Cara Delevingne, Chef Daniel Humm and musical guest Cara Delevingne. Emmy and Grammy Award-winning comedian Jimmy Fallon brings his unique high-energy comedy to the storied 60-year NBC franchise with his welcoming interview style, love of audience participation, spot-on impersonations and innovative sketches.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch509_The_Tonight_Show_Starring_Jimmy_Fallon_S14.jpg?w=341%26h=192" />
+		<desc>Emmy and Grammy Award-winning comedian Jimmy Fallon brings his unique high-energy comedy to the storied 60-year NBC franchise with his welcoming interview style, love of audience participation, spot-on impersonations and innovative sketches.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch509_The_Tonight_Show_Starring_Jimmy_Fallon_S12.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="509" start="20260928031500 +0000" stop="20260928040000 +0000">
 		<title>Late Night With Seth Meyers S14 - EP 3</title>
 		<desc>Late Night with Seth Meyers is executive produced by the Emmy Award-winning Lorne Michaels and is home to A-list celebrity guests, memorable comedy and the best in musical talent.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch509_Late_Night_With_Seth_Meyers_S14.jpg?w=960%26h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch509_Late_Night_With_Seth_Meyers_S12.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="509" start="20260928040000 +0000" stop="20260928044500 +0000">
 		<title>NCIS S22 - EP 15</title>
@@ -20043,13 +20063,13 @@ the Croods overcome the punch monkeys - and Phil - to save the farm?</desc>
 	</programme>
 	<programme channel="509" start="20260928151500 +0000" stop="20260928160000 +0000">
 		<title>The Tonight Show Starring Jimmy Fallon S14 - EP 4</title>
-		<desc>Emmy and Grammy Award-winning comedian Jimmy Fallon brings his unique high-energy comedy to the storied 60-year NBC franchise with his welcoming interview style, love of audience participation, spot-on impersonations and innovative sketches.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch509_The_Tonight_Show_Starring_Jimmy_Fallon_S14.jpg?w=341%26h=192" />
+		<desc>Guests include Karl-Anthony Towns, Sienna Miller, Stefano Domenicali and comedian Gary Simons. Emmy and Grammy Award-winning comedian Jimmy Fallon brings his unique high-energy comedy to the storied 60-year NBC franchise with his welcoming interview style, love of audience participation, spot-on impersonations and innovative sketches.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch509_The_Tonight_Show_Starring_Jimmy_Fallon_S12.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="509" start="20260928160000 +0000" stop="20260928164500 +0000">
 		<title>Late Night With Seth Meyers S14 - EP 4</title>
 		<desc>Late Night with Seth Meyers is executive produced by the Emmy Award-winning Lorne Michaels and is home to A-list celebrity guests, memorable comedy and the best in musical talent.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch509_Late_Night_With_Seth_Meyers_S14.jpg?w=960%26h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch509_Late_Night_With_Seth_Meyers_S12.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="509" start="20260928164500 +0000" stop="20260928173000 +0000">
 		<title>The Real Housewives Of Orange County S20 - EP 4</title>
@@ -20088,13 +20108,13 @@ the Croods overcome the punch monkeys - and Phil - to save the farm?</desc>
 	</programme>
 	<programme channel="509" start="20260928220000 +0000" stop="20260928224500 +0000">
 		<title>Late Night With Seth Meyers S14 - EP 4</title>
-		<desc>Late Night with Seth Meyers is executive produced by the Emmy Award-winning Lorne Michaels and is home to A-list celebrity guests, memorable comedy and the best in musical talent.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch509_Late_Night_With_Seth_Meyers_S14.jpg?w=960%26h=540" />
+		<desc>Guests include Kenan Thompson (Saturday Night Live) and Sandra Hüller (Digger). Late Night with Seth Meyers is executive produced by the Emmy Award-winning Lorne Michaels and is home to A-list celebrity guests, memorable comedy and the best in musical talent.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch509_Late_Night_With_Seth_Meyers_S12.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="509" start="20260928224500 +0000" stop="20260928233000 +0000">
 		<title>The Tonight Show Starring Jimmy Fallon S14 - EP 4</title>
-		<desc>Emmy and Grammy Award-winning comedian Jimmy Fallon brings his unique high-energy comedy to the storied 60-year NBC franchise with his welcoming interview style, love of audience participation, spot-on impersonations and innovative sketches.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch509_The_Tonight_Show_Starring_Jimmy_Fallon_S14.jpg?w=341%26h=192" />
+		<desc>Guests include Karl-Anthony Towns, Sienna Miller, Stefano Domenicali and comedian Gary Simons. Emmy and Grammy Award-winning comedian Jimmy Fallon brings his unique high-energy comedy to the storied 60-year NBC franchise with his welcoming interview style, love of audience participation, spot-on impersonations and innovative sketches.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch509_The_Tonight_Show_Starring_Jimmy_Fallon_S12.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="509" start="20260928233000 +0000" stop="20260928235500 +0000">
 		<title>Cobra Kai S2 - EP 3</title>
@@ -20128,13 +20148,13 @@ the Croods overcome the punch monkeys - and Phil - to save the farm?</desc>
 	</programme>
 	<programme channel="509" start="20260929034000 +0000" stop="20260929042500 +0000">
 		<title>The Tonight Show Starring Jimmy Fallon S14 - EP 4</title>
-		<desc>Emmy and Grammy Award-winning comedian Jimmy Fallon brings his unique high-energy comedy to the storied 60-year NBC franchise with his welcoming interview style, love of audience participation, spot-on impersonations and innovative sketches.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch509_The_Tonight_Show_Starring_Jimmy_Fallon_S14.jpg?w=341%26h=192" />
+		<desc>Guests include Karl-Anthony Towns, Sienna Miller, Stefano Domenicali and comedian Gary Simons. Emmy and Grammy Award-winning comedian Jimmy Fallon brings his unique high-energy comedy to the storied 60-year NBC franchise with his welcoming interview style, love of audience participation, spot-on impersonations and innovative sketches.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch509_The_Tonight_Show_Starring_Jimmy_Fallon_S12.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="509" start="20260929042500 +0000" stop="20260929051000 +0000">
 		<title>Late Night With Seth Meyers S14 - EP 4</title>
-		<desc>Late Night with Seth Meyers is executive produced by the Emmy Award-winning Lorne Michaels and is home to A-list celebrity guests, memorable comedy and the best in musical talent.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch509_Late_Night_With_Seth_Meyers_S14.jpg?w=960%26h=540" />
+		<desc>Guests include Kenan Thompson (Saturday Night Live) and Sandra Hüller (Digger). Late Night with Seth Meyers is executive produced by the Emmy Award-winning Lorne Michaels and is home to A-list celebrity guests, memorable comedy and the best in musical talent.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch509_Late_Night_With_Seth_Meyers_S12.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="509" start="20260929051000 +0000" stop="20260929055500 +0000">
 		<title>NCIS S22 - EP 17</title>
@@ -20153,7 +20173,7 @@ the Croods overcome the punch monkeys - and Phil - to save the farm?</desc>
 	</programme>
 	<programme channel="509" start="20260929072500 +0000" stop="20260929081000 +0000">
 		<title>NCIS S22 - EP 20</title>
-		<desc>As NCIS investigates a dangerous connection between the Nexus cartel and Parker's longtime nemesis, mob boss Carla Marino, the team uncovers a high-stakes plot involving stolen nuclear material. With time running out, Parker is forced into an uneasy allia</desc>
+		<desc>As NCIS investigates a dangerous connection between the Nexus cartel and Parker's longtime nemesis, mob boss Carla Marino, the team uncovers a high-stakes plot involving stolen nuclear material. With time running out, Parker is forced into an uneasy alliance that could determine the fate of the operation - and his own future.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch509_NCIS_S22.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="509" start="20260929081000 +0000" stop="20260929085500 +0000">
@@ -20198,8 +20218,8 @@ the Croods overcome the punch monkeys - and Phil - to save the farm?</desc>
 	</programme>
 	<programme channel="509" start="20260929151500 +0000" stop="20260929160000 +0000">
 		<title>The Tonight Show Starring Jimmy Fallon S14 - EP 5</title>
-		<desc>Emmy and Grammy Award-winning comedian Jimmy Fallon brings his unique high-energy comedy to the storied 60-year NBC franchise with his welcoming interview style, love of audience participation, spot-on impersonations and innovative sketches.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch509_The_Tonight_Show_Starring_Jimmy_Fallon_S14.jpg?w=341%26h=192" />
+		<desc>Guests include Sylvester Stallone, Luke Bryan and musical guest Luke Bryan. Emmy and Grammy Award-winning comedian Jimmy Fallon brings his unique high-energy comedy to the storied 60-year NBC franchise with his welcoming interview style, love of audience participation, spot-on impersonations and innovative sketches.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch509_The_Tonight_Show_Starring_Jimmy_Fallon_S12.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="511" start="20260927152500 +0000" stop="20260927161500 +0000">
 		<title>FBI (Season 8) - EP 20</title>
@@ -31917,7 +31937,7 @@ years in solitary confinement.</desc>
 	<programme channel="824" start="20260928073000 +0000" stop="20260928085500 +0000">
 		<title>Sixth Sense: B-side - EP 1</title>
 		<desc>Each journey exploring trending SNS destinations hides a fake place created by the production team! Join the 'Sixth Sensers' for a brand new season and distinguish the fake from the real.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch824_sixth_sense_bside.jpg?w=341%26h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch824_space_rice_cake.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="824" start="20260928085500 +0000" stop="20260928102000 +0000">
 		<title>Abra-ca Empty: The Weight We Share - EP 4</title>
@@ -31992,7 +32012,7 @@ years in solitary confinement.</desc>
 	<programme channel="824" start="20260929030000 +0000" stop="20260929042500 +0000">
 		<title>Sixth Sense: B-side - EP 1</title>
 		<desc>Each journey exploring trending SNS destinations hides a fake place created by the production team! Join the 'Sixth Sensers' for a brand new season and distinguish the fake from the real.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch824_sixth_sense_bside.jpg?w=341%26h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch824_space_rice_cake.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="824" start="20260929042500 +0000" stop="20260929055000 +0000">
 		<title>Abra-ca Empty: The Weight We Share - EP 4</title>
@@ -32037,7 +32057,7 @@ years in solitary confinement.</desc>
 	<programme channel="824" start="20260929143000 +0000" stop="20260929160000 +0000">
 		<title>Sixth Sense: B-side - EP 2</title>
 		<desc>Each journey exploring trending SNS destinations hides a fake place created by the production team! Join the 'Sixth Sensers' for a brand new season and distinguish the fake from the real.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch824_sixth_sense_bside.jpg?w=341%26h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch824_space_rice_cake.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="825" start="20260927160000 +0000" stop="20260927170000 +0000">
 		<title>The Last Immortal - EP 27</title>
@@ -32844,39 +32864,134 @@ years in solitary confinement.</desc>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
-	<programme channel="832" start="20260928140000 +0000" stop="20260928162000 +0000">
+	<programme channel="832" start="20260928140000 +0000" stop="20260928160000 +0000">
 		<title>Overtime no more</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
-	<programme channel="832" start="20260928162000 +0000" stop="20260928164500 +0000">
-		<title>Searching for flavor</title>
+	<programme channel="832" start="20260928160000 +0000" stop="20260928164800 +0000">
+		<title>Overtime No More</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
-	<programme channel="832" start="20260928164500 +0000" stop="20260928170000 +0000">
+	<programme channel="832" start="20260928164800 +0000" stop="20260928170000 +0000">
 		<title>ShanghaiEye</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
 	<programme channel="832" start="20260928170000 +0000" stop="20260928220000 +0000">
-		<title>Information Not Available</title>
-		<desc />
+		<title>Dragon TV Primetime News</title>
+		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
-	<programme channel="832" start="20260928220000 +0000" stop="20260929040000 +0000">
-		<title>Information Not Available</title>
-		<desc />
+	<programme channel="832" start="20260928220000 +0000" stop="20260928223500 +0000">
+		<title>New Entertainment</title>
+		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
-	<programme channel="832" start="20260929040000 +0000" stop="20260929100000 +0000">
-		<title>Information Not Available</title>
-		<desc />
+	<programme channel="832" start="20260928223500 +0000" stop="20260928230000 +0000">
+		<title>CARE ON THE WAY</title>
+		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
-	<programme channel="832" start="20260929100000 +0000" stop="20260929160000 +0000">
-		<title>Information Not Available</title>
-		<desc />
+	<programme channel="832" start="20260928230000 +0000" stop="20260929010000 +0000">
+		<title>Dragon TV Morning News</title>
+		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341%26h=192" />
+	</programme>
+	<programme channel="832" start="20260929010000 +0000" stop="20260929020900 +0000">
+		<title>A Green Trip</title>
+		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341%26h=192" />
+	</programme>
+	<programme channel="832" start="20260929020900 +0000" stop="20260929040000 +0000">
+		<title>THE CITY OF MUSICALS</title>
+		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341%26h=192" />
+	</programme>
+	<programme channel="832" start="20260929040000 +0000" stop="20260929043000 +0000">
+		<title>MIDDAY NEWS</title>
+		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341%26h=192" />
+	</programme>
+	<programme channel="832" start="20260929043000 +0000" stop="20260929044200 +0000">
+		<title>ShanghaiEye</title>
+		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341%26h=192" />
+	</programme>
+	<programme channel="832" start="20260929044200 +0000" stop="20260929063000 +0000">
+		<title>Future China</title>
+		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341%26h=192" />
+	</programme>
+	<programme channel="832" start="20260929063000 +0000" stop="20260929070700 +0000">
+		<title>CHINA Now</title>
+		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341%26h=192" />
+	</programme>
+	<programme channel="832" start="20260929070700 +0000" stop="20260929073200 +0000">
+		<title>Next Station</title>
+		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341%26h=192" />
+	</programme>
+	<programme channel="832" start="20260929073200 +0000" stop="20260929091000 +0000">
+		<title>THE CITY OF MUSICALS</title>
+		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341%26h=192" />
+	</programme>
+	<programme channel="832" start="20260929091000 +0000" stop="20260929093500 +0000">
+		<title>New Entertainment</title>
+		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341%26h=192" />
+	</programme>
+	<programme channel="832" start="20260929093500 +0000" stop="20260929100000 +0000">
+		<title>CARE ON THE WAY</title>
+		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341%26h=192" />
+	</programme>
+	<programme channel="832" start="20260929100000 +0000" stop="20260929105800 +0000">
+		<title>Dragon TV Primetime News</title>
+		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341%26h=192" />
+	</programme>
+	<programme channel="832" start="20260929105800 +0000" stop="20260929111000 +0000">
+		<title>ShanghaiEye</title>
+		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341%26h=192" />
+	</programme>
+	<programme channel="832" start="20260929111000 +0000" stop="20260929114700 +0000">
+		<title>CHINA Now</title>
+		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341%26h=192" />
+	</programme>
+	<programme channel="832" start="20260929114700 +0000" stop="20260929121200 +0000">
+		<title>Next Station</title>
+		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341%26h=192" />
+	</programme>
+	<programme channel="832" start="20260929121200 +0000" stop="20260929132100 +0000">
+		<title>A Green Trip</title>
+		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341%26h=192" />
+	</programme>
+	<programme channel="832" start="20260929132100 +0000" stop="20260929141100 +0000">
+		<title>Future China</title>
+		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341%26h=192" />
+	</programme>
+	<programme channel="832" start="20260929141100 +0000" stop="20260929143600 +0000">
+		<title>New Entertainment</title>
+		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341%26h=192" />
+	</programme>
+	<programme channel="832" start="20260929143600 +0000" stop="20260929145800 +0000">
+		<title>CARE ON THE WAY</title>
+		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341%26h=192" />
+	</programme>
+	<programme channel="832" start="20260929145800 +0000" stop="20260929160000 +0000">
+		<title>THE CITY OF MUSICALS</title>
+		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
 	<programme channel="838" start="20260927160000 +0000" stop="20260927163000 +0000">
