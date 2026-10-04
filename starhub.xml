@@ -6016,12 +6016,12 @@
 		<icon src="https://poster.starhubgo.com/poster/ch656_ZeeFlix.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="138" start="20261004220000 +0000" stop="20261004223000 +0000">
-		<title>Free Ticket (051026)</title>
+		<title>Free Ticket</title>
 		<desc>The host presents a comprehensive compilation of songs and snippets from some of the most popular and trending Tamil movies.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch656_Free_Ticket.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="138" start="20261004223000 +0000" stop="20261004230000 +0000">
-		<title>Free Ticket (051026)</title>
+		<title>Free Ticket</title>
 		<desc>The host presents a comprehensive compilation of songs and snippets from some of the most popular and trending Tamil movies.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch656_Free_Ticket.jpg?w=960%26h=540" />
 	</programme>
@@ -6096,7 +6096,7 @@
 		<icon src="https://poster.starhubgo.com/poster/ch656_Annamalai_Kudumbam.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="138" start="20261005060000 +0000" stop="20261005090000 +0000">
-		<title>The Road (051026)</title>
+		<title>The Road</title>
 		<desc>When a national highway project disrupts their world, journalist Meera and professor Maya find themselves entangled in conflict, facing choices that change their lives forever. Release Year: 2023 Director: Arun Vaseegaran</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch656_zee_tamil_exclusive.jpg?w=341%26h=192" />
 	</programme>
@@ -10348,7 +10348,7 @@ rethinking its relationship with its rivers, one dam at a time.</desc>
 	</programme>
 	<programme channel="213" start="20261004050000 +0000" stop="20261004053000 +0000">
 		<title>Off The Grid Origins: Tasanapol Inthraphuvasak</title>
-		<desc>An unfiltered profile tracing FIA Formula 2 driver Tasanapol Inthraphuvasak on the threshold of Formula 1. Having left Bangkok at fourteen for European paddocks, Tas navigates the relentless psychological and physical demands of single-seater racingâ€"anchored by family, driven by ambition.</desc>
+		<desc>An unfiltered profile tracing FIA Formula 2 driver Tasanapol Inthraphuvasak on the threshold of Formula 1. Having left Bangkok at fourteen for European paddocks, Tas navigates the relentless psychological and physical demands of single-seater racingâ€"anc</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch213_f1_off_the_grid.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="213" start="20261004053000 +0000" stop="20261004065500 +0000">
@@ -10396,10 +10396,25 @@ rethinking its relationship with its rivers, one dam at a time.</desc>
 		<desc>Catch the highlights of all the races of Formula Regional European Championship this season.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch213_formula_regional_generic.jpg?w=960%26h=540" />
 	</programme>
-	<programme channel="213" start="20261004133000 +0000" stop="20261004153000 +0000">
-		<title>GT World Challenge Europe 2026: Barcelona Race 2, Sprint Cup</title>
-		<desc>The 16th season of the premier European GT3 championship, featuring a 10-round calendar split between Endurance and Sprint Cups</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch213_gt_world_challenge_europe.jpg?w=960%26h=540" />
+	<programme channel="213" start="20261004133000 +0000" stop="20261004134000 +0000">
+		<title>LaLiga Goals Galore 2024/25</title>
+		<desc>Relive every goal from the best players in 2024/25 season.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch213_laliga_generic.jpg?w=960%26h=540" />
+	</programme>
+	<programme channel="213" start="20261004134000 +0000" stop="20261004144000 +0000">
+		<title>FIA European Truck Racing Championship 2026: Jarama Race 4</title>
+		<desc>The matadors of the road are back with a vengeance! 1,000 horsepower and a seeming disregard for their trucks' bodywork provide fascinating action in a king-size battle royal!</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch213_fia_truck_racing_championship.jpg?w=960%26h=540" />
+	</programme>
+	<programme channel="213" start="20261004144000 +0000" stop="20261004150000 +0000">
+		<title>LaLiga Goals Galore 2024/25</title>
+		<desc>Relive every goal from the best players in 2024/25 season.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch213_laliga_generic.jpg?w=960%26h=540" />
+	</programme>
+	<programme channel="213" start="20261004150000 +0000" stop="20261004153000 +0000">
+		<title>Gearing Up 2026</title>
+		<desc>Thrilling racing from the most demanding events around the globe, Gearing Up heads to the toughest events and gets on-board with the sport's heroic drivers.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch213_bein_generic_poster.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="213" start="20261004153000 +0000" stop="20261004161000 +0000">
 		<title>Formula 1 Highlights 2026</title>
@@ -10467,9 +10482,9 @@ rethinking its relationship with its rivers, one dam at a time.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch213_porsche_carrera_cup.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="213" start="20261005033000 +0000" stop="20261005043000 +0000">
-		<title>DTM Highlights 2026</title>
-		<desc>Catch the highlights from every round of the 2026 DTM.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch213_dtm_race.jpg?w=341%26h=192" />
+		<title>GT World Challenge Europe 2026: Barcelona Race 2, Sprint Cup</title>
+		<desc>The 16th season of the premier European GT3 championship, featuring a 10-round calendar split between Endurance and Sprint Cups</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch213_gt_world_challenge_europe.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="213" start="20261005043000 +0000" stop="20261005053000 +0000">
 		<title>FIA European Truck Racing Championship 2026: Jarama Race 3</title>
@@ -10491,17 +10506,17 @@ rethinking its relationship with its rivers, one dam at a time.</desc>
 		<desc>The best professional youth clubs from LaLiga EA Sports competition and international soccer leagues battle it out in this prestigious football competition.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch213_laliga_generic.jpg?w=960%26h=540" />
 	</programme>
-	<programme channel="213" start="20261005073000 +0000" stop="20261005080000 +0000">
-		<title>1st La Liga FC Futures U12 Club World Cup: Sevilla vs WAC</title>
-		<desc>The best professional youth clubs from LaLiga EA Sports competition and international soccer leagues battle it out in this prestigious football competition.</desc>
+	<programme channel="213" start="20261005073000 +0000" stop="20261005074000 +0000">
+		<title>LaLiga Goals Galore 2024/25</title>
+		<desc>Relive every goal from the best players in 2024/25 season.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch213_laliga_generic.jpg?w=960%26h=540" />
 	</programme>
-	<programme channel="213" start="20261005080000 +0000" stop="20261005093000 +0000">
+	<programme channel="213" start="20261005074000 +0000" stop="20261005092500 +0000">
 		<title>LFCTV Classic 2026/27: Brentford vs Liverpool PL 2023/24</title>
 		<desc>Enjoy every Liverpool classic encounters from LFCTV on beIN SPORTS</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch213_lfctv_generic.jpg?w=960%26h=540" />
 	</programme>
-	<programme channel="213" start="20261005093000 +0000" stop="20261005100000 +0000">
+	<programme channel="213" start="20261005092500 +0000" stop="20261005100000 +0000">
 		<title>LFCTV Specials 2026/27</title>
 		<desc>Enjoy documentaries and other special programming from LFCTV on beIN SPORTS</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch213_lfctv_generic.jpg?w=960%26h=540" />
