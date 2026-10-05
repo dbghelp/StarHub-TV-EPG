@@ -84,10 +84,6 @@
 		<display-name>Vijay TV HD</display-name>
 		<icon src="https://poster.starhubgo.com/Linear_Channels2/135_1920x1080_HTV.png?w=272" />
 	</channel>
-	<channel id="136">
-		<display-name>Vannathirai</display-name>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/136_1920x1080_HTV.png?w=272" />
-	</channel>
 	<channel id="137">
 		<display-name>Zee Thirai</display-name>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/137_1920x1080_HTV.png?w=272" />
@@ -6065,46 +6061,6 @@
 		<desc>Shanmugam reunites with his childhood sweetheart, hires her as a housemaid because she needs work. His wife protests when she learns of the arrangement tonight.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch135_azhagae_azhagu.jpg?w=341%26h=192" />
 	</programme>
-	<programme channel="136" start="20261004160000 +0000" stop="20261004220000 +0000">
-		<title>End Of Transmission</title>
-		<desc />
-		<icon src="https://poster.starhubgo.com/Linear_channels2/136_1920x1080_HTV.png?w=341%26h=192" />
-	</programme>
-	<programme channel="136" start="20261004220000 +0000" stop="20261005040000 +0000">
-		<title>End Of Transmission</title>
-		<desc />
-		<icon src="https://poster.starhubgo.com/Linear_channels2/136_1920x1080_HTV.png?w=341%26h=192" />
-	</programme>
-	<programme channel="136" start="20261005040000 +0000" stop="20261005100000 +0000">
-		<title>End Of Transmission</title>
-		<desc />
-		<icon src="https://poster.starhubgo.com/Linear_channels2/136_1920x1080_HTV.png?w=341%26h=192" />
-	</programme>
-	<programme channel="136" start="20261005100000 +0000" stop="20261005160000 +0000">
-		<title>End Of Transmission</title>
-		<desc />
-		<icon src="https://poster.starhubgo.com/Linear_channels2/136_1920x1080_HTV.png?w=341%26h=192" />
-	</programme>
-	<programme channel="136" start="20261005160000 +0000" stop="20261005220000 +0000">
-		<title>End Of Transmission</title>
-		<desc />
-		<icon src="https://poster.starhubgo.com/Linear_channels2/136_1920x1080_HTV.png?w=341%26h=192" />
-	</programme>
-	<programme channel="136" start="20261005220000 +0000" stop="20261006040000 +0000">
-		<title>End Of Transmission</title>
-		<desc />
-		<icon src="https://poster.starhubgo.com/Linear_channels2/136_1920x1080_HTV.png?w=341%26h=192" />
-	</programme>
-	<programme channel="136" start="20261006040000 +0000" stop="20261006100000 +0000">
-		<title>End Of Transmission</title>
-		<desc />
-		<icon src="https://poster.starhubgo.com/Linear_channels2/136_1920x1080_HTV.png?w=341%26h=192" />
-	</programme>
-	<programme channel="136" start="20261006100000 +0000" stop="20261006160000 +0000">
-		<title>End Of Transmission</title>
-		<desc />
-		<icon src="https://poster.starhubgo.com/Linear_channels2/136_1920x1080_HTV.png?w=341%26h=192" />
-	</programme>
 	<programme channel="137" start="20261004140000 +0000" stop="20261004163000 +0000">
 		<title>Kirumi - EP 1</title>
 		<desc>Kathir becomes an informant for a bad cop but realizes the error of his ways and decides to live a straight life working in his wife's garment factory.</desc>
@@ -6358,7 +6314,7 @@
 	<programme channel="138" start="20261005060000 +0000" stop="20261005090000 +0000">
 		<title>The Road</title>
 		<desc>When a national highway project disrupts their world, journalist Meera and professor Maya find themselves entangled in conflict, facing choices that change their lives forever. Release Year: 2023 Director: Arun Vaseegaran</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch656_zee_tamil_exclusive.jpg?w=341%26h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch656_the_road.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="138" start="20261005090000 +0000" stop="20261005093000 +0000">
 		<title>Samanthi - EP 53</title>
@@ -6446,57 +6402,57 @@
 		<icon src="https://poster.starhubgo.com/poster/ch656_ZeeFlix.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="138" start="20261005170000 +0000" stop="20261005173000 +0000">
-		<title>Free Ticket (061026)</title>
+		<title>Free Ticket</title>
 		<desc>The host presents a comprehensive compilation of songs and snippets from some of the most popular and trending Tamil movies.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch656_Free_Ticket.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="138" start="20261005173000 +0000" stop="20261005180000 +0000">
-		<title>Free Ticket (061026)</title>
+		<title>Free Ticket</title>
 		<desc>The host presents a comprehensive compilation of songs and snippets from some of the most popular and trending Tamil movies.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch656_Free_Ticket.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="138" start="20261005180000 +0000" stop="20261005190000 +0000">
-		<title>Free Ticket (061026)</title>
+		<title>Free Ticket</title>
 		<desc>The host presents a comprehensive compilation of songs and snippets from some of the most popular and trending Tamil movies.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch656_Free_Ticket.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="138" start="20261005190000 +0000" stop="20261005193000 +0000">
-		<title>Free Ticket (061026)</title>
+		<title>Free Ticket</title>
 		<desc>The host presents a comprehensive compilation of songs and snippets from some of the most popular and trending Tamil movies.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch656_Free_Ticket.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="138" start="20261005193000 +0000" stop="20261005200000 +0000">
-		<title>Free Ticket (061026)</title>
+		<title>Free Ticket</title>
 		<desc>The host presents a comprehensive compilation of songs and snippets from some of the most popular and trending Tamil movies.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch656_Free_Ticket.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="138" start="20261005200000 +0000" stop="20261005203000 +0000">
-		<title>Free Ticket (061026)</title>
+		<title>Free Ticket</title>
 		<desc>The host presents a comprehensive compilation of songs and snippets from some of the most popular and trending Tamil movies.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch656_Free_Ticket.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="138" start="20261005203000 +0000" stop="20261005210000 +0000">
-		<title>Free Ticket (061026)</title>
+		<title>Free Ticket</title>
 		<desc>The host presents a comprehensive compilation of songs and snippets from some of the most popular and trending Tamil movies.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch656_Free_Ticket.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="138" start="20261005210000 +0000" stop="20261005213000 +0000">
-		<title>Free Ticket (061026)</title>
+		<title>Free Ticket</title>
 		<desc>The host presents a comprehensive compilation of songs and snippets from some of the most popular and trending Tamil movies.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch656_Free_Ticket.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="138" start="20261005213000 +0000" stop="20261005220000 +0000">
-		<title>Free Ticket (061026)</title>
+		<title>Free Ticket</title>
 		<desc>The host presents a comprehensive compilation of songs and snippets from some of the most popular and trending Tamil movies.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch656_Free_Ticket.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="138" start="20261005220000 +0000" stop="20261005223000 +0000">
-		<title>Free Ticket (061026)</title>
+		<title>Free Ticket</title>
 		<desc>The host presents a comprehensive compilation of songs and snippets from some of the most popular and trending Tamil movies.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch656_Free_Ticket.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="138" start="20261005223000 +0000" stop="20261005230000 +0000">
-		<title>Free Ticket (061026)</title>
+		<title>Free Ticket</title>
 		<desc>The host presents a comprehensive compilation of songs and snippets from some of the most popular and trending Tamil movies.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch656_Free_Ticket.jpg?w=960%26h=540" />
 	</programme>
@@ -6573,7 +6529,7 @@
 	<programme channel="138" start="20261006060000 +0000" stop="20261006090000 +0000">
 		<title>The Warrior</title>
 		<desc>Sathya dares to oppose gangster Guru and gets kicked out. He later returns as a police officer, seeking justice, redemption, and revenge for what was done to him.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch656_zee_tamil_exclusive.jpg?w=341%26h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch656_THE_WARRIOR.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="138" start="20261006090000 +0000" stop="20261006093000 +0000">
 		<title>Samanthi - EP 54</title>
@@ -10528,32 +10484,32 @@ rethinking its relationship with its rivers, one dam at a time.</desc>
 	</programme>
 	<programme channel="211" start="20261004170000 +0000" stop="20261004182500 +0000">
 		<title>Premier Padel 2026: Bordeaux P2 Day 3 Match 1</title>
-		<desc>The official global Padel tour. Catch world's top players battle it out across the globe.</desc>
+		<desc>The official global Padel tour. Catch world'stop players battle it out across the globe.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_premier_padel_2026.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="211" start="20261004182500 +0000" stop="20261004195500 +0000">
 		<title>Premier Padel 2026: Bordeaux P2 Day 3 Match 3</title>
-		<desc>The official global Padel tour. Catch world's top players battle it out across the globe.</desc>
+		<desc>The official global Padel tour. Catch world'stop players battle it out across the globe.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_premier_padel_2026.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="211" start="20261004195500 +0000" stop="20261004212500 +0000">
 		<title>Premier Padel 2026: Bordeaux P2 Day 3 Match 4</title>
-		<desc>The official global Padel tour. Catch world's top players battle it out across the globe.</desc>
+		<desc>The official global Padel tour. Catch world'stop players battle it out across the globe.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_premier_padel_2026.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="211" start="20261004212500 +0000" stop="20261004224000 +0000">
 		<title>Premier Padel 2026: Bordeaux P2 Day 3 Match 6</title>
-		<desc>The official global Padel tour. Catch world's top players battle it out across the globe.</desc>
+		<desc>The official global Padel tour. Catch world'stop players battle it out across the globe.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_premier_padel_2026.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="211" start="20261004224000 +0000" stop="20261005001000 +0000">
 		<title>Premier Padel 2026: Bordeaux P2 Day 4 QF Match 4</title>
-		<desc>The official global Padel tour. Catch world's top players battle it out across the globe.</desc>
+		<desc>The official global Padel tour. Catch world'stop players battle it out across the globe.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_premier_padel_2026.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="211" start="20261005001000 +0000" stop="20261005020000 +0000">
 		<title>Women's Super League 2026/27: Brighton vs Charlton</title>
-		<desc>BWSL is one of the most-watched leagues in the world and represents the pinnacle of women's professional football in England. A historic expansion will see 14 teams compete for honours.</desc>
+		<desc>BWSL is one of the most-watched leagues in the world and represents the pinnacle of women'sprofessional football in England. A historic expansion will see 14 teams compete for honours.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_womens_super_league_2025_26.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="211" start="20261005020000 +0000" stop="20261005030000 +0000">
@@ -10563,12 +10519,12 @@ rethinking its relationship with its rivers, one dam at a time.</desc>
 	</programme>
 	<programme channel="211" start="20261005030000 +0000" stop="20261005045000 +0000">
 		<title>Women's Super League 2026/27: Tottenham vs London City Lionesses</title>
-		<desc>BWSL is one of the most-watched leagues in the world and represents the pinnacle of women's professional football in England. A historic expansion will see 14 teams compete for honours.</desc>
+		<desc>BWSL is one of the most-watched leagues in the world and represents the pinnacle of women'sprofessional football in England. A historic expansion will see 14 teams compete for honours.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_womens_super_league_2025_26.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="211" start="20261005045000 +0000" stop="20261005064000 +0000">
 		<title>Women's Super League 2026/27: Aston Villa vs Crystal Palace</title>
-		<desc>BWSL is one of the most-watched leagues in the world and represents the pinnacle of women's professional football in England. A historic expansion will see 14 teams compete for honours.</desc>
+		<desc>BWSL is one of the most-watched leagues in the world and represents the pinnacle of women'sprofessional football in England. A historic expansion will see 14 teams compete for honours.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_womens_super_league_2025_26.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="211" start="20261005064000 +0000" stop="20261005071000 +0000">
@@ -10578,17 +10534,17 @@ rethinking its relationship with its rivers, one dam at a time.</desc>
 	</programme>
 	<programme channel="211" start="20261005071000 +0000" stop="20261005090000 +0000">
 		<title>Women's Super League 2026/27: Everton vs Birmingham</title>
-		<desc>BWSL is one of the most-watched leagues in the world and represents the pinnacle of women's professional football in England. A historic expansion will see 14 teams compete for honours.</desc>
+		<desc>BWSL is one of the most-watched leagues in the world and represents the pinnacle of women'sprofessional football in England. A historic expansion will see 14 teams compete for honours.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_womens_super_league_2025_26.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="211" start="20261005090000 +0000" stop="20261005103000 +0000">
 		<title>Premier Padel 2026: Rotterdam P2 Day 6 Final - Women</title>
-		<desc>The official global Padel tour. Catch world's top players battle it out across the globe.</desc>
+		<desc>The official global Padel tour. Catch world'stop players battle it out across the globe.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_premier_padel_2026.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="211" start="20261005103000 +0000" stop="20261005120000 +0000">
 		<title>Premier Padel 2026: Rotterdam P2 Day 6 Final - Men</title>
-		<desc>The official global Padel tour. Catch world's top players battle it out across the globe.</desc>
+		<desc>The official global Padel tour. Catch world'stop players battle it out across the globe.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_premier_padel_2026.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="211" start="20261005120000 +0000" stop="20261005130000 +0000">
@@ -10598,37 +10554,37 @@ rethinking its relationship with its rivers, one dam at a time.</desc>
 	</programme>
 	<programme channel="211" start="20261005130000 +0000" stop="20261005145000 +0000">
 		<title>Women's Super League 2026/27: Man City vs Arsenal</title>
-		<desc>BWSL is one of the most-watched leagues in the world and represents the pinnacle of women's professional football in England. A historic expansion will see 14 teams compete for honours.</desc>
+		<desc>BWSL is one of the most-watched leagues in the world and represents the pinnacle of women'sprofessional football in England. A historic expansion will see 14 teams compete for honours.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_womens_super_league_2025_26.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="211" start="20261005145000 +0000" stop="20261005164000 +0000">
 		<title>Women's Super League 2026/27: Man United vs Liverpool</title>
-		<desc>BWSL is one of the most-watched leagues in the world and represents the pinnacle of women's professional football in England. A historic expansion will see 14 teams compete for honours.</desc>
+		<desc>BWSL is one of the most-watched leagues in the world and represents the pinnacle of women'sprofessional football in England. A historic expansion will see 14 teams compete for honours.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_womens_super_league_2025_26.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="211" start="20261005164000 +0000" stop="20261005175000 +0000">
 		<title>Premier Padel 2026: Bordeaux P2 Day 3 Match 5</title>
-		<desc>The official global Padel tour. Catch world's top players battle it out across the globe.</desc>
+		<desc>The official global Padel tour. Catch world'stop players battle it out across the globe.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_premier_padel_2026.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="211" start="20261005175000 +0000" stop="20261005192000 +0000">
 		<title>Premier Padel 2026: Bordeaux P2 Day 4 QF Match 1</title>
-		<desc>The official global Padel tour. Catch world's top players battle it out across the globe.</desc>
+		<desc>The official global Padel tour. Catch world'stop players battle it out across the globe.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_premier_padel_2026.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="211" start="20261005192000 +0000" stop="20261005203500 +0000">
 		<title>Premier Padel 2026: Bordeaux P2 Day 4 QF Match 2</title>
-		<desc>The official global Padel tour. Catch world's top players battle it out across the globe.</desc>
+		<desc>The official global Padel tour. Catch world'stop players battle it out across the globe.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_premier_padel_2026.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="211" start="20261005203500 +0000" stop="20261005220500 +0000">
 		<title>Premier Padel 2026: Bordeaux P2 Day 4 QF Match 3</title>
-		<desc>The official global Padel tour. Catch world's top players battle it out across the globe.</desc>
+		<desc>The official global Padel tour. Catch world'stop players battle it out across the globe.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_premier_padel_2026.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="211" start="20261005220500 +0000" stop="20261005233500 +0000">
 		<title>Premier Padel 2026: Bordeaux P2 Day 4 QF Match 5</title>
-		<desc>The official global Padel tour. Catch world's top players battle it out across the globe.</desc>
+		<desc>The official global Padel tour. Catch world'stop players battle it out across the globe.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_premier_padel_2026.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="211" start="20261005233500 +0000" stop="20261006013000 +0000">
@@ -10638,7 +10594,7 @@ rethinking its relationship with its rivers, one dam at a time.</desc>
 	</programme>
 	<programme channel="211" start="20261006013000 +0000" stop="20261006030000 +0000">
 		<title>Premier Padel 2026: Rotterdam P2 Day 6 Final - Women</title>
-		<desc>The official global Padel tour. Catch world's top players battle it out across the globe.</desc>
+		<desc>The official global Padel tour. Catch world'stop players battle it out across the globe.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_premier_padel_2026.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="211" start="20261006030000 +0000" stop="20261006033000 +0000">
@@ -10653,22 +10609,22 @@ rethinking its relationship with its rivers, one dam at a time.</desc>
 	</programme>
 	<programme channel="211" start="20261006040000 +0000" stop="20261006055000 +0000">
 		<title>Women's Super League 2026/27: Man United vs Liverpool</title>
-		<desc>BWSL is one of the most-watched leagues in the world and represents the pinnacle of women's professional football in England. A historic expansion will see 14 teams compete for honours.</desc>
+		<desc>BWSL is one of the most-watched leagues in the world and represents the pinnacle of women'sprofessional football in England. A historic expansion will see 14 teams compete for honours.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_womens_super_league_2025_26.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="211" start="20261006055000 +0000" stop="20261006074000 +0000">
 		<title>Women's Super League 2026/27: Man City vs Arsenal</title>
-		<desc>BWSL is one of the most-watched leagues in the world and represents the pinnacle of women's professional football in England. A historic expansion will see 14 teams compete for honours.</desc>
+		<desc>BWSL is one of the most-watched leagues in the world and represents the pinnacle of women'sprofessional football in England. A historic expansion will see 14 teams compete for honours.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_womens_super_league_2025_26.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="211" start="20261006074000 +0000" stop="20261006091000 +0000">
 		<title>Premier Padel 2026: Rotterdam P2 Day 6 Final - Men</title>
-		<desc>The official global Padel tour. Catch world's top players battle it out across the globe.</desc>
+		<desc>The official global Padel tour. Catch world'stop players battle it out across the globe.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_premier_padel_2026.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="211" start="20261006091000 +0000" stop="20261006110000 +0000">
 		<title>Women's Super League 2026/27: Man United vs Liverpool</title>
-		<desc>BWSL is one of the most-watched leagues in the world and represents the pinnacle of women's professional football in England. A historic expansion will see 14 teams compete for honours.</desc>
+		<desc>BWSL is one of the most-watched leagues in the world and represents the pinnacle of women'sprofessional football in England. A historic expansion will see 14 teams compete for honours.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_womens_super_league_2025_26.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="211" start="20261006110000 +0000" stop="20261006120000 +0000">
@@ -10678,17 +10634,17 @@ rethinking its relationship with its rivers, one dam at a time.</desc>
 	</programme>
 	<programme channel="211" start="20261006120000 +0000" stop="20261006133000 +0000">
 		<title>Premier Padel 2026: Germany P2 Day 1 Match 1</title>
-		<desc>The official global Padel tour. Catch world's top players battle it out across the globe.</desc>
+		<desc>The official global Padel tour. Catch world'stop players battle it out across the globe.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_premier_padel_2026.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="211" start="20261006133000 +0000" stop="20261006150000 +0000">
 		<title>Premier Padel 2026: Germany P2 Day 1 Match 2</title>
-		<desc>The official global Padel tour. Catch world's top players battle it out across the globe.</desc>
+		<desc>The official global Padel tour. Catch world'stop players battle it out across the globe.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_premier_padel_2026.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="211" start="20261006150000 +0000" stop="20261006163000 +0000">
 		<title>Premier Padel 2026: Germany P2 Day 1 Match 3</title>
-		<desc>The official global Padel tour. Catch world's top players battle it out across the globe.</desc>
+		<desc>The official global Padel tour. Catch world'stop players battle it out across the globe.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_premier_padel_2026.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="213" start="20261004153000 +0000" stop="20261004161000 +0000">
@@ -10732,7 +10688,7 @@ rethinking its relationship with its rivers, one dam at a time.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch213_bein_generic_poster.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="213" start="20261004233000 +0000" stop="20261005013000 +0000">
-		<title>Formula 1 Main Race 2026: FORMULA 1 GULF AIR BAHRAIN GRAND PRIX IN MALAYSIA 2026 (051026)</title>
+		<title>Formula 1 Main Race 2026: FORMULA 1 GULF AIR BAHRAIN GRAND PRIX IN MALAYSIA 2026</title>
 		<desc>beIN Sports brings you live and exclusive coverage of the 2026 Formula 1 World Championship.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch213_formula1_generic.jpg?w=341%26h=192" />
 	</programme>
@@ -10821,37 +10777,37 @@ rethinking its relationship with its rivers, one dam at a time.</desc>
 		<desc>This premier esports series brings together elite drivers from around the world to compete across two premier categories: the Nations Cup, representing countries and territories, and the Manufacturers Cup, representing leading automotive marques.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch213_gran_turismo.jpg?w=341%26h=192" />
 	</programme>
-	<programme channel="213" start="20261005160500 +0000" stop="20261005180000 +0000">
+	<programme channel="213" start="20261005160500 +0000" stop="20261005175000 +0000">
 		<title>LaLiga Archive: Barcelona vs Real Madrid - 2011/12</title>
 		<desc>Relive the best and memorable LaLiga matches over the years in this series of classics.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch213_laliga_generic.jpg?w=960%26h=540" />
 	</programme>
-	<programme channel="213" start="20261005180000 +0000" stop="20261005190000 +0000">
+	<programme channel="213" start="20261005175000 +0000" stop="20261005185000 +0000">
 		<title>FIA World Rally Championship Highlights 2026</title>
 		<desc>Enjoy highlights from the 54th season of the World Rally Championship</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch213_fia_wrc.jpg?w=341%26h=192" />
 	</programme>
-	<programme channel="213" start="20261005190000 +0000" stop="20261005200000 +0000">
+	<programme channel="213" start="20261005185000 +0000" stop="20261005195000 +0000">
 		<title>Ferrari Challenge Europe Highlights 2026</title>
 		<desc>Catch the highlights of all the rounds of the Ferrari Challenge Europe 2026</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch213_ferrari_challenge_generic.jpg?w=341%26h=192" />
 	</programme>
-	<programme channel="213" start="20261005200000 +0000" stop="20261005210000 +0000">
+	<programme channel="213" start="20261005195000 +0000" stop="20261005205000 +0000">
 		<title>DTM Highlights 2026</title>
 		<desc>Catch the highlights from every round of the 2026 DTM.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch213_dtm_race.jpg?w=341%26h=192" />
 	</programme>
-	<programme channel="213" start="20261005210000 +0000" stop="20261005225000 +0000">
+	<programme channel="213" start="20261005205000 +0000" stop="20261005223500 +0000">
 		<title>UEFA Youth League 2026/27: Real Madrid vs Inter - MD1</title>
 		<desc>The UEFA Youth League is an elite international club football tournament for the under-19 academies of Europeâ€™s top teams, running in parallel to the prestigious UEFA Champions League.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch213_uefa_youth_league.jpg?w=960%26h=540" />
 	</programme>
-	<programme channel="213" start="20261005225000 +0000" stop="20261006002000 +0000">
+	<programme channel="213" start="20261005223500 +0000" stop="20261006001500 +0000">
 		<title>LFCTV Classic 2026/27: Brentford vs Liverpool PL 2023/24</title>
 		<desc>Enjoy every Liverpool classic encounters from LFCTV on beIN SPORTS</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch213_lfctv_generic.jpg?w=960%26h=540" />
 	</programme>
-	<programme channel="213" start="20261006002000 +0000" stop="20261006005000 +0000">
+	<programme channel="213" start="20261006001500 +0000" stop="20261006005000 +0000">
 		<title>LFCTV Specials 2026/27</title>
 		<desc>Enjoy documentaries and other special programming from LFCTV on beIN SPORTS</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch213_lfctv_generic.jpg?w=960%26h=540" />
@@ -10909,7 +10865,7 @@ rethinking its relationship with its rivers, one dam at a time.</desc>
 	<programme channel="213" start="20261006082500 +0000" stop="20261006084000 +0000">
 		<title>Chasing the Dream 8</title>
 		<desc>Chasing the Dream follows some of the brightest talent in single-seater racing on their journey to the top, taking you behind the scenes of the FIA Formula 2 Championship.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch213_chasing_the_dream.jpg?w=341%26h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch213_formula_2_generic.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="213" start="20261006084000 +0000" stop="20261006090000 +0000">
 		<title>LaLiga Rookies 2026/27</title>
@@ -10939,7 +10895,7 @@ rethinking its relationship with its rivers, one dam at a time.</desc>
 	<programme channel="213" start="20261006130000 +0000" stop="20261006133000 +0000">
 		<title>Le Mans Cup Highlights 2026</title>
 		<desc>Highlights of the eleventh season of the premier European endurance support series, featuring a record 45-car grid across LMP3 and GT3 classes</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch213_le_mans_cup_highlights.jpg?w=341%26h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch213_le_mans_cup.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="213" start="20261006133000 +0000" stop="20261006143000 +0000">
 		<title>European Le Mans Series Highlights 2026</title>
@@ -25781,7 +25737,7 @@ A re-introduction to the monster in his past. Our heroes frantic search for him 
 	</programme>
 	<programme channel="709" start="20261005000000 +0000" stop="20261005003000 +0000">
 		<title>Bloomberg Primer S2 - EP 2</title>
-		<desc>Humanoid robots that use AI are going mainstream, but they’re far from proven. With billions of dollars invested, can they deliver real-world value or will they fall short of the hype?</desc>
+		<desc>Humanoid robots that use AI are going mainstream, but they're far from proven. With billions of dollars invested, can they deliver real-world value or will they fall short of the hype?</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/709_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
 	<programme channel="709" start="20261005003000 +0000" stop="20261005010000 +0000">
@@ -26031,7 +25987,7 @@ A re-introduction to the monster in his past. Our heroes frantic search for him 
 	</programme>
 	<programme channel="709" start="20261006083000 +0000" stop="20261006090000 +0000">
 		<title>Bloomberg Primer S2 - EP 2</title>
-		<desc>Humanoid robots that use AI are going mainstream, but they’re far from proven. With billions of dollars invested, can they deliver real-world value or will they fall short of the hype?</desc>
+		<desc>Humanoid robots that use AI are going mainstream, but they're far from proven. With billions of dollars invested, can they deliver real-world value or will they fall short of the hype?</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/709_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
 	<programme channel="709" start="20261006090000 +0000" stop="20261006093000 +0000">
@@ -30962,7 +30918,7 @@ A re-introduction to the monster in his past. Our heroes frantic search for him 
 	<programme channel="815" start="20261004200500 +0000" stop="20261004210000 +0000">
 		<title>Documentary 3 Days - EP 720</title>
 		<desc>The program condenses 72 hours of observation into 50 minutes. It captures the passage of time in a single place, revealing the "real" stories within. It is about the places we pass by, the people we overlook, and the things we forget in everyday life.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch815_documentary_3_days.jpg?w=960%26h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch815_documentary_3days.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="815" start="20261004210000 +0000" stop="20261004221500 +0000">
 		<title>Love on the Menu - EP 18</title>
