@@ -686,17 +686,12 @@
 		<desc>Returning to the stunning islands of Fiji, the new batch of 21 contestants includes a professional wrestler, voice actress, federal prosecutor, baseball executive and sociology professor, among many other professions.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
-	<programme channel="102" start="20261010085000 +0000" stop="20261010100000 +0000">
+	<programme channel="102" start="20261010085000 +0000" stop="20261010103000 +0000">
 		<title>FORMULA 1 Singapore Airlines Singapore Grand Prix 2026 : Sprint</title>
 		<desc>(Live) Singapore has been the home of Formula One night racing since 2008. The backdrop of heritage buildings, modern architecture and breathtaking skyline culminates in an unparalleled combination of sights, sounds and a festive atmosphere. The speed, thrills and non-stop action will once again enthrall crowds as the world's finest drivers prove their mettle on the challenging Marina Bay Street Circuit.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
-	<programme channel="102" start="20261010100000 +0000" stop="20261010101500 +0000">
-		<title>Just For Laughs S25 - EP 11</title>
-		<desc>Just For Laughswill tickle everyone's funny bone with its hilarious practical jokes, hidden camera pranks, and other creative hijinks.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png?w=341%26h=192" />
-	</programme>
-	<programme channel="102" start="20261010101500 +0000" stop="20261010125500 +0000">
+	<programme channel="102" start="20261010103000 +0000" stop="20261010125500 +0000">
 		<title>Fast X</title>
 		<desc>Dom Toretto and his family are targeted by the vengeful son of drug kingpin Hernan Reyes.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png?w=341%26h=192" />
@@ -26069,44 +26064,29 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 		<icon src="https://poster.starhubgo.com/poster/ch711_laura_coates_live.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="711" start="20261010040000 +0000" stop="20261010050000 +0000">
-		<title>The Story Is With Elex Michaelson</title>
-		<desc>Elex Michaelson tackles the breaking stories making headlines with sharp analysis, fresh perspective, and a dose of humor.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch711_the_story_is_with_elex_michaelson.jpg?w=341%26h=192" />
+		<title>Laura Coates Live</title>
+		<desc>Laura Coates goes inside the story with a relentless pursuit of the facts.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch711_laura_coates_live.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="711" start="20261010050000 +0000" stop="20261010060000 +0000">
+		<title>Laura Coates Live</title>
+		<desc>Laura Coates goes inside the story with a relentless pursuit of the facts.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch711_laura_coates_live.jpg?w=960%26h=540" />
+	</programme>
+	<programme channel="711" start="20261010060000 +0000" stop="20261010070000 +0000">
 		<title>The Story Is With Elex Michaelson</title>
 		<desc>Elex Michaelson tackles the breaking stories making headlines with sharp analysis, fresh perspective, and a dose of humor.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch711_the_story_is_with_elex_michaelson.jpg?w=341%26h=192" />
 	</programme>
-	<programme channel="711" start="20261010060000 +0000" stop="20261010063000 +0000">
-		<title>CNN Newsroom</title>
-		<desc>Live context and clarity to the day's top stories from around the world.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch711_cnn_newsroom.jpg?w=960%26h=540" />
+	<programme channel="711" start="20261010070000 +0000" stop="20261010080000 +0000">
+		<title>The Story Is With Elex Michaelson</title>
+		<desc>Elex Michaelson tackles the breaking stories making headlines with sharp analysis, fresh perspective, and a dose of humor.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch711_the_story_is_with_elex_michaelson.jpg?w=341%26h=192" />
 	</programme>
-	<programme channel="711" start="20261010063000 +0000" stop="20261010070000 +0000">
-		<title>African Voices</title>
-		<desc>Nigerian luxury fashion designer Mai Atafo is the go-to designer for many of the country's celebrities and politicians.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch711_african_voices.jpg?w=341%26h=192" />
-	</programme>
-	<programme channel="711" start="20261010070000 +0000" stop="20261010073000 +0000">
-		<title>CNN Newsroom</title>
-		<desc>Live context and clarity to the day's top stories from around the world.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch711_cnn_newsroom.jpg?w=960%26h=540" />
-	</programme>
-	<programme channel="711" start="20261010073000 +0000" stop="20261010080000 +0000">
-		<title>Connecting Africa</title>
-		<desc>Meet the African companies transforming raw materials into world-class products while keeping the value chain within the continent.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch711_connecting_africa.jpg?w=960%26h=540" />
-	</programme>
-	<programme channel="711" start="20261010080000 +0000" stop="20261010083000 +0000">
-		<title>CNN Newsroom</title>
-		<desc>Live context and clarity to the day's top stories from around the world.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch711_cnn_newsroom.jpg?w=960%26h=540" />
-	</programme>
-	<programme channel="711" start="20261010083000 +0000" stop="20261010090000 +0000">
-		<title>CNN Creators</title>
-		<desc>Live from Doha, Qatar, CNN Creators follows a team of digital-native storytellers as they navigate the stories that matter most, with a focus on tech, art, culture, sport, and social trends.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch711_cnn_creators.jpg?w=341%26h=192" />
+	<programme channel="711" start="20261010080000 +0000" stop="20261010090000 +0000">
+		<title>The Story Is With Elex Michaelson</title>
+		<desc>Elex Michaelson tackles the breaking stories making headlines with sharp analysis, fresh perspective, and a dose of humor.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch711_the_story_is_with_elex_michaelson.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="711" start="20261010090000 +0000" stop="20261010100000 +0000">
 		<title>CNN Newsroom</title>
@@ -26149,9 +26129,9 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 		<icon src="https://poster.starhubgo.com/poster/ch711_inside_africa.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="711" start="20261010150000 +0000" stop="20261010160000 +0000">
-		<title>The Amanpour Hour</title>
-		<desc>Christiane Amanpour, CNN's chief international anchor, brings valuable insight to the biggest global and domestic news stories of the week.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch711_the_amanpour_hour.jpg?w=960%26h=540" />
+		<title>CNN Newsroom Saturday</title>
+		<desc>Updates of the latest news from around the world.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch711_cnn_newsroom.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="711" start="20261010160000 +0000" stop="20261010163000 +0000">
 		<title>World Sport</title>
@@ -26179,9 +26159,9 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 		<icon src="https://poster.starhubgo.com/poster/ch711_cnn_newsroom.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="711" start="20261010200000 +0000" stop="20261010210000 +0000">
-		<title>CNN Newsroom Saturday</title>
-		<desc>Updates of the latest news from around the world.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch711_cnn_newsroom.jpg?w=960%26h=540" />
+		<title>The Arena: Saturday</title>
+		<desc />
+		<icon src="https://poster.starhubgo.com/poster/ch711_the_arena_kasie_hunt.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="711" start="20261010210000 +0000" stop="20261010213000 +0000">
 		<title>World Sport</title>
@@ -26204,9 +26184,9 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 		<icon src="https://poster.starhubgo.com/poster/ch711_cnn_newsroom.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="711" start="20261011000000 +0000" stop="20261011010000 +0000">
-		<title>Smerconish</title>
-		<desc>Michael Smerconish tackles the American political and news stories of the week, offering only one kind of talking point: his own.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch711_smerconish.jpg?w=341%26h=192" />
+		<title>The Amanpour Hour</title>
+		<desc>Christiane Amanpour, CNN's chief international anchor, brings valuable insight to the biggest global and domestic news stories of the week.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch711_the_amanpour_hour.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="711" start="20261011010000 +0000" stop="20261011013000 +0000">
 		<title>World Sport</title>
