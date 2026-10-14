@@ -2043,7 +2043,7 @@
 	</programme>
 	<programme channel="106" start="20261014210000 +0000" stop="20261014213000 +0000">
 		<title>Money Mind - EP 25</title>
-		<desc>Money Mind is a weekly magazine programme centering on personal finance. Every week, the programme offers tips on how to grow, save and spend your money wisely.</desc>
+		<desc>When does refinancing your home loan actually save you money? How a big move cut a Hong Kong couple’s bills by 70%. Plus – can investing up to 80% of her salary make one woman a millionaire by 30?</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
 	<programme channel="106" start="20261014213000 +0000" stop="20261014220000 +0000">
@@ -2063,7 +2063,7 @@
 	</programme>
 	<programme channel="106" start="20261015020000 +0000" stop="20261015023000 +0000">
 		<title>Money Mind - EP 25</title>
-		<desc>Money Mind is a weekly magazine programme centering on personal finance. Every week, the programme offers tips on how to grow, save and spend your money wisely.</desc>
+		<desc>When does refinancing your home loan actually save you money? How a big move cut a Hong Kong couple’s bills by 70%. Plus – can investing up to 80% of her salary make one woman a millionaire by 30?</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
 	<programme channel="106" start="20261015023000 +0000" stop="20261015030000 +0000">
@@ -5256,6 +5256,11 @@
 		<desc>Saravannan begins anew after marrying Kavitha, but his fresh start unravels into turmoil when his friend Mani returns, bringing unexpected challenges with him. Release Year: 2022 Director: V. J. Gopinath</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch132_jiivi2.jpg?w=960%26h=540" />
 	</programme>
+	<programme channel="132" start="20261014160000 +0000" stop="20261014183000 +0000">
+		<title>Jiivi 2</title>
+		<desc>Saravannan begins anew after marrying Kavitha, but his fresh start unravels into turmoil when his friend Mani returns, bringing unexpected challenges with him. Release Year: 2022 Director: V. J. Gopinath</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch132_jiivi2.jpg?w=960%26h=540" />
+	</programme>
 	<programme channel="132" start="20261014183000 +0000" stop="20261014213000 +0000">
 		<title>Vaanam Kottattum</title>
 		<desc>Selva struggles to reunite his broken family as past mistakes haunt him, while love and forgiveness guide his children toward healing and emotional closure. Release Year: 2020</desc>
@@ -5298,8 +5303,8 @@
 	</programme>
 	<programme channel="132" start="20261015010000 +0000" stop="20261015023000 +0000">
 		<title>Bigg Boss Tamil S10 Unseen - EP 26</title>
-		<desc>Bigg Boss Tamil S10 Unseen</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch132_bigg_boss_tamil_s09_unseen.jpg?w=341%26h=192" />
+		<desc>Catch all the unedited drama, secret chats, and intense footage straight from the house that didn't make it to the main broadcasted daily episodes.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch132_bigg_boss.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="132" start="20261015023000 +0000" stop="20261015030000 +0000">
 		<title>Malar - EP 154</title>
@@ -5323,8 +5328,8 @@
 	</programme>
 	<programme channel="132" start="20261015093000 +0000" stop="20261015110000 +0000">
 		<title>Bigg Boss Tamil S10 Unseen - EP 26</title>
-		<desc>Bigg Boss Tamil S10 Unseen</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch132_bigg_boss_tamil_s09_unseen.jpg?w=341%26h=192" />
+		<desc>Catch all the unedited drama, secret chats, and intense footage straight from the house that didn't make it to the main broadcasted daily episodes.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch132_bigg_boss.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="132" start="20261015110000 +0000" stop="20261015113000 +0000">
 		<title>Mahabharatham - EP 140</title>
@@ -5353,15 +5358,15 @@
 	</programme>
 	<programme channel="132" start="20261015133000 +0000" stop="20261015150000 +0000">
 		<title>Bigg Boss Tamil S10 Unseen - EP 27</title>
-		<desc>Bigg Boss Tamil S10 Unseen</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch132_bigg_boss_tamil_s09_unseen.jpg?w=341%26h=192" />
+		<desc>Catch all the unedited drama, secret chats, and intense footage straight from the house that didn't make it to the main broadcasted daily episodes.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch132_bigg_boss.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="132" start="20261015150000 +0000" stop="20261015153000 +0000">
 		<title>Adhe Kangal - EP 217</title>
 		<desc>Adhe Kangal tells of a couple who ignore a haunted warning. After a failed assault, the real ghost Nagavali kills the attackers, as dark secrets haunt the girl's troubled family.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch132_adhe_kangal.jpg?w=960%26h=540" />
 	</programme>
-	<programme channel="132" start="20261015153000 +0000" stop="20261015183000 +0000">
+	<programme channel="132" start="20261015153000 +0000" stop="20261015160000 +0000">
 		<title>Muthukaalai</title>
 		<desc>Muthukaalai, a brave villager, stands against oppression to protect his people, proving his strength, courage and sense of justice in tough times. Release Year: 1995 Director: Gokula Krishnan</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch132_muthu_kaalai.jpg?w=960%26h=540" />
@@ -9847,7 +9852,7 @@
 		<icon src="https://poster.starhubgo.com/poster/ch201_BWF_2026_World_Championships_New_Delhi.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="201" start="20261013220000 +0000" stop="20261014010000 +0000">
-		<title>ATP Tour 2026 Rolex Shanghai Masters (1000) Day 7 R16 Session 1 (141026)</title>
+		<title>ATP Tour 2026 Rolex Shanghai Masters (1000) Day 7 R16 Session 1</title>
 		<desc>The Shanghai Masters is an annual tennis tournament held in Shanghai, China at the Qizhong Forest Sports City Arena. It is the only ATP Masters 1000 tournament held in Asia and the only one outside of Europe and North America.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch201_ATP1000_Shanghai_Masters.jpg?w=341%26h=192" />
 	</programme>
@@ -9857,7 +9862,7 @@
 		<icon src="https://poster.starhubgo.com/poster/ch201_ATP1000_Shanghai_Masters.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="201" start="20261014040000 +0000" stop="20261014080000 +0000">
-		<title>ATP Tour 2026 Rolex Shanghai Masters (1000) Day 8 R16 Session 1 (141026)</title>
+		<title>ATP Tour 2026 Rolex Shanghai Masters (1000) Day 8 R16 Session 1</title>
 		<desc>The Shanghai Masters is an annual tennis tournament held in Shanghai, China at the Qizhong Forest Sports City Arena. It is the only ATP Masters 1000 tournament held in Asia and the only one outside of Europe and North America.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch201_ATP1000_Shanghai_Masters.jpg?w=341%26h=192" />
 	</programme>
@@ -10154,7 +10159,7 @@
 	<programme channel="203" start="20261015093000 +0000" stop="20261015100000 +0000">
 		<title>DP World Tour 2026</title>
 		<desc>Join Rory McIlroy as he takes on five of Melbourne’s finest Par-3 holes across the legendary Sandbelt: The Metropolitan GC, Commonwealth GC, Kingston Heath GC, Victoria GC and Royal Melbourne GC.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch203_dp_world_tour.jpg?w=960%26h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch203_Rory_McIlroy_Ode_To_The_Melbourne_Sandbelt.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="203" start="20261015100000 +0000" stop="20261015130000 +0000">
 		<title>PGA Tour 2026</title>
@@ -10687,7 +10692,7 @@
 		<icon src="https://poster.starhubgo.com/poster/ch211_premier_padel_2026.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="211" start="20261014185500 +0000" stop="20261014210000 +0000">
-		<title>Aston Villa vs Fenerbahce - MD2 UEFA Champions League 2026/27 (151026)</title>
+		<title>Aston Villa vs Fenerbahce - MD2 UEFA Champions League 2026/27</title>
 		<desc>The UEFA Champions League is Europe's premier annual club football tournament, where the continent's elite teams compete to be crowned the ultimate champions of European football.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_MD2_Aston_Villa_v_Fenerbahce.jpg?w=960%26h=540" />
 	</programme>
@@ -26331,37 +26336,22 @@
 		<desc>Abby Phillip leads a roundtable discussion on the day's biggest stories and issues shaping our world.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch711_cnn_newsnight_with_abby_phillip.jpg?w=341%26h=192" />
 	</programme>
-	<programme channel="711" start="20261015040000 +0000" stop="20261015050000 +0000">
-		<title>The Story Is With Elex Michaelson</title>
-		<desc>Elex Michaelson tackles the breaking stories making headlines with sharp analysis, fresh perspective, and a dose of humor.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch711_the_story_is_with_elex_michaelson.jpg?w=341%26h=192" />
-	</programme>
-	<programme channel="711" start="20261015050000 +0000" stop="20261015054500 +0000">
-		<title>The Story Is With Elex Michaelson</title>
-		<desc>Elex Michaelson tackles the breaking stories making headlines with sharp analysis, fresh perspective, and a dose of humor.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch711_the_story_is_with_elex_michaelson.jpg?w=341%26h=192" />
-	</programme>
-	<programme channel="711" start="20261015054500 +0000" stop="20261015060000 +0000">
-		<title>World Sport</title>
-		<desc>Daily sports show features major stories and issues making news in the world of sports.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch711_world_sport.jpg?w=341%26h=192" />
-	</programme>
-	<programme channel="711" start="20261015060000 +0000" stop="20261015070000 +0000">
+	<programme channel="711" start="20261015040000 +0000" stop="20261015053000 +0000">
 		<title>CNN Newsroom</title>
 		<desc>Live context and clarity to the day's top stories from around the world.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch711_cnn_newsroom.jpg?w=960%26h=540" />
 	</programme>
-	<programme channel="711" start="20261015070000 +0000" stop="20261015074500 +0000">
-		<title>CNN Newsroom</title>
-		<desc>Live context and clarity to the day's top stories from around the world.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch711_cnn_newsroom.jpg?w=960%26h=540" />
+	<programme channel="711" start="20261015053000 +0000" stop="20261015063000 +0000">
+		<title>The Story Is With Elex Michaelson</title>
+		<desc>Elex Michaelson tackles the breaking stories making headlines with sharp analysis, fresh perspective, and a dose of humor.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch711_cnn_newsnight_with_abby_phillip.jpg?w=341%26h=192" />
 	</programme>
-	<programme channel="711" start="20261015074500 +0000" stop="20261015080000 +0000">
-		<title>World Sport</title>
-		<desc>Daily sports show features major stories and issues making news in the world of sports.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch711_world_sport.jpg?w=341%26h=192" />
+	<programme channel="711" start="20261015063000 +0000" stop="20261015073000 +0000">
+		<title>The Story Is With Elex Michaelson</title>
+		<desc>Elex Michaelson tackles the breaking stories making headlines with sharp analysis, fresh perspective, and a dose of humor.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch711_cnn_newsnight_with_abby_phillip.jpg?w=341%26h=192" />
 	</programme>
-	<programme channel="711" start="20261015080000 +0000" stop="20261015090000 +0000">
+	<programme channel="711" start="20261015073000 +0000" stop="20261015090000 +0000">
 		<title>CNN Newsroom</title>
 		<desc>Live context and clarity to the day's top stories from around the world.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch711_cnn_newsroom.jpg?w=960%26h=540" />
