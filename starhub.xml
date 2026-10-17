@@ -20446,25 +20446,25 @@ their luck around."</desc>
 		<desc>A high school basketball coach benches his undefeated team until they improve their academic performance.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch512_coach_carter.jpg?w=960%26h=540" />
 	</programme>
-	<programme channel="512" start="20261017234500 +0000" stop="20261018014500 +0000">
+	<programme channel="512" start="20261017234500 +0000" stop="20261018024500 +0000">
+		<title>Anatomy Of A Murder</title>
+		<desc>The truth proves elusive for a former prosecutor who is enlisted to defend an Army officer accused of murdering his wife's rapist.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch512_anatomy_of_a_murder.jpg?w=341%26h=192" />
+	</programme>
+	<programme channel="512" start="20261018024500 +0000" stop="20261018044500 +0000">
 		<title>Rush Hour 3</title>
 		<desc>Set in Paris, Rush Hour 3 finds Chris Tucker and Jackie Chan's misfit partners from West and East battling a wing of the Chinese organized crime family of the Triads - with their trademark mix of great action and big laughs.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch512_rush_hour_3.jpg?w=960%26h=540" />
 	</programme>
-	<programme channel="512" start="20261018014500 +0000" stop="20261018040000 +0000">
+	<programme channel="512" start="20261018044500 +0000" stop="20261018070000 +0000">
 		<title>The Ring</title>
 		<desc>A journalist investigates a cursed videotape that kills viewers seven days after watching it.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch512_the_ring.jpg?w=960%26h=540" />
 	</programme>
-	<programme channel="512" start="20261018040000 +0000" stop="20261018063000 +0000">
+	<programme channel="512" start="20261018070000 +0000" stop="20261018093000 +0000">
 		<title>Coach Carter</title>
 		<desc>A high school basketball coach benches his undefeated team until they improve their academic performance.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch512_coach_carter.jpg?w=960%26h=540" />
-	</programme>
-	<programme channel="512" start="20261018063000 +0000" stop="20261018093000 +0000">
-		<title>Anatomy Of A Murder</title>
-		<desc>The truth proves elusive for a former prosecutor who is enlisted to defend an Army officer accused of murdering his wife's rapist.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch512_anatomy_of_a_murder.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="512" start="20261018093000 +0000" stop="20261018120000 +0000">
 		<title>V For Vendetta</title>
@@ -23047,9 +23047,9 @@ their luck around."</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch701_BBC_news.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="701" start="20261017173000 +0000" stop="20261017180000 +0000">
-		<title>TBA</title>
-		<desc>TBA</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch701_BBC_news.jpg?w=341%26h=192" />
+		<title>Unspun World with John Simpson</title>
+		<desc>John Simpson explores the effect on civilians of Russia's bombardment of Ukrainian cities, looks at how Turkey has become a more authoritarian state and analyses China's regulation of AI chatbots.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch701_unspun_world_with_john_simpson.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="701" start="20261017180000 +0000" stop="20261017183000 +0000">
 		<title>BBC News</title>
@@ -23058,7 +23058,7 @@ their luck around."</desc>
 	</programme>
 	<programme channel="701" start="20261017183000 +0000" stop="20261017190000 +0000">
 		<title>Tech Now</title>
-		<desc>Tech Now explores the latest innovation and technology shaping our lives. Bringing you the inside track on global trends and advancements happening in the tech space today.</desc>
+		<desc>Andrew Rogers has the highlights from IFA Berlin, one of the world's biggest tech shows. Lara Lewington finds out why Kew Wakehurst botanic garden has become a living laboratory.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch701_BBC_news.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="701" start="20261017190000 +0000" stop="20261017193000 +0000">
@@ -23068,7 +23068,7 @@ their luck around."</desc>
 	</programme>
 	<programme channel="701" start="20261017193000 +0000" stop="20261017200000 +0000">
 		<title>The Travel Show</title>
-		<desc>Join the team on their journey of discovery as they explore the globe and uncover hidden sides to some of the world's favourite destinations.</desc>
+		<desc>As Port Talbot and Pontypridd compete to be the UK's first-ever Town of Culture, Rob Bell explores southern Wales to find out what the title would mean for these formerly industrial areas.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch701_the_travel_show.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="701" start="20261017200000 +0000" stop="20261017210000 +0000">
@@ -23088,7 +23088,7 @@ their luck around."</desc>
 	</programme>
 	<programme channel="701" start="20261017223000 +0000" stop="20261017230000 +0000">
 		<title>Talking Business</title>
-		<desc>Examining the business stories and economic trends that are re-shaping our world.</desc>
+		<desc>Lukwesa Burak delves into how the UK becoming a global AI leader could help with economic growth but pose risks to jobs and stability.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch701_talking_business.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="701" start="20261017230000 +0000" stop="20261017233000 +0000">
@@ -23098,7 +23098,7 @@ their luck around."</desc>
 	</programme>
 	<programme channel="701" start="20261017233000 +0000" stop="20261018000000 +0000">
 		<title>The Media Show</title>
-		<desc>A global, topical weekly show that lifts the hood on the entertainment and news business. The Media Show explores the companies and personalities who command our attention.</desc>
+		<desc>Russell T Davies the man behind the Doctor Who reboot and groundbreaking dramas like Queer as Folk.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch701_BBC_news.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="701" start="20261018000000 +0000" stop="20261018003000 +0000">
@@ -23107,8 +23107,8 @@ their luck around."</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch701_BBC_news.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="701" start="20261018003000 +0000" stop="20261018010000 +0000">
-		<title>TBA</title>
-		<desc>TBA</desc>
+		<title>The Security Brief</title>
+		<desc>The war in Ukraine has transformed modern warfare. What has the world learnt and where does the war go next? Christian Fraser and Mikey Kay are joined by special guests and a studio audience.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch701_BBC_news.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="701" start="20261018010000 +0000" stop="20261018013000 +0000">
@@ -23117,9 +23117,9 @@ their luck around."</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch701_BBC_news.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="701" start="20261018013000 +0000" stop="20261018020000 +0000">
-		<title>TBA</title>
-		<desc>TBA</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch701_BBC_news.jpg?w=341%26h=192" />
+		<title>Unspun World with John Simpson</title>
+		<desc>John Simpson explores the effect on civilians of Russia's bombardment of Ukrainian cities, looks at how Turkey has become a more authoritarian state and analyses China's regulation of AI chatbots.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch701_unspun_world_with_john_simpson.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="701" start="20261018020000 +0000" stop="20261018023000 +0000">
 		<title>BBC News</title>
@@ -23138,7 +23138,7 @@ their luck around."</desc>
 	</programme>
 	<programme channel="701" start="20261018033000 +0000" stop="20261018040000 +0000">
 		<title>Global Eye</title>
-		<desc>Award-winning investigations - revealing secrets, rooting out injustice, and exposing crime, corruption, and abuse. The biggest stories from BBC correspondents all over the world.</desc>
+		<desc>Nadine Yousif reports from Canada, where growing tensions over Alberta's place within the federation are fuelling a debate about identity, sovereignty and political power.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch701_BBC_news.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="701" start="20261018040000 +0000" stop="20261018043000 +0000">
@@ -23158,7 +23158,7 @@ their luck around."</desc>
 	</programme>
 	<programme channel="701" start="20261018053000 +0000" stop="20261018060000 +0000">
 		<title>Talking Business</title>
-		<desc>Examining the business stories and economic trends that are re-shaping our world.</desc>
+		<desc>Lukwesa Burak delves into how the UK becoming a global AI leader could help with economic growth but pose risks to jobs and stability.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch701_talking_business.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="701" start="20261018060000 +0000" stop="20261018063000 +0000">
@@ -23168,7 +23168,7 @@ their luck around."</desc>
 	</programme>
 	<programme channel="701" start="20261018063000 +0000" stop="20261018070000 +0000">
 		<title>The Travel Show</title>
-		<desc>Join the team on their journey of discovery as they explore the globe and uncover hidden sides to some of the world's favourite destinations.</desc>
+		<desc>As Port Talbot and Pontypridd compete to be the UK's first-ever Town of Culture, Rob Bell explores southern Wales to find out what the title would mean for these formerly industrial areas.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch701_the_travel_show.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="701" start="20261018070000 +0000" stop="20261018073000 +0000">
@@ -23177,8 +23177,8 @@ their luck around."</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch701_BBC_news.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="701" start="20261018073000 +0000" stop="20261018080000 +0000">
-		<title>TBA</title>
-		<desc>TBA</desc>
+		<title>The Security Brief</title>
+		<desc>The war in Ukraine has transformed modern warfare. What has the world learnt and where does the war go next? Christian Fraser and Mikey Kay are joined by special guests and a studio audience.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch701_BBC_news.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="701" start="20261018080000 +0000" stop="20261018090000 +0000">
@@ -23192,8 +23192,8 @@ their luck around."</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch701_BBC_news.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="701" start="20261018093000 +0000" stop="20261018100000 +0000">
-		<title>TBA</title>
-		<desc>TBA</desc>
+		<title>The Climate Question</title>
+		<desc>Huge construction projects are transforming China, including dams, solar power farms and a vast high-speed rail network. But will an engineering-first approach help Beijing deal with climate change?</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch701_BBC_news.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="701" start="20261018100000 +0000" stop="20261018103000 +0000">
@@ -23217,9 +23217,9 @@ their luck around."</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch701_BBC_news.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="701" start="20261018113000 +0000" stop="20261018120000 +0000">
-		<title>The Media Show</title>
-		<desc>A global, topical weekly show that lifts the hood on the entertainment and news business. The Media Show explores the companies and personalities who command our attention.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch701_BBC_news.jpg?w=341%26h=192" />
+		<title>Focus on Africa: The Conversation</title>
+		<desc>Many young Africans wish to emigrate to Europe and North America, according to an Afrobarometer survey, primarily in search of better work opportunities.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch701_focus_on_africa.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="701" start="20261018120000 +0000" stop="20261018123000 +0000">
 		<title>BBC News</title>
@@ -23228,7 +23228,7 @@ their luck around."</desc>
 	</programme>
 	<programme channel="701" start="20261018123000 +0000" stop="20261018130000 +0000">
 		<title>The Travel Show</title>
-		<desc>Join the team on their journey of discovery as they explore the globe and uncover hidden sides to some of the world's favourite destinations.</desc>
+		<desc>As Port Talbot and Pontypridd compete to be the UK's first-ever Town of Culture, Rob Bell explores southern Wales to find out what the title would mean for these formerly industrial areas.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch701_the_travel_show.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="701" start="20261018130000 +0000" stop="20261018133000 +0000">
@@ -23238,7 +23238,7 @@ their luck around."</desc>
 	</programme>
 	<programme channel="701" start="20261018133000 +0000" stop="20261018140000 +0000">
 		<title>Tech Now</title>
-		<desc>Tech Now explores the latest innovation and technology shaping our lives. Bringing you the inside track on global trends and advancements happening in the tech space today.</desc>
+		<desc>Andrew Rogers has the highlights from IFA Berlin, one of the world's biggest tech shows. Lara Lewington finds out why Kew Wakehurst botanic garden has become a living laboratory.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch701_BBC_news.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="701" start="20261018140000 +0000" stop="20261018143000 +0000">
@@ -23258,7 +23258,7 @@ their luck around."</desc>
 	</programme>
 	<programme channel="701" start="20261018153000 +0000" stop="20261018160000 +0000">
 		<title>Global Eye</title>
-		<desc>Award-winning investigations - revealing secrets, rooting out injustice, and exposing crime, corruption, and abuse. The biggest stories from BBC correspondents all over the world.</desc>
+		<desc>Nadine Yousif reports from Canada, where growing tensions over Alberta's place within the federation are fuelling a debate about identity, sovereignty and political power.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch701_BBC_news.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="702" start="20261016160000 +0000" stop="20261016170000 +0000">
@@ -29687,7 +29687,7 @@ their luck around."</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
 	<programme channel="811" start="20261017034500 +0000" stop="20261017040000 +0000">
-		<title>Drama Serial "Blossom" (R)</title>
+		<title>Drama Serial "Blossom" Ep. 15 (R)</title>
 		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
@@ -29696,12 +29696,17 @@ their luck around."</desc>
 		<desc>The latest up-to-date news and nationwide weather information.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
-	<programme channel="811" start="20261017040500 +0000" stop="20261017045000 +0000">
+	<programme channel="811" start="20261017040500 +0000" stop="20261017042000 +0000">
+		<title>Drama Serial "Blossom" (R)</title>
+		<desc />
+		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341%26h=192" />
+	</programme>
+	<programme channel="811" start="20261017042000 +0000" stop="20261017050500 +0000">
 		<title>Historical Drama "BROTHERS IN ARMS" Ep. 39 (R)</title>
 		<desc>Hideyoshi summons Kazumasa (Sakoda Takaya) to Osaka Castle and orders him to broker peace between the Tokugawa and Sanada. Impressed by the Toyotomi clan's wealth and growing power, Kazumasa tries to persuade Ieyasu, but Ieyasu refuses and prepares for war. Meanwhile, Hidenaga urges Hideyoshi to take another wife and produce an heir, suggesting Chacha (Inoue Nagi), who is of Oda blood. Concerned about his wife Nene's feelings, Hideyoshi strongly rejects the idea.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
-	<programme channel="811" start="20261017045000 +0000" stop="20261017070000 +0000">
+	<programme channel="811" start="20261017050500 +0000" stop="20261017070000 +0000">
 		<title>Japan Golf Tour Championship 2026: Third Day (End time subject to change.)</title>
 		<desc>Live from Tarao Country Club.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341%26h=192" />
@@ -30053,7 +30058,7 @@ their luck around."</desc>
 	</programme>
 	<programme channel="811" start="20261018110000 +0000" stop="20261018114500 +0000">
 		<title>Historical Drama "BROTHERS IN ARMS" Ep. 40</title>
-		<desc>The 65th historical drama unfolds in the heart of the Sengoku era, portraying the miraculous story of the Toyotomi brothers, whose unbreakable bond lifted them from obscurity to achieve the extraordinary feat of unifying a nation. Toyotomi Hidenaga (Nakano Taiga), the younger brother of Japan’s great unifier Hideyoshi (Ikematsu Sosuke), was regarded as the greatest aide of the Sengoku era—many believed that the Toyotomi reign might have endured had he lived longer. Through his eyes, this dynamic</desc>
+		<desc>Kazumasa defects to the Toyotomi side, throwing the Tokugawa clan into turmoil. Though the Tokugawa seem in no position to fight the Toyotomi, Ieyasu shows no sign of giving up. Just as Hideyoshi decides to mobilize his forces, a massive earthquake strikes, devastating both Osaka and Hamamatsu. The two sides begin exploring a path to peace, but Ieyasu demands one of Hideyoshi's relatives as his wife. The only woman in the Toyotomi family who can marry into the Tokugawa clan is Asahi (Kurasawa An</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
 	<programme channel="811" start="20261018114500 +0000" stop="20261018120000 +0000">
