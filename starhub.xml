@@ -5718,12 +5718,12 @@
 	</programme>
 	<programme channel="135" start="20261019041500 +0000" stop="20261019070000 +0000">
 		<title>Blast</title>
-		<desc>Blast</desc>
+		<desc>When a modest family with hidden martial arts skills encounters a ruthless gang, they unite to survive. Together, they face overwhelming odds in a thrilling and emotional battle.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch135_vijaylogo.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="135" start="20261019070000 +0000" stop="20261019100000 +0000">
 		<title>Mr.X</title>
-		<desc>Mr.X</desc>
+		<desc>Elite agents execute high-stakes covert operations to neutralize five massive national threats, protecting the country's security against dangerous masterminds hidden deep within shadow networks.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch135_vijaylogo.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="135" start="20261019100000 +0000" stop="20261019103000 +0000">
@@ -5778,12 +5778,12 @@
 	</programme>
 	<programme channel="135" start="20261019161500 +0000" stop="20261019190000 +0000">
 		<title>Blast</title>
-		<desc>Blast</desc>
+		<desc>When a modest family with hidden martial arts skills encounters a ruthless gang, they unite to survive. Together, they face overwhelming odds in a thrilling and emotional battle.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch135_vijaylogo.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="135" start="20261019190000 +0000" stop="20261019220000 +0000">
 		<title>Mr.X</title>
-		<desc>Mr.X</desc>
+		<desc>Elite agents execute high-stakes covert operations to neutralize five massive national threats, protecting the country's security against dangerous masterminds hidden deep within shadow networks.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch135_vijaylogo.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="135" start="20261019220000 +0000" stop="20261019223000 +0000">
@@ -6262,22 +6262,22 @@
 		<icon src="https://poster.starhubgo.com/poster/ch656_Maari.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="138" start="20261020010000 +0000" stop="20261020023000 +0000">
-		<title>Special -Pattimandram</title>
+		<title>Special -Pattimandram (201026)</title>
 		<desc>Simson Raja, or Pattimandram Raja, is a famous Indian TV personality. He's known for his great speeches on Tamil talk shows. People love to listen to him!</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch656_zee_tamil_exclusive.jpg?w=341%26h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch656_PATTIMANDRAM_VIJAYADASAMI.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="138" start="20261020023000 +0000" stop="20261020053000 +0000">
-		<title>Nilavuku Enmel Ennadi Kobam</title>
+		<title>Nilavuku Enmel Ennadi Kobam (201026)</title>
 		<desc>Watch family celebrations and festive specials filled with music, joy, and traditions.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch656_zee_tamil_exclusive.jpg?w=341%26h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch656_NEEK.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="138" start="20261020053000 +0000" stop="20261020083000 +0000">
-		<title>Sattamum Needhiyum</title>
+		<title>Sattamum Needhiyum (201026)</title>
 		<desc>Sundaramoorthy, a timid lawyer, takes on the case of a man who sets himself on fire outside the court to protest his daughter's abduction. Can Sundaramoorthy confront his fears and reveal the truth?</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch656_zee_tamil_exclusive.jpg?w=341%26h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch656_SATAMUM_NEETHIYUM.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="138" start="20261020083000 +0000" stop="20261020110000 +0000">
-		<title>Theeyavar Kolainadunga</title>
+		<title>Theeyavar Kolainadunga (201026)</title>
 		<desc>Inspector Magudapathi investigates the murder of a writer working on Kaverikarai. Meera, an autism teacher, becomes part of the puzzle, deepening the mystery and raising many unsettling questions.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch656_THE_EYAVAR_KULAI_NADUNGA.jpg?w=960%26h=540" />
 	</programme>
@@ -9478,7 +9478,12 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 		<desc>The Denmark Open is the second-oldest international tournament in the world. The tournament started in 1936 and is held at the Jyske Bank Arena in Odense, Denmark.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch201_BWF_VICTORDenmarkOpenSuper750NEW.jpg?w=960" />
 	</programme>
-	<programme channel="202" start="20261018160000 +0000" stop="20261018163000 +0000">
+	<programme channel="202" start="20261018100000 +0000" stop="20261018161100 +0000">
+		<title>HSBC BWF World Tour 2026 VICTOR Denmark Open (S750) Finals</title>
+		<desc>The Denmark Open is the second-oldest international tournament in the world. The tournament started in 1936 and is held at the Jyske Bank Arena in Odense, Denmark.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch202_bwf_world_tour_2026_denmark_open.jpg?w=341%26h=192" />
+	</programme>
+	<programme channel="202" start="20261018161100 +0000" stop="20261018163000 +0000">
 		<title>Invincible 2026</title>
 		<desc>Invincible is a timeless series that explores periods of unrivalled domination in sport. This show takes an in-depth study into greatness - the incredible feats and eras that echo through sporting history.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch202_invincible_2026.jpg?w=960%26h=540" />
@@ -9609,9 +9614,9 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 		<icon src="https://poster.starhubgo.com/poster/ch202_singapore_premier_league.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="202" start="20261020040000 +0000" stop="20261020043000 +0000">
-		<title>Invincible 2026</title>
-		<desc>Invincible is a timeless series that explores periods of unrivalled domination in sport. This show takes an in-depth study into greatness - the incredible feats and eras that echo through sporting history.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch202_invincible_2026.jpg?w=960%26h=540" />
+		<title>The Emirates FA Cup 2026/27 Draw</title>
+		<desc>The Emirates FA Cup is a knockout competition with teams selected randomly in a Draw which decides which team plays at their home ground and which team plays away.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch202_the_emirates_fa_cup_2425.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="202" start="20261020043000 +0000" stop="20261020073000 +0000">
 		<title>UFC Fight Night 2026 FN 26: Buckley vs Malott</title>
@@ -9640,7 +9645,7 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 	</programme>
 	<programme channel="202" start="20261020110000 +0000" stop="20261020130000 +0000">
 		<title>East Asia Super League 2026/27 Nagasaki Velca vs KCC Egis</title>
-		<desc>East Asia’s elite basketball clubs battle for regional supremacy. Catch live, high-octane action as top teams from Japan, Korea, the Philippines, and Taiwan clash for the ultimate championship.</desc>
+		<desc>East Asia's elite basketball clubs battle for regional supremacy. Catch live, high-octane action as top teams from Japan, Korea, the Philippines, and Taiwan clash for the ultimate championship.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch202_easl.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="202" start="20261020130000 +0000" stop="20261020160000 +0000">
@@ -10118,17 +10123,17 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 		<desc>The FIM Superbike World Championship is the leading production motorcycle racing series in the world with over 100 riders from more than 20 countries competing in various classes over 12 rounds.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_worldsbk.jpg?w=341%26h=192" />
 	</programme>
-	<programme channel="210" start="20261019210000 +0000" stop="20261019214500 +0000">
-		<title>2026 WorldSBK: Rd 12 Pirelli Spanish Round</title>
-		<desc>The FIM Superbike World Championship is the leading production motorcycle racing series in the world with over 100 riders from more than 20 countries competing in various classes over 12 rounds.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch210_worldsbk.jpg?w=341%26h=192" />
+	<programme channel="210" start="20261019210000 +0000" stop="20261019220000 +0000">
+		<title>2026 WorldWCR: Rd 6 Pirelli Spanish Round</title>
+		<desc>The FIM Women's Circuit Racing World Championship, with six rounds in 2026, is a pioneering single-make series exclusively for aspiring female riders, featuring the Yamaha R7.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch210_world_wcr.jpg?w=341%26h=192" />
 	</programme>
-	<programme channel="210" start="20261019214500 +0000" stop="20261020013000 +0000">
-		<title>2026 WorldSBK: Rd 12 Pirelli Spanish Round</title>
-		<desc>The FIM Superbike World Championship is the leading production motorcycle racing series in the world with over 100 riders from more than 20 countries competing in various classes over 12 rounds.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch210_worldsbk.jpg?w=341%26h=192" />
+	<programme channel="210" start="20261019220000 +0000" stop="20261019230000 +0000">
+		<title>2026 WorldWCR: Rd 6 Pirelli Spanish Round</title>
+		<desc>The FIM Women's Circuit Racing World Championship, with six rounds in 2026, is a pioneering single-make series exclusively for aspiring female riders, featuring the Yamaha R7.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch210_world_wcr.jpg?w=341%26h=192" />
 	</programme>
-	<programme channel="210" start="20261020013000 +0000" stop="20261020023000 +0000">
+	<programme channel="210" start="20261019230000 +0000" stop="20261020000800 +0000">
 		<title>2026 FIM EWC Highlights</title>
 		<desc>Top riders and teams take on the ultimate test of speed and endurance, battling through demanding long-distance races in world-class motorcycle competition.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_fim_ewc_highlights.jpg?w=341%26h=192" />
@@ -20054,7 +20059,7 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 	</programme>
 	<programme channel="509" start="20261020151500 +0000" stop="20261020160000 +0000">
 		<title>The Tonight Show Starring Jimmy Fallon S14 - EP 13</title>
-		<desc>Emmy and Grammy Award-winning comedian Jimmy Fallon brings his unique high-energy comedy to the storied 60-year NBC franchise with his welcoming interview style, love of audience participation, spot-on impersonations and innovative sketches.</desc>
+		<desc>Guests include Chris Pratt, Andy Cohen and comedian Joanne McNally. Emmy and Grammy Award-winning comedian Jimmy Fallon brings his unique high-energy comedy to the storied 60-year NBC franchise with his welcoming interview style, love of audience participation, spot-on impersonations and innovative sketches.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch509_The_Tonight_Show_Starring_Jimmy_Fallon_S14.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="511" start="20261018155500 +0000" stop="20261018165000 +0000">
@@ -32578,13 +32583,23 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
 	<programme channel="832" start="20261019170000 +0000" stop="20261019220000 +0000">
-		<title>Information Not Available</title>
-		<desc />
+		<title>Dragon TV Primetime News</title>
+		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
-	<programme channel="832" start="20261019220000 +0000" stop="20261020040000 +0000">
-		<title>Information Not Available</title>
-		<desc />
+	<programme channel="832" start="20261019220000 +0000" stop="20261019223000 +0000">
+		<title>New Entertainment</title>
+		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341%26h=192" />
+	</programme>
+	<programme channel="832" start="20261019223000 +0000" stop="20261019230000 +0000">
+		<title>CARE ON THE WAY</title>
+		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341%26h=192" />
+	</programme>
+	<programme channel="832" start="20261019230000 +0000" stop="20261020010000 +0000">
+		<title>Dragon TV Morning News</title>
+		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
 	<programme channel="832" start="20261020040000 +0000" stop="20261020100000 +0000">
