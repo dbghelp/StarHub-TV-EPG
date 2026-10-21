@@ -1438,7 +1438,7 @@
 	</programme>
 	<programme channel="103" start="20261022143000 +0000" stop="20261022150000 +0000">
 		<title>Focus - EP 30</title>
-		<desc>Focus provides timely reports and analyses on international news and current affairs from Singapore's perspective.</desc>
+		<desc>As El Nino returns, lotus root farmers in Perak, Malaysia, face another drought threat. How are they using lessons from ten years ago to prepare for the challenge? Despite Japan's frequent leadership changes, PM Sanae Takaichi has strengthened her position with a major election victory. But as her approval rating falls, how long can her political momentum last?</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/103_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
 	<programme channel="103" start="20261022150000 +0000" stop="20261022160000 +0000">
@@ -1628,7 +1628,7 @@
 	</programme>
 	<programme channel="104" start="20261022123000 +0000" stop="20261022133000 +0000">
 		<title>Undercover Asia S2 (2026) - EP 2</title>
-		<desc />
+		<desc>Migrants from India’s villages risk jungles, mafias and death on the dangerous dunki’ route for the American dream. But what lies behind the global underground network of illegal immigration?</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/104_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
 	<programme channel="104" start="20261022133000 +0000" stop="20261022143000 +0000">
@@ -2103,7 +2103,7 @@
 	</programme>
 	<programme channel="106" start="20261022130000 +0000" stop="20261022140000 +0000">
 		<title>Insight - EP 21</title>
-		<desc>Insight investigates and analyses topical issues that impact Asia and the rest of the world.</desc>
+		<desc>Indonesia's deforestation has hit an eight-year high, driven by farming, plantations and mining. Can the country balance economic growth with forest protection as environmental risks mount?</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
 	<programme channel="106" start="20261022140000 +0000" stop="20261022150000 +0000">
@@ -9904,7 +9904,7 @@
 	<programme channel="201" start="20261021200000 +0000" stop="20261021230000 +0000">
 		<title>WTA Tour 2026</title>
 		<desc>Founded in 2004, the Korea Open has been an integral part of women’s tennis for over two decades. 28 singles players compete for the title on outdoor hard courts at the Seoul Olympic Park Tennis Center in South Korea.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch201_WTA250Generic.jpg?w=341%26h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch201_WTA250Generic.jpg?w=960" />
 	</programme>
 	<programme channel="201" start="20261021230000 +0000" stop="20261022000000 +0000">
 		<title>ASO Cycling Programming 2026</title>
@@ -10073,7 +10073,7 @@
 	</programme>
 	<programme channel="202" start="20261022000000 +0000" stop="20261022020000 +0000">
 		<title>East Asia Super League 2026/27 TSG Ghosthawks vs Sono Skygunners</title>
-		<desc>East Asia's elite basketball clubs battle for regional supremacy. Catch live, high-octane action as top teams from Japan, Korea, the Philippines, and Taiwan clash for the ultimate championship.</desc>
+		<desc>East Asia’s elite basketball clubs battle for regional supremacy. Catch live, high-octane action as top teams from Japan, Korea, the Philippines, and Taiwan clash for the ultimate championship.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch202_easl.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="202" start="20261022020000 +0000" stop="20261022023000 +0000">
@@ -10466,12 +10466,12 @@
 		<desc>La Sella Open features top female golfers battling for the title in one of Spain's premier women's golf tournaments.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch209_Ladies_European_Tour.jpg?w=341%26h=192" />
 	</programme>
-	<programme channel="209" start="20261021180000 +0000" stop="20261021210000 +0000">
+	<programme channel="209" start="20261021180000 +0000" stop="20261021205000 +0000">
 		<title>CEV Enel EuroVolley 2026 (Men)</title>
 		<desc>Europe's top men's national volleyball teams battle for continental glory, showcasing world-class skill, power, and intense competition at EuroVolley 2026.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch209_CEV_Enel_Euro_Volley.jpg?w=960%26h=540" />
 	</programme>
-	<programme channel="209" start="20261021210000 +0000" stop="20261022010000 +0000">
+	<programme channel="209" start="20261021205000 +0000" stop="20261022010000 +0000">
 		<title>2026 LET: Aramco Korea Championship</title>
 		<desc>The stars of the Ladies European Tour gather in South Korea to compete for the Aramco Korea Championship title, delivering world-class golf and thrilling championship action.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch209_Ladies_European_Tour.jpg?w=341%26h=192" />
@@ -10481,37 +10481,42 @@
 		<desc>The Tour of Armenia sees professional cyclists tackle challenging routes across Armenia, battling for stage victories and overall honours in this demanding UCI road cycling event.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch209_Giro_dItalia_2026.jpg?w=960%26h=540" />
 	</programme>
-	<programme channel="209" start="20261022030000 +0000" stop="20261022050000 +0000">
+	<programme channel="209" start="20261022030000 +0000" stop="20261022050500 +0000">
 		<title>Tour of Armenia 2026</title>
 		<desc>The Tour of Armenia sees professional cyclists tackle challenging routes across Armenia, battling for stage victories and overall honours in this demanding UCI road cycling event.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch209_Giro_dItalia_2026.jpg?w=960%26h=540" />
 	</programme>
-	<programme channel="209" start="20261022050000 +0000" stop="20261022090000 +0000">
-		<title>2026 EKOI French Riviera T100</title>
-		<desc>40 of the world's best female and male professional triathletes battle over 8 breakneck 100km races in iconic locations around the globe in a bid to be crowned the T100 World Champions.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch209_2026_T100_Triathlon_World_Tour.jpg?w=341%26h=192" />
-	</programme>
-	<programme channel="209" start="20261022090000 +0000" stop="20261022110000 +0000">
-		<title>A-League Men 26/27 MW 1 Sydney FC vs Western Sydney Wanderers FC</title>
-		<desc>Top flight men's soccer returns in the ISUZU UTE A-League Men. Catch every moment on SPOTV NOW as 12 teams compete in the regular season with top 4 advancing to a single-game knockout.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch209_ALeagueMen.jpg?w=960%26h=540" />
-	</programme>
-	<programme channel="209" start="20261022110000 +0000" stop="20261022120000 +0000">
-		<title>2026 LET: Aramco Korea Championship</title>
-		<desc>The stars of the Ladies European Tour gather in South Korea to compete for the Aramco Korea Championship title, delivering world-class golf and thrilling championship action.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch209_Ladies_European_Tour.jpg?w=341%26h=192" />
-	</programme>
-	<programme channel="209" start="20261022120000 +0000" stop="20261022123000 +0000">
-		<title>2026 EKOI French Riviera T100</title>
-		<desc>40 of the world's best female and male professional triathletes battle over 8 breakneck 100km races in iconic locations around the globe in a bid to be crowned the T100 World Champions.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch209_2026_T100_Triathlon_World_Tour.jpg?w=341%26h=192" />
-	</programme>
-	<programme channel="209" start="20261022123000 +0000" stop="20261022143000 +0000">
+	<programme channel="209" start="20261022050500 +0000" stop="20261022070000 +0000">
 		<title>Roshn Saudi League 26/27 MD 10 Al Nassr vs Neom</title>
 		<desc>The Roshn Saudi League features Saudi Arabia's top clubs competing for the league title in an exciting season of elite football action.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch209_SaudiLeague.jpg?w=960%26h=540" />
 	</programme>
-	<programme channel="209" start="20261022143000 +0000" stop="20261022163000 +0000">
+	<programme channel="209" start="20261022070000 +0000" stop="20261022083000 +0000">
+		<title>CelcomDigi STL 2026 GP Perak Match 5 Group C PDRM Defenders vs Bomba Fighters</title>
+		<desc>Malaysia's top sepak takraw teams compete in the CelcomDigi STL Grand Prix Perak, battling for victory with powerful serves, spectacular spikes and outstanding athletic skill.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch209_spotv.jpg?w=341%26h=192" />
+	</programme>
+	<programme channel="209" start="20261022083000 +0000" stop="20261022100000 +0000">
+		<title>CelcomDigi STL 2026 GP Perak Match 6 Group D Negeri Sembilan Antlres vs Penang Black Panthers</title>
+		<desc>Malaysia's top sepak takraw teams compete in the CelcomDigi STL Grand Prix Perak, battling for victory with powerful serves, spectacular spikes and outstanding athletic skill.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch209_spotv.jpg?w=341%26h=192" />
+	</programme>
+	<programme channel="209" start="20261022100000 +0000" stop="20261022120000 +0000">
+		<title>A-League Men 26/27 MW 1 Auckland FC vs Melbourne City FC</title>
+		<desc>Top flight men's soccer returns in the ISUZU UTE A-League Men. Catch every moment on SPOTV NOW as 12 teams compete in the regular season with top 4 advancing to a single-game knockout.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch209_ALeagueMen.jpg?w=960%26h=540" />
+	</programme>
+	<programme channel="209" start="20261022120000 +0000" stop="20261022133000 +0000">
+		<title>CelcomDigi STL 2026 GP Perak Match 7 Group A Kuala Lumpur Thunder vs Kelantan Warriors</title>
+		<desc>Malaysia's top sepak takraw teams compete in the CelcomDigi STL Grand Prix Perak, battling for victory with powerful serves, spectacular spikes and outstanding athletic skill.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch209_spotv.jpg?w=341%26h=192" />
+	</programme>
+	<programme channel="209" start="20261022133000 +0000" stop="20261022150000 +0000">
+		<title>CelcomDigi STL 2026 GP Perak Match 8 Group B ATM Guardians vs Johor Tigris</title>
+		<desc>Malaysia's top sepak takraw teams compete in the CelcomDigi STL Grand Prix Perak, battling for victory with powerful serves, spectacular spikes and outstanding athletic skill.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch209_spotv.jpg?w=341%26h=192" />
+	</programme>
+	<programme channel="209" start="20261022150000 +0000" stop="20261022170000 +0000">
 		<title>Roshn Saudi League 26/27 MD 10 Al Hilal vs Al Hazem</title>
 		<desc>The Roshn Saudi League features Saudi Arabia's top clubs competing for the league title in an exciting season of elite football action.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch209_SaudiLeague.jpg?w=960%26h=540" />
@@ -25821,22 +25826,22 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/709_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
 	<programme channel="709" start="20261021212000 +0000" stop="20261021215000 +0000">
-		<title>Bloomberg Primer</title>
+		<title>Bloomberg Primer S2 - EP 1</title>
 		<desc>Chinese companies dominate the EV battery supply chain and are expanding rapidly outside their home market. Meanwhile, competitors are looking to new chemistries to leapfrog the leading tech.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/709_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
 	<programme channel="709" start="20261021215000 +0000" stop="20261021222000 +0000">
-		<title>Bloomberg Primer</title>
+		<title>Bloomberg Primer S2 - EP 2</title>
 		<desc>Humanoid robots that use AI are going mainstream, but they're far from proven. With billions of dollars invested, can they deliver real-world value or will they fall short of the hype?</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/709_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
 	<programme channel="709" start="20261021222000 +0000" stop="20261021225000 +0000">
-		<title>Bloomberg Primer</title>
+		<title>Bloomberg Primer S2 - EP 3</title>
 		<desc>Semiconductors power modern technology, from AI to everyday devices. Now, global tensions and rising demand are forcing the chip supply chain to adapt.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/709_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
 	<programme channel="709" start="20261021225000 +0000" stop="20261021232000 +0000">
-		<title>Bloomberg Primer</title>
+		<title>Bloomberg Primer S2 - EP 4</title>
 		<desc>Nuclear power is attempting a comeback, but producing the necessary fuel is complex. From mining to enrichment, can new technologies and supply chains scale to power the next generation of reactors?</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/709_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
@@ -25851,42 +25856,42 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/709_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
 	<programme channel="709" start="20261022000000 +0000" stop="20261022003000 +0000">
-		<title>Quantum Marketing</title>
+		<title>Quantum Marketing S2 - EP 5</title>
 		<desc>Raja Rajamannar sits down with Qualcomm Chief Marketing Officer Don McGuire to discuss transforming invisible infrastructure into a consumer brand as AI moves into everyday devices.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/709_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
 	<programme channel="709" start="20261022003000 +0000" stop="20261022010000 +0000">
-		<title>Quantum Marketing</title>
+		<title>Quantum Marketing S2 - EP 1</title>
 		<desc>Raja Rajamannar sits down with Lectric eBikes co-founders Levi Conlow and Robby Deziel to explore how marketing can move an emerging technology.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/709_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
 	<programme channel="709" start="20261022010000 +0000" stop="20261022013000 +0000">
-		<title>Quantum Marketing</title>
+		<title>Quantum Marketing S2 - EP 2</title>
 		<desc>Airbnb Chief Experience Officer Hiroki Asai explains how the company seeks to drive deeper brand engagement through real-world experiences.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/709_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
 	<programme channel="709" start="20261022013000 +0000" stop="20261022020000 +0000">
-		<title>Quantum Marketing</title>
+		<title>Quantum Marketing S2 - EP 3</title>
 		<desc>Athletic Brewing helped move non-alcoholic beer into the mainstream. CEO Bill Shufelt explains how it paired a reinvented product with the concepts of craft and wellness.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/709_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
 	<programme channel="709" start="20261022020000 +0000" stop="20261022023000 +0000">
-		<title>Quantum Marketing</title>
+		<title>Quantum Marketing S2 - EP 5</title>
 		<desc>Raja Rajamannar sits down with Qualcomm Chief Marketing Officer Don McGuire to discuss transforming invisible infrastructure into a consumer brand as AI moves into everyday devices.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/709_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
 	<programme channel="709" start="20261022023000 +0000" stop="20261022030000 +0000">
-		<title>Quantum Marketing</title>
+		<title>Quantum Marketing S2 - EP 4</title>
 		<desc>Asmita Dubey, L'Oréal's global chief digital and marketing officer, unpacks how the century-old brand is adapting to the influencer economy and beauty technology.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/709_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
 	<programme channel="709" start="20261022030000 +0000" stop="20261022033000 +0000">
-		<title>Quantum Marketing</title>
+		<title>Quantum Marketing S1 - EP 5</title>
 		<desc>Stephan Pretorious, chief technology officer of WPP, unpacks the world of generative artificial intelligence and its potential impact, both positive and negative, on marketing.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/709_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
 	<programme channel="709" start="20261022033000 +0000" stop="20261022040000 +0000">
-		<title>Quantum Marketing</title>
+		<title>Quantum Marketing S1 - EP 6</title>
 		<desc>National Women's Soccer League Chief Marketing and Commercial Officer Julie Haddon discusses the opportunities for growing women's professional sports.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/709_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
@@ -25896,17 +25901,17 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/709_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
 	<programme channel="709" start="20261022042000 +0000" stop="20261022045000 +0000">
-		<title>Bloomberg Primer</title>
+		<title>Bloomberg Primer S2 - EP 5</title>
 		<desc>Flooding is rising worldwide, driving a global push for climate adaptation. From tunnels to seawalls to fly farms, can these solutions keep up with accelerating global warming?</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/709_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
 	<programme channel="709" start="20261022045000 +0000" stop="20261022052000 +0000">
-		<title>Bloomberg Primer</title>
+		<title>Bloomberg Primer S2 - EP 6</title>
 		<desc>AI’s rapid growth is pushing global energy demand skyward, forcing electrical grids to expand and modernize. Now, companies from China to Nigeria are investing in new tech to power the future.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/709_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
 	<programme channel="709" start="20261022052000 +0000" stop="20261022055000 +0000">
-		<title>Bloomberg Primer</title>
+		<title>Bloomberg Primer S2 - EP 3</title>
 		<desc>Semiconductors power modern technology, from AI to everyday devices. Now, global tensions and rising demand are forcing the chip supply chain to adapt.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/709_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
@@ -25921,47 +25926,47 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/709_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
 	<programme channel="709" start="20261022063000 +0000" stop="20261022070000 +0000">
-		<title>LEADERS with Francine Lacqua</title>
+		<title>LEADERS with Francine Lacqua S1 - EP 1</title>
 		<desc>Francine visits Finland, where the threat from Russia looms large. She speaks to President Alexander Stubb about Finnish resilience and how his country is preparing for an uncertain future.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/709_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
 	<programme channel="709" start="20261022070000 +0000" stop="20261022073000 +0000">
-		<title>LEADERS with Francine Lacqua</title>
+		<title>LEADERS with Francine Lacqua S1 - EP 2</title>
 		<desc>Francine Lacqua meets Ray Dalio on OceanX in the port of Nice for the UN Ocean Conference. They speak about radical transparency, building and leaving one of the largest hedge funds and what's next.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/709_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
 	<programme channel="709" start="20261022073000 +0000" stop="20261022080000 +0000">
-		<title>LEADERS with Francine Lacqua</title>
+		<title>LEADERS with Francine Lacqua S1 - EP 3</title>
 		<desc>Francine Lacqua talks with Franklin Templeton CEO Jenny Johnson about how to steer a $1.6 trillion business amid the rise of AI, shifting politics and booming private markets.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/709_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
 	<programme channel="709" start="20261022080000 +0000" stop="20261022083000 +0000">
-		<title>LEADERS with Francine Lacqua</title>
+		<title>LEADERS with Francine Lacqua S1 - EP 6</title>
 		<desc>What drives the world’s most influential minds? In Leaders with Francine Lacqua, we sit down with the decision-makers shaping our future to explore the personal stories behind their public personas.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/709_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
 	<programme channel="709" start="20261022083000 +0000" stop="20261022090000 +0000">
-		<title>Quantum Marketing</title>
+		<title>Quantum Marketing S2 - EP 1</title>
 		<desc>Raja Rajamannar sits down with Lectric eBikes co-founders Levi Conlow and Robby Deziel to explore how marketing can move an emerging technology.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/709_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
 	<programme channel="709" start="20261022090000 +0000" stop="20261022093000 +0000">
-		<title>Quantum Marketing</title>
+		<title>Quantum Marketing S2 - EP 2</title>
 		<desc>Airbnb Chief Experience Officer Hiroki Asai explains how the company seeks to drive deeper brand engagement through real-world experiences.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/709_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
 	<programme channel="709" start="20261022093000 +0000" stop="20261022100000 +0000">
-		<title>Quantum Marketing</title>
+		<title>Quantum Marketing S2 - EP 3</title>
 		<desc>Athletic Brewing helped move non-alcoholic beer into the mainstream. CEO Bill Shufelt explains how it paired a reinvented product with the concepts of craft and wellness.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/709_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
 	<programme channel="709" start="20261022100000 +0000" stop="20261022103000 +0000">
-		<title>Quantum Marketing</title>
+		<title>Quantum Marketing S2 - EP 4</title>
 		<desc>Asmita Dubey, L'Oréal's global chief digital and marketing officer, unpacks how the century-old brand is adapting to the influencer economy and beauty technology.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/709_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
 	<programme channel="709" start="20261022103000 +0000" stop="20261022110000 +0000">
-		<title>Quantum Marketing</title>
+		<title>Quantum Marketing S2 - EP 5</title>
 		<desc>Raja Rajamannar sits down with Qualcomm Chief Marketing Officer Don McGuire to discuss transforming invisible infrastructure into a consumer brand as AI moves into everyday devices.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/709_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
@@ -29805,9 +29810,19 @@
 		<desc>Offering tips on how to take most appropriate option when one becomes ill by referring examples.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
+	<programme channel="811" start="20261021161500 +0000" stop="20261021164000 +0000">
+		<title>Today's Cooking</title>
+		<desc>Cooking instructors will show all there is to know for a good hearty cooking.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341%26h=192" />
+	</programme>
 	<programme channel="811" start="20261021164000 +0000" stop="20261021170500 +0000">
 		<title>Haiku Poetry</title>
 		<desc>Focusing on enjoying Haiku, the program will introduce the various Haiku created by viewers.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341%26h=192" />
+	</programme>
+	<programme channel="811" start="20261021170500 +0000" stop="20261021171000 +0000">
+		<title>Mini Program</title>
+		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
 	<programme channel="811" start="20261021171000 +0000" stop="20261021173000 +0000">
@@ -29815,9 +29830,44 @@
 		<desc>Let’s learn simple and easy-to-remember phrases, looking at a modern Europe that cherishes its history and traditions while pursuing a lifestyle that fits its stature. Furthermore, we explore tips for “happiness” and various forms of “joy” through the unique European way of thinking and values behind their languages and lifestyles.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
+	<programme channel="811" start="20261021173000 +0000" stop="20261021174000 +0000">
+		<title>Real-Life Travel English</title>
+		<desc>This program is a practical listening course designed to help you understand fast-paced real English that you encounter when traveling abroad.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341%26h=192" />
+	</programme>
+	<programme channel="811" start="20261021174000 +0000" stop="20261021174500 +0000">
+		<title>World Weather</title>
+		<desc>Weather information of the different areas around the world.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341%26h=192" />
+	</programme>
+	<programme channel="811" start="20261021174500 +0000" stop="20261021180000 +0000">
+		<title>Kid's Discovery (R)</title>
+		<desc>In this program, children around the age of 4 can experience the pleasure of playing with friends, the wonder of life, the joy of doing thigs by themselves, and consideration for others, all while having fun through various discoveries.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341%26h=192" />
+	</programme>
+	<programme channel="811" start="20261021180000 +0000" stop="20261021182500 +0000">
+		<title>With Mother (R)</title>
+		<desc>This children's program includes a puppet show, cartoon, music, and gymnastics in which children can participate.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341%26h=192" />
+	</programme>
 	<programme channel="811" start="20261021182500 +0000" stop="20261021183000 +0000">
 		<title>This World is Filled with Wants 5min.</title>
 		<desc />
+		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341%26h=192" />
+	</programme>
+	<programme channel="811" start="20261021183000 +0000" stop="20261021184500 +0000">
+		<title>Drama Serial "Blossom" Ep. 18 (R)</title>
+		<desc />
+		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341%26h=192" />
+	</programme>
+	<programme channel="811" start="20261021184500 +0000" stop="20261021191200 +0000">
+		<title>Today's Close-up (R)</title>
+		<desc>The program flexibly probes into a wide range of topics from the NHK’s unique point of view.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341%26h=192" />
+	</programme>
+	<programme channel="811" start="20261021191200 +0000" stop="20261021191500 +0000">
+		<title>World Weather</title>
+		<desc>Weather information of the different areas around the world.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
 	<programme channel="811" start="20261021191500 +0000" stop="20261021200000 +0000">
@@ -29825,9 +29875,34 @@
 		<desc>A quiz show hosted by the comedy duo Nakagawake, in which train enthusiasts tackle tough questions related to railways while traveling by train.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
+	<programme channel="811" start="20261021200000 +0000" stop="20261021201000 +0000">
+		<title>TV Exercise</title>
+		<desc>Short program to introduce physical exercise for the young and old.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341%26h=192" />
+	</programme>
+	<programme channel="811" start="20261021201000 +0000" stop="20261021202500 +0000">
+		<title>Health for Today</title>
+		<desc>Difficult to understand medical care is easily explained in this program as well as tips on healthcare.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341%26h=192" />
+	</programme>
 	<programme channel="811" start="20261021202500 +0000" stop="20261021205500 +0000">
 		<title>Exciting New World</title>
 		<desc>This program takes you into an exciting new world that captivate your heart.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341%26h=192" />
+	</programme>
+	<programme channel="811" start="20261021205500 +0000" stop="20261021210000 +0000">
+		<title>World Weather</title>
+		<desc>Weather information of the different areas around the world.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341%26h=192" />
+	</programme>
+	<programme channel="811" start="20261021210000 +0000" stop="20261021220000 +0000">
+		<title>News: Good Morning, Japan</title>
+		<desc>Fresh news and information to start off the morning. Specialized reporters and anchors will wake up the viewers with this live news program.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341%26h=192" />
+	</programme>
+	<programme channel="811" start="20261021220000 +0000" stop="20261021230000 +0000">
+		<title>News: Good Morning, Japan</title>
+		<desc>Fresh news and information to start off the morning.  Specialized reporters and anchors will wake up the viewers with this live news program.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
 	<programme channel="811" start="20261021230000 +0000" stop="20261021231500 +0000">
@@ -29835,14 +29910,69 @@
 		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
+	<programme channel="811" start="20261021231500 +0000" stop="20261022005400 +0000">
+		<title>asaichi</title>
+		<desc>Looking into topical information ranging from social issues to entertainment news through the eyes of the general public.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341%26h=192" />
+	</programme>
+	<programme channel="811" start="20261022005400 +0000" stop="20261022005500 +0000">
+		<title>World Weather</title>
+		<desc>Weather information of the different areas around the world.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341%26h=192" />
+	</programme>
+	<programme channel="811" start="20261022005500 +0000" stop="20261022010000 +0000">
+		<title>Exercise for Everyone</title>
+		<desc>An easy-to-do exercise program for everyone from children to the elderly.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341%26h=192" />
+	</programme>
+	<programme channel="811" start="20261022010000 +0000" stop="20261022010500 +0000">
+		<title>News %26 Weather</title>
+		<desc>The latest up-to-date news and nationwide weather information.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341%26h=192" />
+	</programme>
 	<programme channel="811" start="20261022010500 +0000" stop="20261022015000 +0000">
 		<title>Train Geek Championship: Randen %26 Eizan Railway (R)</title>
 		<desc>A quiz show hosted by the comedy duo Nakagawake, in which train enthusiasts tackle tough questions related to railways while traveling by train.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
+	<programme channel="811" start="20261022015000 +0000" stop="20261022021700 +0000">
+		<title>Today's Close-up (R)</title>
+		<desc>The program flexibly probes into a wide range of topics from the NHK’s unique point of view.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341%26h=192" />
+	</programme>
+	<programme channel="811" start="20261022021700 +0000" stop="20261022022000 +0000">
+		<title>Mini Program</title>
+		<desc />
+		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341%26h=192" />
+	</programme>
 	<programme channel="811" start="20261022022000 +0000" stop="20261022025000 +0000">
 		<title>Future Prediction Reflections (R)</title>
 		<desc>Throughout history, humans have been fascinated by the idea of predicting the future. Yet such predictions often turn out to be wrong. Why have we so often misjudged the future? This program revisits past predictions, calmly examines why they failed, and explores the unexpected turns that history has taken.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341%26h=192" />
+	</programme>
+	<programme channel="811" start="20261022025000 +0000" stop="20261022025500 +0000">
+		<title>Songs for Everyone</title>
+		<desc>A song program where children can sing along by reading the lyrics on the screen.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341%26h=192" />
+	</programme>
+	<programme channel="811" start="20261022025500 +0000" stop="20261022030000 +0000">
+		<title>World Weather</title>
+		<desc>Weather information of the different areas around the world.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341%26h=192" />
+	</programme>
+	<programme channel="811" start="20261022030000 +0000" stop="20261022032000 +0000">
+		<title>News</title>
+		<desc>The latest up-to-date news from Tokyo.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341%26h=192" />
+	</programme>
+	<programme channel="811" start="20261022032000 +0000" stop="20261022032800 +0000">
+		<title>Information Worth Knowing from the News Commentator Bureau</title>
+		<desc>The commentators present trending news, its background, and engaging information related to daily life in an easy-to –understand manner.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341%26h=192" />
+	</programme>
+	<programme channel="811" start="20261022032800 +0000" stop="20261022033000 +0000">
+		<title>Mini Program</title>
+		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
 	<programme channel="811" start="20261022033000 +0000" stop="20261022034500 +0000">
@@ -29855,9 +29985,44 @@
 		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
+	<programme channel="811" start="20261022040000 +0000" stop="20261022040500 +0000">
+		<title>News</title>
+		<desc>The latest up-to-date news from Tokyo.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341%26h=192" />
+	</programme>
+	<programme channel="811" start="20261022040500 +0000" stop="20261022055000 +0000">
+		<title>News Around Japan</title>
+		<desc>Program introduces the latest news from all over Japan.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341%26h=192" />
+	</programme>
+	<programme channel="811" start="20261022055000 +0000" stop="20261022055500 +0000">
+		<title>World Weather</title>
+		<desc>Weather information of the different areas around the world.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341%26h=192" />
+	</programme>
+	<programme channel="811" start="20261022055500 +0000" stop="20261022060000 +0000">
+		<title>World Music Album</title>
+		<desc>A 5-minute music program introducing classical music.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341%26h=192" />
+	</programme>
+	<programme channel="811" start="20261022060000 +0000" stop="20261022061000 +0000">
+		<title>News %26 Weather</title>
+		<desc>The latest up-to-date news and nationwide weather information.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341%26h=192" />
+	</programme>
+	<programme channel="811" start="20261022061000 +0000" stop="20261022062500 +0000">
+		<title>Health for Today (R)</title>
+		<desc>Difficult to understand medical care is easily explained in this program as well as tips on healthcare.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341%26h=192" />
+	</programme>
 	<programme channel="811" start="20261022062500 +0000" stop="20261022064000 +0000">
 		<title>Night Drama Serial "Hoshi Shinichi's Short Story: The Frozen Time" Encore (R)</title>
 		<desc>Hoshi Shinichi wrote more than 1000 stories in his life, and they are still read by many people in the current generation. His short stories have the essences of mysterious science fiction, fantasy, and irony against human and society. This program depicts the world of his masterpieces in live-action drama.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341%26h=192" />
+	</programme>
+	<programme channel="811" start="20261022064000 +0000" stop="20261022065000 +0000">
+		<title>Points at Issue</title>
+		<desc>Specialists from different fields will make commentaries on current event issues.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
 	<programme channel="811" start="20261022065000 +0000" stop="20261022071500 +0000">
@@ -29870,14 +30035,74 @@
 		<desc>A scientific information program which explains the latest research, disasters and accidents from scientific aspects with a virtual set in the studio.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
+	<programme channel="811" start="20261022074500 +0000" stop="20261022075000 +0000">
+		<title>Mini Program</title>
+		<desc />
+		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341%26h=192" />
+	</programme>
 	<programme channel="811" start="20261022075000 +0000" stop="20261022082000 +0000">
 		<title>Fish Masters (R)</title>
 		<desc>A variety program exploring the mysterious world of fish with the fish expert Sakana-kun.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
+	<programme channel="811" start="20261022082000 +0000" stop="20261022083500 +0000">
+		<title>Peek-a-boo</title>
+		<desc>Bringing out potential and capability of children aged 0 to 2 years by stimulating their feelings with pictures and sound.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341%26h=192" />
+	</programme>
+	<programme channel="811" start="20261022083500 +0000" stop="20261022085900 +0000">
+		<title>With Mother</title>
+		<desc>This children's program includes a puppet show, cartoon, music, and gymnastics in which children can participate.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341%26h=192" />
+	</programme>
+	<programme channel="811" start="20261022085900 +0000" stop="20261022090000 +0000">
+		<title>1-Minute Anime: Songs for SDGs</title>
+		<desc>Let's learn about SDGs while singing along!  A selected goal out of 17 will be introduced in each one-minute song with animation.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341%26h=192" />
+	</programme>
+	<programme channel="811" start="20261022090000 +0000" stop="20261022091000 +0000">
+		<title>News</title>
+		<desc>The latest up-to-date news from Tokyo.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341%26h=192" />
+	</programme>
+	<programme channel="811" start="20261022091000 +0000" stop="20261022092500 +0000">
+		<title>Kid's Discovery</title>
+		<desc>In this program, children around the age of 4 can experience the pleasure of playing with friends, the wonder of life, the joy of doing thigs by themselves, and consideration for others, all while having fun through various discoveries.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341%26h=192" />
+	</programme>
+	<programme channel="811" start="20261022092500 +0000" stop="20261022095500 +0000">
+		<title>Whiz-Kids TV grow</title>
+		<desc>In this brand-new series, the TV Warriors team up with viewers to raise and help a unique character evolve. Through a variety of challenges, the kids strive not to grow for the sake of someone else, but to grow for themselves.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341%26h=192" />
+	</programme>
+	<programme channel="811" start="20261022095500 +0000" stop="20261022100000 +0000">
+		<title>World Weather</title>
+		<desc>Weather information of the different areas around the world.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341%26h=192" />
+	</programme>
+	<programme channel="811" start="20261022100000 +0000" stop="20261022103000 +0000">
+		<title>NHK News 7 (B)</title>
+		<desc>NHK's core news program wrapping up the day's events in an easy to understand way.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341%26h=192" />
+	</programme>
 	<programme channel="811" start="20261022103000 +0000" stop="20261022114300 +0000">
 		<title>Eat Up! The Ultimate Homemade Cooking Battle Drama Serial "Blossom"</title>
 		<desc>Passionate home cooks pour their time, effort, and ingenuity into creating the ultimate homemade dishes, from ramen and curry to sweets. This gourmet showdown is packed with surprises, laughter, and emotion.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341%26h=192" />
+	</programme>
+	<programme channel="811" start="20261022114300 +0000" stop="20261022114500 +0000">
+		<title>World Weather</title>
+		<desc>Weather information of the different areas around the world.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341%26h=192" />
+	</programme>
+	<programme channel="811" start="20261022114500 +0000" stop="20261022120000 +0000">
+		<title>NHK News 845</title>
+		<desc>Today's latest metropolitan area news and weather information program.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341%26h=192" />
+	</programme>
+	<programme channel="811" start="20261022120000 +0000" stop="20261022130000 +0000">
+		<title>News Watch 9 (B)</title>
+		<desc>NHK's mainstay evening news program.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
 	<programme channel="811" start="20261022130000 +0000" stop="20261022134500 +0000">
@@ -29893,6 +30118,26 @@
 	<programme channel="811" start="20261022140000 +0000" stop="20261022143000 +0000">
 		<title>Tokoro-san's Pursuit of Truth (R)</title>
 		<desc>An informational program that reveals Japan as it is by following incidents posted on local media such as local newspapers and business presses.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341%26h=192" />
+	</programme>
+	<programme channel="811" start="20261022143000 +0000" stop="20261022144000 +0000">
+		<title>News Commentary</title>
+		<desc>NHK news commentators give their views on current issues.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341%26h=192" />
+	</programme>
+	<programme channel="811" start="20261022144000 +0000" stop="20261022144500 +0000">
+		<title>News %26 Weather</title>
+		<desc>The latest up-to-date news and nationwide weather information.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341%26h=192" />
+	</programme>
+	<programme channel="811" start="20261022144500 +0000" stop="20261022152900 +0000">
+		<title>International News Report 2026</title>
+		<desc>An international news program providing in-depth report on what is happening around the world.  (Dual audio when available)</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341%26h=192" />
+	</programme>
+	<programme channel="811" start="20261022152900 +0000" stop="20261022153000 +0000">
+		<title>World Weather</title>
+		<desc>Weather information of the different areas around the world.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
 	<programme channel="811" start="20261022153000 +0000" stop="20261022160000 +0000">
