@@ -212,10 +212,6 @@
 		<display-name>Hub Premier 6</display-name>
 		<icon src="https://poster.starhubgo.com/Linear_Channels2/226_1920x1080_HTV.png?w=272" />
 	</channel>
-	<channel id="232">
-		<display-name>Hub Premier 2 (4K)</display-name>
-		<icon src="https://poster.starhubgo.com/Linear_Channels2/222_1920x1080_HTV.png?w=272" />
-	</channel>
 	<channel id="241">
 		<display-name>FIGHT SPORTS HD</display-name>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/241_1920x1080_HTV.png?w=272" />
@@ -1523,7 +1519,7 @@
 	</programme>
 	<programme channel="104" start="20261021123000 +0000" stop="20261021130000 +0000">
 		<title>Detik Semasa - EP 24</title>
-		<desc>The program analyses and dissect issues of concern to the Malay/Muslim Singaporeans - be it at the community level, national, regional or global. Apart from raising awareness, each DETIK episode hopes to set viewers thinking and make informed decisions on matters that can impact their lives.</desc>
+		<desc>Singapore is studying measures to tighten age-based social media protections for young people. However, to what extent can restrictions protect them? DETIK examines the approaches of other countries as well as the experiences of two families in setting limits on social media use. Between protection, trust and freedom, who should determine the boundaries?</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/104_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
 	<programme channel="104" start="20261021130000 +0000" stop="20261021133000 +0000">
@@ -1588,7 +1584,7 @@
 	</programme>
 	<programme channel="104" start="20261022070000 +0000" stop="20261022073000 +0000">
 		<title>Detik Semasa - EP 24</title>
-		<desc>The program analyses and dissect issues of concern to the Malay/Muslim Singaporeans - be it at the community level, national, regional or global. Apart from raising awareness, each DETIK episode hopes to set viewers thinking and make informed decisions on matters that can impact their lives.</desc>
+		<desc>Singapore is studying measures to tighten age-based social media protections for young people. However, to what extent can restrictions protect them? DETIK examines the approaches of other countries as well as the experiences of two families in setting limits on social media use. Between protection, trust and freedom, who should determine the boundaries?</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/104_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
 	<programme channel="104" start="20261022073000 +0000" stop="20261022080000 +0000">
@@ -10434,12 +10430,12 @@
 	<programme channel="209" start="20261021070000 +0000" stop="20261021083000 +0000">
 		<title>CelcomDigi STL 2026 GP Perak Match 1 Group B Johor Tigris vs Kedah Eagles</title>
 		<desc>Malaysia's top sepak takraw teams compete in the CelcomDigi STL Grand Prix Perak, battling for victory with powerful serves, spectacular spikes and outstanding athletic skill.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch209_spotv.jpg?w=341%26h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch209_CelcomDigi_STL_2026.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="209" start="20261021083000 +0000" stop="20261021100000 +0000">
 		<title>CelcomDigi STL 2026 GP Perak Match 2 Group A Kelantan Warriors vs Melaka Titans</title>
 		<desc>Malaysia's top sepak takraw teams compete in the CelcomDigi STL Grand Prix Perak, battling for victory with powerful serves, spectacular spikes and outstanding athletic skill.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch209_spotv.jpg?w=341%26h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch209_CelcomDigi_STL_2026.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="209" start="20261021100000 +0000" stop="20261021120000 +0000">
 		<title>A-League Men 26/27 MW 1 Sydney FC vs Western Sydney Wanderers FC</title>
@@ -10449,12 +10445,12 @@
 	<programme channel="209" start="20261021120000 +0000" stop="20261021133000 +0000">
 		<title>CelcomDigi STL 2026 GP Perak Match 3 Group C Bomba Fighters vs Selangor Pistons</title>
 		<desc>Malaysia's top sepak takraw teams compete in the CelcomDigi STL Grand Prix Perak, battling for victory with powerful serves, spectacular spikes and outstanding athletic skill.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch209_spotv.jpg?w=341%26h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch209_CelcomDigi_STL_2026.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="209" start="20261021133000 +0000" stop="20261021150000 +0000">
 		<title>CelcomDigi STL 2026 GP Perak Match 4 Group D Penang Black Panthers vs Perak Bison</title>
 		<desc>Malaysia's top sepak takraw teams compete in the CelcomDigi STL Grand Prix Perak, battling for victory with powerful serves, spectacular spikes and outstanding athletic skill.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch209_spotv.jpg?w=341%26h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch209_CelcomDigi_STL_2026.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="209" start="20261021150000 +0000" stop="20261021170000 +0000">
 		<title>Roshn Saudi League 26/27 MD 10 Al Nassr vs Neom</title>
@@ -10494,12 +10490,12 @@
 	<programme channel="209" start="20261022070000 +0000" stop="20261022083000 +0000">
 		<title>CelcomDigi STL 2026 GP Perak Match 5 Group C PDRM Defenders vs Bomba Fighters</title>
 		<desc>Malaysia's top sepak takraw teams compete in the CelcomDigi STL Grand Prix Perak, battling for victory with powerful serves, spectacular spikes and outstanding athletic skill.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch209_spotv.jpg?w=341%26h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch209_CelcomDigi_STL_2026.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="209" start="20261022083000 +0000" stop="20261022100000 +0000">
 		<title>CelcomDigi STL 2026 GP Perak Match 6 Group D Negeri Sembilan Antlres vs Penang Black Panthers</title>
 		<desc>Malaysia's top sepak takraw teams compete in the CelcomDigi STL Grand Prix Perak, battling for victory with powerful serves, spectacular spikes and outstanding athletic skill.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch209_spotv.jpg?w=341%26h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch209_CelcomDigi_STL_2026.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="209" start="20261022100000 +0000" stop="20261022120000 +0000">
 		<title>A-League Men 26/27 MW 1 Auckland FC vs Melbourne City FC</title>
@@ -10509,12 +10505,12 @@
 	<programme channel="209" start="20261022120000 +0000" stop="20261022133000 +0000">
 		<title>CelcomDigi STL 2026 GP Perak Match 7 Group A Kuala Lumpur Thunder vs Kelantan Warriors</title>
 		<desc>Malaysia's top sepak takraw teams compete in the CelcomDigi STL Grand Prix Perak, battling for victory with powerful serves, spectacular spikes and outstanding athletic skill.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch209_spotv.jpg?w=341%26h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch209_CelcomDigi_STL_2026.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="209" start="20261022133000 +0000" stop="20261022150000 +0000">
 		<title>CelcomDigi STL 2026 GP Perak Match 8 Group B ATM Guardians vs Johor Tigris</title>
 		<desc>Malaysia's top sepak takraw teams compete in the CelcomDigi STL Grand Prix Perak, battling for victory with powerful serves, spectacular spikes and outstanding athletic skill.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch209_spotv.jpg?w=341%26h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch209_CelcomDigi_STL_2026.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="209" start="20261022150000 +0000" stop="20261022170000 +0000">
 		<title>Roshn Saudi League 26/27 MD 10 Al Hilal vs Al Hazem</title>
