@@ -764,7 +764,7 @@
 	</programme>
 	<programme channel="102" start="20261023173000 +0000" stop="20261023180000 +0000">
 		<title>Talking Point - EP 22</title>
-		<desc>With a fresh approach to tackling the issues of the day, Talking Point investigates a current issue or event, offering different perspectives to local stories and reveals how it all affects you.</desc>
+		<desc>The haze is back. How much is it harming our health? Diana Ser investigates the risks of exercising outdoors, tests masks and air purifiers, and finds out when the haze might finally end.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
 	<programme channel="102" start="20261023180000 +0000" stop="20261023183000 +0000">
@@ -1934,7 +1934,7 @@
 	</programme>
 	<programme channel="106" start="20261024043000 +0000" stop="20261024050000 +0000">
 		<title>Money Mind - EP 26</title>
-		<desc>When does refinancing your home loan actually save you money? How a big move cut a Hong Kong couple’s bills by 70%. Plus – can investing up to 80% of her salary make one woman a millionaire by 30?</desc>
+		<desc>Options for your spare cash – is the highest rate always the best? He avoids credit cards – so how did he end up owing almost a month’s salary? Grandma’s recipe went viral – but can it turn a profit?</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
 	<programme channel="106" start="20261024050000 +0000" stop="20261024050200 +0000">
@@ -2014,7 +2014,7 @@
 	</programme>
 	<programme channel="106" start="20261024123000 +0000" stop="20261024130000 +0000">
 		<title>Money Mind - EP 26</title>
-		<desc>When does refinancing your home loan actually save you money? How a big move cut a Hong Kong couple’s bills by 70%. Plus – can investing up to 80% of her salary make one woman a millionaire by 30?</desc>
+		<desc>Options for your spare cash – is the highest rate always the best? He avoids credit cards – so how did he end up owing almost a month’s salary? Grandma’s recipe went viral – but can it turn a profit?</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
 	<programme channel="106" start="20261024130000 +0000" stop="20261024130200 +0000">
@@ -7727,25 +7727,140 @@
 		<desc>TFC continues to bring you the best of Filipino TV, movie and event entertainment, as well as timely news information that directly impacts your community!</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch144_showtime.jpg?w=960%26h=540" />
 	</programme>
-	<programme channel="144" start="20261023161500 +0000" stop="20261023220000 +0000">
-		<title>Information Not Available</title>
-		<desc />
+	<programme channel="144" start="20261023161500 +0000" stop="20261023165500 +0000">
+		<title>Sigabo®</title>
+		<desc>TFC continues to bring you the best of Filipino TV, movie and event entertainment, as well as timely news information that directly impacts your community!</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/144_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
-	<programme channel="144" start="20261023220000 +0000" stop="20261024040000 +0000">
-		<title>Information Not Available</title>
-		<desc />
+	<programme channel="144" start="20261023165500 +0000" stop="20261023173500 +0000">
+		<title>Someone, Someday®</title>
+		<desc>TFC continues to bring you the best of Filipino TV, movie and event entertainment, as well as timely news information that directly impacts your community!</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/144_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
-	<programme channel="144" start="20261024040000 +0000" stop="20261024100000 +0000">
-		<title>Information Not Available</title>
-		<desc />
+	<programme channel="144" start="20261023173500 +0000" stop="20261023181500 +0000">
+		<title>The Loyalty Game ®</title>
+		<desc>TFC continues to bring you the best of Filipino TV, movie and event entertainment, as well as timely news information that directly impacts your community!</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/144_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
-	<programme channel="144" start="20261024100000 +0000" stop="20261024160000 +0000">
-		<title>Information Not Available</title>
-		<desc />
+	<programme channel="144" start="20261023181500 +0000" stop="20261023185000 +0000">
+		<title>Iron Heart ®</title>
+		<desc>TFC continues to bring you the best of Filipino TV, movie and event entertainment, as well as timely news information that directly impacts your community!</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch144_iron_heart.jpg?w=341%26h=192" />
+	</programme>
+	<programme channel="144" start="20261023185000 +0000" stop="20261023193000 +0000">
+		<title>The General's Daughter®</title>
+		<desc>TFC continues to bring you the best of Filipino TV, movie and event entertainment, as well as timely news information that directly impacts your community!</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/144_1920x1080_HTV.png?w=341%26h=192" />
+	</programme>
+	<programme channel="144" start="20261023193000 +0000" stop="20261023200000 +0000">
+		<title>La Vida Lena®</title>
+		<desc>TFC continues to bring you the best of Filipino TV, movie and event entertainment, as well as timely news information that directly impacts your community!</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch144_la_vida_lena.jpg?w=960%26h=540" />
+	</programme>
+	<programme channel="144" start="20261023200000 +0000" stop="20261023213000 +0000">
+		<title>TV Patrol Weekday Global Edition</title>
+		<desc>TFC continues to bring you the best of Filipino TV, movie and event entertainment, as well as timely news information that directly impacts your community!</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch144_tv_patrol_weekend.jpg?w=960%26h=540" />
+	</programme>
+	<programme channel="144" start="20261023213000 +0000" stop="20261023223000 +0000">
+		<title>Tabing Ilog</title>
+		<desc>TFC continues to bring you the best of Filipino TV, movie and event entertainment, as well as timely news information that directly impacts your community!</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/144_1920x1080_HTV.png?w=341%26h=192" />
+	</programme>
+	<programme channel="144" start="20261023223000 +0000" stop="20261023233000 +0000">
+		<title>Maalaala Mo Kaya ®</title>
+		<desc>TFC continues to bring you the best of Filipino TV, movie and event entertainment, as well as timely news information that directly impacts your community!</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch144_mmk.jpg?w=960%26h=540" />
+	</programme>
+	<programme channel="144" start="20261023233000 +0000" stop="20261024000000 +0000">
+		<title>My Puhunan: Kaya Mo! ®</title>
+		<desc>TFC continues to bring you the best of Filipino TV, movie and event entertainment, as well as timely news information that directly impacts your community!</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch144_my_puhunan_kaya_mo.jpg?w=960%26h=540" />
+	</programme>
+	<programme channel="144" start="20261024000000 +0000" stop="20261024003000 +0000">
+		<title>Wow</title>
+		<desc>TFC continues to bring you the best of Filipino TV, movie and event entertainment, as well as timely news information that directly impacts your community!</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/144_1920x1080_HTV.png?w=341%26h=192" />
+	</programme>
+	<programme channel="144" start="20261024003000 +0000" stop="20261024010000 +0000">
+		<title>Astig Vegan S4</title>
+		<desc>TFC continues to bring you the best of Filipino TV, movie and event entertainment, as well as timely news information that directly impacts your community!</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/144_1920x1080_HTV.png?w=341%26h=192" />
+	</programme>
+	<programme channel="144" start="20261024010000 +0000" stop="20261024020000 +0000">
+		<title>Tulong Ko, Pasa Mo</title>
+		<desc>TFC continues to bring you the best of Filipino TV, movie and event entertainment, as well as timely news information that directly impacts your community!</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch144_tulong_ko_pasa_mo.jpg?w=341%26h=192" />
+	</programme>
+	<programme channel="144" start="20261024020000 +0000" stop="20261024023000 +0000">
+		<title>Ano Na Bev S8</title>
+		<desc>TFC continues to bring you the best of Filipino TV, movie and event entertainment, as well as timely news information that directly impacts your community!</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/144_1920x1080_HTV.png?w=341%26h=192" />
+	</programme>
+	<programme channel="144" start="20261024023000 +0000" stop="20261024030000 +0000">
+		<title>Kapamilya Daily Mass</title>
+		<desc>TFC continues to bring you the best of Filipino TV, movie and event entertainment, as well as timely news information that directly impacts your community!</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch144_kapamilya_daily_mass.jpg?w=341%26h=192" />
+	</programme>
+	<programme channel="144" start="20261024030000 +0000" stop="20261024040000 +0000">
+		<title>The B Side ®</title>
+		<desc>TFC continues to bring you the best of Filipino TV, movie and event entertainment, as well as timely news information that directly impacts your community!</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch144_the_b_side.jpg?w=960%26h=540" />
+	</programme>
+	<programme channel="144" start="20261024040000 +0000" stop="20261024063000 +0000">
+		<title>It's Showtime</title>
+		<desc>TFC continues to bring you the best of Filipino TV, movie and event entertainment, as well as timely news information that directly impacts your community!</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch144_showtime.jpg?w=960%26h=540" />
+	</programme>
+	<programme channel="144" start="20261024063000 +0000" stop="20261024080000 +0000">
+		<title>Miss Behave</title>
+		<desc>TFC continues to bring you the best of Filipino TV, movie and event entertainment, as well as timely news information that directly impacts your community!</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/144_1920x1080_HTV.png?w=341%26h=192" />
+	</programme>
+	<programme channel="144" start="20261024080000 +0000" stop="20261024083500 +0000">
+		<title>Pamilya Talk with Tita Jing S8</title>
+		<desc>TFC continues to bring you the best of Filipino TV, movie and event entertainment, as well as timely news information that directly impacts your community!</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/144_1920x1080_HTV.png?w=341%26h=192" />
+	</programme>
+	<programme channel="144" start="20261024083500 +0000" stop="20261024091000 +0000">
+		<title>Home Away From Home S7</title>
+		<desc>TFC continues to bring you the best of Filipino TV, movie and event entertainment, as well as timely news information that directly impacts your community!</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/144_1920x1080_HTV.png?w=341%26h=192" />
+	</programme>
+	<programme channel="144" start="20261024091000 +0000" stop="20261024094500 +0000">
+		<title>Juan Conversations with Rose Eclarinal S4</title>
+		<desc>TFC continues to bring you the best of Filipino TV, movie and event entertainment, as well as timely news information that directly impacts your community!</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch144_juan_home_with_rose_eclarinal.jpg?w=341%26h=192" />
+	</programme>
+	<programme channel="144" start="20261024094500 +0000" stop="20261024104500 +0000">
+		<title>TV Patrol Sabado Live</title>
+		<desc>TFC continues to bring you the best of Filipino TV, movie and event entertainment, as well as timely news information that directly impacts your community!</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch144_tv_patrol_weekend.jpg?w=960%26h=540" />
+	</programme>
+	<programme channel="144" start="20261024104500 +0000" stop="20261024113000 +0000">
+		<title>Ibang Level 'To</title>
+		<desc>TFC continues to bring you the best of Filipino TV, movie and event entertainment, as well as timely news information that directly impacts your community!</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/144_1920x1080_HTV.png?w=341%26h=192" />
+	</programme>
+	<programme channel="144" start="20261024113000 +0000" stop="20261024123000 +0000">
+		<title>Kapamilya Deal Or No Deal</title>
+		<desc>TFC continues to bring you the best of Filipino TV, movie and event entertainment, as well as timely news information that directly impacts your community!</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch144_kapamilya_deal_or_no_deal.jpg?w=960%26h=540" />
+	</programme>
+	<programme channel="144" start="20261024123000 +0000" stop="20261024133000 +0000">
+		<title>The Crossings: Finding Our Way Home Through Stories</title>
+		<desc>TFC continues to bring you the best of Filipino TV, movie and event entertainment, as well as timely news information that directly impacts your community!</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/144_1920x1080_HTV.png?w=341%26h=192" />
+	</programme>
+	<programme channel="144" start="20261024133000 +0000" stop="20261024143000 +0000">
+		<title>The B Side S2</title>
+		<desc>TFC continues to bring you the best of Filipino TV, movie and event entertainment, as well as timely news information that directly impacts your community!</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch144_the_b_side.jpg?w=960%26h=540" />
+	</programme>
+	<programme channel="144" start="20261024143000 +0000" stop="20261024164500 +0000">
+		<title>It's Showtime ®</title>
+		<desc>TFC continues to bring you the best of Filipino TV, movie and event entertainment, as well as timely news information that directly impacts your community!</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch144_showtime.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="145" start="20261022150000 +0000" stop="20261022170000 +0000">
 		<title>Goosebusters</title>
@@ -10003,7 +10118,7 @@ Food is more than flavor — it’s identity, struggle, and celebration.</desc>
 	<programme channel="206" start="20261023163000 +0000" stop="20261023203000 +0000">
 		<title>ATP Tour 2026</title>
 		<desc>The European Open is part of the ATP World Tour and is the largest and only tennis tournament of this level in Belgium. First held in 2016, the tournament was held in Antwerp at the Lotto Arena until 2024. However, from 2025, it has relocated to Brussels and is played at the Brussels Expo.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch201_atp_tour_2026.jpg?w=960%26h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch201_ATP250_Fortis_European_Open.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="206" start="20261023203000 +0000" stop="20261023220000 +0000">
 		<title>End of Transmission</title>
@@ -10041,7 +10156,7 @@ Food is more than flavor — it’s identity, struggle, and celebration.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/206_1920x1080_HTV.png?w=960%26h=540" />
 	</programme>
 	<programme channel="206" start="20261024140000 +0000" stop="20261024160000 +0000">
-		<title>ATP Tour 2026 BNP Paribas Fortis European Open (250) SF 1 (241026)</title>
+		<title>ATP Tour 2026 BNP Paribas Fortis European Open (250) SF 1</title>
 		<desc>The European Open is part of the ATP World Tour and is the largest and only tennis tournament of this level in Belgium. First held in 2016, the tournament was held in Antwerp at the Lotto Arena until 2024. However, from 2025, it has relocated to Brussels and is played at the Brussels Expo.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch201_ATP250_Fortis_European_Open.jpg?w=960%26h=540" />
 	</programme>
@@ -10426,7 +10541,7 @@ Food is more than flavor — it’s identity, struggle, and celebration.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_a_league_men.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="210" start="20261024110000 +0000" stop="20261024123000 +0000">
-		<title>2026 PYCL, Philippines S2 Rd 1 Black Mamba Aces vs Thrifty Drivers</title>
+		<title>2026 PYCL, Philippines S2</title>
 		<desc>The Philippines' top pickleball talents battle in the Pickle Yard Conference League, as franchise teams compete in fast-paced action for the Season 2 championship.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_pickle_yard_conference_league.jpg?w=960%26h=540" />
 	</programme>
@@ -11862,7 +11977,7 @@ Food is more than flavor — it’s identity, struggle, and celebration.</desc>
 	</programme>
 	<programme channel="223" start="20261024135000 +0000" stop="20261024160000 +0000">
 		<title>Arsenal vs Everton (MW08)</title>
-		<desc>The 35th season of the Premier League sees Arsenal defend its title against a host of teams keen for glory themselves. 20 teams are in the mix but only 1 champion will emerge ultimately.</desc>
+		<desc>Arsenal are unbeaten in their last seven Premier League matches against Everton (W5 D2), their best run against the Toffees since going 13 without defeat between December 2007 and December 2013.</desc>
 		<icon src="https://poster.starhubgo.com/poster/arsenal_stadium.jpg?w=960" />
 	</programme>
 	<programme channel="224" start="20261022160000 +0000" stop="20261022220000 +0000">
@@ -23362,7 +23477,7 @@ Food is more than flavor — it’s identity, struggle, and celebration.</desc>
 	</programme>
 	<programme channel="701" start="20261024113000 +0000" stop="20261024120000 +0000">
 		<title>Unspun World with John Simpson</title>
-		<desc>Unspun World provides an unvarnished version of the week's major global news stories - reliable, honest and essential viewing with the BBC's world affairs editor John Simpson.</desc>
+		<desc>John Simpson, in discussion with the BBC's unparalleled range of experts across the world, analyses the toll on Saudi Arabia of ongoing attacks by the Houthis.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch701_unspun_world_with_john_simpson.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="701" start="20261024120000 +0000" stop="20261024123000 +0000">
@@ -23586,7 +23701,7 @@ Food is more than flavor — it’s identity, struggle, and celebration.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch241_Gutfeld.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="702" start="20261024030000 +0000" stop="20261024040000 +0000">
-		<title>FOX News @Night</title>
+		<title>Fox News @Night</title>
 		<desc>Shannon Bream gives news analysis on the most compelling stories</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch241_FOXNewsNight.jpg?w=341%26h=192" />
 	</programme>
@@ -23621,22 +23736,22 @@ Food is more than flavor — it’s identity, struggle, and celebration.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch241_TheFive.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="702" start="20261024100000 +0000" stop="20261024110000 +0000">
-		<title>FOX %26 Friends Weekend</title>
+		<title>Fox %26 Friends Weekend</title>
 		<desc>News, weather, sports %26 entertainment</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch241_FOXAndFriendsWeekend.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="702" start="20261024110000 +0000" stop="20261024120000 +0000">
-		<title>FOX %26 Friends Weekend</title>
+		<title>Fox %26 Friends Weekend</title>
 		<desc>News, weather, sports %26 entertainment</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch241_FOXAndFriendsWeekend.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="702" start="20261024120000 +0000" stop="20261024130000 +0000">
-		<title>FOX %26 Friends Weekend</title>
+		<title>Fox %26 Friends Weekend</title>
 		<desc>News, weather, sports %26 entertainment</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch241_FOXAndFriendsWeekend.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="702" start="20261024130000 +0000" stop="20261024140000 +0000">
-		<title>FOX %26 Friends Weekend</title>
+		<title>Fox %26 Friends Weekend</title>
 		<desc>News, weather, sports %26 entertainment</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch241_FOXAndFriendsWeekend.jpg?w=341%26h=192" />
 	</programme>
@@ -26212,7 +26327,7 @@ Food is more than flavor — it’s identity, struggle, and celebration.</desc>
 	</programme>
 	<programme channel="711" start="20261024083000 +0000" stop="20261024090000 +0000">
 		<title>CNN Creators</title>
-		<desc>Live from Doha, Qatar, CNN Creators follows a team of digital-native storytellers as they navigate the stories that matter most, with a focus on tech, art, culture, sport, and social trends.</desc>
+		<desc>The Creators ask why trading cards are having such a moment in 2026, with millions of dollars changing hands for the right collectible.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch711_cnn_creators.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="711" start="20261024090000 +0000" stop="20261024100000 +0000">
@@ -26247,12 +26362,12 @@ Food is more than flavor — it’s identity, struggle, and celebration.</desc>
 	</programme>
 	<programme channel="711" start="20261024140000 +0000" stop="20261024143000 +0000">
 		<title>CNN Creators</title>
-		<desc>Live from Doha, Qatar, CNN Creators follows a team of digital-native storytellers as they navigate the stories that matter most, with a focus on tech, art, culture, sport, and social trends.</desc>
+		<desc>The Creators ask why trading cards are having such a moment in 2026, with millions of dollars changing hands for the right collectible.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch711_cnn_creators.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="711" start="20261024143000 +0000" stop="20261024150000 +0000">
 		<title>Inside Africa</title>
-		<desc>Inside Africa takes its viewers on a journey across Africa, exploring the true diversity and depth of different cultures, countries and regions.</desc>
+		<desc>How Senegal's surf culture is developing from a close-knit coastal community into a pathway to international competition.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch711_inside_africa.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="711" start="20261024150000 +0000" stop="20261024160000 +0000">
@@ -29221,8 +29336,8 @@ Food is more than flavor — it’s identity, struggle, and celebration.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/808_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
 	<programme channel="808" start="20261023170000 +0000" stop="20261023180000 +0000">
-		<title>News Night</title>
-		<desc>A round-up of international news.</desc>
+		<title>TVBS News</title>
+		<desc>A news programme that provides the latest Taiwan and international news, as well as in-depth analyses of important issues around the world.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/808_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
 	<programme channel="808" start="20261023180000 +0000" stop="20261023190000 +0000">
@@ -29711,7 +29826,7 @@ Food is more than flavor — it’s identity, struggle, and celebration.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
 	<programme channel="811" start="20261023182500 +0000" stop="20261023183000 +0000">
-		<title>Cruising from the Sky Mini</title>
+		<title>Ultra Heavy Machinery 5min.</title>
 		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
@@ -29791,8 +29906,8 @@ Food is more than flavor — it’s identity, struggle, and celebration.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
 	<programme channel="811" start="20261024000000 +0000" stop="20261024002800 +0000">
-		<title>Darwin's Amazing Animals "Capybara" (R)</title>
-		<desc>Rarely seen. Up-close with some of the planet's most amazing animals. Enter a world of unique creatures from Asia, Africa and the Americas.</desc>
+		<title>Heroic Tales Playback Through Storytelling "Uno Chiyo" (R)</title>
+		<desc>The show combines the passionate craft of a storyteller and valuable footage to depict admired heroes and moving stories.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
 	<programme channel="811" start="20261024002800 +0000" stop="20261024003000 +0000">
@@ -29801,43 +29916,28 @@ Food is more than flavor — it’s identity, struggle, and celebration.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
 	<programme channel="811" start="20261024003000 +0000" stop="20261024010000 +0000">
-		<title>Document 72 Hours Encore (R)</title>
-		<desc>This is an unusual program series that explores human dramas through chance encounters with ordinary people at selected locations.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341%26h=192" />
-	</programme>
-	<programme channel="811" start="20261024010000 +0000" stop="20261024010500 +0000">
-		<title>News %26 Weather</title>
-		<desc>The latest up-to-date news and nationwide weather information.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341%26h=192" />
-	</programme>
-	<programme channel="811" start="20261024010500 +0000" stop="20261024013400 +0000">
 		<title>Slow Life at a Temple Encore (R)</title>
 		<desc>Featuring distinguished programs ranging from entertainment shows to documentaries.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
-	<programme channel="811" start="20261024013400 +0000" stop="20261024020700 +0000">
-		<title>The Visualization Entertainment: Go! Kaneo-kun Encore (R)</title>
-		<desc>The show is MC-ed by comedian Ariyoshi Hiroiki, who hosts an NHK program on a regular basis for the first time.  The mascot character "Kaneo-kun" (voice of Nobu, of comedy duo Chidori), who loves money, visits various places, including popular visiting locations, and looks into different phenomena to learn how money plays a role.  The undertaking help unravel unexpected trends in society.  The program, which can be enjoyed by every member of the family, offers much food for thought.</desc>
+	<programme channel="811" start="20261024010000 +0000" stop="20261024010500 +0000">
+		<title>This World is Filled with Wants 5min.</title>
+		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
-	<programme channel="811" start="20261024020700 +0000" stop="20261024023000 +0000">
+	<programme channel="811" start="20261024010500 +0000" stop="20261024021700 +0000">
+		<title>Eat Up! The Ultimate Homemade Cooking Battle Drama Serial "Blossom" (R)</title>
+		<desc>Passionate home cooks pour their time, effort, and ingenuity into creating the ultimate homemade dishes, from ramen and curry to sweets. This gourmet showdown is packed with surprises, laughter, and emotion.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341%26h=192" />
+	</programme>
+	<programme channel="811" start="20261024021700 +0000" stop="20261024024000 +0000">
 		<title>Delicious Japan!</title>
 		<desc>Japan boasts a wide variety of fresh produce and quality food. Find out how and where it's all made. Plus: master chefs reveal their special recipes!</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
-	<programme channel="811" start="20261024023000 +0000" stop="20261024025000 +0000">
+	<programme channel="811" start="20261024024000 +0000" stop="20261024030000 +0000">
 		<title>Documentary: 20 Minutes</title>
 		<desc>A documentary program targeting the younger generation, who are turning away from TV, produced and directed by young creators.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341%26h=192" />
-	</programme>
-	<programme channel="811" start="20261024025000 +0000" stop="20261024025600 +0000">
-		<title>Songs for Everyone</title>
-		<desc>A song program where children can sing along by reading the lyrics on the screen.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341%26h=192" />
-	</programme>
-	<programme channel="811" start="20261024025600 +0000" stop="20261024030000 +0000">
-		<title>World Weather</title>
-		<desc>Weather information of the different areas around the world.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
 	<programme channel="811" start="20261024030000 +0000" stop="20261024031500 +0000">
@@ -29847,7 +29947,7 @@ Food is more than flavor — it’s identity, struggle, and celebration.</desc>
 	</programme>
 	<programme channel="811" start="20261024031500 +0000" stop="20261024034000 +0000">
 		<title>Exploring Factories</title>
-		<desc />
+		<desc>An entertainment program visiting small and large factories to discover the latest science, hidden artisanship, and enthusiastic people that support traditions of Japanese manufacture.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
 	<programme channel="811" start="20261024034000 +0000" stop="20261024034500 +0000">
@@ -29977,7 +30077,7 @@ Food is more than flavor — it’s identity, struggle, and celebration.</desc>
 	</programme>
 	<programme channel="811" start="20261024140000 +0000" stop="20261024143000 +0000">
 		<title>Venue101</title>
-		<desc>This live entertainment show delivers the latest music performances and information, and also connects with the audience making full use of social media.</desc>
+		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
 	<programme channel="811" start="20261024143000 +0000" stop="20261024160000 +0000">
@@ -30767,12 +30867,12 @@ Food is more than flavor — it’s identity, struggle, and celebration.</desc>
 	</programme>
 	<programme channel="815" start="20261023165500 +0000" stop="20261023181000 +0000">
 		<title>Marry Him If You Dare - EP 6</title>
-		<desc>32 years old for woman is an age which may be little too late to start something new or little too early to give up something. The 'future-self' comes to 'me' today and gives advices about life and marriage. The future-self is trying to bring better life</desc>
+		<desc>32 years old for woman is an age which may be little too late to start something new or little too early to give up something. The 'future-self' comes to 'me' today and gives advices about life and marriage.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch815_marry_him_if_you_dare.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="815" start="20261023181000 +0000" stop="20261023182500 +0000">
 		<title>Idol Booth - EP 3</title>
-		<desc>&lt;Idol Booth&gt; is where fans can meet their favorite idols just as both idols and fans have always envisioned them—pretty, cute, full of member chemistry, and as vivid as photocards coming to life—right before their eyes.Set against the backdrop of photo bo</desc>
+		<desc>&lt;Idol Booth&gt; is where fans can meet their favorite idols just as both idols and fans have always envisioned them-pretty, cute, full of member chemistry, and as vivid as photocards coming to life-right before their eyes.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch815_idol_booth.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="815" start="20261023182500 +0000" stop="20261023183000 +0000">
@@ -30782,7 +30882,7 @@ Food is more than flavor — it’s identity, struggle, and celebration.</desc>
 	</programme>
 	<programme channel="815" start="20261023183000 +0000" stop="20261023190500 +0000">
 		<title>Mission: Mompossible - EP 10</title>
-		<desc>A heartfelt family drama about two very different mothers - one who has devoted her life to her family, and the other who has always lived for herself - and their children, whose lives become intertwined in a turbulent journey of love, conflict, and growt</desc>
+		<desc>A heartfelt family drama about two very different mothers - one who has devoted her life to her family, and the other who has always lived for herself - and their children, whose lives become intertwined in a turbulent journey of love, conflict, and growth.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch815_mission_mompossible.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="815" start="20261023190500 +0000" stop="20261023194500 +0000">
@@ -30792,7 +30892,7 @@ Food is more than flavor — it’s identity, struggle, and celebration.</desc>
 	</programme>
 	<programme channel="815" start="20261023194500 +0000" stop="20261023205500 +0000">
 		<title>Descendants of the Sun - EP 14</title>
-		<desc>Healing Romance set in beautiful Southern Country's nature. Believing in love, not in miracle, they try to make a miracle from their love. Here goes the story of the heroes in our mind.Every dream is bought for a fortune and some say that happiness is f</desc>
+		<desc>Healing Romance set in beautiful Southern Country's nature. Believing in love, not in miracle, they try to make a miracle from their love. Here goes the story of the heroes in our mind.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch815_descendants_of_the_sun.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="815" start="20261023205500 +0000" stop="20261023210000 +0000">
@@ -30802,7 +30902,7 @@ Food is more than flavor — it’s identity, struggle, and celebration.</desc>
 	</programme>
 	<programme channel="815" start="20261023210000 +0000" stop="20261023223000 +0000">
 		<title>The Seasons - EP 27</title>
-		<desc>A music program featuring performances and candid conversations with a diverse range of artists to deliver deep musical resonance</desc>
+		<desc>A music program featuring performances and candid conversations with a diverse range of artists to deliver deep musical resonance.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch815_the_seasons_sung_sikyung.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="815" start="20261023223000 +0000" stop="20261023231000 +0000">
@@ -30817,7 +30917,7 @@ Food is more than flavor — it’s identity, struggle, and celebration.</desc>
 	</programme>
 	<programme channel="815" start="20261024002500 +0000" stop="20261024010000 +0000">
 		<title>Mission: Mompossible - EP 10</title>
-		<desc>A heartfelt family drama about two very different mothers - one who has devoted her life to her family, and the other who has always lived for herself - and their children, whose lives become intertwined in a turbulent journey of love, conflict, and growt</desc>
+		<desc>A heartfelt family drama about two very different mothers - one who has devoted her life to her family, and the other who has always lived for herself - and their children, whose lives become intertwined in a turbulent journey of love, conflict, and growth.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch815_mission_mompossible.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="815" start="20261024010000 +0000" stop="20261024014000 +0000">
@@ -30842,12 +30942,12 @@ Food is more than flavor — it’s identity, struggle, and celebration.</desc>
 	</programme>
 	<programme channel="815" start="20261024034000 +0000" stop="20261024051000 +0000">
 		<title>The Seasons - EP 27</title>
-		<desc>A music program featuring performances and candid conversations with a diverse range of artists to deliver deep musical resonance</desc>
+		<desc>A music program featuring performances and candid conversations with a diverse range of artists to deliver deep musical resonance.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch815_the_seasons_sung_sikyung.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="815" start="20261024051000 +0000" stop="20261024062000 +0000">
 		<title>Descendants of the Sun - EP 14</title>
-		<desc>Healing Romance set in beautiful Southern Country's nature. Believing in love, not in miracle, they try to make a miracle from their love. Here goes the story of the heroes in our mind.Every dream is bought for a fortune and some say that happiness is f</desc>
+		<desc>Healing Romance set in beautiful Southern Country's nature. Believing in love, not in miracle, they try to make a miracle from their love. Here goes the story of the heroes in our mind.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch815_descendants_of_the_sun.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="815" start="20261024062000 +0000" stop="20261024062500 +0000">
@@ -30857,22 +30957,22 @@ Food is more than flavor — it’s identity, struggle, and celebration.</desc>
 	</programme>
 	<programme channel="815" start="20261024062500 +0000" stop="20261024072000 +0000">
 		<title>Documentary 3 Days - EP 723</title>
-		<desc>The program condenses 72 hours of observation into 50 minutes.It captures the passage of time in a single place, revealing the “real” stories within.It is about the places we pass by, the people we overlook, and the things we forget in everyday life.</desc>
+		<desc>The program condenses 72 hours of observation into 50 minutes.It captures the passage of time in a single place, revealing the "real" stories within.It is about the places we pass by, the people we overlook, and the things we forget in everyday life.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch815_documentary_3days.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="815" start="20261024072000 +0000" stop="20261024085000 +0000">
 		<title>Happy Together 2026 - EP 5</title>
-		<desc>Prove the power of “together”!Korea's first-ever storytelling music audition, where personal stories harmonize into one song.</desc>
+		<desc>Prove the power of "together"!Korea's first-ever storytelling music audition, where personal stories harmonize into one song.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch815_happy_together_2026.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="815" start="20261024085000 +0000" stop="20261024102000 +0000">
 		<title>Boss in the Mirror - EP 376</title>
-		<desc>A reality talk show that offers a candid and often humorous look at the workplace through the eyes of Korea's most outspoken bosses. Each episode follows prominent CEOs, entertainers, and professionals as they go about their daily routines and interact wi</desc>
+		<desc>A reality talk show that offers a candid and often humorous look at the workplace through the eyes of Korea's most outspoken bosses.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch815_bossinthemirror.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="815" start="20261024102000 +0000" stop="20261024120000 +0000">
-		<title>Immortal Songs - EP 776</title>
-		<desc>Legendary artists and rising performers come together, connecting generations through music.Korea's top vocalists reinterpret iconic songs in their own styles, delivering powerful and emotional performances. Don't miss this unforgettable musical competiti</desc>
+		<title>Immortal Songs 2 - EP 776</title>
+		<desc>Legendary artists and rising performers come together, connecting generations through music.Korea's top vocalists reinterpret iconic songs in their own styles, delivering powerful and emotional performances.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch815_immortal_songs.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="815" start="20261024120000 +0000" stop="20261024131500 +0000">
@@ -34818,8 +34918,8 @@ Set in the Northern Song Dynasty during the reign of Emperor Zhezong, the story 
 		<icon src="https://poster.starhubgo.com/Linear_channnes/falseNE?w=341%26h=192" />
 	</programme>
 	<programme channel="995" start="20261023170000 +0000" stop="20261023180000 +0000">
-		<title>News Night</title>
-		<desc>A round-up of international news.</desc>
+		<title>TVBS News</title>
+		<desc>A news programme that provides the latest Taiwan and international news, as well as in-depth analyses of important issues around the world.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channnes/falseNE?w=341%26h=192" />
 	</programme>
 	<programme channel="995" start="20261023180000 +0000" stop="20261023190000 +0000">
