@@ -999,7 +999,7 @@
 	</programme>
 	<programme channel="102" start="20261030133000 +0000" stop="20261030140000 +0000">
 		<title>On The Red Dot - EP 23</title>
-		<desc>On The Red Dot offers weekly in-depth analysis and discussion on key issues and events that matter to Singaporeans.</desc>
+		<desc>Circus changed Jonathan Goh’s life. Once a troubled youth, he’s now a full-time circus artist on a mission to grow Singapore’s circus scene. Can he make his dream a reality?</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
 	<programme channel="102" start="20261030140000 +0000" stop="20261030160000 +0000">
@@ -5985,7 +5985,7 @@
 	<programme channel="135" start="20261029173000 +0000" stop="20261029183000 +0000">
 		<title>Bigg Boss Tamil S10 - EP 53</title>
 		<desc>Contestants live together under constant camera surveillance, competing in tough tasks and facing public votes to survive eliminations in Bigg Boss Tamil S10.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch135_bigg_boss_tamil.jpg?w=960%26h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch135_bigg_boss_tamil_s10.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="135" start="20261029183000 +0000" stop="20261029190000 +0000">
 		<title>Bigg Boss Tamil S10 Plus - EP 38</title>
@@ -6015,7 +6015,7 @@
 	<programme channel="135" start="20261029210000 +0000" stop="20261029220000 +0000">
 		<title>Bigg Boss Tamil S10 - EP 53</title>
 		<desc>Contestants live together under constant camera surveillance, competing in tough tasks and facing public votes to survive eliminations in Bigg Boss Tamil S10.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch135_bigg_boss_tamil.jpg?w=960%26h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch135_bigg_boss_tamil_s10.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="135" start="20261029220000 +0000" stop="20261029223000 +0000">
 		<title>Thaai Maman- Thaiku Nigaranavan - EP 134</title>
@@ -6055,7 +6055,7 @@
 	<programme channel="135" start="20261030013000 +0000" stop="20261030023000 +0000">
 		<title>Bigg Boss Tamil S10 - EP 53</title>
 		<desc>Contestants live together under constant camera surveillance, competing in tough tasks and facing public votes to survive eliminations in Bigg Boss Tamil S10.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch135_bigg_boss_tamil.jpg?w=960%26h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch135_bigg_boss_tamil_s10.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="135" start="20261030023000 +0000" stop="20261030030000 +0000">
 		<title>Bigg Boss Tamil S10 Plus - EP 38</title>
@@ -6125,7 +6125,7 @@
 	<programme channel="135" start="20261030090000 +0000" stop="20261030100000 +0000">
 		<title>Bigg Boss Tamil S10 - EP 53</title>
 		<desc>Contestants live together under constant camera surveillance, competing in tough tasks and facing public votes to survive eliminations in Bigg Boss Tamil S10.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch135_bigg_boss_tamil.jpg?w=960%26h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch135_bigg_boss_tamil_s10.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="135" start="20261030100000 +0000" stop="20261030103000 +0000">
 		<title>Thaai Maman- Thaiku Nigaranavan - EP 135</title>
@@ -6165,7 +6165,7 @@
 	<programme channel="135" start="20261030133000 +0000" stop="20261030143000 +0000">
 		<title>Bigg Boss Tamil S10 - EP 54</title>
 		<desc>Contestants live together under constant camera surveillance, competing in tough tasks and facing public votes to survive eliminations in Bigg Boss Tamil S10.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch135_bigg_boss_tamil.jpg?w=960%26h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch135_bigg_boss_tamil_s10.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="135" start="20261030143000 +0000" stop="20261030150000 +0000">
 		<title>Bigg Boss Tamil S10 Plus - EP 39</title>
@@ -7084,7 +7084,7 @@
 	</programme>
 	<programme channel="140" start="20261030103000 +0000" stop="20261030133000 +0000">
 		<title>Pichaikkaran 2</title>
-		<desc>Sathya, seeking his kidnapped sister, undergoes an illegal brain transplant, placing him in the life of a billionaire named Vijay.</desc>
+		<desc>Sathya is a poor man in search of his sister, who has been kidnapped by human traffickers. However, an illegal brain transplant puts him in the shoes of a billionaire named Vijay.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
 	<programme channel="140" start="20261030133000 +0000" stop="20261030163000 +0000">
@@ -10328,6 +10328,11 @@ The comedy that, twenty-five years later, inspired Billy Wilder's American maste
 		<desc>Malaysia's top sepak takraw teams compete in the CelcomDigi STL Grand Prix Penang, battling for victory with powerful serves, spectacular spikes and outstanding athletic skill.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch209_CelcomDigi_STL_2026.jpg?w=341%26h=192" />
 	</programme>
+	<programme channel="209" start="20261029230000 +0000" stop="20261030003000 +0000">
+		<title>CelcomDigi STL 2026 GP Penang Match 7 Group D Kedah Eagles vs Selangor Pistons</title>
+		<desc>Malaysia's top sepak takraw teams compete in the CelcomDigi STL Grand Prix Penang, battling for victory with powerful serves, spectacular spikes and outstanding athletic skill.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch209_CelcomDigi_STL_2026.jpg?w=341%26h=192" />
+	</programme>
 	<programme channel="209" start="20261030003000 +0000" stop="20261030010000 +0000">
 		<title>2026/27 ALM Mini Match MW 2 Brisbane Roar FC vs Perth Glory</title>
 		<desc>Australia and New Zealand's top clubs battle for A-League Men glory, with star players, fierce rivalries and a season of competitive football culminating in the Finals Series.</desc>
@@ -10349,7 +10354,7 @@ The comedy that, twenty-five years later, inspired Billy Wilder's American maste
 		<icon src="https://poster.starhubgo.com/poster/ch209_ALMMiniMatch.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="209" start="20261030050000 +0000" stop="20261030060000 +0000">
-		<title>CelcomDigi STL 2026 GP Penang Highlights Day 1</title>
+		<title>CelcomDigi STL 2026 GP Penang</title>
 		<desc>Malaysia's top sepak takraw teams compete in the CelcomDigi STL Grand Prix Penang, battling for victory with powerful serves, spectacular spikes and outstanding athletic skill.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch209_CelcomDigi_STL_2026.jpg?w=341%26h=192" />
 	</programme>
@@ -10363,27 +10368,22 @@ The comedy that, twenty-five years later, inspired Billy Wilder's American maste
 		<desc>Top flight men's soccer returns in the A-League Men's new season. Catch every moment on SPOTV NOW as 12 teams compete in the regular season with top 4 advancing to a single-game knockout.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch209_ALeagueMen.jpg?w=960%26h=540" />
 	</programme>
-	<programme channel="209" start="20261030110000 +0000" stop="20261030123000 +0000">
-		<title>2026 PYCL, Philippines S2 Rd 1 Konjac Zero Phoenix Force vs Cartivo Movers</title>
-		<desc>The Philippines' top pickleball talents battle in the Pickle Yard Conference League, as franchise teams compete in fast-paced action for the Season 2 championship.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch209_Pickle_Yard_Conference_League.jpg?w=960%26h=540" />
+	<programme channel="209" start="20261030110000 +0000" stop="20261030120000 +0000">
+		<title>CelcomDigi STL 2026 GP Penang</title>
+		<desc>Malaysia's top sepak takraw teams compete in the CelcomDigi STL Grand Prix Penang, battling for victory with powerful serves, spectacular spikes and outstanding athletic skill.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch209_CelcomDigi_STL_2026.jpg?w=341%26h=192" />
 	</programme>
-	<programme channel="209" start="20261030123000 +0000" stop="20261030130000 +0000">
-		<title>2026/27 ALM Mini Match MW 2 Melbourne Victory vs Melbourne City FC</title>
-		<desc>Australia and New Zealand's top clubs battle for A-League Men glory, with star players, fierce rivalries and a season of competitive football culminating in the Finals Series.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch209_ALMMiniMatch.jpg?w=341%26h=192" />
+	<programme channel="209" start="20261030120000 +0000" stop="20261030133000 +0000">
+		<title>CelcomDigi STL 2026 GP Penang Match 11 Group D Perak Bisons vs Kedah Eagles</title>
+		<desc>Malaysia's top sepak takraw teams compete in the CelcomDigi STL Grand Prix Penang, battling for victory with powerful serves, spectacular spikes and outstanding athletic skill.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch209_CelcomDigi_STL_2026.jpg?w=341%26h=192" />
 	</programme>
-	<programme channel="209" start="20261030130000 +0000" stop="20261030140000 +0000">
-		<title>2026 FIA Extreme H World Cup, Qiddiya City</title>
-		<desc>The world's top off-road racing teams compete in the FIA Extreme H World Cup, pushing hydrogen-powered vehicles to the limit across challenging terrain in Qiddiya City, Saudi Arabia.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch209_spotv.jpg?w=341%26h=192" />
-	</programme>
-	<programme channel="209" start="20261030140000 +0000" stop="20261030150000 +0000">
+	<programme channel="209" start="20261030133000 +0000" stop="20261030150000 +0000">
 		<title>CelcomDigi STL 2026 GP Penang Match 12 Group B Melaka Titans vs Penang Black Panthers</title>
 		<desc>Malaysia's top sepak takraw teams compete in the CelcomDigi STL Grand Prix Penang, battling for victory with powerful serves, spectacular spikes and outstanding athletic skill.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch209_CelcomDigi_STL_2026.jpg?w=341%26h=192" />
 	</programme>
-	<programme channel="209" start="20261030150000 +0000" stop="20261030163000 +0000">
+	<programme channel="209" start="20261030150000 +0000" stop="20261030163500 +0000">
 		<title>CelcomDigi STL 2026 GP Perak Match 19 3rd Place ATM Guardians vs Johor Tigris</title>
 		<desc>Malaysia's top sepak takraw teams compete in the CelcomDigi STL Grand Prix Perak, battling for victory with powerful serves, spectacular spikes and outstanding athletic skill.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch209_CelcomDigi_STL_2026.jpg?w=341%26h=192" />
@@ -23562,7 +23562,7 @@ determined to help her</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch241_Gutfeld.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="702" start="20261029030000 +0000" stop="20261029040000 +0000">
-		<title>Fox News @Night</title>
+		<title>FOX News @Night</title>
 		<desc>Shannon Bream gives news analysis on the most compelling stories</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch241_FOXNewsNight.jpg?w=341%26h=192" />
 	</programme>
@@ -23587,27 +23587,27 @@ determined to help her</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch241_Gutfeld.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="702" start="20261029080000 +0000" stop="20261029090000 +0000">
-		<title>Fox %26 Friends First</title>
-		<desc>FOX %26 Friends First delivers headlines viewers may have missed overnight, along with a preview of the day ahead by covering the latest news in politics, business and entertainment.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch241_FOXFriends.jpg?w=341%26h=192" />
+		<title>The Ingraham Angle</title>
+		<desc>Laura Ingraham discusses the issues our counrty is in turmoil about</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch241_TheIngrahamAngle.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="702" start="20261029090000 +0000" stop="20261029100000 +0000">
-		<title>Fox %26 Friends First</title>
+		<title>FOX %26 Friends First</title>
 		<desc>FOX %26 Friends First delivers headlines viewers may have missed overnight, along with a preview of the day ahead by covering the latest news in politics, business and entertainment.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch241_FOXFriends.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="702" start="20261029100000 +0000" stop="20261029110000 +0000">
-		<title>Fox %26 Friends</title>
+		<title>FOX %26 Friends</title>
 		<desc>Ainsley Earhardt, Steve Doocy and Brian Kilmeade highlight the latest in news, weather, sports and entertainment</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch241_FOXFriends.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="702" start="20261029110000 +0000" stop="20261029120000 +0000">
-		<title>Fox %26 Friends</title>
+		<title>FOX %26 Friends</title>
 		<desc>Ainsley Earhardt, Steve Doocy and Brian Kilmeade highlight the latest in news, weather, sports and entertainment</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch241_FOXFriends.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="702" start="20261029120000 +0000" stop="20261029130000 +0000">
-		<title>Fox %26 Friends</title>
+		<title>FOX %26 Friends</title>
 		<desc>Ainsley Earhardt, Steve Doocy and Brian Kilmeade highlight the latest in news, weather, sports and entertainment</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch241_FOXFriends.jpg?w=341%26h=192" />
 	</programme>
