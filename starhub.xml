@@ -172,6 +172,10 @@
 		<display-name>beIN SPORTS 3 HD</display-name>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/214_1920x1080_HTV.png?w=272" />
 	</channel>
+	<channel id="215">
+		<display-name>beIN SPORTS 4 HD</display-name>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/215_1920x1080_HTV.png?w=272" />
+	</channel>
 	<channel id="217">
 		<display-name>Cricbuzz</display-name>
 		<icon src="https://poster.starhubgo.com/Linear_Channels2/217_1920x1080_HTV.png?w=272" />
@@ -1865,7 +1869,7 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
 	<programme channel="106" start="20261101230000 +0000" stop="20261102020000 +0000">
-		<title>Asia First 2026/2027 - EP 154</title>
+		<title>Asia First - EP 154</title>
 		<desc>(Live) Top stories, business news and market updates from across the region as Asia gears up for the day ahead.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
@@ -1980,7 +1984,7 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
 	<programme channel="106" start="20261102230000 +0000" stop="20261103020000 +0000">
-		<title>Asia First 2026/2027 - EP 155</title>
+		<title>Asia First - EP 155</title>
 		<desc>(Live) Top stories, business news and market updates from across the region as Asia gears up for the day ahead.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
@@ -9750,25 +9754,25 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 		<desc>The Rolex Paris Masters is the ninth and final ATP Masters 1000 event of the season. As the final tournament of the regular men’s tennis season, the Paris La Défense Arena showcases the cream of the crop as players vie to win the prestigious title and clinch the remaining qualifying spots in the season-ending Nitto ATP Finals.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch201_ATP1000_Paris_Master.jpg?w=960%26h=540" />
 	</programme>
-	<programme channel="201" start="20261102160000 +0000" stop="20261102163000 +0000">
+	<programme channel="201" start="20261102160000 +0000" stop="20261102180000 +0000">
+		<title>ATP Tour 2026</title>
+		<desc>The Rolex Paris Masters is the ninth and final ATP Masters 1000 event of the season. As the final tournament of the regular men’s tennis season, the Paris La Défense Arena showcases the cream of the crop as players vie to win the prestigious title and clinch the remaining qualifying spots in the season-ending Nitto ATP Finals.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch201_ATP1000_Paris_Master.jpg?w=960%26h=540" />
+	</programme>
+	<programme channel="201" start="20261102180000 +0000" stop="20261102200000 +0000">
+		<title>ATP Tour 2026</title>
+		<desc>The Rolex Paris Masters is the ninth and final ATP Masters 1000 event of the season. As the final tournament of the regular men’s tennis season, the Paris La Défense Arena showcases the cream of the crop as players vie to win the prestigious title and clinch the remaining qualifying spots in the season-ending Nitto ATP Finals.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch201_ATP1000_Paris_Master.jpg?w=960%26h=540" />
+	</programme>
+	<programme channel="201" start="20261102200000 +0000" stop="20261102220000 +0000">
+		<title>ATP Tour 2026</title>
+		<desc>The Rolex Paris Masters is the ninth and final ATP Masters 1000 event of the season. As the final tournament of the regular men’s tennis season, the Paris La Défense Arena showcases the cream of the crop as players vie to win the prestigious title and clinch the remaining qualifying spots in the season-ending Nitto ATP Finals.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch201_ATP1000_Paris_Master.jpg?w=960%26h=540" />
+	</programme>
+	<programme channel="201" start="20261102220000 +0000" stop="20261102223000 +0000">
 		<title>Mass Participation 2026</title>
 		<desc>Mass participation are a collection of captivating events from around the world; these might be triathlons, marathons %26 ultra-marathons, adventure racing or world record breaking attempts! All the events are of the highest quality in terms of competitors, location and production.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch201_MassParticipation.jpg?w=341%26h=192" />
-	</programme>
-	<programme channel="201" start="20261102163000 +0000" stop="20261102183000 +0000">
-		<title>ATP Tour 2026</title>
-		<desc>The Rolex Paris Masters is the ninth and final ATP Masters 1000 event of the season. As the final tournament of the regular men’s tennis season, the Paris La Défense Arena showcases the cream of the crop as players vie to win the prestigious title and clinch the remaining qualifying spots in the season-ending Nitto ATP Finals.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch201_ATP1000_Paris_Master.jpg?w=960%26h=540" />
-	</programme>
-	<programme channel="201" start="20261102183000 +0000" stop="20261102203000 +0000">
-		<title>ATP Tour 2026</title>
-		<desc>The Rolex Paris Masters is the ninth and final ATP Masters 1000 event of the season. As the final tournament of the regular men’s tennis season, the Paris La Défense Arena showcases the cream of the crop as players vie to win the prestigious title and clinch the remaining qualifying spots in the season-ending Nitto ATP Finals.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch201_ATP1000_Paris_Master.jpg?w=960%26h=540" />
-	</programme>
-	<programme channel="201" start="20261102203000 +0000" stop="20261102223000 +0000">
-		<title>ATP Tour 2026</title>
-		<desc>The Rolex Paris Masters is the ninth and final ATP Masters 1000 event of the season. As the final tournament of the regular men’s tennis season, the Paris La Défense Arena showcases the cream of the crop as players vie to win the prestigious title and clinch the remaining qualifying spots in the season-ending Nitto ATP Finals.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch201_ATP1000_Paris_Master.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="201" start="20261102223000 +0000" stop="20261102230000 +0000">
 		<title>Heroines 2026</title>
@@ -10375,20 +10379,30 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 		<desc>The world's top table tennis players compete for WTT Champions glory, showcasing elite skill, fierce rivalries, and world-class action in the race for valuable ranking points.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_wtt_champions.jpg?w=960%26h=540" />
 	</programme>
-	<programme channel="210" start="20261103023000 +0000" stop="20261103050000 +0000">
+	<programme channel="210" start="20261103023000 +0000" stop="20261103043000 +0000">
 		<title>Lexus Melbourne Cup 2026</title>
 		<desc>A premier horse racing event where elite thoroughbreds and top jockeys compete, delivering speed, skill, and thrilling competition on the track.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_lexus_melbourne_cup.jpg?w=341%26h=192" />
 	</programme>
-	<programme channel="210" start="20261103050000 +0000" stop="20261103081500 +0000">
-		<title>2026 MotoGP Rd 19 Petronas Grand Prix of Malaysia</title>
-		<desc>The 2026 MotoGP sees 22 of the world's best riders battle on 1000cc prototype machines, delivering over 250hp and reaching speeds of 360kph across 22 thrilling Grands Prix in 18 countries.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch210_motogp.jpg?w=960%26h=540" />
+	<programme channel="210" start="20261103043000 +0000" stop="20261103050000 +0000">
+		<title>2026 Global Champions League, Cairo</title>
+		<desc>The world's top show jumping riders compete across prestigious international venues, showcasing elite skill, speed, and championship drama throughout the season.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch210_global_champions_league.jpg?w=341%26h=192" />
 	</programme>
-	<programme channel="210" start="20261103081500 +0000" stop="20261103110000 +0000">
+	<programme channel="210" start="20261103050000 +0000" stop="20261103074500 +0000">
 		<title>MLB 2026 Postseason: World Series Game 1 Milwaukee Brewers vs Tampa Bay Rays</title>
 		<desc>The road to the World Series begins! Watch baseball's top teams battle it out in the ultimate test of skill, strategy, and endurance. Every pitch, every swing, every moment counts.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch210_mlb.jpg?w=341%26h=192" />
+	</programme>
+	<programme channel="210" start="20261103074500 +0000" stop="20261103081500 +0000">
+		<title>MotoGP Inside Ducati Lenovo Team</title>
+		<desc>INSIDE S2 returns, following the Ducati Lenovo Team through the 2026 MotoGP season with Marc Marquez and Francesco Bagnaia, capturing global races, emotion, unseen moments, and the people behind every result.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch210_motogp.jpg?w=960%26h=540" />
+	</programme>
+	<programme channel="210" start="20261103081500 +0000" stop="20261103110000 +0000">
+		<title>WTT Champions Montpellier 2026</title>
+		<desc>The world's top table tennis players compete for WTT Champions glory, showcasing elite skill, fierce rivalries, and world-class action in the race for valuable ranking points.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch210_wtt_champions.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="210" start="20261103110000 +0000" stop="20261103160000 +0000">
 		<title>WTT Champions Frankfurt 2026</title>
@@ -10949,6 +10963,46 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 		<title>Bundesliga Highlights 2026/27</title>
 		<desc>All the action from the latest round of games in the German Bundesliga, Germany's top division of football.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch214_bundesliga_highlights.jpg?w=341%26h=192" />
+	</programme>
+	<programme channel="215" start="20261101160000 +0000" stop="20261101220000 +0000">
+		<title>End of Transmission</title>
+		<desc />
+		<icon src="https://poster.starhubgo.com/Linear_channels2/215_1920x1080_HTV.png?w=960%26h=540" />
+	</programme>
+	<programme channel="215" start="20261101220000 +0000" stop="20261102040000 +0000">
+		<title>End of Transmission</title>
+		<desc />
+		<icon src="https://poster.starhubgo.com/Linear_channels2/215_1920x1080_HTV.png?w=960%26h=540" />
+	</programme>
+	<programme channel="215" start="20261102040000 +0000" stop="20261102100000 +0000">
+		<title>End of Transmission</title>
+		<desc />
+		<icon src="https://poster.starhubgo.com/Linear_channels2/215_1920x1080_HTV.png?w=960%26h=540" />
+	</programme>
+	<programme channel="215" start="20261102100000 +0000" stop="20261102160000 +0000">
+		<title>End of Transmission</title>
+		<desc />
+		<icon src="https://poster.starhubgo.com/Linear_channels2/215_1920x1080_HTV.png?w=960%26h=540" />
+	</programme>
+	<programme channel="215" start="20261102160000 +0000" stop="20261102220000 +0000">
+		<title>End of Transmission</title>
+		<desc />
+		<icon src="https://poster.starhubgo.com/Linear_channels2/215_1920x1080_HTV.png?w=960%26h=540" />
+	</programme>
+	<programme channel="215" start="20261102220000 +0000" stop="20261103040000 +0000">
+		<title>End of Transmission</title>
+		<desc />
+		<icon src="https://poster.starhubgo.com/Linear_channels2/215_1920x1080_HTV.png?w=960%26h=540" />
+	</programme>
+	<programme channel="215" start="20261103040000 +0000" stop="20261103100000 +0000">
+		<title>End of Transmission</title>
+		<desc />
+		<icon src="https://poster.starhubgo.com/Linear_channels2/215_1920x1080_HTV.png?w=960%26h=540" />
+	</programme>
+	<programme channel="215" start="20261103100000 +0000" stop="20261103160000 +0000">
+		<title>End of Transmission</title>
+		<desc />
+		<icon src="https://poster.starhubgo.com/Linear_channels2/215_1920x1080_HTV.png?w=960%26h=540" />
 	</programme>
 	<programme channel="217" start="20261101142000 +0000" stop="20261101183000 +0000">
 		<title>Zimbabwe tour of Afghanistan, 2026 LIVE: AFG vs ZIM, 3rd T20I</title>
@@ -17230,12 +17284,12 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 		<desc>In California, it's a vacation from hell as hundreds of campers flee a rampaging wildfire. A rare tornado crashes through the Czech Republic and its sink or swim for a solo adventurer as he attempts to row the perilous Pacific.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch407_worlds_deadliest_weather_s5.jpg?w=960%26h=540" />
 	</programme>
-	<programme channel="407" start="20261101225500 +0000" stop="20261101235500 +0000">
+	<programme channel="407" start="20261101225500 +0000" stop="20261102000000 +0000">
 		<title>Wilderness with Simon Reeve S02 - EP 3</title>
 		<desc>Simon Reeve treks and canoes through Canada's rugged and frozen Yukon Territory, to meet the people who make the wilderness home, and search for grizzly bears, the apex predator.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch407_wilderness_with_simon_reeve_s2.jpg?w=341%26h=192" />
 	</programme>
-	<programme channel="407" start="20261101235500 +0000" stop="20261102005000 +0000">
+	<programme channel="407" start="20261102000000 +0000" stop="20261102005000 +0000">
 		<title>Extreme Fishing with Robson Green S04 - EP 1</title>
 		<desc>Robson visits the Atlantic island of Ascension to fish for shark, eel and to learn how to catch fish with his hands.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch407_extreme_fishing_with_robson_green.jpg?w=341%26h=192" />
@@ -17295,42 +17349,52 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 		<desc>On the coast, two worlds collide. Coasts are the most dynamic and challenging habitats in the ocean - that brings great rewards but also great danger. The extraordinary animals that live here must find ingenious ways to cope with two very different worlds. This episode is a roller-coaster ride of heart-stopping action and epic drama, peopled with characters from the beautiful to the bizarre.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch407_blue_planet_2.jpg?w=341%26h=192" />
 	</programme>
-	<programme channel="407" start="20261102110000 +0000" stop="20261102130500 +0000">
+	<programme channel="407" start="20261102110000 +0000" stop="20261102120000 +0000">
 		<title>Blue Planet II S02 - EP 7</title>
 		<desc>Uncover the impact that our modern lives are having on our best-loved characters from across the series, including devoted albatross parents unwittingly feeding their chicks discarded plastic and mother dolphins potentially exposing their newborn calves to pollutants through their contaminated milk. Scientists have even discovered that increasing noise levels may stop baby clownfish finding their way home.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch407_blue_planet_2.jpg?w=341%26h=192" />
 	</programme>
-	<programme channel="407" start="20261102130500 +0000" stop="20261102140000 +0000">
+	<programme channel="407" start="20261102120000 +0000" stop="20261102131000 +0000">
+		<title>Blue Planet III S03 - EP 1</title>
+		<desc>The warm, sunlit waters of the tropics support the greatest diversity of life in the ocean. Bathed in year-round sunlight for millions of years, these seas are home to more species than anywhere else on earth. In a world where competition is fierce, animals have evolved extraordinary ways to survive. Yet even in these seemingly familiar waters, remarkable new behaviours are still being discovered.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch407_blue_planet_3.jpg?w=960%26h=540" />
+	</programme>
+	<programme channel="407" start="20261102131000 +0000" stop="20261102141000 +0000">
 		<title>Trailblazers: A Rocky Mountain Road Trip S01 - EP 2</title>
 		<desc>Isabella Bird travelled through Colorado in the height of the Gold Rush. In her memoir, she describes the impact of the mining and the worship of the 'almighty dollar'. Ruby, Mel and Emily investigate the impact of the American Dream, then and now. They visit a ghost town that was 'the richest square mile on Earth' in Bird's time, experience dizzying wealth in the mountains of Aspen, meet members of the Ute tribe, and learn about the genocidal impact of the Gold Rush on indigenous Americans.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch407_trailblazers_a_rockly_mountain_road_trip_s1.jpg?w=341%26h=192" />
 	</programme>
-	<programme channel="407" start="20261102140000 +0000" stop="20261102145000 +0000">
+	<programme channel="407" start="20261102141000 +0000" stop="20261102150000 +0000">
 		<title>Where the Wild Men Are with Ben Fogle S12 - EP 2</title>
 		<desc>Ben ventures into forested Norwegian wilderness to stay with two remarkable artists.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch407_where_the_wild_men_are_with_ben_fogle_s12.jpg?w=960%26h=540" />
 	</programme>
-	<programme channel="407" start="20261102145000 +0000" stop="20261102164000 +0000">
+	<programme channel="407" start="20261102150000 +0000" stop="20261102155500 +0000">
 		<title>Life Below Zero S11 - EP 1</title>
 		<desc>As Alaskans enter a new dawn in the Arctic winter, they must adapt to the changing landscape if they are to survive. As the region emerges from the darkness of the polar night, a renewed sense of energy and purpose fills the air.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch407_life_below_zero_s11.jpg?w=341%26h=192" />
 	</programme>
-	<programme channel="407" start="20261102164000 +0000" stop="20261102173500 +0000">
+	<programme channel="407" start="20261102155500 +0000" stop="20261102170500 +0000">
+		<title>Blue Planet III S03 - EP 1</title>
+		<desc>The warm, sunlit waters of the tropics support the greatest diversity of life in the ocean. Bathed in year-round sunlight for millions of years, these seas are home to more species than anywhere else on earth. In a world where competition is fierce, animals have evolved extraordinary ways to survive. Yet even in these seemingly familiar waters, remarkable new behaviours are still being discovered.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch407_blue_planet_3.jpg?w=960%26h=540" />
+	</programme>
+	<programme channel="407" start="20261102170500 +0000" stop="20261102180500 +0000">
 		<title>Trailblazers: A Rocky Mountain Road Trip S01 - EP 2</title>
 		<desc>Isabella Bird travelled through Colorado in the height of the Gold Rush. In her memoir, she describes the impact of the mining and the worship of the 'almighty dollar'. Ruby, Mel and Emily investigate the impact of the American Dream, then and now. They visit a ghost town that was 'the richest square mile on Earth' in Bird's time, experience dizzying wealth in the mountains of Aspen, meet members of the Ute tribe, and learn about the genocidal impact of the Gold Rush on indigenous Americans.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch407_trailblazers_a_rockly_mountain_road_trip_s1.jpg?w=341%26h=192" />
 	</programme>
-	<programme channel="407" start="20261102173500 +0000" stop="20261102182500 +0000">
+	<programme channel="407" start="20261102180500 +0000" stop="20261102190000 +0000">
 		<title>Where the Wild Men Are with Ben Fogle S12 - EP 2</title>
 		<desc>Ben ventures into forested Norwegian wilderness to stay with two remarkable artists.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch407_where_the_wild_men_are_with_ben_fogle_s12.jpg?w=960%26h=540" />
 	</programme>
-	<programme channel="407" start="20261102182500 +0000" stop="20261102201500 +0000">
-		<title>Extreme Fishing with Robson Green S04 - EP 2</title>
-		<desc>Robson's journey continues in Patagonia, a region spanning the southern parts of Chile and Argentina. He is on a mission to fish at the southernmost city in the world, Ushuaia.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch407_extreme_fishing_with_robson_green.jpg?w=341%26h=192" />
+	<programme channel="407" start="20261102190000 +0000" stop="20261102201000 +0000">
+		<title>Blue Planet III S03 - EP 1</title>
+		<desc>The warm, sunlit waters of the tropics support the greatest diversity of life in the ocean. Bathed in year-round sunlight for millions of years, these seas are home to more species than anywhere else on earth. In a world where competition is fierce, animals have evolved extraordinary ways to survive. Yet even in these seemingly familiar waters, remarkable new behaviours are still being discovered.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch407_blue_planet_3.jpg?w=960%26h=540" />
 	</programme>
-	<programme channel="407" start="20261102201500 +0000" stop="20261102211000 +0000">
+	<programme channel="407" start="20261102201000 +0000" stop="20261102211000 +0000">
 		<title>Trailblazers: A Rocky Mountain Road Trip S01 - EP 2</title>
 		<desc>Isabella Bird travelled through Colorado in the height of the Gold Rush. In her memoir, she describes the impact of the mining and the worship of the 'almighty dollar'. Ruby, Mel and Emily investigate the impact of the American Dream, then and now. They visit a ghost town that was 'the richest square mile on Earth' in Bird's time, experience dizzying wealth in the mountains of Aspen, meet members of the Ute tribe, and learn about the genocidal impact of the Gold Rush on indigenous Americans.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch407_trailblazers_a_rockly_mountain_road_trip_s1.jpg?w=341%26h=192" />
@@ -17340,25 +17404,30 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 		<desc>Ben ventures into forested Norwegian wilderness to stay with two remarkable artists.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch407_where_the_wild_men_are_with_ben_fogle_s12.jpg?w=960%26h=540" />
 	</programme>
-	<programme channel="407" start="20261102220000 +0000" stop="20261102225500 +0000">
+	<programme channel="407" start="20261102220000 +0000" stop="20261102225000 +0000">
 		<title>Our Guy in Vietnam S01 - EP 1</title>
 		<desc>On the famous Ho Chi Minh Trail, Guy visits a Huey helicopter graveyard, makes his own version of napalm and comes face to face with a live cluster bomb left over from the war.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch407_our_guy_in_vietnam_s1.jpg?w=960%26h=540" />
 	</programme>
-	<programme channel="407" start="20261102225500 +0000" stop="20261102235500 +0000">
+	<programme channel="407" start="20261102225000 +0000" stop="20261102235000 +0000">
 		<title>Trailblazers: A Rocky Mountain Road Trip S01 - EP 2</title>
 		<desc>Isabella Bird travelled through Colorado in the height of the Gold Rush. In her memoir, she describes the impact of the mining and the worship of the 'almighty dollar'. Ruby, Mel and Emily investigate the impact of the American Dream, then and now. They visit a ghost town that was 'the richest square mile on Earth' in Bird's time, experience dizzying wealth in the mountains of Aspen, meet members of the Ute tribe, and learn about the genocidal impact of the Gold Rush on indigenous Americans.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch407_trailblazers_a_rockly_mountain_road_trip_s1.jpg?w=341%26h=192" />
 	</programme>
-	<programme channel="407" start="20261102235500 +0000" stop="20261103004500 +0000">
+	<programme channel="407" start="20261102235000 +0000" stop="20261103004000 +0000">
 		<title>Extreme Fishing with Robson Green S04 - EP 2</title>
 		<desc>Robson's journey continues in Patagonia, a region spanning the southern parts of Chile and Argentina. He is on a mission to fish at the southernmost city in the world, Ushuaia.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch407_extreme_fishing_with_robson_green.jpg?w=341%26h=192" />
 	</programme>
-	<programme channel="407" start="20261103004500 +0000" stop="20261103024500 +0000">
+	<programme channel="407" start="20261103004000 +0000" stop="20261103013000 +0000">
 		<title>Where the Wild Men Are with Ben Fogle S12 - EP 2</title>
 		<desc>Ben ventures into forested Norwegian wilderness to stay with two remarkable artists.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch407_where_the_wild_men_are_with_ben_fogle_s12.jpg?w=960%26h=540" />
+	</programme>
+	<programme channel="407" start="20261103013000 +0000" stop="20261103024500 +0000">
+		<title>Blue Planet III S03 - EP 1</title>
+		<desc>The warm, sunlit waters of the tropics support the greatest diversity of life in the ocean. Bathed in year-round sunlight for millions of years, these seas are home to more species than anywhere else on earth. In a world where competition is fierce, animals have evolved extraordinary ways to survive. Yet even in these seemingly familiar waters, remarkable new behaviours are still being discovered.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch407_blue_planet_3.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="407" start="20261103024500 +0000" stop="20261103033500 +0000">
 		<title>Our Guy in Vietnam S01 - EP 1</title>
@@ -17370,27 +17439,37 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 		<desc>Isabella Bird travelled through Colorado in the height of the Gold Rush. In her memoir, she describes the impact of the mining and the worship of the 'almighty dollar'. Ruby, Mel and Emily investigate the impact of the American Dream, then and now. They visit a ghost town that was 'the richest square mile on Earth' in Bird's time, experience dizzying wealth in the mountains of Aspen, meet members of the Ute tribe, and learn about the genocidal impact of the Gold Rush on indigenous Americans.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch407_trailblazers_a_rockly_mountain_road_trip_s1.jpg?w=341%26h=192" />
 	</programme>
-	<programme channel="407" start="20261103043000 +0000" stop="20261103063000 +0000">
+	<programme channel="407" start="20261103043000 +0000" stop="20261103052500 +0000">
 		<title>Wild Japan S01 - EP 3</title>
 		<desc>Hokkaido is Japan's northernmost - and wildest - island, a place totally unlike the rest of the country. Every year, it swings from a bitter Siberian winter into the warmth of a Mediterranean-like summer, when the thaw reveals a landscape changed beyond all recognition. It takes tough animals and tough people with real ingenuity to survive, and even thrive, in this ever-changing place.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch407_wild_japan.jpg?w=341%26h=192" />
 	</programme>
-	<programme channel="407" start="20261103063000 +0000" stop="20261103072000 +0000">
+	<programme channel="407" start="20261103052500 +0000" stop="20261103063500 +0000">
+		<title>Blue Planet III S03 - EP 1</title>
+		<desc>The warm, sunlit waters of the tropics support the greatest diversity of life in the ocean. Bathed in year-round sunlight for millions of years, these seas are home to more species than anywhere else on earth. In a world where competition is fierce, animals have evolved extraordinary ways to survive. Yet even in these seemingly familiar waters, remarkable new behaviours are still being discovered.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch407_blue_planet_3.jpg?w=960%26h=540" />
+	</programme>
+	<programme channel="407" start="20261103063500 +0000" stop="20261103072500 +0000">
 		<title>Where the Wild Men Are with Ben Fogle S12 - EP 2</title>
 		<desc>Ben ventures into forested Norwegian wilderness to stay with two remarkable artists.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch407_where_the_wild_men_are_with_ben_fogle_s12.jpg?w=960%26h=540" />
 	</programme>
-	<programme channel="407" start="20261103072000 +0000" stop="20261103081500 +0000">
+	<programme channel="407" start="20261103072500 +0000" stop="20261103081500 +0000">
 		<title>Our Guy in Vietnam S01 - EP 1</title>
 		<desc>On the famous Ho Chi Minh Trail, Guy visits a Huey helicopter graveyard, makes his own version of napalm and comes face to face with a live cluster bomb left over from the war.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch407_our_guy_in_vietnam_s1.jpg?w=960%26h=540" />
 	</programme>
-	<programme channel="407" start="20261103081500 +0000" stop="20261103101000 +0000">
+	<programme channel="407" start="20261103081500 +0000" stop="20261103090500 +0000">
 		<title>Extreme Fishing with Robson Green S04 - EP 2</title>
 		<desc>Robson's journey continues in Patagonia, a region spanning the southern parts of Chile and Argentina. He is on a mission to fish at the southernmost city in the world, Ushuaia.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch407_extreme_fishing_with_robson_green.jpg?w=341%26h=192" />
 	</programme>
-	<programme channel="407" start="20261103101000 +0000" stop="20261103111000 +0000">
+	<programme channel="407" start="20261103090500 +0000" stop="20261103101500 +0000">
+		<title>Blue Planet III S03 - EP 1</title>
+		<desc>The warm, sunlit waters of the tropics support the greatest diversity of life in the ocean. Bathed in year-round sunlight for millions of years, these seas are home to more species than anywhere else on earth. In a world where competition is fierce, animals have evolved extraordinary ways to survive. Yet even in these seemingly familiar waters, remarkable new behaviours are still being discovered.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch407_blue_planet_3.jpg?w=960%26h=540" />
+	</programme>
+	<programme channel="407" start="20261103101500 +0000" stop="20261103111000 +0000">
 		<title>Trailblazers: A Rocky Mountain Road Trip S01 - EP 2</title>
 		<desc>Isabella Bird travelled through Colorado in the height of the Gold Rush. In her memoir, she describes the impact of the mining and the worship of the 'almighty dollar'. Ruby, Mel and Emily investigate the impact of the American Dream, then and now. They visit a ghost town that was 'the richest square mile on Earth' in Bird's time, experience dizzying wealth in the mountains of Aspen, meet members of the Ute tribe, and learn about the genocidal impact of the Gold Rush on indigenous Americans.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch407_trailblazers_a_rockly_mountain_road_trip_s1.jpg?w=341%26h=192" />
@@ -20302,12 +20381,12 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 	</programme>
 	<programme channel="509" start="20261103034000 +0000" stop="20261103042500 +0000">
 		<title>The Tonight Show Starring Jimmy Fallon S14 - EP 20</title>
-		<desc>Emmy and Grammy Award-winning comedian Jimmy Fallon brings his unique high-energy comedy to the storied 60-year NBC franchise with his welcoming interview style, love of audience participation, spot-on impersonations and innovative sketches.</desc>
+		<desc>Guests include LL Cool J, Mel Robbins, Veronika Slowikowska and Shin Lim. Emmy and Grammy Award-winning comedian Jimmy Fallon brings his unique high-energy comedy to the storied 60-year NBC franchise with his welcoming interview style, love of audience participation, spot-on impersonations and innovative sketches.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch509_The_Tonight_Show_Starring_Jimmy_Fallon_S14.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="509" start="20261103042500 +0000" stop="20261103051000 +0000">
 		<title>Late Night With Seth Meyers S14 - EP 20</title>
-		<desc>Late Night with Seth Meyers is executive produced by the Emmy Award-winning Lorne Michaels and is home to A-list celebrity guests, memorable comedy and the best in musical talent.</desc>
+		<desc>Guests include George Fouracres (Saturday Night Live UK). Late Night with Seth Meyers is executive produced by the Emmy Award-winning Lorne Michaels and is home to A-list celebrity guests, memorable comedy and the best in musical talent.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch509_Late_Night_With_Seth_Meyers_S14.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="509" start="20261103051000 +0000" stop="20261103055000 +0000">
@@ -20377,7 +20456,7 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 	</programme>
 	<programme channel="509" start="20261103151500 +0000" stop="20261103160000 +0000">
 		<title>The Tonight Show Starring Jimmy Fallon S14 - EP 21</title>
-		<desc>Emmy and Grammy Award-winning comedian Jimmy Fallon brings his unique high-energy comedy to the storied 60-year NBC franchise with his welcoming interview style, love of audience participation, spot-on impersonations and innovative sketches.</desc>
+		<desc>Guests include Sam Rockwell, Niecy Nash-Betts, Eric Ripert and musical guest Kurt Vile. Emmy and Grammy Award-winning comedian Jimmy Fallon brings his unique high-energy comedy to the storied 60-year NBC franchise with his welcoming interview style, love of audience participation, spot-on impersonations and innovative sketches.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch509_The_Tonight_Show_Starring_Jimmy_Fallon_S14.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="511" start="20261101160000 +0000" stop="20261101165000 +0000">
@@ -32984,29 +33063,124 @@ Peggy's hair.</desc>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
-	<programme channel="832" start="20261102143400 +0000" stop="20261102160000 +0000">
+	<programme channel="832" start="20261102143400 +0000" stop="20261102170000 +0000">
 		<title>Overtime No More</title>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
-	<programme channel="832" start="20261102160000 +0000" stop="20261102220000 +0000">
-		<title>Information Not Available</title>
-		<desc />
+	<programme channel="832" start="20261102170000 +0000" stop="20261102220000 +0000">
+		<title>Dragon TV Primetime News</title>
+		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
-	<programme channel="832" start="20261102220000 +0000" stop="20261103040000 +0000">
-		<title>Information Not Available</title>
-		<desc />
+	<programme channel="832" start="20261102220000 +0000" stop="20261102223000 +0000">
+		<title>New Entertainment</title>
+		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
-	<programme channel="832" start="20261103040000 +0000" stop="20261103100000 +0000">
-		<title>Information Not Available</title>
-		<desc />
+	<programme channel="832" start="20261102223000 +0000" stop="20261102230000 +0000">
+		<title>CARE ON THE WAY</title>
+		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
-	<programme channel="832" start="20261103100000 +0000" stop="20261103160000 +0000">
-		<title>Information Not Available</title>
-		<desc />
+	<programme channel="832" start="20261102230000 +0000" stop="20261103010000 +0000">
+		<title>Dragon TV Morning News</title>
+		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341%26h=192" />
+	</programme>
+	<programme channel="832" start="20261103010000 +0000" stop="20261103023000 +0000">
+		<title>A Green Trip</title>
+		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341%26h=192" />
+	</programme>
+	<programme channel="832" start="20261103023000 +0000" stop="20261103040000 +0000">
+		<title>the city of musicals</title>
+		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341%26h=192" />
+	</programme>
+	<programme channel="832" start="20261103040000 +0000" stop="20261103043000 +0000">
+		<title>MIDDAY NEWS</title>
+		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341%26h=192" />
+	</programme>
+	<programme channel="832" start="20261103043000 +0000" stop="20261103044200 +0000">
+		<title>ShanghaiEye</title>
+		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341%26h=192" />
+	</programme>
+	<programme channel="832" start="20261103044200 +0000" stop="20261103060000 +0000">
+		<title>Future China</title>
+		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341%26h=192" />
+	</programme>
+	<programme channel="832" start="20261103060000 +0000" stop="20261103063000 +0000">
+		<title>CHINA Now</title>
+		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341%26h=192" />
+	</programme>
+	<programme channel="832" start="20261103063000 +0000" stop="20261103070000 +0000">
+		<title>Next Station</title>
+		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341%26h=192" />
+	</programme>
+	<programme channel="832" start="20261103070000 +0000" stop="20261103090000 +0000">
+		<title>the city of musicals</title>
+		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341%26h=192" />
+	</programme>
+	<programme channel="832" start="20261103090000 +0000" stop="20261103093500 +0000">
+		<title>New Entertainment</title>
+		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341%26h=192" />
+	</programme>
+	<programme channel="832" start="20261103093500 +0000" stop="20261103100000 +0000">
+		<title>CARE ON THE WAY</title>
+		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341%26h=192" />
+	</programme>
+	<programme channel="832" start="20261103100000 +0000" stop="20261103110000 +0000">
+		<title>Dragon TV Primetime News</title>
+		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341%26h=192" />
+	</programme>
+	<programme channel="832" start="20261103110000 +0000" stop="20261103111200 +0000">
+		<title>ShanghaiEye</title>
+		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341%26h=192" />
+	</programme>
+	<programme channel="832" start="20261103111200 +0000" stop="20261103114000 +0000">
+		<title>CHINA Now</title>
+		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341%26h=192" />
+	</programme>
+	<programme channel="832" start="20261103114000 +0000" stop="20261103120000 +0000">
+		<title>Next Station</title>
+		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341%26h=192" />
+	</programme>
+	<programme channel="832" start="20261103120000 +0000" stop="20261103130000 +0000">
+		<title>A Green Trip</title>
+		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341%26h=192" />
+	</programme>
+	<programme channel="832" start="20261103130000 +0000" stop="20261103140000 +0000">
+		<title>Future China</title>
+		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341%26h=192" />
+	</programme>
+	<programme channel="832" start="20261103140000 +0000" stop="20261103143000 +0000">
+		<title>New Entertainment</title>
+		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341%26h=192" />
+	</programme>
+	<programme channel="832" start="20261103143000 +0000" stop="20261103150000 +0000">
+		<title>CARE ON THE WAY</title>
+		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341%26h=192" />
+	</programme>
+	<programme channel="832" start="20261103150000 +0000" stop="20261103170000 +0000">
+		<title>the city of musicals</title>
+		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
 	<programme channel="838" start="20261101160000 +0000" stop="20261101163000 +0000">
