@@ -152,14 +152,6 @@
 		<display-name>Hub Sports 5 HD</display-name>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/205_1920x1080_HTV.png?w=272" />
 	</channel>
-	<channel id="206">
-		<display-name>Hub Sports 6 HD</display-name>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/206_1920x1080_HTV.png?w=272" />
-	</channel>
-	<channel id="207">
-		<display-name>Hub Sports 7 HD</display-name>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/207_1920x1080_HTV.png?w=272" />
-	</channel>
 	<channel id="209">
 		<display-name>SPOTV</display-name>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/209_1920x1080_HTV.png?w=272" />
@@ -10157,86 +10149,6 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 		<title>End of Transmission</title>
 		<desc>End of Transmission</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/205_1920x1080_HTV.png?w=960%26h=540" />
-	</programme>
-	<programme channel="206" start="20261101160000 +0000" stop="20261101220000 +0000">
-		<title>End of Transmission</title>
-		<desc>End of Transmission</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/206_1920x1080_HTV.png?w=960%26h=540" />
-	</programme>
-	<programme channel="206" start="20261101220000 +0000" stop="20261102040000 +0000">
-		<title>End of Transmission</title>
-		<desc>End of Transmission</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/206_1920x1080_HTV.png?w=960%26h=540" />
-	</programme>
-	<programme channel="206" start="20261102040000 +0000" stop="20261102100000 +0000">
-		<title>End of Transmission</title>
-		<desc>End of Transmission</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/206_1920x1080_HTV.png?w=960%26h=540" />
-	</programme>
-	<programme channel="206" start="20261102100000 +0000" stop="20261102160000 +0000">
-		<title>End of Transmission</title>
-		<desc>End of Transmission</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/206_1920x1080_HTV.png?w=960%26h=540" />
-	</programme>
-	<programme channel="206" start="20261102160000 +0000" stop="20261102220000 +0000">
-		<title>End of Transmission</title>
-		<desc>End of Transmission</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/206_1920x1080_HTV.png?w=960%26h=540" />
-	</programme>
-	<programme channel="206" start="20261102220000 +0000" stop="20261103040000 +0000">
-		<title>End of Transmission</title>
-		<desc>End of Transmission</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/206_1920x1080_HTV.png?w=960%26h=540" />
-	</programme>
-	<programme channel="206" start="20261103040000 +0000" stop="20261103100000 +0000">
-		<title>End of Transmission</title>
-		<desc>End of Transmission</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/206_1920x1080_HTV.png?w=960%26h=540" />
-	</programme>
-	<programme channel="206" start="20261103100000 +0000" stop="20261103160000 +0000">
-		<title>End of Transmission</title>
-		<desc>End of Transmission</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/206_1920x1080_HTV.png?w=960%26h=540" />
-	</programme>
-	<programme channel="207" start="20261101160000 +0000" stop="20261101220000 +0000">
-		<title>End of Transmission</title>
-		<desc>End of Transmission</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/207_1920x1080_HTV.png?w=960%26h=540" />
-	</programme>
-	<programme channel="207" start="20261101220000 +0000" stop="20261102040000 +0000">
-		<title>End of Transmission</title>
-		<desc>End of Transmission</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/207_1920x1080_HTV.png?w=960%26h=540" />
-	</programme>
-	<programme channel="207" start="20261102040000 +0000" stop="20261102100000 +0000">
-		<title>End of Transmission</title>
-		<desc>End of Transmission</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/207_1920x1080_HTV.png?w=960%26h=540" />
-	</programme>
-	<programme channel="207" start="20261102100000 +0000" stop="20261102160000 +0000">
-		<title>End of Transmission</title>
-		<desc>End of Transmission</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/207_1920x1080_HTV.png?w=960%26h=540" />
-	</programme>
-	<programme channel="207" start="20261102160000 +0000" stop="20261102220000 +0000">
-		<title>End of Transmission</title>
-		<desc>End of Transmission</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/207_1920x1080_HTV.png?w=960%26h=540" />
-	</programme>
-	<programme channel="207" start="20261102220000 +0000" stop="20261103040000 +0000">
-		<title>End of Transmission</title>
-		<desc>End of Transmission</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/207_1920x1080_HTV.png?w=960%26h=540" />
-	</programme>
-	<programme channel="207" start="20261103040000 +0000" stop="20261103100000 +0000">
-		<title>End of Transmission</title>
-		<desc>End of Transmission</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/207_1920x1080_HTV.png?w=960%26h=540" />
-	</programme>
-	<programme channel="207" start="20261103100000 +0000" stop="20261103160000 +0000">
-		<title>End of Transmission</title>
-		<desc>End of Transmission</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/207_1920x1080_HTV.png?w=960%26h=540" />
 	</programme>
 	<programme channel="209" start="20261101150000 +0000" stop="20261101170000 +0000">
 		<title>2026/27 Longines FEI Jumping World Cup</title>
