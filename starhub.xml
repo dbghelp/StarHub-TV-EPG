@@ -152,6 +152,14 @@
 		<display-name>Hub Sports 5 HD</display-name>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/205_1920x1080_HTV.png?w=272" />
 	</channel>
+	<channel id="206">
+		<display-name>Hub Sports 6 HD</display-name>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/206_1920x1080_HTV.png?w=272" />
+	</channel>
+	<channel id="207">
+		<display-name>Hub Sports 7 HD</display-name>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/207_1920x1080_HTV.png?w=272" />
+	</channel>
 	<channel id="209">
 		<display-name>SPOTV</display-name>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/209_1920x1080_HTV.png?w=272" />
@@ -1966,7 +1974,7 @@
 	</programme>
 	<programme channel="106" start="20261105210000 +0000" stop="20261105220000 +0000">
 		<title>Insight - EP 23</title>
-		<desc>Insight investigates and analyses topical issues that impact Asia and the rest of the world.</desc>
+		<desc>A rare warning from Japan’s embassy exposes a growing crisis of child sexual exploitation in Laos. Insight investigates how poverty, tourism and weak enforcement fuel this hidden trade.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
 	<programme channel="106" start="20261105220000 +0000" stop="20261105230000 +0000">
@@ -1981,7 +1989,7 @@
 	</programme>
 	<programme channel="106" start="20261106020000 +0000" stop="20261106030000 +0000">
 		<title>Insight - EP 23</title>
-		<desc>Insight investigates and analyses topical issues that impact Asia and the rest of the world.</desc>
+		<desc>A rare warning from Japan’s embassy exposes a growing crisis of child sexual exploitation in Laos. Insight investigates how poverty, tourism and weak enforcement fuel this hidden trade.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
 	<programme channel="106" start="20261106030000 +0000" stop="20261106050000 +0000">
@@ -1990,8 +1998,8 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
 	<programme channel="106" start="20261106050000 +0000" stop="20261106060000 +0000">
-		<title>Collaborate to Innovate 2026</title>
-		<desc />
+		<title>Collaborate to Innovate: Unlocking Possibilities</title>
+		<desc>What makes business partnerships succeed? SICC Awards winners share how they navigate differences, build trust and overcome challenges to turn collaboration into innovation.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
 	<programme channel="106" start="20261106060000 +0000" stop="20261106080000 +0000">
@@ -2011,7 +2019,7 @@
 	</programme>
 	<programme channel="106" start="20261106090200 +0000" stop="20261106100000 +0000">
 		<title>Insight - EP 23</title>
-		<desc>Insight investigates and analyses topical issues that impact Asia and the rest of the world.</desc>
+		<desc>A rare warning from Japan’s embassy exposes a growing crisis of child sexual exploitation in Laos. Insight investigates how poverty, tourism and weak enforcement fuel this hidden trade.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
 	<programme channel="106" start="20261106100000 +0000" stop="20261106110000 +0000">
@@ -6475,16 +6483,31 @@
 		<icon src="https://poster.starhubgo.com/poster/ch656_Varisu.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="138" start="20261105160000 +0000" stop="20261105163000 +0000">
-		<title>Zee Flix - EP 372</title>
+		<title>Zee Flix - EP 367</title>
 		<desc>Tune into Zee Flix for a lineup of blockbuster movies, unforgettable characters and nonstop entertainment across action, romance, comedy and drama genres.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch656_ZeeFlix.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="138" start="20261105163000 +0000" stop="20261105170000 +0000">
-		<title>Zee Flix - EP 372</title>
+		<title>Zee Flix - EP 367</title>
 		<desc>Tune into Zee Flix for a lineup of blockbuster movies, unforgettable characters and nonstop entertainment across action, romance, comedy and drama genres.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch656_ZeeFlix.jpg?w=341%26h=192" />
 	</programme>
-	<programme channel="138" start="20261105180000 +0000" stop="20261105193000 +0000">
+	<programme channel="138" start="20261105170000 +0000" stop="20261105173000 +0000">
+		<title>Free Ticket</title>
+		<desc>The host presents a comprehensive compilation of songs and snippets from some of the most popular and trending Tamil movies.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch656_Free_Ticket.jpg?w=960%26h=540" />
+	</programme>
+	<programme channel="138" start="20261105173000 +0000" stop="20261105180000 +0000">
+		<title>Free Ticket</title>
+		<desc>The host presents a comprehensive compilation of songs and snippets from some of the most popular and trending Tamil movies.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch656_Free_Ticket.jpg?w=960%26h=540" />
+	</programme>
+	<programme channel="138" start="20261105180000 +0000" stop="20261105190000 +0000">
+		<title>Free Ticket</title>
+		<desc>The host presents a comprehensive compilation of songs and snippets from some of the most popular and trending Tamil movies.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch656_Free_Ticket.jpg?w=960%26h=540" />
+	</programme>
+	<programme channel="138" start="20261105190000 +0000" stop="20261105193000 +0000">
 		<title>Free Ticket</title>
 		<desc>The host presents a comprehensive compilation of songs and snippets from some of the most popular and trending Tamil movies.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch656_Free_Ticket.jpg?w=960%26h=540" />
@@ -6600,7 +6623,7 @@
 		<icon src="https://poster.starhubgo.com/poster/ch656_SEERU.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="138" start="20261106083000 +0000" stop="20261106090000 +0000">
-		<title>Zee Flix - EP 373</title>
+		<title>Zee Flix - EP 368</title>
 		<desc>Tune into Zee Flix for a lineup of blockbuster movies, unforgettable characters and nonstop entertainment across action, romance, comedy and drama genres.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch656_ZeeFlix.jpg?w=341%26h=192" />
 	</programme>
@@ -9816,7 +9839,7 @@ An adventure and spy film, combining exoticism and eroticism, which enjoyed enor
 		<icon src="https://poster.starhubgo.com/poster/ch201_ATPTourThisWeek.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="201" start="20261105100000 +0000" stop="20261105160000 +0000">
-		<title>ATP Tour 2026 Rolex Paris Masters (1000) R16 Session 1 (051126)</title>
+		<title>ATP Tour 2026 Rolex Paris Masters (1000) R16 Session 1</title>
 		<desc>The Rolex Paris Masters is the ninth and final ATP Masters 1000 event of the season. As the final tournament of the regular men’s tennis season, the Paris La Défense Arena showcases the cream of the crop as players vie to win the prestigious title and clinch the remaining qualifying spots in the season-ending Nitto ATP Finals.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch201_ATP1000_Paris_Master.jpg?w=960%26h=540" />
 	</programme>
@@ -10330,6 +10353,56 @@ An adventure and spy film, combining exoticism and eroticism, which enjoyed enor
 		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_channels2/205_1920x1080_HTV.png?w=960%26h=540" />
 	</programme>
+	<programme channel="206" start="20261104220000 +0000" stop="20261105040000 +0000">
+		<title>End of Transmission</title>
+		<desc>End of Transmission</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/206_1920x1080_HTV.png?w=960%26h=540" />
+	</programme>
+	<programme channel="206" start="20261105040000 +0000" stop="20261105100000 +0000">
+		<title>End of Transmission</title>
+		<desc>End of Transmission</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/206_1920x1080_HTV.png?w=960%26h=540" />
+	</programme>
+	<programme channel="206" start="20261105100000 +0000" stop="20261105160000 +0000">
+		<title>End of Transmission</title>
+		<desc>End of Transmission</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/206_1920x1080_HTV.png?w=960%26h=540" />
+	</programme>
+	<programme channel="206" start="20261105160000 +0000" stop="20261105220000 +0000">
+		<title>End of Transmission</title>
+		<desc>End of Transmission</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/206_1920x1080_HTV.png?w=960%26h=540" />
+	</programme>
+	<programme channel="206" start="20261105220000 +0000" stop="20261106040000 +0000">
+		<title>End of Transmission</title>
+		<desc>End of Transmission</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/206_1920x1080_HTV.png?w=960%26h=540" />
+	</programme>
+	<programme channel="207" start="20261104220000 +0000" stop="20261105040000 +0000">
+		<title>End of Transmission</title>
+		<desc>End of Transmission</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/207_1920x1080_HTV.png?w=960%26h=540" />
+	</programme>
+	<programme channel="207" start="20261105040000 +0000" stop="20261105100000 +0000">
+		<title>End of Transmission</title>
+		<desc>End of Transmission</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/207_1920x1080_HTV.png?w=960%26h=540" />
+	</programme>
+	<programme channel="207" start="20261105100000 +0000" stop="20261105160000 +0000">
+		<title>End of Transmission</title>
+		<desc>End of Transmission</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/207_1920x1080_HTV.png?w=960%26h=540" />
+	</programme>
+	<programme channel="207" start="20261105160000 +0000" stop="20261105220000 +0000">
+		<title>End of Transmission</title>
+		<desc>End of Transmission</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/207_1920x1080_HTV.png?w=960%26h=540" />
+	</programme>
+	<programme channel="207" start="20261105220000 +0000" stop="20261106040000 +0000">
+		<title>End of Transmission</title>
+		<desc>End of Transmission</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/207_1920x1080_HTV.png?w=960%26h=540" />
+	</programme>
 	<programme channel="209" start="20261104140000 +0000" stop="20261104170500 +0000">
 		<title>2026 Asia-Pacific Amateur Championship</title>
 		<desc>Top amateur golfers from across the Asia-Pacific region battle for championship honours, showcasing elite talent and earning opportunities to compete on golf's biggest stages.</desc>
@@ -10430,35 +10503,30 @@ An adventure and spy film, combining exoticism and eroticism, which enjoyed enor
 		<desc>Catch the best of the A-League Men action each week, featuring the top goals, standout performances and key moments from Australia's premier men's football competition.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch209_ALMMiniMatch.jpg?w=341%26h=192" />
 	</programme>
-	<programme channel="209" start="20261105213000 +0000" stop="20261105220000 +0000">
-		<title>2026/27 ALM Weekly Highlights</title>
-		<desc>Catch the best of the A-League Men action each week, featuring the top goals, standout performances and key moments from Australia's premier men's football competition.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch209_ALMMiniMatch.jpg?w=341%26h=192" />
-	</programme>
-	<programme channel="209" start="20261105220000 +0000" stop="20261105230000 +0000">
+	<programme channel="209" start="20261105213000 +0000" stop="20261105223000 +0000">
 		<title>CelcomDigi STL 2026 GP Perak</title>
 		<desc>Malaysia's top sepak takraw teams compete in the CelcomDigi STL Grand Prix Perak, battling for victory with powerful serves, spectacular spikes and outstanding athletic skill.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch209_CelcomDigi_STL_2026.jpg?w=341%26h=192" />
 	</programme>
-	<programme channel="209" start="20261105230000 +0000" stop="20261106020000 +0000">
+	<programme channel="209" start="20261105223000 +0000" stop="20261106020000 +0000">
 		<title>2026 LET: Wistron Ladies Open</title>
 		<desc>The stars of the Ladies European Tour gather in Taiwan to compete for the Wistron Ladies Open title, delivering world-class golf and thrilling championship action.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch209_Ladies_European_Tour.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="209" start="20261106020000 +0000" stop="20261106030000 +0000">
 		<title>The Open Official Film 2026</title>
-		<desc>R%26A Magazines 2026</desc>
+		<desc>Relive the defining moments of The Open Championship, featuring the best action, memorable performances and exclusive behind-the-scenes footage from golf's oldest major championship.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch209_The_154th_Open.jpg?w=341%26h=192" />
 	</programme>
-	<programme channel="209" start="20261106030000 +0000" stop="20261106043000 +0000">
+	<programme channel="209" start="20261106030000 +0000" stop="20261106050000 +0000">
 		<title>2026 PYCL, Philippines S2 Rd 1 Dream Skin Radiants vs Thrifty Drivers</title>
 		<desc>The Philippines' top pickleball talents battle in the Pickle Yard Conference League, as franchise teams compete in fast-paced action for the Season 2 championship.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch209_Pickle_Yard_Conference_League.jpg?w=960%26h=540" />
 	</programme>
-	<programme channel="209" start="20261106043000 +0000" stop="20261106053000 +0000">
-		<title>2026 World Surf League Replay</title>
-		<desc>Be sure to catch the inspirational power of surfing through the 2026 WSL Championship Tour %26 Challenger Series.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch209_World_Surf_League.jpg?w=341%26h=192" />
+	<programme channel="209" start="20261106050000 +0000" stop="20261106053000 +0000">
+		<title>2026/27 ALM Mini Match MW 3 Brisbane Roar FC vs Auckland FC</title>
+		<desc>Australia and New Zealand's top clubs battle for A-League Men glory, with star players, fierce rivalries and a season of competitive football culminating in the Finals Series.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch209_ALMMiniMatch.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="209" start="20261106053000 +0000" stop="20261106093000 +0000">
 		<title>2026 LET: Aramco China Championship</title>
@@ -10470,28 +10538,23 @@ An adventure and spy film, combining exoticism and eroticism, which enjoyed enor
 		<desc>Malaysia's top sepak takraw teams compete in the CelcomDigi STL Grand Prix Penang, battling for victory with powerful serves, spectacular spikes and outstanding athletic skill.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch209_CelcomDigi_STL_2026.jpg?w=341%26h=192" />
 	</programme>
-	<programme channel="209" start="20261106110000 +0000" stop="20261106123000 +0000">
-		<title>2026 PYCL, Philippines S2 Rd 1 Cartivo Movers vs Black Mamba Aces</title>
-		<desc>The Philippines' top pickleball talents battle in the Pickle Yard Conference League, as franchise teams compete in fast-paced action for the Season 2 championship.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch209_Pickle_Yard_Conference_League.jpg?w=960%26h=540" />
-	</programme>
-	<programme channel="209" start="20261106123000 +0000" stop="20261106130000 +0000">
-		<title>2026/27 ALM Mini Match MW 3 Melbourne Victory vs Central Coast Mariners</title>
-		<desc>Australia and New Zealand's top clubs battle for A-League Men glory, with star players, fierce rivalries and a season of competitive football culminating in the Finals Series.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch209_ALMMiniMatch.jpg?w=341%26h=192" />
+	<programme channel="209" start="20261106110000 +0000" stop="20261106130000 +0000">
+		<title>2026 The Asian Tournament, Iloilo Game 6: Toronto JC Trans  vs Hong Kong Vanta Black Dragon</title>
+		<desc>Basketball teams from across Asia compete in The Asian Tournament's regular season in Iloilo, Philippines, showcasing regional talent and competitive team matchups.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch209_spotv.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="209" start="20261106130000 +0000" stop="20261106140000 +0000">
 		<title>CelcomDigi STL 2026 GP Penang</title>
 		<desc>Malaysia's top sepak takraw teams compete in the CelcomDigi STL Grand Prix Penang, battling for victory with powerful serves, spectacular spikes and outstanding athletic skill.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch209_CelcomDigi_STL_2026.jpg?w=341%26h=192" />
 	</programme>
-	<programme channel="209" start="20261106140000 +0000" stop="20261106145000 +0000">
+	<programme channel="209" start="20261106140000 +0000" stop="20261106150000 +0000">
 		<title>2026 World Surf League Replay</title>
 		<desc>Be sure to catch the inspirational power of surfing through the 2026 WSL Championship Tour %26 Challenger Series.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch209_World_Surf_League.jpg?w=341%26h=192" />
 	</programme>
-	<programme channel="209" start="20261106145000 +0000" stop="20261106165500 +0000">
-		<title>Roshn Saudi League 26/27 MD 13 Al Hazem vs Al Nassr</title>
+	<programme channel="209" start="20261106150000 +0000" stop="20261106170000 +0000">
+		<title>Roshn Saudi League 26/27 MD 12 Al Shabab vs Al Ahli</title>
 		<desc>The Roshn Saudi League features Saudi Arabia's top clubs competing for the league title in an exciting season of elite football action.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch209_SaudiLeague.jpg?w=960%26h=540" />
 	</programme>
@@ -10901,7 +10964,7 @@ An adventure and spy film, combining exoticism and eroticism, which enjoyed enor
 		<icon src="https://poster.starhubgo.com/poster/ch213_laliga_generic.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="213" start="20261105174000 +0000" stop="20261105195500 +0000">
-		<title>Crystal Palace vs Hoffenheim - MD4 UEFA Europa League 2026/27 (061126)</title>
+		<title>Crystal Palace vs Hoffenheim - MD4 UEFA Europa League 2026/27</title>
 		<desc>The UEFA Europa League features top-tier European clubs competing for a coveted continental title and an automatic spot in the Champions League.</desc>
 		<icon src="https://poster.starhubgo.com/poster/MD4_Crystal_Palace_v_Hoffenheim.jpg?w=960%26h=540" />
 	</programme>
@@ -10973,7 +11036,7 @@ An adventure and spy film, combining exoticism and eroticism, which enjoyed enor
 	<programme channel="213" start="20261106113000 +0000" stop="20261106132000 +0000">
 		<title>Getafe vs Brighton - MD3 UEFA Conference League 2026/27</title>
 		<desc>This UEFA club football competition revitalises the European club scene and lets teams from lower-ranked nations and also the major leagues an opportunity to experience continental European football</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch213_uefa_conference_league_live_match.jpg?w=341%26h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch213_uefa_conference_league.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="213" start="20261106132000 +0000" stop="20261106142000 +0000">
 		<title>GT World Challenge Asia Highlights 2026</title>
@@ -12457,7 +12520,7 @@ An adventure and spy film, combining exoticism and eroticism, which enjoyed enor
 	</programme>
 	<programme channel="247" start="20261105235000 +0000" stop="20261106015000 +0000">
 		<title>LIVE Wheelchair RLWC26 LIVE Scotland v New Zealand</title>
-		<desc>Coverage of the Wheelchair Rugby League World Cup.</desc>
+		<desc>Scotland and New Zealand battle it out in this Wheelchair Rugby League World Cup Pool B encounter at WIN Entertainment Centre.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch207_premier_sports.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="247" start="20261106015000 +0000" stop="20261106022000 +0000">
@@ -26043,8 +26106,8 @@ going into the ring with a lady wrestler.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/709_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
 	<programme channel="709" start="20261106010000 +0000" stop="20261106013000 +0000">
-		<title>The Circuit with Emily Chang</title>
-		<desc>Emily Chang travels to San Francisco to meet Tekedra Mawakana, Waymo’s co-CEO. Chang asks Mawakana how a career overseeing technological pivots prepared her.</desc>
+		<title>The Circuit with Emily Chang S6 - EP 2</title>
+		<desc>Emily travels to San Francisco to meet Tekedra Mawakana, Waymo’s co-CEO, and asks how a career overseeing technological pivots prepared her.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/709_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
 	<programme channel="709" start="20261106013000 +0000" stop="20261106020000 +0000">
@@ -26063,8 +26126,8 @@ going into the ring with a lady wrestler.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/709_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
 	<programme channel="709" start="20261106030000 +0000" stop="20261106033000 +0000">
-		<title>The Circuit with Emily Chang</title>
-		<desc>Emily Chang travels to San Francisco to meet Tekedra Mawakana, Waymo’s co-CEO. Chang asks Mawakana how a career overseeing technological pivots prepared her.</desc>
+		<title>The Circuit with Emily Chang S6 - EP 2</title>
+		<desc>Emily travels to San Francisco to meet Tekedra Mawakana, Waymo’s co-CEO, and asks how a career overseeing technological pivots prepared her.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/709_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
 	<programme channel="709" start="20261106033000 +0000" stop="20261106041000 +0000">
@@ -26357,10 +26420,20 @@ going into the ring with a lady wrestler.</desc>
 		<desc>Abby Phillip leads a roundtable discussion on the day's biggest stories and issues shaping our world.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch711_cnn_newsnight_with_abby_phillip.jpg?w=341%26h=192" />
 	</programme>
-	<programme channel="711" start="20261106040000 +0000" stop="20261106070000 +0000">
+	<programme channel="711" start="20261106040000 +0000" stop="20261106050000 +0000">
 		<title>Laura Coates Live</title>
 		<desc>Laura Coates goes inside the story with a relentless pursuit of the facts.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch711_laura_coates_live.jpg?w=960%26h=540" />
+	</programme>
+	<programme channel="711" start="20261106050000 +0000" stop="20261106060000 +0000">
+		<title>CNN Newsroom</title>
+		<desc>Live context and clarity to the day's top stories from around the world.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch711_cnn_newsroom.jpg?w=960%26h=540" />
+	</programme>
+	<programme channel="711" start="20261106060000 +0000" stop="20261106070000 +0000">
+		<title>CNN Newsroom</title>
+		<desc>Live context and clarity to the day's top stories from around the world.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch711_cnn_newsroom.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="711" start="20261106070000 +0000" stop="20261106080000 +0000">
 		<title>CNN Newsroom</title>
@@ -26368,14 +26441,14 @@ going into the ring with a lady wrestler.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch711_cnn_newsroom.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="711" start="20261106080000 +0000" stop="20261106090000 +0000">
-		<title>CNN Newsroom</title>
-		<desc>Live context and clarity to the day's top stories from around the world.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch711_cnn_newsroom.jpg?w=960%26h=540" />
+		<title>Election Night In America (2026)</title>
+		<desc>Stay tuned to CNN for the most up-to-date news, interviews, business reports, sports results and weather.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch711_cnni_placeholder.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="711" start="20261106090000 +0000" stop="20261106100000 +0000">
-		<title>CNN Newsroom</title>
-		<desc>Live context and clarity to the day's top stories from around the world.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch711_cnn_newsroom.jpg?w=960%26h=540" />
+		<title>Election Night In America (2026)</title>
+		<desc>Stay tuned to CNN for the most up-to-date news, interviews, business reports, sports results and weather.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch711_cnni_placeholder.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="711" start="20261106100000 +0000" stop="20261106110000 +0000">
 		<title>CNN Headline Express</title>
@@ -32892,24 +32965,114 @@ going into the ring with a lady wrestler.</desc>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
-	<programme channel="832" start="20261105170000 +0000" stop="20261105220000 +0000">
-		<title>Information Not Available</title>
-		<desc />
+	<programme channel="832" start="20261105170000 +0000" stop="20261105171200 +0000">
+		<title>ShanghaiEye</title>
+		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
-	<programme channel="832" start="20261105220000 +0000" stop="20261106040000 +0000">
-		<title>Information Not Available</title>
-		<desc />
+	<programme channel="832" start="20261105171200 +0000" stop="20261105180000 +0000">
+		<title>Dragon TV Primetime News</title>
+		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
-	<programme channel="832" start="20261106040000 +0000" stop="20261106100000 +0000">
-		<title>Information Not Available</title>
-		<desc />
+	<programme channel="832" start="20261105180000 +0000" stop="20261105200000 +0000">
+		<title>Dream Home</title>
+		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
-	<programme channel="832" start="20261106100000 +0000" stop="20261106160000 +0000">
-		<title>Information Not Available</title>
-		<desc />
+	<programme channel="832" start="20261105200000 +0000" stop="20261105210000 +0000">
+		<title>Ai Romance</title>
+		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341%26h=192" />
+	</programme>
+	<programme channel="832" start="20261105210000 +0000" stop="20261105220000 +0000">
+		<title>A Green Trip</title>
+		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341%26h=192" />
+	</programme>
+	<programme channel="832" start="20261105220000 +0000" stop="20261105223000 +0000">
+		<title>New Entertainment</title>
+		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341%26h=192" />
+	</programme>
+	<programme channel="832" start="20261105223000 +0000" stop="20261105230000 +0000">
+		<title>CARE ON THE WAY</title>
+		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341%26h=192" />
+	</programme>
+	<programme channel="832" start="20261105230000 +0000" stop="20261106010000 +0000">
+		<title>Dragon TV Morning News</title>
+		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341%26h=192" />
+	</programme>
+	<programme channel="832" start="20261106010000 +0000" stop="20261106013000 +0000">
+		<title>New Entertainment</title>
+		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341%26h=192" />
+	</programme>
+	<programme channel="832" start="20261106013000 +0000" stop="20261106020000 +0000">
+		<title>CARE ON THE WAY</title>
+		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341%26h=192" />
+	</programme>
+	<programme channel="832" start="20261106020000 +0000" stop="20261106070000 +0000">
+		<title>China International Import Expo All-Media Live Special Report</title>
+		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341%26h=192" />
+	</programme>
+	<programme channel="832" start="20261106070000 +0000" stop="20261106084500 +0000">
+		<title>go fighting</title>
+		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341%26h=192" />
+	</programme>
+	<programme channel="832" start="20261106084500 +0000" stop="20261106090000 +0000">
+		<title>Next Station</title>
+		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341%26h=192" />
+	</programme>
+	<programme channel="832" start="20261106090000 +0000" stop="20261106093500 +0000">
+		<title>New Entertainment</title>
+		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341%26h=192" />
+	</programme>
+	<programme channel="832" start="20261106093500 +0000" stop="20261106100000 +0000">
+		<title>CARE ON THE WAY</title>
+		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341%26h=192" />
+	</programme>
+	<programme channel="832" start="20261106100000 +0000" stop="20261106110000 +0000">
+		<title>Dragon TV Primetime News</title>
+		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341%26h=192" />
+	</programme>
+	<programme channel="832" start="20261106110000 +0000" stop="20261106120000 +0000">
+		<title>China - Back to the Roots</title>
+		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341%26h=192" />
+	</programme>
+	<programme channel="832" start="20261106120000 +0000" stop="20261106130000 +0000">
+		<title>A Green Trip</title>
+		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341%26h=192" />
+	</programme>
+	<programme channel="832" start="20261106130000 +0000" stop="20261106143000 +0000">
+		<title>Future China</title>
+		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341%26h=192" />
+	</programme>
+	<programme channel="832" start="20261106143000 +0000" stop="20261106150000 +0000">
+		<title>New Entertainment</title>
+		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341%26h=192" />
+	</programme>
+	<programme channel="832" start="20261106150000 +0000" stop="20261106153000 +0000">
+		<title>CARE ON THE WAY</title>
+		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341%26h=192" />
+	</programme>
+	<programme channel="832" start="20261106153000 +0000" stop="20261106170000 +0000">
+		<title>go fighting</title>
+		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
 	<programme channel="838" start="20261104160000 +0000" stop="20261104163000 +0000">
@@ -33263,7 +33426,7 @@ going into the ring with a lady wrestler.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch838_like_mother_like_daughter.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="838" start="20261106123000 +0000" stop="20261106133000 +0000">
-		<title>This City Never Sleeps - EP 20</title>
+		<title>This City Never Sleeps - Finale Special (Live) %26 This City Never Sleeps - EP 20</title>
 		<desc>SLF International Group Chairman Kun Chi Sam (John Chiang) is an influential figure in Macao. This business tycoon arranges for his two sons, Kun Hao In (Julian Cheung) and Kun Hao Kuan (Ron Ng), to serve as Co-CEOs of the group, placing them on equal foo</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch838_this_city_never_sleeps.jpg?w=960%26h=540" />
 	</programme>
