@@ -1704,7 +1704,7 @@
 	</programme>
 	<programme channel="105" start="20261107140000 +0000" stop="20261107161500 +0000">
 		<title>Amarkala Deepavali 2026 - EP 1</title>
-		<desc />
+		<desc>(Live) Celebrate Deepavali in spectacular style with Amarkala Deepavali 2026, the much-anticipated annual countdown show ushering in Deepavali! Featuring blockbuster hits, electrifying dance performances, dazzling stage designs and stunning LED visuals, this star-studded extravaganza promises an exciting showcase of music, entertainment and festive cheer as we count down to Deepavali with the whole family!</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/105_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
 	<programme channel="106" start="20261105160000 +0000" stop="20261105160300 +0000">
@@ -8498,12 +8498,12 @@ An adventure and spy film, combining exoticism and eroticism, which enjoyed enor
 		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
-	<programme channel="153" start="20261105190200 +0000" stop="20261105191500 +0000">
+	<programme channel="153" start="20261105190200 +0000" stop="20261105191800 +0000">
 		<title>DW News Focus</title>
 		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
-	<programme channel="153" start="20261105191500 +0000" stop="20261105193000 +0000">
+	<programme channel="153" start="20261105191800 +0000" stop="20261105193000 +0000">
 		<title>ENTR</title>
 		<desc>Andrej is 20 years old. For the past two years, he has devoted his free time to one goal: Serbia's student movement win.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341%26h=192" />
@@ -8558,12 +8558,12 @@ An adventure and spy film, combining exoticism and eroticism, which enjoyed enor
 		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
-	<programme channel="153" start="20261105230200 +0000" stop="20261105231500 +0000">
+	<programme channel="153" start="20261105230200 +0000" stop="20261105231700 +0000">
 		<title>DW News Focus</title>
 		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
-	<programme channel="153" start="20261105231500 +0000" stop="20261105233000 +0000">
+	<programme channel="153" start="20261105231700 +0000" stop="20261105233000 +0000">
 		<title>ENTR</title>
 		<desc>Andrej is 20 years old. For the past two years, he has devoted his free time to one goal: Serbia's student movement win.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341%26h=192" />
@@ -9040,7 +9040,7 @@ An adventure and spy film, combining exoticism and eroticism, which enjoyed enor
 	</programme>
 	<programme channel="153" start="20261107053000 +0000" stop="20261107060000 +0000">
 		<title>The 77 Percent</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+		<desc>West Africa or East Africa: Who has the better plate? This week, Fatou and Sulemani face off in a friendly culinary showdown while sharing stories and traditions, behind some of Africa's favorite dishes.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
 	<programme channel="153" start="20261107060000 +0000" stop="20261107060200 +0000">
@@ -9059,8 +9059,8 @@ An adventure and spy film, combining exoticism and eroticism, which enjoyed enor
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
 	<programme channel="153" start="20261107063000 +0000" stop="20261107070000 +0000">
-		<title>REV</title>
-		<desc>VW is badging its new EVs with the names of old favorites like the Polo, while partnering with XPeng and Rivian on tech. Will its rebrand work? And: Therapy on wheels — rollerblading in Abuja and drifting in Kyív.</desc>
+		<title>Best of DW Podcasts</title>
+		<desc>Select DW podcasts enrich the program with current analyses of world politics and its influence on our daily lives. There will also be space in the program for lively discussions about social standards and taboos.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
 	<programme channel="153" start="20261107070000 +0000" stop="20261107070200 +0000">
@@ -9151,7 +9151,6 @@ An adventure and spy film, combining exoticism and eroticism, which enjoyed enor
 	<programme channel="153" start="20261107120200 +0000" stop="20261107121500 +0000">
 		<title>DW News Focus</title>
 		<desc>Our deep dive format explains the stories that matter - 
-
 with clarity, context and journalistic rigor. Each segment goes beyond the headlines to uncover what's driving key developments around the world, featuring sharp analysis, expert voices and exclusive on the ground insights from where events are unfolding.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
@@ -9192,7 +9191,7 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 	</programme>
 	<programme channel="153" start="20261107143000 +0000" stop="20261107150000 +0000">
 		<title>The 77 Percent</title>
-		<desc>Stay tuned as Deutsche Welle (DW), Germany's international broadcaster presents the country’s news, current affairs and showcases its people's life and mentality.</desc>
+		<desc>West Africa or East Africa: Who has the better plate? This week, Fatou and Sulemani face off in a friendly culinary showdown while sharing stories and traditions, behind some of Africa's favorite dishes.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
 	<programme channel="153" start="20261107150000 +0000" stop="20261107151500 +0000">
@@ -9520,7 +9519,12 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 		<desc>Information Not Available</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/159_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
-	<programme channel="201" start="20261105160000 +0000" stop="20261105180000 +0000">
+	<programme channel="201" start="20261105100000 +0000" stop="20261105171800 +0000">
+		<title>ATP Tour 2026 Rolex Paris Masters (1000) R16 Session 1 (051126)</title>
+		<desc>The Rolex Paris Masters is the ninth and final ATP Masters 1000 event of the season. As the final tournament of the regular men’s tennis season, the Paris La Défense Arena showcases the cream of the crop as players vie to win the prestigious title and clinch the remaining qualifying spots in the season-ending Nitto ATP Finals.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch201_ATP1000_Paris_Master.jpg?w=960%26h=540" />
+	</programme>
+	<programme channel="201" start="20261105171800 +0000" stop="20261105180000 +0000">
 		<title>ATP Tour 2026</title>
 		<desc>The Rolex Paris Masters is the ninth and final ATP Masters 1000 event of the season. As the final tournament of the regular men’s tennis season, the Paris La Défense Arena showcases the cream of the crop as players vie to win the prestigious title and clinch the remaining qualifying spots in the season-ending Nitto ATP Finals.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch201_ATP1000_Paris_Master.jpg?w=960%26h=540" />
@@ -9666,22 +9670,22 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 		<icon src="https://poster.starhubgo.com/poster/ch201_ATPTourReviewShow2025.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="201" start="20261107073000 +0000" stop="20261107103000 +0000">
-		<title>ATP Tour 2026 Rolex Paris Masters (1000) QF 1 %26 2</title>
+		<title>ATP Tour 2026 Rolex Paris Masters (1000) QF 1 %26 2 (071126)</title>
 		<desc>The Rolex Paris Masters is the ninth and final ATP Masters 1000 event of the season. As the final tournament of the regular men’s tennis season, the Paris La Défense Arena showcases the cream of the crop as players vie to win the prestigious title and clinch the remaining qualifying spots in the season-ending Nitto ATP Finals.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch201_ATP1000_Paris_Master.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="201" start="20261107103000 +0000" stop="20261107120000 +0000">
-		<title>ATP Tour 2026 Rolex Paris Masters (1000) QF 3</title>
+		<title>ATP Tour 2026 Rolex Paris Masters (1000) QF 3 (071126)</title>
 		<desc>The Rolex Paris Masters is the ninth and final ATP Masters 1000 event of the season. As the final tournament of the regular men’s tennis season, the Paris La Défense Arena showcases the cream of the crop as players vie to win the prestigious title and clinch the remaining qualifying spots in the season-ending Nitto ATP Finals.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch201_ATP1000_Paris_Master.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="201" start="20261107120000 +0000" stop="20261107133000 +0000">
-		<title>ATP Tour 2026 Rolex Paris Masters (1000) QF 4</title>
+		<title>ATP Tour 2026 Rolex Paris Masters (1000) QF 4 (071126)</title>
 		<desc>The Rolex Paris Masters is the ninth and final ATP Masters 1000 event of the season. As the final tournament of the regular men’s tennis season, the Paris La Défense Arena showcases the cream of the crop as players vie to win the prestigious title and clinch the remaining qualifying spots in the season-ending Nitto ATP Finals.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch201_ATP1000_Paris_Master.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="201" start="20261107133000 +0000" stop="20261107153000 +0000">
-		<title>ATP Tour 2026 Rolex Paris Masters (1000) SF 1</title>
+		<title>ATP Tour 2026 Rolex Paris Masters (1000) SF 1 (071126)</title>
 		<desc>The Rolex Paris Masters is the ninth and final ATP Masters 1000 event of the season. As the final tournament of the regular men’s tennis season, the Paris La Défense Arena showcases the cream of the crop as players vie to win the prestigious title and clinch the remaining qualifying spots in the season-ending Nitto ATP Finals.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch201_ATP1000_Paris_Master.jpg?w=960%26h=540" />
 	</programme>
@@ -9727,7 +9731,7 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 	</programme>
 	<programme channel="202" start="20261106000000 +0000" stop="20261106020000 +0000">
 		<title>East Asia Super League 2026/27 KCC Egis vs Hou Chon</title>
-		<desc>East Asia’s elite basketball clubs battle for regional supremacy. Catch live, high-octane action as top teams from Japan, Korea, the Philippines, and Taiwan clash for the ultimate championship.</desc>
+		<desc>East Asia's elite basketball clubs battle for regional supremacy. Catch live, high-octane action as top teams from Japan, Korea, the Philippines, and Taiwan clash for the ultimate championship.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch202_easl.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="202" start="20261106020000 +0000" stop="20261106023000 +0000">
@@ -9792,7 +9796,7 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 	</programme>
 	<programme channel="202" start="20261106214500 +0000" stop="20261106220000 +0000">
 		<title>ASO Motorsport Programming 2026</title>
-		<desc>The Desafío Ruta 40 is one of South America’s most iconic rally-raid events, and is Round 3 of the FIA-FIM World Rally-Raid Championship. The 2026 edition follows a San Juan - San Rafael - San Juan loop in Argentina.</desc>
+		<desc>The Desafío Ruta 40 is one of South America's most iconic rally-raid events, and is Round 3 of the FIA-FIM World Rally-Raid Championship. The 2026 edition follows a San Juan - San Rafael - San Juan loop in Argentina.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch202_aso.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="202" start="20261106220000 +0000" stop="20261106230000 +0000">
@@ -9812,7 +9816,7 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 	</programme>
 	<programme channel="202" start="20261107000000 +0000" stop="20261107020000 +0000">
 		<title>East Asia Super League 2026/27 Ryukyu Golden Kings vs HK Eastern</title>
-		<desc>East Asia’s elite basketball clubs battle for regional supremacy. Catch live, high-octane action as top teams from Japan, Korea, the Philippines, and Taiwan clash for the ultimate championship.</desc>
+		<desc>East Asia's elite basketball clubs battle for regional supremacy. Catch live, high-octane action as top teams from Japan, Korea, the Philippines, and Taiwan clash for the ultimate championship.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch202_easl.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="202" start="20261107020000 +0000" stop="20261107060000 +0000">
@@ -10488,7 +10492,7 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 	<programme channel="211" start="20261105195500 +0000" stop="20261105220000 +0000">
 		<title>Getafe vs Brighton - MD3 UEFA Conference League 2026/27</title>
 		<desc>This UEFA club football competition revitalises the European club scene and lets teams from lower-ranked nations and also the major leagues an opportunity to experience continental European football</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch211_uefa_conference_league.jpg?w=341%26h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch211_UefaConferenceLeagueLiveMatch.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="211" start="20261105220000 +0000" stop="20261105230000 +0000">
 		<title>UCI World Tour Highlights 2026</title>
@@ -10530,28 +10534,33 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 		<desc>Highlights of the premier men's elite road cycling tour.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_uci_world_tour_2026.jpg?w=960%26h=540" />
 	</programme>
-	<programme channel="211" start="20261106093000 +0000" stop="20261106110000 +0000">
-		<title>FIP World Cup 2026: Day 4 QF Match 6</title>
+	<programme channel="211" start="20261106093000 +0000" stop="20261106105000 +0000">
+		<title>FIP World Cup 2026: Spain vs Brazil Day 4 QF Match 4</title>
 		<desc>The most prestigious international competition for national teams; Padel's World Championships held in Doha, Qatar</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_fip_world_cup_2026.jpg?w=341%26h=192" />
 	</programme>
+	<programme channel="211" start="20261106105000 +0000" stop="20261106110000 +0000">
+		<title>Premier Padel Match Highlights 2026</title>
+		<desc>Men %26 Women's Final Match Highlights from Premier Padel Tour 2026</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch211_premier_padel_2026.jpg?w=341%26h=192" />
+	</programme>
 	<programme channel="211" start="20261106110000 +0000" stop="20261106123000 +0000">
-		<title>FIP World Cup 2026: Day 5 SF: Women Match 1</title>
+		<title>FIP World Cup 2026: Spain vs France Day 5 SF: Women Match 1</title>
 		<desc>The most prestigious international competition for national teams; Padel's World Championships held in Doha, Qatar</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_fip_world_cup_2026.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="211" start="20261106123000 +0000" stop="20261106140000 +0000">
-		<title>FIP World Cup 2026: Day 5 SF: Women Match 2</title>
+		<title>FIP World Cup 2026: Spain vs France Day 5 SF: Women Match 2</title>
 		<desc>The most prestigious international competition for national teams; Padel's World Championships held in Doha, Qatar</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_fip_world_cup_2026.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="211" start="20261106140000 +0000" stop="20261106150000 +0000">
-		<title>FIP World Cup 2026: Day 5 SF: Women Match 3</title>
+		<title>FIP World Cup 2026: Spain vs FranceDay 5 SF: Women Match 3</title>
 		<desc>The most prestigious international competition for national teams; Padel's World Championships held in Doha, Qatar</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_fip_world_cup_2026.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="211" start="20261106150000 +0000" stop="20261106163000 +0000">
-		<title>FIP World Cup 2026: Day 5 SF: Men Match 1</title>
+		<title>FIP World Cup 2026: Argentina vs Italy Day 5 SF: Men Match 1</title>
 		<desc>The most prestigious international competition for national teams; Padel's World Championships held in Doha, Qatar</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch211_fip_world_cup_2026.jpg?w=341%26h=192" />
 	</programme>
@@ -11546,12 +11555,12 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 		<icon src="https://poster.starhubgo.com/poster/fantasy_show_v4.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="221" start="20261106153000 +0000" stop="20261106163000 +0000">
-		<title>FANZONE - FRI 06 NOV</title>
+		<title>FANZONE - FRI 06 NOV (061126)</title>
 		<desc>This is the show that puts international fans at the heart of the Premier League conversation. We connect with fans from around the world as they share their views on their teams and favourite players.</desc>
 		<icon src="https://poster.starhubgo.com/poster/fan_zone_V2.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="221" start="20261106163000 +0000" stop="20261106170000 +0000">
-		<title>PREVIEW - FRI 06 NOV</title>
+		<title>PREVIEW - FRI 06 NOV (071126)</title>
 		<desc>A tightly packed look-ahead to the forthcoming match round with a mix of player interviews and special features.</desc>
 		<icon src="https://poster.starhubgo.com/poster/pl_preview_V3.jpg?w=341%26h=192" />
 	</programme>
@@ -11581,7 +11590,7 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 		<icon src="https://poster.starhubgo.com/poster/pl_live.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="221" start="20261106195000 +0000" stop="20261106220000 +0000">
-		<title>Everton v Coventry City (MW10)</title>
+		<title>Everton v Coventry City (MW10) (071126)</title>
 		<desc>This is the first meeting between Everton and Coventry City in any competition since January 2001 in the Premier League, won 3-1 by the Toffees at Highfield Road.</desc>
 		<icon src="https://poster.starhubgo.com/poster/MW10_EVERTON_vs_COVENTRY_CITY_27.jpg?w=341%26h=192" />
 	</programme>
@@ -11591,7 +11600,7 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 		<icon src="https://poster.starhubgo.com/poster/pl_live.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="221" start="20261106223000 +0000" stop="20261106233000 +0000">
-		<title>TEAM TALKS - FRI 06 NOV</title>
+		<title>TEAM TALKS - FRI 06 NOV (071126)</title>
 		<desc>Punditry, pressers and predictions ahead of the PL Weekend. Our studio team tackle all the major talking points, and we hear from the headlines acts as the players and the managers have their say ahead of the action.</desc>
 		<icon src="https://poster.starhubgo.com/poster/team_talks_V2.jpg?w=341%26h=192" />
 	</programme>
@@ -11601,7 +11610,7 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 		<icon src="https://poster.starhubgo.com/poster/the_big_interview_2026_27_ep12.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="221" start="20261107000000 +0000" stop="20261107003000 +0000">
-		<title>PREVIEW - FRI 06 NOV (UPDATE)</title>
+		<title>PREVIEW - FRI 06 NOV (UPDATE) (071126)</title>
 		<desc>A tightly packed look-ahead to the forthcoming match round with a mix of player interviews and special features.</desc>
 		<icon src="https://poster.starhubgo.com/poster/pl_preview_V3.jpg?w=341%26h=192" />
 	</programme>
@@ -11696,7 +11705,7 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 		<icon src="https://poster.starhubgo.com/poster/pl_live.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="221" start="20261107122000 +0000" stop="20261107145000 +0000">
-		<title>Leeds United v Tottenham Hotspur (MW10)</title>
+		<title>Leeds United v Tottenham Hotspur (MW10) (071126)</title>
 		<desc>Leeds have picked up just five points in their last 13 Premier League matches against Tottenham Hotspur (W1 D2 L10) and haven't kept a clean sheet in any of their last 16 against Spurs.</desc>
 		<icon src="https://poster.starhubgo.com/poster/leeds_united_stadium.jpg?w=960" />
 	</programme>
@@ -22188,12 +22197,12 @@ found dead in Bethesda Fountain.</desc>
 	</programme>
 	<programme channel="603" start="20261105160000 +0000" stop="20261105165000 +0000">
 		<title>Dr. Death S2 - EP 4</title>
-		<desc>As Benita uncovers Paolo's lies, Gamelli and Svensson discover horrifying truths of their own.</desc>
+		<desc>As Benita uncovers Paolo’s lies, Gamelli and Svensson discover horrifying truths of their own.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch633_dr_death.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="603" start="20261105165000 +0000" stop="20261105182000 +0000">
 		<title>Primate</title>
-		<desc>Lucy's tropical island homecoming turns deadly when her family's clever chimp spirals into a rabid frenzy she and her friends must fight to survive.</desc>
+		<desc>Lucy’s tropical island homecoming turns deadly when her family’s clever chimp spirals into a rabid frenzy she and her friends must fight to survive.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch633_primate.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="603" start="20261105182000 +0000" stop="20261105195000 +0000">
@@ -22203,7 +22212,7 @@ found dead in Bethesda Fountain.</desc>
 	</programme>
 	<programme channel="603" start="20261105195000 +0000" stop="20261105204000 +0000">
 		<title>Dtf St. Louis S1 - EP 4</title>
-		<desc>Eager to please, Clark ramps up his support for Floyd's health and financial wellness, while Carol makes her lover swear to secrecy.</desc>
+		<desc>Eager to please, Clark ramps up his support for Floyd’s health and financial wellness, while Carol makes her lover swear to secrecy.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch633_DTFSTLouisS1.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="603" start="20261105204000 +0000" stop="20261105221500 +0000">
@@ -22223,7 +22232,7 @@ found dead in Bethesda Fountain.</desc>
 	</programme>
 	<programme channel="603" start="20261106004500 +0000" stop="20261106013000 +0000">
 		<title>Dtf St. Louis S1 - EP 5</title>
-		<desc>Floyd confronts Clark about the affair. Plumb and Homer uncover new information about Carol's past.</desc>
+		<desc>Floyd confronts Clark about the affair. Plumb and Homer uncover new information about Carol’s past.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch633_DTFSTLouisS1.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="603" start="20261106013000 +0000" stop="20261106020000 +0000">
@@ -22243,7 +22252,7 @@ found dead in Bethesda Fountain.</desc>
 	</programme>
 	<programme channel="603" start="20261106043000 +0000" stop="20261106061500 +0000">
 		<title>Paterno</title>
-		<desc>HBO Films' PATERNO centres on Penn State's Joe Paterno in the aftermath of the Jerry Sandusky sexual abuse scandal.</desc>
+		<desc>HBO Films’ PATERNO centres on Penn State’s Joe Paterno in the aftermath of the Jerry Sandusky sexual abuse scandal.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch633_paterno.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="603" start="20261106061500 +0000" stop="20261106075500 +0000">
@@ -22273,7 +22282,7 @@ found dead in Bethesda Fountain.</desc>
 	</programme>
 	<programme channel="603" start="20261106140000 +0000" stop="20261106154500 +0000">
 		<title>Five Nights At Freddy's 2</title>
-		<desc>After shattering the box office with a global gross of $292M and becoming Blumhouse's highest-grossing film ever, Freddy Fazbear's Pizzeria is reopening its doors. Director Emma Tammi returns to helm the eagerly anticipated sequel, promising a chilling new chapter with a bone-chilling warning: Anyone can survive five nights, this time, there will be no second chances...</desc>
+		<desc>After shattering the box office with a global gross of $292M and becoming Blumhouse's highest-grossing film ever, Freddy Fazbear's Pizzeria is reopening its doors. Director Emma Tammi returns to helm the eagerly anticipated sequel, promising a chilling new chapter with a bone-chilling warning: Anyone can survive five nights, this time, there will be no second chances…</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch633_five_nights_at_freddys_2.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="603" start="20261106154500 +0000" stop="20261106164500 +0000">
@@ -22293,7 +22302,7 @@ found dead in Bethesda Fountain.</desc>
 	</programme>
 	<programme channel="603" start="20261106202500 +0000" stop="20261106211000 +0000">
 		<title>Dtf St. Louis S1 - EP 5</title>
-		<desc>Floyd confronts Clark about the affair. Plumb and Homer uncover new information about Carol's past.</desc>
+		<desc>Floyd confronts Clark about the affair. Plumb and Homer uncover new information about Carol’s past.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch633_DTFSTLouisS1.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="603" start="20261106211000 +0000" stop="20261106234000 +0000">
@@ -22303,55 +22312,60 @@ found dead in Bethesda Fountain.</desc>
 	</programme>
 	<programme channel="603" start="20261106234000 +0000" stop="20261107015000 +0000">
 		<title>The Wizard Of Lies</title>
-		<desc>Starring Robert De Niro, this HBO film examines financier Bernie Madoff's Ponzi scheme as his family is thrusted into a harsh and unrelenting spotlight.</desc>
+		<desc>Starring Robert De Niro, this HBO film examines financier Bernie Madoff’s Ponzi scheme as his family is thrusted into a harsh and unrelenting spotlight.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch633_wizard_of_lies.jpg?w=960%26h=540" />
 	</programme>
-	<programme channel="603" start="20261107015000 +0000" stop="20261107034000 +0000">
+	<programme channel="603" start="20261107015000 +0000" stop="20261107033500 +0000">
 		<title>Surviving Ohio State</title>
 		<desc>A look inside the sexual abuse scandal surrounding athletics doctor Richard Strauss at Ohio State University.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch633_surviving_ohio_state.jpg?w=341%26h=192" />
 	</programme>
-	<programme channel="603" start="20261107034000 +0000" stop="20261107051500 +0000">
-		<title>The Newspaperman: The Life And Times Of Ben Bradlee</title>
-		<desc>An intimate portrait of Ben Bradlee, tracing his remarkable ascent from an ill-stricken young Boston boy to one of the most pioneering and consequential journalistic figures of the 20th century.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch633_TheNewspapermanTheLifeAndTimesOfBenBradlee.jpg?w=960%26h=540" />
-	</programme>
-	<programme channel="603" start="20261107051500 +0000" stop="20261107062000 +0000">
-		<title>War S1 - EP 6</title>
-		<desc>Stay tuned to HBO Signature for more of your favourite actors and actresses.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch633_war.jpg?w=341%26h=192" />
-	</programme>
-	<programme channel="603" start="20261107062000 +0000" stop="20261107074500 +0000">
-		<title>The Naked Gun</title>
-		<desc>Following in his father's footsteps, Lt. Frank Drebin Jr. has the particular set of skills... to lead Police Squad and save the world!</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch633_The_Naked_Gun.jpg?w=960%26h=540" />
-	</programme>
-	<programme channel="603" start="20261107074500 +0000" stop="20261107093000 +0000">
-		<title>The Back Up Plan</title>
-		<desc>A single woman turns to artificial insemination to answer her ticking clock, only to meet the man of her dreams after she conceives.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch633_the_back_up_plan.jpg?w=341%26h=192" />
-	</programme>
-	<programme channel="603" start="20261107093000 +0000" stop="20261107112000 +0000">
-		<title>Morning Glory</title>
-		<desc>Rachel McAdams and Harrison Ford star in this romantic comedy set in the hilarious and dysfunctional world of morning television.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch633_morning_glory.jpg?w=960%26h=540" />
-	</programme>
-	<programme channel="603" start="20261107112000 +0000" stop="20261107115000 +0000">
+	<programme channel="603" start="20261107033500 +0000" stop="20261107040500 +0000">
 		<title>Hollywood On Set S1 - EP 1192</title>
 		<desc>Each week Hollywood On Set goes behind-the-scenes on three major movies in production, featuring action footage and interviews with filmmakers.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch633_hollywood_on_set_s1.jpg?w=960%26h=540" />
 	</programme>
-	<programme channel="603" start="20261107115000 +0000" stop="20261107140000 +0000">
-		<title>Stardust</title>
-		<desc>A young man discovers the meaning of true love while battling princes, ghosts and an evil witch in a quest to protect the girl of his dreams.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch633_stardust.jpg?w=960%26h=540" />
+	<programme channel="603" start="20261107040500 +0000" stop="20261107053500 +0000">
+		<title>The Newspaperman: The Life And Times Of Ben Bradlee</title>
+		<desc>An intimate portrait of Ben Bradlee, tracing his remarkable ascent from an ill-stricken young Boston boy to one of the most pioneering and consequential journalistic figures of the 20th century.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch633_TheNewspapermanTheLifeAndTimesOfBenBradlee.jpg?w=960%26h=540" />
 	</programme>
-	<programme channel="603" start="20261107140000 +0000" stop="20261107150500 +0000">
+	<programme channel="603" start="20261107053500 +0000" stop="20261107063000 +0000">
 		<title>War S1 - EP 6</title>
 		<desc>Stay tuned to HBO Signature for more of your favourite actors and actresses.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch633_war.jpg?w=341%26h=192" />
 	</programme>
-	<programme channel="603" start="20261107150500 +0000" stop="20261107171500 +0000">
+	<programme channel="603" start="20261107063000 +0000" stop="20261107075500 +0000">
+		<title>The Naked Gun</title>
+		<desc>Following in his father's footsteps, Lt. Frank Drebin Jr. has the particular set of skills... to lead Police Squad and save the world!</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch633_The_Naked_Gun.jpg?w=960%26h=540" />
+	</programme>
+	<programme channel="603" start="20261107075500 +0000" stop="20261107094000 +0000">
+		<title>The Back Up Plan</title>
+		<desc>A single woman turns to artificial insemination to answer her ticking clock, only to meet the man of her dreams after she conceives.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch633_the_back_up_plan.jpg?w=341%26h=192" />
+	</programme>
+	<programme channel="603" start="20261107094000 +0000" stop="20261107112500 +0000">
+		<title>Morning Glory</title>
+		<desc>Rachel McAdams and Harrison Ford star in this romantic comedy set in the hilarious and dysfunctional world of morning television.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch633_morning_glory.jpg?w=960%26h=540" />
+	</programme>
+	<programme channel="603" start="20261107112500 +0000" stop="20261107115500 +0000">
+		<title>Hollywood On Set S1 - EP 1192</title>
+		<desc>Each week Hollywood On Set goes behind-the-scenes on three major movies in production, featuring action footage and interviews with filmmakers.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch633_hollywood_on_set_s1.jpg?w=960%26h=540" />
+	</programme>
+	<programme channel="603" start="20261107115500 +0000" stop="20261107140000 +0000">
+		<title>Stardust</title>
+		<desc>A young man discovers the meaning of true love while battling princes, ghosts and an evil witch in a quest to protect the girl of his dreams.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch633_stardust.jpg?w=960%26h=540" />
+	</programme>
+	<programme channel="603" start="20261107140000 +0000" stop="20261107145500 +0000">
+		<title>War S1 - EP 6</title>
+		<desc>Stay tuned to HBO Signature for more of your favourite actors and actresses.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch633_war.jpg?w=341%26h=192" />
+	</programme>
+	<programme channel="603" start="20261107145500 +0000" stop="20261107170500 +0000">
 		<title>Weapons</title>
 		<desc>All but one child from the same class vanishes leaving a community questioning who or what is behind their disappearance.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch633_Weapons.jpg?w=960%26h=540" />
@@ -33114,7 +33128,7 @@ tough questions related to railways while traveling by train.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch838_news_roundup.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="838" start="20261106155000 +0000" stop="20261106160000 +0000">
-		<title>Global View</title>
+		<title>Global View (061126)</title>
 		<desc>Global View, curated by seasoned journalists, guides you to view the world with a global perspective—broadening your horizons, expanding your understanding of the news, and enriching your knowledge.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch838_global_view.jpg?w=341%26h=192" />
 	</programme>
@@ -33159,7 +33173,7 @@ tough questions related to railways while traveling by train.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch838_big_city_shop.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="838" start="20261106214500 +0000" stop="20261106220000 +0000">
-		<title>Happy Old Buddies</title>
+		<title>Happy Old Buddies (071126)</title>
 		<desc>Many people may think that older adults do not have sexual needs, but surveys have shown that this is not the case—older adults often experience less sexual activity due to various reasons.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch838_happy_old_buddies.jpg?w=341%26h=192" />
 	</programme>
@@ -33174,12 +33188,12 @@ tough questions related to railways while traveling by train.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch838_scoop_2026.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="838" start="20261106230000 +0000" stop="20261107000000 +0000">
-		<title>Good Morning Hong Kong</title>
+		<title>Good Morning Hong Kong (071126)</title>
 		<desc>Report important news about Hong Kong, cross-strait, and international affairs.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch838_good_morning_hongkong.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="838" start="20261107000000 +0000" stop="20261107010000 +0000">
-		<title>Mean Talk</title>
+		<title>Mean Talk (071126)</title>
 		<desc>The brand-new, unconventional talk show "Mean Talk" hosts Bob Lam and Elena Kong invite celebrity guests each episode to boldly speak the truth in the most "Mean" way.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch838_mean_talk.jpg?w=341%26h=192" />
 	</programme>
@@ -33189,7 +33203,7 @@ tough questions related to railways while traveling by train.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch838_dolce_vita_2022.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="838" start="20261107013000 +0000" stop="20261107020000 +0000">
-		<title>Hands Up 2026</title>
+		<title>Hands Up 2026 (071126)</title>
 		<desc>The brand-new children’s program “Hands Up” encourages kids to ask questions bravely, express themselves, and pursue their goals!Members of the mascot “Sauce Family” join the hosts in performing short skits, accompanying everyone for joyful moments.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch838_handsup.jpg?w=960%26h=540" />
 	</programme>
@@ -33219,7 +33233,7 @@ tough questions related to railways while traveling by train.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch838_cantoxicating_sr4.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="838" start="20261107053000 +0000" stop="20261107060000 +0000">
-		<title>ChatSAT</title>
+		<title>ChatSAT (071126)</title>
 		<desc>It will do its utmost to gather the trendiest and latest information from around the world, covering everything from global events, medical encyclopedias, arts, and technology to daily life and trending online topics, sharing them with the audience.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch838_chatsat.jpg?w=341%26h=192" />
 	</programme>
@@ -33264,22 +33278,22 @@ tough questions related to railways while traveling by train.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch838_dolce_vita_2022.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="838" start="20261107103000 +0000" stop="20261107110000 +0000">
-		<title>News At 18:30</title>
+		<title>News At 18:30 (071126)</title>
 		<desc>Jade Channel reports important local, cross-strait, and international news every afternoon at 6:30.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch838_news_at_630.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="838" start="20261107110000 +0000" stop="20261107113500 +0000">
-		<title>News Magazine 2026 %26 Yes, Boss.</title>
+		<title>News Magazine 2026 %26 Yes, Boss. (071126)</title>
 		<desc>News Perspective is a weekly program featuring in-depth coverage of notable news stories from Hong Kong and around the world.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch838_news_magazine_2026.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="838" start="20261107113500 +0000" stop="20261107120000 +0000">
-		<title>Scoop 2026</title>
+		<title>Scoop 2026 (071126)</title>
 		<desc>Scoop airs from Monday to Sunday, closely following major social events and interesting stories, while also reporting the latest updates in the entertainment industry, celebrity news, as well as drama promotions and behind-the-scenes features.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch838_scoop_2026.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="838" start="20261107120000 +0000" stop="20261107123000 +0000">
-		<title>Le Grand Tour de Seoul</title>
+		<title>Le Grand Tour de Seoul (071126)</title>
 		<desc>The "Le Grand Tour de Seoul" is on its way again, with Samantha Ko, Kalok Chow, and Brian Chu set off to enjoy a fantastic stay in Seoul! The hosts will visit local Michelin-starred restaurants and savor top-quality Korean beef.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch838_le_grand_tour_de_seoul.jpg?w=960%26h=540" />
 	</programme>
@@ -33289,17 +33303,17 @@ tough questions related to railways while traveling by train.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch838_hong_kong_good_take.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="838" start="20261107130000 +0000" stop="20261107140000 +0000">
-		<title>Mystery Files</title>
+		<title>Mystery Files (071126)</title>
 		<desc>Love is an extremely complex subject, surrounded by numerous “environmental factors” that can alter our dreams and understanding of romance.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch838_mystery_files.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="838" start="20261107140000 +0000" stop="20261107150000 +0000">
-		<title>You Are Not Alone Again</title>
+		<title>You Are Not Alone Again (071126)</title>
 		<desc>You Are Not Alone' triumphantly returns! In its second season, the show is once again led by the ‘King of Ghosts’ Leung Si Ho, together with co-hosts Wong Yiu Ying and Wong Chi Yan, as well as editors Wong Ying Yeuk and Tong Chi Yan.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch838_you_are_not_alone_again.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="838" start="20261107150000 +0000" stop="20261107153000 +0000">
-		<title>News Roundup</title>
+		<title>News Roundup (071126)</title>
 		<desc>Reporting major news from Hong Kong, across the Taiwan Strait, and around the world, as well as sports updates, keeping you informed about important events and trends in the world of sports.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch838_news_roundup.jpg?w=341%26h=192" />
 	</programme>
