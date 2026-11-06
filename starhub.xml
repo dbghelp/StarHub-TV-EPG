@@ -5673,8 +5673,8 @@
 		<icon src="https://poster.starhubgo.com/poster/ch135_pandian_stores_thanthai_sol_mikka_mandhiram_illai.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="135" start="20261108013000 +0000" stop="20261108030000 +0000">
-		<title>Diwali Sirappu Pattimandram - EP 1</title>
-		<desc>A festive Diwali special debate featuring witty speakers who discuss social, cultural, and contemporary issues with humor, insight, and lively arguments.</desc>
+		<title>Diwali Sirappu Pattimandram - 2026 - EP 1</title>
+		<desc>Diwali Sirappu Pattimandram - 2026</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch135_vijaylogo.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="135" start="20261108030000 +0000" stop="20261108063000 +0000">
@@ -5697,9 +5697,9 @@
 		<desc>Contestants live together under constant camera surveillance, competing in tough tasks and facing public votes to survive eliminations in Bigg Boss Tamil S10.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch135_bigg_boss_tamil_s10.jpg?w=341%26h=192" />
 	</programme>
-	<programme channel="135" start="20261108150000 +0000" stop="20261108160000 +0000">
-		<title>Diwali Sirappu Pattimandram - EP 1</title>
-		<desc>A festive Diwali special debate featuring witty speakers who discuss social, cultural, and contemporary issues with humor, insight, and lively arguments.</desc>
+	<programme channel="135" start="20261108150000 +0000" stop="20261108163000 +0000">
+		<title>Diwali Sirappu Pattimandram - 2026 - EP 1</title>
+		<desc>Diwali Sirappu Pattimandram - 2026</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch135_vijaylogo.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="137" start="20261106160000 +0000" stop="20261106183000 +0000">
@@ -6353,7 +6353,7 @@
 		<icon src="https://poster.starhubgo.com/Linear_channels2/139_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
 	<programme channel="139" start="20261108123000 +0000" stop="20261108150000 +0000">
-		<title>Thenkasippattanam</title>
+		<title>Thudakkam</title>
 		<desc>Malayalam Feature Film</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/139_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
@@ -10364,9 +10364,9 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 		<icon src="https://poster.starhubgo.com/poster/ch213_formula1_generic.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="213" start="20261107062000 +0000" stop="20261107081000 +0000">
-		<title>LaLiga 2 2026/27: Castellon vs Eibar</title>
-		<desc>Extensive coverage from LaLiga 2, Spain's second division of football.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch213_laliga_2.jpg?w=960%26h=540" />
+		<title>LaLiga 2026/27: Sevilla vs Alaves</title>
+		<desc>Extensive coverage from every round of the Spanish LaLiga, Spain's top division of football with the World's biggest teams.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch213_laliga_generic.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="213" start="20261107081000 +0000" stop="20261107084000 +0000">
 		<title>LaLiga Show 2026/27</title>
@@ -10494,29 +10494,24 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 		<icon src="https://poster.starhubgo.com/poster/ch213_laliga_generic.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="213" start="20261108060000 +0000" stop="20261108070000 +0000">
-		<title>GT World Challenge Europe Highlights 2026</title>
-		<desc>Recaps of a 10-round long distance championship split evenly between the Endurance Cup and Sprint Cup, with the 24 Hours of Spa as the marquee event.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch213_gt_world_challenge_europe.jpg?w=960%26h=540" />
-	</programme>
-	<programme channel="213" start="20261108070000 +0000" stop="20261108080000 +0000">
 		<title>GT World Challenge Asia Highlights 2026</title>
 		<desc>Recap all the action from the premier GT3-focused motorpsports series in Asia</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch213_gt_world_challenge_asia.jpg?w=341%26h=192" />
 	</programme>
-	<programme channel="213" start="20261108080000 +0000" stop="20261108095000 +0000">
-		<title>LaLiga 2026/27: Valencia vs Real Madrid</title>
-		<desc>Extensive coverage from every round of the Spanish LaLiga, Spain's top division of football with the World's biggest teams.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch213_laliga_generic.jpg?w=960%26h=540" />
-	</programme>
-	<programme channel="213" start="20261108095000 +0000" stop="20261108100000 +0000">
-		<title>DTM Highlights 2026</title>
-		<desc>Catch the highlights from every round of the 2026 DTM.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch213_dtm_race.jpg?w=341%26h=192" />
-	</programme>
-	<programme channel="213" start="20261108100000 +0000" stop="20261108110000 +0000">
+	<programme channel="213" start="20261108070000 +0000" stop="20261108080000 +0000">
 		<title>Formula 1 Practice 2026: FORMULA 1 MSC CRUISES GRANDE PREMIO DE SAO PAULO 2026 Practice 3</title>
 		<desc>beIN Sports brings you live and exclusive coverage of the 2026 Formula 1 World Championship.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch213_formula1_generic.jpg?w=341%26h=192" />
+	</programme>
+	<programme channel="213" start="20261108080000 +0000" stop="20261108082000 +0000">
+		<title>LaLiga Rookies 2026/27</title>
+		<desc>Track the rise of Spanish football's next generation as the brightest young talents and breakout stars make their mark on the LaLiga 2026/27 season.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch213_laliga_generic.jpg?w=960%26h=540" />
+	</programme>
+	<programme channel="213" start="20261108082000 +0000" stop="20261108110000 +0000">
+		<title>Tour de France Criterium 2026: Singapore</title>
+		<desc>A fast-paced shortened cycling race held on a street circuit, bring the excitement and star riders of the famous multi-week Grand Tour to international city centres outside France</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch213_tour_de_france.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="213" start="20261108110000 +0000" stop="20261108120000 +0000">
 		<title>Formula 1 Qualifying 2026: FORMULA 1 MSC CRUISES GRANDE PREMIO DE SAO PAULO 2026</title>
@@ -29479,8 +29474,8 @@ assignment or the rape.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/808_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
 	<programme channel="808" start="20261107170000 +0000" stop="20261107180000 +0000">
-		<title>News Night</title>
-		<desc>A round-up of international news.</desc>
+		<title>Mma Frontline: K-Pop Fever</title>
+		<desc>As MMA approaches, explore the latest K-pop fever with exclusive interviews featuring PLAVE and TWS, and get a closer look at the trends shaping the Korean music sc</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/808_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
 	<programme channel="808" start="20261107180000 +0000" stop="20261107190000 +0000">
@@ -29494,8 +29489,8 @@ assignment or the rape.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/808_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
 	<programme channel="808" start="20261107200000 +0000" stop="20261107210000 +0000">
-		<title>2100 Hot Topics</title>
-		<desc>Don't miss the latest highlights and interviews from Taiwan and around the world.</desc>
+		<title>Mma Frontline: K-Pop Fever</title>
+		<desc>As MMA approaches, explore the latest K-pop fever with exclusive interviews featuring PLAVE and TWS, and get a closer look at the trends shaping the Korean music sc</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/808_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
 	<programme channel="808" start="20261107210000 +0000" stop="20261107220000 +0000">
@@ -31085,20 +31080,20 @@ tough questions related to railways while traveling by train.</desc>
 		<desc>A woman whose life was stolen by a false murder accusation fights to reclaim her destiny in a gripping revenge drama against insatiable greed.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch815_a_trap_called_desire.jpg?w=960%26h=540" />
 	</programme>
-	<programme channel="815" start="20261107185500 +0000" stop="20261107201500 +0000">
+	<programme channel="815" start="20261107185500 +0000" stop="20261107203000 +0000">
 		<title>Music Bank - EP 1313</title>
 		<desc>The best tunes in Korea! the most sensational music show on TV satisfies all your senses! Fantastic performances and Awe-inspiring harmony by the nation's top musicians!</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch815_kbsworld_music_bank.jpg?w=341%26h=192" />
 	</programme>
-	<programme channel="815" start="20261107201500 +0000" stop="20261107203000 +0000">
+	<programme channel="815" start="20261107203000 +0000" stop="20261107204500 +0000">
 		<title>K-Beauty Pop-Up - EP 1</title>
 		<desc>Makeup Artist Liu's K-Beauty Pop-Up Store!A beauty reality show that travels to global hotspots, showcasing K-makeup to people around the world.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch815_kbeauty_popup.jpg?w=341%26h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch815_kbs_world_generic.jpg?w=341%26h=192" />
 	</programme>
-	<programme channel="815" start="20261107203000 +0000" stop="20261107204500 +0000">
+	<programme channel="815" start="20261107204500 +0000" stop="20261107210000 +0000">
 		<title>K-Beauty Pop-Up - EP 2</title>
 		<desc>Makeup Artist Liu's K-Beauty Pop-Up Store!A beauty reality show that travels to global hotspots, showcasing K-makeup to people around the world.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch815_kbeauty_popup.jpg?w=341%26h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch815_kbs_world_generic.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="815" start="20261107210000 +0000" stop="20261107221500 +0000">
 		<title>Love on the Menu - EP 26</title>
@@ -31125,25 +31120,20 @@ tough questions related to railways while traveling by train.</desc>
 		<desc>A heartwarming family drama about a man and a woman who rebuild their broken families and discover the recipe for love, healing, and togetherness.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch815_love_on_the_menu.jpg?w=960%26h=540" />
 	</programme>
-	<programme channel="815" start="20261108034000 +0000" stop="20261108050500 +0000">
+	<programme channel="815" start="20261108034000 +0000" stop="20261108051000 +0000">
 		<title>Music Bank - EP 1313</title>
 		<desc>The best tunes in Korea! the most sensational music show on TV satisfies all your senses! Fantastic performances and Awe-inspiring harmony by the nation's top musicians!</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch815_kbsworld_music_bank.jpg?w=341%26h=192" />
 	</programme>
-	<programme channel="815" start="20261108050500 +0000" stop="20261108052000 +0000">
+	<programme channel="815" start="20261108051000 +0000" stop="20261108052500 +0000">
 		<title>2026 GLOBAL GANGNAM MEDICAL OUTREACH</title>
 		<desc>A public-interest program that brings patients from overseas to Korea for medical care, showcasing the advanced medical expertise of Korea, particularly Gangnam, while spreading the spirit of compassion around the world.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch815_kbs_world_generic.jpg?w=341%26h=192" />
 	</programme>
-	<programme channel="815" start="20261108052000 +0000" stop="20261108060000 +0000">
+	<programme channel="815" start="20261108052500 +0000" stop="20261108060500 +0000">
 		<title>Hit the Top - EP 31</title>
 		<desc>In the year 1993, K-pop idol Yoo Hyunjae accidentally travels through time to the year 2017. Discovering that he is presumed dead, he begins to investigate what exactly has happened while trying to adjust to life in the 21st century.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch815_hit_the_top.jpg?w=341%26h=192" />
-	</programme>
-	<programme channel="815" start="20261108060000 +0000" stop="20261108060500 +0000">
-		<title>The Best of Immortal Songs</title>
-		<desc>The true classic of the century is born again! The legendary classic is reinterpreted by the best vocalists in Korea. Don't miss out on the heart-moving moments that transcend generations.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch815_the_best_of_immortal_songs.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="815" start="20261108060500 +0000" stop="20261108071500 +0000">
 		<title>Welcome to Sugeun School - EP 8</title>
@@ -31157,7 +31147,7 @@ tough questions related to railways while traveling by train.</desc>
 	</programme>
 	<programme channel="815" start="20261108073000 +0000" stop="20261108090000 +0000">
 		<title>Stars' Top Recipe at Fun-Staurant - EP 341</title>
-		<desc>Celebrities known for their cooking skills become "chef-entertainers," revealing signature recipes and creativemenu ideas to share with viewers.</desc>
+		<desc>Celebrities known for their cooking skills become “chef-entertainers,” revealing signature recipes and creativemenu ideas to share with viewers.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch815_stars_top_recipe_at_fun_staurant.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="815" start="20261108090000 +0000" stop="20261108090500 +0000">
@@ -31197,7 +31187,7 @@ tough questions related to railways while traveling by train.</desc>
 	</programme>
 	<programme channel="815" start="20261108154500 +0000" stop="20261108171500 +0000">
 		<title>The Seasons - EP 29</title>
-		<desc>A music program featuring performances and candid conversations with a diverse range of artists to deliver deep musical resonance.</desc>
+		<desc>A music program featuring performances and candid conversations with a diverse range of artists to deliver deep musical resonance</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch815_the_seasons_sung_sikyung.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="817" start="20261106160000 +0000" stop="20261106163000 +0000">
@@ -32805,17 +32795,87 @@ tough questions related to railways while traveling by train.</desc>
 		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
-	<programme channel="832" start="20261107040000 +0000" stop="20261107100000 +0000">
-		<title>Information Not Available</title>
-		<desc />
+	<programme channel="832" start="20261107010000 +0000" stop="20261107023000 +0000">
+		<title>A Green Trip</title>
+		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
-	<programme channel="832" start="20261107100000 +0000" stop="20261107160000 +0000">
-		<title>Information Not Available</title>
-		<desc />
+	<programme channel="832" start="20261107023000 +0000" stop="20261107031000 +0000">
+		<title>Super Diva</title>
+		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
-	<programme channel="832" start="20261107160000 +0000" stop="20261107220000 +0000">
+	<programme channel="832" start="20261107031000 +0000" stop="20261107033500 +0000">
+		<title>CARE ON THE WAY</title>
+		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341%26h=192" />
+	</programme>
+	<programme channel="832" start="20261107033500 +0000" stop="20261107040000 +0000">
+		<title>Next Station</title>
+		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341%26h=192" />
+	</programme>
+	<programme channel="832" start="20261107040000 +0000" stop="20261107051000 +0000">
+		<title>China International Import Expo All-Media Live Special Report</title>
+		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341%26h=192" />
+	</programme>
+	<programme channel="832" start="20261107051000 +0000" stop="20261107060000 +0000">
+		<title>futuer china</title>
+		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341%26h=192" />
+	</programme>
+	<programme channel="832" start="20261107060000 +0000" stop="20261107070000 +0000">
+		<title>A Green Trip</title>
+		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341%26h=192" />
+	</programme>
+	<programme channel="832" start="20261107070000 +0000" stop="20261107080000 +0000">
+		<title>Ai Romance</title>
+		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341%26h=192" />
+	</programme>
+	<programme channel="832" start="20261107080000 +0000" stop="20261107093500 +0000">
+		<title>Super Diva</title>
+		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341%26h=192" />
+	</programme>
+	<programme channel="832" start="20261107093500 +0000" stop="20261107100000 +0000">
+		<title>Next Station</title>
+		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341%26h=192" />
+	</programme>
+	<programme channel="832" start="20261107100000 +0000" stop="20261107110000 +0000">
+		<title>Dragon TV Primetime News</title>
+		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341%26h=192" />
+	</programme>
+	<programme channel="832" start="20261107110000 +0000" stop="20261107114000 +0000">
+		<title>A Green Trip</title>
+		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341%26h=192" />
+	</programme>
+	<programme channel="832" start="20261107114000 +0000" stop="20261107133000 +0000">
+		<title>futuer china</title>
+		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341%26h=192" />
+	</programme>
+	<programme channel="832" start="20261107133000 +0000" stop="20261107143000 +0000">
+		<title>Ai Romance</title>
+		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341%26h=192" />
+	</programme>
+	<programme channel="832" start="20261107143000 +0000" stop="20261107153000 +0000">
+		<title>A Green Trip</title>
+		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341%26h=192" />
+	</programme>
+	<programme channel="832" start="20261107153000 +0000" stop="20261107163000 +0000">
+		<title>futuer china</title>
+		<desc>Dragon TV is one of China's leading platforms for TV news and programming with a global vision. By adhering their philosophy "built by news, strengthened by films and series and vitalized by entertainment programs", Dragon TV has become a window into the city of Shanghai.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341%26h=192" />
+	</programme>
+	<programme channel="832" start="20261107163000 +0000" stop="20261107220000 +0000">
 		<title>Information Not Available</title>
 		<desc />
 		<icon src="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png?w=341%26h=192" />
@@ -33211,7 +33271,7 @@ tough questions related to railways while traveling by train.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch838_news_roundup.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="838" start="20261108153000 +0000" stop="20261108160000 +0000">
-		<title>Finance Magazine 2026</title>
+		<title>Finance Magazine 2026 (081126)</title>
 		<desc>Financial Insights keeps a close watch on the market, reviewing weekly trends in Hong Kong stocks and paying attention to the real estate sector.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch838_finance_magazine_2026.jpg?w=341%26h=192" />
 	</programme>
@@ -33570,12 +33630,12 @@ tough questions related to railways while traveling by train.</desc>
 		<desc>Eun-kyung and Yu-ri reunite as true equal partners, having both grown personally and professionally through their journey. [With EN/CH Subs]</desc>
 		<icon src="https://poster.starhubgo.com/poster/GoodPartner_L.jpg?w=960" />
 	</programme>
-	<programme channel="855" start="20261107161500 +0000" stop="20261107170500 +0000">
+	<programme channel="855" start="20261107161500 +0000" stop="20261107165800 +0000">
 		<title>The Legend of Shen Li - EP 33</title>
 		<desc>Refusing to let Xing Zhi die alone, Shen Li channels her full Phoenix Fire into the divine barrier, fighting alongside him until the bitter end. [With CH Subs]</desc>
 		<icon src="https://poster.starhubgo.com/poster/TheLegendOfShenLi_L.jpg?w=960" />
 	</programme>
-	<programme channel="855" start="20261107170500 +0000" stop="20261107180000 +0000">
+	<programme channel="855" start="20261107165800 +0000" stop="20261107180000 +0000">
 		<title>The Legend of Shen Li - EP 34</title>
 		<desc>Fu Sheng is thoroughly incinerated by Shen Li's ultimate Phoenix blast, but the collapsing abyss threatens to consume both Shen Li and Xing Zhi. [With CH Subs]</desc>
 		<icon src="https://poster.starhubgo.com/poster/TheLegendOfShenLi_L.jpg?w=960" />
@@ -33585,12 +33645,12 @@ tough questions related to railways while traveling by train.</desc>
 		<desc>Mu Zhuo Hua (Jing Tian), the illegitimate daughter of the richest man in Jiangnan, who is determined to pass the civil service exam, meets a poorly reputable general named Liu Yan (Feng Shao Feng) and forms an uneasy alliance, and a closer bond eventually</desc>
 		<icon src="https://poster.starhubgo.com/poster/TheLegendOfZhuohua.jpg?w=341%26h=192" />
 	</programme>
-	<programme channel="855" start="20261107185000 +0000" stop="20261107194000 +0000">
+	<programme channel="855" start="20261107185000 +0000" stop="20261107193100 +0000">
 		<title>The Epoch of Miyu - EP 28</title>
 		<desc>[With English and Chinese subtitles] The story follows celebrity manager Ji Feng (Wallace Chung) and Xu Miyu (Zhu Zhu), who, after losing everything in her divorce, works as a hotel housekeeper. Together, they face workplace struggles and confront the hom</desc>
 		<icon src="https://poster.starhubgo.com/poster/TheEpochOfMiyu_L.jpg?w=960" />
 	</programme>
-	<programme channel="855" start="20261107194000 +0000" stop="20261107203000 +0000">
+	<programme channel="855" start="20261107193100 +0000" stop="20261107203000 +0000">
 		<title>The Epoch of Miyu - EP 29</title>
 		<desc>[With English and Chinese subtitles] The story follows celebrity manager Ji Feng (Wallace Chung) and Xu Miyu (Zhu Zhu), who, after losing everything in her divorce, works as a hotel housekeeper. Together, they face workplace struggles and confront the hom</desc>
 		<icon src="https://poster.starhubgo.com/poster/TheEpochOfMiyu_L.jpg?w=960" />
@@ -33610,37 +33670,37 @@ tough questions related to railways while traveling by train.</desc>
 		<desc>Mu Zhuo Hua (Jing Tian), the illegitimate daughter of the richest man in Jiangnan, who is determined to pass the civil service exam, meets a poorly reputable general named Liu Yan (Feng Shao Feng) and forms an uneasy alliance, and a closer bond eventually</desc>
 		<icon src="https://poster.starhubgo.com/poster/TheLegendOfZhuohua.jpg?w=341%26h=192" />
 	</programme>
-	<programme channel="855" start="20261108000000 +0000" stop="20261108005000 +0000">
+	<programme channel="855" start="20261108000000 +0000" stop="20261108004300 +0000">
 		<title>The Legend of Shen Li - EP 33</title>
 		<desc>Refusing to let Xing Zhi die alone, Shen Li channels her full Phoenix Fire into the divine barrier, fighting alongside him until the bitter end. [With CH Subs]</desc>
 		<icon src="https://poster.starhubgo.com/poster/TheLegendOfShenLi_L.jpg?w=960" />
 	</programme>
-	<programme channel="855" start="20261108005000 +0000" stop="20261108014500 +0000">
+	<programme channel="855" start="20261108004300 +0000" stop="20261108014500 +0000">
 		<title>The Legend of Shen Li - EP 34</title>
 		<desc>Fu Sheng is thoroughly incinerated by Shen Li's ultimate Phoenix blast, but the collapsing abyss threatens to consume both Shen Li and Xing Zhi. [With CH Subs]</desc>
 		<icon src="https://poster.starhubgo.com/poster/TheLegendOfShenLi_L.jpg?w=960" />
 	</programme>
-	<programme channel="855" start="20261108014500 +0000" stop="20261108024000 +0000">
+	<programme channel="855" start="20261108014500 +0000" stop="20261108023200 +0000">
 		<title>The First Jasmine - EP 31</title>
 		<desc>Driven by despair and anger, Mo Xiuyao destroys the pastry wrapper Ye Li once gave him and writes a divorce decree, resolutely severing their marriage. [With EN/CH Subs]</desc>
 		<icon src="https://poster.starhubgo.com/poster/TheFirstJasmine_L.jpg?w=960" />
 	</programme>
-	<programme channel="855" start="20261108024000 +0000" stop="20261108033000 +0000">
+	<programme channel="855" start="20261108023200 +0000" stop="20261108031700 +0000">
 		<title>The First Jasmine - EP 32</title>
 		<desc>After a long journey, Mo Xiuyao arrives at Mount Li with the Empress Dowager's rewards, only to find a heartbreaking scene: the academy is overgrown with weeds, ruined, and completely deserted. [With EN/CH Subs]</desc>
 		<icon src="https://poster.starhubgo.com/poster/TheFirstJasmine_L.jpg?w=960" />
 	</programme>
-	<programme channel="855" start="20261108033000 +0000" stop="20261108042000 +0000">
+	<programme channel="855" start="20261108031700 +0000" stop="20261108040300 +0000">
 		<title>The First Jasmine - EP 33</title>
 		<desc>Ye Li formally introduces Mo Xiuyao to her tutors. Witnessing her interact with hallucinations, Mo Xiuyao suppresses his grief and plays along. [With EN/CH Subs]</desc>
 		<icon src="https://poster.starhubgo.com/poster/TheFirstJasmine_L.jpg?w=960" />
 	</programme>
-	<programme channel="855" start="20261108042000 +0000" stop="20261108051000 +0000">
+	<programme channel="855" start="20261108040300 +0000" stop="20261108044800 +0000">
 		<title>The First Jasmine - EP 34</title>
 		<desc>Ye Li runs through Lishan Academy only to find everyone has died of a plague. She buries them all alone and, in despair, digs her own grave. [With EN/CH Subs]</desc>
 		<icon src="https://poster.starhubgo.com/poster/TheFirstJasmine_L.jpg?w=960" />
 	</programme>
-	<programme channel="855" start="20261108051000 +0000" stop="20261108060000 +0000">
+	<programme channel="855" start="20261108044800 +0000" stop="20261108060000 +0000">
 		<title>The First Jasmine - EP 35</title>
 		<desc>The Empress Dowager heads to the traveling palace, stopping at Zhengyi Temple to pay respects to Xu Wanzhou. [With EN/CH Subs]</desc>
 		<icon src="https://poster.starhubgo.com/poster/TheFirstJasmine_L.jpg?w=960" />
@@ -33655,32 +33715,32 @@ tough questions related to railways while traveling by train.</desc>
 		<desc>Eun-kyung and Yu-ri reunite as true equal partners, having both grown personally and professionally through their journey. [With EN/CH Subs]</desc>
 		<icon src="https://poster.starhubgo.com/poster/GoodPartner_L.jpg?w=960" />
 	</programme>
-	<programme channel="855" start="20261108083000 +0000" stop="20261108092000 +0000">
+	<programme channel="855" start="20261108083000 +0000" stop="20261108091100 +0000">
 		<title>The Epoch of Miyu - EP 28</title>
 		<desc>[With English and Chinese subtitles] The story follows celebrity manager Ji Feng (Wallace Chung) and Xu Miyu (Zhu Zhu), who, after losing everything in her divorce, works as a hotel housekeeper. Together, they face workplace struggles and confront the hom</desc>
 		<icon src="https://poster.starhubgo.com/poster/TheEpochOfMiyu_L.jpg?w=960" />
 	</programme>
-	<programme channel="855" start="20261108092000 +0000" stop="20261108101500 +0000">
+	<programme channel="855" start="20261108091100 +0000" stop="20261108101500 +0000">
 		<title>The Epoch of Miyu - EP 29</title>
 		<desc>[With English and Chinese subtitles] The story follows celebrity manager Ji Feng (Wallace Chung) and Xu Miyu (Zhu Zhu), who, after losing everything in her divorce, works as a hotel housekeeper. Together, they face workplace struggles and confront the hom</desc>
 		<icon src="https://poster.starhubgo.com/poster/TheEpochOfMiyu_L.jpg?w=960" />
 	</programme>
-	<programme channel="855" start="20261108101500 +0000" stop="20261108110500 +0000">
+	<programme channel="855" start="20261108101500 +0000" stop="20261108105500 +0000">
 		<title>The Legend of Shen Li - EP 35</title>
 		<desc>Xing Zhi exhausts the last of his divine essence to push Shen Li safely out of the collapsing abyss, vanishing as the ancient gods' line ends. [With CH Subs]</desc>
 		<icon src="https://poster.starhubgo.com/poster/TheLegendOfShenLi_L.jpg?w=960" />
 	</programme>
-	<programme channel="855" start="20261108110500 +0000" stop="20261108120000 +0000">
+	<programme channel="855" start="20261108105500 +0000" stop="20261108120000 +0000">
 		<title>The Legend of Shen Li - EP 36</title>
 		<desc>Shen Li grieves deeply for Xing Zhi, taking his remaining divine staff back to the quiet mortal courtyard where their journey first began. [With CH Subs]</desc>
 		<icon src="https://poster.starhubgo.com/poster/TheLegendOfShenLi_L.jpg?w=960" />
 	</programme>
-	<programme channel="855" start="20261108120000 +0000" stop="20261108125000 +0000">
+	<programme channel="855" start="20261108120000 +0000" stop="20261108124500 +0000">
 		<title>The Epoch of Miyu - EP 30</title>
 		<desc>[With English and Chinese subtitles] The story follows celebrity manager Ji Feng (Wallace Chung) and Xu Miyu (Zhu Zhu), who, after losing everything in her divorce, works as a hotel housekeeper. Together, they face workplace struggles and confront the hom</desc>
 		<icon src="https://poster.starhubgo.com/poster/TheEpochOfMiyu_L.jpg?w=960" />
 	</programme>
-	<programme channel="855" start="20261108125000 +0000" stop="20261108134500 +0000">
+	<programme channel="855" start="20261108124500 +0000" stop="20261108134500 +0000">
 		<title>The Epoch of Miyu - EP 31</title>
 		<desc>[With English and Chinese subtitles] The story follows celebrity manager Ji Feng (Wallace Chung) and Xu Miyu (Zhu Zhu), who, after losing everything in her divorce, works as a hotel housekeeper. Together, they face workplace struggles and confront the hom</desc>
 		<icon src="https://poster.starhubgo.com/poster/TheEpochOfMiyu_L.jpg?w=960" />
@@ -35540,12 +35600,12 @@ tough questions related to railways while traveling by train.</desc>
 		<desc>Eun-kyung and Yu-ri reunite as true equal partners, having both grown personally and professionally through their journey. [With EN/CH Subs]</desc>
 		<icon src="https://poster.starhubgo.com/poster/GoodPartner_L.jpg?w=960" />
 	</programme>
-	<programme channel="997" start="20261107161500 +0000" stop="20261107170500 +0000">
+	<programme channel="997" start="20261107161500 +0000" stop="20261107165800 +0000">
 		<title>The Legend of Shen Li - EP 33</title>
 		<desc>Refusing to let Xing Zhi die alone, Shen Li channels her full Phoenix Fire into the divine barrier, fighting alongside him until the bitter end. [With CH Subs]</desc>
 		<icon src="https://poster.starhubgo.com/poster/TheLegendOfShenLi_L.jpg?w=960" />
 	</programme>
-	<programme channel="997" start="20261107170500 +0000" stop="20261107180000 +0000">
+	<programme channel="997" start="20261107165800 +0000" stop="20261107180000 +0000">
 		<title>The Legend of Shen Li - EP 34</title>
 		<desc>Fu Sheng is thoroughly incinerated by Shen Li's ultimate Phoenix blast, but the collapsing abyss threatens to consume both Shen Li and Xing Zhi. [With CH Subs]</desc>
 		<icon src="https://poster.starhubgo.com/poster/TheLegendOfShenLi_L.jpg?w=960" />
@@ -35555,12 +35615,12 @@ tough questions related to railways while traveling by train.</desc>
 		<desc>Mu Zhuo Hua (Jing Tian), the illegitimate daughter of the richest man in Jiangnan, who is determined to pass the civil service exam, meets a poorly reputable general named Liu Yan (Feng Shao Feng) and forms an uneasy alliance, and a closer bond eventually</desc>
 		<icon src="https://poster.starhubgo.com/poster/TheLegendOfZhuohua.jpg?w=341%26h=192" />
 	</programme>
-	<programme channel="997" start="20261107185000 +0000" stop="20261107194000 +0000">
+	<programme channel="997" start="20261107185000 +0000" stop="20261107193100 +0000">
 		<title>The Epoch of Miyu - EP 28</title>
 		<desc>[With English and Chinese subtitles] The story follows celebrity manager Ji Feng (Wallace Chung) and Xu Miyu (Zhu Zhu), who, after losing everything in her divorce, works as a hotel housekeeper. Together, they face workplace struggles and confront the hom</desc>
 		<icon src="https://poster.starhubgo.com/poster/TheEpochOfMiyu_L.jpg?w=960" />
 	</programme>
-	<programme channel="997" start="20261107194000 +0000" stop="20261107203000 +0000">
+	<programme channel="997" start="20261107193100 +0000" stop="20261107203000 +0000">
 		<title>The Epoch of Miyu - EP 29</title>
 		<desc>[With English and Chinese subtitles] The story follows celebrity manager Ji Feng (Wallace Chung) and Xu Miyu (Zhu Zhu), who, after losing everything in her divorce, works as a hotel housekeeper. Together, they face workplace struggles and confront the hom</desc>
 		<icon src="https://poster.starhubgo.com/poster/TheEpochOfMiyu_L.jpg?w=960" />
@@ -35580,37 +35640,37 @@ tough questions related to railways while traveling by train.</desc>
 		<desc>Mu Zhuo Hua (Jing Tian), the illegitimate daughter of the richest man in Jiangnan, who is determined to pass the civil service exam, meets a poorly reputable general named Liu Yan (Feng Shao Feng) and forms an uneasy alliance, and a closer bond eventually</desc>
 		<icon src="https://poster.starhubgo.com/poster/TheLegendOfZhuohua.jpg?w=341%26h=192" />
 	</programme>
-	<programme channel="997" start="20261108000000 +0000" stop="20261108005000 +0000">
+	<programme channel="997" start="20261108000000 +0000" stop="20261108004300 +0000">
 		<title>The Legend of Shen Li - EP 33</title>
 		<desc>Refusing to let Xing Zhi die alone, Shen Li channels her full Phoenix Fire into the divine barrier, fighting alongside him until the bitter end. [With CH Subs]</desc>
 		<icon src="https://poster.starhubgo.com/poster/TheLegendOfShenLi_L.jpg?w=960" />
 	</programme>
-	<programme channel="997" start="20261108005000 +0000" stop="20261108014500 +0000">
+	<programme channel="997" start="20261108004300 +0000" stop="20261108014500 +0000">
 		<title>The Legend of Shen Li - EP 34</title>
 		<desc>Fu Sheng is thoroughly incinerated by Shen Li's ultimate Phoenix blast, but the collapsing abyss threatens to consume both Shen Li and Xing Zhi. [With CH Subs]</desc>
 		<icon src="https://poster.starhubgo.com/poster/TheLegendOfShenLi_L.jpg?w=960" />
 	</programme>
-	<programme channel="997" start="20261108014500 +0000" stop="20261108024000 +0000">
+	<programme channel="997" start="20261108014500 +0000" stop="20261108023200 +0000">
 		<title>The First Jasmine - EP 31</title>
 		<desc>Driven by despair and anger, Mo Xiuyao destroys the pastry wrapper Ye Li once gave him and writes a divorce decree, resolutely severing their marriage. [With EN/CH Subs]</desc>
 		<icon src="https://poster.starhubgo.com/poster/TheFirstJasmine_L.jpg?w=960" />
 	</programme>
-	<programme channel="997" start="20261108024000 +0000" stop="20261108033000 +0000">
+	<programme channel="997" start="20261108023200 +0000" stop="20261108031700 +0000">
 		<title>The First Jasmine - EP 32</title>
 		<desc>After a long journey, Mo Xiuyao arrives at Mount Li with the Empress Dowager's rewards, only to find a heartbreaking scene: the academy is overgrown with weeds, ruined, and completely deserted. [With EN/CH Subs]</desc>
 		<icon src="https://poster.starhubgo.com/poster/TheFirstJasmine_L.jpg?w=960" />
 	</programme>
-	<programme channel="997" start="20261108033000 +0000" stop="20261108042000 +0000">
+	<programme channel="997" start="20261108031700 +0000" stop="20261108040300 +0000">
 		<title>The First Jasmine - EP 33</title>
 		<desc>Ye Li formally introduces Mo Xiuyao to her tutors. Witnessing her interact with hallucinations, Mo Xiuyao suppresses his grief and plays along. [With EN/CH Subs]</desc>
 		<icon src="https://poster.starhubgo.com/poster/TheFirstJasmine_L.jpg?w=960" />
 	</programme>
-	<programme channel="997" start="20261108042000 +0000" stop="20261108051000 +0000">
+	<programme channel="997" start="20261108040300 +0000" stop="20261108044800 +0000">
 		<title>The First Jasmine - EP 34</title>
 		<desc>Ye Li runs through Lishan Academy only to find everyone has died of a plague. She buries them all alone and, in despair, digs her own grave. [With EN/CH Subs]</desc>
 		<icon src="https://poster.starhubgo.com/poster/TheFirstJasmine_L.jpg?w=960" />
 	</programme>
-	<programme channel="997" start="20261108051000 +0000" stop="20261108060000 +0000">
+	<programme channel="997" start="20261108044800 +0000" stop="20261108060000 +0000">
 		<title>The First Jasmine - EP 35</title>
 		<desc>The Empress Dowager heads to the traveling palace, stopping at Zhengyi Temple to pay respects to Xu Wanzhou. [With EN/CH Subs]</desc>
 		<icon src="https://poster.starhubgo.com/poster/TheFirstJasmine_L.jpg?w=960" />
@@ -35625,32 +35685,32 @@ tough questions related to railways while traveling by train.</desc>
 		<desc>Eun-kyung and Yu-ri reunite as true equal partners, having both grown personally and professionally through their journey. [With EN/CH Subs]</desc>
 		<icon src="https://poster.starhubgo.com/poster/GoodPartner_L.jpg?w=960" />
 	</programme>
-	<programme channel="997" start="20261108083000 +0000" stop="20261108092000 +0000">
+	<programme channel="997" start="20261108083000 +0000" stop="20261108091100 +0000">
 		<title>The Epoch of Miyu - EP 28</title>
 		<desc>[With English and Chinese subtitles] The story follows celebrity manager Ji Feng (Wallace Chung) and Xu Miyu (Zhu Zhu), who, after losing everything in her divorce, works as a hotel housekeeper. Together, they face workplace struggles and confront the hom</desc>
 		<icon src="https://poster.starhubgo.com/poster/TheEpochOfMiyu_L.jpg?w=960" />
 	</programme>
-	<programme channel="997" start="20261108092000 +0000" stop="20261108101500 +0000">
+	<programme channel="997" start="20261108091100 +0000" stop="20261108101500 +0000">
 		<title>The Epoch of Miyu - EP 29</title>
 		<desc>[With English and Chinese subtitles] The story follows celebrity manager Ji Feng (Wallace Chung) and Xu Miyu (Zhu Zhu), who, after losing everything in her divorce, works as a hotel housekeeper. Together, they face workplace struggles and confront the hom</desc>
 		<icon src="https://poster.starhubgo.com/poster/TheEpochOfMiyu_L.jpg?w=960" />
 	</programme>
-	<programme channel="997" start="20261108101500 +0000" stop="20261108110500 +0000">
+	<programme channel="997" start="20261108101500 +0000" stop="20261108105500 +0000">
 		<title>The Legend of Shen Li - EP 35</title>
 		<desc>Xing Zhi exhausts the last of his divine essence to push Shen Li safely out of the collapsing abyss, vanishing as the ancient gods' line ends. [With CH Subs]</desc>
 		<icon src="https://poster.starhubgo.com/poster/TheLegendOfShenLi_L.jpg?w=960" />
 	</programme>
-	<programme channel="997" start="20261108110500 +0000" stop="20261108120000 +0000">
+	<programme channel="997" start="20261108105500 +0000" stop="20261108120000 +0000">
 		<title>The Legend of Shen Li - EP 36</title>
 		<desc>Shen Li grieves deeply for Xing Zhi, taking his remaining divine staff back to the quiet mortal courtyard where their journey first began. [With CH Subs]</desc>
 		<icon src="https://poster.starhubgo.com/poster/TheLegendOfShenLi_L.jpg?w=960" />
 	</programme>
-	<programme channel="997" start="20261108120000 +0000" stop="20261108125000 +0000">
+	<programme channel="997" start="20261108120000 +0000" stop="20261108124500 +0000">
 		<title>The Epoch of Miyu - EP 30</title>
 		<desc>[With English and Chinese subtitles] The story follows celebrity manager Ji Feng (Wallace Chung) and Xu Miyu (Zhu Zhu), who, after losing everything in her divorce, works as a hotel housekeeper. Together, they face workplace struggles and confront the hom</desc>
 		<icon src="https://poster.starhubgo.com/poster/TheEpochOfMiyu_L.jpg?w=960" />
 	</programme>
-	<programme channel="997" start="20261108125000 +0000" stop="20261108134500 +0000">
+	<programme channel="997" start="20261108124500 +0000" stop="20261108134500 +0000">
 		<title>The Epoch of Miyu - EP 31</title>
 		<desc>[With English and Chinese subtitles] The story follows celebrity manager Ji Feng (Wallace Chung) and Xu Miyu (Zhu Zhu), who, after losing everything in her divorce, works as a hotel housekeeper. Together, they face workplace struggles and confront the hom</desc>
 		<icon src="https://poster.starhubgo.com/poster/TheEpochOfMiyu_L.jpg?w=960" />
