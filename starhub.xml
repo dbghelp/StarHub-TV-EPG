@@ -1952,19 +1952,19 @@
 		<desc>(Live) Non-stop breaking stories, expert analysis and extensive news coverage every hour.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
-	<programme channel="106" start="20261115013000 +0000" stop="20261115020000 +0000">
+	<programme channel="106" start="20261115013000 +0000" stop="20261115020100 +0000">
 		<title>Talking Point - EP 24</title>
 		<desc>Are squishy toys safe? Talking Point sends 18 toys for chemical testing, explores what they're made of, and investigates how squishies hold up after heating and squeezing.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
-	<programme channel="106" start="20261115020000 +0000" stop="20261115020200 +0000">
-		<title>Headline News - EP 782</title>
-		<desc>(Live) The latest top stories of the hour.</desc>
+	<programme channel="106" start="20261115020100 +0000" stop="20261115023000 +0000">
+		<title>Asia Now - EP 992</title>
+		<desc>(Live) Non-stop breaking stories, expert analysis and extensive news coverage every hour.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
-	<programme channel="106" start="20261115020200 +0000" stop="20261115030000 +0000">
-		<title>Chasing Lava - EP 1</title>
-		<desc>Driven by an irresistible fascination with volcanoes, intrepid explorers push the boundaries of human courage, venturing into Earth's fiery heart in pursuit of extraordinary discoveries.</desc>
+	<programme channel="106" start="20261115023000 +0000" stop="20261115030000 +0000">
+		<title>Singaporean At Heart - EP 4</title>
+		<desc>Born in Hong Kong, Mary Ann Tsao brought her training in social medicine from America's South Bronx to Singapore - and spent 30 years advancing a community-centric care model for the elderly that was ahead of its time</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
 	<programme channel="106" start="20261115030000 +0000" stop="20261115033000 +0000">
@@ -6432,12 +6432,12 @@
 		<desc>Balram finds a large weapons stash linked to Don Taradas. Release Year: 2006 Director: I. V. Sasi</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
-	<programme channel="140" start="20261113193000 +0000" stop="20261113213000 +0000">
+	<programme channel="140" start="20261113193000 +0000" stop="20261113215500 +0000">
 		<title>Parava</title>
 		<desc>The plot is based on the pigeon race, a game that is prominent in Mattancherry. Release Year: 2017 Director: Soubin Shahir</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
-	<programme channel="140" start="20261113213000 +0000" stop="20261113233000 +0000">
+	<programme channel="140" start="20261113215500 +0000" stop="20261113234000 +0000">
 		<title>Cheriya Kallnum Valiya Polisum</title>
 		<desc>Sadasivan discovers a house where Kumaran died by suicide to protect his wife, Soumini. A mysterious blind man's constant presence raises deeper questions about the tragedy.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png?w=341%26h=192" />
@@ -7165,7 +7165,7 @@
 	<programme channel="144" start="20261113200000 +0000" stop="20261113213000 +0000">
 		<title>TV Patrol Weekday Global Edition</title>
 		<desc>TFC continues to bring you the best of Filipino TV, movie and event entertainment, as well as timely news information that directly impacts your community!</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch144_tv_patrol.jpg?w=341%26h=192" />
+		<icon src="https://poster.starhubgo.com/poster/ch144_tv_patrol_weekend.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="144" start="20261113213000 +0000" stop="20261113223000 +0000">
 		<title>Tabing Ilog</title>
@@ -7375,7 +7375,7 @@
 	<programme channel="144" start="20261115090000 +0000" stop="20261115100000 +0000">
 		<title>TV Patrol Linggo Live</title>
 		<desc>TFC continues to bring you the best of Filipino TV, movie and event entertainment, as well as timely news information that directly impacts your community!</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch144_tv_patrol_weekend.jpg?w=960%26h=540" />
+		<icon src="https://poster.starhubgo.com/poster/ch144_tv_patrol.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="144" start="20261115100000 +0000" stop="20261115110000 +0000">
 		<title>Matteo G Primetime</title>
@@ -9304,12 +9304,12 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 		<desc>The Spartan Sprint World Championship is an elite obstacle course racing event featuring a 5-km course packed with 20 signature challenges.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch201_aso.jpg?w=341%26h=192" />
 	</programme>
-	<programme channel="202" start="20261113160000 +0000" stop="20261113180000 +0000">
-		<title>ATP Tour 2026 Bybit Stockholm Open (250) SF 2</title>
+	<programme channel="202" start="20261113160000 +0000" stop="20261113172000 +0000">
+		<title>ATP Tour 2026 Bybit Stockholm Open (250) SF 2 (141126)</title>
 		<desc>The Stockholm Open is the world's oldest indoor ATP tournament and is also the only one played in an indoor arena purpose-built for tennis. It was first staged in 1969. Over the decades, Stockholm has welcomed some of the sport's greatest names.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch202_ATP_250_Bybit_Stockholm_Open.jpg?w=960%26h=540" />
 	</programme>
-	<programme channel="202" start="20261113180000 +0000" stop="20261113183000 +0000">
+	<programme channel="202" start="20261113172000 +0000" stop="20261113183000 +0000">
 		<title>The Football Review 2026</title>
 		<desc>Take a look back at the highlights and incidents that shaped the footballing world!</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch202_the_football_review.jpg?w=341%26h=192" />
@@ -10105,9 +10105,9 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 		<icon src="https://poster.starhubgo.com/poster/ch210_sailgp_racing_on_the_edge_s6.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="210" start="20261115040000 +0000" stop="20261115050000 +0000">
-		<title>2026/27 ALMC, Le Castellet</title>
-		<desc>Teams and drivers compete in the 2026/27 Asian Le Mans Cup, showcasing close endurance racing, strategic pit stops and fierce battles for class honours.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch210_asian_le_mans_cup.jpg?w=960%26h=540" />
+		<title>2026 MotoGP Rd 20 Qatar Airways Grand Prix of Qatar</title>
+		<desc>The 2026 MotoGP sees 22 of the world's best riders battle on 1000cc prototype machines, delivering over 250hp and reaching speeds of 360kph across 22 thrilling Grands Prix in 18 countries.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch210_motogp.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="210" start="20261115050000 +0000" stop="20261115080000 +0000">
 		<title>2026/27 ALMC, Le Castellet</title>
@@ -20241,7 +20241,7 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 	</programme>
 	<programme channel="513" start="20261113160000 +0000" stop="20261113180000 +0000">
 		<title>American Idol 2026 - EP 2</title>
-		<desc>Human emotions is at the heart of American Idol, as we watch ordinary people bring their dreams and ambitions to the famous stage. American Idol contunues to be the world's favourite singing competition!</desc>
+		<desc>Human emotions is at the heart of American Idol, as we watch ordinary people bring their dreams and ambitions to the famous stage. American Idol contunues to be the world’s favourite singing competition!</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch513_AMERICANIDOL2026.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="513" start="20261113180000 +0000" stop="20261113190000 +0000">
@@ -20431,7 +20431,7 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 	</programme>
 	<programme channel="513" start="20261115090000 +0000" stop="20261115100000 +0000">
 		<title>The Miniature Wife - EP 2</title>
-		<desc>Lindy adapts to dollhouse life as Les races to reverse it-until corporate red tape becomes their biggest obstacle.</desc>
+		<desc>Lindy adapts to dollhouse life as Les races to reverse it—until corporate red tape becomes their biggest obstacle.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch513_The_Miniature_Wife.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="513" start="20261115100000 +0000" stop="20261115123000 +0000">
@@ -25386,7 +25386,7 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 	</programme>
 	<programme channel="709" start="20261113220000 +0000" stop="20261113230000 +0000">
 		<title>The Circuit with Emily Chang</title>
-		<desc>A Bloomberg Originals series hosted by Emily Chang that goes behind the scenes with founders, influencers and innovators.</desc>
+		<desc>An inside look at Nvidia CEO Jensen Huang just weeks before he revealed an extramarital affair with a woman the US reportedly suspects to be a Chinese spy.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/709_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
 	<programme channel="709" start="20261113230000 +0000" stop="20261113233000 +0000">
@@ -25761,7 +25761,7 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 	</programme>
 	<programme channel="709" start="20261115123000 +0000" stop="20261115133000 +0000">
 		<title>The Circuit with Emily Chang</title>
-		<desc>A Bloomberg Originals series hosted by Emily Chang that goes behind the scenes with founders, influencers and innovators.</desc>
+		<desc>An inside look at Nvidia CEO Jensen Huang just weeks before he revealed an extramarital affair with a woman the US reportedly suspects to be a Chinese spy.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/709_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
 	<programme channel="709" start="20261115133000 +0000" stop="20261115140000 +0000">
@@ -29841,7 +29841,7 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 	</programme>
 	<programme channel="812" start="20261113173000 +0000" stop="20261113180000 +0000">
 		<title>Asia Insight</title>
-		<desc>An in-depth look at the realities of Asia today -- a dynamic region which faces political, economic, cultural, and technological change.</desc>
+		<desc>Under the Khmer Rouge regime in the 1970s, many Cambodians were forced into marriage against their will. Nearly half a century later, an NGO works to heal the survivors who continue to suffer.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch374_AsiaInsight.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="812" start="20261113180000 +0000" stop="20261113182800 +0000">
@@ -29901,7 +29901,7 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 	</programme>
 	<programme channel="812" start="20261113223000 +0000" stop="20261113230000 +0000">
 		<title>Asia Insight</title>
-		<desc>An in-depth look at the realities of Asia today -- a dynamic region which faces political, economic, cultural, and technological change.</desc>
+		<desc>Under the Khmer Rouge regime in the 1970s, many Cambodians were forced into marriage against their will. Nearly half a century later, an NGO works to heal the survivors who continue to suffer.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch374_AsiaInsight.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="812" start="20261113230000 +0000" stop="20261113231000 +0000">
@@ -30406,7 +30406,7 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 	</programme>
 	<programme channel="812" start="20261115043000 +0000" stop="20261115045700 +0000">
 		<title>Grand Sumo Highlights</title>
-		<desc>A sumo highlights program for fans around the globe. Today the show features all top-division bouts from  November 14, Day 7 of the Grand Sumo Tournament in  Fukuoka.</desc>
+		<desc>A sumo highlights program for fans around the globe. Today the show features all top-division bouts from November 14, Day 7 of the Grand Sumo Tournament in Fukuoka.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch374_GrandSumoHighlights.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="812" start="20261115045700 +0000" stop="20261115050000 +0000">
@@ -30420,9 +30420,9 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 		<icon src="https://poster.starhubgo.com/poster/ch374_NHKNewsline.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="812" start="20261115051000 +0000" stop="20261115052500 +0000">
-		<title>NHK World-Japan Special Programme</title>
-		<desc>NHK World-Japan presents a wide range of programmes from news, current affairs, and documentaries focusing on Japan and Asia.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch374_NHKWorldTVSpecialProgramme.jpg?w=341%26h=192" />
+		<title>Ekiben Japan</title>
+		<desc>The ekiben from Daigo, Ibaraki, features a local breed of Shamo chicken. Here's a story of people who dreamed of creating a local specialty, and two sisters who poured their hearts into making ekiben.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch374_ekiben_japan.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="812" start="20261115052500 +0000" stop="20261115053000 +0000">
 		<title>Core Kyoto Mini</title>
@@ -30445,9 +30445,9 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 		<icon src="https://poster.starhubgo.com/poster/ch374_NHKNewsline.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="812" start="20261115061000 +0000" stop="20261115070000 +0000">
-		<title>Documentary 360</title>
-		<desc>NHK World-Japan's flagship documentary series offers must-see episodes on politics, the economy, social trends, science and the environment in Japan and beyond.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch374_Documentary360.jpg?w=960%26h=540" />
+		<title>Barakan Discovers Okinawa</title>
+		<desc>Peter Barakan meets the people inheriting Okinawa's cultural heritage, to discover how a welcoming and flexible spirit helped the islands to prosper.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch374_barakan_discovers_okinawa.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="812" start="20261115070000 +0000" stop="20261115071000 +0000">
 		<title>NHK Newsline</title>
@@ -30525,9 +30525,9 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 		<icon src="https://poster.starhubgo.com/poster/ch374_NHKNewsline.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="812" start="20261115111000 +0000" stop="20261115112500 +0000">
-		<title>NHK World-Japan Special Programme</title>
-		<desc>NHK World-Japan presents a wide range of programmes from news, current affairs, and documentaries focusing on Japan and Asia.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch374_NHKWorldTVSpecialProgramme.jpg?w=341%26h=192" />
+		<title>Ekiben Japan</title>
+		<desc>The ekiben from Daigo, Ibaraki, features a local breed of Shamo chicken. Here's a story of people who dreamed of creating a local specialty, and two sisters who poured their hearts into making ekiben.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch374_ekiben_japan.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="812" start="20261115112500 +0000" stop="20261115113000 +0000">
 		<title>Core Kyoto Mini</title>
@@ -30550,9 +30550,9 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 		<icon src="https://poster.starhubgo.com/poster/ch374_NHKNewsline.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="812" start="20261115121000 +0000" stop="20261115130000 +0000">
-		<title>Documentary 360</title>
-		<desc>NHK World-Japan's flagship documentary series offers must-see episodes on politics, the economy, social trends, science and the environment in Japan and beyond.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch374_Documentary360.jpg?w=960%26h=540" />
+		<title>Barakan Discovers Okinawa</title>
+		<desc>Peter Barakan meets the people inheriting Okinawa's cultural heritage, to discover how a welcoming and flexible spirit helped the islands to prosper.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch374_barakan_discovers_okinawa.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="812" start="20261115130000 +0000" stop="20261115131000 +0000">
 		<title>NHK Newsline</title>
