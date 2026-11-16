@@ -3738,13 +3738,13 @@
 		<icon src="https://poster.starhubgo.com/poster/ch123_Cupcake_Mama.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="125" start="20261115140000 +0000" stop="20261115170000 +0000">
-		<title>Movie</title>
-		<desc>The movie name is yet to be announced by the channel.</desc>
+		<title>Hai Jawani Toh Ishq Hona Hai</title>
+		<desc>When family planning disagreements end their marriage, Jas finds love abroad, but hidden secrets and tangled relationships soon complicate his new beginning.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/125_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
 	<programme channel="125" start="20261115170000 +0000" stop="20261115200000 +0000">
-		<title>Movie</title>
-		<desc>The movie name is yet to be announced by the channel.</desc>
+		<title>Hai Jawani Toh Ishq Hona Hai</title>
+		<desc>When family planning disagreements end their marriage, Jas finds love abroad, but hidden secrets and tangled relationships soon complicate his new beginning.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/125_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
 	<programme channel="125" start="20261115200000 +0000" stop="20261115203000 +0000">
@@ -9799,17 +9799,22 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 		<desc>The Annika is a professional LPGA golf tournament that takes place at the Pelican Golf Club in Florida. Launched in 2020, it quickly established itself as a must-play stop on the LPGA calendar, drawing top talent from around the world and showcasing elite women’s golf in a world-class setting.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch203_lpga_tour.jpg?w=960%26h=540" />
 	</programme>
-	<programme channel="203" start="20261116160000 +0000" stop="20261116220000 +0000">
+	<programme channel="203" start="20261116160000 +0000" stop="20261116170000 +0000">
+		<title>End of Transmission</title>
+		<desc>End of Transmission</desc>
+		<icon src="https://poster.starhubgo.com/Linear_Channels2/203_1920x1080_HTV.png?w=341%26h=192" />
+	</programme>
+	<programme channel="203" start="20261116170000 +0000" stop="20261116210000 +0000">
+		<title>PGA Tour 2026</title>
+		<desc>The Austin Championship will be held at the Omni Barton Creek Resort %26 Spa’s Fazio Canyons Course, and is part of the FedExCup Fall.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch203_PGA_TOUR.jpg?w=341%26h=192" />
+	</programme>
+	<programme channel="203" start="20261116210000 +0000" stop="20261116220000 +0000">
 		<title>End of Transmission</title>
 		<desc>End of Transmission</desc>
 		<icon src="https://poster.starhubgo.com/Linear_Channels2/203_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
 	<programme channel="203" start="20261116220000 +0000" stop="20261117040000 +0000">
-		<title>End of Transmission</title>
-		<desc>End of Transmission</desc>
-		<icon src="https://poster.starhubgo.com/Linear_Channels2/203_1920x1080_HTV.png?w=341%26h=192" />
-	</programme>
-	<programme channel="203" start="20261117040000 +0000" stop="20261117100000 +0000">
 		<title>End of Transmission</title>
 		<desc>End of Transmission</desc>
 		<icon src="https://poster.starhubgo.com/Linear_Channels2/203_1920x1080_HTV.png?w=341%26h=192" />
@@ -19971,12 +19976,12 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 	</programme>
 	<programme channel="509" start="20261116151500 +0000" stop="20261116160000 +0000">
 		<title>The Tonight Show Starring Jimmy Fallon S14 - EP 27</title>
-		<desc>Emmy and Grammy Award-winning comedian Jimmy Fallon brings his unique high-energy comedy to the storied 60-year NBC franchise with his welcoming interview style, love of audience participation, spot-on impersonations and innovative sketches.</desc>
+		<desc>Guests include Dustin Hoffman, Skyler Gisondo, Donovan Mitchell and musical guest Tinashe. Emmy and Grammy Award-winning comedian Jimmy Fallon brings his unique high-energy comedy to the storied 60-year NBC franchise with his welcoming interview style, love of audience participation, spot-on impersonations and innovative sketches.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch509_The_Tonight_Show_Starring_Jimmy_Fallon_S14.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="509" start="20261116160000 +0000" stop="20261116164500 +0000">
 		<title>Late Night With Seth Meyers S14 - EP 27</title>
-		<desc>Late Night with Seth Meyers is executive produced by the Emmy Award-winning Lorne Michaels and is home to A-list celebrity guests, memorable comedy and the best in musical talent.</desc>
+		<desc>Guests include Dustin Hoffman (Look at Me) and James Acaster. Late Night with Seth Meyers is executive produced by the Emmy Award-winning Lorne Michaels and is home to A-list celebrity guests, memorable comedy and the best in musical talent.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch509_Late_Night_With_Seth_Meyers_S14.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="509" start="20261116164500 +0000" stop="20261116173000 +0000">
@@ -20021,12 +20026,12 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 	</programme>
 	<programme channel="509" start="20261116220000 +0000" stop="20261116224500 +0000">
 		<title>Late Night With Seth Meyers S14 - EP 27</title>
-		<desc>Late Night with Seth Meyers is executive produced by the Emmy Award-winning Lorne Michaels and is home to A-list celebrity guests, memorable comedy and the best in musical talent.</desc>
+		<desc>Guests include Dustin Hoffman (Look at Me) and James Acaster. Late Night with Seth Meyers is executive produced by the Emmy Award-winning Lorne Michaels and is home to A-list celebrity guests, memorable comedy and the best in musical talent.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch509_Late_Night_With_Seth_Meyers_S14.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="509" start="20261116224500 +0000" stop="20261116233000 +0000">
 		<title>The Tonight Show Starring Jimmy Fallon S14 - EP 27</title>
-		<desc>Emmy and Grammy Award-winning comedian Jimmy Fallon brings his unique high-energy comedy to the storied 60-year NBC franchise with his welcoming interview style, love of audience participation, spot-on impersonations and innovative sketches.</desc>
+		<desc>Guests include Dustin Hoffman, Skyler Gisondo, Donovan Mitchell and musical guest Tinashe. Emmy and Grammy Award-winning comedian Jimmy Fallon brings his unique high-energy comedy to the storied 60-year NBC franchise with his welcoming interview style, love of audience participation, spot-on impersonations and innovative sketches.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch509_The_Tonight_Show_Starring_Jimmy_Fallon_S14.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="509" start="20261116233000 +0000" stop="20261117001500 +0000">
@@ -20056,12 +20061,12 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 	</programme>
 	<programme channel="509" start="20261117031500 +0000" stop="20261117040000 +0000">
 		<title>The Tonight Show Starring Jimmy Fallon S14 - EP 27</title>
-		<desc>Emmy and Grammy Award-winning comedian Jimmy Fallon brings his unique high-energy comedy to the storied 60-year NBC franchise with his welcoming interview style, love of audience participation, spot-on impersonations and innovative sketches.</desc>
+		<desc>Guests include Dustin Hoffman, Skyler Gisondo, Donovan Mitchell and musical guest Tinashe. Emmy and Grammy Award-winning comedian Jimmy Fallon brings his unique high-energy comedy to the storied 60-year NBC franchise with his welcoming interview style, love of audience participation, spot-on impersonations and innovative sketches.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch509_The_Tonight_Show_Starring_Jimmy_Fallon_S14.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="509" start="20261117040000 +0000" stop="20261117044500 +0000">
 		<title>Late Night With Seth Meyers S14 - EP 27</title>
-		<desc>Late Night with Seth Meyers is executive produced by the Emmy Award-winning Lorne Michaels and is home to A-list celebrity guests, memorable comedy and the best in musical talent.</desc>
+		<desc>Guests include Dustin Hoffman (Look at Me) and James Acaster. Late Night with Seth Meyers is executive produced by the Emmy Award-winning Lorne Michaels and is home to A-list celebrity guests, memorable comedy and the best in musical talent.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch509_Late_Night_With_Seth_Meyers_S14.jpg?w=960%26h=540" />
 	</programme>
 	<programme channel="509" start="20261117044500 +0000" stop="20261117052500 +0000">
@@ -20136,7 +20141,7 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
 	</programme>
 	<programme channel="509" start="20261117151500 +0000" stop="20261117160000 +0000">
 		<title>The Tonight Show Starring Jimmy Fallon S14 - EP 28</title>
-		<desc>Emmy and Grammy Award-winning comedian Jimmy Fallon brings his unique high-energy comedy to the storied 60-year NBC franchise with his welcoming interview style, love of audience participation, spot-on impersonations and innovative sketches.</desc>
+		<desc>Guests include Jessica Chastain, Taylor Kinney and musical guest Brothers Osborne. Emmy and Grammy Award-winning comedian Jimmy Fallon brings his unique high-energy comedy to the storied 60-year NBC franchise with his welcoming interview style, love of audience participation, spot-on impersonations and innovative sketches.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch509_The_Tonight_Show_Starring_Jimmy_Fallon_S14.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="511" start="20261115153000 +0000" stop="20261115162000 +0000">
@@ -28587,7 +28592,7 @@ An international team of reporters will follow the guidance of Occam's Razor - t
 		<icon src="https://poster.starhubgo.com/Linear_channels2/805_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
 	<programme channel="805" start="20261116020000 +0000" stop="20261116030000 +0000">
-		<title>News On The Hour (16/11/26)</title>
+		<title>Shared Prosperity Special (16/11/26, 1000-1100)</title>
 		<desc>Phoenix Chinese Channel offers Chinese viewers across the globe a full range of quality programmes, including long-running favourites covering a broad spectrum of issues from current affairs, exclusive interviews, documentaries and financial analysis to culture and entertainment features.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/805_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
@@ -28622,7 +28627,7 @@ An international team of reporters will follow the guidance of Occam's Razor - t
 		<icon src="https://poster.starhubgo.com/Linear_channels2/805_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
 	<programme channel="805" start="20261116070000 +0000" stop="20261116080000 +0000">
-		<title>News On The Hour (16/11/26)</title>
+		<title>Shared Prosperity Special (16/11/26, 1500-1600)</title>
 		<desc>Phoenix Chinese Channel offers Chinese viewers across the globe a full range of quality programmes, including long-running favourites covering a broad spectrum of issues from current affairs, exclusive interviews, documentaries and financial analysis to culture and entertainment features.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/805_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
@@ -28631,8 +28636,13 @@ An international team of reporters will follow the guidance of Occam's Razor - t
 		<desc>Phoenix Chinese Channel offers Chinese viewers across the globe a full range of quality programmes, including long-running favourites covering a broad spectrum of issues from current affairs, exclusive interviews, documentaries and financial analysis to culture and entertainment features.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/805_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
-	<programme channel="805" start="20261116083000 +0000" stop="20261116090000 +0000">
+	<programme channel="805" start="20261116083000 +0000" stop="20261116085500 +0000">
 		<title>The Great Era - EP 1684</title>
+		<desc>Phoenix Chinese Channel offers Chinese viewers across the globe a full range of quality programmes, including long-running favourites covering a broad spectrum of issues from current affairs, exclusive interviews, documentaries and financial analysis to culture and entertainment features.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/805_1920x1080_HTV.png?w=341%26h=192" />
+	</programme>
+	<programme channel="805" start="20261116085500 +0000" stop="20261116090000 +0000">
+		<title>The SHG Innovation Front - EP 1</title>
 		<desc>Phoenix Chinese Channel offers Chinese viewers across the globe a full range of quality programmes, including long-running favourites covering a broad spectrum of issues from current affairs, exclusive interviews, documentaries and financial analysis to culture and entertainment features.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/805_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
@@ -28691,13 +28701,8 @@ An international team of reporters will follow the guidance of Occam's Razor - t
 		<desc>Phoenix Chinese Channel offers Chinese viewers across the globe a full range of quality programmes, including long-running favourites covering a broad spectrum of issues from current affairs, exclusive interviews, documentaries and financial analysis to culture and entertainment features.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/805_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
-	<programme channel="805" start="20261116150000 +0000" stop="20261116153000 +0000">
-		<title>Chief Editor's Time (16/11/26)</title>
-		<desc>Phoenix Chinese Channel offers Chinese viewers across the globe a full range of quality programmes, including long-running favourites covering a broad spectrum of issues from current affairs, exclusive interviews, documentaries and financial analysis to culture and entertainment features.</desc>
-		<icon src="https://poster.starhubgo.com/Linear_channels2/805_1920x1080_HTV.png?w=341%26h=192" />
-	</programme>
-	<programme channel="805" start="20261116153000 +0000" stop="20261116160000 +0000">
-		<title>Asian Financial Insight - EP 1269</title>
+	<programme channel="805" start="20261116150000 +0000" stop="20261116160000 +0000">
+		<title>Phoenix Focus 2300 (16/11/26)</title>
 		<desc>Phoenix Chinese Channel offers Chinese viewers across the globe a full range of quality programmes, including long-running favourites covering a broad spectrum of issues from current affairs, exclusive interviews, documentaries and financial analysis to culture and entertainment features.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/805_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
@@ -28716,8 +28721,13 @@ An international team of reporters will follow the guidance of Occam's Razor - t
 		<desc>Phoenix Chinese Channel offers Chinese viewers across the globe a full range of quality programmes, including long-running favourites covering a broad spectrum of issues from current affairs, exclusive interviews, documentaries and financial analysis to culture and entertainment features.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/805_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
-	<programme channel="805" start="20261116180000 +0000" stop="20261116183000 +0000">
+	<programme channel="805" start="20261116180000 +0000" stop="20261116182500 +0000">
 		<title>The Great Era - EP 1684</title>
+		<desc>Phoenix Chinese Channel offers Chinese viewers across the globe a full range of quality programmes, including long-running favourites covering a broad spectrum of issues from current affairs, exclusive interviews, documentaries and financial analysis to culture and entertainment features.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/805_1920x1080_HTV.png?w=341%26h=192" />
+	</programme>
+	<programme channel="805" start="20261116182500 +0000" stop="20261116183000 +0000">
+		<title>The SHG Innovation Front - EP 1</title>
 		<desc>Phoenix Chinese Channel offers Chinese viewers across the globe a full range of quality programmes, including long-running favourites covering a broad spectrum of issues from current affairs, exclusive interviews, documentaries and financial analysis to culture and entertainment features.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/805_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
@@ -28756,8 +28766,13 @@ An international team of reporters will follow the guidance of Occam's Razor - t
 		<desc>Phoenix Chinese Channel offers Chinese viewers across the globe a full range of quality programmes, including long-running favourites covering a broad spectrum of issues from current affairs, exclusive interviews, documentaries and financial analysis to culture and entertainment features.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/805_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
-	<programme channel="805" start="20261116220000 +0000" stop="20261116223000 +0000">
+	<programme channel="805" start="20261116220000 +0000" stop="20261116222500 +0000">
 		<title>The Great Era - EP 1684</title>
+		<desc>Phoenix Chinese Channel offers Chinese viewers across the globe a full range of quality programmes, including long-running favourites covering a broad spectrum of issues from current affairs, exclusive interviews, documentaries and financial analysis to culture and entertainment features.</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/805_1920x1080_HTV.png?w=341%26h=192" />
+	</programme>
+	<programme channel="805" start="20261116222500 +0000" stop="20261116223000 +0000">
+		<title>The SHG Innovation Front - EP 1</title>
 		<desc>Phoenix Chinese Channel offers Chinese viewers across the globe a full range of quality programmes, including long-running favourites covering a broad spectrum of issues from current affairs, exclusive interviews, documentaries and financial analysis to culture and entertainment features.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/805_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
