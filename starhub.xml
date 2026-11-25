@@ -922,9 +922,14 @@
 		<desc>Marco Polo is about to return home to Venice when he discovers that his friend Shi La is not an orphan! To find her long-lost mother, Marco, Shi La, and Luigi set out on an adventurous journey across new countries!</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
-	<programme channel="102" start="20261126060000 +0000" stop="20261126063000 +0000">
+	<programme channel="102" start="20261126060000 +0000" stop="20261126061500 +0000">
 		<title>Cloudy With a Chance of Meatballs S1 - EP 8</title>
 		<desc>In this prequel to the 2009 film, inventor boy Flint Lockwood and reporter girl Sam Sparks as best friends during high school!</desc>
+		<icon src="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png?w=341%26h=192" />
+	</programme>
+	<programme channel="102" start="20261126061500 +0000" stop="20261126063000 +0000">
+		<title>The Adventures Of Luggy - EP 3</title>
+		<desc>Despite DJ Blaze's efforts to halt the Compactor from crushing Luggy to bits, their peace was only temporary. With the help of his newfound friend BONNIE, DJ Blaze scrambles to save Luggy. They find a way back home to Zachary, but mysterious smoke rises out of the blue just as they are about to leave NERD. At the park, Zippy struggles to care for Pee Wee despite Mdm Woofalot's nudges. A helpless Zachary tries his best to comfort a distressed Pee Wee.</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
 	<programme channel="102" start="20261126063000 +0000" stop="20261126064500 +0000">
@@ -1374,7 +1379,7 @@
 	</programme>
 	<programme channel="103" start="20261126143000 +0000" stop="20261126150000 +0000">
 		<title>Focus - EP 35</title>
-		<desc>Focus provides timely reports and analyses on international news and current affairs from Singapore's perspective.</desc>
+		<desc>Can the Shen Wave and Blue-White alliance reshape Taiwan’s local elections and set the stage for the 2028 presidential race? The US, China and Russia agree that nuclear war must never be fought. But can their peace declaration ease tensions and reduce nuclear risks? Does the Shenzhen summit a modern-day Yalta, where major powers shape the world order?</desc>
 		<icon src="https://poster.starhubgo.com/Linear_channels2/103_1920x1080_HTV.png?w=341%26h=192" />
 	</programme>
 	<programme channel="103" start="20261126150000 +0000" stop="20261126160000 +0000">
@@ -9792,10 +9797,20 @@
 		<desc>The Delray Beach Open is a professional tennis tournament held at the Delray Beach Tennis Center in Florida on outdoor hard courts. It was founded in 1993 in Coral Springs before moving to Delray Beach in 1999. It has become a premier event, attracting over 60,000 spectators annually.</desc>
 		<icon src="https://poster.starhubgo.com/poster/ch201_ATPTour2026DelrayBeachOpen250.jpg?w=341%26h=192" />
 	</programme>
-	<programme channel="201" start="20261125233000 +0000" stop="20261126043000 +0000">
-		<title>HSBC BWF World Tour 2026</title>
-		<desc>The Hong Kong Open is an annual badminton tournament held in Hong Kong, China. Established in 1982, it is held at Hong Kong Coliseum and has a prize pool of USD $500,000.</desc>
-		<icon src="https://poster.starhubgo.com/poster/ch201_BWF_2026_Hong_Kong_Open.jpg?w=341%26h=192" />
+	<programme channel="201" start="20261125233000 +0000" stop="20261126010000 +0000">
+		<title>Nitto ATP Finals 2026</title>
+		<desc>The ATP Finals is the season-ending championship of the ATP Tour. It is the most significant tennis event in the men's annual calendar after the four majors. The event features the world's best eight qualified singles players and doubles teams.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch201_Nitto_ATP_Finals_2026.jpg?w=341%26h=192" />
+	</programme>
+	<programme channel="201" start="20261126010000 +0000" stop="20261126023000 +0000">
+		<title>Nitto ATP Finals 2026</title>
+		<desc>The ATP Finals is the season-ending championship of the ATP Tour. It is the most significant tennis event in the men's annual calendar after the four majors. The event features the world's best eight qualified singles players and doubles teams.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch201_Nitto_ATP_Finals_2026.jpg?w=341%26h=192" />
+	</programme>
+	<programme channel="201" start="20261126023000 +0000" stop="20261126043000 +0000">
+		<title>Nitto ATP Finals 2026</title>
+		<desc>The ATP Finals is the season-ending championship of the ATP Tour. It is the most significant tennis event in the men's annual calendar after the four majors. The event features the world's best eight qualified singles players and doubles teams.</desc>
+		<icon src="https://poster.starhubgo.com/poster/ch201_Nitto_ATP_Finals_2026.jpg?w=341%26h=192" />
 	</programme>
 	<programme channel="201" start="20261126043000 +0000" stop="20261126090000 +0000">
 		<title>Davis Cup by Generali Finals 2026 QF 2: Italy vs Korea Republic</title>
